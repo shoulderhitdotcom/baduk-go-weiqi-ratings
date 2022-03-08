@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-07 | 第3期名人冠軍戦3回戦  | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3411.0 | 15.0 | 
-| 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Lixiang | Xu Haohong | Win | W+R | 7.5 | 3396.0 | -3.0 | 
-| 2022-02-25 | 第14回春蘭杯台湾予選 | Lu Yiquan | Xu Haohong | Win | W+R | 7.5 | 3399.0 | 1.0 | 
-| 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3398.0 | 13.0 | 
-| 2022-02-21 | 第3期名人冠軍戦1回戦 | Xu Haohong |  | Win | B+R | 6.5 | 3385.0 | -12.0 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3413.0 | 2.0 | 
+| 2022-03-07 | 第3期名人冠軍戦3回戦  | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3411.0 | 14.0 | 
+| 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Lixiang | Xu Haohong | Win | W+R | 7.5 | 3397.0 | -3.0 | 
+| 2022-02-25 | 第14回春蘭杯台湾予選 | Lu Yiquan | Xu Haohong | Win | W+R | 7.5 | 3400.0 | 1.0 | 
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3399.0 | 13.0 | 
+| 2022-02-21 | 第3期名人冠軍戦1回戦 | Xu Haohong |  | Win | B+R | 6.5 | 3386.0 | -11.0 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Chen Qirui | Xu Haohong | Lose | B+R | 6.5 | 3397.0 | -27.0 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3424.0 | -13.0 | 
 | 2022-01-27 | 第14回海峰杯プロ囲碁戦決勝三番勝負第2局  | Lin Junyan | Xu Haohong | Win | W+4.5 | 6.5 | 3437.0 | 0.0 | 
@@ -40,19 +41,19 @@
 | 2021-11-18 | 第14期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Lin Junyan | Lose | W+R | 6.5 | 3329.0 | 14.0 | 
 | 2021-11-15 | 第14期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3315.0 | -10.0 | 
 | 2021-11-11 | 第14期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3325.0 | 0.0 | 
-| 2021-11-08 | 第14期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3325.0 | 4.0 | 
-| 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3321.0 | -26.0 | 
+| 2021-11-08 | 第14期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3325.0 | 3.0 | 
+| 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3322.0 | -25.0 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Xu Haohong | Chen Shiyuan | Win | B+R | 6.5 | 3347.0 | 1.0 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Lai Junfu | Xu Haohong | Win | W+2.5 | 6.5 | 3346.0 | 7.0 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3339.0 | -2.0 | 
 | 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3341.0 | 2.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Fan Yin | Xu Haohong | Lose | B+R | 7.5 | 3339.0 | -8.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Zerui | Lose | W+R | 7.5 | 3347.0 | -17.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Win | B+¾ | 7.5 | 3364.0 | 6.0 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Lin Shuyang | Xu Haohong | Win | W+R | 6.5 | 3358.0 | 0.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Zerui | Lose | W+R | 7.5 | 3347.0 | -18.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Win | B+¾ | 7.5 | 3365.0 | 6.0 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Shuyang | Xu Haohong | Win | W+R | 6.5 | 3359.0 | 1.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Lose | W+R | 7.5 | 3358.0 | 3.0 | 
-| 2021-09-17 | 第9期中環碁聖戦 |  | Xu Haohong | Win | W+R | 6.5 | 3355.0 | -7.0 | 
-| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Lose | B+R | 6.5 | 3362.0 | -41.0 | 
+| 2021-09-17 | 第9期中環碁聖戦 |  | Xu Haohong | Win | W+R | 6.5 | 3355.0 | -8.0 | 
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Lose | B+R | 6.5 | 3363.0 | -40.0 | 
 | 2021-08-31 | 第2期聯電杯プロ囲碁戦リーグ残留プレーオフ | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3403.0 | 1.0 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | Lose | W+R | 6.5 | 3402.0 | 5.0 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong |  | Win | B+R | 6.5 | 3397.0 | -18.0 | 
@@ -86,8 +87,8 @@
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Xu Haohong | Motoki Katsuya | Win | B+R | 6.5 | 3244.0 | 0.0 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Ichiriki Ryo | Xu Haohong | Lose | B+R | 6.5 | 3244.0 | -75.0 | 
 | 2021-04-15 | 第2期名人冠軍戦決勝七番勝負第2局  | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3319.0 | 7.0 | 
-| 2021-04-11 | 第26回LG杯台湾予選 | Chen Qirui | Xu Haohong | Lose | B+R | 6.5 | 3312.0 | -19.0 | 
-| 2021-04-08 | 第2期名人冠軍戦決勝七番勝負第1局  | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3331.0 | -15.0 | 
+| 2021-04-11 | 第26回LG杯台湾予選 | Chen Qirui | Xu Haohong | Lose | B+R | 6.5 | 3312.0 | -20.0 | 
+| 2021-04-08 | 第2期名人冠軍戦決勝七番勝負第1局  | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3332.0 | -14.0 | 
 | 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3346.0 | -2.0 | 
 | 2021-03-18 | 第2期名人冠軍戦準決勝第1局 | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3348.0 | 10.0 | 
 | 2021-03-15 | 第2期名人冠軍戦3回戦  | Xu Haohong | Lu Yiquan | Win | B+R | 6.5 | 3338.0 | 11.0 | 
@@ -100,16 +101,16 @@
 | 2021-02-26 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Xu Haohong | Win | W+R | 6.5 | 3332.0 | -3.0 | 
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lu Yiquan | Lose | W+R | 6.5 | 3335.0 | -19.0 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Lixiang | Xu Haohong | Win | W+0.5 | 6.5 | 3354.0 | 52.0 | 
-| 2021-02-04 | 第13回海峰杯プロ囲碁戦決勝三番勝負第2局  | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3302.0 | 4.0 | 
-| 2021-02-01 | 第13回海峰杯プロ囲碁戦決勝三番勝負第1局  | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3298.0 | 22.0 | 
+| 2021-02-04 | 第13回海峰杯プロ囲碁戦決勝三番勝負第2局  | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3302.0 | 3.0 | 
+| 2021-02-01 | 第13回海峰杯プロ囲碁戦決勝三番勝負第1局  | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3299.0 | 23.0 | 
 | 2021-01-28 | 第13回海峰杯プロ囲碁戦準決勝 | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3276.0 | -2.0 | 
 | 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Xiao Zhenghao | Xu Haohong | Win | W+R | 6.5 | 3278.0 | 60.0 | 
 | 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Xu Haohong | Lose | B+R | 7.5 | 3218.0 | -32.0 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xu Haohong | Zhang Zhehao | Win | B+8.5 | 6.5 | 3250.0 | 7.0 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3243.0 | 2.0 | 
-| 2020-12-24 | 第13期棋王戦（台湾）挑戦手合七番勝負第5局  | Wang Yuanjun | Xu Haohong | Win | W+R | 6.5 | 3241.0 | -14.0 | 
-| 2020-12-21 | 第13期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3255.0 | 2.0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Xu Haohong | Win | W+¼ | 7.5 | 3253.0 | 35.0 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3243.0 | 1.0 | 
+| 2020-12-24 | 第13期棋王戦（台湾）挑戦手合七番勝負第5局  | Wang Yuanjun | Xu Haohong | Win | W+R | 6.5 | 3242.0 | -14.0 | 
+| 2020-12-21 | 第13期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3256.0 | 2.0 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Xu Haohong | Win | W+¼ | 7.5 | 3254.0 | 36.0 | 
 | 2020-12-18 | 第8期中環碁聖戦決勝三番勝負第3局 | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3218.0 | -2.0 | 
 | 2020-12-17 | 第13期棋王戦（台湾）挑戦手合七番勝負第3局  | Wang Yuanjun | Xu Haohong | Win | W+R | 6.5 | 3220.0 | 23.0 | 
 | 2020-12-15 | 第16期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3197.0 | 8.0 | 
@@ -119,13 +120,13 @@
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Xian | Xu Haohong | Win | W+1¼ | 7.5 | 3206.0 | 37.0 | 
 | 2020-12-08 | 第16期国手戦（台湾）挑戦手合五番勝負第3局 | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3169.0 | 4.0 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Xu Haohong | Hu Yaoyu | Lose | W+R | 7.5 | 3165.0 | -16.0 | 
-| 2020-12-03 | 第1期名人冠軍戦決勝七番勝負第6局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3181.0 | -22.0 | 
-| 2020-12-01 | 第16期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3203.0 | 7.0 | 
-| 2020-11-30 | 第1期名人冠軍戦決勝七番勝負第5局  | Xu Haohong | Lin Junyan | Win | B+2.5 | 6.5 | 3196.0 | 4.0 | 
-| 2020-11-29 | 第8期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3192.0 | 1.0 | 
-| 2020-11-28 | 第1回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Lin Junyan | Lose | W+R | 6.5 | 3191.0 | -7.0 | 
-| 2020-11-27 | 第16期国手戦（台湾）挑戦手合五番勝負第1局 | Xu Haohong | Chen Qirui | Lose | W+R | 6.5 | 3198.0 | -12.0 | 
-| 2020-11-26 | 第1期名人冠軍戦決勝七番勝負第4局  | Lin Junyan | Xu Haohong | Lose | B+1.5 | 6.5 | 3210.0 | -41.0 | 
+| 2020-12-03 | 第1期名人冠軍戦決勝七番勝負第6局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3181.0 | -23.0 | 
+| 2020-12-01 | 第16期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3204.0 | 7.0 | 
+| 2020-11-30 | 第1期名人冠軍戦決勝七番勝負第5局  | Xu Haohong | Lin Junyan | Win | B+2.5 | 6.5 | 3197.0 | 4.0 | 
+| 2020-11-29 | 第8期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3193.0 | 1.0 | 
+| 2020-11-28 | 第1回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Lin Junyan | Lose | W+R | 6.5 | 3192.0 | -7.0 | 
+| 2020-11-27 | 第16期国手戦（台湾）挑戦手合五番勝負第1局 | Xu Haohong | Chen Qirui | Lose | W+R | 6.5 | 3199.0 | -12.0 | 
+| 2020-11-26 | 第1期名人冠軍戦決勝七番勝負第4局  | Lin Junyan | Xu Haohong | Lose | B+1.5 | 6.5 | 3211.0 | -40.0 | 
 | 2020-11-23 | 第1期名人冠軍戦決勝七番勝負第3局  | Xu Haohong | Lin Junyan | Lose | W+R | 6.5 | 3251.0 | -9.0 | 
 | 2020-11-22 | 第8期中環碁聖戦準決勝 | Xu Haohong | Xiao Zhenghao | Win | B+R | 6.5 | 3260.0 | -17.0 | 
 | 2020-11-19 | 第1期名人冠軍戦決勝七番勝負第2局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3277.0 | -9.0 | 
@@ -146,9 +147,9 @@
 | 2020-10-18 | 第8期中環碁聖戦4回戦 | Xu Haohong | Ding Shaojie | Win | B+R | 6.5 | 3328.0 | -55.0 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3383.0 | 9.0 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 |  | Xu Haohong | Win | W+2.5 | 6.5 | 3374.0 | 0.0 | 
-| 2020-09-11 | 第9回応氏杯世界選手権3回戦  | Xu Haohong | Zhao Chenyu | Lose | W+R | 7.5 | 3374.0 | -4.0 | 
-| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Hsu Chiayuan | Xu Haohong | Win | W+R | 7.5 | 3378.0 | 1.0 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Xu Haohong | Byun Sangil | Win | B+R | 7.5 | 3377.0 | 24.0 | 
+| 2020-09-11 | 第9回応氏杯世界選手権3回戦  | Xu Haohong | Zhao Chenyu | Lose | W+R | 7.5 | 3374.0 | -5.0 | 
+| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Hsu Chiayuan | Xu Haohong | Win | W+R | 7.5 | 3379.0 | 1.0 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Xu Haohong | Byun Sangil | Win | B+R | 7.5 | 3378.0 | 25.0 | 
 | 2020-09-02 | 第25回三星火災杯台湾代表選抜戦 | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3353.0 | 1.0 | 
 | 2020-09-01 | 第25回三星火災杯台湾代表選抜戦 |  | Xu Haohong | Win | W+R | 6.5 | 3352.0 | -2.0 | 
 | 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Xu Haohong | Win | W+R | 6.5 | 3354.0 | -2.0 | 
@@ -156,8 +157,8 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Xu Haohong |  | Win | B+R | 7.5 | 3367.0 | -4.0 | 
 | 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Chen Shiyuan | Xu Haohong | Win | W+1.5 | 6.5 | 3371.0 | -4.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Xu Haohong | Ding Shixiong | Win | B+R | 7.5 | 3375.0 | -19.0 | 
-| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | Win | B+R | 6.5 | 3394.0 | -56.0 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Chen Yaoye | Win | B+1.5 | 7.5 | 3450.0 | 14.0 | 
+| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | Win | B+R | 6.5 | 3394.0 | -57.0 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Chen Yaoye | Win | B+1.5 | 7.5 | 3451.0 | 15.0 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Shi Yue | Xu Haohong | Win | W+R | 7.5 | 3436.0 | 12.0 | 
 | 2020-07-23 | 第1期名人冠軍戦3回戦 | Xu Haohong | Chen Xi | Win | B+R | 6.5 | 3424.0 | 5.0 | 
 | 2020-07-20 | 第1期名人冠軍戦2回戦 | Xu Haohong | Xu Yuqi | Win | B+R | 6.5 | 3419.0 | -6.0 | 
@@ -197,8 +198,8 @@
 | 2020-01-17 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Lixiang | Xu Haohong | Win | W+R | 7.5 | 3488.0 | -4.0 | 
 | 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Haohong | Lin Shixun | Win | B+R | 7.5 | 3492.0 | 0.0 | 
 | 2020-01-12 | 第13回春蘭杯台湾予選 | Lin Junyan | Xu Haohong | Win | W+0.5 | 7.5 | 3492.0 | 4.0 | 
-| 2020-01-11 | 第13回春蘭杯台湾予選 | Xu Haohong | Xu Jingen | Win | B+R | 7.5 | 3488.0 | -18.0 | 
-| 2019-12-25 | 第13回春蘭杯台湾予選 | Lin Shixun | Xu Haohong | Win | W+R | 7.5 | 3506.0 | -6.0 | 
+| 2020-01-11 | 第13回春蘭杯台湾予選 | Xu Haohong | Xu Jingen | Win | B+R | 7.5 | 3488.0 | -19.0 | 
+| 2019-12-25 | 第13回春蘭杯台湾予選 | Lin Shixun | Xu Haohong | Win | W+R | 7.5 | 3507.0 | -5.0 | 
 | 2019-12-17 | 第15期国手戦（台湾）挑戦手合五番勝負第3局 | Wang Yuanjun | Xu Haohong | Win | W+6.5 | 6.5 | 3512.0 | -14.0 | 
 | 2019-12-10 | 第15期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Wang Yuanjun | Win | B+4.5 | 6.5 | 3526.0 | 30.0 | 
 | 2019-12-02 | 第12期棋王戦（台湾）リーグ  | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3496.0 | 0.0 | 
@@ -209,8 +210,8 @@
 | 2019-11-14 | 第12期棋王戦（台湾）リーグ  | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3492.0 | -3.0 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Xu Haohong | Park Geunho | Win | B+R | 6.5 | 3495.0 | 18.0 | 
 | 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Park Junghwan | Xu Haohong | Lose | B+R | 6.5 | 3477.0 | 0.0 | 
-| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Xu Haohong | Lee Yeongkyu | Win | B+R | 6.5 | 3477.0 | 16.0 | 
-| 2019-11-05 | 第15期国手戦（台湾）挑戦手合五番勝負第1局 | Wang Yuanjun | Xu Haohong | Win | W+1.5 | 6.5 | 3461.0 | -4.0 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Xu Haohong | Lee Yeongkyu | Win | B+R | 6.5 | 3477.0 | 15.0 | 
+| 2019-11-05 | 第15期国手戦（台湾）挑戦手合五番勝負第1局 | Wang Yuanjun | Xu Haohong | Win | W+1.5 | 6.5 | 3462.0 | -3.0 | 
 | 2019-11-03 | 第7期中環碁聖戦決勝三番勝負第2局 | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3465.0 | -20.0 | 
 | 2019-10-29 | 第15期国手戦（台湾）挑戦者決定戦 | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3485.0 | 11.0 | 
 | 2019-10-27 | 第7期中環碁聖戦決勝三番勝負第1局 | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3474.0 | -15.0 | 
@@ -229,9 +230,9 @@
 | 2019-09-15 | 第7期中環碁聖戦2回戦 | Xu Haohong | Zhou Yinnan | Win | B+R | 6.5 | 3385.0 | 5.0 | 
 | 2019-09-08 | 第7期中環碁聖戦1回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3380.0 | -4.0 | 
 | 2019-09-03 | 第15期国手戦（台湾）1回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3384.0 | 37.0 | 
-| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Xu Haohong | Shin Jinseo | Lose | W+R | 6.5 | 3347.0 | -45.0 | 
-| 2019-07-11 | 第9期友士杯十段戦挑戦手合五番勝負第3局  | Lai Junfu | Xu Haohong | Win | W+1.5 | 6.5 | 3392.0 | -3.0 | 
-| 2019-07-08 | 第9期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3395.0 | 9.0 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Xu Haohong | Shin Jinseo | Lose | W+R | 6.5 | 3347.0 | -46.0 | 
+| 2019-07-11 | 第9期友士杯十段戦挑戦手合五番勝負第3局  | Lai Junfu | Xu Haohong | Win | W+1.5 | 6.5 | 3393.0 | -3.0 | 
+| 2019-07-08 | 第9期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3396.0 | 10.0 | 
 | 2019-06-27 | 第9期友士杯十段戦挑戦手合五番勝負第1局  | Lai Junfu | Xu Haohong | Win | W+R | 6.5 | 3386.0 | -59.0 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Xu Haohong | Tu Xiaoyu | Lose | W+1.5 | 6.5 | 3445.0 | -21.0 | 
 | 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Xu Haohong | Motoki Katsuya | Win | B+1¾ | 7.5 | 3466.0 | 0.0 | 
@@ -252,8 +253,8 @@
 | 2019-03-19 | 第18期天元戦（台湾）リーグ | Xu Haohong | Yang Bowei | Win | B+R | 6.5 | 3477.0 | 10.0 | 
 | 2019-03-18 | 第11回海峰杯プロ囲碁戦準決勝 | Xu Haohong | Yang Bowei | Win | B+R | 6.5 | 3467.0 | 3.0 | 
 | 2019-03-14 | 第11回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Xu Haohong | Win | W+3.5 | 6.5 | 3464.0 | -2.0 | 
-| 2019-03-12 | 第18期天元戦（台湾）敗部4回戦 | Xu Haohong | Li Wei | Win | B+R | 6.5 | 3466.0 | 3.0 | 
-| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 | Xu Haohong | Lu Yiquan | Win | B+R | 6.5 | 3463.0 | -3.0 | 
+| 2019-03-12 | 第18期天元戦（台湾）敗部4回戦 | Xu Haohong | Li Wei | Win | B+R | 6.5 | 3466.0 | 2.0 | 
+| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 | Xu Haohong | Lu Yiquan | Win | B+R | 6.5 | 3464.0 | -2.0 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3466.0 | 0.0 | 
 | 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 |  | Xu Haohong | Lose | B+1.5 | 6.5 | 3466.0 | -21.0 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Xu Haohong |  | Win | B+R | 6.5 | 3487.0 | 1.0 | 
@@ -262,47 +263,47 @@
 | 2019-02-22 | 第24回LG杯台湾代表決定戦 | Wang Yuanjun | Xu Haohong | Win | W+R | 6.5 | 3521.0 | 7.0 | 
 | 2019-02-20 | 第1回IWMC台湾代表選抜戦男子代表加戦 | Lin Junyan | Xu Haohong | Win | W+R | 7.5 | 3514.0 | 4.0 | 
 | 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Xu Haohong | Lin Zhihan | Win | B+R | 6.5 | 3510.0 | 5.0 | 
-| 2019-02-15 | 第16期倡棋杯台湾代表決定戦 | Wang Yuanjun | Xu Haohong | Win | W+3 | 7.5 | 3505.0 | 4.0 | 
-| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Xu Haohong | Zhou Pingqiang | Win | B+R | 6.5 | 3501.0 | 25.0 | 
+| 2019-02-15 | 第16期倡棋杯台湾代表決定戦 | Wang Yuanjun | Xu Haohong | Win | W+3 | 7.5 | 3505.0 | 3.0 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Xu Haohong | Zhou Pingqiang | Win | B+R | 6.5 | 3502.0 | 26.0 | 
 | 2019-01-21 | 第18期天元戦（台湾）予選3回戦 補戦 | Xu Haohong | Huang Xiangren | Win | B+R | 6.5 | 3476.0 | 3.0 | 
 | 2019-01-19 | 2019台湾精鋭vs日本精鋭交流戦第3戦 | Chang Rueijie | Xu Haohong | Win | W+R | 6.5 | 3473.0 | 3.0 | 
 | 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第2戦 | Xu Haohong | Hsu Chiayuan | Win | B+R | 6.5 | 3470.0 | 0.0 | 
-| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Xu Haohong | Yao Zhiteng | Win | B+R | 6.5 | 3470.0 | 46.0 | 
-| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Xu Haohong | Zhou Yinnan | Win | B+R | 6.5 | 3424.0 | 17.0 | 
-| 2018-12-20 | 三英戦呂布新鋭邀請戦第3戦  | Xu Haohong | Hsu Chiayuan | Win | B+R | 6.5 | 3407.0 | 16.0 | 
+| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Xu Haohong | Yao Zhiteng | Win | B+R | 6.5 | 3470.0 | 45.0 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Xu Haohong | Zhou Yinnan | Win | B+R | 6.5 | 3425.0 | 17.0 | 
+| 2018-12-20 | 三英戦呂布新鋭邀請戦第3戦  | Xu Haohong | Hsu Chiayuan | Win | B+R | 6.5 | 3408.0 | 17.0 | 
 | 2018-12-06 | 第11期棋王戦（台湾）挑戦手合七番勝負第5局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3391.0 | -4.0 | 
 | 2018-12-03 | 第11期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Lin Junyan | Lose | W+2.5 | 6.5 | 3395.0 | -17.0 | 
 | 2018-11-29 | 第11期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3412.0 | -6.0 | 
 | 2018-11-26 | 第11期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Lin Junyan | Lose | W+0.5 | 6.5 | 3418.0 | -19.0 | 
 | 2018-11-22 | 第11期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3437.0 | 4.0 | 
-| 2018-11-20 | 第14期国手戦（台湾）挑戦者決定戦 | Xu Haohong | Wang Yuanjun | Lose | W+R | 6.5 | 3433.0 | -19.0 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Weon Seongjin | Xu Haohong | Win | W+R | 6.5 | 3452.0 | 0.0 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Xu Haohong | Lee Jihyun | Win | B+R | 6.5 | 3452.0 | 21.0 | 
+| 2018-11-20 | 第14期国手戦（台湾）挑戦者決定戦 | Xu Haohong | Wang Yuanjun | Lose | W+R | 6.5 | 3433.0 | -20.0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Weon Seongjin | Xu Haohong | Win | W+R | 6.5 | 3453.0 | 0.0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Xu Haohong | Lee Jihyun | Win | B+R | 6.5 | 3453.0 | 22.0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 | Xu Haohong | Song Jihoon | Win | B+R | 6.5 | 3431.0 | -10.0 | 
 | 2018-11-11 | 第6期中環碁聖戦決勝三番勝負第2局 | Lin Shixun | Xu Haohong | Lose | B+R | 6.5 | 3441.0 | -20.0 | 
 | 2018-11-08 | 第11期棋王戦（台湾）リーグ第7節  | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3461.0 | 6.0 | 
 | 2018-11-07 | 第1回IWMC台湾代表男子選抜戦1回戦 | Xu Haohong | Lin Shixun | Win | B+R | 7.5 | 3455.0 | 4.0 | 
-| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節  | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3451.0 | 1.0 | 
-| 2018-11-01 | 第11期棋王戦（台湾）リーグ第5節 | Chen Shiyuan | Xu Haohong | Win | W+2.5 | 6.5 | 3450.0 | 9.0 | 
-| 2018-10-30 | 第14期国手戦（台湾）4強戦 | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3441.0 | 22.0 | 
-| 2018-10-29 | 第11期棋王戦（台湾）リーグ第4節 | Xu Haohong | Lin Shixun | Win | B+R | 6.5 | 3419.0 | 19.0 | 
-| 2018-10-28 | 第6期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Shixun | Lose | W+R | 6.5 | 3400.0 | -2.0 | 
+| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節  | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3451.0 | 0.0 | 
+| 2018-11-01 | 第11期棋王戦（台湾）リーグ第5節 | Chen Shiyuan | Xu Haohong | Win | W+2.5 | 6.5 | 3451.0 | 9.0 | 
+| 2018-10-30 | 第14期国手戦（台湾）4強戦 | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3442.0 | 22.0 | 
+| 2018-10-29 | 第11期棋王戦（台湾）リーグ第4節 | Xu Haohong | Lin Shixun | Win | B+R | 6.5 | 3420.0 | 19.0 | 
+| 2018-10-28 | 第6期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Shixun | Lose | W+R | 6.5 | 3401.0 | -1.0 | 
 | 2018-10-26 | 第1回IWMC台湾代表男子選抜戦予選決勝 | Xu Haohong |  | Win | B+R | 7.5 | 3402.0 | 1.0 | 
 | 2018-10-25 | 第11期棋王戦（台湾）リーグ第3節 | Xiao Zhenghao | Xu Haohong | Win | W+1.5 | 6.5 | 3401.0 | 9.0 | 
 | 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選2回戦 | Xu Haohong | Li Wei | Win | B+R | 7.5 | 3392.0 | -1.0 | 
 | 2018-10-23 | 第14期国手戦（台湾）8強戦 | Xiao Zhenghao | Xu Haohong | Win | W+R | 6.5 | 3393.0 | 3.0 | 
 | 2018-10-22 | 第11期棋王戦（台湾）リーグ第2節 | Xu Haohong | Wang Yuanjun | Win | B+0.5 | 6.5 | 3390.0 | -4.0 | 
 | 2018-10-21 | 第6期中環碁聖戦準決勝 | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3394.0 | 13.0 | 
-| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節  | Lin Lixiang | Xu Haohong | Lose | B+R | 6.5 | 3381.0 | -56.0 | 
-| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Xu Haohong | Zhou Keping | Win | B+R | 6.5 | 3437.0 | 1.0 | 
-| 2018-10-08 | 第11期棋王戦（台湾）予選敗部決勝 | Xu Haohong |  | Win | B+3.5 | 6.5 | 3436.0 | -2.0 | 
-| 2018-10-07 | 第6期中環碁聖戦4回戦 | Lu Yiquan | Xu Haohong | Win | W+R | 6.5 | 3438.0 | 4.0 | 
-| 2018-10-04 | 第11期棋王戦（台湾）予選敗部準決勝 | Xu Haohong | Cai Chengwei | Win | B+R | 6.5 | 3434.0 | -7.0 | 
-| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3441.0 | 4.0 | 
+| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節  | Lin Lixiang | Xu Haohong | Lose | B+R | 6.5 | 3381.0 | -57.0 | 
+| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Xu Haohong | Zhou Keping | Win | B+R | 6.5 | 3438.0 | 1.0 | 
+| 2018-10-08 | 第11期棋王戦（台湾）予選敗部決勝 | Xu Haohong |  | Win | B+3.5 | 6.5 | 3437.0 | -1.0 | 
+| 2018-10-07 | 第6期中環碁聖戦4回戦 | Lu Yiquan | Xu Haohong | Win | W+R | 6.5 | 3438.0 | 3.0 | 
+| 2018-10-04 | 第11期棋王戦（台湾）予選敗部準決勝 | Xu Haohong | Cai Chengwei | Win | B+R | 6.5 | 3435.0 | -7.0 | 
+| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3442.0 | 5.0 | 
 | 2018-10-01 | 第11期棋王戦（台湾）予選勝部決勝 | Chen Qirui | Xu Haohong | Lose | B+R | 6.5 | 3437.0 | -15.0 | 
 | 2018-09-30 | 第6期中環碁聖戦3回戦 | Xu Haohong | Zhang Zhehao | Win | B+3.5 | 6.5 | 3452.0 | -10.0 | 
-| 2018-09-27 | 第11期棋王戦（台湾）予選勝部準決勝 | Xiao Zhenghao | Xu Haohong | Win | W+2.5 | 6.5 | 3462.0 | 2.0 | 
-| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Zhao Peizhe | Xu Haohong | Win | W+R | 6.5 | 3460.0 | -1.0 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選勝部準決勝 | Xiao Zhenghao | Xu Haohong | Win | W+2.5 | 6.5 | 3462.0 | 1.0 | 
+| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Zhao Peizhe | Xu Haohong | Win | W+R | 6.5 | 3461.0 | 0.0 | 
 | 2018-09-20 | 第11期棋王戦（台湾）予選勝部2回戦 | Yu Binghuang | Xu Haohong | Win | W+R | 6.5 | 3461.0 | 24.0 | 
 | 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Xu Haohong | Bai Xinhui | Win | B+R | 6.5 | 3437.0 | 6.0 | 
 | 2018-09-16 | 第6期中環碁聖戦2回戦 | Lin Xiuping | Xu Haohong | Win | W+R | 6.5 | 3431.0 | -32.0 | 
@@ -326,9 +327,9 @@
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグD | Xu Haohong | Shin Jinseo | Lose | W+R | 6.5 | 3238.0 | 10.0 | 
 | 2018-04-16 | 第10回海峰杯プロ囲碁戦決勝三番勝負第一局  | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3228.0 | 10.0 | 
 | 2018-04-12 | 第10回海峰杯プロ囲碁戦準決勝 | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3218.0 | -26.0 | 
-| 2018-03-28 | 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Park Hyunsoo | Xu Haohong | Lose | B+1.5 | 6.5 | 3244.0 | -24.0 | 
-| 2018-03-27 | 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Onishi Ryuhei | Xu Haohong | Lose | B+R | 6.5 | 3268.0 | -10.0 | 
-| 2018-03-26 | 第6回陜川郡招待韓中日台英才戦4強戦 | Chen Haoxin | Xu Haohong | Win | W+R | 6.5 | 3278.0 | 5.0 | 
+| 2018-03-28 | 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Park Hyunsoo | Xu Haohong | Lose | B+1.5 | 6.5 | 3244.0 | -25.0 | 
+| 2018-03-27 | 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Onishi Ryuhei | Xu Haohong | Lose | B+R | 6.5 | 3269.0 | -10.0 | 
+| 2018-03-26 | 第6回陜川郡招待韓中日台英才戦4強戦 | Chen Haoxin | Xu Haohong | Win | W+R | 6.5 | 3279.0 | 6.0 | 
 | 2018-03-22 | 第10回海峰杯プロ囲碁戦8強戦 | Xu Haohong | Chen Shiyuan | Win | B+7.5 | 6.5 | 3273.0 | 24.0 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xu Haohong | Win | W+R | 6.5 | 3249.0 | -9.0 | 
 | 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 |  | Xu Haohong | Win | W+2.5 | 6.5 | 3258.0 | 27.0 | 
@@ -363,8 +364,8 @@
 | 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Xu Haohong | Dong Yutang | Win | B+R(B+R) | 6.5 | 3093.0 | -18.0 | 
 | 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Xu Haohong |  | Win | B+R | 6.5 | 3111.0 | 19.0 | 
 | 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3092.0 | 0.0 | 
-| 2017-08-29 | 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Cai Chengwei | Xu Haohong | Win | W+R | 6.5 | 3092.0 | 25.0 | 
-| 2017-08-18 | 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Li Weiqing | Xu Haohong | Lose | B+1.5 | 7.5 | 3067.0 | -12.0 | 
+| 2017-08-29 | 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Cai Chengwei | Xu Haohong | Win | W+R | 6.5 | 3092.0 | 24.0 | 
+| 2017-08-18 | 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Li Weiqing | Xu Haohong | Lose | B+1.5 | 7.5 | 3068.0 | -11.0 | 
 | 2017-06-23 | 第7期友士杯十段戦敗者復活戦決勝 | Xu Haohong | Lin Shixun | Lose | W+R | 6.5 | 3079.0 | -15.0 | 
 | 2017-06-21 | 第7期友士杯十段戦敗者復活戦準決勝 | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3094.0 | 10.0 | 
 | 2017-06-19 | 第7期友士杯十段戦勝者組決勝 | Xu Haohong | Wang Yuanjun | Lose | W+R | 6.5 | 3084.0 | 14.0 | 
@@ -408,8 +409,8 @@
 | 2016-05-18 | 第6期友士杯十段戦予選 |  | Xu Haohong | Win | W+R | 6.5 | 3114.0 | -42.0 | 
 | 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yi Lingtao | Xu Haohong | Lose | B+R | 7.5 | 3156.0 | -37.0 | 
 | 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Fujisawa Rina | Xu Haohong | Win | W+R | 7.5 | 3193.0 | 40.0 | 
-| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Xu Haohong | Lose | B+R | 6.5 | 3153.0 | -33.0 | 
-| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Gu Zihao | Xu Haohong | Lose | B+R | 7.5 | 3186.0 | -8.0 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Xu Haohong | Lose | B+R | 6.5 | 3153.0 | -34.0 | 
+| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Gu Zihao | Xu Haohong | Lose | B+R | 7.5 | 3187.0 | -7.0 | 
 | 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Xu Haohong | Zhou Pingqiang | Win | B+R | 6.5 | 3194.0 | 58.0 | 
 | 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Xu Haohong | Xiao Ailin | Win | B+R | 6.5 | 3136.0 | -16.0 | 
 | 2016-02-16 | 第11回春蘭杯台湾予選 | Xu Haohong | Wang Yuanjun | Win | B+1 | 7.5 | 3152.0 | 108.0 | 

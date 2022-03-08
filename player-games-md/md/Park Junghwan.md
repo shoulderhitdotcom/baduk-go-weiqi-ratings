@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第3局 | Park Junghwan | Lee Donghoon | Win | B+0.5 | 6.5 | 3723.0 | 2.0 | 
 | 2022-03-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第2局 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3721.0 | 3.0 | 
 | 2022-03-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Choi Jeong | Lose | W+R | 6.5 | 3718.0 | -16.0 | 
-| 2022-03-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3734.0 | 9.0 | 
-| 2022-02-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Moon Minjong | Win | B+R | 6.5 | 3725.0 | -3.0 | 
-| 2022-02-24 | 第5期韓国竜星戦1回戦 | Park Younglong | Park Junghwan | Lose | B+R | 6.5 | 3728.0 | -3.0 | 
-| 2022-02-22 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Park Seunghwa | Win | B+R | 6.5 | 3731.0 | -2.0 | 
-| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Win | B+R | 6.5 | 3733.0 | 10.0 | 
+| 2022-03-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3734.0 | 8.0 | 
+| 2022-02-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Moon Minjong | Win | B+R | 6.5 | 3726.0 | -3.0 | 
+| 2022-02-24 | 第5期韓国竜星戦1回戦 | Park Younglong | Park Junghwan | Lose | B+R | 6.5 | 3729.0 | -3.0 | 
+| 2022-02-22 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Park Seunghwa | Win | B+R | 6.5 | 3732.0 | -2.0 | 
+| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Win | B+R | 6.5 | 3734.0 | 11.0 | 
 | 2022-02-17 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Park Junghwan | Win | W+R | 6.5 | 3723.0 | -10.0 | 
 | 2022-02-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Hong Mujin | Win | B+R | 6.5 | 3733.0 | 6.0 | 
 | 2022-02-11 | 2021-2022韓国囲碁リーグ | Park Junghwan | Song Jihoon | Win | B+R | 6.5 | 3727.0 | 0.0 | 
@@ -28,8 +29,8 @@
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | Lose | B+¾ | 7.5 | 3731.0 | -8.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Win | B+R | 6.5 | 3739.0 | 22.0 | 
 | 2022-01-01 | 2021-2022韓国囲碁リーグ | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 3717.0 | 0.0 | 
-| 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3717.0 | -2.0 | 
-| 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Hamin | Lose | W+R | 6.5 | 3719.0 | -9.0 | 
+| 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3717.0 | -3.0 | 
+| 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Hamin | Lose | W+R | 6.5 | 3720.0 | -8.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Junghwan | Lose | B+2.5 | 6.5 | 3728.0 | -7.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Park Junghwan | Xu Haohong | Lose | W+R | 6.5 | 3735.0 | -21.0 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Junghwan | Baek Chanhee | Win | B+R | 6.5 | 3756.0 | -5.0 | 
@@ -37,20 +38,20 @@
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Win | B+R | 6.5 | 3746.0 | -2.0 | 
 | 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3748.0 | -4.0 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Win | W+R | 6.5 | 3752.0 | 8.0 | 
-| 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3744.0 | 9.0 | 
-| 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Lose | W+R | 6.5 | 3735.0 | -5.0 | 
-| 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3740.0 | 4.0 | 
-| 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3736.0 | 6.0 | 
-| 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3730.0 | -5.0 | 
-| 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Win | W+R | 6.5 | 3735.0 | 11.0 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Win | W+2.5 | 6.5 | 3724.0 | 1.0 | 
+| 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3744.0 | 8.0 | 
+| 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Lose | W+R | 6.5 | 3736.0 | -5.0 | 
+| 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3741.0 | 4.0 | 
+| 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3737.0 | 6.0 | 
+| 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3731.0 | -5.0 | 
+| 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Win | W+R | 6.5 | 3736.0 | 11.0 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Win | W+2.5 | 6.5 | 3725.0 | 2.0 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Park Junghwan | Win | W+1.5 | 6.5 | 3723.0 | 10.0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Win | W+R | 6.5 | 3713.0 | 16.0 | 
 | 2021-10-14 | 第23回農心辛ラーメン杯世界囲碁最強戦第4戦  | Hsu Chiayuan | Park Junghwan | Win | W+R | 6.5 | 3697.0 | 0.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Park Junghwan | Tang Weixing | Win | B+R | 7.5 | 3697.0 | 2.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Win | W+R | 7.5 | 3695.0 | -1.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Park Junghwan | Gu Zihao | Win | B+R | 7.5 | 3696.0 | 4.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Park Junghwan | Win | W+R | 7.5 | 3692.0 | 1.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Win | W+R | 7.5 | 3695.0 | -2.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Park Junghwan | Gu Zihao | Win | B+R | 7.5 | 3697.0 | 4.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Park Junghwan | Win | W+R | 7.5 | 3693.0 | 2.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Park Junghwan | Han Yizhou | Win | B+R | 7.5 | 3691.0 | -5.0 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第9局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3696.0 | -4.0 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第4局 | Park Junghwan | Weon Seongjin | Lose | W+R | 6.5 | 3700.0 | -3.0 | 
@@ -89,8 +90,8 @@
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Park Junghwan | Win | W+R | 7.5 | 3654.0 | 2.0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Li Weiqing | Park Junghwan | Win | W+R | 7.5 | 3652.0 | 7.0 | 
 | 2021-05-01 | 第44期名人戦（韓国）2回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3645.0 | 2.0 | 
-| 2021-04-29 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3643.0 | 3.0 | 
-| 2021-04-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Seol Hyunjun | Win | B+R | 6.5 | 3640.0 | 3.0 | 
+| 2021-04-29 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3643.0 | 2.0 | 
+| 2021-04-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Seol Hyunjun | Win | B+R | 6.5 | 3641.0 | 4.0 | 
 | 2021-03-23 | 第22回マキシムコーヒー杯入神最強戦準決勝 | Park Junghwan | Lee Jihyun | Lose | W+2.5 | 6.5 | 3637.0 | 1.0 | 
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Park Junghwan | Park Geunho | Win | B+R | 6.5 | 3636.0 | 4.0 | 
 | 2021-03-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | Win | W+R | 6.5 | 3632.0 | -3.0 | 
@@ -102,20 +103,20 @@
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Lee Yeongkyu | Win | B+5.5 | 6.5 | 3612.0 | 9.0 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3603.0 | 6.0 | 
 | 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Win | B+R | 6.5 | 3597.0 | 8.0 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Park Junghwan | Win | W+0.5 | 6.5 | 3589.0 | 1.0 | 
-| 2021-01-30 | 2020-2021韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3588.0 | 21.0 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Park Junghwan | Win | W+0.5 | 6.5 | 3589.0 | 0.0 | 
+| 2021-01-30 | 2020-2021韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3589.0 | 22.0 | 
 | 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | Win | W+R | 6.5 | 3567.0 | 15.0 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | Lose | B+0.5 | 6.5 | 3552.0 | -24.0 | 
 | 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Park Junghwan | Win | W+R | 6.5 | 3576.0 | -2.0 | 
 | 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Win | W+R | 6.5 | 3578.0 | -13.0 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Park Junghwan | Wen Rubin | Win | B+R | 6.5 | 3591.0 | 1.0 | 
-| 2021-01-03 | 2020-2021韓国囲碁リーグ | Moon Minjong | Park Junghwan | Lose | B+1.5 | 6.5 | 3590.0 | -8.0 | 
-| 2020-12-27 | 2020-2021韓国囲碁リーグ | Choi Jeong | Park Junghwan | Win | W+R | 6.5 | 3598.0 | -2.0 | 
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Park Junghwan | Li Qincheng | Win | B+R | 7.5 | 3600.0 | 1.0 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Park Junghwan | Lose | B+R | 7.5 | 3599.0 | -7.0 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Park Junghwan | Lose | B+R | 7.5 | 3606.0 | -8.0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | Win | W+R | 7.5 | 3614.0 | 0.0 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3614.0 | 37.0 | 
+| 2021-01-03 | 2020-2021韓国囲碁リーグ | Moon Minjong | Park Junghwan | Lose | B+1.5 | 6.5 | 3590.0 | -9.0 | 
+| 2020-12-27 | 2020-2021韓国囲碁リーグ | Choi Jeong | Park Junghwan | Win | W+R | 6.5 | 3599.0 | -2.0 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Park Junghwan | Li Qincheng | Win | B+R | 7.5 | 3601.0 | 1.0 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Park Junghwan | Lose | B+R | 7.5 | 3600.0 | -7.0 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Park Junghwan | Lose | B+R | 7.5 | 3607.0 | -8.0 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | Win | W+R | 7.5 | 3615.0 | 0.0 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3615.0 | 38.0 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Park Junghwan | Shi Yue | Win | B+¾ | 7.5 | 3577.0 | -4.0 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Park Junghwan | Win | W+R | 7.5 | 3581.0 | 1.0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Park Junghwan | Win | W+R | 7.5 | 3580.0 | 0.0 | 
@@ -125,9 +126,9 @@
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Lian Xiao | Park Junghwan | Win | W+R | 7.5 | 3538.0 | 1.0 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Park Junghwan | Ding Hao | Win | B+R | 7.5 | 3537.0 | 8.0 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Junghwan | Choi Kyeongho | Win | B+R | 6.5 | 3529.0 | -2.0 | 
-| 2020-12-02 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第7局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3531.0 | -5.0 | 
-| 2020-12-01 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第6局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3536.0 | -8.0 | 
-| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Win | W+R | 6.5 | 3544.0 | -24.0 | 
+| 2020-12-02 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第7局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3531.0 | -6.0 | 
+| 2020-12-01 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第6局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3537.0 | -8.0 | 
+| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Win | W+R | 6.5 | 3545.0 | -23.0 | 
 | 2020-11-16 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第5局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3568.0 | 1.0 | 
 | 2020-11-14 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第4局 | Park Junghwan | Shin Jinseo | Lose | W+0.5 | 6.5 | 3567.0 | -10.0 | 
 | 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3577.0 | -12.0 | 
@@ -139,8 +140,8 @@
 | 2020-09-29 | 第22回農心杯韓国選抜戦 | Kang Dongyun | Park Junghwan | Win | W+0.5 | 6.5 | 3642.0 | 3.0 | 
 | 2020-09-28 | 第22回農心杯韓国選抜戦 | Park Junghwan | Lee Taehyun | Win | B+R | 6.5 | 3639.0 | 6.0 | 
 | 2020-09-25 | 第22回農心杯韓国選抜戦 | Cho Hanseung | Park Junghwan | Win | W+R | 6.5 | 3633.0 | 1.0 | 
-| 2020-09-24 | 第22回農心杯韓国選抜戦 | Park Junghwan | Heo Yongho | Win | B+R | 6.5 | 3632.0 | -1.0 | 
-| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Park Junghwan | Zhao Chenyu | Lose | W+R | 7.5 | 3633.0 | -14.0 | 
+| 2020-09-24 | 第22回農心杯韓国選抜戦 | Park Junghwan | Heo Yongho | Win | B+R | 6.5 | 3632.0 | -2.0 | 
+| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Park Junghwan | Zhao Chenyu | Lose | W+R | 7.5 | 3634.0 | -13.0 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Tong Mengcheng | Park Junghwan | Win | W+R | 7.5 | 3647.0 | 3.0 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Park Junghwan | Yang Dingxin | Win | B+R | 7.5 | 3644.0 | 15.0 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Xie Erhao | Park Junghwan | Win | W+R | 7.5 | 3629.0 | 2.0 | 
@@ -154,15 +155,15 @@
 | 2020-08-21 | 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Park Junghwan | Fan Tingyu | Win | B+R | 6.5 | 3665.0 | 10.0 | 
 | 2020-08-20 | 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Fan Tingyu | Park Junghwan | Lose | Void | 6.5 | 3655.0 | 1.0 | 
 | 2020-08-19 | 第21回農心辛ラーメン杯世界囲碁最強戦第11戦 | Park Junghwan | Mi Yuting | Win | B+R | 6.5 | 3654.0 | 8.0 | 
-| 2020-08-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Win | B+R | 6.5 | 3646.0 | -36.0 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Junghwan | Lian Xiao | Lose | W+R | 7.5 | 3682.0 | -8.0 | 
+| 2020-08-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Win | B+R | 6.5 | 3646.0 | -37.0 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Junghwan | Lian Xiao | Lose | W+R | 7.5 | 3683.0 | -7.0 | 
 | 2020-07-27 | 第3期韓国竜星戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | W+0.5 | 6.5 | 3690.0 | -7.0 | 
 | 2020-07-26 | 第3期韓国竜星戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3697.0 | -7.0 | 
 | 2020-07-09 | 第3期韓国竜星戦準決勝 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3704.0 | -5.0 | 
 | 2020-06-23 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第3局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3709.0 | -9.0 | 
 | 2020-06-22 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3718.0 | 5.0 | 
-| 2020-06-15 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3713.0 | -30.0 | 
-| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Hong Kipyo | Park Junghwan | Win | W+R | 6.5 | 3743.0 | 4.0 | 
+| 2020-06-15 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3713.0 | -31.0 | 
+| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Hong Kipyo | Park Junghwan | Win | W+R | 6.5 | 3744.0 | 5.0 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Win | W+R | 6.5 | 3739.0 | 2.0 | 
 | 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Lose | B+3.5 | 6.5 | 3737.0 | -8.0 | 
 | 2020-05-25 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3745.0 | 25.0 | 
@@ -229,8 +230,8 @@
 | 2019-08-15 | 第9回世界囲棋巓峰対決準決勝 | Park Junghwan | Tuo Jiaxi | Lose | W+R | 7.5 | 3710.0 | -6.0 | 
 | 2019-08-14 | 第9回世界囲棋巓峰対決8強戦 | Mi Yuting | Park Junghwan | Win | W+R | 7.5 | 3716.0 | 13.0 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Park Junghwan | Rong Yi | Win | B+R | 7.5 | 3703.0 | 0.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Yaoye | Park Junghwan | Win | W+R | 7.5 | 3703.0 | 14.0 | 
-| 2019-08-07 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3689.0 | 15.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Yaoye | Park Junghwan | Win | W+R | 7.5 | 3703.0 | 13.0 | 
+| 2019-08-07 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3690.0 | 16.0 | 
 | 2019-08-06 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3674.0 | 23.0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Yamashita Keigo | Park Junghwan | Lose | B+R | 6.5 | 3651.0 | -8.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Park Junghwan | Meng Tailing | Win | B+R | 7.5 | 3659.0 | -20.0 | 
@@ -240,9 +241,9 @@
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Fan Yin | Park Junghwan | Win | W+R | 7.5 | 3664.0 | -4.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 |  | Park Junghwan | Win | W+R | 7.5 | 3668.0 | -11.0 | 
 | 2019-07-18 | 2019年紹興国際囲棋精英戦国際組 | Park Junghwan | Ke Jie | Lose | W+R | 7.5 | 3679.0 | 5.0 | 
-| 2019-07-15 | 第21回農心杯韓国選抜戦 |  | Park Junghwan | Win | W+R | 6.5 | 3674.0 | -2.0 | 
-| 2019-07-13 | 2019年囲碁テレビ杯早碁戦準決勝 | Park Junghwan | Park Joonhoon | Win | B+R | 6.5 | 3676.0 | -4.0 | 
-| 2019-07-09 | 第2期韓国竜星戦8強戦 | Na Hyun | Park Junghwan | Win | W+R | 6.5 | 3680.0 | 1.0 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 |  | Park Junghwan | Win | W+R | 6.5 | 3674.0 | -3.0 | 
+| 2019-07-13 | 2019年囲碁テレビ杯早碁戦準決勝 | Park Junghwan | Park Joonhoon | Win | B+R | 6.5 | 3677.0 | -4.0 | 
+| 2019-07-09 | 第2期韓国竜星戦8強戦 | Na Hyun | Park Junghwan | Win | W+R | 6.5 | 3681.0 | 2.0 | 
 | 2019-07-07 | 2019年囲碁テレビ杯早碁戦8強戦 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3679.0 | 8.0 | 
 | 2019-06-27 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | Win | W+R | 7.5 | 3671.0 | 2.0 | 
 | 2019-06-25 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Junghwan | Park Yeonghun | Win | B+R | 7.5 | 3669.0 | -2.0 | 
@@ -250,8 +251,8 @@
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Xie Erhao | Park Junghwan | Win | W+R | 7.5 | 3688.0 | 10.0 | 
 | 2019-06-06 | 2019年囲碁テレビ杯早碁戦32強戦 | Cho Hanseung | Park Junghwan | Win | W+R | 6.5 | 3678.0 | 1.0 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Park Junghwan | Fan Tingyu | Win | B+R | 7.5 | 3677.0 | 0.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Fan Yunruo | Park Junghwan | Win | W+R | 7.5 | 3677.0 | -9.0 | 
-| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Dang Yifei | Park Junghwan | Win | W+R | 6.5 | 3686.0 | -6.0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Fan Yunruo | Park Junghwan | Win | W+R | 7.5 | 3677.0 | -10.0 | 
+| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Dang Yifei | Park Junghwan | Win | W+R | 6.5 | 3687.0 | -5.0 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Park Junghwan | Tong Mengcheng | Win | B+R | 6.5 | 3692.0 | -5.0 | 
 | 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Park Junghwan | Ryan Li | Win | B+R | 7.5 | 3697.0 | 2.0 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Park Junghwan | Murakawa Daisuke | Win | B+R | 7.5 | 3695.0 | 0.0 | 
@@ -268,13 +269,13 @@
 | 2019-03-20 | 第3回ワールド碁チャンピオンシップ決勝  | Park Junghwan | Ke Jie | Win | B+1.5 | 6.5 | 3700.0 | 6.0 | 
 | 2019-03-19 | 第3回ワールド碁チャンピオンシップ準決勝  | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3694.0 | 11.0 | 
 | 2019-03-18 | 第3回ワールド碁チャンピオンシップ1回戦  | Park Junghwan | Liao Yuanhe | Win | B+R | 6.5 | 3683.0 | -14.0 | 
-| 2019-03-12 | 第2期韓国竜星戦32強戦-2 | Park Junghwan | Wen Rubin | Win | B+R | 6.5 | 3697.0 | -3.0 | 
-| 2019-03-11 | 第2期韓国竜星戦32強戦-1 | Yun Junsang | Park Junghwan | Win | W+1.5 | 6.5 | 3700.0 | 14.0 | 
+| 2019-03-12 | 第2期韓国竜星戦32強戦-2 | Park Junghwan | Wen Rubin | Win | B+R | 6.5 | 3697.0 | -4.0 | 
+| 2019-03-11 | 第2期韓国竜星戦32強戦-1 | Yun Junsang | Park Junghwan | Win | W+1.5 | 6.5 | 3701.0 | 15.0 | 
 | 2019-02-27 | 第1回IWMC韓国代表選抜戦3回戦 | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3686.0 | 0.0 | 
 | 2019-02-27 | 第1回IWMC韓国代表選抜戦2回戦 | Park Junghwan | Shin Minjun | Win | B+R | 7.5 | 3686.0 | 1.0 | 
 | 2019-02-19 | 第20回農心辛ラーメン杯世界囲碁最強戦第11戦 | Dang Yifei | Park Junghwan | Lose | B+1.5 | 6.5 | 3685.0 | -8.0 | 
-| 2019-02-18 | 第20回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Win | B+R | 6.5 | 3693.0 | -18.0 | 
-| 2019-02-02 | 第7回CCTV賀歳杯決勝 | Park Junghwan | Ke Jie | Win | B+3¾ | 7.5 | 3711.0 | 15.0 | 
+| 2019-02-18 | 第20回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Win | B+R | 6.5 | 3693.0 | -19.0 | 
+| 2019-02-02 | 第7回CCTV賀歳杯決勝 | Park Junghwan | Ke Jie | Win | B+3¾ | 7.5 | 3712.0 | 16.0 | 
 | 2019-02-01 | 第7回CCTV賀歳杯2回戦 | Park Junghwan | Shibano Toramaru | Win | B+R | 7.5 | 3696.0 | 3.0 | 
 | 2019-01-31 | 第7回CCTV賀歳杯1回戦 | Ke Jie | Park Junghwan | Lose | B+¾ | 7.5 | 3693.0 | -6.0 | 
 | 2019-01-28 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Park Junghwan | Paek Hongseok | Lose | W+R | 6.5 | 3699.0 | -7.0 | 
@@ -284,31 +285,31 @@
 | 2019-01-06 | 第2回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Junghwan | Win | W+R | 6.5 | 3725.0 | 7.0 | 
 | 2019-01-02 | 第37回KBS杯囲碁王戦決勝三番勝負第1局 | Shin Minjun | Park Junghwan | Lose | B+R | 6.5 | 3718.0 | -12.0 | 
 | 2019-01-01 | 第20回マキシムコーヒー杯入神最強戦特別対局 | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3730.0 | -7.0 | 
-| 2018-12-21 | 第1回天府杯世界囲碁プロ選手権戦準決勝 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3737.0 | -10.0 | 
-| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Junghwan | Win | W+0.5 | 7.5 | 3747.0 | 3.0 | 
-| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Xie Ke | Park Junghwan | Win | W+R | 7.5 | 3744.0 | 6.0 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Park Junghwan |  | Win | B+R | 7.5 | 3738.0 | 0.0 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Mi Yuting | Park Junghwan | Win | W+R | 7.5 | 3738.0 | 3.0 | 
-| 2018-12-11 | 第37回KBS杯囲碁王戦準決勝 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3735.0 | 22.0 | 
+| 2018-12-21 | 第1回天府杯世界囲碁プロ選手権戦準決勝 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3737.0 | -11.0 | 
+| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Junghwan | Win | W+0.5 | 7.5 | 3748.0 | 3.0 | 
+| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Xie Ke | Park Junghwan | Win | W+R | 7.5 | 3745.0 | 6.0 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Park Junghwan |  | Win | B+R | 7.5 | 3739.0 | 0.0 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Mi Yuting | Park Junghwan | Win | W+R | 7.5 | 3739.0 | 3.0 | 
+| 2018-12-11 | 第37回KBS杯囲碁王戦準決勝 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3736.0 | 23.0 | 
 | 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Junghwan |  | Win | B+1.5 | 6.5 | 3713.0 | -7.0 | 
 | 2018-11-27 | 第20回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Fan Tingyu | Win | B+R | 6.5 | 3720.0 | 8.0 | 
 | 2018-11-23 | 第37回KBS杯囲碁王戦8強戦 | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3712.0 | -3.0 | 
-| 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3715.0 | 0.0 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Park Junghwan | Li Xuanhao | Win | B+R | 7.5 | 3715.0 | 9.0 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Tuo Jiaxi | Park Junghwan | Lose | B+R | 7.5 | 3706.0 | -4.0 | 
+| 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3715.0 | -1.0 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Park Junghwan | Li Xuanhao | Win | B+R | 7.5 | 3716.0 | 9.0 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Tuo Jiaxi | Park Junghwan | Lose | B+R | 7.5 | 3707.0 | -3.0 | 
 | 2018-10-23 | 第37回KBS杯囲碁王戦16強戦 | Park Junghwan | Ryu Suhang | Win | B+R | 6.5 | 3710.0 | -30.0 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節蘇泊爾-天津 | Xie Erhao | Park Junghwan | Lose | B+R | 7.5 | 3740.0 | -21.0 | 
 | 2018-10-07 | 2018年韓国囲碁リーグ第14節 | Heo Yongho | Park Junghwan | Win | W+R | 6.5 | 3761.0 | 19.0 | 
 | 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Xie Erhao | Lose | W+R | 6.5 | 3742.0 | -13.0 | 
 | 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Park Junghwan | Kim Sedong | Win | B+R | 6.5 | 3755.0 | 1.0 | 
-| 2018-09-26 | 第1回天府杯世界囲碁選手権B組決勝 | Park Junghwan | Shin Jinseo | Win | B+R | 7.5 | 3754.0 | 13.0 | 
-| 2018-09-25 | 第1回天府杯世界囲碁選手権B組準決勝 | Park Junghwan | Tan Xiao | Win | B+R | 7.5 | 3741.0 | -1.0 | 
+| 2018-09-26 | 第1回天府杯世界囲碁選手権B組決勝 | Park Junghwan | Shin Jinseo | Win | B+R | 7.5 | 3754.0 | 12.0 | 
+| 2018-09-25 | 第1回天府杯世界囲碁選手権B組準決勝 | Park Junghwan | Tan Xiao | Win | B+R | 7.5 | 3742.0 | 0.0 | 
 | 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Lee Donghoon | Park Junghwan | Win | W+R | 7.5 | 3742.0 | 5.0 | 
 | 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Park Junghwan | Ichiriki Ryo | Win | B+R | 7.5 | 3737.0 | 1.0 | 
 | 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Park Yeonghun | Park Junghwan | Lose | B+R | 6.5 | 3736.0 | 0.0 | 
 | 2018-09-12 | 第20回中国囲碁甲級リーグ第16節山東-蘇泊爾 | Park Junghwan | Yi Lingtao | Lose | W+¼ | 7.5 | 3736.0 | -7.0 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Tao Xinran | Park Junghwan | Lose | B+R | 7.5 | 3743.0 | -11.0 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | Win | B+R | 6.5 | 3754.0 | -4.0 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Tao Xinran | Park Junghwan | Lose | B+R | 7.5 | 3743.0 | -12.0 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | Win | B+R | 6.5 | 3755.0 | -3.0 | 
 | 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦A1 | Gu Zihao | Park Junghwan | Win | W+R | 6.5 | 3758.0 | 6.0 | 
 | 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Park Junghwan | Choi Cheolhan | Win | B+R | 6.5 | 3752.0 | -16.0 | 
 | 2018-08-24 | 2018年韓国囲碁リーグ第9節 | Park Junghwan | Park Sangjin | Win | B+R | 6.5 | 3768.0 | -19.0 | 
@@ -328,8 +329,8 @@
 | 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Park Junghwan | Ryu Minhyung | Win | B+R | 6.5 | 3825.0 | -14.0 | 
 | 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3839.0 | 15.0 | 
 | 2018-06-07 | 第1回韓国竜星戦16強戦 | Kim Myounghoon | Park Junghwan | Win | W+R | 6.5 | 3824.0 | 2.0 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Park Junghwan | Yang Dingxin | Win | B+R | 7.5 | 3822.0 | 14.0 | 
-| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Park Junghwan | Shibano Toramaru | Win | B+R | 6.5 | 3808.0 | 8.0 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Park Junghwan | Yang Dingxin | Win | B+R | 7.5 | 3822.0 | 13.0 | 
+| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Park Junghwan | Shibano Toramaru | Win | B+R | 6.5 | 3809.0 | 9.0 | 
 | 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Gu Zihao | Park Junghwan | Win | W+R | 6.5 | 3800.0 | -1.0 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節蘇泊爾-中信 | Chen Yaoye | Park Junghwan | Lose | B+3¾ | 7.5 | 3801.0 | -5.0 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Ke Jie | Park Junghwan | Lose | B+R | 7.5 | 3806.0 | -9.0 | 
@@ -338,21 +339,21 @@
 | 2018-04-25 | 第6回陜川郡招待河燦錫国手杯英才囲碁大会英才頂上対決 | Park Junghwan | Park Hyunsoo | Win | B+R | 6.5 | 3822.0 | 26.0 | 
 | 2018-04-01 | 囲碁電王戦FINAL第2局 | DeepZenGo | Park Junghwan | Lose | B+R | 6.5 | 3796.0 | -12.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Fan Tingyu | Park Junghwan | Lose | B+R | 7.5 | 3808.0 | -12.0 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節衢州-蘇泊爾 | Park Junghwan | Huang Xin | Win | B+R | 7.5 | 3820.0 | -3.0 | 
-| 2018-03-26 | 第36回KBS杯囲碁王戦決勝三番勝負第2局 | Park Junghwan | Kim Jiseok | Win | B+R | 6.5 | 3823.0 | 12.0 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節衢州-蘇泊爾 | Park Junghwan | Huang Xin | Win | B+R | 7.5 | 3820.0 | -4.0 | 
+| 2018-03-26 | 第36回KBS杯囲碁王戦決勝三番勝負第2局 | Park Junghwan | Kim Jiseok | Win | B+R | 6.5 | 3824.0 | 13.0 | 
 | 2018-03-25 | 第1回韓国竜星戦32強ダブルエリミネーションE2 | Kang Yootaek | Park Junghwan | Win | W+R | 6.5 | 3811.0 | 2.0 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Peng Liyao | Park Junghwan | Win | W+R | 7.5 | 3809.0 | 3.0 | 
 | 2018-03-19 | 第2回ワールド碁チャンピオンシップ決勝  | Iyama Yuta | Park Junghwan | Win | W+R | 6.5 | 3806.0 | 2.0 | 
-| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Park Junghwan | Win | W+R | 6.5 | 3804.0 | 4.0 | 
-| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションE1 | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3800.0 | 2.0 | 
+| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Park Junghwan | Win | W+R | 6.5 | 3804.0 | 3.0 | 
+| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションE1 | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3801.0 | 3.0 | 
 | 2018-03-12 | 第36回KBS杯囲碁王戦決勝三番勝負第1局 | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3798.0 | 5.0 | 
 | 2018-03-08 | 第23期GSカルテックス杯プロ棋戦16強戦 | Park Jinsol | Park Junghwan | Lose | B+R | 6.5 | 3793.0 | -12.0 | 
 | 2018-03-06 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Park Junghwan | Cho Hanseung | Lose | W+R | 6.5 | 3805.0 | -13.0 | 
 | 2018-03-05 | 第36回KBS杯囲碁王戦準決勝 | Park Junghwan | On Sojin | Win | B+R | 6.5 | 3818.0 | 38.0 | 
 | 2018-02-20 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Lee Jungwoo | Park Junghwan | Win | W+R | 6.5 | 3780.0 | 4.0 | 
 | 2018-02-12 | 韓国ナショナルチームリーグ戦 | Park Junghwan | Weon Seongjin | Win | B+R | 6.5 | 3776.0 | 2.0 | 
-| 2018-02-11 | 第1回クラウン・ヘテ杯決勝三番勝負第三局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3774.0 | 12.0 | 
-| 2018-02-10 | 第1回クラウン・ヘテ杯決勝三番勝負第二局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3762.0 | -21.0 | 
+| 2018-02-11 | 第1回クラウン・ヘテ杯決勝三番勝負第三局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3774.0 | 11.0 | 
+| 2018-02-10 | 第1回クラウン・ヘテ杯決勝三番勝負第二局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3763.0 | -20.0 | 
 | 2018-02-07 | 第6回CCTV賀歳杯決勝 | Ke Jie | Park Junghwan | Win | W+R | 7.5 | 3783.0 | -1.0 | 
 | 2018-02-05 | 第6回CCTV賀歳杯第1局 | Ichiriki Ryo | Park Junghwan | Win | W+R | 7.5 | 3784.0 | 0.0 | 
 | 2018-02-03 | 第1回クラウン・ヘテ杯決勝三番勝負第一局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3784.0 | 19.0 | 
@@ -392,20 +393,20 @@
 | 2017-09-22 | 第8回南方長城杯世界囲碁頂上対決 | Park Junghwan | Ke Jie | Lose | W+2.5 | 7.5 | 3713.0 | -9.0 | 
 | 2017-09-16 | 2017年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | Win | W+R | 6.5 | 3722.0 | 8.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Chen Yaoye | Park Junghwan | Lose | B+R | 7.5 | 3714.0 | -20.0 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦H2 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3734.0 | 16.0 | 
-| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦H1 | Park Junghwan | Gu Zihao | Win | B+R | 6.5 | 3718.0 | -14.0 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦H2 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3734.0 | 15.0 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦H1 | Park Junghwan | Gu Zihao | Win | B+R | 6.5 | 3719.0 | -13.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Win | W+R | 6.5 | 3732.0 | 0.0 | 
 | 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Park Junghwan | Chen Zijian | Win | B+R | 7.5 | 3732.0 | 21.0 | 
 | 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Ke Jie | Park Junghwan | Win | W+2.5 | 7.5 | 3711.0 | 11.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Park Junghwan | Tan Xiao | Win | B+R | 7.5 | 3700.0 | 21.0 | 
-| 2017-08-19 | 2017年韓国囲碁リーグ | Park Junghwan | Hong Seongji | Win | B+4.5 | 6.5 | 3679.0 | -6.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Park Junghwan | Tan Xiao | Win | B+R | 7.5 | 3700.0 | 20.0 | 
+| 2017-08-19 | 2017年韓国囲碁リーグ | Park Junghwan | Hong Seongji | Win | B+4.5 | 6.5 | 3680.0 | -5.0 | 
 | 2017-08-04 | 韓国国家隊循環戦 | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3685.0 | 7.0 | 
 | 2017-08-03 | 2017年韓国囲碁リーグ | Park Junghwan | Kang Seungmin | Win | B+R | 6.5 | 3678.0 | 4.0 | 
 | 2017-07-31 | 4回国手山脈杯世界団体戦決勝 | Park Junghwan | Dang Yifei | Win | B+R | 6.5 | 3674.0 | 19.0 | 
 | 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Hirata Tomoya | Park Junghwan | Win | W+R | 6.5 | 3655.0 | -16.0 | 
 | 2017-07-23 | 2017年韓国囲碁リーグ | Park Junghwan | Kim Myounghoon | Win | B+4.5 | 6.5 | 3671.0 | 5.0 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Gu Zihao | Park Junghwan | Win | W+R | 7.5 | 3666.0 | 5.0 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Park Junghwan | Tang Weixing | Win | B+R | 7.5 | 3661.0 | 11.0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Gu Zihao | Park Junghwan | Win | W+R | 7.5 | 3666.0 | 4.0 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Park Junghwan | Tang Weixing | Win | B+R | 7.5 | 3662.0 | 12.0 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Zhao Chenyu | Park Junghwan | Win | W+R | 7.5 | 3650.0 | -4.0 | 
 | 2017-07-08 | 2017年韓国囲碁リーグ | Park Junghwan | Na Hyun | Win | B+R | 6.5 | 3654.0 | 1.0 | 
 | 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Park Junghwan | Win | W+0.5 | 7.5 | 3653.0 | 3.0 | 
@@ -416,10 +417,10 @@
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | Lose | W+R | 6.5 | 3639.0 | -15.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3654.0 | 5.0 | 
 | 2017-05-22 | 第18回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Yun Junsang | Park Junghwan | Win | W+R | 6.5 | 3649.0 | 4.0 | 
-| 2017-05-20 | 2017年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Win | B+R | 6.5 | 3645.0 | 14.0 | 
-| 2017-05-15 | 第18回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Junghwan | Yun Junsang | Win | B+R | 6.5 | 3631.0 | 14.0 | 
-| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3617.0 | -10.0 | 
-| 2017-04-24 | 第18回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Yun Junsang | Park Junghwan | Lose | B+R | 6.5 | 3627.0 | -24.0 | 
+| 2017-05-20 | 2017年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Win | B+R | 6.5 | 3645.0 | 13.0 | 
+| 2017-05-15 | 第18回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Junghwan | Yun Junsang | Win | B+R | 6.5 | 3632.0 | 15.0 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3617.0 | -11.0 | 
+| 2017-04-24 | 第18回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Yun Junsang | Park Junghwan | Lose | B+R | 6.5 | 3628.0 | -23.0 | 
 | 2017-04-17 | 第18回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Win | W+R | 6.5 | 3651.0 | -15.0 | 
 | 2017-04-10 | 陝川郡第5期韓国英才vs頂尖棋手戦 | Park Junghwan | Seol Hyunjun | Win | B+R | 6.5 | 3666.0 | 4.0 | 
 | 2017-03-27 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Park Junghwan | Win | W+R | 6.5 | 3662.0 | -9.0 | 
@@ -431,8 +432,8 @@
 | 2017-02-21 | 第18回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Park Junghwan | Win | W+R | 6.5 | 3667.0 | 6.0 | 
 | 2017-02-06 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Lee Yeongkyu | Win | B+R | 6.5 | 3661.0 | 3.0 | 
 | 2017-01-30 | 第5回CCTV賀歳杯日中韓新春争覇戦第2戦 | Park Junghwan | Ke Jie | Lose | W+R | 7.5 | 3658.0 | -8.0 | 
-| 2017-01-23 | 第36回KBS杯囲碁王戦32強戦 |  | Park Junghwan | Win | W+R | 6.5 | 3666.0 | 9.0 | 
-| 2017-01-03 | Alphago Online Series on Tygem and Fox 48 | Park Junghwan |  | Lose | W+1.5 | 6.5 | 3657.0 | -13.0 | 
+| 2017-01-23 | 第36回KBS杯囲碁王戦32強戦 |  | Park Junghwan | Win | W+R | 6.5 | 3666.0 | 8.0 | 
+| 2017-01-03 | Alphago Online Series on Tygem and Fox 48 | Park Junghwan |  | Lose | W+1.5 | 6.5 | 3658.0 | -12.0 | 
 | 2016-12-31 | Alphago Online Series on Tygem and Fox 25 | Park Junghwan |  | Lose | W+0.5 | 6.5 | 3670.0 | 0.0 | 
 | 2016-12-31 | Alphago Online Series on Tygem and Fox 24 |  | Park Junghwan | Lose | B+R | 6.5 | 3670.0 | 2.0 | 
 | 2016-12-30 | Alphago Online Series on Tygem and Fox 20 |  | Park Junghwan | Lose | B+5.5 | 6.5 | 3668.0 | 0.0 | 
@@ -454,10 +455,10 @@
 | 2016-10-24 | 第8回応氏杯世界選手権決勝五番勝負第4局 | Park Junghwan | Tang Weixing | Lose | W+11 | 7.5 | 3668.0 | -4.0 | 
 | 2016-10-22 | 第8回応氏杯世界選手権決勝五番勝負第3局 | Tang Weixing | Park Junghwan | Win | W+8 | 7.5 | 3672.0 | 17.0 | 
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Shi Yue | Park Junghwan | Lose | B+R | 7.5 | 3655.0 | -6.0 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Park Junghwan | Jiang Weijie | Lose | W+R | 7.5 | 3661.0 | 13.0 | 
-| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Fan Yunruo | Park Junghwan | Lose | B+2.5 | 6.5 | 3648.0 | 0.0 | 
-| 2016-10-06 | 2016年韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Win | W+R | 6.5 | 3648.0 | -7.0 | 
-| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Yu Bin | Win | B+R | 6.5 | 3655.0 | 10.0 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Park Junghwan | Jiang Weijie | Lose | W+R | 7.5 | 3661.0 | 12.0 | 
+| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Fan Yunruo | Park Junghwan | Lose | B+2.5 | 6.5 | 3649.0 | 0.0 | 
+| 2016-10-06 | 2016年韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Win | W+R | 6.5 | 3649.0 | -7.0 | 
+| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Yu Bin | Win | B+R | 6.5 | 3656.0 | 11.0 | 
 | 2016-09-30 | 2016年韓国囲碁リーグ | Park Junghwan | Ryu Minhyung | Win | B+R | 6.5 | 3645.0 | 0.0 | 
 | 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Park Junghwan | Park Seunghwa | Win | B+R | 6.5 | 3645.0 | -24.0 | 
 | 2016-09-18 | 2016年韓国囲碁リーグ第13節 | Choi Jaeyoung | Park Junghwan | Win | W+R | 6.5 | 3669.0 | -2.0 | 
@@ -476,8 +477,8 @@
 | 2016-07-24 | 2016年韓国囲碁リーグ第7節 | Hong Seongji | Park Junghwan | Win | W+R | 6.5 | 3644.0 | -12.0 | 
 | 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Jiang Qirun | Park Junghwan | Win | W+R | 7.5 | 3656.0 | 1.0 | 
 | 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Gu Li | Park Junghwan | Win | W+R | 7.5 | 3655.0 | 2.0 | 
-| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Tang Weixing | Park Junghwan | Win | W+R | 7.5 | 3653.0 | -2.0 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 |  | Park Junghwan | Win | W+R | 7.5 | 3655.0 | 9.0 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Tang Weixing | Park Junghwan | Win | W+R | 7.5 | 3653.0 | -3.0 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 |  | Park Junghwan | Win | W+R | 7.5 | 3656.0 | 10.0 | 
 | 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Park Junghwan | Song Taekon | Win | B+0.5 | 6.5 | 3646.0 | -10.0 | 
 | 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Xie Ke | Park Junghwan | Win | W+R | 7.5 | 3656.0 | -6.0 | 
 | 2016-06-16 | 2016年韓国囲碁リーグ第4節 | Park Junghwan | Yun Junsang | Lose | W+R | 6.5 | 3662.0 | 7.0 | 
@@ -496,8 +497,8 @@
 | 2016-04-24 | 第8回応氏杯世界選手権3回戦 | Ke Jie | Park Junghwan | Win | W+1 | 7.5 | 3700.0 | 13.0 | 
 | 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Huang Yunsong | Park Junghwan | Win | W+R | 7.5 | 3687.0 | -6.0 | 
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Park Junghwan |  | Lose | W+R | 7.5 | 3693.0 | -9.0 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Chen Yaoye | Park Junghwan | Win | W+2.5 | 7.5 | 3702.0 | 21.0 | 
-| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Mi Yuting | Park Junghwan | Lose | B+R | 7.5 | 3681.0 | 8.0 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Chen Yaoye | Park Junghwan | Win | W+2.5 | 7.5 | 3702.0 | 20.0 | 
+| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Mi Yuting | Park Junghwan | Lose | B+R | 7.5 | 3682.0 | 9.0 | 
 | 2016-03-23 | 第17回マキシムコーヒー杯入神最強戦3回戦 | Park Junghwan | Kang Dongyun | Lose | W+R | 6.5 | 3673.0 | -14.0 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Park Junghwan | Ali Jabarin | Win | B+R | 7.5 | 3687.0 | 0.0 | 
 | 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Lin Lixiang | Park Junghwan | Win | W+R | 7.5 | 3687.0 | 2.0 | 
@@ -527,8 +528,8 @@
 | 2015-11-08 | 第43期名人戦（韓国）準決勝第1局 | Park Junghwan | Hong Seongji | Win | B+R | 6.5 | 3695.0 | 11.0 | 
 | 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Park Junghwan | Win | W+R | 7.5 | 3684.0 | -7.0 | 
 | 2015-10-22 | 2015年レッツランパーク杯オープントーナメント2回戦 | Park Junghwan | Park Jinsol | Lose | W+R | 6.5 | 3691.0 | -16.0 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3707.0 | -18.0 | 
-| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Win | B+R | 7.5 | 3725.0 | -5.0 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3707.0 | -19.0 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Win | B+R | 7.5 | 3726.0 | -4.0 | 
 | 2015-10-12 | 第43期名人戦（韓国）2回戦 |  | Park Junghwan | Win | W+R | 6.5 | 3730.0 | 1.0 | 
 | 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Tan Xiao | Park Junghwan | Lose | B+R | 7.5 | 3729.0 | -12.0 | 
 | 2015-10-08 | 第20回三星火災杯世界囲碁マスターズ3回戦 | Park Junghwan | Tang Weixing | Lose | W+R | 6.5 | 3741.0 | -9.0 | 
@@ -541,9 +542,9 @@
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦H2 |  | Park Junghwan | Win | W+R | 6.5 | 3751.0 | 2.0 | 
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦H1 | Yoda Norimoto | Park Junghwan | Win | W+0.5 | 6.5 | 3749.0 | 4.0 | 
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Park Junghwan | Shi Yue | Win | B+R | 7.5 | 3745.0 | 2.0 | 
-| 2015-09-03 | 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | Win | W+R | 6.5 | 3743.0 | -1.0 | 
-| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Zhou Ruiyang | Park Junghwan | Lose | B+R | 7.5 | 3744.0 | -15.0 | 
-| 2015-08-28 | 第27回テレビアジア選手権決勝 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3759.0 | -1.0 | 
+| 2015-09-03 | 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | Win | W+R | 6.5 | 3743.0 | -2.0 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Zhou Ruiyang | Park Junghwan | Lose | B+R | 7.5 | 3745.0 | -15.0 | 
+| 2015-08-28 | 第27回テレビアジア選手権決勝 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3760.0 | 0.0 | 
 | 2015-08-26 | 第27回テレビアジア選手権準決勝 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3760.0 | 9.0 | 
 | 2015-08-25 | 第27回テレビアジア選手権1回戦 | Park Junghwan | Liao Xingwen | Win | B+R | 6.5 | 3751.0 | -5.0 | 
 | 2015-08-21 | 2015年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Lose | W+R | 6.5 | 3756.0 | 8.0 | 
@@ -582,8 +583,8 @@
 | 2015-01-27 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Paek Hongseok | Park Junghwan | Win | W+R | 6.5 | 3706.0 | 0.0 | 
 | 2015-01-19 | 第33回KBS杯囲碁王戦本戦5回戦 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3706.0 | 2.0 | 
 | 2015-01-14 | 第58期国手戦（韓国）挑戦手合五番勝負第4局 | Park Junghwan | Cho Hanseung | Win | B+R | 6.5 | 3704.0 | -1.0 | 
-| 2015-01-12 | 第58期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Park Junghwan | Lose | B+0.5 | 6.5 | 3705.0 | -23.0 | 
-| 2015-01-09 | 第58期国手戦（韓国）挑戦手合五番勝負第2局 | Park Junghwan | Cho Hanseung | Win | B+3.5 | 6.5 | 3728.0 | 11.0 | 
+| 2015-01-12 | 第58期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Park Junghwan | Lose | B+0.5 | 6.5 | 3705.0 | -24.0 | 
+| 2015-01-09 | 第58期国手戦（韓国）挑戦手合五番勝負第2局 | Park Junghwan | Cho Hanseung | Win | B+3.5 | 6.5 | 3729.0 | 12.0 | 
 | 2015-01-06 | 第58期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Park Junghwan | Win | W+R | 6.5 | 3717.0 | 3.0 | 
 | 2014-12-25 | 第10回春蘭杯世界囲碁選手権3回戦 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3714.0 | -8.0 | 
 | 2014-12-22 | 第33回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Kim Junghyun | Win | B+4.5 | 6.5 | 3722.0 | 11.0 | 
@@ -599,19 +600,19 @@
 | 2014-11-19 | 第19回LG杯朝鮮日報棋王戦準決勝 | Park Yeonghun | Park Junghwan | Win | W+R | 6.5 | 3710.0 | 5.0 | 
 | 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Chen Yaoye | Win | B+R | 6.5 | 3705.0 | 0.0 | 
 | 2014-11-13 | 第58期国手戦（韓国）2回戦 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3705.0 | 14.0 | 
-| 2014-11-09 | 2014年韓国囲碁リーグ | Ryu Suhang | Park Junghwan | Win | W+R | 6.5 | 3691.0 | 8.0 | 
-| 2014-11-07 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Park Junghwan | Tang Weixing | Lose | W+R | 6.5 | 3683.0 | -9.0 | 
-| 2014-11-06 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Park Junghwan | Tang Weixing | Win | B+R | 6.5 | 3692.0 | 4.0 | 
-| 2014-11-05 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Park Junghwan | Lose | B+R | 6.5 | 3688.0 | -13.0 | 
-| 2014-11-03 | 第33回KBS杯囲碁王戦本戦3回戦 | Cho Hanseung | Park Junghwan | Win | W+R | 6.5 | 3701.0 | -25.0 | 
+| 2014-11-09 | 2014年韓国囲碁リーグ | Ryu Suhang | Park Junghwan | Win | W+R | 6.5 | 3691.0 | 7.0 | 
+| 2014-11-07 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Park Junghwan | Tang Weixing | Lose | W+R | 6.5 | 3684.0 | -9.0 | 
+| 2014-11-06 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Park Junghwan | Tang Weixing | Win | B+R | 6.5 | 3693.0 | 4.0 | 
+| 2014-11-05 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Park Junghwan | Lose | B+R | 6.5 | 3689.0 | -13.0 | 
+| 2014-11-03 | 第33回KBS杯囲碁王戦本戦3回戦 | Cho Hanseung | Park Junghwan | Win | W+R | 6.5 | 3702.0 | -24.0 | 
 | 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Dang Yifei | Park Junghwan | Win | W+R | 7.5 | 3726.0 | -1.0 | 
 | 2014-10-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Park Junghwan | Win | W+R | 6.5 | 3727.0 | 19.0 | 
 | 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Park Junghwan | Tan Xiao | Win | B+1.5 | 7.5 | 3708.0 | 9.0 | 
 | 2014-10-16 | 第19回三星火災杯世界囲碁マスターズ3回戦 | Zhou Ruiyang | Park Junghwan | Win | W+R | 6.5 | 3699.0 | 2.0 | 
 | 2014-10-14 | 第19回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3697.0 | -9.0 | 
-| 2014-10-10 | 2014年韓国囲碁リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3706.0 | -1.0 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Shi Yue | Park Junghwan | Win | W+R | 7.5 | 3707.0 | -1.0 | 
-| 2014-10-05 | 第42期名人戦（韓国）準決勝第3局 | Park Junghwan | Park Yeonghun | Lose | W+0.5 | 6.5 | 3708.0 | 27.0 | 
+| 2014-10-10 | 2014年韓国囲碁リーグ | Kang Dongyun | Park Junghwan | Win | W+R | 6.5 | 3706.0 | -2.0 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Shi Yue | Park Junghwan | Win | W+R | 7.5 | 3708.0 | -1.0 | 
+| 2014-10-05 | 第42期名人戦（韓国）準決勝第3局 | Park Junghwan | Park Yeonghun | Lose | W+0.5 | 6.5 | 3709.0 | 28.0 | 
 | 2014-10-01 | 第42期名人戦（韓国）準決勝第2局 | Park Yeonghun | Park Junghwan | Win | W+R | 6.5 | 3681.0 | 19.0 | 
 | 2014-09-30 | 第42期名人戦（韓国）準決勝第1局 | Park Junghwan | Park Yeonghun | Lose | W+R | 6.5 | 3662.0 | 17.0 | 
 | 2014-09-26 | 第18回中韓天元対抗戦第2局 | Park Junghwan | Chen Yaoye | Win | B+0.5 | 6.5 | 3645.0 | -1.0 | 
@@ -630,25 +631,25 @@
 | 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Park Junghwan | Shi Yue | Lose | W+R | 6.5 | 3662.0 | -15.0 | 
 | 2014-08-22 | 第16回農心杯韓国選抜戦 | Song Taekon | Park Junghwan | Win | W+R | 6.5 | 3677.0 | 0.0 | 
 | 2014-08-21 | 第42期名人戦（韓国）2回戦 | Lee Taehyun | Park Junghwan | Win | W+R | 6.5 | 3677.0 | 1.0 | 
-| 2014-08-18 | 第26回テレビアジア選手権準決勝 | Kono Rin | Park Junghwan | Lose | B+R | 7.5 | 3676.0 | -23.0 | 
-| 2014-08-17 | 第26回テレビアジア選手権1回戦 | Park Junghwan | Yuki Satoshi | Win | B+R | 7.5 | 3699.0 | 1.0 | 
-| 2014-08-14 | 2014年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | Win | B+R | 6.5 | 3698.0 | 14.0 | 
-| 2014-08-13 | 第10期物価情報杯プロ棋戦リーグC | Park Junghwan | Seo Bongsoo | Win | B+R | 6.5 | 3684.0 | -8.0 | 
+| 2014-08-18 | 第26回テレビアジア選手権準決勝 | Kono Rin | Park Junghwan | Lose | B+R | 7.5 | 3676.0 | -24.0 | 
+| 2014-08-17 | 第26回テレビアジア選手権1回戦 | Park Junghwan | Yuki Satoshi | Win | B+R | 7.5 | 3700.0 | 1.0 | 
+| 2014-08-14 | 2014年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | Win | B+R | 6.5 | 3699.0 | 14.0 | 
+| 2014-08-13 | 第10期物価情報杯プロ棋戦リーグC | Park Junghwan | Seo Bongsoo | Win | B+R | 6.5 | 3685.0 | -7.0 | 
 | 2014-08-08 | 2014年韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | B+0.5 | 6.5 | 3692.0 | -34.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Park Junghwan | Yun Junsang | Win | B+R | 6.5 | 3726.0 | -7.0 | 
-| 2014-07-29 | 第42期名人戦（韓国）1回戦 | Park Junghwan | Park Siyeol | Win | B+R | 6.5 | 3733.0 | 0.0 | 
-| 2014-07-28 | 第16回農心杯韓国選抜戦 | Park Junghwan | Kim Myounghoon | Win | B+R | 6.5 | 3733.0 | -6.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Park Junghwan | Chen Yaoye | Win | B+5.5 | 7.5 | 3739.0 | 1.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Park Junghwan | Rui Naiwei | Win | B+R | 7.5 | 3738.0 | -14.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Park Junghwan | Yun Junsang | Win | B+R | 6.5 | 3726.0 | -8.0 | 
+| 2014-07-29 | 第42期名人戦（韓国）1回戦 | Park Junghwan | Park Siyeol | Win | B+R | 6.5 | 3734.0 | 0.0 | 
+| 2014-07-28 | 第16回農心杯韓国選抜戦 | Park Junghwan | Kim Myounghoon | Win | B+R | 6.5 | 3734.0 | -6.0 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Park Junghwan | Chen Yaoye | Win | B+5.5 | 7.5 | 3740.0 | 1.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Park Junghwan | Rui Naiwei | Win | B+R | 7.5 | 3739.0 | -13.0 | 
 | 2014-07-18 | 第16回農心杯韓国選抜戦 | Park Junghwan | Lee Hobum | Win | B+R | 6.5 | 3752.0 | -14.0 | 
-| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグC | Kim Sonjin | Park Junghwan | Win | W+R | 6.5 | 3766.0 | -12.0 | 
-| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Sonjin | Park Junghwan | Win | W+R | 6.5 | 3778.0 | 1.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Park Junghwan | Hu Yaoyu | Win | B+R | 7.5 | 3777.0 | 9.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Dingxin | Park Junghwan | Lose | B+R | 7.5 | 3768.0 | 46.0 | 
+| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグC | Kim Sonjin | Park Junghwan | Win | W+R | 6.5 | 3766.0 | -13.0 | 
+| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Sonjin | Park Junghwan | Win | W+R | 6.5 | 3779.0 | 1.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Park Junghwan | Hu Yaoyu | Win | B+R | 7.5 | 3778.0 | 9.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Dingxin | Park Junghwan | Lose | B+R | 7.5 | 3769.0 | 47.0 | 
 | 2014-06-26 | 2014年韓国囲碁リーグ | Na Hyun | Park Junghwan | Win | W+R | 6.5 | 3722.0 | 4.0 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Wang Haoyang | Park Junghwan | Win | W+R | 7.5 | 3718.0 | -55.0 | 
-| 2014-06-15 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Win | W+R | 6.5 | 3773.0 | -3.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 |  | Park Junghwan | Win | W+R | 7.5 | 3776.0 | 21.0 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Wang Haoyang | Park Junghwan | Win | W+R | 7.5 | 3718.0 | -56.0 | 
+| 2014-06-15 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Win | W+R | 6.5 | 3774.0 | -3.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 |  | Park Junghwan | Win | W+R | 7.5 | 3777.0 | 22.0 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Tang Weixing | Park Junghwan | Win | W+R | 6.5 | 3755.0 | 17.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Li Weiqing | Park Junghwan | Win | W+R | 6.5 | 3738.0 | 4.0 | 
 | 2014-06-06 | 2014年韓国囲碁リーグ | Park Junghwan | Kim Jiseok | Lose | W+R | 6.5 | 3734.0 | -7.0 | 
@@ -659,11 +660,11 @@
 | 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Xu Jiayang | Park Junghwan | Win | W+R | 7.5 | 3811.0 | -28.0 | 
 | 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Zhang Tao | Park Junghwan | Win | W+R | 7.5 | 3839.0 | -3.0 | 
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Jiang Weijie | Park Junghwan | Lose | B+R | 7.5 | 3842.0 | 3.0 | 
-| 2014-05-10 | 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Win | B+R | 6.5 | 3839.0 | -34.0 | 
-| 2014-04-28 | 第33回KBS杯囲碁王戦本戦2回戦 | Park Jinsol | Park Junghwan | Win | W+R | 6.5 | 3873.0 | 5.0 | 
-| 2014-04-22 | 第15回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3868.0 | -2.0 | 
-| 2014-04-15 | 第15回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Junghwan | Lee Sedol | Lose | W+R | 6.5 | 3870.0 | -5.0 | 
-| 2014-04-12 | 2014年韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | B+R | 6.5 | 3875.0 | 11.0 | 
+| 2014-05-10 | 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Win | B+R | 6.5 | 3839.0 | -35.0 | 
+| 2014-04-28 | 第33回KBS杯囲碁王戦本戦2回戦 | Park Jinsol | Park Junghwan | Win | W+R | 6.5 | 3874.0 | 5.0 | 
+| 2014-04-22 | 第15回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3869.0 | -2.0 | 
+| 2014-04-15 | 第15回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Junghwan | Lee Sedol | Lose | W+R | 6.5 | 3871.0 | -5.0 | 
+| 2014-04-12 | 2014年韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | B+R | 6.5 | 3876.0 | 12.0 | 
 | 2014-04-03 | 第19期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | B+R | 6.5 | 3864.0 | -11.0 | 
 | 2014-04-01 | 第15回マキシムコーヒー杯入神最強戦準決勝 | Park Cheongsang | Park Junghwan | Win | W+R | 6.5 | 3875.0 | 3.0 | 
 | 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Tang Weixing | Park Junghwan | Win | W+R | 7.5 | 3872.0 | -2.0 | 
@@ -689,14 +690,14 @@
 | 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Park Junghwan | Fujita Akihiko | Win | B+R | 7.5 | 3766.0 | 8.0 | 
 | 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Junxun | Park Junghwan | Win | W+0.5 | 7.5 | 3758.0 | 2.0 | 
 | 2013-12-02 | 第32回KBS杯囲碁王戦本戦4回戦 | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3756.0 | 3.0 | 
-| 2013-11-30 | 2013年韓国囲碁リーグ | Park Junghwan | Lee Sedol | Win | B+R | 6.5 | 3753.0 | 6.0 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Lian Xiao | Park Junghwan | Win | W+R | 7.5 | 3747.0 | 7.0 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Chen Yaoye | Park Junghwan | Lose | B+R | 7.5 | 3740.0 | -9.0 | 
-| 2013-11-21 | 第57期国手戦（韓国）挑戦者決定戦第2局 | Park Junghwan | Lee Sedol | Lose | W+R | 6.5 | 3749.0 | 0.0 | 
-| 2013-11-20 | 第57期国手戦（韓国）挑戦者決定戦第1局 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3749.0 | -1.0 | 
-| 2013-11-17 | 2013年韓国囲碁リーグ | Min Sangyoun | Park Junghwan | Win | W+R | 6.5 | 3750.0 | 1.0 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Park Junghwan | Zhou Ruiyang | Win | B+R | 7.5 | 3749.0 | 13.0 | 
-| 2013-11-12 | 第18期バッカス杯天元戦準決勝 | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3736.0 | 22.0 | 
+| 2013-11-30 | 2013年韓国囲碁リーグ | Park Junghwan | Lee Sedol | Win | B+R | 6.5 | 3753.0 | 5.0 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Lian Xiao | Park Junghwan | Win | W+R | 7.5 | 3748.0 | 7.0 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Chen Yaoye | Park Junghwan | Lose | B+R | 7.5 | 3741.0 | -9.0 | 
+| 2013-11-21 | 第57期国手戦（韓国）挑戦者決定戦第2局 | Park Junghwan | Lee Sedol | Lose | W+R | 6.5 | 3750.0 | 0.0 | 
+| 2013-11-20 | 第57期国手戦（韓国）挑戦者決定戦第1局 | Lee Sedol | Park Junghwan | Lose | B+R | 6.5 | 3750.0 | -1.0 | 
+| 2013-11-17 | 2013年韓国囲碁リーグ | Min Sangyoun | Park Junghwan | Win | W+R | 6.5 | 3751.0 | 1.0 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Park Junghwan | Zhou Ruiyang | Win | B+R | 7.5 | 3750.0 | 13.0 | 
+| 2013-11-12 | 第18期バッカス杯天元戦準決勝 | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3737.0 | 23.0 | 
 | 2013-11-04 | 第57期国手戦（韓国）準決勝 | Park Junghwan | Kim Jiseok | Win | B+R | 6.5 | 3714.0 | 48.0 | 
 | 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Park Junghwan | Hu Yaoyu | Win | B+R | 7.5 | 3666.0 | 0.0 | 
 | 2013-10-24 | 2013年韓国囲碁リーグ | Park Junghwan | Lee Jihyun | Win | B+R | 6.5 | 3666.0 | -3.0 | 

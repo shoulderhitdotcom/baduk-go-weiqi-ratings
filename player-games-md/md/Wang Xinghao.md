@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 3537.0 | 0.0 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3537.0 | -7.0 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Xu Jingen | Wang Xinghao | Win | W+R | 6.5 | 3544.0 | -1.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Wang Xinghao |  | Win | B+R | 6.5 | 3545.0 | -1.0 | 
@@ -15,9 +16,9 @@
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tong Mengcheng | Win | B+R | 7.5 | 3589.0 | 16.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Lose | B+R | 7.5 | 3573.0 | 47.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Liu Yuhang | Win | B+R | 7.5 | 3526.0 | 3.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Lose | B+¾ | 7.5 | 3523.0 | -19.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Chengsen | Wang Xinghao | Win | W+R | 7.5 | 3542.0 | -2.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Win | B+R | 7.5 | 3544.0 | 18.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Lose | B+¾ | 7.5 | 3523.0 | -20.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Chengsen | Wang Xinghao | Win | W+R | 7.5 | 3543.0 | -2.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Win | B+R | 7.5 | 3545.0 | 19.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Wang Xinghao | Win | W+R | 7.5 | 3526.0 | 7.0 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Wang Xinghao | He Xin | Win | B+R | 7.5 | 3519.0 | 5.0 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Xinghao | Jin Yucheng | Lose | W+R | 7.5 | 3514.0 | -15.0 | 
@@ -50,8 +51,8 @@
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Lian Xiao | Lose | W+R | 7.5 | 3309.0 | -16.0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3325.0 | -22.0 | 
 | 2021-04-14 | 2021博思軟件杯中国囲碁新秀争覇戦2回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3347.0 | 1.0 | 
-| 2021-04-13 | 2021博思軟件杯中国囲碁新秀争覇戦1回戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3346.0 | -2.0 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Wang Xinghao | Win | W+R | 7.5 | 3348.0 | 11.0 | 
+| 2021-04-13 | 2021博思軟件杯中国囲碁新秀争覇戦1回戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3346.0 | -3.0 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Wang Xinghao | Win | W+R | 7.5 | 3349.0 | 12.0 | 
 | 2021-03-09 | 第35期中国囲碁天元戦予選 | Han Yizhou | Wang Xinghao | Lose | B+1¾ | 7.5 | 3337.0 | -1.0 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tan Xiao | Win | B+1¾ | 7.5 | 3338.0 | 24.0 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tan Xiao | Lose | W+R | 7.5 | 3314.0 | -17.0 | 
@@ -78,8 +79,8 @@
 | 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3555.0 | -11.0 | 
 | 2020-05-11 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Zheng Zaixiang | Wang Xinghao | Win | W+R | 7.5 | 3566.0 | 1.0 | 
 | 2019-12-30 | 第5期洛陽白雲山杯中国棋聖戦予選 | Tong Mengcheng | Wang Xinghao | Win | W+R | 7.5 | 3565.0 | 15.0 | 
-| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Li Xuanhao | Wang Xinghao | Win | W+R | 7.5 | 3550.0 | 14.0 | 
-| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Chen Zhengxun | Wang Xinghao | Win | W+R | 7.5 | 3536.0 | -5.0 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Li Xuanhao | Wang Xinghao | Win | W+R | 7.5 | 3550.0 | 13.0 | 
+| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Chen Zhengxun | Wang Xinghao | Win | W+R | 7.5 | 3537.0 | -4.0 | 
 | 2019-12-14 | 第11期中国竜星戦予選 |  | Wang Xinghao | Lose | B+R | 7.5 | 3541.0 | -17.0 | 
 | 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Dang Yifei | Wang Xinghao | Win | W+R | 7.5 | 3558.0 | 19.0 | 
 | 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Wang Xinghao | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3539.0 | -23.0 | 
@@ -112,18 +113,18 @@
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Wang Xinghao | Li Xuanhao | Lose | W+R | 7.5 | 3198.0 | 76.0 | 
 | 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Zhang Tao | Wang Xinghao | Lose | B+R | 7.5 | 3122.0 | -30.0 | 
 | 2018-10-23 | 2018年博思軟件杯中国囲棋新秀争覇戦16強戦 | Wang Xinghao | Jin Yucheng | Lose | W+R | 7.5 | 3152.0 | -2.0 | 
-| 2018-10-22 | 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3154.0 | -56.0 | 
-| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 | Guo Yuzheng | Wang Xinghao | Lose | B+R | 7.5 | 3210.0 | 0.0 | 
-| 2018-09-25 | 2018年全国囲棋個人戦男子組第11戦 | Wang Xinghao | Liu Yuhang | Win | B+R | 7.5 | 3210.0 | -22.0 | 
+| 2018-10-22 | 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3154.0 | -57.0 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 | Guo Yuzheng | Wang Xinghao | Lose | B+R | 7.5 | 3211.0 | 0.0 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第11戦 | Wang Xinghao | Liu Yuhang | Win | B+R | 7.5 | 3211.0 | -21.0 | 
 | 2018-09-16 | 2018年全国囲棋個人戦男子組第3戦 | Xia Chenkun | Wang Xinghao | Lose | B+R | 7.5 | 3232.0 | -56.0 | 
-| 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Zhou Hexi | Wang Xinghao | Win | W+R | 7.5 | 3288.0 | -86.0 | 
-| 2018-06-15 | 2018年中国囲碁乙級リーグ |  | Wang Xinghao | Win | W+R | 7.5 | 3374.0 | 82.0 | 
-| 2018-06-12 | 2018年中国囲碁乙級リーグ | Wang Xinghao |  | Lose | W+0.5 | 7.5 | 3292.0 | 0.0 | 
-| 2018-06-12 | 2018年中国囲碁乙級リーグ | Wang Xinghao |  | Lose | W+¼ | 7.5 | 3292.0 | -66.0 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Zhou Hexi | Wang Xinghao | Win | W+R | 7.5 | 3288.0 | -87.0 | 
+| 2018-06-15 | 2018年中国囲碁乙級リーグ |  | Wang Xinghao | Win | W+R | 7.5 | 3375.0 | 82.0 | 
+| 2018-06-12 | 2018年中国囲碁乙級リーグ | Wang Xinghao |  | Lose | W+0.5 | 7.5 | 3293.0 | 0.0 | 
+| 2018-06-12 | 2018年中国囲碁乙級リーグ | Wang Xinghao |  | Lose | W+¼ | 7.5 | 3293.0 | -65.0 | 
 | 2018-03-04 | 第9期中国竜星戦予選 | He Yuhan | Wang Xinghao | Lose | B+R | 7.5 | 3358.0 | -124.0 | 
-| 2018-01-17 | 第3期未来の星新鋭最強戦8強戦 | Park Geunho | Wang Xinghao | Lose | B+R | 6.5 | 3482.0 | 127.0 | 
-| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Baek Hyeonwoo | Wang Xinghao | Win | W+3.5 | 6.5 | 3355.0 | 0.0 | 
-| 2017-08-17 | 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Song Jihoon | Wang Xinghao | Win | W+R | 7.5 | 3355.0 | 21.0 | 
+| 2018-01-17 | 第3期未来の星新鋭最強戦8強戦 | Park Geunho | Wang Xinghao | Lose | B+R | 6.5 | 3482.0 | 126.0 | 
+| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Baek Hyeonwoo | Wang Xinghao | Win | W+3.5 | 6.5 | 3356.0 | 0.0 | 
+| 2017-08-17 | 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Song Jihoon | Wang Xinghao | Win | W+R | 7.5 | 3356.0 | 22.0 | 
 | 2016-12-27 | 第31期中国囲碁天元戦予選 | Chen Xian | Wang Xinghao | Lose | B+5.5 | 7.5 | 3334.0 | -79.0 | 
 | 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Wang Xinghao | Chen Zijian | Lose | W+R | 7.5 | 3413.0 | missing |
 

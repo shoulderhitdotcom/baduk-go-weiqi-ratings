@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Wang Chunhui | Lose | B+R | 7.5 | 3108.0 | -13.0 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Wang Chunhui |  | Win | B+R | 7.5 | 3121.0 | 29.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Chunhui | Kim Jiseok | Lose | W+1¼ | 7.5 | 3092.0 | 6.0 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Wang Chunhui | Li He | Lose | W+1¾ | 7.5 | 3086.0 | 5.0 | 
@@ -17,9 +18,9 @@
 | 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Lu Minquan | Wang Chunhui | Win | W+R | 7.5 | 3194.0 | 29.0 | 
 | 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fang Ruoxi | Wang Chunhui | Lose | B+R | 7.5 | 3165.0 | -74.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Chunhui | He Yuhan | Lose | W+R | 7.5 | 3239.0 | -13.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Xian | Wang Chunhui | Lose | B+R | 7.5 | 3252.0 | -18.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lian Xiao | Lose | W+R | 7.5 | 3270.0 | -8.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Lose | W+R | 7.5 | 3278.0 | -6.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Xian | Wang Chunhui | Lose | B+R | 7.5 | 3252.0 | -19.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lian Xiao | Lose | W+R | 7.5 | 3271.0 | -8.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Lose | W+R | 7.5 | 3279.0 | -5.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Lose | W+¼ | 7.5 | 3284.0 | -11.0 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Chunhui | Pan Tingyu | Lose | W+R | 7.5 | 3295.0 | 2.0 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Huang Mingyu | Wang Chunhui | Win | W+R | 7.5 | 3293.0 | 41.0 | 

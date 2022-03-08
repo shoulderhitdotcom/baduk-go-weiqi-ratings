@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Zheng Zaixiang |  | Win | B+R | 7.5 | 3337.0 | 21.0 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Zheng Zaixiang | Jin Yucheng | Win | B+R | 7.5 | 3316.0 | 241.0 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Jin Yucheng | Zheng Zaixiang | Lose | B+R | 7.5 | 3075.0 | -18.0 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Zheng Zaixiang | Hu Zihao | Win | B+1¾ | 7.5 | 3093.0 | 121.0 | 

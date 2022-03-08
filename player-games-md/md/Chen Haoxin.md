@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3471.0 | 2.0 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3469.0 | -26.0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Chen Haoxin | Liu Qifeng | Lose | W+R | 7.5 | 3495.0 | -52.0 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Lose | W+R | 7.5 | 3547.0 | -34.0 | 
@@ -60,8 +61,8 @@
 | 2018-09-19 | 2018年全国囲棋個人戦男子組第6戦 | Chen Haoxin | Huang Xin | Lose | W+R | 7.5 | 2992.0 | -55.0 | 
 | 2018-09-17 | 2018年全国囲棋個人戦男子組第4戦 | Chen Haoxin |  | Lose | W+R | 7.5 | 3047.0 | 73.0 | 
 | 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Mi Yuting | Chen Haoxin | Lose | B+R | 7.5 | 2974.0 | 34.0 | 
-| 2018-03-28 | 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Onishi Ryuhei | Chen Haoxin | Lose | B+R | 6.5 | 2940.0 | -51.0 | 
-| 2018-03-27 | 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Park Hyunsoo | Chen Haoxin | Win | W+R | 6.5 | 2991.0 | missing |
+| 2018-03-28 | 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Onishi Ryuhei | Chen Haoxin | Lose | B+R | 6.5 | 2940.0 | -52.0 | 
+| 2018-03-27 | 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Park Hyunsoo | Chen Haoxin | Win | W+R | 6.5 | 2992.0 | missing |
 
 
 

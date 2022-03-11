@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-08 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Yeongkyu | Win | W+R | 6.5 | 3331.0 | 30.0 | 
+| 2022-03-10 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Gon Jiwoo | Win | B+R | 6.5 | 3330.0 | -2.0 | 
+| 2022-03-08 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Yeongkyu | Win | W+R | 6.5 | 3332.0 | 31.0 | 
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Byun Sangil | Lee Yeongkyu | Lose | B+R | 6.5 | 3301.0 | -31.0 | 
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Yeongkyu | Win | W+R | 6.5 | 3332.0 | 25.0 | 
 | 2022-02-17 | 第5期韓国竜星戦予選 | Lee Yeongkyu | Paek Hongseok | Win | B+R | 6.5 | 3307.0 | 1.0 | 
-| 2022-02-15 | 第5期韓国竜星戦予選 | Na Hyun | Lee Yeongkyu | Win | W+R | 6.5 | 3306.0 | 72.0 | 
-| 2022-02-11 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Win | B+2.5 | 6.5 | 3234.0 | 0.0 | 
-| 2022-02-07 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun | Lee Yeongkyu | Win | W+R | 6.5 | 3234.0 | -13.0 | 
+| 2022-02-15 | 第5期韓国竜星戦予選 | Na Hyun | Lee Yeongkyu | Win | W+R | 6.5 | 3306.0 | 71.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Win | B+2.5 | 6.5 | 3235.0 | 0.0 | 
+| 2022-02-07 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun | Lee Yeongkyu | Win | W+R | 6.5 | 3235.0 | -12.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Win | B+R | 6.5 | 3247.0 | 29.0 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu |  | Win | B+R | 6.5 | 3218.0 | 30.0 | 
 | 2022-01-17 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | An Joyeong | Win | B+4.5 | 6.5 | 3188.0 | 12.0 | 
@@ -35,9 +36,9 @@
 | 2021-01-31 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Lee Yeongkyu | Lose | B+3.5 | 6.5 | 3306.0 | 15.0 | 
 | 2021-01-26 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Lee Yeongkyu | Lose | B+R | 6.5 | 3291.0 | -27.0 | 
 | 2021-01-21 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Myounghoon | Lose | W+R | 6.5 | 3318.0 | -6.0 | 
-| 2021-01-14 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Lose | B+R | 6.5 | 3324.0 | 10.0 | 
-| 2021-01-08 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Junghyun | Win | B+0.5 | 6.5 | 3314.0 | 25.0 | 
-| 2021-01-01 | 2020-2021韓国囲碁リーグ | Lee Taehyun | Lee Yeongkyu | Win | W+R | 6.5 | 3289.0 | 4.0 | 
+| 2021-01-14 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Lose | B+R | 6.5 | 3324.0 | 9.0 | 
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Junghyun | Win | B+0.5 | 6.5 | 3315.0 | 25.0 | 
+| 2021-01-01 | 2020-2021韓国囲碁リーグ | Lee Taehyun | Lee Yeongkyu | Win | W+R | 6.5 | 3290.0 | 5.0 | 
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Song Jihoon | Lee Yeongkyu | Lose | B+R | 6.5 | 3285.0 | 48.0 | 
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Lee Changseok | Lose | W+R | 6.5 | 3237.0 | -32.0 | 
 | 2020-12-10 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3269.0 | 14.0 | 
@@ -62,17 +63,17 @@
 | 2020-04-12 | 韓国囲碁リーグオールスター戦第3局 | Lee Yeongkyu | Na Hyun | Lose | W+1.5 | 6.5 | 3328.0 | 12.0 | 
 | 2020-03-03 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Lee Yeongkyu | Shin Minjun | Lose | W+R | 6.5 | 3316.0 | -19.0 | 
 | 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第2局 | Lee Yeongkyu | Lee Changseok | Lose | W+R | 6.5 | 3335.0 | -25.0 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第3局 | Choi Kyeongho | Lee Yeongkyu | Win | W+9.5 | 6.5 | 3360.0 | 4.0 | 
-| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第2局 | Lee Yeongkyu | Park Junghwan | Win | B+R | 6.5 | 3356.0 | 25.0 | 
-| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Kim Myounghoon | Lee Yeongkyu | Lose | B+1.5 | 7.5 | 3331.0 | -14.0 | 
-| 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第3局 | Lee Yeongkyu | Kang Dongyun | Lose | W+R | 6.5 | 3345.0 | -24.0 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第3局 | Choi Kyeongho | Lee Yeongkyu | Win | W+9.5 | 6.5 | 3360.0 | 3.0 | 
+| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第2局 | Lee Yeongkyu | Park Junghwan | Win | B+R | 6.5 | 3357.0 | 25.0 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Kim Myounghoon | Lee Yeongkyu | Lose | B+1.5 | 7.5 | 3332.0 | -14.0 | 
+| 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第3局 | Lee Yeongkyu | Kang Dongyun | Lose | W+R | 6.5 | 3346.0 | -23.0 | 
 | 2020-01-11 | 2019-2020韓国囲碁リーグ第15節第3試合第5局 | Park Hyunsoo | Lee Yeongkyu | Lose | B+0.5 | 6.5 | 3369.0 | -23.0 | 
 | 2020-01-06 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | Park Cheongsang | Win | B+3.5 | 6.5 | 3392.0 | 13.0 | 
 | 2020-01-02 | 2019-2020韓国囲碁リーグ第14節第1試合第4局 | Lee Yeongkyu | Jin Siyoung | Win | B+1.5 | 6.5 | 3379.0 | 12.0 | 
 | 2019-12-28 | 2019-2020韓国囲碁リーグ第13節第3試合第2局 | Lee Hoseong | Lee Yeongkyu | Lose | B+R | 6.5 | 3367.0 | -31.0 | 
-| 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第5局 | Choi Cheolhan | Lee Yeongkyu | Lose | B+R | 6.5 | 3398.0 | -47.0 | 
-| 2019-12-05 | 2019-2020韓国囲碁リーグ第10節第1試合第4局 | Lee Yeongkyu | Park Joonhoon | Win | B+R | 6.5 | 3445.0 | 14.0 | 
-| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第4局 | Song Gyusang | Lee Yeongkyu | Win | W+R | 6.5 | 3431.0 | 18.0 | 
+| 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第5局 | Choi Cheolhan | Lee Yeongkyu | Lose | B+R | 6.5 | 3398.0 | -48.0 | 
+| 2019-12-05 | 2019-2020韓国囲碁リーグ第10節第1試合第4局 | Lee Yeongkyu | Park Joonhoon | Win | B+R | 6.5 | 3446.0 | 14.0 | 
+| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第4局 | Song Gyusang | Lee Yeongkyu | Win | W+R | 6.5 | 3432.0 | 19.0 | 
 | 2019-11-23 | 2019-2020韓国囲碁リーグ第8節第3試合第2局 | Weon Seongjin | Lee Yeongkyu | Win | W+R | 6.5 | 3413.0 | 14.0 | 
 | 2019-11-14 | 2019-2020韓国囲碁リーグ第7節第1試合第3局 | Park Hamin | Lee Yeongkyu | Lose | B+1.5 | 6.5 | 3399.0 | -9.0 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Lee Yeongkyu | Lin Shixun | Lose | W+R | 6.5 | 3408.0 | -25.0 | 
@@ -91,8 +92,8 @@
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Kim Myounghoon | Lee Yeongkyu | Win | W+R | 6.5 | 3465.0 | 26.0 | 
 | 2019-07-05 | 第24回三星火災杯統合予選決勝 | Fan Yunruo | Lee Yeongkyu | Win | W+R | 6.5 | 3439.0 | 24.0 | 
 | 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Mutsuura Yuta | Lee Yeongkyu | Win | W+2.5 | 6.5 | 3415.0 | 7.0 | 
-| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Lee Chungyu | Lee Yeongkyu | Win | W+R | 6.5 | 3408.0 | -26.0 | 
-| 2019-06-16 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Lee Yeongkyu | Win | W+R | 7.5 | 3434.0 | -7.0 | 
+| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Lee Chungyu | Lee Yeongkyu | Win | W+R | 6.5 | 3408.0 | -27.0 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Lee Yeongkyu | Win | W+R | 7.5 | 3435.0 | -6.0 | 
 | 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Lee Yeongkyu | Na Hyun | Lose | W+R | 6.5 | 3441.0 | 0.0 | 
 | 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Lee Yeongkyu | Yun Junsang | Win | B+R | 6.5 | 3441.0 | -31.0 | 
 | 2019-05-21 | 第4回夢百合杯統合予選 | Yu Bin | Lee Yeongkyu | Lose | B+R | 7.5 | 3472.0 | -66.0 | 
@@ -131,8 +132,8 @@
 | 2018-04-18 | 第1回韓国竜星戦16強戦 | Shin Jinseo | Lee Yeongkyu | Win | W+R | 6.5 | 3562.0 | 16.0 | 
 | 2018-03-26 | 第19回マキシムコーヒー杯入神最強戦準決勝 | Lee Yeongkyu | Cho Hanseung | Lose | W+1.5 | 6.5 | 3546.0 | -15.0 | 
 | 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションB3 | Song Jihoon | Lee Yeongkyu | Win | W+R | 6.5 | 3561.0 | 9.0 | 
-| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションB2 | Byun Sangil | Lee Yeongkyu | Lose | B+T | 6.5 | 3552.0 | -13.0 | 
-| 2018-03-12 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Lee Yeongkyu | Win | W+R | 6.5 | 3565.0 | 30.0 | 
+| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションB2 | Byun Sangil | Lee Yeongkyu | Lose | B+T | 6.5 | 3552.0 | -14.0 | 
+| 2018-03-12 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Lee Yeongkyu | Win | W+R | 6.5 | 3566.0 | 31.0 | 
 | 2018-02-26 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Lee Yeongkyu | Paek Hongseok | Win | B+R | 6.5 | 3535.0 | 32.0 | 
 | 2018-01-08 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | Heo Yongho | Win | B+R | 6.5 | 3503.0 | 13.0 | 
 | 2017-12-19 | 第36回KBS杯囲碁王戦16強戦 | Park Junghwan | Lee Yeongkyu | Lose | B+R | 6.5 | 3490.0 | 18.0 | 

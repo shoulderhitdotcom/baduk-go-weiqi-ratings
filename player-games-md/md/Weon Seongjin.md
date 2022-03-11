@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-10 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3487.0 | 9.0 | 
 | 2022-03-09 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Park Hamin | Lose | W+R | 7.5 | 3478.0 | -10.0 | 
 | 2022-03-08 | 2022年アジア競技大会韓国予選 | Kim Myounghoon | Weon Seongjin | Lose | B+R | 6.5 | 3488.0 | 0.0 | 
 | 2022-03-08 | 2022年アジア競技大会韓国予選 | Shin Minjun | Weon Seongjin | Win | W+R | 6.5 | 3488.0 | -2.0 | 
@@ -216,8 +217,8 @@
 | 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Hobum | Win | B+R | 6.5 | 3510.0 | -3.0 | 
 | 2016-05-16 | 第35回KBS杯囲碁王戦2回戦 | Kang Changbae | Weon Seongjin | Win | W+R | 6.5 | 3513.0 | -28.0 | 
 | 2016-05-10 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3541.0 | 9.0 | 
-| 2016-05-03 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 3532.0 | -3.0 | 
-| 2016-04-26 | 第17回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3535.0 | 10.0 | 
+| 2016-05-03 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 3532.0 | -4.0 | 
+| 2016-04-26 | 第17回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3536.0 | 11.0 | 
 | 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Weon Seongjin | Kang Dongyun | Lose | W+R | 7.5 | 3525.0 | -26.0 | 
 | 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+R | 7.5 | 3551.0 | 27.0 | 
 | 2016-04-07 | 第21期GSカルテックス杯プロ棋戦準決勝 | Yun Chanhee | Weon Seongjin | Lose | B+0.5 | 6.5 | 3524.0 | -12.0 | 

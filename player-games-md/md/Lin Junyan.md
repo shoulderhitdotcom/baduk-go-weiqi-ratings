@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-10 | 第3期名人冠軍戦準決勝第1局  | Lin Junyan | Lai Junfu | Win | B+R | 6.5 | 3324.0 | 7.0 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 7.5 | 3317.0 | -12.0 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3329.0 | -7.0 | 
 | 2022-03-07 | 第3期名人冠軍戦3回戦 | Lin Junyan | Chen Qirui | Win | B+R | 6.5 | 3336.0 | 8.0 | 

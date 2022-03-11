@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-10 | 第3期名人冠軍戦準決勝第1局  | Lin Junyan | Lai Junfu | Lose | B+R | 6.5 | 3261.0 | -5.0 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | Win | W+1 | 7.5 | 3266.0 | -5.0 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Win | W+R | 6.5 | 3271.0 | 22.0 | 
 | 2022-03-07 | 第3期名人冠軍戦3回戦 | Lai Junfu | Lin Shixun | Win | B+1.5 | 6.5 | 3249.0 | 2.0 | 

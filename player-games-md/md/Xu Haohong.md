@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-10 | 第3期名人冠軍戦準決勝第1局  | Chen Xi | Xu Haohong | Win | W+R | 6.5 | 3425.0 | 2.0 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Win | W+R | 7.5 | 3423.0 | 9.0 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3414.0 | 2.0 | 
 | 2022-03-07 | 第3期名人冠軍戦3回戦  | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3412.0 | 15.0 | 
@@ -407,9 +408,9 @@
 | 2016-06-03 | 第6期友士杯十段戦1回戦 | Li Wei | Xu Haohong | Win | W+0.5 | 6.5 | 3153.0 | 0.0 | 
 | 2016-05-20 | 第6期友士杯十段戦予選 | Xu Haohong | Yu Binghuang | Win | B+R | 6.5 | 3153.0 | 39.0 | 
 | 2016-05-18 | 第6期友士杯十段戦予選 | Gao Yun | Xu Haohong | Win | W+5.5 | 6.5 | 3114.0 | 0.0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 |  | Xu Haohong | Win | W+R | 6.5 | 3114.0 | -42.0 | 
-| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yi Lingtao | Xu Haohong | Lose | B+R | 7.5 | 3156.0 | -37.0 | 
-| 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Fujisawa Rina | Xu Haohong | Win | W+R | 7.5 | 3193.0 | 40.0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 |  | Xu Haohong | Win | W+R | 6.5 | 3114.0 | -43.0 | 
+| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yi Lingtao | Xu Haohong | Lose | B+R | 7.5 | 3157.0 | -37.0 | 
+| 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Fujisawa Rina | Xu Haohong | Win | W+R | 7.5 | 3194.0 | 41.0 | 
 | 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Xu Haohong | Lose | B+R | 6.5 | 3153.0 | -34.0 | 
 | 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Gu Zihao | Xu Haohong | Lose | B+R | 7.5 | 3187.0 | -7.0 | 
 | 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Xu Haohong | Zhou Pingqiang | Win | B+R | 6.5 | 3194.0 | 58.0 | 

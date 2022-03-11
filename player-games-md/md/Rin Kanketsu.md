@@ -5,190 +5,113 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第28期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Hane Naoki | B+R | 2021-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4QY0h3KSx%2BtR8wcitAEng%3D%3D) | 
-| 第69期王座戦予選 | Rin Kanketsu | Fujii Shuya | B+R | 2021-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mk5Hg%2By5YHqHWFLedkPQbg%3D%3D) | 
-| 第69期王座戦予選 | Onishi Ryuhei | Rin Kanketsu | W+3.5 | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCL2rQXDtZPgqbl0QdJeyw%3D%3D) | 
-| 第59期十段戦予選 | Ida Atsushi | Rin Kanketsu | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nU0zaHjrLj28cdhQW9Ov9g%3D%3D) | 
-| 第59期十段戦予選 | Rin Kanketsu | Watanabe Yuu | B+R | 2020-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eSPR58nvAb4szGe%2BOWBD0Q%3D%3D) | 
-| 第45期名人戦リーグ  | Iyama Yuta | Rin Kanketsu | B+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IRx0aO9O60X6De%2Byo2ISwg%3D%3D) | 
-| 第45期名人戦リーグ | Rin Kanketsu | Murakawa Daisuke | B+1.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Hmf88uCpdZeOXAxExPw%2Fw%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Rin Kanketsu | Mutsuura Yuta | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mc4dhMEcvy%2Fdnk8glHxnAg%3D%3D) | 
-| 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | W+R | 2020-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vNVfBBYfVDtVFIgFpDUHA%3D%3D) | 
-| 第45期名人戦リーグ | Ichiriki Ryo | Rin Kanketsu | B+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rwBCQ%2BQE9NYE3ETvL6tRg%3D%3D) | 
-| 第68期王座戦1回戦 | Rin Kanketsu | Ohba Junya | W+3.5 | 2020-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88DE1%2FJPYlYDSN%2B95Lq4yg%3D%3D) | 
-| 第45期名人戦リーグ | Rin Kanketsu | Hsu Chiayuan | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2Fcb2577zb%2F0dL1R9Akpbw%3D%3D) | 
-| 第45期名人戦リーグ | Rin Kanketsu | Hane Naoki | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6f6TVpJS%2BrYdVH6A5Baflg%3D%3D) | 
-| 第68期王座戦予選 | Rin Kanketsu | Ida Atsushi | B+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZYhpIFYTP0WhxxKmj31fw%3D%3D) | 
-| 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFuYQfcHYFc4n%2BAgqiow5w%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | W+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dG6mYoFFgdPLehXyGvSCFg%3D%3D) | 
-| 第45期名人戦リーグ | Rin Kanketsu | Kono Rin | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WY3PM5S6xXztDFtRYbD9ew%3D%3D) | 
-| 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | B+2.5 | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBgSf3crUjtejd%2FjqHWYwA%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Rin Kanketsu | Koike Yoshihiro | W+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4aOJ5l3S8xRBIMSPxfGLKw%3D%3D) | 
-| 第45期名人戦リーグ | Cho U | Rin Kanketsu | B+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNbXiffa7q2BoFb1DA91pg%3D%3D) | 
-| 第45期名人戦予選 | Adachi Toshimasa | Rin Kanketsu | W+2.5 | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwztryltNF2Qh%2BokC8gvnQ%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Rin Kanketsu | Yamashiro Hiroshi | W+3.5 | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zbqe5%2Blg3%2BAr1XUMUcxn9A%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Akiyama Jiro | Rin Kanketsu | W+0.5 | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RY1h1T8ROY%2B4a1XYcbnH%2FA%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Cho U | Rin Kanketsu | B+R | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JHFmIebOSyg%2BOLuEisfepw%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Rin Kanketsu | Yu Zhengqi | B+R | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtmHNuVEJKebynebXgdvqw%3D%3D) | 
-| 第58期十段戦予選 | Rin Kanketsu | Hirata Tomoya | W+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4bQ0lWE4fl144Gdd7e%2F9Q%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shida Tatsuya | Rin Kanketsu | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=puoy0MJKw5Drx%2Bkks7DuYg%3D%3D) | 
-| 第67期王座戦1回戦 | Rin Kanketsu | Hsu Chiayuan | W+R | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QesHb7wEzkJSDSgc3aytdg%3D%3D) | 
-| 第6回グランドチャンピオン戦2回戦 | Ichiriki Ryo | Rin Kanketsu | B+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GapttcEwYf9PJ4lITjI3nw%3D%3D) | 
-| 第44期棋聖戦Aリーグ  | Rin Kanketsu | Shibano Toramaru | W+R | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FINX8u2wkUYHun7AD5yPvQ%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Rin Kanketsu | Ichiriki Ryo | W+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FpcFjkuxZIOcs4Ji2vylpg%3D%3D) | 
-| 第67期王座戦予選 | Rin Kanketsu | Hara Masakazu | B+1.5 | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2BTZTsjtSMJUD9gFHzzTNw%3D%3D) | 
-| 第6回グランドチャンピオン戦1回戦 | Rin Kanketsu | Ueno Asami | B+4.5 | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D003I7pGi47Su7lqj3CsRA%3D%3D) | 
-| 第1回SGW杯中庸戦4回戦  | Rin Kanketsu | Anzai Nobuaki | B+R | 2018-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OUSKZlIEQ0ut1QS30nwEIg%3D%3D) | 
-| 第1回SGW杯中庸戦3回戦 | Rin Kanketsu | Ohba Junya | B+R | 2018-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBSDHz9ssAIWDo2CY2y3xQ%3D%3D) | 
-| 第1回SGW杯中庸戦2回戦 | Akiyama Jiro | Rin Kanketsu | W+R | 2018-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yjjNCxcy6juvufolirZ49A%3D%3D) | 
-| 第1回SGW杯中庸戦1回戦 | Rin Kanketsu | Komatsu Hideki | B+R | 2018-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nOXCL7%2FaBew9Qdv4GjYBSw%3D%3D) | 
-| 第1回SGW杯中庸戦予選決勝 | Yo Kagen | Rin Kanketsu | W+5.5 | 2018-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42VFfr41%2BzGgtzTU0SxsQg%3D%3D) | 
-| 第67期王座戦予選 | Rin Kanketsu | Yoda Norimoto | B+2.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3LwmpxWkuthlKFXpbb31ww%3D%3D) | 
-| 第44期碁聖戦予選 | Shibano Toramaru | Rin Kanketsu | B+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqfywQTWH58mTUjJ0pol8A%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Ida Atsushi | Rin Kanketsu | B+0.5 | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXaOQrdwksRg3Wlm5oErdA%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Ryu Shikun | Rin Kanketsu | W+5.5 | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKkiV%2BJ4NHwF1jHdSbZfZQ%3D%3D) | 
-| 第74期本因坊戦最終予選 | Kataoka Satoshi | Rin Kanketsu | B+3.5 | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1B9hHkjfqEIsiV%2FKStIKgg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Rin Kanketsu | B+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzsxwT5qg%2Baw15XvNVSmuw%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Yata Naoki | Rin Kanketsu | W+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ATxCMafapCmnkr5kDoGjmg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Motoki Katsuya | Rin Kanketsu | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9ku4JmaDGBDu4oswmuW0A%3D%3D) | 
-| 第57期十段戦予選 | Uchida Shuhei | Rin Kanketsu | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K81QG7I6Gnu1wzTxPS2vIA%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Rin Kanketsu | Yuki Satoshi | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVgvQShaHuYIAXqTZmVj%2Fw%3D%3D) | 
-| 第66期王座戦予選 | Hikosaka Naoto | Rin Kanketsu | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rN1TddPeeHVBgESM3FWF9Q%3D%3D) | 
-| 第43期名人戦最終予選 | Hane Naoki | Rin Kanketsu | B+R | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldyNXFQJtlEyThzM5K7PBg%3D%3D) | 
-| 第44期天元戦　予選A | Akiyama Jiro | Rin Kanketsu | B+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3IYrCHqPccaJaluEmaPy7A%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Shida Tatsuya | Rin Kanketsu | B+0.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zytBnp6TqwVH6fZHhOovRQ%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組7回戦 | Lee Ishu | Rin Kanketsu | B+R | 2017-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ctPPFZ4HB5r1eDzm4CvAGA%3D%3D) | 
-| 第24期阿含・桐山杯　本戦1回戦 | Seto Taiki | Rin Kanketsu | W+0.5 | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hly3EzLOUANQtfISrWQ1TA%3D%3D) | 
-| 第65期王座戦　本戦1回戦第5局 | Rin Kanketsu | Hane Naoki | W+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvhLhZUVGI9%2FURFYrz0bDA%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | W+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=joliJr9%2BAef07eLC%2BehPkQ%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦4回戦 | Muramatsu Hiroki | Rin Kanketsu | W+R | 2017-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFW8yHVgc3WNlklu8gIFdQ%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦3回戦 | Rin Kanketsu | Motoki Katsuya | W+R | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7zVBuIEN7bn%2Fv30%2Bbqw3jw%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦2回戦 | Rin Kanketsu | Shimojima Yohei | B+0.5 | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qw4d0pMzWjX8djVwxuiM1Q%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦1回戦 | Rin Kanketsu | Mutsuura Yuta | B+R | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNDrqy%2Ff0pLC1U3C5%2F6UIA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | B+4.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oj%2FNbCVlj%2Fds%2F5m9TY8VLw%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1回戦 | Rin Kanketsu | Kobayashi Satoru | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddnKIIk7G6rAcIxaGdCRNg%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第4局 | Lee Ishu | Rin Kanketsu | W+0.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwEbDA1K3pwUNuKcbaKUzA%3D%3D) | 
-| 第43期碁聖戦　予選B | Rin Kanketsu | Takemiya Masaki | B+8.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbkBViXU8sFpGokCLQUHCQ%3D%3D) | 
-| 第65期王座戦　最終予選 | Rin Kanketsu | Ryu Shikun | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QhRletB1o8IewCgqjd4Pfw%3D%3D) | 
-| 第42期名人戦最終予選 | Rin Kanketsu | Ichiriki Ryo | W+1.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qs9C1%2F6EAium88qhdNrUqw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Otake Hideo | W+R | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3voFjsQLW1hRSusfolbg0w%3D%3D) | 
-| 第42期碁聖戦予選 | Ryu Shikun | Rin Kanketsu | B+4.5 | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFcvD1kjZIumNfjcw1p7Fg%3D%3D) | 
-| 第64期王座戦予選 | Rin Kanketsu | Hane Naoki | W+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYNx9RzITx2cqTVeMPqR0A%3D%3D) | 
-| 第72期本因坊戦予選 | Kobayashi Satoru | Rin Kanketsu | B+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1PMZ6qSIIaNObehN0YcOw%3D%3D) | 
-| 第41期名人戦予選 | Ichiriki Ryo | Rin Kanketsu | B+3.5 | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AFyNWLXhV0ybx%2FL0GMO%2BUQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Awaji Shuzo | Rin Kanketsu | B+0.5 | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WoaDXTtPKDurxd00PiFyQg%3D%3D) | 
-| 第41期名人戦予選 | Yoda Norimoto | Rin Kanketsu | W+3.5 | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FmhJI7QLPRbd8E4naOgVA%3D%3D) | 
-| 第63期王座戦2回戦 | Rin Kanketsu | Ko Iso | W+0.5 | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCb1WkZvPUWS0BJEUcy0Yw%3D%3D) | 
-| 第71期本因坊戦予選 | Kobayashi Satoru | Rin Kanketsu | B+7.5 | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDc18DEG12aY%2FJsyngf7Gw%3D%3D) | 
-| 第54期十段戦予選 | Iyama Yuta | Rin Kanketsu | B+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YawhMhEUzdI1Yfw5kbx8LQ%3D%3D) | 
-| 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | B+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dn18dlxlQbpsaIlcoSybsA%3D%3D) | 
-| 第63期王座戦1回戦 | Rin Kanketsu | Anzai Nobuaki | B+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MvFWrtOvl4sS7t657diCFg%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Rin Kanketsu | Ryu Shikun | B+R | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B27T452xp7GkLZrjaKrD1Q%3D%3D) | 
-| 第53期十段戦2回戦 | Kobayashi Satoru | Rin Kanketsu | B+2.5 | 2014-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sKhO69e5SI5sxNRmXBWJPw%3D%3D) | 
-| 第53期十段戦1回戦 | Rin Kanketsu | Ryu Shikun | B+0.5 | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cYbVWIbJfS6xXohBsFm5Ug%3D%3D) | 
-| 第62期王座戦挑戦者決定戦 | Murakawa Daisuke | Rin Kanketsu | B+R | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgW%2Fz6VDPmeHyrArKLCDaA%3D%3D) | 
-| 第62期王座戦準決勝 | Rin Kanketsu | Anzai Nobuaki | B+2.5 | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ZQwil5Hs3g%2F93jylCzxHg%3D%3D) | 
-| 第62期王座戦2回戦 | Nakano Hironari | Rin Kanketsu | W+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kIsMfFWC2YzoI0Hc%2B6vYMQ%3D%3D) | 
-| 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | W+5.5 | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTUaDMRDu1kSYoleKX5%2BDQ%3D%3D) | 
-| 第62期王座戦予選 | Rin Kanketsu | Sasaka Shiro | B+R | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BIaLpWnaHmuCDoCLAZGHJg%3D%3D) | 
-| 第40期碁聖戦予選 | Yoda Norimoto | Rin Kanketsu | B+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fH9Ph%2FnpdqbyugcVYhyUwQ%3D%3D) | 
-| 第70期本因坊戦予選 | Yoda Norimoto | Rin Kanketsu | W+0.5 | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R7rfQVFYsKVldxppmWiVTA%3D%3D) | 
-| 第40期碁聖戦予選 | Ohashi Hirofumi | Rin Kanketsu | W+8.5 | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8iMgmJ%2BAtdUMMb3zXjkUw%3D%3D) | 
-| 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=robY6EdoZu0TqSUiAcsS0A%3D%3D) | 
-| 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | W+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhOAYh88HkVKgQYaOkaU7w%3D%3D) | 
-| 第52期十段戦3回戦 | Mizokami Tomochika | Rin Kanketsu | B+R | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eY3lZi2Dtt%2FPzQmo6KzqZA%3D%3D) | 
-| 第52期十段戦2回戦 | Goto Shungo | Rin Kanketsu | W+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdalxKnESSH1FxPxbSNWhQ%3D%3D) | 
-| 第52期十段戦予選 | Rin Kanketsu | Murakawa Daisuke | B+3.5 | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3SDl%2Bwt4pYuut7SisAw7A%3D%3D) | 
-| 第39期天元戦本戦2回戦 | O Rissei | Rin Kanketsu | B+5.5 | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ae8%2BWaOl94iI8zuMiEcMZw%3D%3D) | 
-| 第69期本因坊戦予選 | Otake Hideo | Rin Kanketsu | B+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJPT5P14bGLtFl%2FQx4TxTQ%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Rin Kanketsu | Kataoka Satoshi | B+5.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmqrMqpt3mfOkjCzJAz1IQ%3D%3D) | 
-| 第39期天元戦本戦0回戦 | Rin Kanketsu | Yoda Norimoto | B+4.5 | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8K%2F%2FuzVp8zMzfNAnlYD6Mw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン2回戦 | Cho U | Rin Kanketsu | B+R | 2012-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=du9FZp%2BP7iodkCSMsBItjw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Yu Zhengqi | Rin Kanketsu | W+1.5 | 2012-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0RPkEiF3tg9WYqby1RuoXg%3D%3D) | 
-| 第51期十段戦1回戦 | Rin Kanketsu | Kato Atsushi | W+3.5 | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUUT1yD%2Bl4YEgYyuPelrYw%3D%3D) | 
-| 第38期碁聖戦予選 | Takao Shinji | Rin Kanketsu | B+R | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aC66sraMnU6%2FqU%2BK0AXciw%3D%3D) | 
-| 第51期十段戦予選 | Murakawa Daisuke | Rin Kanketsu | W+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=naF76Q2huo4pY39YDN%2Fn8A%3D%3D) | 
-| 第68期本因坊戦予選 | Kubo Hideo | Rin Kanketsu | B+1.5 | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4eDDzKou%2FSqVzjZZskszuA%3D%3D) | 
-| 第51期十段戦予選 | Rin Kanketsu | Xie Yimin | B+3.5 | 2012-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUrbUPl1hP9slcg4mUS36g%3D%3D) | 
-| 第4回BCカード杯世界選手権統合予選決勝 | Kim Jiseok | Rin Kanketsu | B+R | 2012-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=viUemr0Xnu8xRBpRsC%2BD5A%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦予選 | Rin Kanketsu | Kikuchi Masatoshi | B+R | 2012-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OFtMFiEMcRvZjjgmIR8J2A%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Rin Kanketsu | Yamashita Keigo | W+R | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BGFcDScpbfbdtAh9Sd%2BMg%3D%3D) | 
-| 第37期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | B+R | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6bdxEOYzclECAb38eq1rg%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Rin Kanketsu | Rin Shien | B+R | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wjcLlKdjphgmmFHyUcVGUQ%3D%3D) | 
-| 第37期名人戦予選 | Rin Kanketsu | Kono Rin | W+2.5 | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqS60Pv5NJY9WNcN99lDYA%3D%3D) | 
-| 第38期天元戦予選 | Rin Kanketsu | Kono Rin | W+4.5 | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMTbZYYs2DhuhOYQL9naow%3D%3D) | 
-| 第38期天元戦予選 | Ishida Yoshio | Rin Kanketsu | W+4.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YSt0gtpX7ZwtVu2WFVm5%2Bg%3D%3D) | 
-| 第37期碁聖戦予選 | Komatsu Hideki | Rin Kanketsu | W+3.5 | 2011-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xysWKdU1%2BY7toskSEaLFlg%3D%3D) | 
-| 第36期名人戦リーグ | Takao Shinji | Rin Kanketsu | B+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFOT8Nj%2BKuRrQhsGPetwJg%3D%3D) | 
-| 第36期名人戦リーグ | Rin Kanketsu | Cho Chikun | B+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XjUyALUegPdnDeja0JS7Cg%3D%3D) | 
-| 第36期名人戦リーグ | Rin Kanketsu | Cho U | W+4.5 | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cdy1vfxDhiKl4kN%2B7AQIdA%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Ryu Shikun | W+R | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IA43IyhU5mJp7HVcp8g0MA%3D%3D) | 
-| 第2回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Rin Kanketsu | B+0.5 | 2011-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tKA3fLDfXVPD3KFBqRQpeg%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Rin Kanketsu | B+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qzs90MFBcxy2dNkFqWlR0g%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | B+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tyi1Lq0PTNisdczxZPbIVQ%3D%3D) | 
-| 第36期名人戦リーグ | Rin Kanketsu | Sakai Hideyuki | B+4.5 | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hNZ7oR9MluyddbOtUzxZGg%3D%3D) | 
-| 第50期十段戦予選 | Rin Kanketsu | Yoda Norimoto | W+1.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BosYvLdFmktEQn0sU%2BAk0Q%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Yamashita Keigo | Rin Kanketsu | B+6.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWjnfwdOyXl2zT6rbiqroQ%3D%3D) | 
-| 第36期碁聖戦本戦2回戦 | Rin Kanketsu | Imamura Yoshiaki | W+5.5 | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Seiy%2BI3hcIxVScebEtpaQ%3D%3D) | 
-| 第36期名人戦リーグ | Mizokami Tomochika | Rin Kanketsu | W+0.5 | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ji2oGzbLuyVVZo08l8z0Gw%3D%3D) | 
-| 第59期王座戦予選 | Cho Chikun | Rin Kanketsu | B+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTWirUMnKLS%2BgxlcPZxZiA%3D%3D) | 
-| 第36期名人戦リーグ | Rin Kanketsu | Hane Naoki | W+0.5 | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1EIjU9yTsk48UzndFrhZGg%3D%3D) | 
-| 第37期天元戦予選 | Cho Chikun | Rin Kanketsu | W+2.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LiIYA%2FBeavjVLYilWwme2g%3D%3D) | 
-| 第36期名人戦予選 | Rin Kanketsu | O Meien | B+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiHUFFt5cGbx0%2BZHpDnVgw%3D%3D) | 
-| 第37期天元戦予選 | Rin Kanketsu | Ishida Yoshio | B+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ECaLwqOkgA9CV2fTEnYAig%3D%3D) | 
-| 第36期碁聖戦予選 | Rin Kanketsu | Yoda Norimoto | B+1.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3X358nV79iS3mE1Dd3xvQ%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン2回戦 | Rin Kanketsu | Anzai Nobuaki | W+R | 2010-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pp6wuVQhlkm%2F4dQL%2FrCY0w%3D%3D) | 
-| 第36期名人戦予選 | Rin Kanketsu | Ryu Shikun | B+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XK95lALUx6LmoYaOSxLi4w%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Kato Atsushi | Rin Kanketsu | W+R | 2010-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s54Ob6OQ%2Fgp99OX569jD7A%3D%3D) | 
-| 第35期新人王戦2回戦 | Rin Kanketsu | Ohashi Hirofumi | W+2.5 | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dhcruHKYHKrq9N6Ikcjf8w%3D%3D) | 
-| 第36期名人戦予選 | O Rissei | Rin Kanketsu | W+6.5 | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NnmniHQFELQKsFtlOjYJg%3D%3D) | 
-| 第49期十段戦予選 | Rin Kanketsu | Kono Rin | W+0.5 | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=09MUzmvZ%2BTuCR9LbhMEaGg%3D%3D) | 
-| 第35期新人王戦1回戦 | Rin Kanketsu | Anzai Nobuaki | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9Rx%2FNtit9bBEyNApyWS8Q%3D%3D) | 
-| 第58期王座戦予選 | Rin Kanketsu | Kobayashi Satoru | W+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RiqB%2FpMUp1HmJnNnPGYTsg%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第3戦 | missing | Rin Kanketsu | W+8.5 | 2009-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BkcpVLWzbcxyrE9fMY1zwg%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第2戦 | Rin Kanketsu | Kim Hyeongwoo | W+R | 2009-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BmtEI0qDI%2Fbet8%2FLUiz0iA%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第1戦 | Rin Kanketsu | missing | W+0.5 | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWxuiJ2BVkmIwbVGAHJK%2BQ%3D%3D) | 
-| 第35期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | W+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AoP5uUjTaYn%2BKK5B3MC0gQ%3D%3D) | 
-| 第35期碁聖戦予選 | Rin Kanketsu | O Rissei | W+0.5 | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uPg%2B%2B6pNQXWpJTRO8AYQmA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Kato Atsushi | Rin Kanketsu | B+R | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YbOi9BziYr8heyljZ2oMJA%3D%3D) | 
-| 第34期新人王戦2回戦 | Lee Ishu | Rin Kanketsu | B+0.5 | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BspkkkAvKy4H8TALNgozLw%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | Rin Kanketsu | B+4.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M71pdjwajyIhtBZqHry5xw%3D%3D) | 
-| 第48期十段戦予選 | O Rissei | Rin Kanketsu | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnHhbl434thwCHib26G0%2FA%3D%3D) | 
-| 第34期新人王戦1回戦 | Tajima Shingo | Rin Kanketsu | W+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NOFHlSPkdRvUimdGyA3qg%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Rin Kanketsu | B+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQ3efD3Q%2F4fchdYT9OHyKQ%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Lin Lixiang | Rin Kanketsu | W+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHjk2z90c6CeYx1W9I5cMg%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | missing | Rin Kanketsu | B+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGKMq3woN8sYcfHKyH%2FNkQ%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Rin Kanketsu | Jin Siyoung | B+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EoliOI8Oib%2BaKXr4EkwKGA%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Rin Kanketsu | Kono Rin | W+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtGk9272g%2F0C%2FwnxunDtTQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Ding Wei | Rin Kanketsu | B+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sDp5EqqQQ8M8XlTcG1lGqA%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン2回戦 | Rin Kanketsu | Cho U | W+5.5 | 2008-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8WAH4km5yU13PRhQzk48QQ%3D%3D) | 
-| 第33期新人王戦1回戦 | Uchida Shuhei | Rin Kanketsu | B+R | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GHr%2Bf27mkpzLBhGG63J3FA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン準決勝 | Iyama Yuta | Rin Kanketsu | B+R | 2007-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PK9d1m752%2Fv2L8pyF%2B5wcg%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン3回戦 | Yamada Kimio | Rin Kanketsu | W+R | 2007-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEKr6x%2BreEGnnAhWCSiL%2FQ%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Rin Kanketsu | W+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wX9ZMzKzW4BxRMtFeH87bg%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Paek Hongseok | Rin Kanketsu | B+1.5 | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNinOCQng4v99hJKaB2T8Q%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Li Zhe | Rin Kanketsu | B+5.5 | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AI1%2Fk%2B5A11%2B3JPG%2BpFehw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Rin Kanketsu | O Rissei | B+5.5 | 2007-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcq5xWd%2F7reIEc4X0fi0vw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン1回戦 | Rin Kanketsu | Yamashiro Hiroshi | B+2.5 | 2007-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zTddbn%2FwPyHEbYRuT2lwAA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Rin Kanketsu | Takemiya Masaki | B+0.5 | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLhCsgfER4kRUBwAHkrEQQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho U | Rin Kanketsu | B+R | 2007-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDymKukab3K8K73G4FVRNw%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Kanketsu | Yamashita Keigo | B+1.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1%2BbQaGvnhwnZU26%2F25MxA%3D%3D) | 
-| 第32期新人王戦1回戦 | Ha Youngil | Rin Kanketsu | B+R | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wqE4giZFh7Tv2ZclvLxkDQ%3D%3D) | 
-| 第33期天元戦予選 | Rin Kanketsu | Ryu Shikun | W+3.5 | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjtp%2FYTeu6WWg0tF7B81sg%3D%3D) | 
-| 第32期碁聖戦予選 | Rin Kanketsu | Otake Hideo | W+R | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wy26zU%2FiVhG717rRZbytlA%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Kanketsu | Hane Naoki | W+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mG%2FilqdF%2FQ7Q3lsmU%2Fequg%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Kanketsu | Ishida Yoshio | B+R | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wC3Xw9OVHpUs%2FuCGa%2FnO5A%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Kobayashi Koichi | B+14.5 | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YciHfDK7lqQCblZIpn8BrA%3D%3D) | 
-| 第62期本因坊戦予選 | Rin Kanketsu | Otake Hideo | B+0.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSEQvBTR7eWuTEhxWOloHg%3D%3D) | 
-| 第31期新人王戦1回戦 | Rin Kanketsu | Yamamoto Kentaro | W+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=deOioFYVSy9JCkyZvG0t0w%3D%3D) | 
-| 第31期棋聖戦予選 | Takemiya Masaki | Rin Kanketsu | B+R | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUaSg0KKWg36g2Atn5wKMQ%3D%3D) | 
-| 第2回中野杯U20選手権1回戦 | Rin Kanketsu | Murakawa Daisuke | W+4.5 | 2005-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BXO%2BAKdnGa0ulAslSCQN3A%3D%3D) | 
-| 第30期新人王戦1回戦 | Rin Kanketsu | Iyama Yuta | W+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UlpDuaTHF%2B5VS8uloOU0WA%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Rin Kanketsu | B+R | 2003-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2F3t8UBZ%2B3RIFSgyfl0nOA%3D%3D) | 
-| 第10期阿含・桐山杯全日本早碁オープン戦予選 | Akiyama Jiro | Rin Kanketsu | W+2.5 | 2003-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T16xeBaH6bzwulpsLe8yBw%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Rin Kanketsu | Park Jinsol | B+R | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzTIwxeRn4voGei%2BpW23EQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-10 | 第70期王座戦予選 | Rin Kanketsu | Ida Atsushi | Win | B+R | 6.5 | 3273.0 | -20.0 | 
+| 2021-09-09 | 第46期棋聖戦Bリーグ | Hong Seokui | Rin Kanketsu | Lose | B+R | 6.5 | 3293.0 | 91.0 | 
+| 2021-06-24 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Rin Kanketsu | Lose | B+R | 6.5 | 3202.0 | 76.0 | 
+| 2021-06-14 | 第60期十段戦予選 | Aoki Kikuyo | Rin Kanketsu | Win | W+R | 6.5 | 3126.0 | 26.0 | 
+| 2021-06-03 | 第69期王座戦1回戦 | Hane Naoki | Rin Kanketsu | Lose | B+0.5 | 6.5 | 3100.0 | 28.0 | 
+| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Hane Naoki | Win | B+R | 6.5 | 3072.0 | 72.0 | 
+| 2021-04-08 | 第69期王座戦予選 | Rin Kanketsu | Fujii Shuya | Win | B+R | 6.5 | 3000.0 | 10.0 | 
+| 2021-03-22 | 第69期王座戦予選 | Onishi Ryuhei | Rin Kanketsu | Win | W+3.5 | 6.5 | 2990.0 | 7.0 | 
+| 2020-09-03 | 第59期十段戦予選 | Ida Atsushi | Rin Kanketsu | Lose | B+R | 6.5 | 2983.0 | -97.0 | 
+| 2020-08-10 | 第59期十段戦予選 | Rin Kanketsu | Watanabe Yuu | Win | B+R | 6.5 | 3080.0 | 2.0 | 
+| 2020-08-06 | 第45期名人戦リーグ  | Iyama Yuta | Rin Kanketsu | Lose | B+R | 6.5 | 3078.0 | -86.0 | 
+| 2020-07-23 | 第45期名人戦リーグ | Rin Kanketsu | Murakawa Daisuke | Win | B+1.5 | 6.5 | 3164.0 | 32.0 | 
+| 2020-07-16 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Mutsuura Yuta | Lose | W+R | 6.5 | 3132.0 | -21.0 | 
+| 2020-06-29 | 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | Win | W+R | 6.5 | 3153.0 | -12.0 | 
+| 2020-06-25 | 第45期名人戦リーグ | Ichiriki Ryo | Rin Kanketsu | Lose | B+R | 6.5 | 3165.0 | -25.0 | 
+| 2020-06-22 | 第68期王座戦1回戦 | Rin Kanketsu | Ohba Junya | Lose | W+3.5 | 6.5 | 3190.0 | 6.0 | 
+| 2020-06-18 | 第45期名人戦リーグ | Rin Kanketsu | Hsu Chiayuan | Lose | W+R | 6.5 | 3184.0 | 16.0 | 
+| 2020-06-04 | 第45期名人戦リーグ | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3168.0 | 19.0 | 
+| 2020-04-02 | 第68期王座戦予選 | Rin Kanketsu | Ida Atsushi | Win | B+R | 6.5 | 3149.0 | 40.0 | 
+| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Win | W+R | 6.5 | 3109.0 | 5.0 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3104.0 | -4.0 | 
+| 2020-02-06 | 第45期名人戦リーグ | Rin Kanketsu | Kono Rin | Win | B+R | 6.5 | 3108.0 | 40.0 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | Lose | B+2.5 | 6.5 | 3068.0 | -3.0 | 
+| 2020-01-16 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Koike Yoshihiro | Lose | W+R | 6.5 | 3071.0 | -43.0 | 
+| 2020-01-09 | 第45期名人戦リーグ | Cho U | Rin Kanketsu | Lose | B+R | 6.5 | 3114.0 | -84.0 | 
+| 2019-11-07 | 第45期名人戦予選 | Adachi Toshimasa | Rin Kanketsu | Win | W+2.5 | 6.5 | 3198.0 | 44.0 | 
+| 2019-10-03 | 第44期棋聖戦Aリーグ | Rin Kanketsu | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 3154.0 | 30.0 | 
+| 2019-08-01 | 第44期棋聖戦Aリーグ | Akiyama Jiro | Rin Kanketsu | Win | W+0.5 | 6.5 | 3124.0 | -4.0 | 
+| 2019-07-11 | 第44期棋聖戦Aリーグ | Cho U | Rin Kanketsu | Lose | B+R | 6.5 | 3128.0 | -12.0 | 
+| 2019-06-27 | 第44期棋聖戦Aリーグ | Rin Kanketsu | Yu Zhengqi | Win | B+R | 6.5 | 3140.0 | 34.0 | 
+| 2019-05-30 | 第58期十段戦予選 | Rin Kanketsu | Hirata Tomoya | Lose | W+R | 6.5 | 3106.0 | -34.0 | 
+| 2019-05-27 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Rin Kanketsu | Lose | B+R | 6.5 | 3140.0 | -40.0 | 
+| 2019-05-23 | 第67期王座戦1回戦 | Rin Kanketsu | Hsu Chiayuan | Lose | W+R | 6.5 | 3180.0 | 2.0 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Ichiriki Ryo | Rin Kanketsu | Lose | B+R | 6.5 | 3178.0 | -46.0 | 
+| 2019-04-01 | 第44期棋聖戦Aリーグ  | Rin Kanketsu | Shibano Toramaru | Lose | W+R | 6.5 | 3224.0 | 4.0 | 
+| 2019-03-21 | 第44期棋聖戦Aリーグ | Rin Kanketsu | Ichiriki Ryo | Lose | W+R | 6.5 | 3220.0 | -57.0 | 
+| 2019-03-07 | 第67期王座戦予選 | Rin Kanketsu | Hara Masakazu | Win | B+1.5 | 6.5 | 3277.0 | 10.0 | 
+| 2019-03-04 | 第6回グランドチャンピオン戦1回戦 | Rin Kanketsu | Ueno Asami | Win | B+4.5 | 6.5 | 3267.0 | 35.0 | 
+| 2018-12-09 | 第1回SGW杯中庸戦4回戦  | Rin Kanketsu | Anzai Nobuaki | Win | B+R | 6.5 | 3232.0 | 0.0 | 
+| 2018-12-09 | 第1回SGW杯中庸戦3回戦 | Rin Kanketsu | Ohba Junya | Win | B+R | 6.5 | 3232.0 | 48.0 | 
+| 2018-12-08 | 第1回SGW杯中庸戦2回戦 | Akiyama Jiro | Rin Kanketsu | Win | W+R | 6.5 | 3184.0 | 0.0 | 
+| 2018-12-08 | 第1回SGW杯中庸戦1回戦 | Rin Kanketsu | Komatsu Hideki | Win | B+R | 6.5 | 3184.0 | 58.0 | 
+| 2018-11-20 | 第1回SGW杯中庸戦予選決勝 | Yo Kagen | Rin Kanketsu | Win | W+5.5 | 6.5 | 3126.0 | -18.0 | 
+| 2018-11-01 | 第67期王座戦予選 | Rin Kanketsu | Yoda Norimoto | Win | B+2.5 | 6.5 | 3144.0 | 115.0 | 
+| 2018-09-20 | 第44期碁聖戦予選 | Shibano Toramaru | Rin Kanketsu | Lose | B+R | 6.5 | 3029.0 | -4.0 | 
+| 2018-08-09 | 第57期十段戦最終予選決勝 | Ida Atsushi | Rin Kanketsu | Lose | B+0.5 | 6.5 | 3033.0 | -35.0 | 
+| 2018-07-19 | 第43期棋聖戦Bリーグ | Ryu Shikun | Rin Kanketsu | Win | W+5.5 | 6.5 | 3068.0 | 61.0 | 
+| 2018-07-12 | 第74期本因坊戦最終予選 | Kataoka Satoshi | Rin Kanketsu | Lose | B+3.5 | 6.5 | 3007.0 | -68.0 | 
+| 2018-06-14 | 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Rin Kanketsu | Lose | B+R | 6.5 | 3075.0 | 0.0 | 
+| 2018-06-07 | 第57期十段戦最終予選決勝 | Yata Naoki | Rin Kanketsu | Win | W+R | 6.5 | 3075.0 | 12.0 | 
+| 2018-04-19 | 第43期棋聖戦Bリーグ | Motoki Katsuya | Rin Kanketsu | Lose | B+R | 6.5 | 3063.0 | -44.0 | 
+| 2018-04-12 | 第57期十段戦予選 | Uchida Shuhei | Rin Kanketsu | Win | W+R | 6.5 | 3107.0 | 18.0 | 
+| 2018-03-15 | 第43期棋聖戦Bリーグ | Rin Kanketsu | Yuki Satoshi | Win | B+R | 6.5 | 3089.0 | -29.0 | 
+| 2018-03-01 | 第66期王座戦予選 | Hikosaka Naoto | Rin Kanketsu | Lose | B+R | 6.5 | 3118.0 | -4.0 | 
+| 2017-10-12 | 第43期名人戦最終予選 | Hane Naoki | Rin Kanketsu | Lose | B+R | 6.5 | 3122.0 | -72.0 | 
+| 2017-09-21 | 第44期天元戦　予選A | Akiyama Jiro | Rin Kanketsu | Lose | B+R | 6.5 | 3194.0 | -26.0 | 
+| 2017-08-24 | 第56期十段戦　最終予選決勝 | Shida Tatsuya | Rin Kanketsu | Lose | B+0.5 | 6.5 | 3220.0 | -10.0 | 
+| 2017-08-14 | 第42期棋聖戦　Bリーグ2組7回戦 | Lee Ishu | Rin Kanketsu | Lose | B+R | 6.5 | 3230.0 | 30.0 | 
+| 2017-06-28 | 第24期阿含・桐山杯　本戦1回戦 | Seto Taiki | Rin Kanketsu | Win | W+0.5 | 6.5 | 3200.0 | 72.0 | 
+| 2017-05-25 | 第65期王座戦　本戦1回戦第5局 | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3128.0 | -35.0 | 
+| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Win | W+R | 6.5 | 3163.0 | 91.0 | 
+| 2017-04-16 | 第1回トライカッププロ囲碁団体戦　本戦4回戦 | Muramatsu Hiroki | Rin Kanketsu | Win | W+R | 6.5 | 3072.0 | 29.0 | 
+| 2017-04-15 | 第1回トライカッププロ囲碁団体戦　本戦3回戦 | Rin Kanketsu | Motoki Katsuya | Lose | W+R | 6.5 | 3043.0 | 0.0 | 
+| 2017-04-15 | 第1回トライカッププロ囲碁団体戦　本戦2回戦 | Rin Kanketsu | Shimojima Yohei | Win | B+0.5 | 6.5 | 3043.0 | 0.0 | 
+| 2017-04-15 | 第1回トライカッププロ囲碁団体戦　本戦1回戦 | Rin Kanketsu | Mutsuura Yuta | Win | B+R | 6.5 | 3043.0 | 9.0 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Win | B+4.5 | 6.5 | 3034.0 | 69.0 | 
+| 2017-03-16 | 第42期棋聖戦　Bリーグ1回戦 | Rin Kanketsu | Kobayashi Satoru | Lose | W+R | 6.5 | 2965.0 | -13.0 | 
+| 2017-03-02 | 第65期王座戦　最終予選特選譜第4局 | Lee Ishu | Rin Kanketsu | Win | W+0.5 | 6.5 | 2978.0 | 116.0 | 
+| 2017-02-23 | 第43期碁聖戦　予選B | Rin Kanketsu | Takemiya Masaki | Win | B+8.5 | 6.5 | 2862.0 | 81.0 | 
+| 2017-02-16 | 第65期王座戦　最終予選 | Rin Kanketsu | Ryu Shikun | Win | B+R | 6.5 | 2781.0 | -90.0 | 
+| 2016-09-22 | 第42期名人戦最終予選 | Rin Kanketsu | Ichiriki Ryo | Lose | W+1.5 | 6.5 | 2871.0 | 0.0 | 
+| 2016-06-02 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Otake Hideo | Lose | W+R | 6.5 | 2871.0 | -71.0 | 
+| 2016-04-21 | 第42期碁聖戦予選 | Ryu Shikun | Rin Kanketsu | Lose | B+4.5 | 6.5 | 2942.0 | -32.0 | 
+| 2016-03-24 | 第64期王座戦予選 | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 2974.0 | -31.0 | 
+| 2016-03-10 | 第72期本因坊戦予選 | Kobayashi Satoru | Rin Kanketsu | Lose | B+R | 6.5 | 3005.0 | -107.0 | 
+| 2015-09-24 | 第41期名人戦予選 | Ichiriki Ryo | Rin Kanketsu | Lose | B+3.5 | 6.5 | 3112.0 | -21.0 | 
+| 2015-09-03 | 第40期棋聖戦Bリーグ | Awaji Shuzo | Rin Kanketsu | Lose | B+0.5 | 6.5 | 3133.0 | -81.0 | 
+| 2015-08-27 | 第41期名人戦予選 | Yoda Norimoto | Rin Kanketsu | Win | W+3.5 | 6.5 | 3214.0 | -39.0 | 
+| 2015-08-06 | 第63期王座戦2回戦 | Rin Kanketsu | Ko Iso | Lose | W+0.5 | 6.5 | 3253.0 | 1.0 | 
+| 2015-07-23 | 第71期本因坊戦予選 | Kobayashi Satoru | Rin Kanketsu | Lose | B+7.5 | 6.5 | 3252.0 | -70.0 | 
+| 2015-07-16 | 第54期十段戦予選 | Iyama Yuta | Rin Kanketsu | Lose | B+R | 6.5 | 3322.0 | -43.0 | 
+| 2015-07-09 | 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | Win | B+R | 6.5 | 3365.0 | -46.0 | 
+| 2015-06-04 | 第63期王座戦1回戦 | Rin Kanketsu | Anzai Nobuaki | Win | B+R | 6.5 | 3411.0 | 39.0 | 
+| 2015-04-16 | 第40期棋聖戦Bリーグ | Rin Kanketsu | Ryu Shikun | Win | B+R | 6.5 | 3372.0 | 46.0 | 
+| 2014-11-06 | 第53期十段戦2回戦 | Kobayashi Satoru | Rin Kanketsu | Lose | B+2.5 | 6.5 | 3326.0 | -58.0 | 
+| 2014-10-16 | 第53期十段戦1回戦 | Rin Kanketsu | Ryu Shikun | Win | B+0.5 | 6.5 | 3384.0 | 90.0 | 
+| 2014-09-11 | 第62期王座戦挑戦者決定戦 | Murakawa Daisuke | Rin Kanketsu | Lose | B+R | 6.5 | 3294.0 | -79.0 | 
+| 2014-08-21 | 第62期王座戦準決勝 | Rin Kanketsu | Anzai Nobuaki | Win | B+2.5 | 6.5 | 3373.0 | 16.0 | 
+| 2014-07-17 | 第62期王座戦2回戦 | Nakano Hironari | Rin Kanketsu | Win | W+R | 6.5 | 3357.0 | 0.0 | 
+| 2014-06-19 | 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | Win | W+5.5 | 6.5 | 3357.0 | -85.0 | 
+| 2014-05-01 | 第62期王座戦予選 | Rin Kanketsu | Sasaka Shiro | Win | B+R | 6.5 | 3442.0 | -17.0 | 
+| 2014-04-24 | 第40期碁聖戦予選 | Yoda Norimoto | Rin Kanketsu | Lose | B+R | 6.5 | 3459.0 | 51.0 | 
+| 2014-03-27 | 第70期本因坊戦予選 | Yoda Norimoto | Rin Kanketsu | Win | W+0.5 | 6.5 | 3408.0 | 174.0 | 
+| 2014-01-30 | 第40期碁聖戦予選 | Ohashi Hirofumi | Rin Kanketsu | Win | W+8.5 | 6.5 | 3234.0 | 69.0 | 
+| 2014-01-16 | 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | Win | B+R | 6.5 | 3165.0 | -59.0 | 
+| 2014-01-09 | 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | Lose | W+R | 6.5 | 3224.0 | -7.0 | 
+| 2013-11-28 | 第52期十段戦3回戦 | Mizokami Tomochika | Rin Kanketsu | Lose | B+R | 6.5 | 3231.0 | -59.0 | 
+| 2013-10-17 | 第52期十段戦2回戦 | Goto Shungo | Rin Kanketsu | Win | W+R | 6.5 | 3290.0 | 124.0 | 
+| 2013-08-22 | 第52期十段戦予選 | Rin Kanketsu | Murakawa Daisuke | Win | B+3.5 | 6.5 | 3166.0 | 266.0 | 
+| 2013-04-18 | 第39期天元戦本戦2回戦 | O Rissei | Rin Kanketsu | Lose | B+5.5 | 6.5 | 2900.0 | -309.0 | 
+| 2013-03-14 | 第69期本因坊戦予選 | Otake Hideo | Rin Kanketsu | Lose | B+R | 6.5 | 3209.0 | -46.0 | 
+| 2013-03-07 | 第39期天元戦本戦1回戦 | Rin Kanketsu | Kataoka Satoshi | Win | B+5.5 | 6.5 | 3255.0 | 68.0 | 
+| 2013-01-10 | 第39期天元戦本戦0回戦 | Rin Kanketsu | Yoda Norimoto | Win | B+4.5 | 6.5 | 3187.0 | 64.0 | 
+| 2012-12-21 | 第8回大和証券杯ネット囲碁オープン2回戦 | Cho U | Rin Kanketsu | Lose | B+R | 6.5 | 3123.0 | -164.0 | 
+| 2012-09-22 | 第8回大和証券杯ネット囲碁オープン1回戦 | Yu Zhengqi | Rin Kanketsu | Win | W+1.5 | 6.5 | 3287.0 | missing |
 
 
 

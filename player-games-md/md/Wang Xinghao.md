@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-11 | 第26期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Fu Jianheng | Win | B+R | 7.5 | 3566.0 | 6.0 | 
 | 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3560.0 | 22.0 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 3538.0 | 0.0 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3538.0 | -7.0 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Xu Jingen | Wang Xinghao | Win | W+R | 6.5 | 3545.0 | -1.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Wang Xinghao |  | Win | B+R | 6.5 | 3546.0 | -1.0 | 
-| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Han Woojin | Wang Xinghao | Win | W+R | 6.5 | 3547.0 | -8.0 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | Lose | B+R | 7.5 | 3555.0 | -34.0 | 
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Han Woojin | Wang Xinghao | Win | W+R | 6.5 | 3547.0 | -9.0 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | Lose | B+R | 7.5 | 3556.0 | -33.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tong Mengcheng | Win | B+R | 7.5 | 3589.0 | 16.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Lose | B+R | 7.5 | 3573.0 | 47.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Liu Yuhang | Win | B+R | 7.5 | 3526.0 | 3.0 | 
@@ -24,8 +25,8 @@
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Wang Xinghao | He Xin | Win | B+R | 7.5 | 3519.0 | 5.0 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Xinghao | Jin Yucheng | Lose | W+R | 7.5 | 3514.0 | -15.0 | 
 | 2021-09-02 | 第12期中国竜星戦予選 |  | Wang Xinghao | Win | W+R | 7.5 | 3529.0 | 21.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 |  | Wang Xinghao | Win | W+R | 7.5 | 3508.0 | 59.0 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Wang Xinghao | Tong Mengcheng | Win | B+R | 6.5 | 3449.0 | 45.0 | 
+| 2021-08-31 | 第12期中国竜星戦予選 |  | Wang Xinghao | Win | W+R | 7.5 | 3508.0 | 58.0 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Wang Xinghao | Tong Mengcheng | Win | B+R | 6.5 | 3450.0 | 46.0 | 
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3404.0 | -19.0 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | Lose | W+R | 7.5 | 3423.0 | 6.0 | 
 | 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 7.5 | 3417.0 | 9.0 | 
@@ -38,13 +39,13 @@
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Wang Xinghao |  | Win | B+R | 6.5 | 3375.0 | 0.0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20決勝 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 6.5 | 3375.0 | 24.0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Win | W+R | 6.5 | 3351.0 | 0.0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 3351.0 | 14.0 | 
-| 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 3337.0 | 11.0 | 
-| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Hu Zihao | Wang Xinghao | Win | W+R | 7.5 | 3326.0 | 1.0 | 
-| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Win | B+R | 7.5 | 3325.0 | 2.0 | 
-| 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3323.0 | 1.0 | 
-| 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 |  | Wang Xinghao | Lose | B+R | 7.5 | 3322.0 | -20.0 | 
-| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Xinghao | Hu Zihao | Win | B+R | 7.5 | 3342.0 | -3.0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 3351.0 | 13.0 | 
+| 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 3338.0 | 11.0 | 
+| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Hu Zihao | Wang Xinghao | Win | W+R | 7.5 | 3327.0 | 1.0 | 
+| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Win | B+R | 7.5 | 3326.0 | 2.0 | 
+| 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3324.0 | 1.0 | 
+| 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 |  | Wang Xinghao | Lose | B+R | 7.5 | 3323.0 | -20.0 | 
+| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Xinghao | Hu Zihao | Win | B+R | 7.5 | 3343.0 | -2.0 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Wang Xinghao | Lian Xiao | Lose | W+R | 7.5 | 3345.0 | -19.0 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Win | W+R | 7.5 | 3364.0 | 13.0 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Wang Xinghao | He Yuhan | Win | B+R | 7.5 | 3351.0 | 13.0 | 
@@ -61,9 +62,9 @@
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Xinghao | Tan Xiao | Lose | W+R | 7.5 | 3310.0 | -36.0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Wang Xinghao | He Yuhan | Win | B+R | 7.5 | 3346.0 | 26.0 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Wang Zejin | Wang Xinghao | Lose | B+¾ | 7.5 | 3320.0 | 7.0 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Wang Xinghao | Liao Yuanhe | Lose | W+R | 7.5 | 3313.0 | -55.0 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Han Yizhou | Wang Xinghao | Win | W+R | 7.5 | 3368.0 | 26.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Wang Xinghao | Cao Xiaoyang | Win | B+R | 7.5 | 3342.0 | -9.0 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Wang Xinghao | Liao Yuanhe | Lose | W+R | 7.5 | 3313.0 | -56.0 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Han Yizhou | Wang Xinghao | Win | W+R | 7.5 | 3369.0 | 26.0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Wang Xinghao | Cao Xiaoyang | Win | B+R | 7.5 | 3343.0 | -8.0 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Xu Jiayang | Wang Xinghao | Lose | B+R | 7.5 | 3351.0 | -26.0 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Wang Xinghao | Huang Jingyuan | Win | B+R | 7.5 | 3377.0 | -3.0 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Wang Xinghao | Zhao Chenyu | Lose | W+R | 7.5 | 3380.0 | -12.0 | 
@@ -73,8 +74,8 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Lian Xiao | Wang Xinghao | Lose | B+R | 7.5 | 3494.0 | -26.0 | 
 | 2020-06-17 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3520.0 | -16.0 | 
 | 2020-06-16 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 7.5 | 3536.0 | 9.0 | 
-| 2020-06-15 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Wang Xinghao | Tu Xiaoyu | Lose | W+2¼ | 7.5 | 3527.0 | -62.0 | 
-| 2020-05-22 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Wang Xinghao | Fan Yunruo | Win | B+R | 7.5 | 3589.0 | 21.0 | 
+| 2020-06-15 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Wang Xinghao | Tu Xiaoyu | Lose | W+2¼ | 7.5 | 3527.0 | -63.0 | 
+| 2020-05-22 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Wang Xinghao | Fan Yunruo | Win | B+R | 7.5 | 3590.0 | 22.0 | 
 | 2020-05-15 | 第24期馬橋杯中国囲碁新人王戦準決勝 | Cheng Jiaye | Wang Xinghao | Win | W+R | 7.5 | 3568.0 | 6.0 | 
 | 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Wang Xinghao | Hu Zihao | Win | B+R | 7.5 | 3562.0 | 7.0 | 
 | 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3555.0 | -11.0 | 
@@ -88,9 +89,9 @@
 | 2019-12-09 | 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Liao Yuanhe | Wang Xinghao | Win | W+R | 7.5 | 3562.0 | 21.0 | 
 | 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Wang Xinghao | Xie Ke | Lose | W+R | 7.5 | 3541.0 | -42.0 | 
 | 2019-10-23 | 2019博思軟件杯中国囲棋新秀争覇戦16強戦 | Chen Haoxin | Wang Xinghao | Lose | B+R | 7.5 | 3583.0 | -2.0 | 
-| 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Wang Xinghao | Cheng Jiaye | Win | B+¾ | 7.5 | 3585.0 | 45.0 | 
-| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Lee Donghoon | Wang Xinghao | Lose | B+R | 7.5 | 3540.0 | -14.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Wang Xinghao | Wu Guangya | Lose | W+2¼ | 7.5 | 3554.0 | -16.0 | 
+| 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Wang Xinghao | Cheng Jiaye | Win | B+¾ | 7.5 | 3585.0 | 44.0 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Lee Donghoon | Wang Xinghao | Lose | B+R | 7.5 | 3541.0 | -14.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Wang Xinghao | Wu Guangya | Lose | W+2¼ | 7.5 | 3555.0 | -15.0 | 
 | 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Fan Yunruo | Wang Xinghao | Lose | B+R | 7.5 | 3570.0 | -18.0 | 
 | 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Wang Xinghao | Shen Peiran | Win | B+R | 7.5 | 3588.0 | 30.0 | 
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3558.0 | 36.0 | 

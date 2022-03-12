@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Lose | W+R | 6.5 | 3117.0 | -10.0 | 
-| 2022-03-07 | 第3期名人冠軍戦3回戦 | Lai Junfu | Lin Shixun | Lose | B+1.5 | 6.5 | 3127.0 | -20.0 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lin Junyan | Win | B+R | 6.5 | 3119.0 | 1.0 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Lose | W+R | 6.5 | 3118.0 | -10.0 | 
+| 2022-03-07 | 第3期名人冠軍戦3回戦 | Lai Junfu | Lin Shixun | Lose | B+1.5 | 6.5 | 3128.0 | -19.0 | 
 | 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Shixun | Lin Junyan | Lose | W+R | 7.5 | 3147.0 | -1.0 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Chen Shiyuan | Lin Shixun | Win | W+R | 7.5 | 3148.0 | 0.0 | 
 | 2022-02-24 | 第3期名人冠軍戦2回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3148.0 | 23.0 | 
@@ -16,34 +17,34 @@
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Yang Zixuan | Lin Shixun | Win | W+R | 7.5 | 3125.0 | -6.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Chen Qirui | Lin Shixun | Win | W+R | 7.5 | 3131.0 | 0.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Lin Shixun |  | Win | B+1¾ | 7.5 | 3131.0 | 35.0 | 
-| 2022-02-21 | 第3期名人冠軍戦1回戦  | Lin Shixun | Wang Yuanjun | Win | B+R | 6.5 | 3096.0 | -7.0 | 
-| 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Lose | W+R | 6.5 | 3103.0 | -9.0 | 
-| 2022-02-16 | 第18回倡棋杯台湾予選 |  | Lin Shixun | Win | W+5 | 7.5 | 3112.0 | 0.0 | 
-| 2022-02-16 | 第18回倡棋杯台湾予選 | Lin Shixun |  | Win | B+R | 7.5 | 3112.0 | 7.0 | 
-| 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Jian Jingting | Win | B+2.5 | 6.5 | 3105.0 | 0.0 | 
-| 2022-02-14 | 第3期名人冠軍戦予選 | Lin Shixun | Su Shengfang | Win | B+R | 6.5 | 3105.0 | 34.0 | 
-| 2022-02-11 | 第21期天元戦（台湾）敗部4回戦 | Li Wei | Lin Shixun | Win | W+R | 6.5 | 3071.0 | 0.0 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 3071.0 | -4.0 | 
-| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3075.0 | 14.0 | 
-| 2022-02-06 | 第21期天元戦（台湾）敗部2回戦 |  | Lin Shixun | Win | W+1.5 | 6.5 | 3061.0 | -12.0 | 
-| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3073.0 | -3.0 | 
-| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 3076.0 | -20.0 | 
+| 2022-02-21 | 第3期名人冠軍戦1回戦  | Lin Shixun | Wang Yuanjun | Win | B+R | 6.5 | 3096.0 | -8.0 | 
+| 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Lose | W+R | 6.5 | 3104.0 | -9.0 | 
+| 2022-02-16 | 第18回倡棋杯台湾予選 |  | Lin Shixun | Win | W+5 | 7.5 | 3113.0 | 0.0 | 
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Lin Shixun |  | Win | B+R | 7.5 | 3113.0 | 7.0 | 
+| 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Jian Jingting | Win | B+2.5 | 6.5 | 3106.0 | 0.0 | 
+| 2022-02-14 | 第3期名人冠軍戦予選 | Lin Shixun | Su Shengfang | Win | B+R | 6.5 | 3106.0 | 34.0 | 
+| 2022-02-11 | 第21期天元戦（台湾）敗部4回戦 | Li Wei | Lin Shixun | Win | W+R | 6.5 | 3072.0 | 0.0 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 3072.0 | -4.0 | 
+| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3076.0 | 14.0 | 
+| 2022-02-06 | 第21期天元戦（台湾）敗部2回戦 |  | Lin Shixun | Win | W+1.5 | 6.5 | 3062.0 | -12.0 | 
+| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3074.0 | -3.0 | 
+| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 3077.0 | -19.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 3096.0 | 5.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Shixun | Xu Haohong | Lose | W+R | 6.5 | 3091.0 | 17.0 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 |  | Lin Shixun | Win | W+1.5 | 6.5 | 3074.0 | -9.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Lin Shixun | Win | W+R | 6.5 | 3083.0 | 24.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Lin Shixun | Su Shengfang | Win | B+R | 6.5 | 3059.0 | -20.0 | 
 | 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 |  | Lin Shixun | Win | W+R | 6.5 | 3079.0 | 133.0 | 
-| 2021-10-26 | 2021新人王戦（台湾）決勝三番勝負第3局  | Lin Shixun | Chen Qirui | Lose | W+R | 7.5 | 2946.0 | -10.0 | 
-| 2021-10-22 | 2021新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Lose | B+R | 7.5 | 2956.0 | 26.0 | 
+| 2021-10-26 | 2021新人王戦（台湾）決勝三番勝負第3局  | Lin Shixun | Chen Qirui | Lose | W+R | 7.5 | 2946.0 | -11.0 | 
+| 2021-10-22 | 2021新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Lose | B+R | 7.5 | 2957.0 | 27.0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Lin Lixiang | Lose | W+R | 6.5 | 2930.0 | -4.0 | 
 | 2021-10-08 | 2021新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Win | B+R | 7.5 | 2934.0 | 27.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Yuqi | Lin Shixun | Win | W+R | 6.5 | 2907.0 | 0.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Win | B+R | 6.5 | 2907.0 | -14.0 | 
 | 2021-10-05 | 2021新人王戦（台湾）準決勝  | Jian Jingting | Lin Shixun | Win | W+R | 7.5 | 2921.0 | 11.0 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Li Wei | Lin Shixun | Win | W+R | 7.5 | 2910.0 | 6.0 | 
-| 2021-09-28 | 2021環旭新人王戦1回戦 | Lin Shixun | Yang Zixuan | Win | B+R | 7.5 | 2904.0 | -1.0 | 
-| 2021-09-22 | 第9期中環碁聖戦 |  | Lin Shixun | Lose | B+R | 6.5 | 2905.0 | -24.0 | 
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Lin Shixun | Yang Zixuan | Win | B+R | 7.5 | 2904.0 | -2.0 | 
+| 2021-09-22 | 第9期中環碁聖戦 |  | Lin Shixun | Lose | B+R | 6.5 | 2906.0 | -23.0 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shixun | Xu Yuqi | Lose | W+2.5 | 6.5 | 2929.0 | -17.0 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 2946.0 | 8.0 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 |  | Lin Shixun | Lose | B+R | 6.5 | 2938.0 | 2.0 | 
@@ -52,9 +53,9 @@
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Shixun | Chen Feng | Win | B+R | 6.5 | 2933.0 | 16.0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 |  | Lin Shixun | Win | W+R | 6.5 | 2917.0 | 0.0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Shixun | Chen Qirui | Win | B+R | 6.5 | 2917.0 | -13.0 | 
-| 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 2930.0 | 21.0 | 
-| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 2909.0 | -20.0 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Lose | B+0.5 | 6.5 | 2929.0 | -4.0 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 2930.0 | 20.0 | 
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 2910.0 | -20.0 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Lose | B+0.5 | 6.5 | 2930.0 | -3.0 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Win | W+5.5 | 6.5 | 2933.0 | 3.0 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shixun | Win | W+R | 6.5 | 2930.0 | 62.0 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Shixun |  | Win | B+R | 6.5 | 2868.0 | 62.0 | 
@@ -77,9 +78,9 @@
 | 2021-01-24 | 第20期天元戦（台湾）敗部2回戦 | Lin Shixun | Xu Yuqi | Win | B+R | 6.5 | 2821.0 | -1.0 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lin Lixiang | Lin Shixun | Lose | B+R | 6.5 | 2822.0 | -3.0 | 
 | 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Lai Junfu | Lin Shixun | Lose | B+R | 6.5 | 2825.0 | 45.0 | 
-| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | Win | B+R | 6.5 | 2780.0 | -6.0 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Liu Yaowen | Lin Shixun | Win | W+R | 6.5 | 2786.0 | 14.0 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Lin Shixun | Win | W+R | 6.5 | 2772.0 | 6.0 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | Win | B+R | 6.5 | 2780.0 | -7.0 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Liu Yaowen | Lin Shixun | Win | W+R | 6.5 | 2787.0 | 14.0 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Lin Shixun | Win | W+R | 6.5 | 2773.0 | 7.0 | 
 | 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 |  | Lin Shixun | Lose | B+R | 6.5 | 2766.0 | -57.0 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Lin Shixun |  | Lose | W+R | 7.5 | 2823.0 | 21.0 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Lin Shixun | Lose | B+R | 7.5 | 2802.0 | -18.0 | 
@@ -106,30 +107,30 @@
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Ye Hongyuan | Lin Shixun | Win | W+14.5 | 6.5 | 2938.0 | -9.0 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Lixiang | Lin Shixun | Lose | B+R | 6.5 | 2947.0 | 0.0 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Shixun | Ding Shaojie | Win | B+R | 6.5 | 2947.0 | -98.0 | 
-| 2020-07-16 | 第1期名人冠軍戦1回戦 | Lin Shixun | Lin Xinwei | Lose | W+R | 6.5 | 3045.0 | -12.0 | 
-| 2020-06-15 | 2020新人王戦（台湾）リーグB | Lin Shixun | Lai Junfu | Lose | W+R | 7.5 | 3057.0 | -12.0 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Lin Shixun | Lin Xinwei | Lose | W+R | 6.5 | 3045.0 | -13.0 | 
+| 2020-06-15 | 2020新人王戦（台湾）リーグB | Lin Shixun | Lai Junfu | Lose | W+R | 7.5 | 3058.0 | -11.0 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選敗部1回戦 |  | Lin Shixun | Lose | B+R | 6.5 | 3069.0 | -6.0 | 
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Lin Shixun | Huang Shiyuan | Lose | W+¼ | 7.5 | 3075.0 | -9.0 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lin Shuyang | Lin Shixun | Lose | B+R | 6.5 | 3084.0 | -26.0 | 
 | 2020-06-08 | 2020新人王戦（台湾）リーグB | Lin Shixun | Yang Zixuan | Win | B+R | 7.5 | 3110.0 | 0.0 | 
 | 2020-06-08 | 2020新人王戦（台湾）リーグB | Lin Shixun | Lin Shimin | Win | B+R | 7.5 | 3110.0 | 22.0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB |  | Lin Shixun | Win | W+R | 7.5 | 3088.0 | 0.0 | 
-| 2020-06-04 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | Lose | B+R | 7.5 | 3088.0 | -14.0 | 
-| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | Win | B+2.5 | 6.5 | 3102.0 | 4.0 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shengyi | Lin Shixun | Win | W+R | 6.5 | 3098.0 | -19.0 | 
-| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Win | W+R | 6.5 | 3117.0 | 16.0 | 
-| 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Qirui | Lin Shixun | Lose | B+R | 6.5 | 3101.0 | -22.0 | 
-| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Lin Shixun | Jian Jingting | Lose | W+1.5 | 6.5 | 3123.0 | -14.0 | 
-| 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3137.0 | -2.0 | 
-| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3139.0 | -18.0 | 
-| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3157.0 | 7.0 | 
-| 2020-04-07 | 第19期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Win | B+R | 6.5 | 3150.0 | 7.0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | Lose | B+R | 7.5 | 3088.0 | -15.0 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | Win | B+2.5 | 6.5 | 3103.0 | 4.0 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shengyi | Lin Shixun | Win | W+R | 6.5 | 3099.0 | -18.0 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Win | W+R | 6.5 | 3117.0 | 15.0 | 
+| 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Qirui | Lin Shixun | Lose | B+R | 6.5 | 3102.0 | -22.0 | 
+| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Lin Shixun | Jian Jingting | Lose | W+1.5 | 6.5 | 3124.0 | -14.0 | 
+| 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3138.0 | -2.0 | 
+| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3140.0 | -18.0 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3158.0 | 7.0 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Win | B+R | 6.5 | 3151.0 | 8.0 | 
 | 2020-03-31 | 第19期天元戦（台湾）リーグ | Xu Haohong | Lin Shixun | Lose | B+R | 6.5 | 3143.0 | 0.0 | 
-| 2020-03-24 | 第19期天元戦（台湾）リーグ | Lin Shixun | Chen Shiyuan | Win | B+R | 6.5 | 3143.0 | -7.0 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 |  | Lin Shixun | Lose | B+R | 7.5 | 3150.0 | -11.0 | 
-| 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Lose | W+R | 6.5 | 3161.0 | 5.0 | 
-| 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Lin Shixun | Lu Yiquan | Lose | W+R | 6.5 | 3156.0 | -18.0 | 
-| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Chen Shiyuan | Win | B+R | 6.5 | 3174.0 | 7.0 | 
+| 2020-03-24 | 第19期天元戦（台湾）リーグ | Lin Shixun | Chen Shiyuan | Win | B+R | 6.5 | 3143.0 | -8.0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 |  | Lin Shixun | Lose | B+R | 7.5 | 3151.0 | -11.0 | 
+| 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Lose | W+R | 6.5 | 3162.0 | 6.0 | 
+| 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Lin Shixun | Lu Yiquan | Lose | W+R | 6.5 | 3156.0 | -19.0 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Chen Shiyuan | Win | B+R | 6.5 | 3175.0 | 8.0 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Lin Shixun | Ding Shaojie | Win | B+R | 6.5 | 3167.0 | -4.0 | 
 | 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3171.0 | -6.0 | 
 | 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Shiyuan | Lin Shixun | Win | W+2.5 | 6.5 | 3177.0 | 7.0 | 
@@ -137,8 +138,8 @@
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Lin Shixun | Liu Chuanting | Win | B+R | 6.5 | 3174.0 | 0.0 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Yu Lijun | Lin Shixun | Win | W+R | 6.5 | 3174.0 | 4.0 | 
 | 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Chen Qirui | Lin Shixun | Win | W+R | 6.5 | 3170.0 | -5.0 | 
-| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lin Shixun | Liu Yaowen | Win | B+R | 6.5 | 3175.0 | -31.0 | 
-| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Lin Shixun | Fujisawa Rina | Lose | W+0.5 | 6.5 | 3206.0 | -33.0 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lin Shixun | Liu Yaowen | Win | B+R | 6.5 | 3175.0 | -32.0 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Lin Shixun | Fujisawa Rina | Lose | W+0.5 | 6.5 | 3207.0 | -32.0 | 
 | 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Haohong | Lin Shixun | Lose | B+R | 7.5 | 3239.0 | 3.0 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lu Yiquan | Lin Shixun | Win | W+R | 7.5 | 3236.0 | 0.0 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Jiehan | Lin Shixun | Win | W+R | 7.5 | 3236.0 | 1.0 | 
@@ -158,8 +159,8 @@
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Lin Shixun |  | Lose | W+R | 7.5 | 3227.0 | 0.0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Lin Shixun | Lai Junfu | Win | B+R | 7.5 | 3227.0 | -1.0 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Lin Shixun | Win | W+R | 7.5 | 3228.0 | 0.0 | 
-| 2019-10-23 | 2019新人王戦（台湾）リーグB | Lin Shixun | Lin Shimin | Lose | W+R | 7.5 | 3228.0 | 28.0 | 
-| 2019-10-09 | 第7期中環碁聖戦準決勝 | Lin Shixun | Jian Jingting | Lose | W+R | 6.5 | 3200.0 | -8.0 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグB | Lin Shixun | Lin Shimin | Lose | W+R | 7.5 | 3228.0 | 27.0 | 
+| 2019-10-09 | 第7期中環碁聖戦準決勝 | Lin Shixun | Jian Jingting | Lose | W+R | 6.5 | 3201.0 | -7.0 | 
 | 2019-10-01 | 第15期国手戦（台湾）3回戦 | Lin Shixun | Lin Lixiang | Lose | W+R | 6.5 | 3208.0 | -17.0 | 
 | 2019-09-29 | 第7期中環碁聖戦4回戦 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3225.0 | 6.0 | 
 | 2019-09-26 | 第12期棋王戦（台湾）予選敗部2回戦 | Lin Shuyang | Lin Shixun | Lose | B+2.5 | 6.5 | 3219.0 | -14.0 | 
@@ -169,15 +170,15 @@
 | 2019-09-20 | 第7期中環碁聖戦2回戦 |  | Lin Shixun | Win | W+R | 6.5 | 3245.0 | 5.0 | 
 | 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3240.0 | 6.0 | 
 | 2019-09-18 | 第15期国手戦（台湾）1回戦 | Yang Zixuan | Lin Shixun | Win | W+R | 6.5 | 3234.0 | 7.0 | 
-| 2019-09-01 | 第7期中環碁聖戦1回戦 | Lin Shixun | Dang Xiyun | Win | B+R | 6.5 | 3227.0 | -4.0 | 
-| 2019-07-01 | 第24回三星火災杯統合予選2回戦 | Lin Shixun | Jiang Weijie | Win | B+R | 6.5 | 3231.0 | 29.0 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 | Lin Shixun | Dang Xiyun | Win | B+R | 6.5 | 3227.0 | -5.0 | 
+| 2019-07-01 | 第24回三星火災杯統合予選2回戦 | Lin Shixun | Jiang Weijie | Win | B+R | 6.5 | 3232.0 | 30.0 | 
 | 2019-06-23 | 2019年中国囲碁乙級リーグ | Lin Shixun |  | Win | B+R | 7.5 | 3202.0 | -8.0 | 
 | 2019-06-22 | 2019年中国囲碁乙級リーグ |  | Lin Shixun | Lose | B+R | 7.5 | 3210.0 | -17.0 | 
-| 2019-06-21 | 2019年中国囲碁乙級リーグ | Lin Shixun |  | Win | B+R | 7.5 | 3227.0 | -3.0 | 
-| 2019-06-19 | 2019年中国囲碁乙級リーグ |  | Lin Shixun | Win | W+R | 7.5 | 3230.0 | -4.0 | 
-| 2019-06-18 | 2019年中国囲碁乙級リーグ | Lin Shixun |  | Lose | W+2.5 | 7.5 | 3234.0 | -4.0 | 
-| 2019-06-16 | 2019年中国囲碁乙級リーグ | Zhu Yuanhao | Lin Shixun | Win | W+R | 7.5 | 3238.0 | -12.0 | 
-| 2019-06-15 | 2019年中国囲碁乙級リーグ | Lin Shixun | Motoki Katsuya | Win | B+R | 7.5 | 3250.0 | 1.0 | 
+| 2019-06-21 | 2019年中国囲碁乙級リーグ | Lin Shixun |  | Win | B+R | 7.5 | 3227.0 | -4.0 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ |  | Lin Shixun | Win | W+R | 7.5 | 3231.0 | -4.0 | 
+| 2019-06-18 | 2019年中国囲碁乙級リーグ | Lin Shixun |  | Lose | W+2.5 | 7.5 | 3235.0 | -4.0 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ | Zhu Yuanhao | Lin Shixun | Win | W+R | 7.5 | 3239.0 | -12.0 | 
+| 2019-06-15 | 2019年中国囲碁乙級リーグ | Lin Shixun | Motoki Katsuya | Win | B+R | 7.5 | 3251.0 | 2.0 | 
 | 2019-06-14 | 2019年中国囲碁乙級リーグ |  | Lin Shixun | Win | W+R | 7.5 | 3249.0 | 24.0 | 
 | 2019-06-03 | 第9期友士杯十段戦敗部決勝 | Lai Junfu | Lin Shixun | Lose | B+1.5 | 6.5 | 3225.0 | -8.0 | 
 | 2019-05-30 | 第9期友士杯十段戦敗部準決勝 | Chen Qirui | Lin Shixun | Win | W+R | 6.5 | 3233.0 | 7.0 | 
@@ -212,12 +213,12 @@
 | 2018-10-29 | 第11期棋王戦（台湾）リーグ第4節 | Xu Haohong | Lin Shixun | Lose | B+R | 6.5 | 3226.0 | -4.0 | 
 | 2018-10-28 | 第6期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Shixun | Win | W+R | 6.5 | 3230.0 | 16.0 | 
 | 2018-10-25 | 第11期棋王戦（台湾）リーグ第3節 | Lin Lixiang | Lin Shixun | Lose | B+1.5 | 6.5 | 3214.0 | -17.0 | 
-| 2018-10-23 | 第14期国手戦（台湾）8強戦 | Lin Shimin | Lin Shixun | Win | W+1.5 | 6.5 | 3231.0 | 3.0 | 
-| 2018-10-22 | 第11期棋王戦（台湾）リーグ第2節 | Lin Shixun | Jian Jingting | Lose | W+R | 6.5 | 3228.0 | -6.0 | 
-| 2018-10-21 | 第6期中環碁聖戦準決勝 | Lin Shuyang | Lin Shixun | Win | W+R | 6.5 | 3234.0 | 15.0 | 
-| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節 | Lin Shixun | Chen Qirui | Lose | W+4.5 | 6.5 | 3219.0 | 0.0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Lin Shixun | Kim Myounghoon | Lose | W+R | 6.5 | 3219.0 | 0.0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Zhengqi | Lin Shixun | Lose | B+R | 6.5 | 3219.0 | -36.0 | 
+| 2018-10-23 | 第14期国手戦（台湾）8強戦 | Lin Shimin | Lin Shixun | Win | W+1.5 | 6.5 | 3231.0 | 2.0 | 
+| 2018-10-22 | 第11期棋王戦（台湾）リーグ第2節 | Lin Shixun | Jian Jingting | Lose | W+R | 6.5 | 3229.0 | -6.0 | 
+| 2018-10-21 | 第6期中環碁聖戦準決勝 | Lin Shuyang | Lin Shixun | Win | W+R | 6.5 | 3235.0 | 15.0 | 
+| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節 | Lin Shixun | Chen Qirui | Lose | W+4.5 | 6.5 | 3220.0 | 0.0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Lin Shixun | Kim Myounghoon | Lose | W+R | 6.5 | 3220.0 | 0.0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Zhengqi | Lin Shixun | Lose | B+R | 6.5 | 3220.0 | -35.0 | 
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Lin Shixun | Win | W+1.5 | 6.5 | 3255.0 | 0.0 | 
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lin Shixun | Tao Xinran | Win | B+R | 6.5 | 3255.0 | 33.0 | 
 | 2018-10-09 | 第14期国手戦（台湾）16強戦 | Yang Zixuan | Lin Shixun | Win | W+R | 6.5 | 3222.0 | -1.0 | 
@@ -243,9 +244,9 @@
 | 2018-04-27 | 第十七回天元戦リーグ第五節 | Lin Junyan | Lin Shixun | Lose | B+0.5 | 6.5 | 3105.0 | -10.0 | 
 | 2018-04-26 | 第十七回天元戦リーグ第三節補戦 | Lin Zhihan | Lin Shixun | Win | W+R | 6.5 | 3115.0 | 22.0 | 
 | 2018-04-17 | 第十七回天元戦リーグ第二節 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3093.0 | 4.0 | 
-| 2018-04-13 | 第十七回天元戦リーグ第一節 | Jian Jingting | Lin Shixun | Win | W+0.5 | 6.5 | 3089.0 | -40.0 | 
-| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Lin Shixun | Lin Jiehan | Lose | W+R | 6.5 | 3129.0 | -24.0 | 
-| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Lin Shixun |  | Win | B+R | 6.5 | 3153.0 | 30.0 | 
+| 2018-04-13 | 第十七回天元戦リーグ第一節 | Jian Jingting | Lin Shixun | Win | W+0.5 | 6.5 | 3089.0 | -41.0 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Lin Shixun | Lin Jiehan | Lose | W+R | 6.5 | 3130.0 | -24.0 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Lin Shixun |  | Win | B+R | 6.5 | 3154.0 | 31.0 | 
 | 2018-02-09 | 第12回春蘭杯台湾予選 | Chen Qirui | Lin Shixun | Lose | B+R | 7.5 | 3123.0 | -9.0 | 
 | 2018-02-08 | 第12回春蘭杯台湾予選 | Xu Haohong | Lin Shixun | Win | W+R | 7.5 | 3132.0 | 18.0 | 
 | 2018-01-29 | 第23回LG杯台湾代表選抜戦決勝第一局 | Lin Shixun | Chen Qirui | Lose | W+0.5 | 6.5 | 3114.0 | -19.0 | 
@@ -261,14 +262,14 @@
 | 2017-10-23 | 第10期棋王戦（台湾）リーグ | Lin Shixun | Zhou Junxun | Win | B+0.5 | 6.5 | 3059.0 | 5.0 | 
 | 2017-10-22 | 第5期中環碁聖戦準決勝 | Lin Junyan | Lin Shixun | Lose | B+R | 6.5 | 3054.0 | 4.0 | 
 | 2017-10-19 | 第10期棋王戦（台湾）リーグ | Lin Junyan | Lin Shixun | Lose | B+R | 6.5 | 3050.0 | -12.0 | 
-| 2017-10-15 | 第5期中環碁聖戦8強戦 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3062.0 | -12.0 | 
-| 2017-09-24 | 第5期中環碁聖戦16強戦 | Chen Qirui | Lin Shixun | Win | W+R | 6.5 | 3074.0 | 2.0 | 
+| 2017-10-15 | 第5期中環碁聖戦8強戦 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3062.0 | -13.0 | 
+| 2017-09-24 | 第5期中環碁聖戦16強戦 | Chen Qirui | Lin Shixun | Win | W+R | 6.5 | 3075.0 | 3.0 | 
 | 2017-09-17 | 第5期中環碁聖戦第二回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3072.0 | -7.0 | 
 | 2017-09-10 | 第5期中環碁聖戦首輪下半区補戦 | Lin Shixun | Su Shengfang | Win | B+6.5 | 6.5 | 3079.0 | -1.0 | 
 | 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Lin Shixun | Huang Shiyuan | Lose | W+0.5(W+0.5) | 6.5 | 3080.0 | -21.0 | 
-| 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Xiao Zhenghao | Lin Shixun | Lose | B+1.5 | 6.5 | 3101.0 | 4.0 | 
-| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝敗部第一局 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3097.0 | 0.0 | 
-| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3097.0 | -19.0 | 
+| 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Xiao Zhenghao | Lin Shixun | Lose | B+1.5 | 6.5 | 3101.0 | 3.0 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝敗部第一局 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3098.0 | 0.0 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3098.0 | -18.0 | 
 | 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Lin Shixun | Zhou Yinnan | Win | B+R | 6.5 | 3116.0 | 0.0 | 
 | 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 3116.0 | 18.0 | 
 | 2017-07-05 | 16回台湾天元戦挑戦手合7番4局 | Lin Shixun | Wang Yuanjun | Lose | W+R | 6.5 | 3098.0 | 33.0 | 
@@ -320,12 +321,12 @@
 | 2016-06-06 | 第6期友士杯十段戦敗者復活戦1回戦 | Lin Shuyang | Lin Shixun | Lose | B+R | 6.5 | 3027.0 | -14.0 | 
 | 2016-06-03 | 第6期友士杯十段戦1回戦 | Lin Shixun | Chen Shiyuan | Lose | W+R | 6.5 | 3041.0 | -34.0 | 
 | 2016-05-20 | 第6期友士杯十段戦予選 | Chen Feng | Lin Shixun | Win | W+R | 6.5 | 3075.0 | 17.0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Lin Shixun |  | Win | B+R | 6.5 | 3058.0 | -44.0 | 
-| 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Lin Shixun | Byun Sangil | Lose | W+R | 6.5 | 3102.0 | 0.0 | 
-| 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグD | Lin Shixun | Sun Zhe | Win | B+R | 6.5 | 3102.0 | 67.0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Lin Shixun |  | Win | B+R | 6.5 | 3058.0 | -45.0 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Lin Shixun | Byun Sangil | Lose | W+R | 6.5 | 3103.0 | 0.0 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグD | Lin Shixun | Sun Zhe | Win | B+R | 6.5 | 3103.0 | 68.0 | 
 | 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグD | Lin Shixun | Lee Donghoon | Lose | W+R | 6.5 | 3035.0 | 0.0 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Lin Shixun | Win | W+4.5 | 6.5 | 3035.0 | 107.0 | 
-| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Lin Shuyang | Lose | W+3.5 | 6.5 | 2928.0 | 46.0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Lin Shixun | Win | W+4.5 | 6.5 | 3035.0 | 106.0 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Lin Shuyang | Lose | W+3.5 | 6.5 | 2929.0 | 47.0 | 
 | 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Lin Shixun | Liu Yaowen | Win | B+R | 6.5 | 2882.0 | -78.0 | 
 | 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Lin Shixun |  | Win | B+R | 6.5 | 2960.0 | -40.0 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Lin Shixun | Shi Yue | Lose | W+R | 7.5 | 3000.0 | 18.0 | 
@@ -334,10 +335,10 @@
 | 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Eric Lui | Lin Shixun | Win | W+R | 7.5 | 2983.0 | 2.0 | 
 | 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Shibano Toramaru | Lin Shixun | Lose | B+R | 7.5 | 2981.0 | 11.0 | 
 | 2016-01-30 | 2016年日台精鋭交流戦第6戦 | Lin Shixun | Fujisawa Rina | Lose | W+R | 6.5 | 2970.0 | -32.0 | 
-| 2016-01-29 | 2016年日台精鋭交流戦第3戦 | Yu Zhengqi | Lin Shixun | Lose | B+R | 6.5 | 3002.0 | 5.0 | 
-| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 2997.0 | 0.0 | 
-| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Lai Junfu | Win | B+R | 6.5 | 2997.0 | 52.0 | 
-| 2015-10-18 | 第3期中環碁聖戦準決勝 | Chen Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 2945.0 | -18.0 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第3戦 | Yu Zhengqi | Lin Shixun | Lose | B+R | 6.5 | 3002.0 | 4.0 | 
+| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 2998.0 | 0.0 | 
+| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Lai Junfu | Win | B+R | 6.5 | 2998.0 | 52.0 | 
+| 2015-10-18 | 第3期中環碁聖戦準決勝 | Chen Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 2946.0 | -17.0 | 
 | 2015-03-23 | 第14期天元戦（台湾）予選 | Chen Qirui | Lin Shixun | Lose | B+R | 6.5 | 2963.0 | -43.0 | 
 | 2015-03-17 | 第14期天元戦（台湾）予選 | Huang Xiangren | Lin Shixun | Win | W+R | 6.5 | 3006.0 | -10.0 | 
 | 2015-03-10 | 第14期天元戦（台湾）予選 | Lin Shixun | Lin Xiuping | Win | B+2.5 | 6.5 | 3016.0 | 19.0 | 

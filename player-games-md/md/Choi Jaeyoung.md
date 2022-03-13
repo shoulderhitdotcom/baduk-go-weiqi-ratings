@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-06 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | Win | W+R | 6.5 | 3430.0 | 72.0 | 
-| 2022-02-24 | 2021-2022韓国囲碁リーグ | Park Jinsol | Choi Jaeyoung | Win | W+1.5 | 6.5 | 3358.0 | -30.0 | 
-| 2022-02-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Changho | Lose | W+0.5 | 6.5 | 3388.0 | -20.0 | 
-| 2022-02-12 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Win | W+R | 6.5 | 3408.0 | 23.0 | 
-| 2022-02-06 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Choi Jaeyoung | Lose | B+R | 6.5 | 3385.0 | -65.0 | 
+| 2022-03-12 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Shin Minjun | Lose | W+R | 6.5 | 3418.0 | -13.0 | 
+| 2022-03-06 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | Win | W+R | 6.5 | 3431.0 | 72.0 | 
+| 2022-02-24 | 2021-2022韓国囲碁リーグ | Park Jinsol | Choi Jaeyoung | Win | W+1.5 | 6.5 | 3359.0 | -30.0 | 
+| 2022-02-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Changho | Lose | W+0.5 | 6.5 | 3389.0 | -20.0 | 
+| 2022-02-12 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Win | W+R | 6.5 | 3409.0 | 23.0 | 
+| 2022-02-06 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Choi Jaeyoung | Lose | B+R | 6.5 | 3386.0 | -64.0 | 
 | 2022-01-16 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung |  | Lose | W+R | 6.5 | 3450.0 | -18.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | Win | B+2.5 | 6.5 | 3468.0 | -28.0 | 
 | 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Han Seungjoo | Lose | W+R | 6.5 | 3496.0 | 0.0 | 
@@ -28,8 +29,8 @@
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Win | B+0.5 | 6.5 | 3368.0 | -71.0 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Win | W+R | 6.5 | 3439.0 | 115.0 | 
 | 2021-02-09 | 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | Lose | B+R | 6.5 | 3324.0 | -5.0 | 
-| 2021-02-01 | 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | Lose | B+R | 6.5 | 3329.0 | 23.0 | 
-| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Win | B+2.5 | 6.5 | 3306.0 | 123.0 | 
+| 2021-02-01 | 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | Lose | B+R | 6.5 | 3329.0 | 24.0 | 
+| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Win | B+2.5 | 6.5 | 3305.0 | 122.0 | 
 | 2021-01-11 | 第4回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Park Joonhoon | Win | B+R | 6.5 | 3183.0 | 78.0 | 
 | 2020-12-28 | 第4回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Choi Jaeyoung | Win | W+R | 6.5 | 3105.0 | -36.0 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Choi Jaeyoung | Wen Rubin | Lose | W+R | 6.5 | 3141.0 | -20.0 | 
@@ -73,8 +74,8 @@
 | 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Choi Jaeyoung | Ahn Kukhyun | Lose | W+1.5 | 6.5 | 3375.0 | -35.0 | 
 | 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Choi Jaeyoung | Kim Seongjae | Win | B+2.5 | 6.5 | 3410.0 | 22.0 | 
 | 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Na Hyun | Choi Jaeyoung | Lose | B+0.5 | 6.5 | 3388.0 | -35.0 | 
-| 2018-08-24 | 2018年韓国囲碁リーグ第9節 | Choi Jaeyoung | Lee Donghoon | Lose | W+R | 6.5 | 3423.0 | -25.0 | 
-| 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Han Seungjoo | Choi Jaeyoung | Lose | B+R | 6.5 | 3448.0 | -9.0 | 
+| 2018-08-24 | 2018年韓国囲碁リーグ第9節 | Choi Jaeyoung | Lee Donghoon | Lose | W+R | 6.5 | 3423.0 | -24.0 | 
+| 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Han Seungjoo | Choi Jaeyoung | Lose | B+R | 6.5 | 3447.0 | -10.0 | 
 | 2018-08-09 | 2018年韓国囲碁リーグ第7節 | Choi Jaeyoung | Park Geunho | Lose | W+0.5 | 6.5 | 3457.0 | -14.0 | 
 | 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Choi Jaeyoung | Yun Junsang | Win | B+R | 6.5 | 3471.0 | 57.0 | 
 | 2018-07-24 | 中韓新鋭対抗韓国選抜決勝 | Kim Myounghoon | Choi Jaeyoung | Lose | B+R | 7.5 | 3414.0 | -16.0 | 
@@ -142,8 +143,8 @@
 | 2015-10-10 | 2015年フューチャーズリーグ | Seol Hyunjun | Choi Jaeyoung | Lose | B+R | 6.5 | 3232.0 | -47.0 | 
 | 2015-09-26 | 2015年フューチャーズリーグ | Park Jaekeun | Choi Jaeyoung | Win | W+R | 6.5 | 3279.0 | 42.0 | 
 | 2015-09-19 | 2015年フューチャーズリーグ | Ko Keuntae | Choi Jaeyoung | Lose | B+R | 6.5 | 3237.0 | -28.0 | 
-| 2015-09-16 | 2015年フューチャーズリーグ | Kim Hyeoimin | Choi Jaeyoung | Win | W+R | 6.5 | 3265.0 | -31.0 | 
-| 2015-08-29 | 2015年フューチャーズリーグ | Choi Jaeyoung |  | Lose | W+R | 6.5 | 3296.0 | -54.0 | 
+| 2015-09-16 | 2015年フューチャーズリーグ | Kim Hyeoimin | Choi Jaeyoung | Win | W+R | 6.5 | 3265.0 | -32.0 | 
+| 2015-08-29 | 2015年フューチャーズリーグ | Choi Jaeyoung |  | Lose | W+R | 6.5 | 3297.0 | -53.0 | 
 | 2015-08-18 | 2015年フューチャーズリーグ |  | Choi Jaeyoung | Win | W+R | 6.5 | 3350.0 | 43.0 | 
 | 2015-07-29 | 2015年フューチャーズリーグ |  | Choi Jaeyoung | Win | W+R | 6.5 | 3307.0 | 0.0 | 
 | 2015-07-18 | 2015年フューチャーズリーグ | Choi Jaeyoung | Yun Chanhee | Lose | W+R | 6.5 | 3307.0 | -43.0 | 

@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-08 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3277.0 | -3.0 | 
-| 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3280.0 | 58.0 | 
-| 2022-02-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Changho | Win | W+0.5 | 6.5 | 3222.0 | -6.0 | 
-| 2022-02-15 | 第23回マキシムコーヒー杯入神最強戦2回戦 | An Sungjoon | Lee Changho | Win | W+R | 6.5 | 3228.0 | 22.0 | 
-| 2022-02-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Seunghwa | Win | B+R | 6.5 | 3206.0 | -7.0 | 
+| 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Choi Jeong | Win | B+0.5 | 6.5 | 3298.0 | 20.0 | 
+| 2022-03-08 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3278.0 | -3.0 | 
+| 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3281.0 | 58.0 | 
+| 2022-02-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Changho | Win | W+0.5 | 6.5 | 3223.0 | -6.0 | 
+| 2022-02-15 | 第23回マキシムコーヒー杯入神最強戦2回戦 | An Sungjoon | Lee Changho | Win | W+R | 6.5 | 3229.0 | 22.0 | 
+| 2022-02-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Seunghwa | Win | B+R | 6.5 | 3207.0 | -6.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Lose | B+R | 6.5 | 3213.0 | -9.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+R | 6.5 | 3222.0 | -15.0 | 
 | 2022-01-18 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hyeyeon | Win | B+R | 6.5 | 3237.0 | -8.0 | 
@@ -28,8 +29,8 @@
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | Lose | W+3.5 | 6.5 | 3178.0 | 0.0 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Lose | B+1.5 | 6.5 | 3178.0 | -9.0 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Seol Hyunjun | Lee Changho | Lose | B+R | 6.5 | 3187.0 | -17.0 | 
-| 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3204.0 | 4.0 | 
-| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Lose | W+R | 7.5 | 3200.0 | -25.0 | 
+| 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3204.0 | 5.0 | 
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Lose | W+R | 7.5 | 3199.0 | -26.0 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Lee Changho | Lose | B+R | 6.5 | 3225.0 | -4.0 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Lose | W+R | 6.5 | 3229.0 | 7.0 | 
 | 2021-10-05 | 第15回GGオークション杯女流対シニア連勝対抗戦第22局 | Lee Changho | Choi Jeong | Lose | W+R | 6.5 | 3222.0 | 19.0 | 
@@ -46,10 +47,10 @@
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3227.0 | -2.0 | 
 | 2021-05-18 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Byun Sangil | Lose | W+2.5 | 6.5 | 3229.0 | 31.0 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Lose | B+R | 6.5 | 3198.0 | -4.0 | 
-| 2021-05-02 | 第26回LG杯韓国予選 |  | Lee Changho | Win | W+R | 6.5 | 3202.0 | 10.0 | 
-| 2021-04-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | Lose | W+R | 6.5 | 3192.0 | -25.0 | 
-| 2021-04-23 | 第44期名人戦（韓国）敗者復活戦1回戦 | Hyun Yoobin | Lee Changho | Lose | B+R | 6.5 | 3217.0 | -10.0 | 
-| 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | Win | W+R | 6.5 | 3227.0 | 31.0 | 
+| 2021-05-02 | 第26回LG杯韓国予選 |  | Lee Changho | Win | W+R | 6.5 | 3202.0 | 11.0 | 
+| 2021-04-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | Lose | W+R | 6.5 | 3191.0 | -25.0 | 
+| 2021-04-23 | 第44期名人戦（韓国）敗者復活戦1回戦 | Hyun Yoobin | Lee Changho | Lose | B+R | 6.5 | 3216.0 | -10.0 | 
+| 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | Win | W+R | 6.5 | 3226.0 | 30.0 | 
 | 2021-03-12 | 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3196.0 | 3.0 | 
 | 2021-03-01 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3193.0 | 10.0 | 
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Kyeongho | Lose | W+R | 6.5 | 3183.0 | -21.0 | 
@@ -64,20 +65,20 @@
 | 2021-01-16 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Sangjin | Lose | W+5.5 | 6.5 | 3088.0 | 15.0 | 
 | 2021-01-15 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Lee Changho | Nie Weiping | Win | B+15.5 | 6.5 | 3073.0 | 6.0 | 
 | 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3067.0 | -15.0 | 
-| 2021-01-07 | 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 3082.0 | -11.0 | 
-| 2020-12-31 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3093.0 | 1.0 | 
-| 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Geunho | Lose | W+0.5 | 6.5 | 3092.0 | -22.0 | 
-| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Chang Hao | Lee Changho | Lose | B+¾ | 7.5 | 3114.0 | -27.0 | 
-| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Win | W+R | 7.5 | 3141.0 | 58.0 | 
+| 2021-01-07 | 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 3082.0 | -10.0 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3092.0 | 1.0 | 
+| 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Geunho | Lose | W+0.5 | 6.5 | 3091.0 | -22.0 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Chang Hao | Lee Changho | Lose | B+¾ | 7.5 | 3113.0 | -27.0 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Win | W+R | 7.5 | 3140.0 | 57.0 | 
 | 2020-12-19 | 2020-2021韓国囲碁リーグ | Heo Yongho | Lee Changho | Lose | B+R | 6.5 | 3083.0 | -15.0 | 
 | 2020-12-12 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3098.0 | 107.0 | 
 | 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | Lose | B+R | 6.5 | 2991.0 | -14.0 | 
-| 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 3005.0 | 3.0 | 
-| 2020-11-27 | 2020-2021韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+5.5 | 6.5 | 3002.0 | 7.0 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Lee Changho | Lose | B+6.5 | 6.5 | 2995.0 | -93.0 | 
-| 2020-10-06 | 第14回GGオークション杯女流対シニア連勝対抗戦第20局 | Lee Changho | Lee Minjin | Lose | W+0.5 | 6.5 | 3088.0 | -36.0 | 
-| 2020-09-25 | 第22回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | Lose | B+1.5 | 6.5 | 3124.0 | -9.0 | 
-| 2020-09-23 | 第22回農心杯韓国選抜戦 | Lee Changho | Kim Myounghoon | Win | B+0.5 | 6.5 | 3133.0 | 44.0 | 
+| 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 3005.0 | 4.0 | 
+| 2020-11-27 | 2020-2021韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+5.5 | 6.5 | 3001.0 | 6.0 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Lee Changho | Lose | B+6.5 | 6.5 | 2995.0 | -92.0 | 
+| 2020-10-06 | 第14回GGオークション杯女流対シニア連勝対抗戦第20局 | Lee Changho | Lee Minjin | Lose | W+0.5 | 6.5 | 3087.0 | -36.0 | 
+| 2020-09-25 | 第22回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | Lose | B+1.5 | 6.5 | 3123.0 | -9.0 | 
+| 2020-09-23 | 第22回農心杯韓国選抜戦 | Lee Changho | Kim Myounghoon | Win | B+0.5 | 6.5 | 3132.0 | 43.0 | 
 | 2020-09-03 | 第25回三星火災杯韓国シニア枠予選 | Lee Changho | Choi Kyubyeong | Win | B+1.5 | 6.5 | 3089.0 | 5.0 | 
 | 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | Win | W+R | 6.5 | 3084.0 | 1.0 | 
 | 2020-09-01 | 第25回三星火災杯韓国シニア枠予選 | Lee Changho |  | Win | B+R | 6.5 | 3083.0 | -152.0 | 
@@ -89,9 +90,9 @@
 | 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第2局 | Kim Jiseok | Lee Changho | Lose | B+2.5 | 6.5 | 3285.0 | -13.0 | 
 | 2020-01-15 | 第3期韓国竜星戦32強戦 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3298.0 | -19.0 | 
 | 2020-01-07 | 第3期韓国竜星戦予選決勝 | Lee Changho |  | Win | B+5.5 | 6.5 | 3317.0 | 3.0 | 
-| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | Lose | B+R | 6.5 | 3314.0 | -28.0 | 
-| 2019-12-26 | 永子杯国際囲碁大師戦決勝 | Lee Changho | Takao Shinji | Win | B+R | 7.5 | 3342.0 | 3.0 | 
-| 2019-12-25 | 永子杯国際囲碁大師戦準決勝 | Ma Xiaochun | Lee Changho | Win | W+R | 7.5 | 3339.0 | 9.0 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | Lose | B+R | 6.5 | 3314.0 | -27.0 | 
+| 2019-12-26 | 永子杯国際囲碁大師戦決勝 | Lee Changho | Takao Shinji | Win | B+R | 7.5 | 3341.0 | 3.0 | 
+| 2019-12-25 | 永子杯国際囲碁大師戦準決勝 | Ma Xiaochun | Lee Changho | Win | W+R | 7.5 | 3338.0 | 8.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第2局 | Lee Changho | Lee Jihyun | Lose | W+R | 6.5 | 3330.0 | -11.0 | 
 | 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3341.0 | -24.0 | 
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | Win | B+R | 6.5 | 3365.0 | 31.0 | 
@@ -108,18 +109,18 @@
 | 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Lose | W+14.5 | 6.5 | 3282.0 | -25.0 | 
 | 2019-07-18 | 第21回農心杯韓国選抜戦 | Lee Hyeonjun | Lee Changho | Win | W+1.5 | 6.5 | 3307.0 | -2.0 | 
 | 2019-07-16 | 第21回農心杯韓国選抜戦 | Shen Zaiyi | Lee Changho | Win | W+R | 6.5 | 3309.0 | 18.0 | 
-| 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Win | W+R | 6.5 | 3291.0 | 44.0 | 
-| 2019-07-12 | 第21回農心杯韓国選抜戦 | Lee Changho |  | Win | B+R | 6.5 | 3247.0 | -5.0 | 
-| 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Lee Changho | Peng Liyao | Lose | W+R | 6.5 | 3252.0 | -53.0 | 
-| 2019-04-08 | 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Changho | Park Jinyoung | Win | B+2.5 | 6.5 | 3305.0 | 8.0 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Win | W+R | 6.5 | 3291.0 | 45.0 | 
+| 2019-07-12 | 第21回農心杯韓国選抜戦 | Lee Changho |  | Win | B+R | 6.5 | 3246.0 | -6.0 | 
+| 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Lee Changho | Peng Liyao | Lose | W+R | 6.5 | 3252.0 | -52.0 | 
+| 2019-04-08 | 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Changho | Park Jinyoung | Win | B+2.5 | 6.5 | 3304.0 | 7.0 | 
 | 2019-04-05 | 第24回LG杯統合予選4回戦 | Lee Changho | Zhao Chenyu | Lose | W+1.5 | 6.5 | 3297.0 | -8.0 | 
 | 2019-04-04 | 第24回LG杯統合予選3回戦 | Lee Yungsoo | Lee Changho | Win | W+R | 6.5 | 3305.0 | -2.0 | 
 | 2019-04-02 | 第24回LG杯統合予選2回戦 | Lee Changho | Seki Kotaro | Win | B+R | 6.5 | 3307.0 | 10.0 | 
 | 2019-03-19 | 第20回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Donghoon | Lose | W+R | 6.5 | 3297.0 | 2.0 | 
 | 2019-03-05 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3295.0 | 37.0 | 
 | 2019-01-29 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Lee Changho | Win | W+R | 6.5 | 3258.0 | -55.0 | 
-| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | Lose | W+R | 6.5 | 3313.0 | 0.0 | 
-| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3313.0 | -16.0 | 
+| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | Lose | W+R | 6.5 | 3313.0 | 1.0 | 
+| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3312.0 | -17.0 | 
 | 2018-11-10 | 2018年韓国囲碁リーグプレーオフ第2戦 | Lee Changho | Park Hamin | Lose | W+2.5 | 6.5 | 3329.0 | -14.0 | 
 | 2018-11-09 | 2018年韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Lee Changho | Win | W+R | 6.5 | 3343.0 | 22.0 | 
 | 2018-10-10 | 2018樟樹・中国葯都杯中日韓囲碁大師戦第2局 | Yoda Norimoto | Lee Changho | Lose | B+¾ | 7.5 | 3321.0 | -39.0 | 

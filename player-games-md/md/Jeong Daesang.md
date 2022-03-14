@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-13 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Jeong Daesang | Kim Eunseon | Lose | W+R | 6.5 | 2509.0 | -29.0 | 
 | 2022-03-12 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Jeong Daesang | Kim Eunseon | Lose | W+10.5 | 6.5 | 2538.0 | 183.0 | 
 | 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Win | B+R | 6.5 | 2355.0 | -15.0 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Win | B+R | 6.5 | 2370.0 | 131.0 | 
@@ -21,9 +22,9 @@
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Lose | W+R | 6.5 | 2244.0 | -133.0 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Jeong Daesang |  | Lose | W+R | 6.5 | 2377.0 | -57.0 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jeong Daesang | Lose | B+R | 6.5 | 2434.0 | -100.0 | 
-| 2021-07-05 | 第15回GGオークション杯予選 | Jeong Daesang | Choi Kyubyeong | Lose | W+R | 6.5 | 2534.0 | 328.0 | 
-| 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第1局 | Park Yeongchan | Jeong Daesang | Lose | B+10.5 | 6.5 | 2206.0 | -21.0 | 
-| 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第3局 | Jeong Daesang | Park Yeongchan | Lose | W+T | 6.5 | 2227.0 | 61.0 | 
+| 2021-07-05 | 第15回GGオークション杯予選 | Jeong Daesang | Choi Kyubyeong | Lose | W+R | 6.5 | 2534.0 | 327.0 | 
+| 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第1局 | Park Yeongchan | Jeong Daesang | Lose | B+10.5 | 6.5 | 2207.0 | -21.0 | 
+| 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第3局 | Jeong Daesang | Park Yeongchan | Lose | W+T | 6.5 | 2228.0 | 62.0 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第3局 | Paek Seongho | Jeong Daesang | Lose | B+T | 6.5 | 2166.0 | -21.0 | 
 | 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第3局 | Jeong Daesang | Kim Dongyeop | Lose | W+7.5 | 6.5 | 2187.0 | -42.0 | 
 | 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第2局 | Jeong Daesang | Kim Ilhwan | Win | B+10.5 | 6.5 | 2229.0 | 25.0 | 
@@ -55,8 +56,8 @@
 | 2019-04-09 | 第6回大舟杯プロシニア最強者戦8強戦 | Jeong Daesang | Seo Bongsoo | Lose | W+R | 6.5 | 2748.0 | -80.0 | 
 | 2019-02-12 | 第6回大舟杯プロシニア最強者戦16強戦 | Jeong Daesang | Kim Eunseon | Win | B+R | 6.5 | 2828.0 | 39.0 | 
 | 2018-09-17 | 第3回韓国シニア囲碁リーグ第14節烏鹭-三陟 | Jeong Daesang | Cho Daehyeon | Win | B+R | 6.5 | 2789.0 | -3.0 | 
-| 2018-09-11 | 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | Lose | W+R | 6.5 | 2792.0 | 12.0 | 
-| 2018-08-27 | 第3回韓国シニア囲碁リーグ第12節霊岩-烏鹭 | Hwang Weonjun | Jeong Daesang | Lose | B+R | 6.5 | 2780.0 | -6.0 | 
+| 2018-09-11 | 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | Lose | W+R | 6.5 | 2792.0 | 11.0 | 
+| 2018-08-27 | 第3回韓国シニア囲碁リーグ第12節霊岩-烏鹭 | Hwang Weonjun | Jeong Daesang | Lose | B+R | 6.5 | 2781.0 | -5.0 | 
 | 2018-08-13 | 第3回韓国シニア囲碁リーグ第10節陰城-烏鹭 | Jeong Daesang | Jimmy Cha | Lose | W+2.5 | 6.5 | 2786.0 | -14.0 | 
 | 2018-08-08 | 第3回韓国シニア囲碁リーグ第9節烏鹭-常州 | Paek Seongho | Jeong Daesang | Lose | B+15.5 | 6.5 | 2800.0 | 44.0 | 
 | 2018-07-31 | 第3回韓国シニア囲碁リーグ第8節富川-烏鹭 | Lee Kisup | Jeong Daesang | Win | W+13.5 | 6.5 | 2756.0 | 0.0 | 

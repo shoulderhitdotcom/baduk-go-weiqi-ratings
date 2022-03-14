@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 3181.0 | -32.0 | 
-| 2022-02-17 | 第47期名人戦リーグ  | Ida Atsushi | Motoki Katsuya | Lose | B+4.5 | 6.5 | 3213.0 | -10.0 | 
-| 2022-02-10 | 第77期本因坊戦リーグ | Yu Zhengqi | Motoki Katsuya | Lose | B+1.5 | 6.5 | 3223.0 | -44.0 | 
+| 2022-03-14 | 第77期本因坊戦リーグ | Motoki Katsuya | Sada Atsushi | Lose | W+R | 6.5 | 3204.0 | 22.0 | 
+| 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 3182.0 | -32.0 | 
+| 2022-02-17 | 第47期名人戦リーグ  | Ida Atsushi | Motoki Katsuya | Lose | B+4.5 | 6.5 | 3214.0 | -10.0 | 
+| 2022-02-10 | 第77期本因坊戦リーグ | Yu Zhengqi | Motoki Katsuya | Lose | B+1.5 | 6.5 | 3224.0 | -43.0 | 
 | 2022-01-27 | 第77期本因坊戦リーグ | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3267.0 | -18.0 | 
 | 2022-01-06 | 第47期名人戦リーグ  | Motoki Katsuya | Shida Tatsuya | Lose | W+R | 6.5 | 3285.0 | 34.0 | 
 | 2021-12-09 | 第47期名人戦リーグ | Motoki Katsuya | Hane Naoki | Lose | W+0.5 | 6.5 | 3251.0 | -20.0 | 
@@ -26,17 +27,17 @@
 | 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Win | B+R | 6.5 | 3273.0 | 23.0 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Win | W+R | 6.5 | 3250.0 | 41.0 | 
 | 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3209.0 | 21.0 | 
-| 2021-05-06 | 第46期名人戦リーグ | Motoki Katsuya | Anzai Nobuaki | Win | B+0.5 | 6.5 | 3188.0 | 33.0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Xu Haohong | Motoki Katsuya | Lose | B+R | 6.5 | 3155.0 | 0.0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Lin Junyan | Motoki Katsuya | Win | W+R | 6.5 | 3155.0 | 61.0 | 
-| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3094.0 | -3.0 | 
+| 2021-05-06 | 第46期名人戦リーグ | Motoki Katsuya | Anzai Nobuaki | Win | B+0.5 | 6.5 | 3188.0 | 34.0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Xu Haohong | Motoki Katsuya | Lose | B+R | 6.5 | 3154.0 | 0.0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Lin Junyan | Motoki Katsuya | Win | W+R | 6.5 | 3154.0 | 61.0 | 
+| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3093.0 | -4.0 | 
 | 2021-04-01 | 第69期王座戦予選 | Chang Rueijie | Motoki Katsuya | Win | W+R | 6.5 | 3097.0 | 26.0 | 
 | 2021-03-18 | 第46期名人戦リーグ  | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3071.0 | 42.0 | 
 | 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Win | W+0.5 | 6.5 | 3029.0 | 39.0 | 
-| 2020-12-17 | 第46期名人戦リーグ | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 2990.0 | -115.0 | 
-| 2020-11-05 | 第47期天元戦予選 | Fujita Akihiko | Motoki Katsuya | Win | W+0.5 | 6.5 | 3105.0 | 50.0 | 
-| 2020-10-29 | 第46期名人戦予選 | Murakawa Daisuke | Motoki Katsuya | Win | W+1.5 | 6.5 | 3055.0 | 37.0 | 
-| 2020-10-12 | 第46期名人戦予選 | Motoki Katsuya | Sun Zhe | Win | B+R | 6.5 | 3018.0 | 21.0 | 
+| 2020-12-17 | 第46期名人戦リーグ | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 2990.0 | -114.0 | 
+| 2020-11-05 | 第47期天元戦予選 | Fujita Akihiko | Motoki Katsuya | Win | W+0.5 | 6.5 | 3104.0 | 49.0 | 
+| 2020-10-29 | 第46期名人戦予選 | Murakawa Daisuke | Motoki Katsuya | Win | W+1.5 | 6.5 | 3055.0 | 38.0 | 
+| 2020-10-12 | 第46期名人戦予選 | Motoki Katsuya | Sun Zhe | Win | B+R | 6.5 | 3017.0 | 20.0 | 
 | 2020-08-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yoda Norimoto | Lose | W+4.5 | 6.5 | 2997.0 | -79.0 | 
 | 2020-08-17 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Motoki Katsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 3076.0 | -37.0 | 
 | 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Win | B+R | 6.5 | 3113.0 | 7.0 | 
@@ -48,8 +49,8 @@
 | 2020-06-25 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Sada Atsushi | Win | B+1.5 | 6.5 | 3081.0 | 21.0 | 
 | 2020-04-17 | 日台交流戦第2戦 | Chen Qirui | Motoki Katsuya | Lose | B+R | 6.5 | 3060.0 | 0.0 | 
 | 2020-04-17 | 日台交流戦第1戦 | Motoki Katsuya | Jian Jingting | Lose | W+R | 6.5 | 3060.0 | -60.0 | 
-| 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3120.0 | -25.0 | 
-| 2020-02-27 | 第76期本因坊戦予選 | Motoki Katsuya | Yao Zhiteng | Win | B+R | 6.5 | 3145.0 | 27.0 | 
+| 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3120.0 | -24.0 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Motoki Katsuya | Yao Zhiteng | Win | B+R | 6.5 | 3144.0 | 26.0 | 
 | 2020-02-13 | 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | Lose | B+R | 6.5 | 3118.0 | -34.0 | 
 | 2020-01-30 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Motoki Katsuya | Win | W+5.5 | 6.5 | 3152.0 | 29.0 | 
 | 2020-01-23 | 第76期本因坊戦予選 | Matsumoto Takehisa | Motoki Katsuya | Win | W+R | 6.5 | 3123.0 | -5.0 | 
@@ -63,14 +64,14 @@
 | 2019-08-08 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Cho Chikun | Win | B+R | 6.5 | 3175.0 | -2.0 | 
 | 2019-07-11 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Adachi Toshimasa | Win | B+R | 6.5 | 3177.0 | 20.0 | 
 | 2019-07-08 | 第67期王座戦2回戦 | Takao Shinji | Motoki Katsuya | Lose | B+R | 6.5 | 3157.0 | -11.0 | 
-| 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3168.0 | -23.0 | 
-| 2019-06-27 | 第75期本因坊戦予選 | Kobayashi Satoru | Motoki Katsuya | Win | W+R | 6.5 | 3191.0 | -36.0 | 
+| 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3168.0 | -22.0 | 
+| 2019-06-27 | 第75期本因坊戦予選 | Kobayashi Satoru | Motoki Katsuya | Win | W+R | 6.5 | 3190.0 | -37.0 | 
 | 2019-06-15 | 2019年中国囲碁乙級リーグ | Lin Shixun | Motoki Katsuya | Lose | B+R | 7.5 | 3227.0 | -33.0 | 
 | 2019-06-06 | 第44期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | Win | W+R | 6.5 | 3260.0 | 35.0 | 
-| 2019-05-30 | 第67期王座戦1回戦 | Hikosaka Naoto | Motoki Katsuya | Win | W+R | 6.5 | 3225.0 | -37.0 | 
-| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Xu Haohong | Motoki Katsuya | Lose | B+1¾ | 7.5 | 3262.0 | -6.0 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Lee Jihyun | Motoki Katsuya | Lose | B+¾ | 7.5 | 3268.0 | 0.0 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Gu Zihao | Motoki Katsuya | Lose | B+R | 7.5 | 3268.0 | -40.0 | 
+| 2019-05-30 | 第67期王座戦1回戦 | Hikosaka Naoto | Motoki Katsuya | Win | W+R | 6.5 | 3225.0 | -36.0 | 
+| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Xu Haohong | Motoki Katsuya | Lose | B+1¾ | 7.5 | 3261.0 | -6.0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Lee Jihyun | Motoki Katsuya | Lose | B+¾ | 7.5 | 3267.0 | 0.0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Gu Zihao | Motoki Katsuya | Lose | B+R | 7.5 | 3267.0 | -41.0 | 
 | 2019-04-18 | 第45期天元戦2回戦 | Sada Atsushi | Motoki Katsuya | Lose | B+6.5 | 6.5 | 3308.0 | -62.0 | 
 | 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Motoki Katsuya | Hoshiai Shiho | Win | B+R | 6.5 | 3370.0 | 0.0 | 
 | 2019-03-28 | 第44期棋聖戦Bリーグ | Ko Iso | Motoki Katsuya | Win | W+R | 6.5 | 3370.0 | -14.0 | 
@@ -94,16 +95,16 @@
 | 2018-06-21 | 第57期十段戦最終予選決勝 | Takei Takashi | Motoki Katsuya | Win | W+R | 6.5 | 3305.0 | 29.0 | 
 | 2018-06-14 | 第43期棋聖戦Bリーグ | Motoki Katsuya | Yuki Satoshi | Win | B+R | 6.5 | 3276.0 | 21.0 | 
 | 2018-05-31 | 第43期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | Lose | B+1.5 | 6.5 | 3255.0 | 1.0 | 
-| 2018-05-24 | 第66期王座戦1回戦 | Mutsuura Yuta | Motoki Katsuya | Win | W+1.5 | 6.5 | 3254.0 | 32.0 | 
-| 2018-05-17 | 第43期碁聖戦挑戦者決定戦  | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3222.0 | 7.0 | 
+| 2018-05-24 | 第66期王座戦1回戦 | Mutsuura Yuta | Motoki Katsuya | Win | W+1.5 | 6.5 | 3254.0 | 31.0 | 
+| 2018-05-17 | 第43期碁聖戦挑戦者決定戦  | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3223.0 | 8.0 | 
 | 2018-04-19 | 第43期棋聖戦Bリーグ | Motoki Katsuya | Rin Kanketsu | Win | B+R | 6.5 | 3215.0 | 26.0 | 
 | 2018-04-12 | 第43期碁聖戦本戦準決勝 | Motoki Katsuya | Seto Taiki | Win | B+4.5 | 6.5 | 3189.0 | -6.0 | 
 | 2018-04-05 | 第73期本因坊戦リーグ最終節  | Hane Naoki | Motoki Katsuya | Win | W+R | 6.5 | 3195.0 | 1.0 | 
 | 2018-03-31 | 第5回グランドチャンピオン戦準決勝  | Motoki Katsuya | Iyama Yuta | Lose | W+R | 6.5 | 3194.0 | -3.0 | 
 | 2018-03-29 | 第66期王座戦予選 | Mitani Tetsuya | Motoki Katsuya | Win | W+R | 6.5 | 3197.0 | 6.0 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Motoki Katsuya | Gu Zihao | Lose | W+R | 7.5 | 3191.0 | -2.0 | 
-| 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Motoki Katsuya | Lee Sedol | Win | B+3.5 | 7.5 | 3193.0 | 35.0 | 
-| 2018-03-15 | 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Motoki Katsuya | Lose | B+R | 6.5 | 3158.0 | -18.0 | 
+| 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Motoki Katsuya | Lee Sedol | Win | B+3.5 | 7.5 | 3193.0 | 34.0 | 
+| 2018-03-15 | 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Motoki Katsuya | Lose | B+R | 6.5 | 3159.0 | -17.0 | 
 | 2018-03-12 | 第5回グランドチャンピオン戦3回戦 | Motoki Katsuya | Kobayashi Satoru | Win | B+R | 6.5 | 3176.0 | 0.0 | 
 | 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Ida Atsushi | Motoki Katsuya | Win | W+T | 6.5 | 3176.0 | -1.0 | 
 | 2018-03-01 | 第43期碁聖戦本戦3回戦 | Motoki Katsuya | Ida Atsushi | Win | B+R | 6.5 | 3177.0 | 27.0 | 
@@ -136,8 +137,8 @@
 | 2017-06-19 | 第43期天元戦3回戦 | Yamashita Keigo | Motoki Katsuya | Lose | B+R | 6.5 | 3215.0 | 30.0 | 
 | 2017-06-16 | 第72期本因坊戦挑戦手合七番勝負　第四局 | Motoki Katsuya | Iyama Yuta | Lose | W+R | 6.5 | 3185.0 | -43.0 | 
 | 2017-06-09 | 第72期本因坊戦挑戦手合七番勝負　第三局 | Iyama Yuta | Motoki Katsuya | Lose | B+R | 6.5 | 3228.0 | 2.0 | 
-| 2017-05-24 | 第72期本因坊戦挑戦手合七番勝負　第二局 | Motoki Katsuya | Iyama Yuta | Lose | W+R | 6.5 | 3226.0 | -4.0 | 
-| 2017-05-18 | 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | Lose | B+R | 6.5 | 3230.0 | 25.0 | 
+| 2017-05-24 | 第72期本因坊戦挑戦手合七番勝負　第二局 | Motoki Katsuya | Iyama Yuta | Lose | W+R | 6.5 | 3226.0 | -5.0 | 
+| 2017-05-18 | 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | Lose | B+R | 6.5 | 3231.0 | 26.0 | 
 | 2017-05-10 | 第72期本因坊戦挑戦手合七番勝負　第一局 | Iyama Yuta | Motoki Katsuya | Lose | B+R | 6.5 | 3205.0 | -16.0 | 
 | 2017-04-16 | 第1回トライカッププロ囲碁団体戦　本戦5回戦 | Kikkawa Hajime | Motoki Katsuya | Win | W+R | 6.5 | 3221.0 | 0.0 | 
 | 2017-04-16 | 第1回トライカッププロ囲碁団体戦　本戦4回戦 | Mutsuura Yuta | Motoki Katsuya | Lose | B+0.5 | 6.5 | 3221.0 | -37.0 | 
@@ -160,8 +161,8 @@
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Motoki Katsuya | Xu Jiayang | Lose | W+R | 7.5 | 3268.0 | -24.0 | 
 | 2016-11-03 | 第43期天元戦　予選A決勝 | Cho Sonjin | Motoki Katsuya | Win | W+R | 6.5 | 3292.0 | 14.0 | 
 | 2016-10-27 | 第55期十段戦　本戦2回戦 | Shida Tatsuya | Motoki Katsuya | Lose | B+1.5 | 6.5 | 3278.0 | -15.0 | 
-| 2016-10-13 | 第55期十段戦本戦1回戦 | Han Zenki | Motoki Katsuya | Win | W+R | 6.5 | 3293.0 | 22.0 | 
-| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第2局 | Motoki Katsuya | Yuki Satoshi | Win | B+R | 6.5 | 3271.0 | 42.0 | 
+| 2016-10-13 | 第55期十段戦本戦1回戦 | Han Zenki | Motoki Katsuya | Win | W+R | 6.5 | 3293.0 | 21.0 | 
+| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第2局 | Motoki Katsuya | Yuki Satoshi | Win | B+R | 6.5 | 3272.0 | 43.0 | 
 | 2016-08-30 | 第3回ゆうちょ杯囲碁ユース選手権1回戦 | Motoki Katsuya | Kan Minu | Lose | W+R | 6.5 | 3229.0 | -62.0 | 
 | 2016-07-07 | 第42期碁聖戦予選 | Motoki Katsuya | Rin Kaiho | Win | B+R | 6.5 | 3291.0 | 37.0 | 
 | 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Cho Chikun | Lose | W+0.5 | 6.5 | 3254.0 | -37.0 | 
@@ -211,15 +212,15 @@
 | 2014-11-16 | 第9回広島アルミ杯・若鯉戦準決勝 | Fujisawa Rina | Motoki Katsuya | Win | W+R | 6.5 | 3258.0 | 0.0 | 
 | 2014-11-16 | 第9回広島アルミ杯・若鯉戦決勝 | Mutsuura Yuta | Motoki Katsuya | Win | W+2.5 | 6.5 | 3258.0 | 67.0 | 
 | 2014-11-15 | 第9回広島アルミ杯・若鯉戦2回戦 | Motoki Katsuya | Hsu Chiayuan | Win | B+R | 6.5 | 3191.0 | 0.0 | 
-| 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Motoki Katsuya | Win | W+2.5 | 6.5 | 3191.0 | 112.0 | 
-| 2014-10-03 | 第1回ゆうちょ杯囲碁ユース選手権決勝 | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 3079.0 | 96.0 | 
-| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権準決勝 | Kaneko Maki | Motoki Katsuya | Win | W+R | 6.5 | 2983.0 | 20.0 | 
-| 2014-07-17 | 第40期碁聖戦予選 | Mitani Tetsuya | Motoki Katsuya | Lose | B+R | 6.5 | 2963.0 | -53.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Ichiriki Ryo | Motoki Katsuya | Win | W+R | 6.5 | 3016.0 | 0.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Takashima Yugo | Motoki Katsuya | Win | W+R | 6.5 | 3016.0 | 248.0 | 
-| 2014-07-10 | 第41期天元戦予選 | Motoki Katsuya | Hsu Chiayuan | Lose | W+2.5 | 6.5 | 2768.0 | -196.0 | 
-| 2014-06-02 | 第39期新人王戦2回戦 | Motoki Katsuya | Adachi Toshimasa | Lose | W+R | 6.5 | 2964.0 | -105.0 | 
-| 2014-04-11 | 第1回グロービス杯国内予選 | Motoki Katsuya | Watanabe Kouki | Win | B+R | 6.5 | 3069.0 | -17.0 | 
+| 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Motoki Katsuya | Win | W+2.5 | 6.5 | 3191.0 | 111.0 | 
+| 2014-10-03 | 第1回ゆうちょ杯囲碁ユース選手権決勝 | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 3080.0 | 96.0 | 
+| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権準決勝 | Kaneko Maki | Motoki Katsuya | Win | W+R | 6.5 | 2984.0 | 21.0 | 
+| 2014-07-17 | 第40期碁聖戦予選 | Mitani Tetsuya | Motoki Katsuya | Lose | B+R | 6.5 | 2963.0 | -54.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Ichiriki Ryo | Motoki Katsuya | Win | W+R | 6.5 | 3017.0 | 0.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Takashima Yugo | Motoki Katsuya | Win | W+R | 6.5 | 3017.0 | 248.0 | 
+| 2014-07-10 | 第41期天元戦予選 | Motoki Katsuya | Hsu Chiayuan | Lose | W+2.5 | 6.5 | 2769.0 | -195.0 | 
+| 2014-06-02 | 第39期新人王戦2回戦 | Motoki Katsuya | Adachi Toshimasa | Lose | W+R | 6.5 | 2964.0 | -106.0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Motoki Katsuya | Watanabe Kouki | Win | B+R | 6.5 | 3070.0 | -16.0 | 
 | 2014-03-01 | 25周年記念囲碁千里杯準決勝 | Suzuki Shinji | Motoki Katsuya | Lose | B+R | 6.5 | 3086.0 | 62.0 | 
 | 2014-01-23 | 第39期新人王戦1回戦 | Ohashi Naruya | Motoki Katsuya | Win | W+0.5 | 6.5 | 3024.0 | 153.0 | 
 | 2014-01-17 | 25周年記念囲碁千里杯1回戦 | Motoki Katsuya | Muramatsu Hiroki | Win | B+4.5 | 6.5 | 2871.0 | 397.0 | 

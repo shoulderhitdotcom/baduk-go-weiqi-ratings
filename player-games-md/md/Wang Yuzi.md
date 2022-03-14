@@ -5,18 +5,14 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第31期中国囲碁天元戦予選 | Chen Zijian | Wang Yuzi | B+5.5 | 2016-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lC7F8gqDeYteWQIztS4RPw%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | missing | Wang Yuzi | W+0.5 | 2016-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJqwnj6E8YS98zBm%2BUWrNA%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | Chen Yunong | Wang Yuzi | B+R | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JF5opLWPrDi09GO6TsKswQ%3D%3D) | 
-| 2015年中国段位戦 | Wang Yuzi | Qiu Jinbo | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tHQLtZNInHGLBqVzMGM4w%3D%3D) | 
-| 2015年中国段位戦 | Wang Yuzi | Li Xiangyu | W+6.5 | 2015-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMa%2Ba2Gn%2F1jq9A2kpn9Qyw%3D%3D) | 
-| 2015年中国段位戦 | Gong Yanyu | Wang Yuzi | W+2.5 | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cSlYOi%2BuNHtansVg%2Fj9VQ%3D%3D) | 
-| 2015年中国段位戦 | missing | Wang Yuzi | W+0.5 | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QdczTLA7yilejjwBrWUGQ%3D%3D) | 
-| 第7期中国竜星戦予選 | Zhao Chenyu | Wang Yuzi | W+2.5 | 2015-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jujf8oQgXOqh3g3Bh0p46g%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | missing | Wang Yuzi | B+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1VeMR3TFqqHNvbUl5FPLAg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Wang Yuzi | Tang Weixing | W+R | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkbPpagG%2FtcAb3%2FaA0tWFg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-14 | 第18回倡棋杯予選 | Wang Xiru | Wang Yuzi | Lose | B+2¾ | 7.5 | 3145.0 | 0.0 | 
+| 2016-12-29 | 第31期中国囲碁天元戦予選 | Chen Zijian | Wang Yuzi | Lose | B+5.5 | 7.5 | 3145.0 | -136.0 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 |  | Wang Yuzi | Win | W+0.5 | 7.5 | 3281.0 | -38.0 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Chen Yunong | Wang Yuzi | Lose | B+R | 7.5 | 3319.0 | 0.0 | 
+| 2015-07-27 | 2015年中国段位戦 | Wang Yuzi | Qiu Jinbo | Lose | W+R | 7.5 | 3319.0 | -214.0 | 
+| 2015-07-26 | 2015年中国段位戦 | Wang Yuzi | Li Xiangyu | Lose | W+6.5 | 7.5 | 3533.0 | missing |
 
 
 

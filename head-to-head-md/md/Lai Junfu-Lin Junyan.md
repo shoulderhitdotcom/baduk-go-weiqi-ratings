@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Lin Junyan** | **Lai Junfu streak** | **Lin Junyan streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-14 | 第3期名人冠軍戦準決勝第2局 | Lai Junfu | Lin Junyan | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2022-03-14 | 第3期名人冠軍戦準決勝第2局  | Lai Junfu | Lin Junyan | W+R | 6.5 | 0:1 | 0 | 1 | 
 | 2022-03-10 | 第3期名人冠軍戦準決勝第1局  | Lin Junyan | Lai Junfu | B+R | 6.5 | 4:8 | 0 | 1 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | W+R | 6.5 | 4:7 | 1 | 0 | 
 | 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Junyan | Lai Junfu | B+R | 6.5 | 2:3 | 0 | 1 | 

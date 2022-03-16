@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-16 | 2022年アジア競技大会韓国予選 | Byun Sangil | Kim Jiseok | Lose | B+T | 7.5 | 3531.0 | -5.0 | 
 | 2022-03-15 | 2022年アジア競技大会韓国予選 | Kim Myounghoon | Kim Jiseok | Lose | B+R | 7.5 | 3536.0 | 0.0 | 
 | 2022-03-15 | 2022年アジア競技大会韓国予選 | Park Hamin | Kim Jiseok | Win | W+R | 7.5 | 3536.0 | -6.0 | 
 | 2022-03-14 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Park Junghwan | Kim Jiseok | Lose | B+R | 6.5 | 3542.0 | 19.0 | 
@@ -27,8 +28,8 @@
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Mao Ruilong | Kim Jiseok | Win | W+R | 7.5 | 3571.0 | 5.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Li Xuanhao | Lose | W+R | 7.5 | 3566.0 | -5.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | He Yuhan | Kim Jiseok | Win | W+R | 7.5 | 3571.0 | 15.0 | 
-| 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Win | W+1.5 | 6.5 | 3556.0 | 13.0 | 
-| 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Win | B+R | 6.5 | 3543.0 | 4.0 | 
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Win | W+1.5 | 6.5 | 3556.0 | 14.0 | 
+| 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Win | B+R | 6.5 | 3542.0 | 3.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Win | B+R | 6.5 | 3539.0 | -13.0 | 
 | 2021-12-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Kim Jiseok | Lose | B+R | 6.5 | 3552.0 | -9.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Jiseok | Win | W+3.5 | 6.5 | 3561.0 | -15.0 | 
@@ -44,9 +45,9 @@
 | 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Win | W+R | 6.5 | 3571.0 | 4.0 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Kim Jiseok |  | Win | B+R | 6.5 | 3567.0 | -12.0 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 6.5 | 3579.0 | -5.0 | 
-| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Win | W+0.5 | 6.5 | 3584.0 | 13.0 | 
-| 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Win | W+R | 6.5 | 3571.0 | 8.0 | 
-| 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3563.0 | 3.0 | 
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Win | W+0.5 | 6.5 | 3584.0 | 14.0 | 
+| 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Win | W+R | 6.5 | 3570.0 | 8.0 | 
+| 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3562.0 | 2.0 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Song Gyusang | Win | B+R | 6.5 | 3560.0 | 0.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Yi Lingtao | Lose | W+R | 7.5 | 3560.0 | -11.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Win | W+R | 7.5 | 3571.0 | -1.0 | 
@@ -80,10 +81,10 @@
 | 2021-04-05 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Jihyun | Kim Jiseok | Win | W+R | 6.5 | 3481.0 | -18.0 | 
 | 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | Win | B+R | 6.5 | 3499.0 | 28.0 | 
 | 2021-03-22 | 第22回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Paek Hongseok | Win | B+R | 6.5 | 3471.0 | 0.0 | 
-| 2021-03-09 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kim Jiseok | Lose | B+R | 6.5 | 3471.0 | 0.0 | 
-| 2021-03-04 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kim Jiseok | Lose | B+R | 6.5 | 3471.0 | -6.0 | 
-| 2021-03-02 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Kim Jiseok | Win | W+R | 6.5 | 3477.0 | 18.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Lose | W+R | 6.5 | 3459.0 | -15.0 | 
+| 2021-03-09 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kim Jiseok | Lose | B+R | 6.5 | 3471.0 | 1.0 | 
+| 2021-03-04 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kim Jiseok | Lose | B+R | 6.5 | 3470.0 | -6.0 | 
+| 2021-03-02 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Kim Jiseok | Win | W+R | 6.5 | 3476.0 | 18.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Lose | W+R | 6.5 | 3458.0 | -16.0 | 
 | 2021-02-22 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Kim Jiseok | Win | W+R | 6.5 | 3474.0 | -1.0 | 
 | 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Lose | B+R | 6.5 | 3475.0 | 9.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Park Hamin | Kim Jiseok | Win | W+R | 6.5 | 3466.0 | 10.0 | 
@@ -186,8 +187,8 @@
 | 2019-07-26 | 第2期韓国竜星戦8強戦 | Kim Jiseok | Lee Sedol | Win | B+R | 6.5 | 3502.0 | 9.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Lian Xiao | Kim Jiseok | Lose | B+R | 7.5 | 3493.0 | 12.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kim Jiseok | Wang Shuo | Win | B+R | 7.5 | 3481.0 | -7.0 | 
-| 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Lose | W+R | 6.5 | 3488.0 | -28.0 | 
-| 2019-06-22 | 第31回テレビアジア選手権準決勝 | Ding Hao | Kim Jiseok | Lose | B+R | 7.5 | 3516.0 | -14.0 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Lose | W+R | 6.5 | 3488.0 | -27.0 | 
+| 2019-06-22 | 第31回テレビアジア選手権準決勝 | Ding Hao | Kim Jiseok | Lose | B+R | 7.5 | 3515.0 | -15.0 | 
 | 2019-06-16 | 2019年囲碁テレビ杯早碁戦16強戦 | Seol Hyunjun | Kim Jiseok | Lose | B+R | 6.5 | 3530.0 | -11.0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Chen Yaoye | Kim Jiseok | Win | W+R | 7.5 | 3541.0 | 18.0 | 
 | 2019-06-08 | 第2期韓国竜星戦16強戦 | Kim Jiseok | Yun Junsang | Win | B+R | 6.5 | 3523.0 | 0.0 | 
@@ -204,8 +205,8 @@
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Kim Jiseok | Chen Zijian | Lose | W+R | 7.5 | 3581.0 | -9.0 | 
 | 2019-04-25 | 第24期GSカルテックス杯準決勝 | Kim Jiseok | Lee Hoseong | Win | B+3.5 | 6.5 | 3590.0 | 4.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Fan Yunruo | Kim Jiseok | Lose | B+R | 7.5 | 3586.0 | -12.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Kim Jiseok | Liao Yuanhe | Lose | W+R | 7.5 | 3598.0 | -11.0 | 
-| 2019-04-12 | 第1回日中韓竜星戦第2戦 | Kim Jiseok | Ke Jie | Lose | W+R | 6.5 | 3609.0 | -12.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Kim Jiseok | Liao Yuanhe | Lose | W+R | 7.5 | 3598.0 | -10.0 | 
+| 2019-04-12 | 第1回日中韓竜星戦第2戦 | Kim Jiseok | Ke Jie | Lose | W+R | 6.5 | 3608.0 | -13.0 | 
 | 2019-03-28 | 第24期GSカルテックス杯8強戦 | Choi Cheolhan | Kim Jiseok | Win | W+R | 6.5 | 3621.0 | 12.0 | 
 | 2019-03-25 | 第20回マキシムコーヒー杯入神最強戦準決勝 | Lee Donghoon | Kim Jiseok | Lose | B+R | 6.5 | 3609.0 | -16.0 | 
 | 2019-03-21 | 第24期GSカルテックス杯16強戦 | Paek Hongseok | Kim Jiseok | Win | W+R | 6.5 | 3625.0 | -2.0 | 
@@ -221,8 +222,8 @@
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節上海-民生 | Hu Yaoyu | Kim Jiseok | Win | W+R | 7.5 | 3667.0 | 6.0 | 
 | 2018-10-04 | 2018年韓国囲碁リーグ第14節 | Lee Yeongkyu | Kim Jiseok | Win | W+2.5 | 6.5 | 3661.0 | 3.0 | 
 | 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Wi Taewoong | Kim Jiseok | Win | W+R | 6.5 | 3658.0 | -2.0 | 
-| 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Kim Jiseok | Tang Weixing | Lose | W+R | 7.5 | 3660.0 | 0.0 | 
-| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Ke Jie | Kim Jiseok | Win | W+R | 7.5 | 3660.0 | 5.0 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Kim Jiseok | Tang Weixing | Lose | W+R | 7.5 | 3660.0 | 1.0 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Ke Jie | Kim Jiseok | Win | W+R | 7.5 | 3659.0 | 4.0 | 
 | 2018-09-17 | 第1回韓国竜星戦決勝三番勝負第3局 | Kim Jiseok | Kang Dongyun | Win | B+R | 6.5 | 3655.0 | 7.0 | 
 | 2018-09-15 | 2018年韓国囲碁リーグ第11節 | Park Jinsol | Kim Jiseok | Lose | B+R | 6.5 | 3648.0 | -18.0 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節民生-杭州 | Wu Guangya | Kim Jiseok | Win | W+1¼ | 7.5 | 3666.0 | -1.0 | 
@@ -236,8 +237,8 @@
 | 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Cho Hanseung | Kim Jiseok | Win | W+R | 6.5 | 3695.0 | -18.0 | 
 | 2018-08-18 | 2018年韓国囲碁リーグ第8節 | Park Geunho | Kim Jiseok | Win | W+R | 6.5 | 3713.0 | 3.0 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節民生-江蘇 | Mi Yuting | Kim Jiseok | Win | W+R | 7.5 | 3710.0 | -2.0 | 
-| 2018-08-12 | 2018年韓国囲碁リーグ第7節 | Park Minkyu | Kim Jiseok | Win | W+R | 6.5 | 3712.0 | -9.0 | 
-| 2018-08-08 | 第1回韓国竜星戦準決勝 | Lee Jihyun | Kim Jiseok | Win | W+R | 6.5 | 3721.0 | 3.0 | 
+| 2018-08-12 | 2018年韓国囲碁リーグ第7節 | Park Minkyu | Kim Jiseok | Win | W+R | 6.5 | 3712.0 | -8.0 | 
+| 2018-08-08 | 第1回韓国竜星戦準決勝 | Lee Jihyun | Kim Jiseok | Win | W+R | 6.5 | 3720.0 | 2.0 | 
 | 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3718.0 | -12.0 | 
 | 2018-07-29 | 第5回国手山脈杯世界最強戦準決勝 | Wang Yuanjun | Kim Jiseok | Lose | B+0.5 | 6.5 | 3730.0 | -12.0 | 
 | 2018-07-28 | 第5回国手山脈杯世界プロ最強戦2回戦 | Kim Jiseok | Shin Jinseo | Win | B+R | 6.5 | 3742.0 | 0.0 | 
@@ -246,10 +247,10 @@
 | 2018-07-22 | 第37回KBS杯囲碁王戦32強戦 | Shin Minjun | Kim Jiseok | Lose | B+R | 6.5 | 3737.0 | -12.0 | 
 | 2018-07-21 | 2018年韓国囲碁リーグ第5節 | Byun Sangil | Kim Jiseok | Lose | B+R | 6.5 | 3749.0 | -4.0 | 
 | 2018-07-17 | 第20回農心杯韓国選抜戦 | Kim Jiseok | Park Yeonghun | Lose | W+0.5 | 6.5 | 3753.0 | -18.0 | 
-| 2018-07-16 | 第20回農心杯韓国選抜戦 | Park Jinsol | Kim Jiseok | Win | W+R | 6.5 | 3771.0 | 9.0 | 
-| 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Kim Jiseok | Shin Jinseo | Win | B+R | 6.5 | 3762.0 | 13.0 | 
-| 2018-06-28 | 2018年韓国囲碁リーグ第3節 | Lee Sedol | Kim Jiseok | Win | W+R | 6.5 | 3749.0 | 4.0 | 
-| 2018-06-27 | 第1回韓国竜星戦8強戦 | Kim Jiseok | Lee Yeongkyu | Win | B+R | 6.5 | 3745.0 | 5.0 | 
+| 2018-07-16 | 第20回農心杯韓国選抜戦 | Park Jinsol | Kim Jiseok | Win | W+R | 6.5 | 3771.0 | 10.0 | 
+| 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Kim Jiseok | Shin Jinseo | Win | B+R | 6.5 | 3761.0 | 13.0 | 
+| 2018-06-28 | 2018年韓国囲碁リーグ第3節 | Lee Sedol | Kim Jiseok | Win | W+R | 6.5 | 3748.0 | 4.0 | 
+| 2018-06-27 | 第1回韓国竜星戦8強戦 | Kim Jiseok | Lee Yeongkyu | Win | B+R | 6.5 | 3744.0 | 4.0 | 
 | 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Kim Jiseok | Cho Hanseung | Win | B+R | 6.5 | 3740.0 | 0.0 | 
 | 2018-06-15 | 2018年韓国囲碁リーグ第1節 | Park Hamin | Kim Jiseok | Lose | B+R | 6.5 | 3740.0 | 5.0 | 
 | 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Fan Tingyu | Lose | W+R | 6.5 | 3735.0 | -11.0 | 
@@ -334,13 +335,13 @@
 | 2017-03-13 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Kim Jiseok | Kang Dongyun | Win | B+R | 6.5 | 3549.0 | -18.0 | 
 | 2017-02-14 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Heo Yongho | Kim Jiseok | Win | W+R | 6.5 | 3567.0 | 2.0 | 
 | 2017-02-10 | 第22期GSカルテックス杯プロ棋戦16強戦 | Ryu Minhyung | Kim Jiseok | Win | W+R | 6.5 | 3565.0 | -4.0 | 
-| 2017-01-02 | Alphago Online Series on Tygem and Fox 41 | Kim Jiseok |  | Lose | W+R | 6.5 | 3569.0 | 5.0 | 
-| 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Kim Jiseok | Lose | B+1.5 | 7.5 | 3564.0 | -29.0 | 
+| 2017-01-02 | Alphago Online Series on Tygem and Fox 41 | Kim Jiseok |  | Lose | W+R | 6.5 | 3569.0 | 6.0 | 
+| 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Kim Jiseok | Lose | B+1.5 | 7.5 | 3563.0 | -30.0 | 
 | 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Kim Jiseok | Ke Jie | Win | B+1.5 | 7.5 | 3593.0 | 5.0 | 
 | 2016-11-27 | 第18回農心辛ラーメン杯世界囲碁最強戦第7戦 | Kim Jiseok | Fan Tingyu | Lose | W+R | 6.5 | 3588.0 | -12.0 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Dang Yifei | Kim Jiseok | Lose | B+R | 7.5 | 3600.0 | -15.0 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Kim Jiseok | Shi Yue | Lose | W+R | 7.5 | 3615.0 | 0.0 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | Win | W+R | 7.5 | 3615.0 | 5.0 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Kim Jiseok | Shi Yue | Lose | W+R | 7.5 | 3615.0 | 1.0 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | Win | W+R | 7.5 | 3614.0 | 4.0 | 
 | 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Kang Dongyun | Kim Jiseok | Lose | B+R | 7.5 | 3610.0 | -25.0 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Park Cheongsang | Kim Jiseok | Win | W+R | 7.5 | 3635.0 | -2.0 | 
 | 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Kim Jiseok | Jiang Weijie | Win | B+R | 7.5 | 3637.0 | 25.0 | 
@@ -349,8 +350,8 @@
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Kim Jiseok |  | Win | B+R | 7.5 | 3605.0 | 9.0 | 
 | 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Huang Yunsong | Kim Jiseok | Win | W+R | 7.5 | 3596.0 | 39.0 | 
 | 2016-09-22 | 2016年韓国囲碁リーグ第14節 | Kim Jiseok | Lee Sedol | Win | B+R | 6.5 | 3557.0 | -2.0 | 
-| 2016-09-18 | 2016年韓国囲碁リーグ第13節 | Kang Yootaek | Kim Jiseok | Win | W+R | 6.5 | 3559.0 | 3.0 | 
-| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Kim Jiseok | Chen Yaoye | Win | B+3.5 | 7.5 | 3556.0 | -4.0 | 
+| 2016-09-18 | 2016年韓国囲碁リーグ第13節 | Kang Yootaek | Kim Jiseok | Win | W+R | 6.5 | 3559.0 | 4.0 | 
+| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Kim Jiseok | Chen Yaoye | Win | B+3.5 | 7.5 | 3555.0 | -5.0 | 
 | 2016-09-03 | 2016年韓国囲碁リーグ第12節 |  | Kim Jiseok | Win | W+R | 6.5 | 3560.0 | 24.0 | 
 | 2016-08-25 | 2016年韓国囲碁リーグ第11節 | Song Taekon | Kim Jiseok | Lose | B+R | 6.5 | 3536.0 | -12.0 | 
 | 2016-08-20 | 2016年韓国囲碁リーグ第10節 | Choi Cheolhan | Kim Jiseok | Lose | B+R | 6.5 | 3548.0 | 0.0 | 
@@ -400,23 +401,23 @@
 | 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Kim Jiseok | Shin Minjun | Win | B+R | 6.5 | 3614.0 | -4.0 | 
 | 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Kim Jiseok | Ke Jie | Lose | W+R | 7.5 | 3618.0 | -2.0 | 
 | 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Shi Yue | Kim Jiseok | Lose | B+R | 6.5 | 3620.0 | -50.0 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Jiseok | Han Sanghoon | Win | B+R | 6.5 | 3670.0 | 8.0 | 
-| 2015-09-24 | 2015年韓国囲碁リーグ | Park Minkyu | Kim Jiseok | Lose | B+R | 6.5 | 3662.0 | -3.0 | 
-| 2015-09-18 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | Win | W+R | 6.5 | 3665.0 | 4.0 | 
-| 2015-09-14 | 第59期国手戦（韓国）2回戦 | Kim Jiseok | Cho Hanseung | Lose | W+R | 6.5 | 3661.0 | -3.0 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Seo Bongsoo | Kim Jiseok | Win | W+R | 6.5 | 3664.0 | 1.0 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Kim Jiseok | Zhou Hexi | Win | B+R | 6.5 | 3663.0 | 3.0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Jiseok | Han Sanghoon | Win | B+R | 6.5 | 3670.0 | 9.0 | 
+| 2015-09-24 | 2015年韓国囲碁リーグ | Park Minkyu | Kim Jiseok | Lose | B+R | 6.5 | 3661.0 | -3.0 | 
+| 2015-09-18 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | Win | W+R | 6.5 | 3664.0 | 4.0 | 
+| 2015-09-14 | 第59期国手戦（韓国）2回戦 | Kim Jiseok | Cho Hanseung | Lose | W+R | 6.5 | 3660.0 | -3.0 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Seo Bongsoo | Kim Jiseok | Win | W+R | 6.5 | 3663.0 | 1.0 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Kim Jiseok | Zhou Hexi | Win | B+R | 6.5 | 3662.0 | 2.0 | 
 | 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Kim Jiseok | Chen Yaoye | Lose | W+R | 7.5 | 3660.0 | -7.0 | 
-| 2015-08-31 | 第34回KBS杯囲碁王戦2回戦 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3667.0 | -19.0 | 
-| 2015-08-30 | 2015年韓国囲碁リーグ | Kim Jiseok | Park Cheongsang | Win | B+R | 6.5 | 3686.0 | 1.0 | 
+| 2015-08-31 | 第34回KBS杯囲碁王戦2回戦 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3667.0 | -18.0 | 
+| 2015-08-30 | 2015年韓国囲碁リーグ | Kim Jiseok | Park Cheongsang | Win | B+R | 6.5 | 3685.0 | 0.0 | 
 | 2015-08-20 | 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | Lose | W+R | 6.5 | 3685.0 | 5.0 | 
 | 2015-08-14 | 2015年韓国囲碁リーグ | Kim Jiseok | Lee Hobum | Win | B+0.5 | 6.5 | 3680.0 | 16.0 | 
 | 2015-07-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Lose | B+R | 6.5 | 3664.0 | -7.0 | 
 | 2015-07-21 | 第17回農心杯韓国選抜戦 | Baek Chanhee | Kim Jiseok | Lose | B+R | 6.5 | 3671.0 | -10.0 | 
 | 2015-07-20 | 第17回農心杯韓国選抜戦 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3681.0 | 17.0 | 
 | 2015-07-19 | 2015年韓国囲碁リーグ | Kim Jiseok | Kim Kiyoung | Lose | W+R | 6.5 | 3664.0 | 0.0 | 
-| 2015-07-17 | 第17回農心杯韓国選抜戦 | Kang Seungmin | Kim Jiseok | Win | W+R | 6.5 | 3664.0 | 3.0 | 
-| 2015-07-15 | 第17回農心杯韓国選抜戦 | Kim Jiseok | Kim Jinhyu | Win | B+R | 6.5 | 3661.0 | -1.0 | 
+| 2015-07-17 | 第17回農心杯韓国選抜戦 | Kang Seungmin | Kim Jiseok | Win | W+R | 6.5 | 3664.0 | 4.0 | 
+| 2015-07-15 | 第17回農心杯韓国選抜戦 | Kim Jiseok | Kim Jinhyu | Win | B+R | 6.5 | 3660.0 | -2.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Kim Jiseok | Tan Xiao | Lose | W+R | 7.5 | 3662.0 | -4.0 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Kim Jiseok | Wang Zejin | Lose | W+R | 7.5 | 3666.0 | -10.0 | 
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Wang Xi | Kim Jiseok | Win | W+R | 7.5 | 3676.0 | -9.0 | 
@@ -439,8 +440,8 @@
 | 2015-05-01 | 2015年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Lose | W+R | 6.5 | 3652.0 | -12.0 | 
 | 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Kim Jiseok | Jiang Weijie | Win | B+R | 7.5 | 3664.0 | 8.0 | 
 | 2015-04-24 | 2015年韓国囲碁リーグ | Kim Jiseok | Lee Changho | Win | B+R | 6.5 | 3656.0 | 2.0 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Kim Jiseok | Lose | B+R | 7.5 | 3654.0 | -19.0 | 
-| 2015-03-23 | 第16回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Choi Cheolhan | Lose | W+R | 6.5 | 3673.0 | -12.0 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Kim Jiseok | Lose | B+R | 7.5 | 3654.0 | -18.0 | 
+| 2015-03-23 | 第16回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Choi Cheolhan | Lose | W+R | 6.5 | 3672.0 | -13.0 | 
 | 2015-03-05 | 第16回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kim Jiseok | Lian Xiao | Lose | W+R | 6.5 | 3685.0 | -11.0 | 
 | 2015-03-04 | 第16回農心辛ラーメン杯世界囲碁最強戦第12戦 | Kim Jiseok | Iyama Yuta | Win | B+4.5 | 6.5 | 3696.0 | 12.0 | 
 | 2015-02-16 | 第16回マキシムコーヒー杯入神最強戦3回戦 | Kim Jiseok | Kang Dongyun | Win | B+R | 6.5 | 3684.0 | 7.0 | 
@@ -467,11 +468,11 @@
 | 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Tuo Jiaxi | Kim Jiseok | Win | W+R | 6.5 | 3701.0 | 6.0 | 
 | 2014-11-14 | 2014年韓国囲碁リーグ | Kim Jiseok |  | Win | B+R | 6.5 | 3695.0 | 13.0 | 
 | 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Kim Jiseok | Win | W+R | 7.5 | 3682.0 | 13.0 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Kim Jiseok | Wang Xi | Lose | W+R | 7.5 | 3669.0 | -9.0 | 
-| 2014-11-06 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Kim Jiseok | Shi Yue | Win | B+R | 6.5 | 3678.0 | 6.0 | 
-| 2014-11-05 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Shi Yue | Kim Jiseok | Win | W+R | 6.5 | 3672.0 | 12.0 | 
-| 2014-11-02 | 2014年韓国囲碁リーグ |  | Kim Jiseok | Win | W+R | 6.5 | 3660.0 | 0.0 | 
-| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Liao Xingwen | Kim Jiseok | Win | W+R | 7.5 | 3660.0 | -22.0 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Kim Jiseok | Wang Xi | Lose | W+R | 7.5 | 3669.0 | -8.0 | 
+| 2014-11-06 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Kim Jiseok | Shi Yue | Win | B+R | 6.5 | 3677.0 | 6.0 | 
+| 2014-11-05 | 第19回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Shi Yue | Kim Jiseok | Win | W+R | 6.5 | 3671.0 | 12.0 | 
+| 2014-11-02 | 2014年韓国囲碁リーグ |  | Kim Jiseok | Win | W+R | 6.5 | 3659.0 | 0.0 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Liao Xingwen | Kim Jiseok | Win | W+R | 7.5 | 3659.0 | -23.0 | 
 | 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Guo Yuzheng | Kim Jiseok | Win | W+R | 7.5 | 3682.0 | -4.0 | 
 | 2014-10-26 | 第19期バッカス杯天元戦1回戦 | Kim Jiseok | Park Yeonghun | Win | B+T | 6.5 | 3686.0 | 6.0 | 
 | 2014-10-24 | 第58期国手戦（韓国）2回戦 | Kim Jiseok | Hong Seongji | Win | B+3.5 | 6.5 | 3680.0 | 8.0 | 
@@ -488,14 +489,14 @@
 | 2014-08-23 | 2014年韓国囲碁リーグ | Lee Wonyoung | Kim Jiseok | Win | W+R | 6.5 | 3600.0 | 5.0 | 
 | 2014-08-22 | 第16回農心杯韓国選抜戦 | Byun Sangil | Kim Jiseok | Lose | B+R | 6.5 | 3595.0 | -13.0 | 
 | 2014-08-18 | 第42期名人戦（韓国）2回戦 | Kim Jiseok | Park Yeonghun | Lose | W+R | 6.5 | 3608.0 | -22.0 | 
-| 2014-08-13 | 第42期名人戦（韓国）1回戦 | Na Hyun | Kim Jiseok | Win | W+R | 6.5 | 3630.0 | -31.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Donghoon | Kim Jiseok | Lose | B+R | 6.5 | 3661.0 | -25.0 | 
-| 2014-07-28 | 第16回農心杯韓国選抜戦 | Kim Jiseok | Han Chongjin | Win | B+R | 6.5 | 3686.0 | 1.0 | 
-| 2014-07-25 | 2014年韓国囲碁リーグ | Han Wonggyu | Kim Jiseok | Lose | B+1.5 | 6.5 | 3685.0 | -21.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Kim Jiseok | Meng Tailing | Win | B+1.5 | 7.5 | 3706.0 | -2.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Liu Xing | Kim Jiseok | Win | W+R | 7.5 | 3708.0 | -14.0 | 
-| 2014-07-18 | 2014年韓国囲碁リーグ | Kim Minho | Kim Jiseok | Lose | B+3.5 | 6.5 | 3722.0 | -29.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Kim Jiseok | Win | W+R | 7.5 | 3751.0 | 0.0 | 
+| 2014-08-13 | 第42期名人戦（韓国）1回戦 | Na Hyun | Kim Jiseok | Win | W+R | 6.5 | 3630.0 | -30.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Donghoon | Kim Jiseok | Lose | B+R | 6.5 | 3660.0 | -25.0 | 
+| 2014-07-28 | 第16回農心杯韓国選抜戦 | Kim Jiseok | Han Chongjin | Win | B+R | 6.5 | 3685.0 | 1.0 | 
+| 2014-07-25 | 2014年韓国囲碁リーグ | Han Wonggyu | Kim Jiseok | Lose | B+1.5 | 6.5 | 3684.0 | -21.0 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Kim Jiseok | Meng Tailing | Win | B+1.5 | 7.5 | 3705.0 | -2.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Liu Xing | Kim Jiseok | Win | W+R | 7.5 | 3707.0 | -15.0 | 
+| 2014-07-18 | 2014年韓国囲碁リーグ | Kim Minho | Kim Jiseok | Lose | B+3.5 | 6.5 | 3722.0 | -28.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Kim Jiseok | Win | W+R | 7.5 | 3750.0 | -1.0 | 
 | 2014-07-03 | 2014年韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | Win | W+R | 6.5 | 3751.0 | 16.0 | 
 | 2014-06-30 | 第33回KBS杯囲碁王戦本戦2回戦 | Shin Minjun | Kim Jiseok | Win | W+R | 6.5 | 3735.0 | 26.0 | 
 | 2014-06-20 | 2014年韓国囲碁リーグ | Hong Kipyo | Kim Jiseok | Win | W+R | 6.5 | 3709.0 | -36.0 | 
@@ -507,10 +508,10 @@
 | 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Gu Lingyi | Kim Jiseok | Win | W+R | 7.5 | 3773.0 | -17.0 | 
 | 2014-05-18 | 2014年韓国囲碁リーグ | Jin Siyoung | Kim Jiseok | Lose | B+R | 6.5 | 3790.0 | 0.0 | 
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Shi Yue | Kim Jiseok | Win | W+R | 7.5 | 3790.0 | 0.0 | 
-| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Tan Xiao | Kim Jiseok | Lose | B+R | 7.5 | 3790.0 | -29.0 | 
-| 2014-05-01 | 2014年韓国囲碁リーグ | Kim Jiseok | Lee Wonyoung | Win | B+R | 6.5 | 3819.0 | -7.0 | 
-| 2014-04-27 | 2014年韓国囲碁リーグ | Han Wonggyu | Kim Jiseok | Win | W+0.5 | 6.5 | 3826.0 | 3.0 | 
-| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Win | W+R | 6.5 | 3823.0 | 16.0 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Tan Xiao | Kim Jiseok | Lose | B+R | 7.5 | 3790.0 | -28.0 | 
+| 2014-05-01 | 2014年韓国囲碁リーグ | Kim Jiseok | Lee Wonyoung | Win | B+R | 6.5 | 3818.0 | -7.0 | 
+| 2014-04-27 | 2014年韓国囲碁リーグ | Han Wonggyu | Kim Jiseok | Win | W+0.5 | 6.5 | 3825.0 | 3.0 | 
+| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Win | W+R | 6.5 | 3822.0 | 15.0 | 
 | 2014-04-09 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Kim Jiseok | Choi Cheolhan | Win | B+R | 6.5 | 3807.0 | 3.0 | 
 | 2014-04-08 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Choi Cheolhan | Kim Jiseok | Win | W+R | 6.5 | 3804.0 | 14.0 | 
 | 2014-04-02 | 第19期GSカルテックス杯プロ棋戦準決勝 | Mok Jinseok | Kim Jiseok | Win | W+R | 6.5 | 3790.0 | 1.0 | 
@@ -528,13 +529,13 @@
 | 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Kim Jiseok | Ilya Shikshin | Win | B+R | 7.5 | 3797.0 | 0.0 | 
 | 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Hirata Tomoya | Kim Jiseok | Win | W+R | 7.5 | 3797.0 | 1.0 | 
 | 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Kim Jiseok | Wang Yuanjun | Win | B+1.5 | 7.5 | 3796.0 | 1.0 | 
-| 2013-12-07 | 第15回農心辛ラーメン杯世界囲碁最強戦第10戦 | Cho U | Kim Jiseok | Win | W+R | 6.5 | 3795.0 | 31.0 | 
-| 2013-11-23 | 2013年韓国囲碁リーグ | Kim Jiseok | Lee Sedol | Lose | W+R | 6.5 | 3764.0 | -12.0 | 
-| 2013-11-21 | 第4期Olleh杯オープン選手権決勝五番勝負第3局 | Kim Jiseok | Mok Jinseok | Win | B+R | 6.5 | 3776.0 | 8.0 | 
-| 2013-11-20 | 第4期Olleh杯オープン選手権決勝五番勝負第2局 | Mok Jinseok | Kim Jiseok | Win | W+3.5 | 6.5 | 3768.0 | 2.0 | 
-| 2013-11-18 | 第4期Olleh杯オープン選手権決勝五番勝負第1局 | Kim Jiseok | Mok Jinseok | Win | B+R | 6.5 | 3766.0 | 2.0 | 
-| 2013-11-13 | 第4期Olleh杯オープン選手権準決勝 | Kim Jiseok | Lee Changho | Win | B+R | 6.5 | 3764.0 | 5.0 | 
-| 2013-11-12 | 第18期バッカス杯天元戦準決勝 | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3759.0 | -4.0 | 
+| 2013-12-07 | 第15回農心辛ラーメン杯世界囲碁最強戦第10戦 | Cho U | Kim Jiseok | Win | W+R | 6.5 | 3795.0 | 32.0 | 
+| 2013-11-23 | 2013年韓国囲碁リーグ | Kim Jiseok | Lee Sedol | Lose | W+R | 6.5 | 3763.0 | -12.0 | 
+| 2013-11-21 | 第4期Olleh杯オープン選手権決勝五番勝負第3局 | Kim Jiseok | Mok Jinseok | Win | B+R | 6.5 | 3775.0 | 8.0 | 
+| 2013-11-20 | 第4期Olleh杯オープン選手権決勝五番勝負第2局 | Mok Jinseok | Kim Jiseok | Win | W+3.5 | 6.5 | 3767.0 | 2.0 | 
+| 2013-11-18 | 第4期Olleh杯オープン選手権決勝五番勝負第1局 | Kim Jiseok | Mok Jinseok | Win | B+R | 6.5 | 3765.0 | 2.0 | 
+| 2013-11-13 | 第4期Olleh杯オープン選手権準決勝 | Kim Jiseok | Lee Changho | Win | B+R | 6.5 | 3763.0 | 5.0 | 
+| 2013-11-12 | 第18期バッカス杯天元戦準決勝 | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3758.0 | -5.0 | 
 | 2013-11-08 | 2013年韓国囲碁リーグ | Kim Jiseok | Kim Sonjin | Win | B+R | 6.5 | 3763.0 | 20.0 | 
 | 2013-11-04 | 第57期国手戦（韓国）準決勝 | Park Junghwan | Kim Jiseok | Lose | B+R | 6.5 | 3743.0 | 8.0 | 
 | 2013-10-31 | 第4期Olleh杯オープン選手権準々決勝 | Lee Chungyu | Kim Jiseok | Win | W+R | 6.5 | 3735.0 | 26.0 | 
@@ -556,8 +557,8 @@
 | 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | An Dongxu | Kim Jiseok | Win | W+R | 7.5 | 3725.0 | 1.0 | 
 | 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 |  | Kim Jiseok | Win | W+R | 7.5 | 3724.0 | 35.0 | 
 | 2013-08-25 | 2013年韓国囲碁リーグ | Park Junghwan | Kim Jiseok | Lose | B+R | 6.5 | 3689.0 | 13.0 | 
-| 2013-08-17 | 2013年韓国囲碁リーグ | Kim Jiseok |  | Win | B+R | 6.5 | 3676.0 | 28.0 | 
-| 2013-08-03 | 2013年韓国囲碁リーグ | Kim Jiseok | Kim Sedong | Win | B+R | 6.5 | 3648.0 | 33.0 | 
+| 2013-08-17 | 2013年韓国囲碁リーグ | Kim Jiseok |  | Win | B+R | 6.5 | 3676.0 | 29.0 | 
+| 2013-08-03 | 2013年韓国囲碁リーグ | Kim Jiseok | Kim Sedong | Win | B+R | 6.5 | 3647.0 | 32.0 | 
 | 2013-08-01 | 第15回農心杯韓国選抜戦 | Kim Jiseok | Lee Yeongkyu | Win | B+1.5 | 6.5 | 3615.0 | 2.0 | 
 | 2013-07-25 | 第15回農心杯韓国選抜戦 | Kim Jiseok | Hong Kipyo | Win | B+R | 6.5 | 3613.0 | -2.0 | 
 | 2013-07-24 | 第15回農心杯韓国選抜戦 | Kim Sedong | Kim Jiseok | Win | W+0.5 | 6.5 | 3615.0 | 3.0 | 
@@ -568,8 +569,8 @@
 | 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Kim Jiseok | Gu Li | Lose | W+R | 7.5 | 3612.0 | -6.0 | 
 | 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Kim Jiseok | Lian Xiao | Lose | W+R | 7.5 | 3618.0 | -82.0 | 
 | 2013-06-23 | 2013年韓国囲碁リーグ | Kim Jiseok | Baek Chanhee | Win | B+R | 6.5 | 3700.0 | -3.0 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Chen Yaoye | Kim Jiseok | Win | W+R | 7.5 | 3703.0 | 58.0 | 
-| 2013-06-19 | 第9期物価情報杯プロ棋戦リーグC | Hong Seongji | Kim Jiseok | Lose | B+0.5 | 6.5 | 3645.0 | 59.0 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Chen Yaoye | Kim Jiseok | Win | W+R | 7.5 | 3703.0 | 59.0 | 
+| 2013-06-19 | 第9期物価情報杯プロ棋戦リーグC | Hong Seongji | Kim Jiseok | Lose | B+0.5 | 6.5 | 3644.0 | 58.0 | 
 | 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Kim Jiseok | Zhou Ruiyang | Win | B+R | 7.5 | 3586.0 | -6.0 | 
 | 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Xia Chenkun | Lose | W+0.5 | 6.5 | 3592.0 | -65.0 | 
 | 2013-05-31 | 第18期バッカス杯天元戦予選 | Kim Jiseok | Han Wonggyu | Win | B+R | 6.5 | 3657.0 | 0.0 | 

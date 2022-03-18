@@ -7,74 +7,75 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-12 | 2021-2022韓国囲碁リーグ | Hong Seongji | Han Sanghoon | Win | B+R | 6.5 | 3373.0 | 19.0 | 
-| 2022-03-06 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Geunho | Lose | W+6.5 | 6.5 | 3354.0 | -14.0 | 
-| 2022-03-02 | 第5期韓国竜星戦1回戦 | Lee Changseok | Hong Seongji | Lose | B+6.5 | 6.5 | 3368.0 | 7.0 | 
-| 2022-02-24 | 2021-2022韓国囲碁リーグ | Hong Seongji | Choi Jeong | Win | B+R | 6.5 | 3361.0 | 40.0 | 
-| 2022-02-18 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Hong Seongji | Win | W+R | 6.5 | 3321.0 | -28.0 | 
-| 2022-02-14 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Kim Jiseok | Hong Seongji | Lose | B+R | 6.5 | 3349.0 | 0.0 | 
-| 2022-02-12 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Hong Seongji | Lose | B+0.5 | 6.5 | 3349.0 | -27.0 | 
-| 2022-02-06 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Lose | W+R | 6.5 | 3376.0 | 6.0 | 
-| 2022-01-16 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Win | W+R | 6.5 | 3370.0 | 22.0 | 
-| 2022-01-10 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Hong Kipyo | Hong Seongji | Win | W+2.5 | 6.5 | 3348.0 | 6.0 | 
-| 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Lose | W+1.5 | 6.5 | 3342.0 | 50.0 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Minkyu | Win | B+R | 6.5 | 3292.0 | 0.0 | 
-| 2021-12-23 | 2021-2022韓国囲碁リーグ | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3292.0 | -38.0 | 
-| 2021-12-19 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Jinsol | Lose | W+1.5 | 6.5 | 3330.0 | 18.0 | 
-| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Hong Seongji | Win | W+R | 6.5 | 3312.0 | 17.0 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3295.0 | 44.0 | 
-| 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | Win | B+R | 6.5 | 3251.0 | 20.0 | 
-| 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Lose | W+R | 6.5 | 3231.0 | 22.0 | 
-| 2021-11-14 | 第7回国手山脈韓国国内トーナメント予選 | An Jungki | Hong Seongji | Lose | B+0.5 | 6.5 | 3209.0 | -160.0 | 
-| 2021-08-25 | 第26回三星火災杯韓国予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3369.0 | 0.0 | 
-| 2021-08-23 | 第26回三星火災杯韓国予選 | Hong Seongji |  | Win | B+R | 6.5 | 3369.0 | 56.0 | 
-| 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Win | W+R | 6.5 | 3313.0 | 49.0 | 
-| 2021-07-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3264.0 | -43.0 | 
-| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Lose | W+1.5 | 6.5 | 3307.0 | -72.0 | 
-| 2021-05-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Seongji | Byun Sangil | Lose | W+3.5 | 6.5 | 3379.0 | 5.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | Hong Seongji |  | Win | B+3.5 | 6.5 | 3374.0 | 46.0 | 
-| 2021-05-05 | 第26回LG杯韓国予選 | Park Seunghwa | Hong Seongji | Win | W+R | 6.5 | 3328.0 | 37.0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Hong Seongji |  | Win | B+R | 6.5 | 3291.0 | 8.0 | 
-| 2021-04-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Seongji | Han Seungjoo | Win | B+1.5 | 6.5 | 3283.0 | 70.0 | 
-| 2021-02-22 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Kim Jiseok | Lose | W+R | 6.5 | 3213.0 | 39.0 | 
-| 2021-02-01 | 第4期韓国竜星戦予選 | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3174.0 | 25.0 | 
-| 2021-01-19 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Song Taekon | Hong Seongji | Win | W+13.5 | 6.5 | 3149.0 | -76.0 | 
-| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Li Weiqing | Hong Seongji | Lose | B+6.5 | 6.5 | 3225.0 | -21.0 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Hong Seongji | Tong Mengcheng | Win | B+R | 6.5 | 3246.0 | -105.0 | 
-| 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | Lose | B+R | 6.5 | 3351.0 | -59.0 | 
-| 2020-02-03 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Donghoon | Hong Seongji | Lose | B+2.5 | 6.5 | 3410.0 | -20.0 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第5局 | Hong Seongji | Han Seungjoo | Lose | W+R | 6.5 | 3430.0 | -9.0 | 
-| 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第2局 | Hong Seongji | Lee Hyunho | Win | B+R | 6.5 | 3439.0 | 10.0 | 
-| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Kim Myounghoon | Hong Seongji | Lose | B+3.5 | 7.5 | 3429.0 | -17.0 | 
-| 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第3局 | Park Joonhoon | Hong Seongji | Win | W+R | 6.5 | 3446.0 | 17.0 | 
-| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第2局 | Hong Seongji | Song Taekon | Win | B+6.5 | 6.5 | 3429.0 | 2.0 | 
-| 2020-01-09 | 第13回春蘭杯韓国予選 | Hong Seongji | Na Hyun | Lose | W+R | 7.5 | 3427.0 | -11.0 | 
-| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第5局 | Hong Seongji | Kim Jiseok | Lose | W+R | 6.5 | 3438.0 | -17.0 | 
-| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第5局 | Hong Seongji | Kang Dongyun | Win | B+R | 6.5 | 3455.0 | 7.0 | 
-| 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第1局 | Shin Jinseo | Hong Seongji | Lose | B+R | 6.5 | 3448.0 | 1.0 | 
-| 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第4局 | Hong Seongji | Song Jihoon | Win | B+R | 6.5 | 3447.0 | 10.0 | 
-| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第5局 | Han Seungjoo | Hong Seongji | Win | W+R | 6.5 | 3437.0 | 37.0 | 
-| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | Lose | B+4.5 | 6.5 | 3400.0 | -43.0 | 
-| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第4局 | Park Sangjin | Hong Seongji | Lose | B+0.5 | 6.5 | 3443.0 | -44.0 | 
-| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第4局 | Hong Seongji | Park Geunho | Win | B+R | 6.5 | 3487.0 | 32.0 | 
-| 2019-10-31 | 2019-2020韓国囲碁リーグ第5節第1試合第4局 | Hong Seongji |  | Win | B+R | 6.5 | 3455.0 | -2.0 | 
-| 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第2局 | Kang Dongyun | Hong Seongji | Lose | B+R | 6.5 | 3457.0 | -12.0 | 
-| 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第5局 | Hong Seongji | Lee Wondo | Lose | W+0.5 | 6.5 | 3469.0 | -65.0 | 
-| 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第4局 | Hong Seongji | Ryu Suhang | Win | B+R | 6.5 | 3534.0 | 48.0 | 
-| 2019-09-20 | 第3回安東市真貯蓄銀行杯プロアマオープン戦決勝 | Shin Minjun | Hong Seongji | Win | W+R | 6.5 | 3486.0 | 47.0 | 
-| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Choi Jeong | Hong Seongji | Win | W+R | 6.5 | 3439.0 | 96.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Byun Sangil | Hong Seongji | Win | W+R | 6.5 | 3343.0 | -46.0 | 
+| 2022-03-18 | 2021-2022韓国囲碁リーグ | Park Sangjin | Hong Seongji | Win | W+R | 6.5 | 3384.0 | 22.0 | 
+| 2022-03-12 | 2021-2022韓国囲碁リーグ | Hong Seongji | Han Sanghoon | Win | B+R | 6.5 | 3362.0 | 19.0 | 
+| 2022-03-06 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Geunho | Lose | W+6.5 | 6.5 | 3343.0 | -14.0 | 
+| 2022-03-02 | 第5期韓国竜星戦1回戦 | Lee Changseok | Hong Seongji | Lose | B+6.5 | 6.5 | 3357.0 | 7.0 | 
+| 2022-02-24 | 2021-2022韓国囲碁リーグ | Hong Seongji | Choi Jeong | Win | B+R | 6.5 | 3350.0 | 39.0 | 
+| 2022-02-18 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Hong Seongji | Win | W+R | 6.5 | 3311.0 | -28.0 | 
+| 2022-02-14 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Kim Jiseok | Hong Seongji | Lose | B+R | 6.5 | 3339.0 | 0.0 | 
+| 2022-02-12 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Hong Seongji | Lose | B+0.5 | 6.5 | 3339.0 | -27.0 | 
+| 2022-02-06 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Lose | W+R | 6.5 | 3366.0 | 5.0 | 
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Win | W+R | 6.5 | 3361.0 | 22.0 | 
+| 2022-01-10 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Hong Kipyo | Hong Seongji | Win | W+2.5 | 6.5 | 3339.0 | 6.0 | 
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Lose | W+1.5 | 6.5 | 3333.0 | 49.0 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Minkyu | Win | B+R | 6.5 | 3284.0 | 0.0 | 
+| 2021-12-23 | 2021-2022韓国囲碁リーグ | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3284.0 | -38.0 | 
+| 2021-12-19 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Jinsol | Lose | W+1.5 | 6.5 | 3322.0 | 18.0 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Hong Seongji | Win | W+R | 6.5 | 3304.0 | 17.0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3287.0 | 44.0 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | Win | B+R | 6.5 | 3243.0 | 20.0 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Lose | W+R | 6.5 | 3223.0 | 22.0 | 
+| 2021-11-14 | 第7回国手山脈韓国国内トーナメント予選 | An Jungki | Hong Seongji | Lose | B+0.5 | 6.5 | 3201.0 | -161.0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3362.0 | 0.0 | 
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Hong Seongji |  | Win | B+R | 6.5 | 3362.0 | 54.0 | 
+| 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Win | W+R | 6.5 | 3308.0 | 50.0 | 
+| 2021-07-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3258.0 | -44.0 | 
+| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Lose | W+1.5 | 6.5 | 3302.0 | -72.0 | 
+| 2021-05-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Seongji | Byun Sangil | Lose | W+3.5 | 6.5 | 3374.0 | 5.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | Hong Seongji |  | Win | B+3.5 | 6.5 | 3369.0 | 46.0 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Park Seunghwa | Hong Seongji | Win | W+R | 6.5 | 3323.0 | 37.0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Hong Seongji |  | Win | B+R | 6.5 | 3286.0 | 7.0 | 
+| 2021-04-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Seongji | Han Seungjoo | Win | B+1.5 | 6.5 | 3279.0 | 70.0 | 
+| 2021-02-22 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Kim Jiseok | Lose | W+R | 6.5 | 3209.0 | 38.0 | 
+| 2021-02-01 | 第4期韓国竜星戦予選 | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3171.0 | 25.0 | 
+| 2021-01-19 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Song Taekon | Hong Seongji | Win | W+13.5 | 6.5 | 3146.0 | -76.0 | 
+| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Li Weiqing | Hong Seongji | Lose | B+6.5 | 6.5 | 3222.0 | -21.0 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Hong Seongji | Tong Mengcheng | Win | B+R | 6.5 | 3243.0 | -106.0 | 
+| 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | Lose | B+R | 6.5 | 3349.0 | -60.0 | 
+| 2020-02-03 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Donghoon | Hong Seongji | Lose | B+2.5 | 6.5 | 3409.0 | -20.0 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第5局 | Hong Seongji | Han Seungjoo | Lose | W+R | 6.5 | 3429.0 | -9.0 | 
+| 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第2局 | Hong Seongji | Lee Hyunho | Win | B+R | 6.5 | 3438.0 | 10.0 | 
+| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Kim Myounghoon | Hong Seongji | Lose | B+3.5 | 7.5 | 3428.0 | -17.0 | 
+| 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第3局 | Park Joonhoon | Hong Seongji | Win | W+R | 6.5 | 3445.0 | 17.0 | 
+| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第2局 | Hong Seongji | Song Taekon | Win | B+6.5 | 6.5 | 3428.0 | 2.0 | 
+| 2020-01-09 | 第13回春蘭杯韓国予選 | Hong Seongji | Na Hyun | Lose | W+R | 7.5 | 3426.0 | -11.0 | 
+| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第5局 | Hong Seongji | Kim Jiseok | Lose | W+R | 6.5 | 3437.0 | -17.0 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第5局 | Hong Seongji | Kang Dongyun | Win | B+R | 6.5 | 3454.0 | 7.0 | 
+| 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第1局 | Shin Jinseo | Hong Seongji | Lose | B+R | 6.5 | 3447.0 | 1.0 | 
+| 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第4局 | Hong Seongji | Song Jihoon | Win | B+R | 6.5 | 3446.0 | 10.0 | 
+| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第5局 | Han Seungjoo | Hong Seongji | Win | W+R | 6.5 | 3436.0 | 37.0 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | Lose | B+4.5 | 6.5 | 3399.0 | -43.0 | 
+| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第4局 | Park Sangjin | Hong Seongji | Lose | B+0.5 | 6.5 | 3442.0 | -44.0 | 
+| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第4局 | Hong Seongji | Park Geunho | Win | B+R | 6.5 | 3486.0 | 32.0 | 
+| 2019-10-31 | 2019-2020韓国囲碁リーグ第5節第1試合第4局 | Hong Seongji |  | Win | B+R | 6.5 | 3454.0 | -2.0 | 
+| 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第2局 | Kang Dongyun | Hong Seongji | Lose | B+R | 6.5 | 3456.0 | -12.0 | 
+| 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第5局 | Hong Seongji | Lee Wondo | Lose | W+0.5 | 6.5 | 3468.0 | -65.0 | 
+| 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第4局 | Hong Seongji | Ryu Suhang | Win | B+R | 6.5 | 3533.0 | 48.0 | 
+| 2019-09-20 | 第3回安東市真貯蓄銀行杯プロアマオープン戦決勝 | Shin Minjun | Hong Seongji | Win | W+R | 6.5 | 3485.0 | 47.0 | 
+| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Choi Jeong | Hong Seongji | Win | W+R | 6.5 | 3438.0 | 96.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Byun Sangil | Hong Seongji | Win | W+R | 6.5 | 3342.0 | -47.0 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Hong Seongji | Seol Hyunjun | Lose | W+R | 6.5 | 3389.0 | -2.0 | 
-| 2019-07-05 | 第24回三星火災杯統合予選決勝 | Hong Seongji | Zhao Chenyu | Lose | W+R | 6.5 | 3391.0 | 25.0 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Hong Seongji | Lee Donghoon | Lose | W+7.5 | 6.5 | 3366.0 | 0.0 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Hong Seongji | Weon Seongjin | Win | B+R | 6.5 | 3366.0 | -39.0 | 
+| 2019-07-05 | 第24回三星火災杯統合予選決勝 | Hong Seongji | Zhao Chenyu | Lose | W+R | 6.5 | 3391.0 | 26.0 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Hong Seongji | Lee Donghoon | Lose | W+7.5 | 6.5 | 3365.0 | 0.0 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Hong Seongji | Weon Seongjin | Win | B+R | 6.5 | 3365.0 | -40.0 | 
 | 2019-04-09 | 2019年囲碁テレビ杯早碁戦予選2回戦 | Yun Junsang | Hong Seongji | Win | W+1.5 | 6.5 | 3405.0 | 11.0 | 
 | 2019-04-05 | 第24回LG杯統合予選4回戦 | Hong Seongji | Mi Yuting | Lose | W+R | 6.5 | 3394.0 | -53.0 | 
 | 2019-02-19 | 第38回KBS杯囲碁王戦1回戦 | Hong Seongji | Kim Sedong | Win | B+1.5 | 6.5 | 3447.0 | 68.0 | 
 | 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Hong Seongji | Yang Dingxin | Lose | W+R | 6.5 | 3379.0 | -37.0 | 
 | 2019-01-15 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Hong Seongji | Lee Donghoon | Lose | W+0.5 | 6.5 | 3416.0 | 17.0 | 
-| 2018-10-04 | 2018年韓国囲碁リーグ第14節 | Hong Seongji |  | Win | B+R | 6.5 | 3399.0 | 27.0 | 
-| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Hong Seongji | Yun Chanhee | Win | B+R | 6.5 | 3372.0 | -4.0 | 
+| 2018-10-04 | 2018年韓国囲碁リーグ第14節 | Hong Seongji |  | Win | B+R | 6.5 | 3399.0 | 28.0 | 
+| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Hong Seongji | Yun Chanhee | Win | B+R | 6.5 | 3371.0 | -5.0 | 
 | 2018-09-22 | 2018年韓国囲碁リーグ第12節 | Heo Yongho | Hong Seongji | Lose | B+1.5 | 6.5 | 3376.0 | -32.0 | 
 | 2018-09-16 | 2018年韓国囲碁リーグ第11節 | Hong Seongji | Lee Sedol | Lose | W+4.5 | 6.5 | 3408.0 | -24.0 | 
 | 2018-08-30 | 2018年韓国囲碁リーグ第10節 | Hong Seongji | Park Jinsol | Win | B+R | 6.5 | 3432.0 | 4.0 | 
@@ -91,8 +92,8 @@
 | 2018-06-20 | 2018年中国囲碁乙級リーグ | Hong Seongji |  | Lose | W+R | 7.5 | 3501.0 | -11.0 | 
 | 2018-06-15 | 2018年中国囲碁乙級リーグ |  | Hong Seongji | Win | W+1¼ | 7.5 | 3512.0 | 53.0 | 
 | 2018-04-07 | 第23回LG杯予選決勝 | Hong Seongji | Peng Liyao | Lose | W+5.5 | 6.5 | 3459.0 | -12.0 | 
-| 2018-04-03 | 第23回LG杯予選2回戦 | Hong Seongji |  | Win | B+R | 6.5 | 3471.0 | 51.0 | 
-| 2018-02-12 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Hong Seongji | Lose | B+0.5 | 6.5 | 3420.0 | -15.0 | 
+| 2018-04-03 | 第23回LG杯予選2回戦 | Hong Seongji |  | Win | B+R | 6.5 | 3471.0 | 52.0 | 
+| 2018-02-12 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Hong Seongji | Lose | B+0.5 | 6.5 | 3419.0 | -16.0 | 
 | 2018-02-02 | 第23期GSカルテックス杯プロ棋戦24強戦 | Hong Seongji | Yun Chanhee | Lose | W+0.5 | 6.5 | 3435.0 | 2.0 | 
 | 2018-01-16 | 韓国ナショナルチームリーグ戦 | Ahn Kukhyun | Hong Seongji | Win | W+R | 6.5 | 3433.0 | 8.0 | 
 | 2018-01-02 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Kim Soojang | Hong Seongji | Win | W+R | 6.5 | 3425.0 | 26.0 | 
@@ -181,8 +182,8 @@
 | 2013-08-01 | 第4期Olleh杯オープン選手権3回戦 | Hong Seongji | An Sungjoon | Win | B+R | 6.5 | 3455.0 | 0.0 | 
 | 2013-07-25 | 2013年韓国囲碁リーグ | Hong Seongji | Lee Changho | Win | B+R | 6.5 | 3455.0 | 13.0 | 
 | 2013-07-20 | 2013年韓国囲碁リーグ | Kim Sedong | Hong Seongji | Win | W+0.5 | 6.5 | 3442.0 | -12.0 | 
-| 2013-07-12 | 第4期Olleh杯オープン選手権2回戦 | Kim Hyeoimin | Hong Seongji | Win | W+R | 6.5 | 3454.0 | 51.0 | 
-| 2013-07-03 | 第9期物価情報杯プロ棋戦リーグC | Lee Yeongkyu | Hong Seongji | Lose | B+R | 6.5 | 3403.0 | -75.0 | 
+| 2013-07-12 | 第4期Olleh杯オープン選手権2回戦 | Kim Hyeoimin | Hong Seongji | Win | W+R | 6.5 | 3454.0 | 52.0 | 
+| 2013-07-03 | 第9期物価情報杯プロ棋戦リーグC | Lee Yeongkyu | Hong Seongji | Lose | B+R | 6.5 | 3402.0 | -76.0 | 
 | 2013-06-29 | 2013年韓国囲碁リーグ |  | Hong Seongji | Lose | B+R | 6.5 | 3478.0 | -17.0 | 
 | 2013-06-19 | 第9期物価情報杯プロ棋戦リーグC | Hong Seongji | Kim Jiseok | Win | B+0.5 | 6.5 | 3495.0 | 28.0 | 
 | 2013-06-16 | 2013年韓国囲碁リーグ | Kim Juho | Hong Seongji | Win | W+R | 6.5 | 3467.0 | 62.0 | 

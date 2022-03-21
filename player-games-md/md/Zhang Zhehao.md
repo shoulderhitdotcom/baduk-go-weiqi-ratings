@@ -7,72 +7,73 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2754.0 | 65.0 | 
-| 2022-02-21 | 第3期名人冠軍戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2689.0 | -20.0 | 
-| 2022-02-14 | 第3期名人冠軍戦予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2709.0 | 25.0 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Lu Yiquan | Zhang Zhehao | Win | W+R | 6.5 | 2684.0 | -20.0 | 
-| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2704.0 | -27.0 | 
-| 2022-01-04 | 第21期天元戦（台湾）予選 | Yang Bowei | Zhang Zhehao | Lose | B+R | 6.5 | 2731.0 | 67.0 | 
-| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhang Zhehao | Huang Shiyuan | Lose | W+6.5 | 6.5 | 2664.0 | -70.0 | 
-| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Win | W+R | 6.5 | 2734.0 | 0.0 | 
-| 2021-09-16 | 第9期中環碁聖戦 | Lin Ziyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2734.0 | -8.0 | 
-| 2021-09-06 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2742.0 | -64.0 | 
-| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2806.0 | -15.0 | 
-| 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Yuting | Zhang Zhehao | Win | W+R | 6.5 | 2821.0 | 4.0 | 
-| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2817.0 | 51.0 | 
-| 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Bai Xinhui | Zhang Zhehao | Win | W+R | 6.5 | 2766.0 | 21.0 | 
-| 2021-04-12 | 第11期友士杯十段戦予選 | Huang Shiyuan | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2745.0 | -19.0 | 
-| 2021-04-02 | 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2764.0 | -24.0 | 
-| 2021-03-29 | 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+7.5 | 6.5 | 2788.0 | 0.0 | 
-| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 2788.0 | 24.0 | 
-| 2021-03-19 | 第17期国手戦（台湾） | Zhang Zhehao |  | Win | B+R | 6.5 | 2764.0 | 13.0 | 
-| 2021-03-04 | 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | Lose | W+0.5 | 6.5 | 2751.0 | -16.0 | 
-| 2021-02-25 | 第2期名人冠軍戦予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2767.0 | 40.0 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 | Zhang Zhehao |  | Lose | W+1.5 | 6.5 | 2727.0 | 88.0 | 
-| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Lose | W+2.5 | 6.5 | 2639.0 | 43.0 | 
-| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | Lose | B+R | 6.5 | 2596.0 | -29.0 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+8.5 | 6.5 | 2625.0 | 37.0 | 
-| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | Win | B+2.5 | 6.5 | 2588.0 | 30.0 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | Win | B+R | 6.5 | 2558.0 | 8.0 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Bai Xinhui | Zhang Zhehao | Win | W+3.5 | 6.5 | 2550.0 | 10.0 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 | Liu Chuanting | Zhang Zhehao | Win | W+R | 6.5 | 2540.0 | -29.0 | 
-| 2020-10-23 | 第1回UMC聯電杯早碁争覇戦3回戦 | Zhang Zhehao | Xu Haohong | Lose | W+1.5 | 6.5 | 2569.0 | -4.0 | 
-| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Bai Xinhui | Zhang Zhehao | Win | W+R | 6.5 | 2573.0 | -24.0 | 
-| 2020-10-18 | 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2597.0 | 10.0 | 
-| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Gao Yun | Zhang Zhehao | Win | W+R | 6.5 | 2587.0 | -2.0 | 
-| 2020-10-05 | 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2589.0 | -29.0 | 
-| 2020-09-28 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2618.0 | -13.0 | 
-| 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Win | W+R | 6.5 | 2631.0 | 43.0 | 
-| 2020-09-20 | 第8期中環碁聖戦3回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2588.0 | 42.0 | 
-| 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2546.0 | 42.0 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Zhang Zhehao | Lin Shixun | Lose | W+1.5 | 6.5 | 2504.0 | -11.0 | 
-| 2020-09-14 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Zhou Yinnan | Win | B+R | 6.5 | 2515.0 | 7.0 | 
-| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2508.0 | 34.0 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Ding Shaojie | Win | B+8.5 | 6.5 | 2474.0 | -89.0 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2563.0 | -158.0 | 
-| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2721.0 | -40.0 | 
-| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Wang Yuanjun | Zhang Zhehao | Lose | B+R | 6.5 | 2761.0 | -11.0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2772.0 | 0.0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Zhehao | Liu Yaowen | Win | B+3.5 | 6.5 | 2772.0 | 95.0 | 
-| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Yu Lijun | Zhang Zhehao | Lose | B+4.5 | 6.5 | 2677.0 | -63.0 | 
-| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+7.5 | 6.5 | 2740.0 | 54.0 | 
-| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 |  | Zhang Zhehao | Lose | B+3.5 | 6.5 | 2686.0 | -25.0 | 
-| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhang Zhehao |  | Lose | W+5.5 | 6.5 | 2711.0 | -119.0 | 
-| 2020-01-14 | 第19期天元戦（台湾）予選 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2830.0 | -25.0 | 
-| 2019-09-24 | 第15期国手戦（台湾）2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+R | 6.5 | 2855.0 | 19.0 | 
-| 2019-09-22 | 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2836.0 | -19.0 | 
-| 2019-09-15 | 第7期中環碁聖戦2回戦 | Zhang Zhehao | Chen Feng | Win | B+3.5 | 6.5 | 2855.0 | 32.0 | 
-| 2019-09-03 | 第15期国手戦（台湾）1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2823.0 | 1.0 | 
-| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2822.0 | -38.0 | 
-| 2019-09-01 | 第7期中環碁聖戦1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2860.0 | -66.0 | 
-| 2019-05-09 | 第9期友士杯十段戦敗部2回戦 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2926.0 | -47.0 | 
-| 2019-05-06 | 第9期友士杯十段戦敗部1回戦 | Zhang Zhehao | Lin Jiehan | Win | B+R | 6.5 | 2973.0 | 33.0 | 
-| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | 2940.0 | -29.0 | 
-| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Lai Junfu | Zhang Zhehao | Win | W+4.5 | 6.5 | 2969.0 | 19.0 | 
-| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Zhang Zhehao |  | Win | B+R | 6.5 | 2950.0 | 0.0 | 
-| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Lin Shimin | Zhang Zhehao | Win | W+R | 6.5 | 2950.0 | 43.0 | 
-| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2907.0 | -20.0 | 
-| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Wei Haoting | Lose | W+1.5 | 6.5 | 2927.0 | -37.0 | 
+| 2022-03-21 | 第12期友士杯十段戦予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2691.0 | -49.0 | 
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2740.0 | 64.0 | 
+| 2022-02-21 | 第3期名人冠軍戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2676.0 | -21.0 | 
+| 2022-02-14 | 第3期名人冠軍戦予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2697.0 | 25.0 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Lu Yiquan | Zhang Zhehao | Win | W+R | 6.5 | 2672.0 | -20.0 | 
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2692.0 | -27.0 | 
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Yang Bowei | Zhang Zhehao | Lose | B+R | 6.5 | 2719.0 | 66.0 | 
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhang Zhehao | Huang Shiyuan | Lose | W+6.5 | 6.5 | 2653.0 | -71.0 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Win | W+R | 6.5 | 2724.0 | 0.0 | 
+| 2021-09-16 | 第9期中環碁聖戦 | Lin Ziyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2724.0 | -9.0 | 
+| 2021-09-06 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2733.0 | -65.0 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2798.0 | -15.0 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Yuting | Zhang Zhehao | Win | W+R | 6.5 | 2813.0 | 4.0 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2809.0 | 50.0 | 
+| 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Bai Xinhui | Zhang Zhehao | Win | W+R | 6.5 | 2759.0 | 21.0 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Huang Shiyuan | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2738.0 | -20.0 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2758.0 | -24.0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+7.5 | 6.5 | 2782.0 | 0.0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 2782.0 | 24.0 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Zhang Zhehao |  | Win | B+R | 6.5 | 2758.0 | 13.0 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | Lose | W+0.5 | 6.5 | 2745.0 | -16.0 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2761.0 | 40.0 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Zhang Zhehao |  | Lose | W+1.5 | 6.5 | 2721.0 | 88.0 | 
+| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Lose | W+2.5 | 6.5 | 2633.0 | 42.0 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | Lose | B+R | 6.5 | 2591.0 | -29.0 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+8.5 | 6.5 | 2620.0 | 37.0 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | Win | B+2.5 | 6.5 | 2583.0 | 30.0 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | Win | B+R | 6.5 | 2553.0 | 8.0 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Bai Xinhui | Zhang Zhehao | Win | W+3.5 | 6.5 | 2545.0 | 10.0 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Liu Chuanting | Zhang Zhehao | Win | W+R | 6.5 | 2535.0 | -30.0 | 
+| 2020-10-23 | 第1回UMC聯電杯早碁争覇戦3回戦 | Zhang Zhehao | Xu Haohong | Lose | W+1.5 | 6.5 | 2565.0 | -4.0 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Bai Xinhui | Zhang Zhehao | Win | W+R | 6.5 | 2569.0 | -24.0 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2593.0 | 10.0 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Gao Yun | Zhang Zhehao | Win | W+R | 6.5 | 2583.0 | -2.0 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2585.0 | -29.0 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2614.0 | -13.0 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Win | W+R | 6.5 | 2627.0 | 43.0 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2584.0 | 42.0 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2542.0 | 42.0 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Zhang Zhehao | Lin Shixun | Lose | W+1.5 | 6.5 | 2500.0 | -11.0 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Zhou Yinnan | Win | B+R | 6.5 | 2511.0 | 6.0 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2505.0 | 34.0 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Ding Shaojie | Win | B+8.5 | 6.5 | 2471.0 | -89.0 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2560.0 | -159.0 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2719.0 | -40.0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Wang Yuanjun | Zhang Zhehao | Lose | B+R | 6.5 | 2759.0 | -11.0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2770.0 | 0.0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Zhehao | Liu Yaowen | Win | B+3.5 | 6.5 | 2770.0 | 95.0 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Yu Lijun | Zhang Zhehao | Lose | B+4.5 | 6.5 | 2675.0 | -63.0 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+7.5 | 6.5 | 2738.0 | 54.0 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 |  | Zhang Zhehao | Lose | B+3.5 | 6.5 | 2684.0 | -25.0 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhang Zhehao |  | Lose | W+5.5 | 6.5 | 2709.0 | -119.0 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2828.0 | -26.0 | 
+| 2019-09-24 | 第15期国手戦（台湾）2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+R | 6.5 | 2854.0 | 19.0 | 
+| 2019-09-22 | 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2835.0 | -19.0 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Zhang Zhehao | Chen Feng | Win | B+3.5 | 6.5 | 2854.0 | 32.0 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2822.0 | 1.0 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2821.0 | -38.0 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2859.0 | -66.0 | 
+| 2019-05-09 | 第9期友士杯十段戦敗部2回戦 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2925.0 | -47.0 | 
+| 2019-05-06 | 第9期友士杯十段戦敗部1回戦 | Zhang Zhehao | Lin Jiehan | Win | B+R | 6.5 | 2972.0 | 33.0 | 
+| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | 2939.0 | -29.0 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Lai Junfu | Zhang Zhehao | Win | W+4.5 | 6.5 | 2968.0 | 19.0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Zhang Zhehao |  | Win | B+R | 6.5 | 2949.0 | 0.0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Lin Shimin | Zhang Zhehao | Win | W+R | 6.5 | 2949.0 | 43.0 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2906.0 | -20.0 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Wei Haoting | Lose | W+1.5 | 6.5 | 2926.0 | -38.0 | 
 | 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Xu Yuqi | Zhang Zhehao | Lose | B+5.5 | 6.5 | 2964.0 | -20.0 | 
 | 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2984.0 | -11.0 | 
 | 2019-01-20 | 第18期天元戦（台湾）予選3回戦 補戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2995.0 | 82.0 | 
@@ -87,45 +88,45 @@
 | 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Lin Shimin | Zhang Zhehao | Win | W+1.5 | 6.5 | 2946.0 | 13.0 | 
 | 2018-09-16 | 第6期中環碁聖戦2回戦 | Zhang Zhehao | Lin Shimin | Win | B+2.5 | 6.5 | 2933.0 | 35.0 | 
 | 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Zhang Zhehao |  | Win | B+R | 6.5 | 2898.0 | 252.0 | 
-| 2018-05-14 | 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | Lose | B+R | 6.5 | 2646.0 | -6.0 | 
-| 2018-05-07 | 第8期友士杯十段戦予選 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2652.0 | 0.0 | 
-| 2018-05-07 | 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | Win | B+2.5 | 6.5 | 2652.0 | 62.0 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | Lose | B+R | 6.5 | 2646.0 | -7.0 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2653.0 | 0.0 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | Win | B+2.5 | 6.5 | 2653.0 | 63.0 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao |  | Lose | W+2.5 | 6.5 | 2590.0 | 42.0 | 
-| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2548.0 | 161.0 | 
-| 2018-01-16 | 第十七回天元戦予選第三回戦 | Chen Feng | Zhang Zhehao | Lose | B+R | 6.5 | 2387.0 | -100.0 | 
-| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2487.0 | -29.0 | 
-| 2017-09-24 | 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | Lose | W+3.5 | 6.5 | 2516.0 | -8.0 | 
-| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | Win | B+R | 6.5 | 2524.0 | 202.0 | 
-| 2017-09-14 | 第13期国手戦（台湾）第二回戦補戦 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2322.0 | -153.0 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2548.0 | 160.0 | 
+| 2018-01-16 | 第十七回天元戦予選第三回戦 | Chen Feng | Zhang Zhehao | Lose | B+R | 6.5 | 2388.0 | -100.0 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2488.0 | -28.0 | 
+| 2017-09-24 | 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | Lose | W+3.5 | 6.5 | 2516.0 | -9.0 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | Win | B+R | 6.5 | 2525.0 | 202.0 | 
+| 2017-09-14 | 第13期国手戦（台湾）第二回戦補戦 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2323.0 | -152.0 | 
 | 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Zhang Zhehao | Xiao Ailin | Win | B+R | 6.5 | 2475.0 | 46.0 | 
-| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Zhang Zhehao | Lu Yiquan | Lose | W+3.5 | 6.5 | 2429.0 | -37.0 | 
-| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | Lose | W+R | 6.5 | 2466.0 | -217.0 | 
-| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+R | 6.5 | 2683.0 | -8.0 | 
-| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhang Zhehao | Win | W+R | 6.5 | 2691.0 | 22.0 | 
-| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2669.0 | 4.0 | 
-| 2017-02-21 | 第十六期天元戦複戦敗部第二回戦 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2665.0 | -26.0 | 
-| 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第二局 | Yang Zixuan | Zhang Zhehao | Lose | B+R | 7.5 | 2691.0 | -107.0 | 
-| 2017-02-13 | 第22期LG盃台湾代表選抜戦初戦第三局 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2798.0 | -5.0 | 
-| 2017-02-07 | 第十六期天元戦複戦第一回戦 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2803.0 | -185.0 | 
-| 2017-01-10 | 第十六期天元戦初戦第二回戦 | Zhang Zhehao | Dang Xiyun | Win | B+R | 6.5 | 2988.0 | -1.0 | 
-| 2016-06-01 | 第6期友士杯十段戦予選 | Lin Shuyang | Zhang Zhehao | Lose | B+R | 6.5 | 2989.0 | -96.0 | 
-| 2016-05-30 | 第6期友士杯十段戦予選 | Gao Yun | Zhang Zhehao | Win | W+3.5 | 6.5 | 3085.0 | 2.0 | 
-| 2016-05-20 | 第6期友士杯十段戦予選 | Zhou Junxun | Zhang Zhehao | Lose | B+R | 6.5 | 3083.0 | -105.0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 3188.0 | 0.0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Zhang Zhehao | Lin Shengxian | Win | B+R | 6.5 | 3188.0 | -27.0 | 
-| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3215.0 | 265.0 | 
-| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Hei Jiajia | Zhang Zhehao | Win | W+R | 6.5 | 2950.0 | 0.0 | 
-| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2950.0 | 0.0 | 
-| 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | 2950.0 | 0.0 | 
-| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2950.0 | 0.0 | 
-| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2950.0 | 0.0 | 
-| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2950.0 | 8.0 | 
-| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | Lose | B+0.5 | 6.5 | 2942.0 | -28.0 | 
-| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Zhang Zhehao | Cho Riyu | Lose | W+R | 6.5 | 2970.0 | -550.0 | 
-| 2013-04-11 | 第5回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+3.5 | 6.5 | 3520.0 | -56.0 | 
-| 2013-03-28 | 第5回海峰杯プロ囲碁戦16強戦 | Lin Tingyi | Zhang Zhehao | Win | W+R | 6.5 | 3576.0 | -27.0 | 
-| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Xia Daming | Zhang Zhehao | Win | W+R | 6.5 | 3603.0 | 14.0 | 
-| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 3589.0 | 116.0 | 
+| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Zhang Zhehao | Lu Yiquan | Lose | W+3.5 | 6.5 | 2429.0 | -38.0 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | Lose | W+R | 6.5 | 2467.0 | -217.0 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+R | 6.5 | 2684.0 | -8.0 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhang Zhehao | Win | W+R | 6.5 | 2692.0 | 22.0 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2670.0 | 4.0 | 
+| 2017-02-21 | 第十六期天元戦複戦敗部第二回戦 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2666.0 | -26.0 | 
+| 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第二局 | Yang Zixuan | Zhang Zhehao | Lose | B+R | 7.5 | 2692.0 | -107.0 | 
+| 2017-02-13 | 第22期LG盃台湾代表選抜戦初戦第三局 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2799.0 | -5.0 | 
+| 2017-02-07 | 第十六期天元戦複戦第一回戦 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2804.0 | -185.0 | 
+| 2017-01-10 | 第十六期天元戦初戦第二回戦 | Zhang Zhehao | Dang Xiyun | Win | B+R | 6.5 | 2989.0 | 0.0 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Lin Shuyang | Zhang Zhehao | Lose | B+R | 6.5 | 2989.0 | -97.0 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Gao Yun | Zhang Zhehao | Win | W+3.5 | 6.5 | 3086.0 | 2.0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Zhou Junxun | Zhang Zhehao | Lose | B+R | 6.5 | 3084.0 | -105.0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 3189.0 | 0.0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Zhang Zhehao | Lin Shengxian | Win | B+R | 6.5 | 3189.0 | -26.0 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3215.0 | 264.0 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Hei Jiajia | Zhang Zhehao | Win | W+R | 6.5 | 2951.0 | 0.0 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2951.0 | 0.0 | 
+| 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | 2951.0 | 0.0 | 
+| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2951.0 | 0.0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2951.0 | 0.0 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2951.0 | 8.0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | Lose | B+0.5 | 6.5 | 2943.0 | -28.0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Zhang Zhehao | Cho Riyu | Lose | W+R | 6.5 | 2971.0 | -550.0 | 
+| 2013-04-11 | 第5回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+3.5 | 6.5 | 3521.0 | -56.0 | 
+| 2013-03-28 | 第5回海峰杯プロ囲碁戦16強戦 | Lin Tingyi | Zhang Zhehao | Win | W+R | 6.5 | 3577.0 | -27.0 | 
+| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Xia Daming | Zhang Zhehao | Win | W+R | 6.5 | 3604.0 | 14.0 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 3590.0 | 117.0 | 
 | 2012-11-22 | 第4回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 3473.0 | missing |
 
 

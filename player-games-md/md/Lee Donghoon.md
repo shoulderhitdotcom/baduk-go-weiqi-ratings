@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-21 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Lee Yeongkyu | Lee Donghoon | Win | W+R | 6.5 | 3576.0 | 1.0 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Lee Donghoon | Lose | B+R | 6.5 | 3575.0 | -9.0 | 
 | 2022-03-15 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Yun Junsang | Lee Donghoon | Win | W+R | 6.5 | 3584.0 | 18.0 | 
 | 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Donghoon | Win | W+R | 6.5 | 3566.0 | 15.0 | 
@@ -14,8 +15,8 @@
 | 2022-03-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第2局 | Lee Donghoon | Park Junghwan | Lose | W+R | 6.5 | 3556.0 | -6.0 | 
 | 2022-03-06 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Ryu Minhyung | Lose | W+R | 6.5 | 3562.0 | -10.0 | 
 | 2022-03-01 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Win | W+R | 6.5 | 3572.0 | 28.0 | 
-| 2022-02-24 | 2021-2022韓国囲碁リーグ | Lee Donghoon |  | Win | B+R | 6.5 | 3544.0 | -3.0 | 
-| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Lose | B+R | 6.5 | 3547.0 | -22.0 | 
+| 2022-02-24 | 2021-2022韓国囲碁リーグ | Lee Donghoon |  | Win | B+R | 6.5 | 3544.0 | -4.0 | 
+| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Lose | B+R | 6.5 | 3548.0 | -21.0 | 
 | 2022-02-18 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Lee Taehyun | Lose | W+R | 6.5 | 3569.0 | -7.0 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Lose | W+R | 6.5 | 3576.0 | -12.0 | 
 | 2022-02-06 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Jinhyu | Win | B+R | 6.5 | 3588.0 | -9.0 | 
@@ -47,10 +48,10 @@
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Lose | W+R | 7.5 | 3542.0 | -14.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Win | B+R | 7.5 | 3556.0 | 1.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Win | B+¾ | 7.5 | 3555.0 | 9.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zijian | Lee Donghoon | Win | W+R | 7.5 | 3546.0 | 21.0 | 
-| 2021-08-25 | 第26回三星火災杯韓国予選 | Gang Woohyeok | Lee Donghoon | Win | W+R | 6.5 | 3525.0 | 0.0 | 
-| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Win | B+T | 6.5 | 3525.0 | 0.0 | 
-| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Win | B+R | 6.5 | 3525.0 | 1.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zijian | Lee Donghoon | Win | W+R | 7.5 | 3546.0 | 20.0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Gang Woohyeok | Lee Donghoon | Win | W+R | 6.5 | 3526.0 | 0.0 | 
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Win | B+T | 6.5 | 3526.0 | 0.0 | 
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Win | B+R | 6.5 | 3526.0 | 2.0 | 
 | 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Win | B+R | 6.5 | 3524.0 | 10.0 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Win | W+R | 6.5 | 3514.0 | 21.0 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | Lose | W+R | 6.5 | 3493.0 | 1.0 | 
@@ -73,8 +74,8 @@
 | 2021-03-09 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Lee Jihyun | Lee Donghoon | Lose | B+R | 6.5 | 3466.0 | 13.0 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Lose | B+R | 6.5 | 3453.0 | -7.0 | 
 | 2021-02-21 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | Win | B+R | 6.5 | 3460.0 | 33.0 | 
-| 2021-02-15 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Win | W+R | 6.5 | 3427.0 | 6.0 | 
-| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Byun Sangil | Lose | W+R | 6.5 | 3421.0 | 4.0 | 
+| 2021-02-15 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Win | W+R | 6.5 | 3427.0 | 5.0 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Byun Sangil | Lose | W+R | 6.5 | 3422.0 | 5.0 | 
 | 2021-02-05 | 2020-2021韓国囲碁リーグ | Lee Donghoon | An Jungki | Win | B+R | 6.5 | 3417.0 | 16.0 | 
 | 2021-01-29 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Cho Hanseung | Win | B+R | 6.5 | 3401.0 | 18.0 | 
 | 2021-01-26 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Lee Donghoon | Hong Kipyo | Win | B+R | 6.5 | 3383.0 | 4.0 | 
@@ -166,10 +167,10 @@
 | 2019-07-07 | 2019年囲碁テレビ杯早碁戦8強戦 | Lee Donghoon | Park Junghwan | Lose | W+R | 6.5 | 3618.0 | -4.0 | 
 | 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Tao Xinran | Lee Donghoon | Lose | B+R | 6.5 | 3622.0 | -10.0 | 
 | 2019-06-14 | 2019年囲碁テレビ杯早碁戦16強戦 | Kang Yootaek | Lee Donghoon | Win | W+R | 6.5 | 3632.0 | 27.0 | 
-| 2019-06-07 | 第6回国手山脈杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | Win | B+R | 6.5 | 3605.0 | 5.0 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Hong Seongji | Lee Donghoon | Win | W+7.5 | 6.5 | 3600.0 | 3.0 | 
-| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Huang Xin | Lee Donghoon | Win | W+R | 7.5 | 3597.0 | 4.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Lee Donghoon | Shi Yue | Lose | W+¼ | 7.5 | 3593.0 | -24.0 | 
+| 2019-06-07 | 第6回国手山脈杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | Win | B+R | 6.5 | 3605.0 | 4.0 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Hong Seongji | Lee Donghoon | Win | W+7.5 | 6.5 | 3601.0 | 3.0 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Huang Xin | Lee Donghoon | Win | W+R | 7.5 | 3598.0 | 4.0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Lee Donghoon | Shi Yue | Lose | W+¼ | 7.5 | 3594.0 | -23.0 | 
 | 2019-05-24 | 第4回夢百合杯統合予選決勝 | Lee Donghoon | Huang Yunsong | Lose | W+R | 7.5 | 3617.0 | -20.0 | 
 | 2019-05-17 | 2019年囲碁テレビ杯早碁戦32強戦 | Park Geunho | Lee Donghoon | Win | W+R | 6.5 | 3637.0 | -15.0 | 
 | 2019-05-14 | 第38回KBS杯囲碁王戦2回戦 | Lee Donghoon | Na Hyun | Win | B+R | 6.5 | 3652.0 | 14.0 | 
@@ -194,8 +195,8 @@
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Lee Donghoon | Tuo Jiaxi | Win | B+R | 7.5 | 3575.0 | 21.0 | 
 | 2018-12-07 | 第2回クラウン・ヘテ杯1回戦 | Song Gyusang | Lee Donghoon | Win | W+R | 6.5 | 3554.0 | 8.0 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Lee Donghoon | Chen Yunong | Win | B+R | 7.5 | 3546.0 | -1.0 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Hu Yaoyu | Lee Donghoon | Win | W+R | 7.5 | 3547.0 | -11.0 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Shen Peiran | Lee Donghoon | Win | W+R | 7.5 | 3558.0 | -8.0 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Hu Yaoyu | Lee Donghoon | Win | W+R | 7.5 | 3547.0 | -12.0 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Shen Peiran | Lee Donghoon | Win | W+R | 7.5 | 3559.0 | -7.0 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 |  | Lee Donghoon | Win | W+R | 7.5 | 3566.0 | -4.0 | 
 | 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Lee Donghoon | Lee Wonyoung | Win | B+2.5 | 6.5 | 3570.0 | 3.0 | 
 | 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Lee Donghoon | Park Junghwan | Lose | W+R | 7.5 | 3567.0 | -6.0 | 
@@ -274,8 +275,8 @@
 | 2017-06-09 | 2017年韓国囲碁リーグ | Lee Donghoon | Kim Seongjae | Win | B+R | 6.5 | 3494.0 | -23.0 | 
 | 2017-06-04 | 2017年韓国囲碁リーグ | Lee Donghoon | Park Minkyu | Lose | W+R | 6.5 | 3517.0 | 7.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Tang Weixing | Lee Donghoon | Lose | B+R | 6.5 | 3510.0 | 5.0 | 
-| 2017-05-19 | 2017年韓国囲碁リーグ | Lee Donghoon | Park Jinsol | Lose | W+R | 6.5 | 3505.0 | 11.0 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Fan Tingyu | Lee Donghoon | Lose | B+R | 7.5 | 3494.0 | 0.0 | 
+| 2017-05-19 | 2017年韓国囲碁リーグ | Lee Donghoon | Park Jinsol | Lose | W+R | 6.5 | 3505.0 | 10.0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Fan Tingyu | Lee Donghoon | Lose | B+R | 7.5 | 3495.0 | 1.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Lee Donghoon | Ke Jie | Lose | W+R | 7.5 | 3494.0 | -3.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Shi Yue | Lee Donghoon | Lose | B+R | 7.5 | 3497.0 | -8.0 | 
 | 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Han Yizhou | Lee Donghoon | Win | W+R | 7.5 | 3505.0 | 2.0 | 
@@ -323,8 +324,8 @@
 | 2016-07-09 | 2016年韓国囲碁リーグ第6節 | Kang Dongyun | Lee Donghoon | Win | W+0.5 | 6.5 | 3513.0 | 2.0 | 
 | 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Liu Xing | Lee Donghoon | Win | W+R | 7.5 | 3511.0 | 12.0 | 
 | 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Xu Jiayang | Lee Donghoon | Lose | B+R | 7.5 | 3499.0 | -10.0 | 
-| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Lee Donghoon | Liao Yuanhe | Win | B+R | 7.5 | 3509.0 | 2.0 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Qiu Jun | Lee Donghoon | Win | W+R | 7.5 | 3507.0 | 9.0 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Lee Donghoon | Liao Yuanhe | Win | B+R | 7.5 | 3509.0 | 1.0 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Qiu Jun | Lee Donghoon | Win | W+R | 7.5 | 3508.0 | 10.0 | 
 | 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Lee Donghoon | Park Seunghwa | Lose | W+0.5 | 6.5 | 3498.0 | -24.0 | 
 | 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Mi Yuting | Lee Donghoon | Win | W+4.5 | 7.5 | 3522.0 | 4.0 | 
 | 2016-06-16 | 2016年韓国囲碁リーグ第4節 | Heo Yongho | Lee Donghoon | Win | W+R | 6.5 | 3518.0 | 12.0 | 
@@ -448,8 +449,8 @@
 | 2014-09-11 | 2014年レッツランパーク杯オープントーナメント2回戦 | Lee Donghoon | Kang Yootaek | Lose | W+R | 6.5 | 3261.0 | -10.0 | 
 | 2014-09-06 | 2014年韓国囲碁リーグ | Shin Minjun | Lee Donghoon | Lose | B+R | 6.5 | 3271.0 | 0.0 | 
 | 2014-08-22 | 第42期名人戦（韓国）2回戦 | Lee Donghoon | Kang Dongyun | Win | B+R | 6.5 | 3271.0 | 37.0 | 
-| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | Lose | W+T | 7.5 | 3234.0 | -19.0 | 
-| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Lee Donghoon | Xie Ke | Win | B+R | 7.5 | 3253.0 | 15.0 | 
+| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | Lose | W+T | 7.5 | 3234.0 | -20.0 | 
+| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Lee Donghoon | Xie Ke | Win | B+R | 7.5 | 3254.0 | 16.0 | 
 | 2014-08-08 | 2014年韓国囲碁リーグ | Lee Donghoon | Ahn Kukhyun | Lose | W+R | 6.5 | 3238.0 | -7.0 | 
 | 2014-08-06 | 第19回三星火災杯統合予選決勝 | Kim Seongjae | Lee Donghoon | Lose | B+R | 6.5 | 3245.0 | -48.0 | 
 | 2014-07-31 | 第42期名人戦（韓国）1回戦 | Lee Donghoon | An Sungjoon | Win | B+R | 6.5 | 3293.0 | 27.0 | 

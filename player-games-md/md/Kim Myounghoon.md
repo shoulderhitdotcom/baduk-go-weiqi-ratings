@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Kim Myounghoon | Shi Yue | Win | B+R | 7.5 | 3539.0 | 14.0 | 
 | 2022-03-21 | 2022YK建機杯リーグ |  | Kim Myounghoon | Win | W+R | 6.5 | 3525.0 | 3.0 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Seol Hyunjun | Lose | W+R | 6.5 | 3522.0 | -16.0 | 
 | 2022-03-17 | 第5期韓国竜星戦2回戦 | Lee Changseok | Kim Myounghoon | Win | W+R | 6.5 | 3538.0 | 11.0 | 
@@ -96,8 +97,8 @@
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Kim Myounghoon | Mao Ruilong | Lose | W+1¼ | 7.5 | 3389.0 | -17.0 | 
 | 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第4局 | Yun Chanhee | Kim Myounghoon | Win | W+R | 6.5 | 3406.0 | -23.0 | 
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第2局 | Choi Jeong | Kim Myounghoon | Win | W+R | 6.5 | 3429.0 | 26.0 | 
-| 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第3局 | Kim Myounghoon | Byun Sangil | Lose | W+R | 6.5 | 3403.0 | 24.0 | 
-| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Kim Myounghoon | Yi Lingtao | Lose | W+R | 7.5 | 3379.0 | -31.0 | 
+| 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第3局 | Kim Myounghoon | Byun Sangil | Lose | W+R | 6.5 | 3403.0 | 23.0 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Kim Myounghoon | Yi Lingtao | Lose | W+R | 7.5 | 3380.0 | -30.0 | 
 | 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第5局 | Park Joonhoon | Kim Myounghoon | Win | W+R | 6.5 | 3410.0 | -1.0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Chen Zhengxun | Kim Myounghoon | Win | W+R | 7.5 | 3411.0 | -10.0 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tang Weixing | Kim Myounghoon | Lose | B+R | 7.5 | 3421.0 | 7.0 | 

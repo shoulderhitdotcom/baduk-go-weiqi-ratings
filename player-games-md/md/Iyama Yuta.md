@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Kim Jiseok | Lose | W+R | 7.5 | 3564.0 | -16.0 | 
 | 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3580.0 | 3.0 | 
 | 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3577.0 | 4.0 | 
-| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3573.0 | 17.0 | 
-| 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Lose | W+R | 6.5 | 3556.0 | -17.0 | 
+| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3573.0 | 16.0 | 
+| 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Lose | W+R | 6.5 | 3557.0 | -16.0 | 
 | 2022-02-19 | 第46期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3573.0 | -20.0 | 
 | 2022-02-05 | 第46期棋聖戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3593.0 | 0.0 | 
 | 2022-01-22 | 第46期棋聖戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3593.0 | -4.0 | 
@@ -31,20 +32,20 @@
 | 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | Lose | W+R | 6.5 | 3494.0 | -15.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Win | W+R | 7.5 | 3509.0 | 15.0 | 
 | 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3494.0 | 3.0 | 
-| 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3491.0 | -1.0 | 
-| 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3492.0 | 4.0 | 
+| 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3491.0 | -2.0 | 
+| 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3493.0 | 5.0 | 
 | 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3488.0 | -38.0 | 
-| 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3526.0 | 8.0 | 
-| 2021-09-02 | 第69期王座戦準決勝  | Cho U | Iyama Yuta | Win | W+4.5 | 6.5 | 3518.0 | -2.0 | 
-| 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3520.0 | 18.0 | 
-| 2021-08-27 | 第46期名人戦挑戦手合七番勝負第1局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3502.0 | 10.0 | 
-| 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3492.0 | 17.0 | 
+| 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3526.0 | 7.0 | 
+| 2021-09-02 | 第69期王座戦準決勝  | Cho U | Iyama Yuta | Win | W+4.5 | 6.5 | 3519.0 | -2.0 | 
+| 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3521.0 | 18.0 | 
+| 2021-08-27 | 第46期名人戦挑戦手合七番勝負第1局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3503.0 | 10.0 | 
+| 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3493.0 | 18.0 | 
 | 2021-08-20 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Adachi Toshimasa | Win | B+R | 6.5 | 3475.0 | 0.0 | 
 | 2021-08-17 | 第46期碁聖戦挑戦手合五番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3475.0 | -5.0 | 
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3480.0 | 22.0 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3458.0 | 14.0 | 
-| 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3444.0 | -13.0 | 
-| 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3457.0 | -9.0 | 
+| 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3444.0 | -14.0 | 
+| 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3458.0 | -8.0 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3466.0 | 18.0 | 
 | 2021-06-30 | 第76期本因坊戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3448.0 | 3.0 | 
 | 2021-06-26 | 第46期碁聖戦挑戦手合五番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3445.0 | -3.0 | 
@@ -143,8 +144,8 @@
 | 2019-06-27 | 第44期名人戦リーグ | Iyama Yuta | Sun Zhe | Win | B+R | 6.5 | 3365.0 | 1.0 | 
 | 2019-06-21 | 第31回テレビアジア選手権1回戦 | Shin Minjun | Iyama Yuta | Lose | B+R | 7.5 | 3364.0 | -11.0 | 
 | 2019-06-19 | 第74期本因坊戦挑戦手合七番勝負第5局 | Kono Rin | Iyama Yuta | Win | W+4.5 | 6.5 | 3375.0 | -10.0 | 
-| 2019-06-14 | 第74期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Kono Rin | Win | B+R | 6.5 | 3385.0 | 15.0 | 
-| 2019-06-05 | 第74期本因坊戦挑戦手合七番勝負第3局 | Kono Rin | Iyama Yuta | Win | W+0.5 | 6.5 | 3370.0 | -1.0 | 
+| 2019-06-14 | 第74期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Kono Rin | Win | B+R | 6.5 | 3385.0 | 14.0 | 
+| 2019-06-05 | 第74期本因坊戦挑戦手合七番勝負第3局 | Kono Rin | Iyama Yuta | Win | W+0.5 | 6.5 | 3371.0 | 0.0 | 
 | 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Iyama Yuta | Ke Jie | Lose | W+R | 6.5 | 3371.0 | -12.0 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Iyama Yuta | Li Xuanhao | Win | B+R | 6.5 | 3383.0 | 2.0 | 
 | 2019-05-23 | 第74期本因坊戦挑戦手合七番勝負第2局 | Iyama Yuta | Kono Rin | Lose | W+R | 6.5 | 3381.0 | -26.0 | 
@@ -163,10 +164,10 @@
 | 2019-03-29 | 第57期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | Lose | W+R | 6.5 | 3430.0 | -9.0 | 
 | 2019-03-19 | 第3回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Iyama Yuta | Lose | B+R | 6.5 | 3439.0 | 6.0 | 
 | 2019-03-18 | 第3回ワールド碁チャンピオンシップ1回戦  | Iyama Yuta | Jiang Weijie | Win | B+R | 6.5 | 3433.0 | -1.0 | 
-| 2019-03-15 | 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Win | W+6.5 | 6.5 | 3434.0 | 1.0 | 
-| 2019-03-08 | 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Lose | W+R | 6.5 | 3433.0 | -4.0 | 
-| 2019-03-05 | 第57期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3437.0 | 7.0 | 
-| 2019-02-28 | 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | B+6.5 | 6.5 | 3430.0 | -11.0 | 
+| 2019-03-15 | 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Win | W+6.5 | 6.5 | 3434.0 | 0.0 | 
+| 2019-03-08 | 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Lose | W+R | 6.5 | 3434.0 | -4.0 | 
+| 2019-03-05 | 第57期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3438.0 | 7.0 | 
+| 2019-02-28 | 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | B+6.5 | 6.5 | 3431.0 | -10.0 | 
 | 2019-02-18 | 第20回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Lose | B+R | 6.5 | 3441.0 | -9.0 | 
 | 2019-02-14 | 第43期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | B+R | 6.5 | 3450.0 | 5.0 | 
 | 2019-02-07 | 第44期名人戦リーグ | Iyama Yuta | Shibano Toramaru | Lose | W+1.5 | 6.5 | 3445.0 | -19.0 | 
@@ -188,8 +189,8 @@
 | 2018-10-26 | 第66期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Ichiriki Ryo | Lose | W+2.5 | 6.5 | 3487.0 | -5.0 | 
 | 2018-10-23 | 第43期名人戦挑戦手合七番勝負第6局  | Cho U | Iyama Yuta | Lose | B+R | 6.5 | 3492.0 | -18.0 | 
 | 2018-10-19 | 第44期天元戦挑戦手合五番勝負第1局  | Yamashita Keigo | Iyama Yuta | Win | W+R | 6.5 | 3510.0 | 5.0 | 
-| 2018-10-16 | 第43期名人戦挑戦手合七番勝負第5局  | Iyama Yuta | Cho U | Lose | W+9.5 | 6.5 | 3505.0 | -24.0 | 
-| 2018-10-11 | 第43期名人戦挑戦手合七番勝負第4局  | Cho U | Iyama Yuta | Win | W+R | 6.5 | 3529.0 | -5.0 | 
+| 2018-10-16 | 第43期名人戦挑戦手合七番勝負第5局  | Iyama Yuta | Cho U | Lose | W+9.5 | 6.5 | 3505.0 | -25.0 | 
+| 2018-10-11 | 第43期名人戦挑戦手合七番勝負第4局  | Cho U | Iyama Yuta | Win | W+R | 6.5 | 3530.0 | -4.0 | 
 | 2018-10-02 | 第23回三星火災杯世界囲碁マスターズ3回戦 | Iyama Yuta | Xie Erhao | Lose | W+R | 6.5 | 3534.0 | -4.0 | 
 | 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Iyama Yuta | Li Xuanhao | Win | B+R | 6.5 | 3538.0 | -5.0 | 
 | 2018-09-26 | 第43期名人戦挑戦手合七番勝負第3局  | Iyama Yuta | Cho U | Lose | W+4.5 | 6.5 | 3543.0 | -3.0 | 
@@ -217,13 +218,13 @@
 | 2018-05-02 | 第30回テレビアジア選手権1回戦 | Iyama Yuta | Fan Tingyu | Lose | W+R | 6.5 | 3576.0 | 42.0 | 
 | 2018-04-12 | 第56期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Iyama Yuta | Win | W+4.5 | 6.5 | 3534.0 | 16.0 | 
 | 2018-03-31 | 第5回グランドチャンピオン戦準決勝  | Motoki Katsuya | Iyama Yuta | Win | W+R | 6.5 | 3518.0 | 0.0 | 
-| 2018-03-31 | 第5回グランドチャンピオン戦決勝 | Iyama Yuta | Kono Rin | Win | B+R | 6.5 | 3518.0 | 7.0 | 
-| 2018-03-22 | 第56期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | Win | B+R | 6.5 | 3511.0 | 23.0 | 
+| 2018-03-31 | 第5回グランドチャンピオン戦決勝 | Iyama Yuta | Kono Rin | Win | B+R | 6.5 | 3518.0 | 6.0 | 
+| 2018-03-22 | 第56期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | Win | B+R | 6.5 | 3512.0 | 24.0 | 
 | 2018-03-19 | 第2回ワールド碁チャンピオンシップ決勝  | Iyama Yuta | Park Junghwan | Lose | W+R | 6.5 | 3488.0 | -3.0 | 
 | 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Iyama Yuta | Yamashita Keigo | Win | B+R | 6.5 | 3491.0 | 5.0 | 
-| 2018-03-06 | 第56期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3486.0 | 16.0 | 
-| 2018-02-26 | 第19回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Dang Yifei | Lose | W+R | 6.5 | 3470.0 | 2.0 | 
-| 2018-02-16 | 第42期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3468.0 | 15.0 | 
+| 2018-03-06 | 第56期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3486.0 | 15.0 | 
+| 2018-02-26 | 第19回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Dang Yifei | Lose | W+R | 6.5 | 3471.0 | 2.0 | 
+| 2018-02-16 | 第42期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3469.0 | 16.0 | 
 | 2018-02-08 | 第22回LG杯朝鮮日報棋王戦決勝三番勝負第三局 | Iyama Yuta | Xie Erhao | Lose | W+R | 6.5 | 3453.0 | -8.0 | 
 | 2018-02-07 | 第22回LG杯朝鮮日報棋王戦決勝三番勝負第二局 | Xie Erhao | Iyama Yuta | Win | W+0.5 | 6.5 | 3461.0 | 8.0 | 
 | 2018-02-05 | 第22回LG杯朝鮮日報棋王戦決勝三番勝負第一局 | Iyama Yuta | Xie Erhao | Lose | W+R | 6.5 | 3453.0 | -3.0 | 
@@ -247,8 +248,8 @@
 | 2017-09-15 | 第29回テレビアジア選手権1回戦 | Iyama Yuta | Lee Sedol | Lose | W+R | 7.5 | 3429.0 | 16.0 | 
 | 2017-09-13 | 第42期名人戦挑戦手合七番勝負第2局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3413.0 | -1.0 | 
 | 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦A3 | Iyama Yuta | Fan Yunruo | Win | B+R | 6.5 | 3414.0 | 25.0 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦A2 | Mateusz Surma | Iyama Yuta | Win | W+R | 6.5 | 3389.0 | 5.0 | 
-| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦A1 | Iyama Yuta | Fan Yunruo | Lose | W+R | 6.5 | 3384.0 | -9.0 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦A2 | Mateusz Surma | Iyama Yuta | Win | W+R | 6.5 | 3389.0 | 4.0 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦A1 | Iyama Yuta | Fan Yunruo | Lose | W+R | 6.5 | 3385.0 | -8.0 | 
 | 2017-08-31 | 第42期名人戦挑戦手合七番勝負第1局 | Iyama Yuta | Takao Shinji | Lose | W+0.5 | 6.5 | 3393.0 | 15.0 | 
 | 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント予選第2局 | Iyama Yuta | Seto Taiki | Lose | W+R | 6.5 | 3378.0 | -26.0 | 
 | 2017-08-03 | 第42期名人戦リーグ | Iyama Yuta | Yu Zhengqi | Win | B+R | 6.5 | 3404.0 | 22.0 | 
@@ -265,8 +266,8 @@
 | 2017-06-05 | 第42期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Win | B+R | 6.5 | 3436.0 | 4.0 | 
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Iyama Yuta | Zhou Ruiyang | Win | B+R | 6.5 | 3432.0 | 16.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Lee Yeongkyu | Iyama Yuta | Win | W+R | 6.5 | 3416.0 | 21.0 | 
-| 2017-05-24 | 第72期本因坊戦挑戦手合七番勝負　第二局 | Motoki Katsuya | Iyama Yuta | Win | W+R | 6.5 | 3395.0 | 7.0 | 
-| 2017-05-18 | 第42期名人戦リーグ | Cho U | Iyama Yuta | Win | W+R | 6.5 | 3388.0 | 18.0 | 
+| 2017-05-24 | 第72期本因坊戦挑戦手合七番勝負　第二局 | Motoki Katsuya | Iyama Yuta | Win | W+R | 6.5 | 3395.0 | 6.0 | 
+| 2017-05-18 | 第42期名人戦リーグ | Cho U | Iyama Yuta | Win | W+R | 6.5 | 3389.0 | 19.0 | 
 | 2017-05-10 | 第72期本因坊戦挑戦手合七番勝負　第一局 | Iyama Yuta | Motoki Katsuya | Win | B+R | 6.5 | 3370.0 | 34.0 | 
 | 2017-04-30 | 関西合宿個人戦順位決定戦 | Ha Youngil | Iyama Yuta | Lose | B+3.5 | 6.5 | 3336.0 | 0.0 | 
 | 2017-04-30 | 関西合宿個人戦1回戦 | Iyama Yuta | Yuki Satoshi | Lose | W+R | 6.5 | 3336.0 | -65.0 | 
@@ -320,8 +321,8 @@
 | 2016-06-25 | 第41期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Win | B+R | 6.5 | 3683.0 | 53.0 | 
 | 2016-06-14 | 第71期本因坊戦挑戦手合七番勝負第4局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3630.0 | -9.0 | 
 | 2016-06-03 | 第71期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Takao Shinji | Win | B+R | 6.5 | 3639.0 | -16.0 | 
-| 2016-05-24 | 第71期本因坊戦挑戦手合七番勝負第2局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3655.0 | -41.0 | 
-| 2016-05-10 | 第71期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Takao Shinji | Lose | W+R | 6.5 | 3696.0 | -28.0 | 
+| 2016-05-24 | 第71期本因坊戦挑戦手合七番勝負第2局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3655.0 | -42.0 | 
+| 2016-05-10 | 第71期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Takao Shinji | Lose | W+R | 6.5 | 3697.0 | -27.0 | 
 | 2016-04-20 | 第54期十段戦挑戦手合五番勝負第4局 | Iyama Yuta | Ida Atsushi | Win | B+R | 6.5 | 3724.0 | 10.0 | 
 | 2016-04-14 | 第54期十段戦挑戦手合五番勝負第3局 | Ida Atsushi | Iyama Yuta | Lose | B+R | 6.5 | 3714.0 | -3.0 | 
 | 2016-03-23 | 第54期十段戦挑戦手合五番勝負第2局 | Iyama Yuta | Ida Atsushi | Win | B+R | 6.5 | 3717.0 | 50.0 | 
@@ -338,9 +339,9 @@
 | 2015-11-19 | 第63期王座戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | Win | B+R | 6.5 | 3478.0 | 19.0 | 
 | 2015-11-16 | 第41期天元戦挑戦手合五番勝負第2局 | Takao Shinji | Iyama Yuta | Win | W+0.5 | 6.5 | 3459.0 | -1.0 | 
 | 2015-11-12 | 第63期王座戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3460.0 | -1.0 | 
-| 2015-11-05 | 第54期十段戦3回戦 | Iyama Yuta | Yuki Satoshi | Win | B+R | 6.5 | 3461.0 | -2.0 | 
-| 2015-10-23 | 第41期天元戦挑戦手合五番勝負第1局 | Iyama Yuta | Takao Shinji | Win | B+R | 6.5 | 3463.0 | 5.0 | 
-| 2015-10-20 | 第63期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3458.0 | -18.0 | 
+| 2015-11-05 | 第54期十段戦3回戦 | Iyama Yuta | Yuki Satoshi | Win | B+R | 6.5 | 3461.0 | -3.0 | 
+| 2015-10-23 | 第41期天元戦挑戦手合五番勝負第1局 | Iyama Yuta | Takao Shinji | Win | B+R | 6.5 | 3464.0 | 5.0 | 
+| 2015-10-20 | 第63期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3459.0 | -17.0 | 
 | 2015-10-10 | 第22期阿含・桐山杯全日本早碁オープン戦決勝 | Iyama Yuta | Hsu Chiayuan | Win | B+R | 6.5 | 3476.0 | -6.0 | 
 | 2015-10-06 | 第40期名人戦挑戦手合七番勝負第4局 | Iyama Yuta | Takao Shinji | Win | B+R | 6.5 | 3482.0 | -50.0 | 
 | 2015-10-01 | 第54期十段戦2回戦 | Iyama Yuta | Cho Chikun | Win | B+R | 6.5 | 3532.0 | -13.0 | 
@@ -348,8 +349,8 @@
 | 2015-09-18 | 第40期名人戦挑戦手合七番勝負第2局 | Iyama Yuta | Takao Shinji | Win | B+0.5 | 6.5 | 3518.0 | 1.0 | 
 | 2015-09-10 | 第41期天元戦挑戦者決定戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3517.0 | -12.0 | 
 | 2015-09-07 | 第63期王座戦挑戦者決定戦 | Iyama Yuta | Yu Zhengqi | Win | B+R | 6.5 | 3529.0 | 16.0 | 
-| 2015-09-04 | 第40期名人戦挑戦手合七番勝負第1局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3513.0 | -32.0 | 
-| 2015-08-24 | 第22期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Sun Zhe | Win | B+7.5 | 6.5 | 3545.0 | -18.0 | 
+| 2015-09-04 | 第40期名人戦挑戦手合七番勝負第1局 | Takao Shinji | Iyama Yuta | Win | W+R | 6.5 | 3513.0 | -33.0 | 
+| 2015-08-24 | 第22期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Sun Zhe | Win | B+7.5 | 6.5 | 3546.0 | -17.0 | 
 | 2015-08-17 | 第63期王座戦準決勝 | Iyama Yuta | Yuki Satoshi | Win | B+R | 6.5 | 3563.0 | 0.0 | 
 | 2015-08-07 | 第40期碁聖戦挑戦手合五番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | W+R | 6.5 | 3563.0 | 8.0 | 
 | 2015-08-03 | 第22期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Mizokami Tomochika | Win | B+R | 6.5 | 3555.0 | 3.0 | 
@@ -403,9 +404,9 @@
 | 2014-09-11 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Kobayashi Koichi | Win | B+R | 6.5 | 3498.0 | 13.0 | 
 | 2014-09-05 | 第39期名人戦挑戦手合七番勝負第1局 | Kono Rin | Iyama Yuta | Win | W+R | 6.5 | 3485.0 | 51.0 | 
 | 2014-08-29 | 第39期碁聖戦挑戦手合五番勝負第5局 | Kono Rin | Iyama Yuta | Win | W+R | 6.5 | 3434.0 | -7.0 | 
-| 2014-08-25 | 第39期碁聖戦挑戦手合五番勝負第4局 | Iyama Yuta | Kono Rin | Lose | W+R | 6.5 | 3441.0 | -31.0 | 
-| 2014-08-17 | 第26回テレビアジア選手権準決勝 | Lee Sedol | Iyama Yuta | Lose | B+3.5 | 7.5 | 3472.0 | -15.0 | 
-| 2014-08-11 | 第39期碁聖戦挑戦手合五番勝負第3局 | Kono Rin | Iyama Yuta | Win | W+R | 6.5 | 3487.0 | 7.0 | 
+| 2014-08-25 | 第39期碁聖戦挑戦手合五番勝負第4局 | Iyama Yuta | Kono Rin | Lose | W+R | 6.5 | 3441.0 | -32.0 | 
+| 2014-08-17 | 第26回テレビアジア選手権準決勝 | Lee Sedol | Iyama Yuta | Lose | B+3.5 | 7.5 | 3473.0 | -15.0 | 
+| 2014-08-11 | 第39期碁聖戦挑戦手合五番勝負第3局 | Kono Rin | Iyama Yuta | Win | W+R | 6.5 | 3488.0 | 8.0 | 
 | 2014-08-07 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Ida Atsushi | Iyama Yuta | Win | W+R | 6.5 | 3480.0 | -8.0 | 
 | 2014-07-20 | 第39期碁聖戦挑戦手合五番勝負第2局 | Iyama Yuta | Kono Rin | Win | B+R | 6.5 | 3488.0 | 7.0 | 
 | 2014-07-01 | 第69期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Ida Atsushi | Win | B+R | 6.5 | 3481.0 | -33.0 | 

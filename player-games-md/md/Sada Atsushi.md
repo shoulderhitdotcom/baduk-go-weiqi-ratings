@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Sada Atsushi | Tang Weixing | Lose | W+R | 7.5 | 3256.0 | 23.0 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Mi Yuting | Sada Atsushi | Win | W+R | 7.5 | 3233.0 | 7.0 | 
 | 2022-03-14 | 第77期本因坊戦リーグ | Motoki Katsuya | Sada Atsushi | Win | W+R | 6.5 | 3226.0 | 27.0 | 
 | 2022-02-09 | 第70期王座戦予選 | Hong Seokui | Sada Atsushi | Win | W+R | 6.5 | 3199.0 | 1.0 | 
@@ -30,8 +31,8 @@
 | 2021-10-20 | 第47期碁聖戦予選 | Saito Tadashi | Sada Atsushi | Win | W+R | 6.5 | 3120.0 | 31.0 | 
 | 2021-10-07 | 第47期名人戦予選 | Sada Atsushi | Takao Shinji | Lose | W+R | 6.5 | 3089.0 | 26.0 | 
 | 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Win | W+R | 6.5 | 3063.0 | 0.0 | 
-| 2021-09-30 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sada Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 3063.0 | -19.0 | 
-| 2021-09-16 | 第46期棋聖戦Cリーグ |  | Sada Atsushi | Win | W+1.5 | 6.5 | 3082.0 | -29.0 | 
+| 2021-09-30 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sada Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 3063.0 | -20.0 | 
+| 2021-09-16 | 第46期棋聖戦Cリーグ |  | Sada Atsushi | Win | W+1.5 | 6.5 | 3083.0 | -28.0 | 
 | 2021-08-19 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Sada Atsushi | Lose | B+R | 6.5 | 3111.0 | -37.0 | 
 | 2021-08-11 | 第47期名人戦予選 | Fujii Shuya | Sada Atsushi | Win | W+R | 6.5 | 3148.0 | 3.0 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Win | B+3.5 | 6.5 | 3145.0 | 4.0 | 
@@ -40,17 +41,17 @@
 | 2021-07-08 | 第65期関西棋院第一位決定戦挑戦者決定戦 | Sada Atsushi | Watanabe Kandai | Win | B+R | 6.5 | 3180.0 | 12.0 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Sada Atsushi | Chujo Chihiro | Win | B+R | 6.5 | 3168.0 | 14.0 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Ohashi Hirofumi | Sada Atsushi | Win | W+6.5 | 6.5 | 3154.0 | 28.0 | 
-| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3126.0 | 32.0 | 
-| 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Lose | B+R | 6.5 | 3094.0 | -19.0 | 
-| 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Win | W+R | 6.5 | 3113.0 | 43.0 | 
+| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3126.0 | 31.0 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Lose | B+R | 6.5 | 3095.0 | -19.0 | 
+| 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Win | W+R | 6.5 | 3114.0 | 44.0 | 
 | 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Win | W+R | 6.5 | 3070.0 | 83.0 | 
 | 2021-04-02 | 第76期本因坊戦リーグ  | Hsu Chiayuan | Sada Atsushi | Lose | B+R | 6.5 | 2987.0 | 10.0 | 
 | 2021-03-24 | 第65期関西棋院第一位決定戦本戦2回戦 | Kan Minu | Sada Atsushi | Win | W+R | 6.5 | 2977.0 | 1.0 | 
 | 2021-03-17 | 第46期棋聖戦予選 | Sada Atsushi | Aragaki Shun | Win | B+R | 6.5 | 2976.0 | -23.0 | 
 | 2021-03-11 | 第69期王座戦予選 | Shida Tatsuya | Sada Atsushi | Lose | B+R | 6.5 | 2999.0 | -37.0 | 
 | 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | Win | W+R | 6.5 | 3036.0 | 39.0 | 
-| 2021-02-18 | 第46期新人王戦1回戦 | Sada Atsushi | Koike Yoshihiro | Lose | W+0.5 | 6.5 | 2997.0 | 7.0 | 
-| 2021-01-21 | 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 2990.0 | -61.0 | 
+| 2021-02-18 | 第46期新人王戦1回戦 | Sada Atsushi | Koike Yoshihiro | Lose | W+0.5 | 6.5 | 2997.0 | 6.0 | 
+| 2021-01-21 | 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 2991.0 | -60.0 | 
 | 2021-01-13 | 第69期王座戦予選 | Sada Atsushi | Hong Seokui | Win | B+1.5 | 6.5 | 3051.0 | 35.0 | 
 | 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 | Sada Atsushi | Lai Junfu | Win | B+R | 6.5 | 3016.0 | 22.0 | 
 | 2020-12-10 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | Lose | B+R | 6.5 | 2994.0 | -8.0 | 
@@ -87,12 +88,12 @@
 | 2019-12-12 | 第76期本因坊戦予選 | Hara Masakazu | Sada Atsushi | Win | W+R | 6.5 | 3275.0 | 85.0 | 
 | 2019-10-24 | 第64期関西棋院第一位決定戦本戦1回戦 | Sada Atsushi |  | Win | B+R | 6.5 | 3190.0 | 38.0 | 
 | 2019-10-02 | 第45期碁聖戦予選A決勝 | Kunisawa Hiroto | Sada Atsushi | Win | W+R | 6.5 | 3152.0 | -11.0 | 
-| 2019-09-12 | 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | Lose | W+R | 6.5 | 3163.0 | 11.0 | 
-| 2019-08-21 | 第45期名人戦予選A決勝 | Yu Zhengqi | Sada Atsushi | Win | W+1.5 | 6.5 | 3152.0 | 26.0 | 
-| 2019-08-15 | 第45期天元戦挑戦者決定戦 | Sada Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 3126.0 | -5.0 | 
+| 2019-09-12 | 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | Lose | W+R | 6.5 | 3163.0 | 10.0 | 
+| 2019-08-21 | 第45期名人戦予選A決勝 | Yu Zhengqi | Sada Atsushi | Win | W+1.5 | 6.5 | 3153.0 | 26.0 | 
+| 2019-08-15 | 第45期天元戦挑戦者決定戦 | Sada Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 3127.0 | -4.0 | 
 | 2019-07-29 | 第45期天元戦準決勝 | Sada Atsushi | Kono Rin | Win | B+R | 6.5 | 3131.0 | 46.0 | 
-| 2019-07-04 | 第45期天元戦3回戦 | Sada Atsushi | Cho U | Win | B+1.5 | 6.5 | 3085.0 | 29.0 | 
-| 2019-05-05 | 関西合宿決勝トーナメント | Sada Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 3056.0 | -47.0 | 
+| 2019-07-04 | 第45期天元戦3回戦 | Sada Atsushi | Cho U | Win | B+1.5 | 6.5 | 3085.0 | 28.0 | 
+| 2019-05-05 | 関西合宿決勝トーナメント | Sada Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 3057.0 | -46.0 | 
 | 2019-04-18 | 第45期天元戦2回戦 | Sada Atsushi | Motoki Katsuya | Win | B+6.5 | 6.5 | 3103.0 | 65.0 | 
 | 2019-04-10 | 第75期本因坊戦予選A準決勝 | Sada Atsushi | Imamura Toshiya | Lose | W+3.5 | 6.5 | 3038.0 | -40.0 | 
 | 2019-04-01 | 第24回LG杯統合予選1回戦 |  | Sada Atsushi | Win | W+R | 6.5 | 3078.0 | 76.0 | 
@@ -141,8 +142,8 @@
 | 2016-11-28 | 第1回日本囲碁リーグクライマックスシリーズ 第2ステージ 三将戦 | Sada Atsushi | Kan Minu | Win | B+R | 6.5 | 3023.0 | 3.0 | 
 | 2016-11-02 | 第73期 本因坊戦 予選B | Sada Atsushi | Honda Kunihisa | Win | B+R | 6.5 | 3020.0 | 41.0 | 
 | 2016-10-26 | 第61期関西棋院第一位決定戦　本戦1回戦 | Imamura Toshiya | Sada Atsushi | Lose | B+R | 6.5 | 2979.0 | 95.0 | 
-| 2016-08-25 | 第65期王座戦　予選B | Hara Masakazu | Sada Atsushi | Lose | B+R | 6.5 | 2884.0 | -69.0 | 
-| 2016-08-17 | 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 2953.0 | 26.0 | 
+| 2016-08-25 | 第65期王座戦　予選B | Hara Masakazu | Sada Atsushi | Lose | B+R | 6.5 | 2884.0 | -70.0 | 
+| 2016-08-17 | 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 2954.0 | 27.0 | 
 | 2016-07-05 | 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Koike Yoshihiro | Lose | W+2.5 | 6.5 | 2927.0 | 0.0 | 
 | 2016-07-05 | 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Antti Tormanen | Win | B+R | 6.5 | 2927.0 | -56.0 | 
 | 2016-05-05 | 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | Lose | B+R | 6.5 | 2983.0 | 66.0 | 

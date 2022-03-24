@@ -7,15 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-09 | 第1回テイケイ杯レジェンド戦準決勝 | Aoki Kikuyo | Kato Tomoko | Lose | B+1.5 | 6.5 | 2906.0 | -281.0 | 
-| 2022-01-31 | 第1回テイケイ杯レジェンド戦2回戦 | Kato Tomoko | Rin Kaiho | Win | B+R | 6.5 | 3187.0 | 0.0 | 
-| 2022-01-06 | 第1回テイケイ杯レジェンド戦1回戦 | Kato Tomoko | Ishii Kunio | Win | B+R | 6.5 | 3187.0 | 287.0 | 
-| 2021-12-11 | 第1回テイケイ杯女流レジェンド戦決勝 | Kato Tomoko | Aoki Kikuyo | Lose | W+4.5 | 6.5 | 2900.0 | 416.0 | 
-| 2021-12-02 | 第1回テイケイ杯女流レジェンド戦準決勝 | Tsukuda Akiko | Kato Tomoko | Win | W+R | 6.5 | 2484.0 | 0.0 | 
-| 2021-11-11 | 第1回テイケイ杯女流レジェンド戦2回戦 | Inori Yoko | Kato Tomoko | Win | W+4.5 | 6.5 | 2484.0 | 0.0 | 
-| 2021-10-21 | 第1回テイケイ杯女流レジェンド戦1回戦 | Kato Tomoko | Yoshida Mika | Win | B+1.5 | 6.5 | 2484.0 | 0.0 | 
-| 2020-07-02 | 第39期女流本因坊戦3回戦 | Kato Tomoko | Mukai Chiaki | Lose | W+3.5 | 6.5 | 2484.0 | 298.0 | 
-| 2020-02-20 | 第39期女流本因坊戦1回戦 | Kobayashi Izumi | Kato Tomoko | Win | W+2.5 | 6.5 | 2186.0 | -54.0 | 
+| 2022-03-24 | 第41期女流本因坊戦予選 | Ikeda Ayako | Kato Tomoko | Lose | B+R | 6.5 | 2836.0 | -59.0 | 
+| 2022-03-09 | 第1回テイケイ杯レジェンド戦準決勝 | Aoki Kikuyo | Kato Tomoko | Lose | B+1.5 | 6.5 | 2895.0 | -283.0 | 
+| 2022-01-31 | 第1回テイケイ杯レジェンド戦2回戦 | Kato Tomoko | Rin Kaiho | Win | B+R | 6.5 | 3178.0 | 0.0 | 
+| 2022-01-06 | 第1回テイケイ杯レジェンド戦1回戦 | Kato Tomoko | Ishii Kunio | Win | B+R | 6.5 | 3178.0 | 286.0 | 
+| 2021-12-11 | 第1回テイケイ杯女流レジェンド戦決勝 | Kato Tomoko | Aoki Kikuyo | Lose | W+4.5 | 6.5 | 2892.0 | 410.0 | 
+| 2021-12-02 | 第1回テイケイ杯女流レジェンド戦準決勝 | Tsukuda Akiko | Kato Tomoko | Win | W+R | 6.5 | 2482.0 | 0.0 | 
+| 2021-11-11 | 第1回テイケイ杯女流レジェンド戦2回戦 | Inori Yoko | Kato Tomoko | Win | W+4.5 | 6.5 | 2482.0 | 0.0 | 
+| 2021-10-21 | 第1回テイケイ杯女流レジェンド戦1回戦 | Kato Tomoko | Yoshida Mika | Win | B+1.5 | 6.5 | 2482.0 | 0.0 | 
+| 2020-07-02 | 第39期女流本因坊戦3回戦 | Kato Tomoko | Mukai Chiaki | Lose | W+3.5 | 6.5 | 2482.0 | 297.0 | 
+| 2020-02-20 | 第39期女流本因坊戦1回戦 | Kobayashi Izumi | Kato Tomoko | Win | W+2.5 | 6.5 | 2185.0 | -55.0 | 
 | 2019-12-19 | 第39期女流本因坊戦予選 | Kaneko Maki | Kato Tomoko | Win | W+R | 6.5 | 2240.0 | 0.0 | 
 | 2019-10-07 | 第2回SGW杯中庸戦予選 | Kato Tomoko | Yanaka Katsunori | Lose | W+R | 6.5 | 2240.0 | 0.0 | 
 | 2019-03-21 | 第38期女流本因坊戦1回戦 | Kato Tomoko | Kobayashi Izumi | Lose | W+R | 6.5 | 2240.0 | 0.0 | 

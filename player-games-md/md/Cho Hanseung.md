@@ -7,11 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Win | B+R | 7.5 | 3287.0 | 0.0 | 
-| 2022-03-28 | 2022年アジア競技大会韓国予選 | Song Gyusang | Cho Hanseung | Lose | B+R | 7.5 | 3287.0 | -20.0 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ |  | Cho Hanseung | Win | W+0.5 | 6.5 | 3307.0 | 0.0 | 
-| 2022-03-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Heo Youngrak | Lose | W+0.5 | 6.5 | 3307.0 | 11.0 | 
-| 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Lose | B+R | 6.5 | 3296.0 | -13.0 | 
+| 2022-03-30 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Park Sangjin | Lose | W+R | 7.5 | 3270.0 | -18.0 | 
+| 2022-03-29 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Lee Changseok | Lose | W+R | 6.5 | 3288.0 | 0.0 | 
+| 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Win | B+R | 7.5 | 3288.0 | 0.0 | 
+| 2022-03-28 | 2022年アジア競技大会韓国予選 | Song Gyusang | Cho Hanseung | Lose | B+R | 7.5 | 3288.0 | -20.0 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ |  | Cho Hanseung | Win | W+0.5 | 6.5 | 3308.0 | 0.0 | 
+| 2022-03-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Heo Youngrak | Lose | W+0.5 | 6.5 | 3308.0 | 11.0 | 
+| 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Lose | B+R | 6.5 | 3297.0 | -12.0 | 
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Lose | B+R | 6.5 | 3309.0 | -15.0 | 
 | 2022-03-01 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Cho Hanseung | Lose | B+R | 6.5 | 3324.0 | -8.0 | 
 | 2022-02-26 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Kang Jihoon | Lose | W+R | 6.5 | 3332.0 | 3.0 | 
@@ -35,14 +37,14 @@
 | 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Lose | B+R | 6.5 | 3324.0 | -17.0 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Cho Hanseung | Kim Beomseo | Win | B+R | 6.5 | 3341.0 | -4.0 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Cho Hanseung | Gu Li | Win | B+R | 7.5 | 3345.0 | 14.0 | 
-| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Kono Rin | Cho Hanseung | Win | W+2¼ | 7.5 | 3331.0 | -2.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Cho Hanseung | Win | W+1.5 | 6.5 | 3333.0 | 27.0 | 
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Kono Rin | Cho Hanseung | Win | W+2¼ | 7.5 | 3331.0 | -3.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Cho Hanseung | Win | W+1.5 | 6.5 | 3334.0 | 28.0 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kang Hun | Cho Hanseung | Win | W+R | 6.5 | 3306.0 | -9.0 | 
 | 2021-09-03 | 第3期ソパルコサノル最高棋士決定戦予選 | Cho Hanseung | Lee Hyeonjun | Win | B+R | 6.5 | 3315.0 | -37.0 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | Lose | B+1.5 | 6.5 | 3352.0 | -2.0 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Heo Yongho | Cho Hanseung | Lose | B+R | 6.5 | 3354.0 | -15.0 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Park Hamin | Cho Hanseung | Win | W+R | 6.5 | 3369.0 | 29.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Jungki | Lose | W+R | 6.5 | 3340.0 | -31.0 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Park Hamin | Cho Hanseung | Win | W+R | 6.5 | 3369.0 | 28.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Jungki | Lose | W+R | 6.5 | 3341.0 | -30.0 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Yeongkyu | Lose | W+R | 6.5 | 3371.0 | 20.0 | 
 | 2021-02-14 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Baek Hyeonwoo | Lose | W+R | 6.5 | 3351.0 | -8.0 | 
 | 2021-02-09 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Heo Yongho | Lose | W+R | 6.5 | 3359.0 | -11.0 | 
@@ -50,39 +52,39 @@
 | 2021-01-29 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Cho Hanseung | Lose | B+R | 6.5 | 3374.0 | 41.0 | 
 | 2021-01-23 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Cho Hanseung | Win | W+R | 6.5 | 3333.0 | -6.0 | 
 | 2021-01-17 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | W+0.5 | 6.5 | 3339.0 | 20.0 | 
-| 2021-01-09 | 2020-2021韓国囲碁リーグ | Park Hamin | Cho Hanseung | Win | W+R | 6.5 | 3319.0 | 7.0 | 
-| 2021-01-05 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Cho Hanseung | Shin Minjun | Win | B+R | 6.5 | 3312.0 | 35.0 | 
-| 2021-01-01 | 2020-2021韓国囲碁リーグ | Na Hyun | Cho Hanseung | Lose | B+2.5 | 6.5 | 3277.0 | -39.0 | 
+| 2021-01-09 | 2020-2021韓国囲碁リーグ | Park Hamin | Cho Hanseung | Win | W+R | 6.5 | 3319.0 | 6.0 | 
+| 2021-01-05 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Cho Hanseung | Shin Minjun | Win | B+R | 6.5 | 3313.0 | 35.0 | 
+| 2021-01-01 | 2020-2021韓国囲碁リーグ | Na Hyun | Cho Hanseung | Lose | B+2.5 | 6.5 | 3278.0 | -38.0 | 
 | 2020-12-24 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Sungjoon | Lose | W+R | 6.5 | 3316.0 | -45.0 | 
 | 2020-12-20 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Cho Hanseung | Win | W+1.5 | 6.5 | 3361.0 | 68.0 | 
-| 2020-12-12 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Changho | Lose | W+R | 6.5 | 3293.0 | 14.0 | 
-| 2020-12-04 | 2020-2021韓国囲碁リーグ | Moon Minjong | Cho Hanseung | Lose | B+8.5 | 6.5 | 3279.0 | -9.0 | 
+| 2020-12-12 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Changho | Lose | W+R | 6.5 | 3293.0 | 13.0 | 
+| 2020-12-04 | 2020-2021韓国囲碁リーグ | Moon Minjong | Cho Hanseung | Lose | B+8.5 | 6.5 | 3280.0 | -8.0 | 
 | 2020-11-26 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | B+R | 6.5 | 3288.0 | 34.0 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Cho Hanseung | Ke Jie | Lose | W+R | 6.5 | 3254.0 | -16.0 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Cho Hanseung | Zhou Hongyu | Win | B+R | 6.5 | 3270.0 | -51.0 | 
 | 2020-09-25 | 第22回農心杯韓国選抜戦 | Cho Hanseung | Park Junghwan | Lose | W+R | 6.5 | 3321.0 | -9.0 | 
 | 2020-09-23 | 第22回農心杯韓国選抜戦 | Cho Hanseung | Moon Minjong | Win | B+R | 6.5 | 3330.0 | 18.0 | 
 | 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Lee Changseok | Cho Hanseung | Win | W+R | 6.5 | 3312.0 | 13.0 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Park Hamin | Cho Hanseung | Win | W+0.5 | 6.5 | 3299.0 | -58.0 | 
-| 2020-04-21 | 第25回LG杯韓国予選 | Yang Wooseok | Cho Hanseung | Lose | B+R | 6.5 | 3357.0 | -30.0 | 
-| 2020-04-17 | 第25回LG杯韓国予選 | Cho Hanseung |  | Win | B+R | 6.5 | 3387.0 | 39.0 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Park Hamin | Cho Hanseung | Win | W+0.5 | 6.5 | 3299.0 | -59.0 | 
+| 2020-04-21 | 第25回LG杯韓国予選 | Yang Wooseok | Cho Hanseung | Lose | B+R | 6.5 | 3358.0 | -30.0 | 
+| 2020-04-17 | 第25回LG杯韓国予選 | Cho Hanseung |  | Win | B+R | 6.5 | 3388.0 | 40.0 | 
 | 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第1局 | Cho Hanseung | Park Hamin | Win | B+R | 6.5 | 3348.0 | 13.0 | 
 | 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第4局 | Cho Hanseung | Park Hamin | Win | B+0.5 | 6.5 | 3335.0 | 13.0 | 
-| 2020-03-02 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Choi Jeong | Cho Hanseung | Lose | B+2.5 | 6.5 | 3322.0 | -10.0 | 
-| 2020-02-28 | 2019-2020韓国囲碁リーグプレーオフ第1戦第4局 | Yun Junsang | Cho Hanseung | Win | W+R | 6.5 | 3332.0 | -17.0 | 
+| 2020-03-02 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Choi Jeong | Cho Hanseung | Lose | B+2.5 | 6.5 | 3322.0 | -11.0 | 
+| 2020-02-28 | 2019-2020韓国囲碁リーグプレーオフ第1戦第4局 | Yun Junsang | Cho Hanseung | Win | W+R | 6.5 | 3333.0 | -16.0 | 
 | 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第5局 | Cho Hanseung | Song Taekon | Win | B+3.5 | 6.5 | 3349.0 | 3.0 | 
 | 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第3局 | Byun Sangil | Cho Hanseung | Lose | B+R | 6.5 | 3346.0 | -5.0 | 
 | 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hanseung | Win | W+R | 6.5 | 3351.0 | -7.0 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第2局 | Park Geunho | Cho Hanseung | Lose | B+R | 6.5 | 3358.0 | -29.0 | 
-| 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第1局 | Cho Hanseung | Park Joonhoon | Lose | W+R | 6.5 | 3387.0 | -38.0 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第5局 | Cho Hanseung | An Jungki | Win | B+0.5 | 6.5 | 3425.0 | 18.0 | 
+| 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第1局 | Cho Hanseung | Park Joonhoon | Lose | W+R | 6.5 | 3387.0 | -39.0 | 
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第5局 | Cho Hanseung | An Jungki | Win | B+0.5 | 6.5 | 3426.0 | 19.0 | 
 | 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第2局 | Choi Jaeyoung | Cho Hanseung | Win | W+0.5 | 6.5 | 3407.0 | 14.0 | 
 | 2019-12-28 | 2019-2020韓国囲碁リーグ第13節第3試合第1局 |  | Cho Hanseung | Win | W+R | 6.5 | 3393.0 | 6.0 | 
 | 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第5局 | Cho Hanseung | Seol Hyunjun | Win | B+R | 6.5 | 3387.0 | 36.0 | 
 | 2019-12-14 | 2019-2020韓国囲碁リーグ第11節第3試合第5局 | Yun Junsang | Cho Hanseung | Lose | B+R | 6.5 | 3351.0 | -36.0 | 
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第1局 | Cho Hanseung | Lee Donghoon | Lose | W+R | 6.5 | 3387.0 | -15.0 | 
-| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第2局 | Choi Cheolhan | Cho Hanseung | Lose | B+R | 6.5 | 3402.0 | -16.0 | 
-| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第5局 | Park Joonhoon | Cho Hanseung | Lose | B+R | 6.5 | 3418.0 | -40.0 | 
+| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第2局 | Choi Cheolhan | Cho Hanseung | Lose | B+R | 6.5 | 3402.0 | -17.0 | 
+| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第5局 | Park Joonhoon | Cho Hanseung | Lose | B+R | 6.5 | 3419.0 | -39.0 | 
 | 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第3局 | Shin Minjun | Cho Hanseung | Win | W+R | 6.5 | 3458.0 | 44.0 | 
 | 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第1局 | Park Junghwan | Cho Hanseung | Lose | B+3.5 | 6.5 | 3414.0 | -19.0 | 
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第5局 | Han Seungjoo | Cho Hanseung | Win | W+R | 6.5 | 3433.0 | 34.0 | 
@@ -156,12 +158,12 @@
 | 2017-03-27 | 世界第三期Mlily夢百合杯予選2回戦 | Cho Hanseung |  | Win | B+3.5 | 7.5 | 3440.0 | 18.0 | 
 | 2017-03-06 | 第36回KBS杯囲碁王戦32強戦 | Wi Taewoong | Cho Hanseung | Win | W+R | 6.5 | 3422.0 | -3.0 | 
 | 2017-01-17 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Cho Hanseung | Lose | B+R | 6.5 | 3425.0 | -20.0 | 
-| 2017-01-04 | Alphago Online Series on Tygem and Fox 56 |  | Cho Hanseung | Lose | B+R | 6.5 | 3445.0 | -31.0 | 
-| 2016-11-14 | 第35回KBS杯囲碁王戦8強戦 | Cho Hanseung | Na Hyun | Lose | W+R | 6.5 | 3476.0 | -9.0 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 56 |  | Cho Hanseung | Lose | B+R | 6.5 | 3445.0 | -32.0 | 
+| 2016-11-14 | 第35回KBS杯囲碁王戦8強戦 | Cho Hanseung | Na Hyun | Lose | W+R | 6.5 | 3477.0 | -8.0 | 
 | 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Cho Hanseung | Zhou Ruiyang | Lose | W+R | 7.5 | 3485.0 | -24.0 | 
-| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Cho Hanseung |  | Win | B+R | 7.5 | 3509.0 | 32.0 | 
-| 2016-10-20 | 2016年韓国囲碁リーグ | Cho Hanseung | Kang Dongyun | Win | B+0.5 | 6.5 | 3477.0 | 26.0 | 
-| 2016-10-14 | 2016年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | Lose | B+4.5 | 6.5 | 3451.0 | -19.0 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Cho Hanseung |  | Win | B+R | 7.5 | 3509.0 | 31.0 | 
+| 2016-10-20 | 2016年韓国囲碁リーグ | Cho Hanseung | Kang Dongyun | Win | B+0.5 | 6.5 | 3478.0 | 26.0 | 
+| 2016-10-14 | 2016年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | Lose | B+4.5 | 6.5 | 3452.0 | -18.0 | 
 | 2016-10-09 | 2016年韓国囲碁リーグ | Lee Taehyun | Cho Hanseung | Win | W+0.5 | 6.5 | 3470.0 | 57.0 | 
 | 2016-10-01 | 2016年韓国囲碁リーグ | Han Seungjoo | Cho Hanseung | Win | W+R | 6.5 | 3413.0 | -6.0 | 
 | 2016-09-22 | 2016年韓国囲碁リーグ第14節 | Cho Hanseung | Heo Yongho | Lose | W+R | 6.5 | 3419.0 | -20.0 | 
@@ -199,8 +201,8 @@
 | 2015-10-26 | 2015年韓国囲碁リーグ | Shin Jinseo | Cho Hanseung | Lose | B+R | 6.5 | 3465.0 | -15.0 | 
 | 2015-10-19 | 第59期国手戦（韓国）準決勝 | Cho Hanseung | Han Sanghoon | Win | B+R | 6.5 | 3480.0 | -6.0 | 
 | 2015-10-03 | 2015年韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Lose | B+R | 6.5 | 3486.0 | -55.0 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Cho Hanseung | Kim Dongho | Lose | W+0.5 | 6.5 | 3541.0 | -26.0 | 
-| 2015-09-25 | 2015年韓国囲碁リーグ | Cho Hanseung | Lee Jihyun | Win | B+R | 6.5 | 3567.0 | 17.0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Cho Hanseung | Kim Dongho | Lose | W+0.5 | 6.5 | 3541.0 | -27.0 | 
+| 2015-09-25 | 2015年韓国囲碁リーグ | Cho Hanseung | Lee Jihyun | Win | B+R | 6.5 | 3568.0 | 18.0 | 
 | 2015-09-17 | 2015年韓国囲碁リーグ | Cho Hanseung | Kim Junghyun | Lose | W+R | 6.5 | 3550.0 | -16.0 | 
 | 2015-09-14 | 第59期国手戦（韓国）2回戦 | Kim Jiseok | Cho Hanseung | Win | W+R | 6.5 | 3566.0 | 10.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Cho Hanseung | Byun Sangil | Win | B+R | 6.5 | 3556.0 | -15.0 | 

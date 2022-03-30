@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Lose | B+R | 7.5 | 3267.0 | 0.0 | 
-| 2022-03-28 | 2022年アジア競技大会韓国予選 | Ryu Minhyung | Park Sangjin | Lose | W+2¼ | 7.5 | 3267.0 | -38.0 | 
-| 2022-03-27 | 2021-2022フューチャーズリーグ | Ryu Minhyung | An Joyeong | Lose | W+R | 6.5 | 3305.0 | 0.0 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Ryu Minhyung | Lose | B+R | 6.5 | 3305.0 | -28.0 | 
-| 2022-03-16 | 2022YK建機杯リーグ | Park Junghwan | Ryu Minhyung | Lose | B+R | 6.5 | 3333.0 | 11.0 | 
-| 2022-03-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3322.0 | 7.0 | 
-| 2022-03-11 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Ryu Minhyung | Lose | B+R | 6.5 | 3315.0 | -43.0 | 
+| 2022-03-30 | 2022YK建機杯リーグ | Shin Jinseo | Ryu Minhyung | Lose | B+R | 6.5 | 3266.0 | -2.0 | 
+| 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Lose | B+R | 7.5 | 3268.0 | 0.0 | 
+| 2022-03-28 | 2022年アジア競技大会韓国予選 | Ryu Minhyung | Park Sangjin | Lose | W+2¼ | 7.5 | 3268.0 | -38.0 | 
+| 2022-03-27 | 2021-2022フューチャーズリーグ | Ryu Minhyung | An Joyeong | Lose | W+R | 6.5 | 3306.0 | 0.0 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Ryu Minhyung | Lose | B+R | 6.5 | 3306.0 | -28.0 | 
+| 2022-03-16 | 2022YK建機杯リーグ | Park Junghwan | Ryu Minhyung | Lose | B+R | 6.5 | 3334.0 | 11.0 | 
+| 2022-03-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3323.0 | 7.0 | 
+| 2022-03-11 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Ryu Minhyung | Lose | B+R | 6.5 | 3316.0 | -42.0 | 
 | 2022-03-09 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Choi Kyeongho | Lose | W+R | 6.5 | 3358.0 | -4.0 | 
 | 2022-03-06 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Ryu Minhyung | Win | W+R | 6.5 | 3362.0 | 43.0 | 
 | 2022-03-04 | 2022YK建機杯予選 | Ryu Minhyung | Kim Jiseok | Win | B+R | 6.5 | 3319.0 | 28.0 | 
@@ -35,12 +36,12 @@
 | 2021-12-04 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3447.0 | 17.0 | 
 | 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3430.0 | 248.0 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3182.0 | -41.0 | 
-| 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3223.0 | 149.0 | 
-| 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Win | B+0.5 | 6.5 | 3074.0 | 0.0 | 
-| 2021-02-08 | 第4期韓国竜星戦1回戦 | Shin Jinseo | Ryu Minhyung | Lose | B+R | 6.5 | 3074.0 | 0.0 | 
-| 2021-01-28 | 第4期韓国竜星戦予選 | Ahn Kukhyun | Ryu Minhyung | Win | W+R | 6.5 | 3074.0 | 0.0 | 
-| 2020-04-21 | 第25回LG杯韓国予選 | Ryu Minhyung |  | Lose | W+R | 6.5 | 3074.0 | 0.0 | 
-| 2019-05-16 | 2019年囲碁テレビ杯早碁戦32強戦 | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3074.0 | -183.0 | 
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3223.0 | 148.0 | 
+| 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Win | B+0.5 | 6.5 | 3075.0 | 0.0 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Shin Jinseo | Ryu Minhyung | Lose | B+R | 6.5 | 3075.0 | 0.0 | 
+| 2021-01-28 | 第4期韓国竜星戦予選 | Ahn Kukhyun | Ryu Minhyung | Win | W+R | 6.5 | 3075.0 | 0.0 | 
+| 2020-04-21 | 第25回LG杯韓国予選 | Ryu Minhyung |  | Lose | W+R | 6.5 | 3075.0 | 0.0 | 
+| 2019-05-16 | 2019年囲碁テレビ杯早碁戦32強戦 | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3075.0 | -182.0 | 
 | 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | Lose | W+R | 6.5 | 3257.0 | -6.0 | 
 | 2018-09-22 | 2018年韓国囲碁リーグ第12節 | Ryu Minhyung | Park Geunho | Lose | W+1.5 | 6.5 | 3263.0 | -23.0 | 
 | 2018-09-16 | 2018年韓国囲碁リーグ第11節 | Ahn Kukhyun | Ryu Minhyung | Win | W+1.5 | 6.5 | 3286.0 | -18.0 | 
@@ -74,9 +75,9 @@
 | 2017-06-03 | 2017年韓国囲碁リーグ | Kim Seongjae | Ryu Minhyung | Win | W+R | 6.5 | 3339.0 | 65.0 | 
 | 2017-05-18 | 2017年韓国囲碁リーグ | Ryu Minhyung | Shen Zaiyi | Win | B+R | 6.5 | 3274.0 | -12.0 | 
 | 2017-02-10 | 第22期GSカルテックス杯プロ棋戦16強戦 | Ryu Minhyung | Kim Jiseok | Lose | W+R | 6.5 | 3286.0 | -12.0 | 
-| 2017-01-19 | 第22期GSカルテックス杯プロ棋戦24強戦 | Ryu Minhyung | Park Jiyeon | Win | B+R | 6.5 | 3298.0 | -10.0 | 
-| 2016-10-20 | 2016年韓国囲碁リーグ | Ryu Minhyung | Shin Minjun | Lose | W+1.5 | 6.5 | 3308.0 | -8.0 | 
-| 2016-10-15 | 2016年韓国囲碁リーグ | Ryu Minhyung | Kim Jiseok | Win | B+R | 6.5 | 3316.0 | 54.0 | 
+| 2017-01-19 | 第22期GSカルテックス杯プロ棋戦24強戦 | Ryu Minhyung | Park Jiyeon | Win | B+R | 6.5 | 3298.0 | -11.0 | 
+| 2016-10-20 | 2016年韓国囲碁リーグ | Ryu Minhyung | Shin Minjun | Lose | W+1.5 | 6.5 | 3309.0 | -8.0 | 
+| 2016-10-15 | 2016年韓国囲碁リーグ | Ryu Minhyung | Kim Jiseok | Win | B+R | 6.5 | 3317.0 | 55.0 | 
 | 2016-10-08 | 2016年韓国囲碁リーグ | Ryu Minhyung | Ahn Kukhyun | Win | B+R | 6.5 | 3262.0 | -4.0 | 
 | 2016-09-30 | 2016年韓国囲碁リーグ | Park Junghwan | Ryu Minhyung | Lose | B+R | 6.5 | 3266.0 | 21.0 | 
 | 2016-09-25 | 2016年韓国囲碁リーグ第14節 | Ryu Minhyung | Park Jinsol | Lose | W+R | 6.5 | 3245.0 | -70.0 | 
@@ -93,8 +94,8 @@
 | 2016-06-02 | 2016年韓国囲碁リーグ第2節 | Ryu Minhyung | Hong Seongji | Lose | W+R | 6.5 | 3457.0 | -34.0 | 
 | 2016-05-24 | 第1回新奥杯世界囲碁オープン戦予選 | Li Xuanhao | Ryu Minhyung | Lose | B+R | 7.5 | 3491.0 | -14.0 | 
 | 2015-10-02 | 2015年韓国囲碁リーグ | Lee Donghoon | Ryu Minhyung | Win | W+2.5 | 6.5 | 3505.0 | 3.0 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Ryu Minhyung |  | Lose | W+R | 6.5 | 3502.0 | -15.0 | 
-| 2015-09-27 | 2015年韓国囲碁リーグ | Kim Sedong | Ryu Minhyung | Win | W+R | 6.5 | 3517.0 | 27.0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Ryu Minhyung |  | Lose | W+R | 6.5 | 3502.0 | -16.0 | 
+| 2015-09-27 | 2015年韓国囲碁リーグ | Kim Sedong | Ryu Minhyung | Win | W+R | 6.5 | 3518.0 | 28.0 | 
 | 2015-09-19 | 2015年韓国囲碁リーグ | Hong Kipyo | Ryu Minhyung | Win | W+1.5 | 6.5 | 3490.0 | 37.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Lee Hobum | Ryu Minhyung | Lose | B+R | 6.5 | 3453.0 | -11.0 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3464.0 | 18.0 | 

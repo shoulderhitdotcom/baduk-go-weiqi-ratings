@@ -8,19 +8,19 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-30 | 第5回呉清源杯台湾予選 | Yang Zixuan | Su Shengfang | Win | W+R | 7.5 | 2381.0 | 56.0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Lose | W+R | 6.5 | 2325.0 | -102.0 | 
-| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Su Shengfang | Lose | B+R | 7.5 | 2427.0 | -21.0 | 
-| 2022-02-17 | 第3期名人冠軍戦予選 | Su Shengfang |  | Lose | W+0.5 | 6.5 | 2448.0 | -8.0 | 
-| 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 7.5 | 2456.0 | -7.0 | 
-| 2022-02-14 | 第3期名人冠軍戦予選 | Lin Shixun | Su Shengfang | Lose | B+R | 6.5 | 2463.0 | 25.0 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Su Shengfang |  | Win | B+R | 6.5 | 2438.0 | 8.0 | 
-| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Lin Shixun | Su Shengfang | Lose | B+R | 6.5 | 2430.0 | 3.0 | 
-| 2022-01-04 | 第21期天元戦（台湾）予選 | Liu Chuanting | Su Shengfang | Lose | B+R | 6.5 | 2427.0 | 85.0 | 
-| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Lose | W+R | 6.5 | 2342.0 | 0.0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2342.0 | 0.0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Win | B+R | 6.5 | 2342.0 | -4.0 | 
-| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Nakamura Sumire | Su Shengfang | Win | W+R | 6.5 | 2346.0 | 0.0 | 
-| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Su Shengfang |  | Lose | W+T | 6.5 | 2346.0 | 73.0 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Lose | W+R | 6.5 | 2325.0 | -103.0 | 
+| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Su Shengfang | Lose | B+R | 7.5 | 2428.0 | -21.0 | 
+| 2022-02-17 | 第3期名人冠軍戦予選 | Su Shengfang |  | Lose | W+0.5 | 6.5 | 2449.0 | -8.0 | 
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 7.5 | 2457.0 | -7.0 | 
+| 2022-02-14 | 第3期名人冠軍戦予選 | Lin Shixun | Su Shengfang | Lose | B+R | 6.5 | 2464.0 | 25.0 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Su Shengfang |  | Win | B+R | 6.5 | 2439.0 | 8.0 | 
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Lin Shixun | Su Shengfang | Lose | B+R | 6.5 | 2431.0 | 3.0 | 
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Liu Chuanting | Su Shengfang | Lose | B+R | 6.5 | 2428.0 | 85.0 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Lose | W+R | 6.5 | 2343.0 | 0.0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2343.0 | 0.0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Win | B+R | 6.5 | 2343.0 | -4.0 | 
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Nakamura Sumire | Su Shengfang | Win | W+R | 6.5 | 2347.0 | 0.0 | 
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Su Shengfang |  | Lose | W+T | 6.5 | 2347.0 | 74.0 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2273.0 | 11.0 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Su Shengfang | Lose | B+R | 6.5 | 2262.0 | 9.0 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Lose | W+R | 6.5 | 2253.0 | 0.0 | 
@@ -35,8 +35,8 @@
 | 2021-05-11 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Su Shengfang | Lose | B+R | 6.5 | 2144.0 | -7.0 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Yang Bowei | Su Shengfang | Lose | B+R | 6.5 | 2151.0 | -1.0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Su Shengfang | Lin Ziyuan | Lose | W+R | 6.5 | 2152.0 | 0.0 | 
-| 2021-04-01 | 第11期友士杯十段戦予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2152.0 | 42.0 | 
-| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Win | B+R | 6.5 | 2110.0 | 138.0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2152.0 | 41.0 | 
+| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Win | B+R | 6.5 | 2111.0 | 139.0 | 
 | 2021-02-18 | 第2期名人冠軍戦予選 | Su Shengfang |  | Lose | W+R | 6.5 | 1972.0 | 0.0 | 
 | 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | Lose | W+R | 6.5 | 1972.0 | 0.0 | 
 | 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Nishiyama Shizuka | Su Shengfang | Lose | B+T | 6.5 | 1972.0 | 0.0 | 
@@ -98,11 +98,11 @@
 | 2017-01-17 | 第十六期天元戦初戦第三回戦 | Su Shengfang | Huang Xiangren | Lose | W+R | 6.5 | 2169.0 | -7.0 | 
 | 2016-12-20 | 関西棋院対台湾棋院棋士対抗戦2017　2回戦 | Taguchi Misei | Su Shengfang | Lose | B+R | 6.5 | 2176.0 | 72.0 | 
 | 2016-11-13 | 第7期世界穹窿山兵聖杯8強戦 | Su Shengfang | Yu Zhiying | Lose | W+R | 7.5 | 2104.0 | -1.0 | 
-| 2016-11-12 | 第7期世界穹窿山兵聖杯16強戦 | Natalya Kovaleva | Su Shengfang | Win | W+R | 7.5 | 2105.0 | -36.0 | 
-| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Su Shengfang | Chen Yiming | Lose | W+R | 6.5 | 2141.0 | 0.0 | 
-| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Okuda Aya | Su Shengfang | Lose | B+R | 6.5 | 2141.0 | -57.0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Lose | W+R | 6.5 | 2198.0 | 0.0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Su Shengfang | Okuda Aya | Win | B+R | 6.5 | 2198.0 | 9300.0 | 
+| 2016-11-12 | 第7期世界穹窿山兵聖杯16強戦 | Natalya Kovaleva | Su Shengfang | Win | W+R | 7.5 | 2105.0 | -35.0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Su Shengfang | Chen Yiming | Lose | W+R | 6.5 | 2140.0 | 0.0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Okuda Aya | Su Shengfang | Lose | B+R | 6.5 | 2140.0 | -57.0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Lose | W+R | 6.5 | 2197.0 | 0.0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Su Shengfang | Okuda Aya | Win | B+R | 6.5 | 2197.0 | 9299.0 | 
 | 2016-10-07 | 第7期世界穹窿山兵聖杯中華台北選抜 | Su Shengfang | Zhang Kaixin | Win | B+R | 7.5 | -7102.0 | 11.0 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Oh Yujin | Su Shengfang | Lose | B+R | 6.5 | -7113.0 | 43.0 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Su Shengfang | Nyu Eiko | Lose | W+R | 6.5 | -7156.0 | 31.0 | 

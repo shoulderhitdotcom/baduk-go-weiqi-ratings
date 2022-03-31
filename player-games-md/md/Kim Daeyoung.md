@@ -7,14 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-12 | 2021-2022フューチャーズリーグ | Kim Daeyoung |  | Lose | W+R | 6.5 | 2799.0 | -3.0 | 
-| 2022-03-05 | 2021-2022フューチャーズリーグ | Kim Daeyoung |  | Lose | W+R | 6.5 | 2802.0 | 33.0 | 
-| 2022-02-27 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seungjun | Win | B+3.5 | 6.5 | 2769.0 | -20.0 | 
-| 2022-02-23 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Lee Hyungjin | Lose | W+0.5 | 6.5 | 2789.0 | -57.0 | 
-| 2022-02-13 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Changhoon | Lose | W+R | 6.5 | 2846.0 | -32.0 | 
-| 2022-02-06 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Daeyoung | Win | W+3.5 | 6.5 | 2878.0 | 118.0 | 
-| 2022-01-22 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Daeyoung | Lose | B+R | 6.5 | 2760.0 | -22.0 | 
-| 2022-01-15 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2782.0 | -300.0 | 
+| 2022-03-30 | 2021-2022フューチャーズリーグ |  | Kim Daeyoung | Lose | B+R | 6.5 | 2812.0 | 20.0 | 
+| 2022-03-12 | 2021-2022フューチャーズリーグ | Kim Daeyoung |  | Lose | W+R | 6.5 | 2792.0 | -3.0 | 
+| 2022-03-05 | 2021-2022フューチャーズリーグ | Kim Daeyoung |  | Lose | W+R | 6.5 | 2795.0 | 33.0 | 
+| 2022-02-27 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seungjun | Win | B+3.5 | 6.5 | 2762.0 | -21.0 | 
+| 2022-02-23 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Lee Hyungjin | Lose | W+0.5 | 6.5 | 2783.0 | -57.0 | 
+| 2022-02-13 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Changhoon | Lose | W+R | 6.5 | 2840.0 | -32.0 | 
+| 2022-02-06 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Daeyoung | Win | W+3.5 | 6.5 | 2872.0 | 117.0 | 
+| 2022-01-22 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Daeyoung | Lose | B+R | 6.5 | 2755.0 | -22.0 | 
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2777.0 | -305.0 | 
 | 2022-01-05 | 2021-2022フューチャーズリーグ | Kim Daeyoung |  | Win | B+0.5 | 6.5 | 3082.0 | 0.0 | 
 | 2021-12-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Daeyoung | Lose | B+R | 6.5 | 3082.0 | 0.0 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Daeyoung | Lose | B+R | 6.5 | 3082.0 | 0.0 | 
@@ -29,8 +30,8 @@
 | 2015-10-04 | 2015年韓国囲碁リーグ | Kim Daeyoung | Lee Changho | Lose | W+R | 6.5 | 3067.0 | -45.0 | 
 | 2015-09-30 | 2015年フューチャーズリーグ | Park Geunho | Kim Daeyoung | Lose | B+0.5 | 6.5 | 3112.0 | -80.0 | 
 | 2015-09-05 | 2015年フューチャーズリーグ | Park Younglong | Kim Daeyoung | Lose | B+R | 6.5 | 3192.0 | -57.0 | 
-| 2015-08-29 | 2015年フューチャーズリーグ | Kim Daeyoung | Park Junsuck | Lose | W+3.5 | 6.5 | 3249.0 | -34.0 | 
-| 2015-08-23 | 2015年フューチャーズリーグ | Park Jaekeun | Kim Daeyoung | Win | W+R | 6.5 | 3283.0 | 8.0 | 
+| 2015-08-29 | 2015年フューチャーズリーグ | Kim Daeyoung | Park Junsuck | Lose | W+3.5 | 6.5 | 3249.0 | -35.0 | 
+| 2015-08-23 | 2015年フューチャーズリーグ | Park Jaekeun | Kim Daeyoung | Win | W+R | 6.5 | 3284.0 | 9.0 | 
 | 2015-08-19 | 2015年フューチャーズリーグ | Park Jinsol | Kim Daeyoung | Lose | B+R | 6.5 | 3275.0 | -20.0 | 
 | 2015-08-16 | 2015年韓国囲碁リーグ | Kim Daeyoung | Min Sangyoun | Lose | W+R | 6.5 | 3295.0 | -1.0 | 
 | 2015-07-26 | 2015年フューチャーズリーグ |  | Kim Daeyoung | Win | W+R | 6.5 | 3296.0 | 39.0 | 

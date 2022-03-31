@@ -8,31 +8,31 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-30 | 第78期本因坊戦予選 | Ha Youngil | Seto Taiki | Lose | B+R | 6.5 | 3228.0 | -19.0 | 
-| 2022-03-14 | 第47期棋聖戦Bリーグ | Seto Taiki | Yamada Kimio | Win | B+R | 6.5 | 3247.0 | -3.0 | 
-| 2022-02-17 | 第47期棋聖戦Bリーグ | Hirose Yuichi | Seto Taiki | Lose | B+R | 6.5 | 3250.0 | -43.0 | 
-| 2022-02-02 | 第66期関西棋院第一位決定戦2回戦 | Takashima Yugo | Seto Taiki | Win | W+R | 6.5 | 3293.0 | 17.0 | 
-| 2021-12-08 | 第70期王座戦予選 | Seto Taiki | Fujii Shuya | Win | B+R | 6.5 | 3276.0 | 37.0 | 
-| 2021-12-02 | 第48期天元戦予選 | Seto Taiki |  | Win | B+R | 6.5 | 3239.0 | 51.0 | 
-| 2021-11-28 | 第2回関西囲碁オープントーナメントトップクラス決勝  | Seto Taiki | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3188.0 | 22.0 | 
+| 2022-03-14 | 第47期棋聖戦Bリーグ | Seto Taiki | Yamada Kimio | Win | B+R | 6.5 | 3247.0 | -4.0 | 
+| 2022-02-17 | 第47期棋聖戦Bリーグ | Hirose Yuichi | Seto Taiki | Lose | B+R | 6.5 | 3251.0 | -43.0 | 
+| 2022-02-02 | 第66期関西棋院第一位決定戦2回戦 | Takashima Yugo | Seto Taiki | Win | W+R | 6.5 | 3294.0 | 17.0 | 
+| 2021-12-08 | 第70期王座戦予選 | Seto Taiki | Fujii Shuya | Win | B+R | 6.5 | 3277.0 | 37.0 | 
+| 2021-12-02 | 第48期天元戦予選 | Seto Taiki |  | Win | B+R | 6.5 | 3240.0 | 51.0 | 
+| 2021-11-28 | 第2回関西囲碁オープントーナメントトップクラス決勝  | Seto Taiki | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3189.0 | 23.0 | 
 | 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Kurahashi Masayuki | Seto Taiki | Win | W+R | 6.5 | 3166.0 | 30.0 | 
 | 2021-10-28 | 第60期十段戦2回戦 | Motoki Katsuya | Seto Taiki | Lose | B+R | 6.5 | 3136.0 | -32.0 | 
 | 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Lose | B+R | 6.5 | 3168.0 | 34.0 | 
 | 2021-09-16 | 第47期名人戦予選 | Seto Taiki | Ida Atsushi | Lose | W+R | 6.5 | 3134.0 | -19.0 | 
 | 2021-09-08 | 第70期王座戦予選 | Sonoda Yuichi | Seto Taiki | Win | W+R | 6.5 | 3153.0 | 6.0 | 
 | 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Win | W+4.5 | 6.5 | 3147.0 | 45.0 | 
-| 2021-08-19 | 第46期棋聖戦Bリーグ | Seto Taiki | So Yokoku | Win | B+R | 6.5 | 3102.0 | -11.0 | 
-| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Lose | W+R | 6.5 | 3113.0 | 0.0 | 
-| 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Win | B+2.5 | 6.5 | 3113.0 | 24.0 | 
+| 2021-08-19 | 第46期棋聖戦Bリーグ | Seto Taiki | So Yokoku | Win | B+R | 6.5 | 3102.0 | -12.0 | 
+| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Lose | W+R | 6.5 | 3114.0 | 0.0 | 
+| 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Win | B+2.5 | 6.5 | 3114.0 | 25.0 | 
 | 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Lose | B+4.5 | 6.5 | 3089.0 | -60.0 | 
 | 2021-05-26 | 第47期碁聖戦予選 | Okuma Yuto | Seto Taiki | Win | W+R | 6.5 | 3149.0 | 29.0 | 
 | 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Lose | W+R | 6.5 | 3120.0 | -21.0 | 
-| 2021-04-15 | 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | Win | W+R | 6.5 | 3141.0 | 57.0 | 
-| 2021-03-18 | 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | Win | B+3.5 | 6.5 | 3084.0 | 36.0 | 
-| 2021-03-10 | 第77期本因坊戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 3048.0 | 62.0 | 
+| 2021-04-15 | 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | Win | W+R | 6.5 | 3141.0 | 56.0 | 
+| 2021-03-18 | 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | Win | B+3.5 | 6.5 | 3085.0 | 36.0 | 
+| 2021-03-10 | 第77期本因坊戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 3049.0 | 63.0 | 
 | 2021-01-27 | 第77期本因坊戦予選 | Furuya Yutaka | Seto Taiki | Win | W+4.5 | 6.5 | 2986.0 | -61.0 | 
 | 2021-01-14 | 第65期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | Win | W+R | 6.5 | 3047.0 | 57.0 | 
-| 2020-12-09 | 第69期王座戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 2990.0 | 21.0 | 
-| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Seto Taiki | Wang Yuanjun | Lose | W+R | 6.5 | 2969.0 | -183.0 | 
+| 2020-12-09 | 第69期王座戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 2990.0 | 20.0 | 
+| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Seto Taiki | Wang Yuanjun | Lose | W+R | 6.5 | 2970.0 | -182.0 | 
 | 2020-11-05 | 第47期天元戦予選 | Seto Taiki | Yuki Satoshi | Win | B+R | 6.5 | 3152.0 | 92.0 | 
 | 2020-10-22 | 第65期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Seto Taiki | Win | W+R | 6.5 | 3060.0 | -30.0 | 
 | 2020-10-15 | 第47期天元戦予選 |  | Seto Taiki | Win | W+R | 6.5 | 3090.0 | -53.0 | 

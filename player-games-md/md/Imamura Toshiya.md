@@ -7,18 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-30 | 第47期棋聖戦予選 | Imamura Toshiya | Utsumi Koki | Win | B+R | 6.5 | 2868.0 | -144.0 | 
-| 2022-01-12 | 第78期本因坊戦予選 |  | Imamura Toshiya | Lose | B+3.5 | 6.5 | 3012.0 | 336.0 | 
-| 2021-12-15 | 第48期天元戦予選 | Shintani Yousuke | Imamura Toshiya | Win | W+2.5 | 6.5 | 2676.0 | 105.0 | 
-| 2021-12-01 | 第66期関西棋院第一位決定戦1回戦 | Takatsu Masaaki | Imamura Toshiya | Win | W+R | 6.5 | 2571.0 | 75.0 | 
-| 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Lose | W+R | 6.5 | 2496.0 | -302.0 | 
-| 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Win | W+R | 6.5 | 2798.0 | 95.0 | 
-| 2021-09-02 | 第60期十段戦予選 | Imamura Toshiya | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 2703.0 | 102.0 | 
-| 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Win | B+R | 6.5 | 2601.0 | 59.0 | 
+| 2022-03-30 | 第47期棋聖戦予選 | Imamura Toshiya | Utsumi Koki | Win | B+R | 6.5 | 2868.0 | -145.0 | 
+| 2022-01-12 | 第78期本因坊戦予選 |  | Imamura Toshiya | Lose | B+3.5 | 6.5 | 3013.0 | 336.0 | 
+| 2021-12-15 | 第48期天元戦予選 | Shintani Yousuke | Imamura Toshiya | Win | W+2.5 | 6.5 | 2677.0 | 105.0 | 
+| 2021-12-01 | 第66期関西棋院第一位決定戦1回戦 | Takatsu Masaaki | Imamura Toshiya | Win | W+R | 6.5 | 2572.0 | 76.0 | 
+| 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Lose | W+R | 6.5 | 2496.0 | -303.0 | 
+| 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Win | W+R | 6.5 | 2799.0 | 96.0 | 
+| 2021-09-02 | 第60期十段戦予選 | Imamura Toshiya | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 2703.0 | 101.0 | 
+| 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Win | B+R | 6.5 | 2602.0 | 60.0 | 
 | 2021-06-09 | 第60期十段戦予選 | Imamura Toshiya |  | Win | B+R | 6.5 | 2542.0 | 23.0 | 
-| 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Lose | B+R | 6.5 | 2519.0 | 6.0 | 
-| 2021-03-18 | 第46期棋聖戦予選 | Imamura Toshiya | Komatsu Daiki | Lose | W+2.5 | 6.5 | 2513.0 | -5.0 | 
-| 2021-02-03 | 第46期棋聖戦予選 | Imamura Toshiya | Suzuki Keiji | Win | B+2.5 | 6.5 | 2518.0 | -98.0 | 
+| 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Lose | B+R | 6.5 | 2519.0 | 5.0 | 
+| 2021-03-18 | 第46期棋聖戦予選 | Imamura Toshiya | Komatsu Daiki | Lose | W+2.5 | 6.5 | 2514.0 | -5.0 | 
+| 2021-02-03 | 第46期棋聖戦予選 | Imamura Toshiya | Suzuki Keiji | Win | B+2.5 | 6.5 | 2519.0 | -97.0 | 
 | 2020-12-16 | 第65期関西棋院第一位決定戦本戦2回戦 | Imamura Toshiya | Hara Masakazu | Lose | W+R | 6.5 | 2616.0 | -36.0 | 
 | 2020-10-28 | 第46期碁聖戦予選 | Nakano Yasuhiro | Imamura Toshiya | Lose | B+R | 6.5 | 2652.0 | -64.0 | 
 | 2020-10-14 | 第65期関西棋院第一位決定戦本戦1回戦 | Imamura Toshiya | Nishi Takenobu | Win | B+R | 6.5 | 2716.0 | 156.0 | 
@@ -73,8 +73,8 @@
 | 2016-12-08 | 第55期十段戦　準々決勝 | Rin Shien | Imamura Toshiya | Win | W+R | 6.5 | 3206.0 | -101.0 | 
 | 2016-11-24 | 第55期十段戦　本戦2回戦 | Imamura Toshiya | Adachi Toshimasa | Win | B+3.5 | 6.5 | 3307.0 | 43.0 | 
 | 2016-11-16 | 第43期 天元戦 予選A | Hong Maleunsaem | Imamura Toshiya | Lose | B+R | 6.5 | 3264.0 | -53.0 | 
-| 2016-10-26 | 第61期関西棋院第一位決定戦　本戦1回戦 | Imamura Toshiya | Sada Atsushi | Win | B+R | 6.5 | 3317.0 | -3.0 | 
-| 2016-10-13 | 第65期 王座戦 予選A | Imamura Toshiya | Shintani Yousuke | Win | B+0.5 | 6.5 | 3320.0 | 37.0 | 
+| 2016-10-26 | 第61期関西棋院第一位決定戦　本戦1回戦 | Imamura Toshiya | Sada Atsushi | Win | B+R | 6.5 | 3317.0 | -2.0 | 
+| 2016-10-13 | 第65期 王座戦 予選A | Imamura Toshiya | Shintani Yousuke | Win | B+0.5 | 6.5 | 3319.0 | 36.0 | 
 | 2016-09-28 | 第42期碁聖戦　予選A決勝 | Imamura Toshiya | Hatanaka Hoshinobu | Win | B+R | 6.5 | 3283.0 | 100.0 | 
 | 2016-07-28 | 第41期棋聖戦Cリーグ | Imamura Toshiya | Shibano Toramaru | Win | B+R | 6.5 | 3183.0 | 57.0 | 
 | 2016-07-13 | 第43期天元戦予選 | Imamura Toshiya | Ota Seido | Win | B+R | 6.5 | 3126.0 | 44.0 | 

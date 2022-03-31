@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-30 | 第78期本因坊戦予選 | Ha Youngil | Seto Taiki | Win | B+R | 6.5 | 2704.0 | 0.0 | 
-| 2021-06-30 | 第47期名人戦予選 | Sato Yuta | Ha Youngil | Win | W+R | 6.5 | 2704.0 | 35.0 | 
+| 2022-03-30 | 第78期本因坊戦予選 | Ha Youngil | Seto Taiki | Win | B+R | 6.5 | 2705.0 | 0.0 | 
+| 2021-06-30 | 第47期名人戦予選 | Sato Yuta | Ha Youngil | Win | W+R | 6.5 | 2705.0 | 36.0 | 
 | 2021-04-14 | 第47期名人戦予選 | Ha Youngil | Abe Yoshiki | Win | B+R | 6.5 | 2669.0 | 205.0 | 
 | 2021-03-03 | 第77期本因坊戦予選 | Taniguchi Tooru | Ha Youngil | Lose | B+R | 6.5 | 2464.0 | -4.0 | 
 | 2021-02-17 | 第77期本因坊戦予選 | Nakano Yasuhiro | Ha Youngil | Win | W+1.5 | 6.5 | 2468.0 | -455.0 | 

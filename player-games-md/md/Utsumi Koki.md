@@ -8,21 +8,21 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-30 | 第47期棋聖戦予選 | Imamura Toshiya | Utsumi Koki | Lose | B+R | 6.5 | 2526.0 | -130.0 | 
-| 2022-02-28 | 第47期棋聖戦予選 | Utsumi Koki |  | Win | B+7.5 | 6.5 | 2656.0 | -82.0 | 
-| 2022-02-09 | 第61期十段戦予選 | Yuki Satoshi | Utsumi Koki | Lose | B+R | 6.5 | 2738.0 | 25.0 | 
-| 2022-02-02 | 第70期王座戦予選 | Utsumi Koki | Hasegawa Sunao | Win | B+R | 6.5 | 2713.0 | 135.0 | 
-| 2022-01-12 | 第70期王座戦予選 | Takatsu Masaaki | Utsumi Koki | Win | W+R | 6.5 | 2578.0 | -8.0 | 
-| 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Jian Jingting | Utsumi Koki | Lose | B+R | 6.5 | 2586.0 | -228.0 | 
+| 2022-02-28 | 第47期棋聖戦予選 | Utsumi Koki |  | Win | B+7.5 | 6.5 | 2656.0 | -83.0 | 
+| 2022-02-09 | 第61期十段戦予選 | Yuki Satoshi | Utsumi Koki | Lose | B+R | 6.5 | 2739.0 | 25.0 | 
+| 2022-02-02 | 第70期王座戦予選 | Utsumi Koki | Hasegawa Sunao | Win | B+R | 6.5 | 2714.0 | 135.0 | 
+| 2022-01-12 | 第70期王座戦予選 | Takatsu Masaaki | Utsumi Koki | Win | W+R | 6.5 | 2579.0 | -8.0 | 
+| 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Jian Jingting | Utsumi Koki | Lose | B+R | 6.5 | 2587.0 | -227.0 | 
 | 2021-11-17 | 第47期新人王戦予選 |  | Utsumi Koki | Lose | B+R | 6.5 | 2814.0 | -18.0 | 
 | 2021-10-20 | 第66期関西棋院第一位決定戦本戦1回戦 | Yukawa Mitsuhisa | Utsumi Koki | Lose | B+R | 6.5 | 2832.0 | 51.0 | 
-| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Lose | B+R | 6.5 | 2781.0 | -14.0 | 
-| 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Lose | W+R | 6.5 | 2795.0 | 6.0 | 
-| 2021-03-17 | 第65期関西棋院第一位決定戦本戦3回戦 | Utsumi Koki | Fujii Shuya | Win | B+R | 6.5 | 2789.0 | 206.0 | 
+| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Lose | B+R | 6.5 | 2781.0 | -15.0 | 
+| 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Lose | W+R | 6.5 | 2796.0 | 6.0 | 
+| 2021-03-17 | 第65期関西棋院第一位決定戦本戦3回戦 | Utsumi Koki | Fujii Shuya | Win | B+R | 6.5 | 2790.0 | 207.0 | 
 | 2021-01-20 | 第77期本因坊戦予選 | Taniguchi Tooru | Utsumi Koki | Lose | B+R | 6.5 | 2583.0 | 34.0 | 
 | 2020-12-09 | 第65期関西棋院第一位決定戦本戦2回戦 | Taniguchi Tooru | Utsumi Koki | Win | W+3.5 | 6.5 | 2549.0 | 79.0 | 
 | 2020-10-28 | 第65期関西棋院第一位決定戦本戦1回戦 | Utsumi Koki |  | Win | B+1.5 | 6.5 | 2470.0 | 235.0 | 
-| 2020-10-21 | 第46期新人王戦予選 | Utsumi Koki | Abe Yoshiki | Lose | W+R | 6.5 | 2235.0 | -137.0 | 
-| 2020-06-17 | 第64期関西棋院第一位決定戦本戦3回戦 | Nakano Yasuhiro | Utsumi Koki | Lose | B+R | 6.5 | 2372.0 | -157.0 | 
+| 2020-10-21 | 第46期新人王戦予選 | Utsumi Koki | Abe Yoshiki | Lose | W+R | 6.5 | 2235.0 | -138.0 | 
+| 2020-06-17 | 第64期関西棋院第一位決定戦本戦3回戦 | Nakano Yasuhiro | Utsumi Koki | Lose | B+R | 6.5 | 2373.0 | -156.0 | 
 | 2020-03-05 | 第64期関西棋院第一位決定戦本戦2回戦 |  | Utsumi Koki | Win | W+4.5 | 6.5 | 2529.0 | 2204.0 | 
 | 2020-01-08 | 第64期関西棋院第一位決定戦本戦1回戦 | Sonoda Yuichi | Utsumi Koki | Win | W+5.5 | 6.5 | 325.0 | 0.0 | 
 | 2019-12-12 | 第45期新人王戦予選決勝 | Utsumi Koki | Kan Minu | Lose | W+2.5 | 6.5 | 325.0 | 0.0 | 

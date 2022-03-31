@@ -12,23 +12,23 @@
 | 2022-03-26 | 2021-2022韓国囲碁リーグ | Lee Changseok | Park Sangjin | Lose | B+R | 6.5 | 3334.0 | -32.0 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Park Sangjin | Hong Seongji | Lose | W+R | 6.5 | 3366.0 | -8.0 | 
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Sangjin | Win | W+1.5 | 6.5 | 3374.0 | 13.0 | 
-| 2022-02-27 | 2021-2022韓国囲碁リーグ | Na Hyun | Park Sangjin | Lose | B+R | 6.5 | 3361.0 | -17.0 | 
-| 2022-02-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Yeongkyu | Lose | W+R | 6.5 | 3378.0 | 3.0 | 
-| 2022-02-10 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Sangjin | Win | W+R | 6.5 | 3375.0 | 0.0 | 
-| 2022-02-05 | 2021-2022韓国囲碁リーグ | Park Sangjin | Shin Jinseo | Lose | W+R | 6.5 | 3375.0 | 0.0 | 
-| 2022-01-21 | 2021-2022韓国囲碁リーグ | Park Sangjin | Ahn Kukhyun | Win | B+R | 6.5 | 3375.0 | -2.0 | 
-| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Lose | W+R | 6.5 | 3377.0 | -3.0 | 
-| 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Win | B+R | 6.5 | 3380.0 | 4.0 | 
-| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Win | W+R | 6.5 | 3376.0 | 22.0 | 
-| 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3354.0 | 54.0 | 
-| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Park Sangjin |  | Win | B+R | 6.5 | 3300.0 | 0.0 | 
-| 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3300.0 | 10.0 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3290.0 | -24.0 | 
-| 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3314.0 | -3.0 | 
-| 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Lose | W+0.5 | 6.5 | 3317.0 | -36.0 | 
-| 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Lose | W+R | 6.5 | 3353.0 | -45.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Lose | W+R | 6.5 | 3398.0 | -2.0 | 
-| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Win | W+R | 6.5 | 3400.0 | 24.0 | 
+| 2022-02-27 | 2021-2022韓国囲碁リーグ | Na Hyun | Park Sangjin | Lose | B+R | 6.5 | 3361.0 | -18.0 | 
+| 2022-02-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Yeongkyu | Lose | W+R | 6.5 | 3379.0 | 3.0 | 
+| 2022-02-10 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Sangjin | Win | W+R | 6.5 | 3376.0 | 0.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Park Sangjin | Shin Jinseo | Lose | W+R | 6.5 | 3376.0 | 0.0 | 
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Park Sangjin | Ahn Kukhyun | Win | B+R | 6.5 | 3376.0 | -2.0 | 
+| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Lose | W+R | 6.5 | 3378.0 | -3.0 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Win | B+R | 6.5 | 3381.0 | 4.0 | 
+| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Win | W+R | 6.5 | 3377.0 | 22.0 | 
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3355.0 | 54.0 | 
+| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Park Sangjin |  | Win | B+R | 6.5 | 3301.0 | 0.0 | 
+| 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3301.0 | 10.0 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3291.0 | -24.0 | 
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3315.0 | -3.0 | 
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Lose | W+0.5 | 6.5 | 3318.0 | -36.0 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Lose | W+R | 6.5 | 3354.0 | -44.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Lose | W+R | 6.5 | 3398.0 | -3.0 | 
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Win | W+R | 6.5 | 3401.0 | 25.0 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Lose | W+R | 6.5 | 3376.0 | -1.0 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3377.0 | 11.0 | 
 | 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Lose | W+R | 6.5 | 3366.0 | -5.0 | 
@@ -41,8 +41,8 @@
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 3355.0 | -16.0 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | Lose | B+R | 6.5 | 3371.0 | 3.0 | 
 | 2021-04-25 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Park Sangjin | Lose | B+R | 6.5 | 3368.0 | -28.0 | 
-| 2021-03-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Kipyo | Park Sangjin | Win | W+R | 6.5 | 3396.0 | 17.0 | 
-| 2021-03-10 | 第4期韓国竜星戦2回戦 | Park Sangjin | An Jungki | Win | B+2.5 | 6.5 | 3379.0 | 51.0 | 
+| 2021-03-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Kipyo | Park Sangjin | Win | W+R | 6.5 | 3396.0 | 16.0 | 
+| 2021-03-10 | 第4期韓国竜星戦2回戦 | Park Sangjin | An Jungki | Win | B+2.5 | 6.5 | 3380.0 | 52.0 | 
 | 2021-02-15 | 第4期韓国竜星戦1回戦 | Park Sangjin | Seo Nungwuk | Win | B+29.5 | 6.5 | 3328.0 | 4.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Sangjin | Lose | B+R | 6.5 | 3324.0 | -7.0 | 
 | 2021-02-10 | 第4期韓国竜星戦予選 | Wen Rubin | Park Sangjin | Win | W+R | 6.5 | 3331.0 | 10.0 | 

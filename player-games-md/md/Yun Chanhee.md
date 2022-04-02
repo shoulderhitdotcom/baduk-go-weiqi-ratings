@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-01 | 2022年アジア競技大会韓国予選 | Yun Chanhee | Park Jinsol | Win | B+R | 7.5 | 3355.0 | 15.0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Sangjin | Yun Chanhee | Win | W+R | 7.5 | 3340.0 | 0.0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Song Gyusang | Yun Chanhee | Lose | B+R | 7.5 | 3340.0 | -26.0 | 
 | 2022-03-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Yun Chanhee | Win | W+R | 6.5 | 3366.0 | 34.0 | 

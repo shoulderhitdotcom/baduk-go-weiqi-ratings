@@ -7,50 +7,53 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-10 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Lose | W+R | 6.5 | 3214.0 | 27.0 | 
-| 2022-02-25 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Changseok | Win | B+R | 6.5 | 3187.0 | 1.0 | 
-| 2022-02-24 | 第5期韓国竜星戦1回戦 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3186.0 | -33.0 | 
-| 2022-02-19 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Wonyoung | Lose | W+R | 6.5 | 3219.0 | -60.0 | 
-| 2022-02-11 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+1.5 | 6.5 | 3279.0 | 0.0 | 
-| 2022-02-09 | 2022YK建機杯予選 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3279.0 | -16.0 | 
-| 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | W+R | 6.5 | 3295.0 | 22.0 | 
-| 2022-01-22 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+5.5 | 6.5 | 3273.0 | -19.0 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Lose | W+R | 6.5 | 3292.0 | -14.0 | 
-| 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Lose | B+R | 6.5 | 3306.0 | -50.0 | 
-| 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Lose | W+R | 6.5 | 3356.0 | 33.0 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Win | B+R | 6.5 | 3323.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Han Woojin | Kim Junghyun | Win | W+2.5 | 6.5 | 3323.0 | -57.0 | 
-| 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | Lose | B+R | 6.5 | 3380.0 | -9.0 | 
-| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+R | 6.5 | 3389.0 | 1.0 | 
-| 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Lose | B+R | 6.5 | 3388.0 | -24.0 | 
-| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Lee Yeongkyu | Kim Junghyun | Win | W+R | 6.5 | 3412.0 | -1.0 | 
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Win | B+R | 6.5 | 3413.0 | 69.0 | 
-| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3344.0 | -38.0 | 
-| 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Lose | B+R | 6.5 | 3382.0 | 4.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | Kang Dongyun | Kim Junghyun | Lose | B+R | 6.5 | 3378.0 | -9.0 | 
-| 2021-05-02 | 第26回LG杯韓国予選 | Kim Seongjae | Kim Junghyun | Win | W+R | 6.5 | 3387.0 | -15.0 | 
-| 2021-04-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kim Junghyun | Kang Seungmin | Lose | W+R | 6.5 | 3402.0 | -21.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Shen Zaiyi | Win | B+R | 6.5 | 3423.0 | 25.0 | 
-| 2021-02-26 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Junghyun | Win | W+R | 6.5 | 3398.0 | 1.0 | 
-| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Kim Junghyun | Lee Changseok | Win | B+R | 6.5 | 3397.0 | 27.0 | 
-| 2021-02-21 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Lose | W+R | 6.5 | 3370.0 | 4.0 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Win | B+R | 6.5 | 3366.0 | 35.0 | 
-| 2021-02-09 | 第4期韓国竜星戦1回戦 |  | Kim Junghyun | Win | W+R | 6.5 | 3331.0 | 12.0 | 
-| 2021-02-06 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Kim Junghyun | Win | W+R | 6.5 | 3319.0 | 55.0 | 
-| 2021-01-28 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Geunho | Lose | W+R | 6.5 | 3264.0 | -24.0 | 
-| 2021-01-24 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Dongyun | Lose | W+R | 6.5 | 3288.0 | -33.0 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Lose | W+R | 6.5 | 3321.0 | -24.0 | 
-| 2021-01-11 | 第44期名人戦（韓国）予選 | Kang Seungmin | Kim Junghyun | Win | W+R | 6.5 | 3345.0 | 22.0 | 
-| 2021-01-08 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Junghyun | Lose | B+0.5 | 6.5 | 3323.0 | 13.0 | 
-| 2020-12-31 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Lose | W+R | 6.5 | 3310.0 | -44.0 | 
-| 2020-12-24 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Lee Taehyun | Win | B+R | 6.5 | 3354.0 | 82.0 | 
-| 2020-12-18 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kim Junghyun | Win | W+R | 6.5 | 3272.0 | 52.0 | 
-| 2020-12-13 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Choi Kyeongho | Win | B+R | 6.5 | 3220.0 | 26.0 | 
-| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kim Junghyun | Wen Rubin | Win | B+0.5 | 6.5 | 3194.0 | 86.0 | 
-| 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Oh Yujin | Kim Junghyun | Win | W+R | 6.5 | 3108.0 | 100.0 | 
-| 2020-12-03 | 2020-2021韓国囲碁リーグ | Kim Junghyun | An Jungki | Win | B+R | 6.5 | 3008.0 | 195.0 | 
-| 2020-11-28 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Yun Junsang | Lose | W+4.5 | 6.5 | 2813.0 | -157.0 | 
-| 2020-08-30 | 第25回三星火災杯韓国一般枠予選 | Kim Junghyun | Baek Hyeonwoo | Lose | W+R | 6.5 | 2970.0 | -118.0 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Junghyun |  | Win | B+R | 6.5 | 3223.0 | 16.0 | 
+| 2022-03-24 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Choi Jaeyoung | Win | B+R | 6.5 | 3207.0 | 0.0 | 
+| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Minkyu | Lose | W+R | 6.5 | 3207.0 | 0.0 | 
+| 2022-03-10 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Lose | W+R | 6.5 | 3207.0 | 26.0 | 
+| 2022-02-25 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Changseok | Win | B+R | 6.5 | 3181.0 | 1.0 | 
+| 2022-02-24 | 第5期韓国竜星戦1回戦 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3180.0 | -34.0 | 
+| 2022-02-19 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Wonyoung | Lose | W+R | 6.5 | 3214.0 | -59.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+1.5 | 6.5 | 3273.0 | 0.0 | 
+| 2022-02-09 | 2022YK建機杯予選 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3273.0 | -17.0 | 
+| 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | W+R | 6.5 | 3290.0 | 22.0 | 
+| 2022-01-22 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+5.5 | 6.5 | 3268.0 | -19.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Lose | W+R | 6.5 | 3287.0 | -14.0 | 
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Lose | B+R | 6.5 | 3301.0 | -51.0 | 
+| 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Lose | W+R | 6.5 | 3352.0 | 33.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Win | B+R | 6.5 | 3319.0 | 0.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Han Woojin | Kim Junghyun | Win | W+2.5 | 6.5 | 3319.0 | -57.0 | 
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | Lose | B+R | 6.5 | 3376.0 | -9.0 | 
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+R | 6.5 | 3385.0 | 1.0 | 
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Lose | B+R | 6.5 | 3384.0 | -24.0 | 
+| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Lee Yeongkyu | Kim Junghyun | Win | W+R | 6.5 | 3408.0 | -1.0 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Win | B+R | 6.5 | 3409.0 | 67.0 | 
+| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3342.0 | -38.0 | 
+| 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Lose | B+R | 6.5 | 3380.0 | 4.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | Kang Dongyun | Kim Junghyun | Lose | B+R | 6.5 | 3376.0 | -9.0 | 
+| 2021-05-02 | 第26回LG杯韓国予選 | Kim Seongjae | Kim Junghyun | Win | W+R | 6.5 | 3385.0 | -15.0 | 
+| 2021-04-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kim Junghyun | Kang Seungmin | Lose | W+R | 6.5 | 3400.0 | -21.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Shen Zaiyi | Win | B+R | 6.5 | 3421.0 | 25.0 | 
+| 2021-02-26 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Junghyun | Win | W+R | 6.5 | 3396.0 | 1.0 | 
+| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Kim Junghyun | Lee Changseok | Win | B+R | 6.5 | 3395.0 | 27.0 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Lose | W+R | 6.5 | 3368.0 | 4.0 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Win | B+R | 6.5 | 3364.0 | 35.0 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 |  | Kim Junghyun | Win | W+R | 6.5 | 3329.0 | 11.0 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Kim Junghyun | Win | W+R | 6.5 | 3318.0 | 56.0 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Geunho | Lose | W+R | 6.5 | 3262.0 | -24.0 | 
+| 2021-01-24 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Dongyun | Lose | W+R | 6.5 | 3286.0 | -34.0 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Lose | W+R | 6.5 | 3320.0 | -24.0 | 
+| 2021-01-11 | 第44期名人戦（韓国）予選 | Kang Seungmin | Kim Junghyun | Win | W+R | 6.5 | 3344.0 | 23.0 | 
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Junghyun | Lose | B+0.5 | 6.5 | 3321.0 | 13.0 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Lose | W+R | 6.5 | 3308.0 | -44.0 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Lee Taehyun | Win | B+R | 6.5 | 3352.0 | 82.0 | 
+| 2020-12-18 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kim Junghyun | Win | W+R | 6.5 | 3270.0 | 52.0 | 
+| 2020-12-13 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Choi Kyeongho | Win | B+R | 6.5 | 3218.0 | 25.0 | 
+| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kim Junghyun | Wen Rubin | Win | B+0.5 | 6.5 | 3193.0 | 86.0 | 
+| 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Oh Yujin | Kim Junghyun | Win | W+R | 6.5 | 3107.0 | 101.0 | 
+| 2020-12-03 | 2020-2021韓国囲碁リーグ | Kim Junghyun | An Jungki | Win | B+R | 6.5 | 3006.0 | 195.0 | 
+| 2020-11-28 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Yun Junsang | Lose | W+4.5 | 6.5 | 2811.0 | -158.0 | 
+| 2020-08-30 | 第25回三星火災杯韓国一般枠予選 | Kim Junghyun | Baek Hyeonwoo | Lose | W+R | 6.5 | 2969.0 | -119.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Song Gyusang | Kim Junghyun | Win | W+1.5 | 6.5 | 3088.0 | -196.0 | 
 | 2020-01-07 | 第3期韓国竜星戦予選決勝 |  | Kim Junghyun | Lose | B+R | 6.5 | 3284.0 | -96.0 | 
 | 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | Kim Junghyun | Choi Jeong | Lose | W+R | 6.5 | 3380.0 | -52.0 | 
@@ -67,8 +70,8 @@
 | 2017-08-17 | 2017年韓国囲碁リーグ | Lee Changho | Kim Junghyun | Lose | B+R | 6.5 | 3276.0 | -14.0 | 
 | 2017-08-06 | 2017年韓国囲碁リーグ | Weon Seongjin | Kim Junghyun | Lose | B+R | 6.5 | 3290.0 | -62.0 | 
 | 2017-07-22 | 2017年韓国囲碁リーグ | Yun Chanhee | Kim Junghyun | Lose | B+0.5 | 6.5 | 3352.0 | 4.0 | 
-| 2017-07-14 | 2017年韓国囲碁リーグ | Kim Junghyun | Lee Taehyun | Win | B+R | 6.5 | 3348.0 | 19.0 | 
-| 2017-07-07 | 第19回農心杯韓国選抜戦 | Kim Junghyun | Lee Changseok | Lose | W+R | 6.5 | 3329.0 | -6.0 | 
+| 2017-07-14 | 2017年韓国囲碁リーグ | Kim Junghyun | Lee Taehyun | Win | B+R | 6.5 | 3348.0 | 18.0 | 
+| 2017-07-07 | 第19回農心杯韓国選抜戦 | Kim Junghyun | Lee Changseok | Lose | W+R | 6.5 | 3330.0 | -5.0 | 
 | 2017-07-06 | 2017年韓国囲碁リーグ | Kim Junghyun | Lee Donghoon | Lose | W+R | 6.5 | 3335.0 | -27.0 | 
 | 2017-06-11 | 2017年韓国囲碁リーグ | Kim Junghyun | Paek Hongseok | Lose | W+0.5 | 6.5 | 3362.0 | -14.0 | 
 | 2017-06-03 | 2017年韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Lose | W+R | 6.5 | 3376.0 | -27.0 | 
@@ -76,26 +79,26 @@
 | 2017-05-18 | 2017年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | Win | B+2.5 | 6.5 | 3404.0 | -3.0 | 
 | 2017-04-07 | 第22期LG杯世界予選準決勝 | Tan Xiao | Kim Junghyun | Win | W+0.5 | 6.5 | 3407.0 | -6.0 | 
 | 2017-03-27 | 世界第三期Mlily夢百合杯予選2回戦 | Kim Junghyun | Xie He | Lose | W+0.5 | 7.5 | 3413.0 | -18.0 | 
-| 2016-12-31 | Alphago Online Series on Tygem and Fox 23 |  | Kim Junghyun | Lose | B+R | 6.5 | 3431.0 | 9.0 | 
-| 2016-10-22 | 2016年韓国囲碁リーグ第18節 | Kim Kiyoung | Kim Junghyun | Lose | B+R | 6.5 | 3422.0 | -3.0 | 
-| 2016-10-14 | 2016年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | Win | B+4.5 | 6.5 | 3425.0 | 26.0 | 
+| 2016-12-31 | Alphago Online Series on Tygem and Fox 23 |  | Kim Junghyun | Lose | B+R | 6.5 | 3431.0 | 8.0 | 
+| 2016-10-22 | 2016年韓国囲碁リーグ第18節 | Kim Kiyoung | Kim Junghyun | Lose | B+R | 6.5 | 3423.0 | -3.0 | 
+| 2016-10-14 | 2016年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | Win | B+4.5 | 6.5 | 3426.0 | 27.0 | 
 | 2016-10-06 | 2016年韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Lose | W+R | 6.5 | 3399.0 | -15.0 | 
 | 2016-10-02 | 2016年韓国囲碁リーグ | Kim Junghyun | Paek Hongseok | Lose | W+2.5 | 6.5 | 3414.0 | -19.0 | 
 | 2016-09-26 | 第35回KBS杯囲碁王戦16強戦 | Kim Junghyun | Lee Yeongkyu | Lose | W+R | 6.5 | 3433.0 | -27.0 | 
 | 2016-09-23 | 2016年韓国囲碁リーグ第14節 | Byun Sangil | Kim Junghyun | Lose | B+0.5 | 6.5 | 3460.0 | -37.0 | 
 | 2016-09-02 | 2016年韓国囲碁リーグ第12節 | Lee Changho | Kim Junghyun | Win | W+R | 6.5 | 3497.0 | 28.0 | 
-| 2016-08-28 | 2016年韓国囲碁リーグ第11節 | Lee Wonyoung | Kim Junghyun | Win | W+R | 6.5 | 3469.0 | 12.0 | 
-| 2016-08-19 | 2016年韓国囲碁リーグ第10節 | An Sungjoon | Kim Junghyun | Lose | B+2.5 | 6.5 | 3457.0 | -21.0 | 
-| 2016-08-12 | 2016年韓国囲碁リーグ第9節 | Kim Junghyun | Heo Yongho | Lose | W+R | 6.5 | 3478.0 | -17.0 | 
+| 2016-08-28 | 2016年韓国囲碁リーグ第11節 | Lee Wonyoung | Kim Junghyun | Win | W+R | 6.5 | 3469.0 | 11.0 | 
+| 2016-08-19 | 2016年韓国囲碁リーグ第10節 | An Sungjoon | Kim Junghyun | Lose | B+2.5 | 6.5 | 3458.0 | -21.0 | 
+| 2016-08-12 | 2016年韓国囲碁リーグ第9節 | Kim Junghyun | Heo Yongho | Lose | W+R | 6.5 | 3479.0 | -16.0 | 
 | 2016-07-30 | 2016年韓国囲碁リーグ第8節 | Kim Junghyun | Lee Sedol | Win | B+3.5 | 6.5 | 3495.0 | 31.0 | 
 | 2016-07-24 | 2016年韓国囲碁リーグ第7節 | Kim Junghyun | Lee Donghoon | Win | B+R | 6.5 | 3464.0 | 1.0 | 
 | 2016-07-22 | 第18回農心杯韓国選抜戦 | Kim Junghyun | Choi Cheolhan | Lose | W+R | 6.5 | 3463.0 | -47.0 | 
 | 2016-07-07 | 2016年韓国囲碁リーグ第6節 | Kim Junghyun | Paek Hongseok | Lose | W+R | 6.5 | 3510.0 | -43.0 | 
 | 2016-06-25 | 2016年韓国囲碁リーグ第5節 | Kim Junghyun | Kim Minho | Win | B+R | 6.5 | 3553.0 | 30.0 | 
 | 2016-06-13 | 第35回KBS杯囲碁王戦2回戦 | Choi Jaeyoung | Kim Junghyun | Win | W+R | 6.5 | 3523.0 | 25.0 | 
-| 2016-06-11 | 2016年韓国囲碁リーグ第3節 | Kim Junghyun | Lee Changho | Lose | W+R | 6.5 | 3498.0 | -38.0 | 
-| 2016-06-02 | 2016年韓国囲碁リーグ第2節 | Kim Junghyun | Kang Dongyun | Win | B+R | 6.5 | 3536.0 | 44.0 | 
-| 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Kim Junghyun | Jiang Weijie | Lose | W+0.5 | 7.5 | 3492.0 | -26.0 | 
+| 2016-06-11 | 2016年韓国囲碁リーグ第3節 | Kim Junghyun | Lee Changho | Lose | W+R | 6.5 | 3498.0 | -39.0 | 
+| 2016-06-02 | 2016年韓国囲碁リーグ第2節 | Kim Junghyun | Kang Dongyun | Win | B+R | 6.5 | 3537.0 | 44.0 | 
+| 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Kim Junghyun | Jiang Weijie | Lose | W+0.5 | 7.5 | 3493.0 | -25.0 | 
 | 2016-05-21 | 2016年韓国囲碁リーグ第1節 | Kang Seungmin | Kim Junghyun | Win | W+R | 6.5 | 3518.0 | -4.0 | 
 | 2016-04-02 | 第21回LG杯予選 | Gu Zihao | Kim Junghyun | Win | W+R | 6.5 | 3522.0 | 43.0 | 
 | 2016-02-25 | 第21期GSカルテックス杯プロ棋戦2回戦 | Shin Jinseo | Kim Junghyun | Lose | B+R | 6.5 | 3479.0 | 5.0 | 
@@ -180,8 +183,8 @@
 | 2013-09-01 | 2013年韓国囲碁リーグ | Han Sanghoon | Kim Junghyun | Win | W+0.5 | 6.5 | 3631.0 | 93.0 | 
 | 2013-08-09 | 2013年韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | W+R | 6.5 | 3538.0 | 44.0 | 
 | 2013-08-07 | 第18回三星火災杯統合予選決勝 | Song Taekon | Kim Junghyun | Lose | B+R | 6.5 | 3494.0 | -21.0 | 
-| 2013-08-05 | 第18回三星火災杯統合予選3回戦 | Tan Xiao | Kim Junghyun | Win | W+R | 6.5 | 3515.0 | 36.0 | 
-| 2013-08-02 | 2013年韓国囲碁リーグ | Kim Junghyun | Na Hyun | Lose | W+R | 6.5 | 3479.0 | 38.0 | 
+| 2013-08-05 | 第18回三星火災杯統合予選3回戦 | Tan Xiao | Kim Junghyun | Win | W+R | 6.5 | 3515.0 | 35.0 | 
+| 2013-08-02 | 2013年韓国囲碁リーグ | Kim Junghyun | Na Hyun | Lose | W+R | 6.5 | 3480.0 | 39.0 | 
 | 2013-07-18 | 2013年韓国囲碁リーグ | Kim Junghyun | Cho Insun | Win | B+R | 6.5 | 3441.0 | 39.0 | 
 | 2013-07-15 | 第15回農心杯韓国選抜戦 | Park Shiun | Kim Junghyun | Win | W+R | 6.5 | 3402.0 | -29.0 | 
 | 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Kim Junghyun | Wang Xi | Lose | W+R | 7.5 | 3431.0 | 2.0 | 

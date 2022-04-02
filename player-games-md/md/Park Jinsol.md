@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-01 | 2022年アジア競技大会韓国予選 | Yun Chanhee | Park Jinsol | Lose | B+R | 7.5 | 3437.0 | 0.0 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Jinsol |  | Win | B+5.5 | 6.5 | 3437.0 | -22.0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Jinsol | Song Gyusang | Lose | W+3¼ | 7.5 | 3459.0 | 0.0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Sangjin | Park Jinsol | Win | W+¼ | 7.5 | 3459.0 | 8.0 | 
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Park Jinsol | Weon Seongjin | Win | B+R | 6.5 | 3451.0 | 0.0 | 

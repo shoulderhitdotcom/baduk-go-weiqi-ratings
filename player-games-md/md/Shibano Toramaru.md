@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-02 | 第1回テイケイ杯俊英戦決勝三番勝負第2局  | Shibano Toramaru | Hsu Chiayuan | Lose | W+R | 6.5 | 3369.0 | -6.0 | 
 | 2022-03-31 | 第77期本因坊戦リーグ  | Shibano Toramaru | Yu Zhengqi | Win | B+0.5 | 6.5 | 3375.0 | 7.0 | 
 | 2022-03-26 | 第47期名人戦リーグ  | Shida Tatsuya | Shibano Toramaru | Win | W+R | 6.5 | 3368.0 | -22.0 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ding Hao | Shibano Toramaru | Lose | B+R | 7.5 | 3390.0 | 2.0 | 

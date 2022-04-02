@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-02 | 第1回テイケイ杯俊英戦決勝三番勝負第2局  | Shibano Toramaru | Hsu Chiayuan | Win | W+R | 6.5 | 3510.0 | 7.0 | 
 | 2022-03-31 | 第77期本因坊戦リーグ | Hane Naoki | Hsu Chiayuan | Win | W+R | 6.5 | 3503.0 | 6.0 | 
 | 2022-03-23 | 第60期十段戦挑戦手合五番勝負第2局  | Yu Zhengqi | Hsu Chiayuan | Win | W+R | 6.5 | 3497.0 | 0.0 | 
 | 2022-03-17 | 第47期名人戦リーグ  | Hsu Chiayuan | Ida Atsushi | Win | B+R | 6.5 | 3497.0 | 7.0 | 

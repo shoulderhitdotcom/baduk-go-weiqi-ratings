@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-02 | 2021-2022フューチャーズリーグ | Kang Jihoon | Ryu Minhyung | Win | B+R | 6.5 | 3270.0 | 24.0 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Park Seunghwa | Kang Jihoon | Win | W+R | 6.5 | 3246.0 | 30.0 | 
 | 2022-03-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kang Jihoon | Lose | B+R | 6.5 | 3216.0 | -22.0 | 
 | 2022-03-25 | 2021-2022韓国囲碁リーグ | Kang Jihoon | Lee Taehyun | Win | B+R | 6.5 | 3238.0 | 0.0 | 

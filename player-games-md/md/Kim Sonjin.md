@@ -7,61 +7,63 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-03-12 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Kim Sonjin | Win | W+R | 6.5 | 3120.0 | 12.0 | 
-| 2022-03-09 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Hyeonjun | Lose | W+3.5 | 6.5 | 3108.0 | 5.0 | 
-| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Lose | B+R | 6.5 | 3103.0 | 5.0 | 
-| 2022-02-26 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Win | B+7.5 | 6.5 | 3098.0 | 96.0 | 
-| 2022-02-23 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Win | B+0.5 | 6.5 | 3002.0 | -93.0 | 
-| 2022-02-16 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Sonjin | Lose | B+R | 6.5 | 3095.0 | 34.0 | 
-| 2022-01-26 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Lose | B+6.5 | 6.5 | 3061.0 | -27.0 | 
-| 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Win | W+R | 6.5 | 3088.0 | -23.0 | 
-| 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Win | W+R | 6.5 | 3111.0 | 2.0 | 
-| 2022-01-04 | 2021-2022フューチャーズリーグ | Lee Hyunho | Kim Sonjin | Lose | B+R | 6.5 | 3109.0 | 9.0 | 
-| 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Changhoon | Lose | W+7.5 | 6.5 | 3100.0 | -15.0 | 
-| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Lose | W+R | 6.5 | 3115.0 | 111.0 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Win | B+R | 6.5 | 3004.0 | -17.0 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Kim Sonjin | Win | W+R | 6.5 | 3021.0 | -106.0 | 
-| 2021-04-10 | 第44期名人戦（韓国）敗者復活戦1回戦 | Kim Sonjin | Shin Jinseo | Lose | W+R | 6.5 | 3127.0 | 1.0 | 
-| 2021-03-13 | 第44期名人戦（韓国）1回戦 | Kim Sonjin | An Jungki | Lose | W+1.5 | 6.5 | 3126.0 | -16.0 | 
-| 2021-03-05 | 2020-2021フューチャーズリーグ | Park Younglong | Kim Sonjin | Lose | B+R | 6.5 | 3142.0 | -3.0 | 
-| 2021-02-21 | 2020-2021フューチャーズリーグ | Kim Sonjin | Oh Yujin | Lose | W+R | 6.5 | 3145.0 | -8.0 | 
-| 2021-02-17 | 2020-2021フューチャーズリーグ | Kim Sonjin | Han Sanghoon | Win | B+R | 6.5 | 3153.0 | 52.0 | 
-| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Lose | W+3.5 | 6.5 | 3101.0 | -11.0 | 
-| 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sonjin | Ju Hyeongwuk | Lose | W+1.5 | 6.5 | 3112.0 | -12.0 | 
-| 2021-01-24 | 2020-2021フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | W+R | 6.5 | 3124.0 | -7.0 | 
-| 2021-01-20 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Win | W+0.5 | 6.5 | 3131.0 | 23.0 | 
-| 2021-01-10 | 2020-2021フューチャーズリーグ | Park Younglong | Kim Sonjin | Win | W+R | 6.5 | 3108.0 | 45.0 | 
-| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Kim Sonjin | Lose | B+2.5 | 6.5 | 3063.0 | -27.0 | 
-| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sonjin | Park Jaekeun | Lose | W+R | 6.5 | 3090.0 | -19.0 | 
-| 2020-12-23 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Lose | W+R | 6.5 | 3109.0 | -5.0 | 
-| 2020-12-13 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | Lose | B+R | 6.5 | 3114.0 | -32.0 | 
-| 2020-12-05 | 2020-2021フューチャーズリーグ | Kim Sonjin | Baek Chanhee | Lose | W+3.5 | 6.5 | 3146.0 | -51.0 | 
-| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Win | W+4.5 | 6.5 | 3197.0 | 78.0 | 
-| 2020-10-26 | 第1回ORO30-40囲碁選手権リーグ | Yun Junsang | Kim Sonjin | Win | W+0.5 | 6.5 | 3119.0 | 42.0 | 
+| 2022-04-02 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seungjun | Win | B+R | 6.5 | 3165.0 | 52.0 | 
+| 2022-03-20 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Sonjin | Win | W+R | 6.5 | 3113.0 | 0.0 | 
+| 2022-03-12 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Kim Sonjin | Win | W+R | 6.5 | 3113.0 | 12.0 | 
+| 2022-03-09 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Hyeonjun | Lose | W+3.5 | 6.5 | 3101.0 | 4.0 | 
+| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Lose | B+R | 6.5 | 3097.0 | 5.0 | 
+| 2022-02-26 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Win | B+7.5 | 6.5 | 3092.0 | 96.0 | 
+| 2022-02-23 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Win | B+0.5 | 6.5 | 2996.0 | -93.0 | 
+| 2022-02-16 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Sonjin | Lose | B+R | 6.5 | 3089.0 | 33.0 | 
+| 2022-01-26 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Lose | B+6.5 | 6.5 | 3056.0 | -27.0 | 
+| 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Win | W+R | 6.5 | 3083.0 | -23.0 | 
+| 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Win | W+R | 6.5 | 3106.0 | 2.0 | 
+| 2022-01-04 | 2021-2022フューチャーズリーグ | Lee Hyunho | Kim Sonjin | Lose | B+R | 6.5 | 3104.0 | 9.0 | 
+| 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Changhoon | Lose | W+7.5 | 6.5 | 3095.0 | -16.0 | 
+| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Lose | W+R | 6.5 | 3111.0 | 111.0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Win | B+R | 6.5 | 3000.0 | -17.0 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Kim Sonjin | Win | W+R | 6.5 | 3017.0 | -109.0 | 
+| 2021-04-10 | 第44期名人戦（韓国）敗者復活戦1回戦 | Kim Sonjin | Shin Jinseo | Lose | W+R | 6.5 | 3126.0 | 1.0 | 
+| 2021-03-13 | 第44期名人戦（韓国）1回戦 | Kim Sonjin | An Jungki | Lose | W+1.5 | 6.5 | 3125.0 | -16.0 | 
+| 2021-03-05 | 2020-2021フューチャーズリーグ | Park Younglong | Kim Sonjin | Lose | B+R | 6.5 | 3141.0 | -2.0 | 
+| 2021-02-21 | 2020-2021フューチャーズリーグ | Kim Sonjin | Oh Yujin | Lose | W+R | 6.5 | 3143.0 | -8.0 | 
+| 2021-02-17 | 2020-2021フューチャーズリーグ | Kim Sonjin | Han Sanghoon | Win | B+R | 6.5 | 3151.0 | 51.0 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Lose | W+3.5 | 6.5 | 3100.0 | -11.0 | 
+| 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sonjin | Ju Hyeongwuk | Lose | W+1.5 | 6.5 | 3111.0 | -11.0 | 
+| 2021-01-24 | 2020-2021フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | W+R | 6.5 | 3122.0 | -7.0 | 
+| 2021-01-20 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Win | W+0.5 | 6.5 | 3129.0 | 22.0 | 
+| 2021-01-10 | 2020-2021フューチャーズリーグ | Park Younglong | Kim Sonjin | Win | W+R | 6.5 | 3107.0 | 45.0 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Kim Sonjin | Lose | B+2.5 | 6.5 | 3062.0 | -27.0 | 
+| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sonjin | Park Jaekeun | Lose | W+R | 6.5 | 3089.0 | -19.0 | 
+| 2020-12-23 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Lose | W+R | 6.5 | 3108.0 | -4.0 | 
+| 2020-12-13 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | Lose | B+R | 6.5 | 3112.0 | -33.0 | 
+| 2020-12-05 | 2020-2021フューチャーズリーグ | Kim Sonjin | Baek Chanhee | Lose | W+3.5 | 6.5 | 3145.0 | -51.0 | 
+| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Kim Sonjin | Win | W+4.5 | 6.5 | 3196.0 | 78.0 | 
+| 2020-10-26 | 第1回ORO30-40囲碁選手権リーグ | Yun Junsang | Kim Sonjin | Win | W+0.5 | 6.5 | 3118.0 | 41.0 | 
 | 2020-10-14 | 第1回ORO30-40囲碁選手権リーグ | On Sojin | Kim Sonjin | Lose | B+R | 6.5 | 3077.0 | -111.0 | 
 | 2020-10-07 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Kim Sonjin | Lose | B+R | 6.5 | 3188.0 | -116.0 | 
 | 2020-09-28 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Paek Hongseok | Win | B+1.5 | 6.5 | 3304.0 | 82.0 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Sonjin |  | Lose | W+R | 6.5 | 3222.0 | -80.0 | 
 | 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Yun Chanhee | Win | B+R | 6.5 | 3302.0 | 97.0 | 
-| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Cho Hyeyeon | Win | B+R | 6.5 | 3205.0 | 21.0 | 
-| 2020-09-03 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | Win | B+R | 6.5 | 3184.0 | -50.0 | 
+| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Cho Hyeyeon | Win | B+R | 6.5 | 3205.0 | 22.0 | 
+| 2020-09-03 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | Win | B+R | 6.5 | 3183.0 | -51.0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Kim Sonjin | Gon Jiwoo | Lose | W+R | 6.5 | 3234.0 | 48.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Park Siyeol | Kim Sonjin | Win | W+R | 6.5 | 3186.0 | 0.0 | 
-| 2019-06-19 | 2019年中国囲碁乙級リーグ | Kim Sonjin | Chen Shiyuan | Win | B+R | 7.5 | 3186.0 | 57.0 | 
-| 2019-01-15 | 第38回KBS杯囲碁王戦1回戦 | Kim Myounghoon | Kim Sonjin | Lose | B+R | 6.5 | 3129.0 | 0.0 | 
-| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Kim Sonjin | Li Xiangyu | Lose | W+R | 6.5 | 3129.0 | -37.0 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Kim Sonjin | Chen Shiyuan | Win | B+R | 7.5 | 3186.0 | 56.0 | 
+| 2019-01-15 | 第38回KBS杯囲碁王戦1回戦 | Kim Myounghoon | Kim Sonjin | Lose | B+R | 6.5 | 3130.0 | 0.0 | 
+| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Kim Sonjin | Li Xiangyu | Lose | W+R | 6.5 | 3130.0 | -36.0 | 
 | 2017-10-30 | 2017年フューチャーズリーグ | Park Hamin | Kim Sonjin | Win | W+R | 6.5 | 3166.0 | 88.0 | 
 | 2017-10-07 | 2017年フューチャーズリーグ |  | Kim Sonjin | Lose | B+0.5 | 6.5 | 3078.0 | -37.0 | 
 | 2017-10-01 | 2017年フューチャーズリーグ |  | Kim Sonjin | Win | W+1.5 | 6.5 | 3115.0 | 56.0 | 
 | 2017-09-27 | 2017年フューチャーズリーグ | Lee Changseok | Kim Sonjin | Lose | B+R | 6.5 | 3059.0 | 12.0 | 
 | 2017-09-16 | 2017年フューチャーズリーグ | Kim Sonjin | Park Jaekeun | Lose | W+R | 6.5 | 3047.0 | -23.0 | 
-| 2017-09-02 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Kim Sonjin | Lose | B+0.5 | 6.5 | 3070.0 | -21.0 | 
-| 2017-08-30 | 2017年フューチャーズリーグ | Kim Sonjin | Kim Minho | Win | B+R | 6.5 | 3091.0 | 47.0 | 
+| 2017-09-02 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Kim Sonjin | Lose | B+0.5 | 6.5 | 3070.0 | -22.0 | 
+| 2017-08-30 | 2017年フューチャーズリーグ | Kim Sonjin | Kim Minho | Win | B+R | 6.5 | 3092.0 | 48.0 | 
 | 2017-08-19 | 2017年フューチャーズリーグ | Kim Jinhyu | Kim Sonjin | Lose | B+R | 6.5 | 3044.0 | 15.0 | 
 | 2017-08-09 | 2017年フューチャーズリーグ | Park Geunho | Kim Sonjin | Lose | B+0.5 | 6.5 | 3029.0 | -41.0 | 
-| 2017-07-23 | 2017年フューチャーズリーグ | Kim Sonjin |  | Win | B+R | 6.5 | 3070.0 | 106.0 | 
-| 2017-07-15 | 2017年フューチャーズリーグ |  | Kim Sonjin | Lose | B+R | 6.5 | 2964.0 | -126.0 | 
-| 2017-07-08 | 2017年フューチャーズリーグ | Lee Changseok | Kim Sonjin | Lose | B+R | 6.5 | 3090.0 | -121.0 | 
+| 2017-07-23 | 2017年フューチャーズリーグ | Kim Sonjin |  | Win | B+R | 6.5 | 3070.0 | 105.0 | 
+| 2017-07-15 | 2017年フューチャーズリーグ |  | Kim Sonjin | Lose | B+R | 6.5 | 2965.0 | -126.0 | 
+| 2017-07-08 | 2017年フューチャーズリーグ | Lee Changseok | Kim Sonjin | Lose | B+R | 6.5 | 3091.0 | -120.0 | 
 | 2017-06-22 | 2017年フューチャーズリーグ | Kim Sonjin | Kim Dongho | Win | B+R | 6.5 | 3211.0 | -1.0 | 
 | 2017-06-09 | 2017年中国囲碁乙級リーグ | Kim Sonjin |  | Win | B+R | 7.5 | 3212.0 | 0.0 | 
 | 2017-06-04 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Kim Sonjin | Lose | B+R | 6.5 | 3212.0 | 0.0 | 

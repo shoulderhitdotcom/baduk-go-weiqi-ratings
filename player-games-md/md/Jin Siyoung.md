@@ -7,41 +7,41 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-03 | 2021-2022フューチャーズリーグ | Jin Siyoung | An Joyeong | Lose | W+3.5 | 6.5 | 3227.0 | -24.0 | 
-| 2022-03-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kang Jihoon | Win | B+R | 6.5 | 3251.0 | -3.0 | 
-| 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | Lose | W+R | 6.5 | 3254.0 | 0.0 | 
-| 2022-03-19 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Jin Siyoung | Win | W+R | 6.5 | 3254.0 | 25.0 | 
-| 2022-03-16 | 2021-2022フューチャーズリーグ | Jin Siyoung |  | Win | B+R | 6.5 | 3229.0 | 41.0 | 
-| 2022-03-05 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Wondo | Lose | W+R | 6.5 | 3188.0 | -31.0 | 
-| 2022-02-28 | 2022YK建機杯予選 | Jin Siyoung | Weon Seongjin | Lose | W+R | 6.5 | 3219.0 | 19.0 | 
-| 2022-02-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Jin Siyoung | Win | W+R | 6.5 | 3200.0 | 19.0 | 
-| 2022-02-16 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Sonjin | Win | B+R | 6.5 | 3181.0 | -15.0 | 
-| 2022-02-13 | 2021-2022韓国囲碁リーグ | Byun Sangil | Jin Siyoung | Lose | B+R | 6.5 | 3196.0 | 30.0 | 
-| 2022-02-05 | 2021-2022フューチャーズリーグ | Jin Siyoung |  | Win | B+R | 6.5 | 3166.0 | 0.0 | 
-| 2022-01-22 | 2021-2022フューチャーズリーグ | Jin Siyoung | Wi Taewoong | Lose | W+R | 6.5 | 3166.0 | -8.0 | 
-| 2022-01-21 | 2021-2022韓国囲碁リーグ | Moon Minjong | Jin Siyoung | Win | W+R | 6.5 | 3174.0 | 117.0 | 
-| 2022-01-16 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Jin Siyoung | Win | W+R | 6.5 | 3057.0 | -5.0 | 
-| 2022-01-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Jin Siyoung | Win | W+R | 6.5 | 3062.0 | 92.0 | 
-| 2022-01-01 | 2021-2022フューチャーズリーグ | Jin Siyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2970.0 | 0.0 | 
-| 2021-12-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Daeyoung | Win | B+R | 6.5 | 2970.0 | -69.0 | 
-| 2021-12-05 | 2021-2022フューチャーズリーグ | Kim Changhoon | Jin Siyoung | Lose | B+R | 6.5 | 3039.0 | -10.0 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Hyungjin | Win | B+R | 6.5 | 3049.0 | -325.0 | 
+| 2022-04-03 | 2021-2022フューチャーズリーグ | Jin Siyoung | An Joyeong | Lose | W+3.5 | 6.5 | 3231.0 | -24.0 | 
+| 2022-03-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kang Jihoon | Win | B+R | 6.5 | 3255.0 | -3.0 | 
+| 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | Lose | W+R | 6.5 | 3258.0 | 0.0 | 
+| 2022-03-19 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Jin Siyoung | Win | W+R | 6.5 | 3258.0 | 25.0 | 
+| 2022-03-16 | 2021-2022フューチャーズリーグ | Jin Siyoung |  | Win | B+R | 6.5 | 3233.0 | 41.0 | 
+| 2022-03-05 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Wondo | Lose | W+R | 6.5 | 3192.0 | -31.0 | 
+| 2022-02-28 | 2022YK建機杯予選 | Jin Siyoung | Weon Seongjin | Lose | W+R | 6.5 | 3223.0 | 20.0 | 
+| 2022-02-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Jin Siyoung | Win | W+R | 6.5 | 3203.0 | 19.0 | 
+| 2022-02-16 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Sonjin | Win | B+R | 6.5 | 3184.0 | -15.0 | 
+| 2022-02-13 | 2021-2022韓国囲碁リーグ | Byun Sangil | Jin Siyoung | Lose | B+R | 6.5 | 3199.0 | 30.0 | 
+| 2022-02-05 | 2021-2022フューチャーズリーグ | Jin Siyoung |  | Win | B+R | 6.5 | 3169.0 | 0.0 | 
+| 2022-01-22 | 2021-2022フューチャーズリーグ | Jin Siyoung | Wi Taewoong | Lose | W+R | 6.5 | 3169.0 | -8.0 | 
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Moon Minjong | Jin Siyoung | Win | W+R | 6.5 | 3177.0 | 117.0 | 
+| 2022-01-16 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Jin Siyoung | Win | W+R | 6.5 | 3060.0 | -5.0 | 
+| 2022-01-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Jin Siyoung | Win | W+R | 6.5 | 3065.0 | 93.0 | 
+| 2022-01-01 | 2021-2022フューチャーズリーグ | Jin Siyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2972.0 | 0.0 | 
+| 2021-12-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Daeyoung | Win | B+R | 6.5 | 2972.0 | -69.0 | 
+| 2021-12-05 | 2021-2022フューチャーズリーグ | Kim Changhoon | Jin Siyoung | Lose | B+R | 6.5 | 3041.0 | -10.0 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Hyungjin | Win | B+R | 6.5 | 3051.0 | -323.0 | 
 | 2021-11-21 | 2021-2022フューチャーズリーグ | Jin Siyoung | Shin Jaeweon | Lose | W+R | 6.5 | 3374.0 | 0.0 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Jin Siyoung | Wi Taewoong | Lose | W+R | 6.5 | 3374.0 | 0.0 | 
 | 2021-04-28 | 第26回LG杯韓国予選 | Jin Siyoung | Park Jinsol | Lose | W+R | 6.5 | 3374.0 | 0.0 | 
 | 2021-02-04 | 第4期韓国竜星戦予選 | Hong Mujin | Jin Siyoung | Lose | B+R | 6.5 | 3374.0 | 0.0 | 
-| 2020-04-13 | 第25回LG杯韓国予選 | Jin Siyoung |  | Lose | W+1.5 | 6.5 | 3374.0 | -40.0 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第4局 | Jin Siyoung | Choi Jaeyoung | Win | B+R | 6.5 | 3414.0 | 7.0 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Jin Siyoung |  | Lose | W+1.5 | 6.5 | 3374.0 | -41.0 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第4局 | Jin Siyoung | Choi Jaeyoung | Win | B+R | 6.5 | 3415.0 | 8.0 | 
 | 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第4局 | Wen Rubin | Jin Siyoung | Win | W+R | 6.5 | 3407.0 | 23.0 | 
 | 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第3局 | Jin Siyoung | Park Hyunsoo | Win | B+R | 6.5 | 3384.0 | 16.0 | 
 | 2020-01-02 | 2019-2020韓国囲碁リーグ第14節第1試合第4局 | Lee Yeongkyu | Jin Siyoung | Lose | B+1.5 | 6.5 | 3368.0 | -27.0 | 
-| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 3395.0 | -35.0 | 
-| 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第5局 | Jin Siyoung | Park Hamin | Win | B+R | 6.5 | 3430.0 | 47.0 | 
-| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選 | Jin Siyoung | Lee Donghoon | Lose | W+R | 6.5 | 3383.0 | -18.0 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 3395.0 | -36.0 | 
+| 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第5局 | Jin Siyoung | Park Hamin | Win | B+R | 6.5 | 3431.0 | 47.0 | 
+| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選 | Jin Siyoung | Lee Donghoon | Lose | W+R | 6.5 | 3384.0 | -17.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第5局 | Park Sangjin | Jin Siyoung | Win | W+R | 6.5 | 3401.0 | 30.0 | 
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第4局 | Jin Siyoung | Lee Wondo | Win | B+R | 6.5 | 3371.0 | 16.0 | 
-| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | Win | B+R | 6.5 | 3355.0 | 55.0 | 
-| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | Win | B+4.5 | 6.5 | 3300.0 | 53.0 | 
+| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | Win | B+R | 6.5 | 3355.0 | 54.0 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | Win | B+4.5 | 6.5 | 3301.0 | 54.0 | 
 | 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第4局 | Paek Hongseok | Jin Siyoung | Win | W+R | 6.5 | 3247.0 | 70.0 | 
 | 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第5局 | Lee Yeongkyu | Jin Siyoung | Lose | B+R | 6.5 | 3177.0 | -67.0 | 
 | 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 3244.0 | 148.0 | 
@@ -57,11 +57,11 @@
 | 2018-09-26 | 2018年韓国囲碁リーグ第12節 | Oh Yujin | Jin Siyoung | Win | W+R | 6.5 | 3304.0 | 41.0 | 
 | 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Kim Myounghoon | Jin Siyoung | Lose | B+R | 6.5 | 3263.0 | -2.0 | 
 | 2018-09-15 | 2018年フューチャーズリーグ | Wi Taewoong | Jin Siyoung | Win | W+R | 6.5 | 3265.0 | 8.0 | 
-| 2018-09-01 | 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | Win | W+R | 6.5 | 3257.0 | 6.0 | 
-| 2018-08-26 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | Lose | W+R | 6.5 | 3251.0 | -14.0 | 
-| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Jin Siyoung | Hong Kipyo | Win | B+R | 6.5 | 3265.0 | 17.0 | 
-| 2018-08-22 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Kiyoung | Win | B+R | 6.5 | 3248.0 | 16.0 | 
-| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Jin Siyoung | Ryu Minhyung | Win | B+R | 6.5 | 3232.0 | 85.0 | 
+| 2018-09-01 | 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | Win | W+R | 6.5 | 3257.0 | 7.0 | 
+| 2018-08-26 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | Lose | W+R | 6.5 | 3250.0 | -15.0 | 
+| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Jin Siyoung | Hong Kipyo | Win | B+R | 6.5 | 3265.0 | 18.0 | 
+| 2018-08-22 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Kiyoung | Win | B+R | 6.5 | 3247.0 | 16.0 | 
+| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Jin Siyoung | Ryu Minhyung | Win | B+R | 6.5 | 3231.0 | 84.0 | 
 | 2018-08-12 | 2018年フューチャーズリーグ | Jin Siyoung | Lee Chungyu | Win | B+R | 6.5 | 3147.0 | 95.0 | 
 | 2018-08-04 | 2018年フューチャーズリーグ |  | Jin Siyoung | Win | W+R | 6.5 | 3052.0 | 90.0 | 
 | 2018-07-21 | 2018年フューチャーズリーグ | Jin Siyoung | Song Gyusang | Lose | W+R | 6.5 | 2962.0 | -27.0 | 
@@ -72,8 +72,8 @@
 | 2018-06-16 | 2018年フューチャーズリーグ | Park Sangjin | Jin Siyoung | Lose | B+R | 6.5 | 3056.0 | -66.0 | 
 | 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Park Minkyu | Jin Siyoung | Lose | B+R | 6.5 | 3122.0 | 1.0 | 
 | 2017-10-13 | 2017年韓国囲碁リーグ | Jin Siyoung |  | Lose | W+R | 6.5 | 3121.0 | -71.0 | 
-| 2017-09-24 | 2017年韓国囲碁リーグ | Jin Siyoung |  | Lose | W+R | 6.5 | 3192.0 | -47.0 | 
-| 2017-09-16 | 2017年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | Lose | W+R | 6.5 | 3239.0 | -26.0 | 
+| 2017-09-24 | 2017年韓国囲碁リーグ | Jin Siyoung |  | Lose | W+R | 6.5 | 3192.0 | -46.0 | 
+| 2017-09-16 | 2017年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | Lose | W+R | 6.5 | 3238.0 | -27.0 | 
 | 2017-08-18 | 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | Lose | B+R | 6.5 | 3265.0 | -21.0 | 
 | 2017-08-11 | 2017年韓国囲碁リーグ | Jin Siyoung | Yun Chanhee | Lose | W+R | 6.5 | 3286.0 | -67.0 | 
 | 2017-07-16 | 2017年韓国囲碁リーグ | Paek Hongseok | Jin Siyoung | Lose | B+2.5 | 6.5 | 3353.0 | -85.0 | 

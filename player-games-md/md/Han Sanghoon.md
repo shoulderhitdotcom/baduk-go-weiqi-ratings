@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-04 | 2022年アジア競技大会韓国予選 | Song Gyusang | Han Sanghoon | Win | W+R | 7.5 | 3322.0 | 6.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Han Sanghoon | Yun Chanhee | Win | B+R | 7.5 | 3316.0 | 0.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Lose | B+R | 7.5 | 3316.0 | 9.0 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Park Geunho | Lose | W+R | 6.5 | 3307.0 | -24.0 | 
@@ -38,8 +39,8 @@
 | 2021-02-17 | 2020-2021フューチャーズリーグ | Kim Sonjin | Han Sanghoon | Lose | B+R | 6.5 | 3265.0 | 0.0 | 
 | 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | Lose | W+R | 6.5 | 3265.0 | 12.0 | 
 | 2021-02-07 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+R | 6.5 | 3253.0 | 1.0 | 
-| 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Sangjin | Han Sanghoon | Win | W+1.5 | 6.5 | 3252.0 | 34.0 | 
-| 2021-01-30 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Lose | W+R | 6.5 | 3218.0 | 2.0 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Sangjin | Han Sanghoon | Win | W+1.5 | 6.5 | 3252.0 | 33.0 | 
+| 2021-01-30 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Lose | W+R | 6.5 | 3219.0 | 3.0 | 
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Win | B+R | 6.5 | 3216.0 | 16.0 | 
 | 2021-01-27 | 2020-2021フューチャーズリーグ | Park Younglong | Han Sanghoon | Win | W+R | 6.5 | 3200.0 | 15.0 | 
 | 2021-01-24 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Shin Minjun | Win | B+R | 6.5 | 3185.0 | 37.0 | 
@@ -78,8 +79,8 @@
 | 2019-12-14 | 2019-2020韓国囲碁リーグ第11節第3試合第1局 | Paek Hongseok | Han Sanghoon | Lose | B+R | 6.5 | 3211.0 | -19.0 | 
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | Lose | B+R | 6.5 | 3230.0 | 0.0 | 
 | 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第5局 | Han Sanghoon | Lee Changseok | Lose | W+3.5 | 6.5 | 3230.0 | -4.0 | 
-| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第1局 | Lee Jihyun | Han Sanghoon | Lose | B+R | 6.5 | 3234.0 | -22.0 | 
-| 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第2局 | Han Sanghoon | Park Hamin | Lose | W+R | 6.5 | 3256.0 | -27.0 | 
+| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第1局 | Lee Jihyun | Han Sanghoon | Lose | B+R | 6.5 | 3234.0 | -23.0 | 
+| 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第2局 | Han Sanghoon | Park Hamin | Lose | W+R | 6.5 | 3257.0 | -26.0 | 
 | 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第2局 | Han Sanghoon | Ryu Suhang | Win | B+R | 6.5 | 3283.0 | -32.0 | 
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第1局 |  | Han Sanghoon | Lose | B+R | 6.5 | 3315.0 | 47.0 | 
 | 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第4局 | Han Sanghoon | Wen Rubin | Lose | W+R | 6.5 | 3268.0 | -105.0 | 

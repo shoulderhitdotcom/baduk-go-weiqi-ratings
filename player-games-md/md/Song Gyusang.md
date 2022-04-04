@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-04 | 2022年アジア競技大会韓国予選 | Song Gyusang | Han Sanghoon | Lose | W+R | 7.5 | 3262.0 | -16.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Yun Chanhee | Song Gyusang | Win | W+R | 7.5 | 3278.0 | 0.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Song Gyusang | Park Hamin | Lose | W+R | 7.5 | 3278.0 | 8.0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Jinsol | Song Gyusang | Win | W+3¼ | 7.5 | 3270.0 | 0.0 | 
@@ -35,8 +36,8 @@
 | 2021-03-05 | 2020-2021フューチャーズリーグ | Song Gyusang | Gon Jiwoo | Win | B+R | 6.5 | 3173.0 | 41.0 | 
 | 2021-02-20 | 2020-2021フューチャーズリーグ | Song Gyusang |  | Win | B+R | 6.5 | 3132.0 | 69.0 | 
 | 2021-02-13 | 2020-2021フューチャーズリーグ | Song Gyusang |  | Win | B+R | 6.5 | 3063.0 | 27.0 | 
-| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Lose | B+R | 6.5 | 3036.0 | -11.0 | 
-| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Win | W+2.5 | 6.5 | 3047.0 | 60.0 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Lose | B+R | 6.5 | 3036.0 | -12.0 | 
+| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Win | W+2.5 | 6.5 | 3048.0 | 61.0 | 
 | 2021-01-27 | 2020-2021フューチャーズリーグ | Song Gyusang | Shin Jaeweon | Lose | W+0.5 | 6.5 | 2987.0 | -18.0 | 
 | 2021-01-16 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | Lose | W+R | 6.5 | 3005.0 | -101.0 | 
 | 2021-01-10 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Song Gyusang | Lose | B+R | 6.5 | 3106.0 | -5.0 | 
@@ -61,8 +62,8 @@
 | 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第3局 | Choi Jeong | Song Gyusang | Lose | B+2.5 | 6.5 | 3218.0 | -10.0 | 
 | 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第1局 | Weon Seongjin | Song Gyusang | Lose | B+R | 6.5 | 3228.0 | -38.0 | 
 | 2019-12-07 | 第3回クラウン・ヘテ杯1回戦 | Song Gyusang | Byun Sangil | Lose | W+R | 6.5 | 3266.0 | -10.0 | 
-| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第4局 | Song Gyusang | Lee Yeongkyu | Lose | W+R | 6.5 | 3276.0 | -25.0 | 
-| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第1局 | Song Gyusang | Park Joonhoon | Lose | W+1.5 | 6.5 | 3301.0 | -131.0 | 
+| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第4局 | Song Gyusang | Lee Yeongkyu | Lose | W+R | 6.5 | 3276.0 | -26.0 | 
+| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第1局 | Song Gyusang | Park Joonhoon | Lose | W+1.5 | 6.5 | 3302.0 | -130.0 | 
 | 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第1局 | Park Junsuck | Song Gyusang | Win | W+R | 6.5 | 3432.0 | 34.0 | 
 | 2019-10-31 | 2019-2020韓国囲碁リーグ第5節第1試合第1局 | Yun Junsang | Song Gyusang | Win | W+2.5 | 6.5 | 3398.0 | 23.0 | 
 | 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第5局 | Song Gyusang | Heo Yongho | Lose | W+3.5 | 6.5 | 3375.0 | -39.0 | 
@@ -80,8 +81,8 @@
 | 2018-09-01 | 2018年フューチャーズリーグ |  | Song Gyusang | Win | W+2.5 | 6.5 | 3324.0 | 9.0 | 
 | 2018-08-30 | 2018年韓国囲碁リーグ第10節 | Park Minkyu | Song Gyusang | Lose | B+R | 6.5 | 3315.0 | -36.0 | 
 | 2018-08-29 | 2018年フューチャーズリーグ | Lee Chungyu | Song Gyusang | Win | W+R | 6.5 | 3351.0 | 24.0 | 
-| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Song Gyusang | Lee Wonyoung | Win | B+R | 6.5 | 3327.0 | 94.0 | 
-| 2018-08-18 | 2018年フューチャーズリーグ | Song Gyusang | Lee Hoseong | Win | B+6.5 | 6.5 | 3233.0 | 86.0 | 
+| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Song Gyusang | Lee Wonyoung | Win | B+R | 6.5 | 3327.0 | 93.0 | 
+| 2018-08-18 | 2018年フューチャーズリーグ | Song Gyusang | Lee Hoseong | Win | B+6.5 | 6.5 | 3234.0 | 87.0 | 
 | 2018-08-11 | 2018年フューチャーズリーグ |  | Song Gyusang | Lose | B+2.5 | 6.5 | 3147.0 | -35.0 | 
 | 2018-08-04 | 2018年フューチャーズリーグ | Song Gyusang | Kang Hun | Lose | W+R | 6.5 | 3182.0 | -159.0 | 
 | 2018-07-21 | 2018年フューチャーズリーグ | Jin Siyoung | Song Gyusang | Win | W+R | 6.5 | 3341.0 | -32.0 | 

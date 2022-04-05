@@ -2,7 +2,7 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
-Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
+Note that players with fewer than {{NGAME_THRESHOLD}} games are not on the list
 
 ### Quicklinks
 

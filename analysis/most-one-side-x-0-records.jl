@@ -1,5 +1,3 @@
-tbl
-
 using Chain, DataFrames, DataFrameMacros
 
 tbl1 = @chain tbl begin

@@ -82,7 +82,7 @@ end
 
 # for creating previous records
 if false
-    for date_filter in filter(x -> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev = true))
+    for date_filter in filter(x -> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev=true))
         println(date_filter)
         tbl_earlier = @subset(tbl, :date <= date_filter)
         @time estimate_ratings_and_save_records(tbl_earlier)
@@ -198,9 +198,9 @@ end
 pings_for_alignment = @chain pings begin
     @transform :eng_name = get(NAMESDB, :name, "")
     @subset :eng_name != ""
-    innerjoin(goratings_latest, on = :eng_name => :Name)
+    innerjoin(goratings_latest, on=:eng_name => :Name)
     @transform :diff = :elo - :estimate * 400 / log(10)
-    sort!(:elo, rev = true)
+    sort!(:elo, rev=true)
     select(:eng_name, :elo, :diff)
     _[1, :] # get the difference between number 1 player according to goratings
 end
@@ -216,7 +216,7 @@ function turn_records_into_md(pings)
         # @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         @transform :Rating = round(Int, :estimate * 400 / log(10) + pings_for_alignment.diff)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
-        sort!(:Rating, rev = true)
+        sort!(:Rating, rev=true)
         # @transform :Rank = @c 1:length(:Rating)
     end
 end
@@ -226,7 +226,7 @@ if false# run only once to generate the historical ratings
     @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021, 7, 5)) do date
         # @time pings_hist = mapreduce(vcat, missing_dates) do date
         if isfile("records/$(string(date)) pings.csv")
-            pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select = [:name, :estimate, :std_error])
+            pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
             pings_old[!, :date] .= date
             return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating)
         else
@@ -267,7 +267,7 @@ md = maximum(pings_hist.date)
 top100_names = @chain pings_hist begin
     @subset :date == md
     @subset(:eng_name_old != "")
-    sort(:Rating, rev = true)
+    sort(:Rating, rev=true)
     _[1:100, :eng_name_old]
 end
 
@@ -277,19 +277,19 @@ biggest_rating_jump = @chain pings_hist begin
     combine(df -> begin
         if nrow(df) > 1
             tmp = sort(df, :date)[end-1:end, :]
-            return DataFrame(date = tmp[end, :date], rate_diff = tmp[end, :Rating] - tmp[end-1, :Rating])
+            return DataFrame(date=tmp[end, :date], rate_diff=tmp[end, :Rating] - tmp[end-1, :Rating])
         else
             return DataFrame()
         end
     end)
     @subset :date == md
-    innerjoin(ngames, on = :eng_name_old)
+    innerjoin(ngames, on=:eng_name_old)
     select(Not(:value))
     @subset :nrow >= NGAME_THRESHOLD
     @subset :rate_diff != 0
     @subset :date >= today() - Day(14)
     @transform :abs_rate_diff = abs(:rate_diff)
-    sort(:rate_diff, rev = true)
+    sort(:rate_diff, rev=true)
     vcat(_[1:10, :],
         _[end-9:end, :])
 end
@@ -363,12 +363,12 @@ rank_ranges = @chain pings_hist begin
         groupby(:value)
         combine(nrow => :ngames)
     end
-    leftjoin(counts, on = :name => :value)
+    leftjoin(counts, on=:name => :value)
     @subset !ismissing(:ngames)
     @subset :ngames >= NGAME_THRESHOLD
     groupby(:date)
     combine(df -> begin
-        df = sort(df, :Rating, rev = true)
+        df = sort(df, :Rating, rev=true)
         df[!, :ranking] = 1:nrow(df)
         df
     end)
@@ -392,10 +392,10 @@ end
 
 min_date, max_date = extrema(pings_hist.date)
 
-sjs_ratings_missing_dates = DataFrame(date = [d for d in min_date:Day(1):max_date])
+sjs_ratings_missing_dates = DataFrame(date=[d for d in min_date:Day(1):max_date])
 
 sjs_ratings1 = @chain sjs_ratings begin
-    rightjoin(sjs_ratings_missing_dates, on = :date)
+    rightjoin(sjs_ratings_missing_dates, on=:date)
     select(:date, :rating)
     sort!(:date)
     @transform :rating = @c begin
@@ -415,7 +415,7 @@ sjs_ratings2 = @chain pings_hist begin
     @subset :eng_name_old == "Shin Jinseo"
     select!(Not(:eng_name_old))
     unique(:date)
-    rightjoin(sjs_ratings1, on = :date)
+    rightjoin(sjs_ratings1, on=:date)
     sort!(:date)
     @transform :Rating = @c begin
         tmp = copy(:Rating)
@@ -432,14 +432,27 @@ end
 
 # adjust the whole history ratings
 pings_hist_adj = @chain pings_hist begin
-    innerjoin(sjs_ratings2, on = :date)
+    innerjoin(sjs_ratings2, on=:date)
     @subset !ismissing(:rating_adj)
     @transform :Rating_mine = :Rating
     @transform! :Rating = :Rating + :rating_adj
 end
 
+
+# compute the average rating
+mean_ratings = @chain pings_hist_adj begin
+    @subset today() - Day(364) <= :date
+    groupby(:name)
+    @combine(:mean_rating = mean(:Rating))
+end
+
 pings_for_md2 = @chain pings_for_md1 begin
-    leftjoin(rank_ranges, on = :name)
+    leftjoin(rank_ranges, on=:name)
+    leftjoin(mean_ratings, on=:name)
+    sort(:mean_rating, rev=true)
+    # @transform :Rank = @c 1:length(:mean_rating)
+    @transform :Class = :mean_rating
+    @transform :Form = :Rating - :Class
 end
 
 # work out the average rating change
@@ -449,6 +462,8 @@ pings_for_md_tmp = select(
     pings_for_md2,
     :Rank,
     :eng_name => "Name",
+    :Class,
+    :Form,
     :Rating,
     :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
@@ -458,14 +473,14 @@ pings_for_md_tmp = select(
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" < NGAME_THRESHOLD
-    sort!(:Rating, rev = true)
-    @transform :Rank = @c 1:length(:Rating)
+    sort!(:Rating, rev=true)
+    @transform :Rank = @c 1:length(:Class)
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" >= NGAME_THRESHOLD
-    sort!(:Rating, rev = true)
-    @transform :Rank = @c 1:length(:Rating)
+    sort!(:Rating, rev=true)
+    @transform :Rank = @c 1:length(:Class)
 end
 
 JDF.save("pings_for_md.jdf", pings_for_md)

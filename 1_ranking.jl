@@ -451,8 +451,8 @@ pings_for_md2 = @chain pings_for_md1 begin
     leftjoin(mean_ratings, on=:name)
     sort(:mean_rating, rev=true)
     # @transform :Rank = @c 1:length(:mean_rating)
-    @transform :Class = :mean_rating
-    @transform :Form = :Rating - :Class
+    @transform :Class = round(Int, :mean_rating)
+    @transform :Form = round(Int, :Rating - :Class)
 end
 
 # work out the average rating change
@@ -474,13 +474,13 @@ pings_for_md_tmp = select(
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" < NGAME_THRESHOLD
     sort!(:Rating, rev=true)
-    @transform :Rank = @c 1:length(:Class)
+    @transform :Rank = @c 1:length(:Rating)
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" >= NGAME_THRESHOLD
     sort!(:Rating, rev=true)
-    @transform :Rank = @c 1:length(:Class)
+    @transform :Rank = @c 1:length(:Rating)
 end
 
 JDF.save("pings_for_md.jdf", pings_for_md)

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | Lose | B+¼ | 7.5 | 2817.0 | -20.0 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | Lose | W+R | 7.5 | 2837.0 | 0.0 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | Win | W+R | 7.5 | 2837.0 | 11.0 | 
 | 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Win | W+5.5 | 6.5 | 2826.0 | 10.0 | 

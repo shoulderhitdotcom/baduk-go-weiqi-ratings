@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-05 | 2022世界女子覇王戦韓国予選 | Oh Jeonga | Kang Dajeong | Win | B+5.5 | 6.5 | 3061.0 | 5.0 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | Win | W+R | 7.5 | 3056.0 | 130.0 | 
 | 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Lose | B+R | 6.5 | 2926.0 | -4.0 | 
 | 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2930.0 | 37.0 | 

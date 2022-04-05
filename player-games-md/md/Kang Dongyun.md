@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Cho Hanseung | Win | B+R | 6.5 | 3464.0 | -4.0 | 
 | 2022-04-04 | 2022YK建機杯リーグ | Kang Dongyun | Weon Seongjin | Win | B+R | 6.5 | 3468.0 | 0.0 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Win | B+R | 6.5 | 3468.0 | 10.0 | 
 | 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3458.0 | -24.0 | 

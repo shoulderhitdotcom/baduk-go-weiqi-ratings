@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-05 | 2022YK建機杯リーグ | Park Junghwan | Kim Eunji | Win | B+R | 6.5 | 3714.0 | 1.0 | 
 | 2022-04-04 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Park Junghwan | Win | W+R | 6.5 | 3713.0 | -5.0 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3718.0 | 0.0 | 
 | 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Win | W+R | 6.5 | 3718.0 | -5.0 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Geunho | Park Hamin | Lose | B+R | 7.5 | 3432.0 | 0.0 | 
+| 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Lose | W+R | 7.5 | 3432.0 | -31.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Win | B+R | 7.5 | 3463.0 | 0.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Song Gyusang | Park Hamin | Win | W+R | 7.5 | 3463.0 | 14.0 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Win | B+R | 6.5 | 3449.0 | 20.0 | 
@@ -55,8 +57,8 @@
 | 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Hamin | Choi Kyeongho | Win | B+1.5 | 6.5 | 3354.0 | 49.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Park Hamin | Kim Jiseok | Lose | W+R | 6.5 | 3305.0 | 0.0 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Hong Mujin | Park Hamin | Lose | B+R | 6.5 | 3305.0 | 12.0 | 
-| 2021-02-05 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | Lose | W+R | 6.5 | 3293.0 | -29.0 | 
-| 2021-01-30 | 2020-2021韓国囲碁リーグ | Yun Junsang | Park Hamin | Win | W+R | 6.5 | 3322.0 | 25.0 | 
+| 2021-02-05 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | Lose | W+R | 6.5 | 3293.0 | -30.0 | 
+| 2021-01-30 | 2020-2021韓国囲碁リーグ | Yun Junsang | Park Hamin | Win | W+R | 6.5 | 3323.0 | 26.0 | 
 | 2021-01-24 | 2020-2021韓国囲碁リーグ | Park Hamin | Baek Hyeonwoo | Win | B+R | 6.5 | 3297.0 | -13.0 | 
 | 2021-01-14 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Win | B+R | 6.5 | 3310.0 | 20.0 | 
 | 2021-01-09 | 2020-2021韓国囲碁リーグ | Park Hamin | Cho Hanseung | Lose | W+R | 6.5 | 3290.0 | 20.0 | 
@@ -93,9 +95,9 @@
 | 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Park Hamin | Huang Yunsong | Lose | W+R | 7.5 | 3528.0 | 0.0 | 
 | 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第3局 | Park Hamin | Choi Jaeyoung | Win | B+R | 6.5 | 3528.0 | 2.0 | 
 | 2019-11-30 | 2019-2020韓国囲碁リーグ第9節第3試合第1局 | Park Joonhoon | Park Hamin | Lose | B+R | 6.5 | 3526.0 | -9.0 | 
-| 2019-11-24 | 2019-2020韓国囲碁リーグ第8節第4試合第1局 | Park Hamin |  | Win | B+R | 6.5 | 3535.0 | 3.0 | 
-| 2019-11-14 | 2019-2020韓国囲碁リーグ第7節第1試合第3局 | Park Hamin | Lee Yeongkyu | Win | B+1.5 | 6.5 | 3532.0 | 19.0 | 
-| 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第2局 | Han Sanghoon | Park Hamin | Win | W+R | 6.5 | 3513.0 | 7.0 | 
+| 2019-11-24 | 2019-2020韓国囲碁リーグ第8節第4試合第1局 | Park Hamin |  | Win | B+R | 6.5 | 3535.0 | 2.0 | 
+| 2019-11-14 | 2019-2020韓国囲碁リーグ第7節第1試合第3局 | Park Hamin | Lee Yeongkyu | Win | B+1.5 | 6.5 | 3533.0 | 19.0 | 
+| 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第2局 | Han Sanghoon | Park Hamin | Win | W+R | 6.5 | 3514.0 | 8.0 | 
 | 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第3局 | Seol Hyunjun | Park Hamin | Lose | B+R | 6.5 | 3506.0 | -23.0 | 
 | 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第2局 | Park Hamin | Lee Changho | Lose | W+1.5 | 6.5 | 3529.0 | 34.0 | 
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第1局 | Park Geunho | Park Hamin | Win | W+R | 6.5 | 3495.0 | 23.0 | 
@@ -142,8 +144,8 @@
 | 2018-09-22 | 2018年韓国囲碁リーグ第12節 | Lee Yeongkyu | Park Hamin | Win | W+R | 6.5 | 3454.0 | 55.0 | 
 | 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Na Hyun | Park Hamin | Win | W+R | 6.5 | 3399.0 | 22.0 | 
 | 2018-08-31 | 2018年韓国囲碁リーグ第10節 | Kim Seongjae | Park Hamin | Lose | B+R | 6.5 | 3377.0 | -60.0 | 
-| 2018-08-23 | 2018年韓国囲碁リーグ第9節 | Han Taehee | Park Hamin | Lose | B+R | 6.5 | 3437.0 | -40.0 | 
-| 2018-08-18 | 2018年韓国囲碁リーグ第8節 | Park Hamin | Paek Hongseok | Lose | W+R | 6.5 | 3477.0 | -54.0 | 
+| 2018-08-23 | 2018年韓国囲碁リーグ第9節 | Han Taehee | Park Hamin | Lose | B+R | 6.5 | 3437.0 | -41.0 | 
+| 2018-08-18 | 2018年韓国囲碁リーグ第8節 | Park Hamin | Paek Hongseok | Lose | W+R | 6.5 | 3478.0 | -53.0 | 
 | 2018-08-09 | 2018年韓国囲碁リーグ第7節 | Park Junghwan | Park Hamin | Win | W+R | 6.5 | 3531.0 | 45.0 | 
 | 2018-08-02 | 2018年韓国囲碁リーグ第6節 | Park Hamin | Kim Myounghoon | Lose | W+R | 6.5 | 3486.0 | -3.0 | 
 | 2018-07-20 | 2018年韓国囲碁リーグ第5節 | Park Hamin | Park Minkyu | Win | B+R | 6.5 | 3489.0 | 45.0 | 
@@ -152,9 +154,9 @@
 | 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Lee Sedol | Park Hamin | Win | W+R | 6.5 | 3448.0 | 16.0 | 
 | 2018-06-15 | 2018年韓国囲碁リーグ第1節 | Park Hamin | Kim Jiseok | Win | B+R | 6.5 | 3432.0 | 115.0 | 
 | 2018-03-14 | 韓国ナショナルチームリーグ戦 | Park Hamin | Ahn Kukhyun | Lose | W+R | 6.5 | 3317.0 | 11.0 | 
-| 2018-01-19 | 第3期未来の星新鋭最強戦準決勝 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3306.0 | -19.0 | 
-| 2018-01-17 | 第3期未来の星新鋭最強戦8強戦 | Park Hamin | Lee Juhyung | Win | B+R | 6.5 | 3325.0 | 20.0 | 
-| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Park Hamin |  | Win | B+R | 6.5 | 3305.0 | 1.0 | 
+| 2018-01-19 | 第3期未来の星新鋭最強戦準決勝 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3306.0 | -20.0 | 
+| 2018-01-17 | 第3期未来の星新鋭最強戦8強戦 | Park Hamin | Lee Juhyung | Win | B+R | 6.5 | 3326.0 | 20.0 | 
+| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Park Hamin |  | Win | B+R | 6.5 | 3306.0 | 2.0 | 
 | 2017-10-30 | 2017年フューチャーズリーグ | Park Hamin | Kim Sonjin | Lose | W+R | 6.5 | 3304.0 | -37.0 | 
 | 2017-10-29 | 2017年韓国囲碁リーグ | Ryu Minhyung | Park Hamin | Win | W+R | 6.5 | 3341.0 | 3.0 | 
 | 2017-10-25 | 2017年フューチャーズリーグ |  | Park Hamin | Win | W+5.5 | 6.5 | 3338.0 | 12.0 | 

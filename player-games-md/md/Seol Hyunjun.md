@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-06 | 2022年アジア競技大会韓国予選 | Seol Hyunjun | Han Sanghoon | Lose | W+R | 7.5 | 3458.0 | -14.0 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Han Sanghoon | Seol Hyunjun | Win | W+R | 7.5 | 3472.0 | 0.0 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Geunho | Seol Hyunjun | Lose | B+R | 7.5 | 3472.0 | -8.0 | 
 | 2022-04-02 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Seol Hyunjun | Win | W+R | 6.5 | 3480.0 | 21.0 | 

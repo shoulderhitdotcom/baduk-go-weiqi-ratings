@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Lose | W+R | 6.5 | 3501.0 | -5.0 | 
 | 2022-04-04 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3506.0 | -9.0 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | B+0.5 | 6.5 | 3515.0 | -8.0 | 
 | 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | Win | W+R | 6.5 | 3523.0 | 0.0 | 

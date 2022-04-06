@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Win | W+R | 6.5 | 3444.0 | 28.0 | 
 | 2022-04-05 | 第5期韓国竜星戦2回戦 | An Sungjoon | Hong Mujin | Win | W+R | 6.5 | 3416.0 | 8.0 | 
 | 2022-03-30 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Heo Youngrak | Lose | W+R | 6.5 | 3408.0 | -35.0 | 
 | 2022-03-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Yun Chanhee | Lose | W+R | 6.5 | 3443.0 | -20.0 | 

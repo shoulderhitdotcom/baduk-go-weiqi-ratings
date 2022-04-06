@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-06 | 2022年アジア競技大会韓国予選 | Seol Hyunjun | Han Sanghoon | Win | W+R | 7.5 | 3353.0 | 20.0 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Han Sanghoon | Seol Hyunjun | Lose | W+R | 7.5 | 3333.0 | 0.0 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Win | W+R | 7.5 | 3333.0 | 11.0 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Song Gyusang | Han Sanghoon | Win | W+R | 7.5 | 3322.0 | 6.0 | 

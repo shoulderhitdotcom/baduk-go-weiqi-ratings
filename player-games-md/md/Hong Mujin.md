@@ -7,23 +7,23 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Win | W+R | 6.5 | 3444.0 | 28.0 | 
-| 2022-04-05 | 第5期韓国竜星戦2回戦 | An Sungjoon | Hong Mujin | Win | W+R | 6.5 | 3416.0 | 8.0 | 
+| 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Win | W+R | 6.5 | 3445.0 | 28.0 | 
+| 2022-04-05 | 第5期韓国竜星戦2回戦 | An Sungjoon | Hong Mujin | Win | W+R | 6.5 | 3417.0 | 9.0 | 
 | 2022-03-30 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Heo Youngrak | Lose | W+R | 6.5 | 3408.0 | -35.0 | 
 | 2022-03-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Yun Chanhee | Lose | W+R | 6.5 | 3443.0 | -20.0 | 
 | 2022-02-17 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Byun Sangil | Lose | W+R | 6.5 | 3463.0 | -31.0 | 
-| 2022-02-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Hong Mujin | Lose | B+R | 6.5 | 3494.0 | 0.0 | 
-| 2021-12-09 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Youngrak | Hong Mujin | Win | W+R | 6.5 | 3494.0 | 48.0 | 
-| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Win | B+R | 6.5 | 3446.0 | -16.0 | 
-| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Lose | B+R | 6.5 | 3462.0 | 53.0 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Win | B+R | 6.5 | 3409.0 | -1.0 | 
-| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3410.0 | 18.0 | 
+| 2022-02-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Hong Mujin | Lose | B+R | 6.5 | 3494.0 | -1.0 | 
+| 2021-12-09 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Youngrak | Hong Mujin | Win | W+R | 6.5 | 3495.0 | 48.0 | 
+| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Win | B+R | 6.5 | 3447.0 | -16.0 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Lose | B+R | 6.5 | 3463.0 | 53.0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Win | B+R | 6.5 | 3410.0 | -1.0 | 
+| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3411.0 | 19.0 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3392.0 | 0.0 | 
-| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3392.0 | 46.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3346.0 | 96.0 | 
-| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3250.0 | 1.0 | 
-| 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Lose | W+1.5 | 6.5 | 3249.0 | 0.0 | 
-| 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3249.0 | -10.0 | 
+| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3392.0 | 45.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3347.0 | 97.0 | 
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3250.0 | 0.0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Lose | W+1.5 | 6.5 | 3250.0 | 0.0 | 
+| 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3250.0 | -9.0 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Lose | W+R | 6.5 | 3259.0 | -90.0 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Win | B+R | 6.5 | 3349.0 | 149.0 | 
 | 2021-05-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Kang Seungmin | Lose | W+R | 6.5 | 3200.0 | 0.0 | 
@@ -43,8 +43,8 @@
 | 2016-09-17 | 2016年フューチャーズリーグ |  | Hong Mujin | Win | W+R | 6.5 | 3168.0 | 4.0 | 
 | 2016-09-14 | 2016年フューチャーズリーグ | Kim Minho | Hong Mujin | Lose | B+R | 6.5 | 3164.0 | 2.0 | 
 | 2016-08-31 | 2016年フューチャーズリーグ | Ko Keuntae | Hong Mujin | Lose | B+R | 6.5 | 3162.0 | 21.0 | 
-| 2016-08-17 | 2016年フューチャーズリーグ | You Byungyong | Hong Mujin | Lose | B+4.5 | 6.5 | 3141.0 | 6.0 | 
-| 2016-07-30 | 2016年フューチャーズリーグ | Hong Mujin |  | Lose | W+R | 6.5 | 3135.0 | -41.0 | 
+| 2016-08-17 | 2016年フューチャーズリーグ | You Byungyong | Hong Mujin | Lose | B+4.5 | 6.5 | 3141.0 | 5.0 | 
+| 2016-07-30 | 2016年フューチャーズリーグ | Hong Mujin |  | Lose | W+R | 6.5 | 3136.0 | -40.0 | 
 | 2016-07-23 | 2016年フューチャーズリーグ | Hong Minpyo | Hong Mujin | Win | W+R | 6.5 | 3176.0 | 19.0 | 
 | 2016-07-10 | 2016年フューチャーズリーグ | Kim Dongho | Hong Mujin | Win | W+0.5 | 6.5 | 3157.0 | 45.0 | 
 | 2016-07-09 | 2016年韓国囲碁リーグ第6節 | Hong Mujin | Kim Dongho | Win | B+R | 6.5 | 3112.0 | 78.0 | 

@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shin Jinseo** | **Park Junghwan streak** | **Shin Jinseo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+R | 6.5 | 4:3 | 0 | 1 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 12:11 | 2 | 0 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 11:11 | 1 | 0 | 
 | 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 10:11 | 0 | 6 | 
-| 2021-09-22 | 2021電子ランドライバル対戦第9局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 4:4 | 0 | 1 | 
+| 2021-09-22 | 2021電子ランドライバル対戦第9局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 4:4 | 0 | 2 | 
 | 2021-09-10 | 第4期韓国竜星戦決勝三番勝負第3局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 20:19 | 0 | 1 | 
 | 2021-09-09 | 第4期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 20:18 | 1 | 0 | 
 | 2021-09-08 | 第4期韓国竜星戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 19:18 | 0 | 4 | 
@@ -21,7 +21,7 @@
 | 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 13:13 | 0 | 2 | 
 | 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 13:12 | 0 | 1 | 
 | 2021-07-05 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 13:11 | 3 | 0 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | W+R | 6.5 | 4:3 | 4 | 0 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | W+R | 6.5 | 4:2 | 4 | 0 | 
 | 2020-12-02 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第7局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 21:26 | 0 | 7 | 
 | 2020-12-01 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第6局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 21:25 | 0 | 6 | 
 | 2020-11-16 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第5局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 21:24 | 0 | 5 | 
@@ -40,18 +40,18 @@
 | 2020-02-10 | 第24回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 10:9 | 0 | 4 | 
 | 2019-10-21 | 第2期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 16:14 | 2 | 0 | 
 | 2019-10-02 | 第2期韓国竜星戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 15:14 | 1 | 0 | 
-| 2019-08-07 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 3:3 | 3 | 0 | 
-| 2019-08-06 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 2:3 | 2 | 0 | 
+| 2019-08-07 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 3:2 | 3 | 0 | 
+| 2019-08-06 | 2019年囲碁テレビ杯早碁戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 2:2 | 2 | 0 | 
 | 2019-03-19 | 第3回ワールド碁チャンピオンシップ準決勝  | Shin Jinseo | Park Junghwan | W+R | 6.5 | 19:14 | 5 | 0 | 
 | 2018-12-11 | 第37回KBS杯囲碁王戦準決勝 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 18:14 | 4 | 0 | 
 | 2018-09-26 | 第1回天府杯世界囲碁選手権B組決勝 | Park Junghwan | Shin Jinseo | B+R | 7.5 | 9:5 | 1 | 0 | 
-| 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 1:3 | 1 | 0 | 
+| 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 1:2 | 1 | 0 | 
 | 2018-02-11 | 第1回クラウン・ヘテ杯決勝三番勝負第三局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 8:4 | 4 | 0 | 
 | 2018-02-10 | 第1回クラウン・ヘテ杯決勝三番勝負第二局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 8:5 | 0 | 1 | 
 | 2018-02-03 | 第1回クラウン・ヘテ杯決勝三番勝負第一局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 7:4 | 3 | 0 | 
-| 2017-10-05 | 2017年韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+0.5 | 6.5 | 0:3 | 0 | 3 | 
+| 2017-10-05 | 2017年韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+0.5 | 6.5 | 0:2 | 0 | 2 | 
 | 2016-07-28 | 第18回農心杯韓国選抜戦 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 5:4 | 1 | 0 | 
-| 2016-05-19 | 2016年韓国囲碁リーグ第1節 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 0:2 | 0 | 2 | 
+| 2016-05-19 | 2016年韓国囲碁リーグ第1節 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 | 
 | 2015-12-14 | 第34回KBS杯囲碁王戦準決勝 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 17:14 | 3 | 0 | 
 | 2014-11-13 | 第58期国手戦（韓国）2回戦 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 21:19 | 1 | 0 | 
 | 2013-10-01 | 第18期バッカス杯天元戦2回戦 | Park Junghwan | Shin Jinseo | B+7.5 | 6.5 | 6:4 | 2 | 0 |

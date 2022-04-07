@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-06 | 2022YK建機杯リーグ | Lee Jihyun | Ryu Minhyung | Lose | W+R | 6.5 | 3207.0 | -159.0 | 
+| 2022-04-07 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Han Sanghoon | Win | B+R | 7.5 | 3258.0 | 0.0 | 
+| 2022-04-07 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Park Geunho | Lose | W+R | 7.5 | 3258.0 | 52.0 | 
+| 2022-04-06 | 2022YK建機杯リーグ | Lee Jihyun | Ryu Minhyung | Lose | W+R | 6.5 | 3206.0 | -160.0 | 
 | 2022-03-29 | 2022YK建機杯リーグ | Lee Jihyun | Kim Myounghoon | Lose | W+R | 6.5 | 3366.0 | 0.0 | 
 | 2022-03-14 | 2022YK建機杯リーグ | Lee Jihyun | Shin Jinseo | Win | B+R | 6.5 | 3366.0 | 39.0 | 
 | 2022-02-28 | 2022YK建機杯予選 | Lee Jihyun | Kim Seungjun | Win | B+3.5 | 6.5 | 3327.0 | -17.0 | 
@@ -28,8 +30,8 @@
 | 2020-04-13 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Jihyun | Shin Minjun | Win | B+R | 6.5 | 3491.0 | 23.0 | 
 | 2020-03-23 | 第21回マキシムコーヒー杯入神最強戦準決勝 | Na Hyun | Lee Jihyun | Win | W+R | 6.5 | 3468.0 | -8.0 | 
 | 2020-03-10 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Lee Jihyun | Choi Jeong | Win | B+R | 6.5 | 3476.0 | 18.0 | 
-| 2020-02-19 | 第3期韓国竜星戦16強戦 | Shin Jinseo | Lee Jihyun | Lose | B+R | 6.5 | 3458.0 | -9.0 | 
-| 2020-02-11 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Hong Minpyo | Lee Jihyun | Win | W+4.5 | 6.5 | 3467.0 | -1.0 | 
+| 2020-02-19 | 第3期韓国竜星戦16強戦 | Shin Jinseo | Lee Jihyun | Lose | B+R | 6.5 | 3458.0 | -8.0 | 
+| 2020-02-11 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Hong Minpyo | Lee Jihyun | Win | W+4.5 | 6.5 | 3466.0 | -2.0 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第5局 |  | Lee Jihyun | Win | W+R | 6.5 | 3468.0 | 9.0 | 
 | 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第2局 | Lee Jihyun | Shin Jinseo | Lose | W+R | 6.5 | 3459.0 | 0.0 | 
 | 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第2局 | Wen Rubin | Lee Jihyun | Win | W+R | 6.5 | 3459.0 | 8.0 | 
@@ -69,19 +71,19 @@
 | 2019-07-06 | 2019年囲碁テレビ杯早碁戦8強戦 | Lee Jihyun | Song Jihoon | Win | B+R | 6.5 | 3480.0 | 44.0 | 
 | 2019-06-21 | 2019年囲碁テレビ杯早碁戦16強戦 | Lee Jihyun | Kim Kiyoung | Win | B+R | 6.5 | 3436.0 | 22.0 | 
 | 2019-06-07 | 第2期韓国竜星戦16強戦 | Lee Jihyun | Shin Jinseo | Lose | W+R | 6.5 | 3414.0 | -27.0 | 
-| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Lee Jihyun | Chen Yaoye | Lose | W+R | 6.5 | 3441.0 | -33.0 | 
-| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Lee Jihyun |  | Win | B+R | 7.5 | 3474.0 | 0.0 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Lee Jihyun | Motoki Katsuya | Win | B+¾ | 7.5 | 3474.0 | -5.0 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Lee Jihyun | Chen Yaoye | Lose | W+R | 6.5 | 3441.0 | -32.0 | 
+| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Lee Jihyun |  | Win | B+R | 7.5 | 3473.0 | 0.0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Lee Jihyun | Motoki Katsuya | Win | B+¾ | 7.5 | 3473.0 | -6.0 | 
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦2回戦 | Lee Jihyun | Gu Zihao | Lose | W+R | 7.5 | 3479.0 | 0.0 | 
 | 2019-05-10 | 2019年囲碁テレビ杯早碁戦32強戦 | Lee Jihyun | Park Sangjin | Win | B+R | 6.5 | 3479.0 | -31.0 | 
-| 2019-03-12 | 第2期韓国竜星戦32強戦-2 | Lee Jihyun | Na Hyun | Win | B+R | 6.5 | 3510.0 | -3.0 | 
-| 2019-02-11 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3513.0 | 14.0 | 
+| 2019-03-12 | 第2期韓国竜星戦32強戦-2 | Lee Jihyun | Na Hyun | Win | B+R | 6.5 | 3510.0 | -2.0 | 
+| 2019-02-11 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3512.0 | 13.0 | 
 | 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Lee Jihyun | Liao Yuanhe | Lose | W+R | 6.5 | 3499.0 | -5.0 | 
-| 2019-01-07 | 第20回マキシムコーヒー杯入神最強戦1回戦 | An Joyeong | Lee Jihyun | Win | W+R | 6.5 | 3504.0 | 42.0 | 
-| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Lee Jihyun | Jian Jingting | Win | B+R | 6.5 | 3462.0 | 0.0 | 
-| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Lin Shixun | Lee Jihyun | Win | W+R | 6.5 | 3462.0 | 7.0 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Lee Jihyun | Chen Shiyuan | Win | B+R | 6.5 | 3455.0 | 0.0 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Xu Haohong | Lee Jihyun | Lose | B+R | 6.5 | 3455.0 | -12.0 | 
+| 2019-01-07 | 第20回マキシムコーヒー杯入神最強戦1回戦 | An Joyeong | Lee Jihyun | Win | W+R | 6.5 | 3504.0 | 43.0 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Lee Jihyun | Jian Jingting | Win | B+R | 6.5 | 3461.0 | 0.0 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Lin Shixun | Lee Jihyun | Win | W+R | 6.5 | 3461.0 | 7.0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Lee Jihyun | Chen Shiyuan | Win | B+R | 6.5 | 3454.0 | 0.0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Xu Haohong | Lee Jihyun | Lose | B+R | 6.5 | 3454.0 | -13.0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Lee Jihyun | Lin Junyan | Win | B+R | 6.5 | 3467.0 | 0.0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 | Wang Yuanjun | Lee Jihyun | Win | W+2.5 | 6.5 | 3467.0 | 8.0 | 
 | 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Lee Jihyun | Lin Junyan | Win | B+R | 6.5 | 3459.0 | 0.0 | 
@@ -111,12 +113,12 @@
 | 2018-07-04 | 第23回三星火災杯統合予選2回戦 |  | Lee Jihyun | Win | W+R | 6.5 | 3501.0 | -14.0 | 
 | 2018-06-28 | 2018年韓国囲碁リーグ第3節 | Lee Jihyun | Yun Junsang | Lose | W+R | 6.5 | 3515.0 | -13.0 | 
 | 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3528.0 | -24.0 | 
-| 2018-06-16 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Lee Jihyun | Lose | B+R | 7.5 | 3552.0 | -36.0 | 
-| 2018-06-12 | 2018年中国囲碁乙級リーグ | Lee Jihyun |  | Lose | W+R | 7.5 | 3588.0 | 23.0 | 
-| 2018-04-24 | 第1回韓国竜星戦16強戦 | Lee Jihyun | Lee Donghoon | Win | B+R | 6.5 | 3565.0 | 2.0 | 
-| 2018-03-27 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3563.0 | -5.0 | 
-| 2018-03-18 | 第1回韓国竜星戦32強ダブルエリミネーションG3 | You Byungyong | Lee Jihyun | Win | W+R | 6.5 | 3568.0 | 2.0 | 
-| 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションG2 | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3566.0 | 33.0 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Lee Jihyun | Lose | B+R | 7.5 | 3552.0 | -35.0 | 
+| 2018-06-12 | 2018年中国囲碁乙級リーグ | Lee Jihyun |  | Lose | W+R | 7.5 | 3587.0 | 22.0 | 
+| 2018-04-24 | 第1回韓国竜星戦16強戦 | Lee Jihyun | Lee Donghoon | Win | B+R | 6.5 | 3565.0 | 3.0 | 
+| 2018-03-27 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3562.0 | -6.0 | 
+| 2018-03-18 | 第1回韓国竜星戦32強ダブルエリミネーションG3 | You Byungyong | Lee Jihyun | Win | W+R | 6.5 | 3568.0 | 3.0 | 
+| 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションG2 | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3565.0 | 32.0 | 
 | 2018-02-05 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3533.0 | -6.0 | 
 | 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | Win | W+2.5 | 6.5 | 3539.0 | 19.0 | 
 | 2017-12-16 | 第1回クラウン・ヘテ杯1回戦 | Song Jihoon | Lee Jihyun | Lose | B+R | 6.5 | 3520.0 | -3.0 | 
@@ -125,8 +127,8 @@
 | 2017-10-13 | 2017年韓国囲碁リーグ | Mok Jinseok | Lee Jihyun | Lose | B+R | 6.5 | 3540.0 | -17.0 | 
 | 2017-10-10 | 第1期韓国製紙女子棋聖戦16強戦 | Kim Cheayoung | Lee Jihyun | Lose | B+R | 6.5 | 3557.0 | -32.0 | 
 | 2017-09-28 | 2017年韓国囲碁リーグ | Lee Jihyun | Kim Jiseok | Win | B+R | 6.5 | 3589.0 | 41.0 | 
-| 2017-09-24 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Jihyun | Win | W+R | 6.5 | 3548.0 | 4.0 | 
-| 2017-09-16 | 2017年韓国囲碁リーグ | Lee Jihyun | Kim Seongjae | Win | B+R | 6.5 | 3544.0 | 12.0 | 
+| 2017-09-24 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Jihyun | Win | W+R | 6.5 | 3548.0 | 5.0 | 
+| 2017-09-16 | 2017年韓国囲碁リーグ | Lee Jihyun | Kim Seongjae | Win | B+R | 6.5 | 3543.0 | 11.0 | 
 | 2017-08-31 | 2017年韓国囲碁リーグ | An Sungjoon | Lee Jihyun | Lose | B+R | 6.5 | 3532.0 | -34.0 | 
 | 2017-08-26 | 2017年韓国囲碁リーグ | Lee Jihyun | Han Seungjoo | Win | B+2.5 | 6.5 | 3566.0 | 42.0 | 
 | 2017-08-18 | 2017年韓国囲碁リーグ | Han Taehee | Lee Jihyun | Lose | B+R | 6.5 | 3524.0 | -13.0 | 
@@ -156,8 +158,8 @@
 | 2016-09-16 | 2016年韓国囲碁リーグ第13節 | Lee Jihyun | Lee Taehyun | Win | B+R | 6.5 | 3482.0 | 1.0 | 
 | 2016-09-04 | 2016年韓国囲碁リーグ第12節 | Lee Jihyun | Yun Chanhee | Lose | W+R | 6.5 | 3481.0 | -5.0 | 
 | 2016-08-28 | 2016年韓国囲碁リーグ第11節 | An Joyeong | Lee Jihyun | Win | W+R | 6.5 | 3486.0 | 9.0 | 
-| 2016-08-14 | 2016年韓国囲碁リーグ第9節 | Lee Jihyun | Mok Jinseok | Win | B+6.5 | 6.5 | 3477.0 | 37.0 | 
-| 2016-07-29 | 2016年韓国囲碁リーグ第8節 | Lee Jihyun | Choi Jaeyoung | Win | B+R | 6.5 | 3440.0 | 9.0 | 
+| 2016-08-14 | 2016年韓国囲碁リーグ第9節 | Lee Jihyun | Mok Jinseok | Win | B+6.5 | 6.5 | 3477.0 | 38.0 | 
+| 2016-07-29 | 2016年韓国囲碁リーグ第8節 | Lee Jihyun | Choi Jaeyoung | Win | B+R | 6.5 | 3439.0 | 8.0 | 
 | 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Lee Jihyun | Ahn Kukhyun | Win | B+R | 6.5 | 3431.0 | 13.0 | 
 | 2016-07-12 | 第18回農心杯韓国選抜戦 | Lee Jihyun | Shin Jinseo | Lose | W+R | 6.5 | 3418.0 | -11.0 | 
 | 2016-07-11 | 第35回KBS杯囲碁王戦2回戦 | Cho Hanseung | Lee Jihyun | Lose | B+R | 6.5 | 3429.0 | -13.0 | 

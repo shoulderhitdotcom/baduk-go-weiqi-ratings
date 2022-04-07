@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-07 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Park Junghwan | Lose | W+R | 6.5 | 3313.0 | -10.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Han Sanghoon | Yun Chanhee | Lose | B+R | 7.5 | 3323.0 | 0.0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Yun Chanhee | Song Gyusang | Lose | W+R | 7.5 | 3323.0 | -38.0 | 
 | 2022-04-02 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Yun Chanhee | Lose | B+R | 6.5 | 3361.0 | 1.0 | 
@@ -23,28 +24,28 @@
 | 2022-01-24 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Shin Minjun | Lose | W+R | 6.5 | 3431.0 | -11.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Lee Wonyoung | Win | B+R | 6.5 | 3442.0 | 0.0 | 
 | 2022-01-18 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Yun Chanhee | Park Seunghwa | Lose | W+5.5 | 6.5 | 3442.0 | -21.0 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Win | W+R | 6.5 | 3463.0 | -10.0 | 
-| 2022-01-09 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Park Yeonghun | Lose | W+R | 6.5 | 3473.0 | 5.0 | 
-| 2021-12-30 | 2021-2022韓国囲碁リーグ |  | Yun Chanhee | Win | W+R | 6.5 | 3468.0 | 0.0 | 
-| 2021-12-27 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Yun Chanhee | Win | W+R | 6.5 | 3468.0 | -20.0 | 
-| 2021-12-25 | 2021-2022韓国囲碁リーグ |  | Yun Chanhee | Lose | B+R | 6.5 | 3488.0 | 4.0 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Win | W+R | 6.5 | 3463.0 | -11.0 | 
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Park Yeonghun | Lose | W+R | 6.5 | 3474.0 | 5.0 | 
+| 2021-12-30 | 2021-2022韓国囲碁リーグ |  | Yun Chanhee | Win | W+R | 6.5 | 3469.0 | 0.0 | 
+| 2021-12-27 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Yun Chanhee | Win | W+R | 6.5 | 3469.0 | -20.0 | 
+| 2021-12-25 | 2021-2022韓国囲碁リーグ |  | Yun Chanhee | Lose | B+R | 6.5 | 3489.0 | 5.0 | 
 | 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | Lose | W+R | 6.5 | 3484.0 | -64.0 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Yun Chanhee | Lose | B+R | 6.5 | 3548.0 | -1.0 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Lose | B+R | 6.5 | 3549.0 | -11.0 | 
 | 2021-11-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Yun Chanhee | Win | W+R | 6.5 | 3560.0 | 118.0 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kim Hyeongwoo | Win | B+R | 6.5 | 3442.0 | 16.0 | 
-| 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3426.0 | 13.0 | 
-| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Lose | W+R | 6.5 | 3413.0 | -9.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Win | W+R | 6.5 | 3422.0 | 120.0 | 
+| 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3426.0 | 12.0 | 
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Lose | W+R | 6.5 | 3414.0 | -9.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Win | W+R | 6.5 | 3423.0 | 121.0 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Yun Chanhee | Win | W+0.5 | 6.5 | 3302.0 | 0.0 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Win | B+R | 6.5 | 3302.0 | 0.0 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3302.0 | 24.0 | 
-| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Lose | B+R | 6.5 | 3278.0 | 11.0 | 
-| 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Lose | B+R | 6.5 | 3267.0 | -51.0 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Lose | B+R | 6.5 | 3278.0 | 10.0 | 
+| 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Lose | B+R | 6.5 | 3268.0 | -50.0 | 
 | 2021-05-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | Lose | B+R | 6.5 | 3318.0 | -21.0 | 
 | 2021-03-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Yun Chanhee | Park Jaekeun | Win | B+R | 6.5 | 3339.0 | 50.0 | 
-| 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Jinsol | Yun Chanhee | Win | W+R | 6.5 | 3289.0 | 117.0 | 
-| 2021-01-14 | 第44期名人戦（韓国）予選 | Yun Chanhee | Lee Donghoon | Win | B+R | 6.5 | 3172.0 | 77.0 | 
+| 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Jinsol | Yun Chanhee | Win | W+R | 6.5 | 3289.0 | 116.0 | 
+| 2021-01-14 | 第44期名人戦（韓国）予選 | Yun Chanhee | Lee Donghoon | Win | B+R | 6.5 | 3173.0 | 78.0 | 
 | 2020-11-27 | 第1回ORO30-40囲碁選手権決勝五番勝負第5局 | Yun Chanhee | Han Sanghoon | Lose | W+0.5 | 6.5 | 3095.0 | -16.0 | 
 | 2020-11-26 | 第1回ORO30-40囲碁選手権決勝五番勝負第4局 | Han Sanghoon | Yun Chanhee | Win | W+R | 6.5 | 3111.0 | 15.0 | 
 | 2020-11-25 | 第1回ORO30-40囲碁選手権決勝五番勝負第3局 | Yun Chanhee | Han Sanghoon | Win | B+R | 6.5 | 3096.0 | 17.0 | 
@@ -56,8 +57,8 @@
 | 2020-10-07 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | On Sojin | Win | B+1.5 | 6.5 | 3084.0 | -4.0 | 
 | 2020-09-28 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3088.0 | -26.0 | 
 | 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Yun Chanhee | Lose | B+R | 6.5 | 3114.0 | -7.0 | 
-| 2020-09-10 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | Lose | W+4.5 | 6.5 | 3121.0 | -19.0 | 
-| 2020-09-02 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | Win | W+R | 6.5 | 3140.0 | -9.0 | 
+| 2020-09-10 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | Lose | W+4.5 | 6.5 | 3121.0 | -20.0 | 
+| 2020-09-02 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | Win | W+R | 6.5 | 3141.0 | -8.0 | 
 | 2020-05-19 | 第3期韓国竜星戦8強戦 | Yun Chanhee | Shin Jinseo | Lose | W+R | 6.5 | 3149.0 | -49.0 | 
 | 2020-04-13 | 第25回LG杯韓国予選 | Yun Chanhee |  | Win | B+R | 6.5 | 3198.0 | 3.0 | 
 | 2020-04-08 | 第3期韓国竜星戦16強戦 | Yun Chanhee | Song Gyusang | Win | B+R | 6.5 | 3195.0 | -11.0 | 
@@ -70,8 +71,8 @@
 | 2019-12-18 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Yun Chanhee | Kang Seungmin | Lose | W+R | 6.5 | 3148.0 | -7.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第1局 | Park Joonhoon | Yun Chanhee | Win | W+R | 6.5 | 3155.0 | 65.0 | 
 | 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第4局 | Yun Chanhee | Ryu Suhang | Lose | W+R | 6.5 | 3090.0 | -66.0 | 
-| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第3局 | Seol Hyunjun | Yun Chanhee | Lose | B+R | 6.5 | 3156.0 | -33.0 | 
-| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第4試合第3局 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3189.0 | -40.0 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第3局 | Seol Hyunjun | Yun Chanhee | Lose | B+R | 6.5 | 3156.0 | -34.0 | 
+| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第4試合第3局 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3190.0 | -39.0 | 
 | 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第4局 | Yun Chanhee | Kim Myounghoon | Lose | W+R | 6.5 | 3229.0 | -14.0 | 
 | 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第5局 | Yun Chanhee | Kim Sedong | Win | B+R | 6.5 | 3243.0 | 98.0 | 
 | 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第3局 | Yun Chanhee | Shin Minjun | Lose | W+0.5 | 6.5 | 3145.0 | -19.0 | 
@@ -86,8 +87,8 @@
 | 2018-09-21 | 2018年韓国囲碁リーグ第12節 | Yun Chanhee | Hong Kipyo | Win | B+R | 6.5 | 3411.0 | 7.0 | 
 | 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Shin Minjun | Yun Chanhee | Lose | B+R | 6.5 | 3404.0 | -9.0 | 
 | 2018-09-11 | 第37回KBS杯囲碁王戦16強戦 | Yun Chanhee | Kim Myounghoon | Lose | W+R | 6.5 | 3413.0 | 11.0 | 
-| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Ryu Suhang | Yun Chanhee | Lose | B+R | 6.5 | 3402.0 | -23.0 | 
-| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Yun Chanhee | Park Jinsol | Lose | W+R | 6.5 | 3425.0 | -51.0 | 
+| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Ryu Suhang | Yun Chanhee | Lose | B+R | 6.5 | 3402.0 | -24.0 | 
+| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Yun Chanhee | Park Jinsol | Lose | W+R | 6.5 | 3426.0 | -50.0 | 
 | 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Yun Chanhee | Lee Sedol | Win | B+R | 6.5 | 3476.0 | 14.0 | 
 | 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Park Yeonghun | Yun Chanhee | Lose | B+R | 6.5 | 3462.0 | -18.0 | 
 | 2018-08-04 | 2018年韓国囲碁リーグ第6節 | Yun Chanhee | Park Minkyu | Win | B+R | 6.5 | 3480.0 | 33.0 | 
@@ -172,8 +173,8 @@
 | 2015-06-18 | 2015年韓国囲碁リーグ | Park Jaekeun | Yun Chanhee | Lose | B+4.5 | 6.5 | 3552.0 | -17.0 | 
 | 2015-06-17 | 2015年フューチャーズリーグ | Yun Chanhee | Ryu Suhang | Win | B+2.5 | 6.5 | 3569.0 | 17.0 | 
 | 2015-06-14 | 2015年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | Win | B+R | 6.5 | 3552.0 | 30.0 | 
-| 2015-05-17 | 2015年フューチャーズリーグ | Park Jinsol | Yun Chanhee | Lose | B+R | 6.5 | 3522.0 | -28.0 | 
-| 2015-05-16 | 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | Win | B+R | 6.5 | 3550.0 | -9.0 | 
+| 2015-05-17 | 2015年フューチャーズリーグ | Park Jinsol | Yun Chanhee | Lose | B+R | 6.5 | 3522.0 | -29.0 | 
+| 2015-05-16 | 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | Win | B+R | 6.5 | 3551.0 | -8.0 | 
 | 2015-05-09 | 2015年フューチャーズリーグ | Yun Chanhee | Park Hamin | Win | B+R | 6.5 | 3559.0 | 33.0 | 
 | 2015-05-03 | 2015年フューチャーズリーグ | Yun Chanhee | Ko Keuntae | Win | B+R | 6.5 | 3526.0 | 3.0 | 
 | 2015-04-26 | 2015年フューチャーズリーグ | Kim Juho | Yun Chanhee | Lose | B+R | 6.5 | 3523.0 | -18.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Kang Seungmin | Lee Wonyoung | Win | B+R | 6.5 | 3335.0 | 35.0 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Park Yeonghun | Win | B+R | 6.5 | 3300.0 | -37.0 | 
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Choi Jeong | Lose | W+R | 6.5 | 3337.0 | 0.0 | 
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Win | W+R | 6.5 | 3337.0 | 15.0 | 
@@ -17,49 +18,49 @@
 | 2022-02-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Byun Sangil | Kang Seungmin | Win | W+R | 6.5 | 3305.0 | 22.0 | 
 | 2022-02-05 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Wonyoung | Win | B+R | 6.5 | 3283.0 | 0.0 | 
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Na Hyun | Kang Seungmin | Lose | B+R | 6.5 | 3283.0 | 12.0 | 
-| 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Win | B+R | 6.5 | 3271.0 | 23.0 | 
-| 2022-01-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Seungmin | Lose | B+R | 6.5 | 3248.0 | -98.0 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Win | B+R | 6.5 | 3271.0 | 22.0 | 
+| 2022-01-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Seungmin | Lose | B+R | 6.5 | 3249.0 | -97.0 | 
 | 2022-01-02 | 2021-2022韓国囲碁リーグ | Song Jihoon | Kang Seungmin | Lose | B+2.5 | 6.5 | 3346.0 | 0.0 | 
 | 2021-12-17 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3346.0 | 0.0 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | Lose | W+R | 6.5 | 3346.0 | -9.0 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Kim Myounghoon | Lose | W+R | 6.5 | 3355.0 | 13.0 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Kang Seungmin | Lose | B+0.5 | 6.5 | 3342.0 | -1.0 | 
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kang Seungmin |  | Lose | W+R | 6.5 | 3343.0 | -23.0 | 
-| 2021-11-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Lee Donghoon | Lose | W+5.5 | 6.5 | 3366.0 | -16.0 | 
-| 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3382.0 | 28.0 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kang Seungmin |  | Lose | W+R | 6.5 | 3343.0 | -24.0 | 
+| 2021-11-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Lee Donghoon | Lose | W+5.5 | 6.5 | 3367.0 | -16.0 | 
+| 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3383.0 | 29.0 | 
 | 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | Lose | W+R | 6.5 | 3354.0 | 0.0 | 
 | 2021-08-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Kang Seungmin | Win | W+R | 6.5 | 3354.0 | 40.0 | 
 | 2021-07-19 | 第23回農心杯韓国予選 | Kim Myounghoon | Kang Seungmin | Lose | B+R | 6.5 | 3314.0 | -19.0 | 
 | 2021-06-16 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kim Jiseok | Lose | W+R | 6.5 | 3333.0 | -9.0 | 
 | 2021-05-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Kang Seungmin | Win | W+R | 6.5 | 3342.0 | -1.0 | 
 | 2021-05-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3343.0 | -25.0 | 
-| 2021-05-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Seungmin | Lose | B+R | 6.5 | 3368.0 | 23.0 | 
-| 2021-04-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | Win | W+R | 6.5 | 3345.0 | 6.0 | 
-| 2021-04-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kim Junghyun | Kang Seungmin | Win | W+R | 6.5 | 3339.0 | 28.0 | 
-| 2021-04-06 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Seungmin | Lose | B+7.5 | 6.5 | 3311.0 | -26.0 | 
-| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Kang Seungmin | Shin Minjun | Win | B+R | 6.5 | 3337.0 | 22.0 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Kang Seungmin | Kang Dongyun | Lose | W+R | 6.5 | 3315.0 | -10.0 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Heo Yongho | Win | B+R | 6.5 | 3325.0 | 20.0 | 
+| 2021-05-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Seungmin | Lose | B+R | 6.5 | 3368.0 | 22.0 | 
+| 2021-04-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | Win | W+R | 6.5 | 3346.0 | 6.0 | 
+| 2021-04-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kim Junghyun | Kang Seungmin | Win | W+R | 6.5 | 3340.0 | 28.0 | 
+| 2021-04-06 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Seungmin | Lose | B+7.5 | 6.5 | 3312.0 | -26.0 | 
+| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Kang Seungmin | Shin Minjun | Win | B+R | 6.5 | 3338.0 | 22.0 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Kang Seungmin | Kang Dongyun | Lose | W+R | 6.5 | 3316.0 | -10.0 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Heo Yongho | Win | B+R | 6.5 | 3326.0 | 21.0 | 
 | 2021-03-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kang Dongyun | Lose | W+R | 6.5 | 3305.0 | -8.0 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3313.0 | -4.0 | 
 | 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Hyun Yoobin | Kang Seungmin | Win | W+R | 6.5 | 3317.0 | -5.0 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Kang Seungmin | Lose | B+R | 6.5 | 3322.0 | 17.0 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Lose | B+R | 6.5 | 3305.0 | -8.0 | 
-| 2021-02-10 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kang Seungmin | Win | W+R | 6.5 | 3313.0 | 26.0 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Yun Junsang | Lose | W+R | 6.5 | 3287.0 | -14.0 | 
-| 2021-01-29 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Lee Chungyu | Win | B+R | 6.5 | 3301.0 | 21.0 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Lose | B+R | 6.5 | 3305.0 | -9.0 | 
+| 2021-02-10 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kang Seungmin | Win | W+R | 6.5 | 3314.0 | 26.0 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Yun Junsang | Lose | W+R | 6.5 | 3288.0 | -14.0 | 
+| 2021-01-29 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Lee Chungyu | Win | B+R | 6.5 | 3302.0 | 22.0 | 
 | 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | Lose | W+R | 6.5 | 3280.0 | -13.0 | 
 | 2021-01-23 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Kim Jiseok | Lose | W+2.5 | 6.5 | 3293.0 | 26.0 | 
-| 2021-01-17 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Kim Sangcheon | Win | B+R | 6.5 | 3267.0 | -15.0 | 
-| 2021-01-11 | 第44期名人戦（韓国）予選 | Kang Seungmin | Kim Junghyun | Lose | W+R | 6.5 | 3282.0 | -39.0 | 
-| 2021-01-09 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Heo Yongho | Win | B+R | 6.5 | 3321.0 | 73.0 | 
+| 2021-01-17 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Kim Sangcheon | Win | B+R | 6.5 | 3267.0 | -16.0 | 
+| 2021-01-11 | 第44期名人戦（韓国）予選 | Kang Seungmin | Kim Junghyun | Lose | W+R | 6.5 | 3283.0 | -39.0 | 
+| 2021-01-09 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Heo Yongho | Win | B+R | 6.5 | 3322.0 | 74.0 | 
 | 2021-01-01 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Shen Zaiyi | Lose | W+R | 6.5 | 3248.0 | -10.0 | 
 | 2020-12-29 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | An Jungki | Win | B+1.5 | 6.5 | 3258.0 | 18.0 | 
 | 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Kang Seungmin | Win | W+R | 6.5 | 3240.0 | 28.0 | 
 | 2020-12-20 | 2020-2021韓国囲碁リーグ | Yun Junsang | Kang Seungmin | Win | W+R | 6.5 | 3212.0 | 21.0 | 
 | 2020-12-12 | 2020-2021韓国囲碁リーグ | Paek Hongseok | Kang Seungmin | Win | W+R | 6.5 | 3191.0 | 10.0 | 
-| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kang Seungmin | Gon Jiwoo | Win | B+R | 6.5 | 3181.0 | 15.0 | 
-| 2020-12-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Park Sangjin | Lose | W+R | 6.5 | 3166.0 | -35.0 | 
+| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kang Seungmin | Gon Jiwoo | Win | B+R | 6.5 | 3181.0 | 14.0 | 
+| 2020-12-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Park Sangjin | Lose | W+R | 6.5 | 3167.0 | -34.0 | 
 | 2020-11-26 | 2020-2021韓国囲碁リーグ | Choi Kyeongho | Kang Seungmin | Lose | B+R | 6.5 | 3201.0 | -10.0 | 
 | 2020-11-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Park Jinsol | Win | B+0.5 | 6.5 | 3211.0 | 56.0 | 
 | 2020-10-26 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Seol Hyunjun | Lose | W+R | 6.5 | 3155.0 | -127.0 | 
@@ -81,8 +82,8 @@
 | 2019-12-14 | 2019-2020韓国囲碁リーグ第11節第3試合第4局 | Lee Hoseong | Kang Seungmin | Win | W+R | 6.5 | 3336.0 | 23.0 | 
 | 2019-12-13 | 第3回クラウン・ヘテ杯1回戦 |  | Kang Seungmin | Win | W+R | 6.5 | 3313.0 | -11.0 | 
 | 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第1局 | Kang Seungmin | Byun Sangil | Win | B+R | 6.5 | 3324.0 | 15.0 | 
-| 2019-11-24 | 2019-2020韓国囲碁リーグ第8節第4試合第3局 | Kang Dongyun | Kang Seungmin | Lose | B+R | 6.5 | 3309.0 | -43.0 | 
-| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第2局 | Kang Seungmin | Lee Donghoon | Lose | W+2.5 | 6.5 | 3352.0 | -1.0 | 
+| 2019-11-24 | 2019-2020韓国囲碁リーグ第8節第4試合第3局 | Kang Dongyun | Kang Seungmin | Lose | B+R | 6.5 | 3309.0 | -44.0 | 
+| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第2局 | Kang Seungmin | Lee Donghoon | Lose | W+2.5 | 6.5 | 3353.0 | 0.0 | 
 | 2019-11-08 | 2019-2020韓国囲碁リーグ第6節第2試合第1局 |  | Kang Seungmin | Lose | B+R | 6.5 | 3353.0 | -26.0 | 
 | 2019-10-31 | 2019-2020韓国囲碁リーグ第5節第1試合第5局 | Kang Seungmin | Na Hyun | Win | B+R | 6.5 | 3379.0 | 43.0 | 
 | 2019-10-27 | 2019-2020韓国囲碁リーグ第4節第4試合第1局 | Park Yeonghun | Kang Seungmin | Win | W+R | 6.5 | 3336.0 | 79.0 | 
@@ -103,8 +104,8 @@
 | 2018-09-21 | 2018年韓国囲碁リーグ第12節 | Lee Wonyoung | Kang Seungmin | Win | W+R | 6.5 | 3508.0 | 13.0 | 
 | 2018-09-15 | 2018年韓国囲碁リーグ第11節 | Kim Myounghoon | Kang Seungmin | Lose | B+R | 6.5 | 3495.0 | -42.0 | 
 | 2018-09-02 | 2018年韓国囲碁リーグ第10節 | Han Taehee | Kang Seungmin | Lose | B+R | 6.5 | 3537.0 | -25.0 | 
-| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Kim Seongjae | Kang Seungmin | Win | W+R | 6.5 | 3562.0 | -31.0 | 
-| 2018-08-18 | 2018年韓国囲碁リーグ第8節 | Kang Seungmin | An Jungki | Lose | W+R | 6.5 | 3593.0 | -38.0 | 
+| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Kim Seongjae | Kang Seungmin | Win | W+R | 6.5 | 3562.0 | -32.0 | 
+| 2018-08-18 | 2018年韓国囲碁リーグ第8節 | Kang Seungmin | An Jungki | Lose | W+R | 6.5 | 3594.0 | -37.0 | 
 | 2018-08-12 | 2018年韓国囲碁リーグ第7節 | Kang Seungmin | Lee Yeongkyu | Lose | W+R | 6.5 | 3631.0 | 0.0 | 
 | 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Kang Seungmin | Ryu Suhang | Win | B+5.5 | 6.5 | 3631.0 | 13.0 | 
 | 2018-07-21 | 2018年韓国囲碁リーグ第5節 | Kang Seungmin | Yun Chanhee | Lose | W+R | 6.5 | 3618.0 | 2.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Lose | B+R | 6.5 | 2951 | -7 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Lu Yuhua | Xie Yimin | Lose | B+R | 6.5 | 2958 | -35 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Choi Jeong | Xie Yimin | Win | W+R | 6.5 | 2993 | 50 | 
 | 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2943 | -26 | 

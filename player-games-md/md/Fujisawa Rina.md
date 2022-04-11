@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Win | B+R | 6.5 | 3176 | 12 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3164 | -27 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Win | W+2.5 | 6.5 | 3191 | 5 | 
 | 2022-02-24 | 第48期名人戦予選 |  | Fujisawa Rina | Win | W+R | 6.5 | 3186 | -39 | 

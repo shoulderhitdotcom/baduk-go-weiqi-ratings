@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-11 | 第12期友士杯十段戦1回戦  | Lin Shixun | Lu Yuhua | Lose | B+R | 6.5 | 2761 | -12 | 
 | 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦決勝  | Ueno Asami | Lu Yuhua | Lose | B+R | 6.5 | 2773 | -7 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Lu Yuhua | Xie Yimin | Win | B+R | 6.5 | 2780 | 31 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Lu Yuhua | Suzuki Ayumi | Win | B+3.5 | 6.5 | 2749 | 37 | 

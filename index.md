@@ -10,7 +10,9 @@ The ratings are based on 5130 games from 2021-04-13 to 2022-04-12.
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
 
-[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
+[Biggest Movers today](#biggest-movers-in-top-100-today)
+
+[Biggest Movers 365 days](#biggest-movers-in-top-100-last-365-days)
 
 ### Top 100
 
@@ -588,6 +590,115 @@ Black 6.5 komi advantage is estimated to be 4 in Elo
 Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
+
+### Biggest Movers in Top 100 Today
+
+
+
+
+| **Name** | **Rating Change** | **汉字** | 
+| --- | --- | --- |
+| Lin Junyan | -18 | 林君諺 | 
+| Li Qincheng | -17 | 李欽誠 | 
+| Ke Jie | 11 | 柯潔 | 
+| Xu Haohong | -9 | 許皓鋐 | 
+| Wang Yuanjun | -9 | 王元均 | 
+| Lee Changseok | -8 | 李昌錫 | 
+| Gu Zihao | -7 | 辜梓豪 | 
+| Liao Yuanhe | -4 | 廖元赫 | 
+| Li Xuanhao | 4 | 李軒豪 | 
+| Ichiriki Ryo | -4 | 一力遼 | 
+| Jin Yucheng | -4 | 金禹丞 | 
+| Wu Guangya | -4 | 鄔光亜 | 
+| Huang Yunsong | -3 | 黄雲嵩 | 
+| Peng Liyao | -3 | 彭立尭 | 
+| Zhao Chenyu | -3 | 趙晨宇 | 
+| Yang Kaiwen | -3 | 楊楷文 | 
+| Lian Xiao | -3 | 連笑 | 
+| Tuo Jiaxi | -3 | 柁嘉熹 | 
+| Xu Jiayang | -3 | 許嘉陽 | 
+| Tong Mengcheng | -3 | 童夢成 | 
+| Meng Tailing | -3 | 孟泰齢 | 
+| Weon Seongjin | -3 | 元晟溱 | 
+| Han Yizhou | -3 | 韓一洲 | 
+| Tan Xiao | -3 | 檀嘯 | 
+| Xie Erhao | -3 | 謝爾豪 | 
+| Wang Shuo | -3 | 王碩 | 
+| Chen Haoxin | -3 | 陳豪鑫 | 
+| Chen Xian | -3 | 陳賢 | 
+| Huang Mingyu | -3 | 黄明宇 | 
+| Hong Seongji | -3 | 洪性志 | 
+| Choi Jaeyoung | -3 | 崔宰栄 | 
+| Choi Jeong | -3 | 崔精 | 
+| Ding Hao | -2 | 丁浩 | 
+| Byun Sangil | -2 | 卞相壹 | 
+| Mi Yuting | -2 | 芈昱廷 | 
+| Yang Dingxin | -2 | 楊鼎新 | 
+| Lee Donghoon | -2 | 李東勲 | 
+| Fan Tingyu | -2 | 范廷鈺 | 
+| Iyama Yuta | -2 | 井山裕太 | 
+| Wang Xinghao | -2 | 王星昊 | 
+| Kim Jiseok | -2 | 金志錫 | 
+| Zhang Tao | -2 | 張涛 | 
+| Fan Yin | -2 | 范胤 | 
+| Shin Minjun | 2 | 申旻埈 | 
+| Kim Myounghoon | -2 | 金明訓 | 
+| Shi Yue | -2 | 時越 | 
+| Tu Xiaoyu | -2 | 屠暁宇 | 
+| Han Seungjoo | -2 | 韓昇周 | 
+| Chen Yaoye | -2 | 陳耀燁 | 
+| Heo Youngrak | -2 | 許栄珞 | 
+| Kang Dongyun | -2 | 姜東潤 | 
+| Seol Hyunjun | -2 | 偰玹準 | 
+| Tang Weixing | -2 | 唐韋星 | 
+| Jiang Weijie | -2 | 江維傑 | 
+| Park Jinsol | -2 | 朴進率 | 
+| Chen Zijian | -2 | 陳梓健 | 
+| Rong Yi | -2 | 戎毅 | 
+| Yu Zhengqi | 2 | 余正麒 | 
+| Park Joonhoon | -2 | 朴鐘勲 | 
+| Liu Yuhang | -2 | 劉宇航 | 
+| Chen Yunong | -2 | 陳玉儂 | 
+| Zhou Ruiyang | -2 | 周睿羊 | 
+| Park Minkyu | -2 | 朴珉奎 | 
+| Xia Chenkun | -2 | 夏晨琨 | 
+| Adachi Toshimasa | 2 | 安達利昌 | 
+| Park Sangjin | -2 | 朴常鎭 | 
+| Wang Zejin | -2 | 王沢錦 | 
+| Kim Seongjae | -2 | 金昇宰 | 
+| Jiang Qirun | -2 | 蒋其潤 | 
+| An Jungki | -2 | 安正己 | 
+| An Sungjoon | -2 | 安成浚 | 
+| Liao Xingwen | -2 | 廖行文 | 
+| Han Sanghoon | -2 | 韓尚勲 | 
+| Kang Seungmin | -2 | 姜昇旼 | 
+| Yun Chanhee | -2 | 尹燦熙 | 
+| Park Junghwan | -1 | 朴廷桓 | 
+| Dang Yifei | -1 | 党毅飛 | 
+| Sun Tengyu | -1 | 孫騰宇 | 
+| Li Weiqing | -1 | 李維清 | 
+| Xie Ke | -1 | 謝科 | 
+| Park Yeonghun | -1 | 朴永訓 | 
+| Park Geunho | -1 | 朴鍵昊 | 
+| Hsu Chiayuan | 1 | 許家元 | 
+| Wang Haoyang | -1 | 王昊洋 | 
+| Yi Lingtao | -1 | 伊淩濤 | 
+| Hong Mujin | -1 | 洪茂鎭 | 
+| Park Hamin | -1 | 朴河旼 | 
+| Tao Xinran | -1 | 陶欣然 | 
+| Pan Tingyu | -1 | 潘亭宇 | 
+| Choi Cheolhan | -1 | 崔哲瀚 | 
+| Hu Yuhan | -1 | 胡鈺函 | 
+| Shibano Toramaru | 1 | 芝野虎丸 | 
+| Wi Taewoong | -1 | 魏太雄 | 
+| Yun Junsang | -1 | 尹畯相 | 
+|  | -1 | 陳必森 |
+
+
+
+
+
+
 
 ### Biggest Movers in Top 100 (last 365 days)
 

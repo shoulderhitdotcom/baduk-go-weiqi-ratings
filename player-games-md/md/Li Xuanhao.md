@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Win | W+R | 7.5 | 3560 | 4 | 
-| 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3556 | -3 | 
+| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Win | W+R | 7.5 | 3561 | 4 | 
+| 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3557 | -2 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Li Xuanhao | Win | W+R | 7.5 | 3559 | 0 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ryan Li | Li Xuanhao | Win | W+R | 7.5 | 3559 | 15 | 
 | 2022-02-23 | 第14回春蘭杯中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3544 | 11 | 
@@ -18,30 +18,30 @@
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3570 | 12 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Li Xuanhao | Peng Liyao | Lose | W+R | 7.5 | 3558 | -7 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Li Xuanhao | Chen Yaoye | Win | B+¾ | 7.5 | 3565 | 12 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Xie Ke | Win | B+R | 7.5 | 3553 | -11 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Li Xuanhao | Fan Yin | Lose | W+R | 7.5 | 3564 | 12 | 
-| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Dang Yifei | Li Xuanhao | Lose | B+R | 7.5 | 3552 | -12 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Xie Ke | Win | B+R | 7.5 | 3553 | -12 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Li Xuanhao | Fan Yin | Lose | W+R | 7.5 | 3565 | 12 | 
+| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Dang Yifei | Li Xuanhao | Lose | B+R | 7.5 | 3553 | -11 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Li Xuanhao | Tan Xiao | Win | B+R | 7.5 | 3564 | 5 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Fan Yin | Li Xuanhao | Win | W+R | 7.5 | 3559 | 22 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Xuanhao | Chen Xian | Win | B+R | 7.5 | 3537 | -3 | 
-| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3540 | 6 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Xuanhao | Chen Xian | Win | B+R | 7.5 | 3537 | -4 | 
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3541 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Xuanhao | Lian Xiao | Win | B+R | 7.5 | 3534 | 10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Win | B+R | 7.5 | 3524 | -3 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Guo Xinyi | Win | B+R | 7.5 | 3527 | 2 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Win | B+1¾ | 7.5 | 3525 | 1 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Lose | B+R | 7.5 | 3524 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Xuanhao | Win | W+1¼ | 7.5 | 3533 | 4 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3529 | -11 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3540 | 0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3540 | 0 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Lose | B+R | 7.5 | 3540 | -11 | 
-| 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Win | W+R | 6.5 | 3551 | 20 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3531 | 6 | 
-| 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Lose | B+R | 6.5 | 3525 | -20 | 
-| 2021-08-26 | 第12期中国竜星戦予選 | Li Xuanhao | Rong Yi | Win | B+¾ | 7.5 | 3545 | 25 | 
-| 2021-08-25 | 第26回三星火災杯中国予選 | Li Xuanhao | Fan Yin | Lose | W+R | 6.5 | 3520 | -11 | 
-| 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Lose | W+R | 6.5 | 3531 | -6 | 
-| 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Lose | W+R | 6.5 | 3537 | -12 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3529 | -12 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3541 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3541 | 0 | 
+| 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Lose | B+R | 7.5 | 3541 | -11 | 
+| 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Win | W+R | 6.5 | 3552 | 20 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3532 | 6 | 
+| 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Lose | B+R | 6.5 | 3526 | -20 | 
+| 2021-08-26 | 第12期中国竜星戦予選 | Li Xuanhao | Rong Yi | Win | B+¾ | 7.5 | 3546 | 25 | 
+| 2021-08-25 | 第26回三星火災杯中国予選 | Li Xuanhao | Fan Yin | Lose | W+R | 6.5 | 3521 | -11 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Lose | W+R | 6.5 | 3532 | -6 | 
+| 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Lose | W+R | 6.5 | 3538 | -11 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | Lose | B+0.5 | 6.5 | 3549 | -5 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | Win | B+R | 6.5 | 3554 | 18 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Yi Lingtao | Li Xuanhao | Lose | B+R | 7.5 | 3536 | -1 | 

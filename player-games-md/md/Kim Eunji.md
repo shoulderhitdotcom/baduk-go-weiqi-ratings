@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Win | W+R | 7.5 | 2974 | 48 | 
-| 2022-04-11 | 第5回呉清源杯韓国予選 | Park Jiyeon | Kim Eunji | Win | W+R | 7.5 | 2926 | 15 | 
-| 2022-04-08 | 2022湖畔杯世界女子覇王戦韓国予選 | Kim Eunji |  | Lose | W+R | 6.5 | 2911 | -70 | 
-| 2022-04-06 | 2022湖畔杯世界女子覇王戦韓国予選 | Kim Eunji | Kim Hyeoimin | Win | B+R | 6.5 | 2981 | 32 | 
-| 2022-04-05 | 2022YK建機杯リーグ | Park Junghwan | Kim Eunji | Lose | B+R | 6.5 | 2949 | -6 | 
+| 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Win | W+R | 7.5 | 2975 | 48 | 
+| 2022-04-11 | 第5回呉清源杯韓国予選 | Park Jiyeon | Kim Eunji | Win | W+R | 7.5 | 2927 | 15 | 
+| 2022-04-08 | 2022湖畔杯世界女子覇王戦韓国予選 | Kim Eunji |  | Lose | W+R | 6.5 | 2912 | -70 | 
+| 2022-04-06 | 2022湖畔杯世界女子覇王戦韓国予選 | Kim Eunji | Kim Hyeoimin | Win | B+R | 6.5 | 2982 | 32 | 
+| 2022-04-05 | 2022YK建機杯リーグ | Park Junghwan | Kim Eunji | Lose | B+R | 6.5 | 2950 | -5 | 
 | 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Lose | B+R | 6.5 | 2955 | -21 | 
 | 2022-03-21 | 2022YK建機杯リーグ | Kim Eunji | Kim Myounghoon | Lose | W+R | 6.5 | 2976 | 31 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Nakamura Sumire | Kim Eunji | Win | W+R | 6.5 | 2945 | 68 | 

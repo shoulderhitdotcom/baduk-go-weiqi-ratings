@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Lai Junfu** | **Chen Qirui streak** | **Lai Junfu streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | W+R | 6.5 | 3:0 | 3 | 0 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | W+R | 6.5 | 13:7 | 0 | 1 | 
 | 2021-11-01 | 第14期棋王戦（台湾）リーグ残留プレーオフ  | Chen Qirui | Lai Junfu | W+R | 6.5 | 6:2 | 0 | 2 | 
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Lai Junfu | Chen Qirui | W+R | 6.5 | 17:9 | 1 | 0 | 
@@ -26,12 +26,12 @@
 | 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Qirui | Lai Junfu | W+R | 6.5 | 13:8 | 0 | 2 | 
 | 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 | Chen Qirui | Lai Junfu | B+R | 6.5 | 11:4 | 2 | 0 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lai Junfu | Chen Qirui | W+R | 6.5 | 10:4 | 1 | 0 | 
-| 2019-11-06 | 2019新人王戦（台湾）リーグB | Chen Qirui | Lai Junfu | B+R | 7.5 | 3:0 | 3 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Chen Qirui | Lai Junfu | B+R | 7.5 | 2:0 | 2 | 0 | 
 | 2019-10-14 | 第12期棋王戦（台湾）予選敗部決勝 | Chen Qirui | Lai Junfu | B+5.5 | 6.5 | 4:0 | 4 | 0 | 
 | 2019-05-09 | 第9期友士杯十段戦勝部準決勝 | Chen Qirui | Lai Junfu | W+R | 6.5 | 17:10 | 0 | 1 | 
 | 2019-03-12 | 第18期天元戦（台湾）敗部4回戦 | Chen Qirui | Lai Junfu | B+R | 6.5 | 8:2 | 2 | 0 | 
 | 2019-03-01 | 第6回グロービス杯台湾予選 | Lai Junfu | Chen Qirui | W+R | 6.5 | 16:8 | 3 | 0 | 
-| 2018-06-16 | 2018年中国囲棋丙級リーグ | Chen Qirui | Lai Junfu | B+¾ | 7.5 | 2:0 | 2 | 0 | 
+| 2018-06-16 | 2018年中国囲棋丙級リーグ | Chen Qirui | Lai Junfu | B+¾ | 7.5 | 1:0 | 1 | 0 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Chen Qirui | Lai Junfu | B+R | 6.5 | 6:0 | 6 | 0 | 
 | 2017-09-17 | 第5期中環碁聖戦第二回戦 | Lai Junfu | Chen Qirui | W+0.5(W+0.5) | 6.5 | 15:8 | 2 | 0 | 
 | 2017-02-22 | 第十四期倡棋盃台湾代表選抜戦決勝第一局 | Chen Qirui | Lai Junfu | W+R | 7.5 | 17:12 | 0 | 3 | 

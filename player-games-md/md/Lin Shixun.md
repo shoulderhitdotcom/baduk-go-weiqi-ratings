@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 第27回LG杯台湾予選 | Xu Yuqi | Lin Shixun | Win | W+R | 6.5 | 3145 | 0 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Yang Zixuan | Lin Shixun | Win | W+R | 6.5 | 3145 | 7 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦  | Lin Shixun | Lu Yuhua | Win | B+R | 6.5 | 3138 | 35 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | Win | W+R | 6.5 | 3103 | 8 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 3095 | -7 | 

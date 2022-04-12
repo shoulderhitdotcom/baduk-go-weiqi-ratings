@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Lose | W+R | 7.5 | 3500 | -3 | 
 | 2022-04-11 | 2022年アジア競技大会中国予選 | Lian Xiao | Fan Tingyu | Lose | W+R | 7.5 | 3503 | -6 | 
 | 2022-04-10 | 2022年アジア競技大会中国予選 | Xu Jiayang | Lian Xiao | Win | W+R | 7.5 | 3509 | -23 | 
 | 2022-02-23 | 第14回春蘭杯中国予選 | Shi Yue | Lian Xiao | Lose | B+R | 7.5 | 3532 | -11 | 

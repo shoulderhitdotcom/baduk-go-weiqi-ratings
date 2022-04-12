@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 第27回LG杯台湾予選 | Lin Lixiang | Bai Xinhui | Win | B+R | 6.5 | 3179 | -3 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Lose | W+R | 6.5 | 3182 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3182 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Win | W+R | 6.5 | 3182 | 7 | 

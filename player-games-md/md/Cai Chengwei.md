@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 第27回LG杯台湾予選 |  | Cai Chengwei | Lose | B+R | 6.5 | 2772 | 2 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Cai Chengwei | Wang Yuanjun | Lose | W+R | 6.5 | 2770 | 10 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2760 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Zhou Keping | Cai Chengwei | Win | W+R | 6.5 | 2760 | -35 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2977 | -38 | 
 | 2022-04-11 | 第5回呉清源杯韓国予選 | Kim Yoonyoung | Oh Jeonga | Win | W+2¼ | 7.5 | 3015 | 14 | 
 | 2022-04-07 | 第5回呉清源杯韓国予選 | Kim Dayoung | Oh Jeonga | Win | W+R | 7.5 | 3001 | 18 | 
 | 2022-04-05 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Jeonga | Kang Dajeong | Win | B+5.5 | 6.5 | 2983 | 6 | 

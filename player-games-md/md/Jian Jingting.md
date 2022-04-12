@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 第27回LG杯台湾予選 | Jian Jingting |  | Lose | W+R | 6.5 | 3086 | -21 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Jian Jingting |  | Win | B+R | 6.5 | 3107 | 14 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3093 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Jian Jingting |  | Win | B+R | 6.5 | 3093 | 0 | 

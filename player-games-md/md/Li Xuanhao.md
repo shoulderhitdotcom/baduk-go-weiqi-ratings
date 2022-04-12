@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Win | W+R | 7.5 | 3560 | 4 | 
 | 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3556 | -3 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Li Xuanhao | Win | W+R | 7.5 | 3559 | 0 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ryan Li | Li Xuanhao | Win | W+R | 7.5 | 3559 | 15 | 

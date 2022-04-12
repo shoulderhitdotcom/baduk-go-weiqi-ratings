@@ -1,4 +1,4 @@
-## Izumitani Hideo Games
+## Jian Jingting vs Lu Yuhua Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Izumitani Hideo.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Jian Jingting-Lu Yuhua.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

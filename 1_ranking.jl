@@ -195,11 +195,15 @@ goratings_latest = @chain goratings_latest begin
     select(:Name, :elo)
 end
 
+# the 99th percentile value in Normal(0, 1)
+# used to discount
+const P99 = 2.326348
+
 pings_for_alignment = @chain pings begin
     @transform :eng_name = get(NAMESDB, :name, "")
     @subset :eng_name != ""
     innerjoin(goratings_latest, on=:eng_name => :Name)
-    @transform :diff = :elo - :estimate * 400 / log(10)
+    @transform :diff = :elo - (:estimate - P99 * :std_error) * 400 / log(10)
     sort!(:elo, rev=true)
     select(:eng_name, :elo, :diff)
     _[1, :] # get the difference between number 1 player according to goratings
@@ -210,11 +214,11 @@ function turn_records_into_md(pings)
         @transform :name = @c Vector{String}(:name) # avoid weird SentinelArray Bug
         @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
-        # @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
+        @transform :estimate_for_ranking = :estimate - P99 * :std_error
         # @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
         # @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
         # @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
-        @transform :Rating = round(Int, :estimate * 400 / log(10) + pings_for_alignment.diff)
+        @transform :Rating = round(Int, :estimate_for_ranking * 400 / log(10) + pings_for_alignment.diff)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         sort!(:Rating, rev=true)
         # @transform :Rank = @c 1:length(:Rating)
@@ -223,7 +227,8 @@ end
 
 # make ratings database
 if false# run only once to generate the historical ratings
-    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021, 7, 5)) do date
+    @time pings_hist = mapreduce(vcat, Date(2021, 1, 1):Day(1):Date(2022, 4, 8)) do date
+        println(date)
         # @time pings_hist = mapreduce(vcat, missing_dates) do date
         if isfile("records/$(string(date)) pings.csv")
             pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
@@ -438,6 +443,36 @@ pings_hist_adj = @chain pings_hist begin
     @transform! :Rating = :Rating + :rating_adj
 end
 
+# determine biggest movers
+# md = maximum(pings_hist_adj.date)
+top100names = @chain pings_hist_adj begin
+    @subset :date == md
+    sort(:Rating, rev=true)
+    _[1:100, :name]
+end
+
+top100_movements = @chain pings_hist_adj begin
+    @subset :name in top100names
+    @subset :date in (md, md - Day(1))
+    groupby(:name)
+    combine(df -> begin
+        if nrow(df) == 1
+            return DataFrame()
+        end
+        @chain df begin
+            sort(:date)
+            DataFrame(rating_change=diff(_.Rating))
+        end
+    end)
+    @subset :rating_change != 0
+    @transform :abs_rating_change = abs(:rating_change)
+    sort(:abs_rating_change, rev=true)
+    @transform :eng_name = get(NAMESDB, :name, "")
+    select(:eng_name=>:Name, :rating_change=>Symbol("Rating Change"), :name => Symbol("汉字"))
+end
+
+JDF.save("top100_movements.jdf", top100_movements)
+
 
 # compute the average rating
 mean_ratings = @chain pings_hist_adj begin
@@ -463,9 +498,8 @@ pings_for_md_tmp = select(
     :Rank,
     :eng_name => "Name",
     :Class,
-    :Form,
     :Rating,
-    :rating_uncertainty => Symbol("Uncertainty"),
+    :Form, :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
     :median_rank => "Median Rank",
     :ranking_range => "Rank Range",
@@ -473,13 +507,13 @@ pings_for_md_tmp = select(
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" < NGAME_THRESHOLD
-    sort!(:Rating, rev=true)
+    sort!(:Class, rev=true)
     @transform :Rank = @c 1:length(:Rating)
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
-    @subset $"Games Played" >= NGAME_THRESHOLD
-    sort!(:Rating, rev=true)
+    # @subset $"Games Played" >= NGAME_THRESHOLD
+    sort!(:Class, rev=true)
     @transform :Rank = @c 1:length(:Rating)
 end
 

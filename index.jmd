@@ -2,8 +2,6 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
-Note that players with fewer than {{NGAME_THRESHOLD}} games are not on the list
-
 ### Quicklinks
 
 [Top 100](#top-100)
@@ -12,7 +10,9 @@ Note that players with fewer than {{NGAME_THRESHOLD}} games are not on the list
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
 
-[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
+[Biggest Movers today](#biggest-movers-in-top-100-today)
+
+[Biggest Movers 365 days](#biggest-movers-in-top-100-last-365-days)
 
 ### Top 100
 
@@ -28,7 +28,6 @@ select!(tmp, Not(:Uncertainty))
 
 df_to_md(pings_for_md[1:100, :])
 ```
-
 
 ### Outside of Top 100
 
@@ -49,19 +48,20 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-### Ratings of players with fewer than {{NGAME_THRESHOLD}} games (rating not reliable)
+### Biggest Movers in Top 100 Today
+
 
 ```{julia; echo=false; line_width=888}
-using JDF
+using JDF, Chain, DataFrameMacros
 using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_mdbs = JDF.load("below_threshold_pings_for_md.jdf") |> DataFrame
-
-df_to_md(pings_for_mdbs)
+@chain JDF.load("top100_movements.jdf") begin
+    DataFrame
+    df_to_md
+end
 ```
-
 
 ### Biggest Movers in Top 100 (last 365 days)
 

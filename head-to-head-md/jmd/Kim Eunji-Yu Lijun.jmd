@@ -1,4 +1,4 @@
-## Izumitani Hideo Games
+## Kim Eunji vs Yu Lijun Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Izumitani Hideo.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Kim Eunji-Yu Lijun.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

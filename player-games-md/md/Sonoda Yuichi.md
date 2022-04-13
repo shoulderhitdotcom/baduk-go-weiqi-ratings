@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-13 | 第47期棋聖戦予選 | Sonoda Yuichi |  | Lose | W+R | 6.5 | 2839 | -63 | 
-| 2022-03-18 | 第1回テイケイ杯レジェンド戦決勝  | Aoki Kikuyo | Sonoda Yuichi | Win | W+R | 6.5 | 2902 | 170 | 
-| 2022-02-24 | 第1回テイケイ杯レジェンド戦準決勝 | Kobayashi Satoru | Sonoda Yuichi | Win | W+R | 6.5 | 2732 | 59 | 
-| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Win | B+R | 6.5 | 2673 | 400 | 
-| 2022-01-10 | 第1回テイケイ杯レジェンド戦1回戦 | Hosaka Mayu | Sonoda Yuichi | Win | W+7.5 | 6.5 | 2273 | -177 | 
+| 2022-04-13 | 第47期棋聖戦予選 | Sonoda Yuichi |  | Lose | W+R | 6.5 | 2840 | -63 | 
+| 2022-03-18 | 第1回テイケイ杯レジェンド戦決勝  | Aoki Kikuyo | Sonoda Yuichi | Win | W+R | 6.5 | 2903 | 170 | 
+| 2022-02-24 | 第1回テイケイ杯レジェンド戦準決勝 | Kobayashi Satoru | Sonoda Yuichi | Win | W+R | 6.5 | 2733 | 59 | 
+| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Win | B+R | 6.5 | 2674 | 400 | 
+| 2022-01-10 | 第1回テイケイ杯レジェンド戦1回戦 | Hosaka Mayu | Sonoda Yuichi | Win | W+7.5 | 6.5 | 2274 | -176 | 
 | 2021-12-01 | 第1回テイケイ杯レジェンド戦予選 | Sonoda Yuichi | Hasegawa Sunao | Win | B+R | 6.5 | 2450 | 312 | 
 | 2021-09-08 | 第70期王座戦予選 | Sonoda Yuichi | Seto Taiki | Lose | W+R | 6.5 | 2138 | -60 | 
 | 2021-08-23 | 第66期関西棋院第一位決定戦予選 | Yata Naoki | Sonoda Yuichi | Lose | B+3.5 | 6.5 | 2198 | 0 | 

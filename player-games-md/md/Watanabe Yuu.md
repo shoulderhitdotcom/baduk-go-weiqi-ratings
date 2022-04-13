@@ -5,104 +5,19 @@
 
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Watanabe Yuu Ratings⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀             
-               ⡤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤             
-          3000 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ Watanabe Yuu
-               ⡇⠀⠀⠀⢸⠑⠒⠲⢄⢀⣀⣀⠀⠀⠀⠀⠀⠀⢀⠎⠀⠀⠀⠀⠉⠉⠒⠒⠤⠤⣀⣀⢀⠀⠀⢀⠔⠤⠒⡆⡔⢸             
-               ⡇⠀⠀⠀⡜⠀⠀⠀⠀⠁⠀⢸⠀⢀⠤⠤⠒⠒⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠑⠔⠁⠀⠀⠀⡷⠁⢸             
-               ⡇⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠹⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢸             
-               ⡇⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-   Rating      ⡇⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⡜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-             0 ⡇⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⠓⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠚             
-               ⠀2016-03-22⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2022-01-19⠀             
-               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Date⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-
-
-
-
-
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result*
-* | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-19 | 第78期本因坊戦予選 | Watanabe Yuu | Abe Yoshiki | Lose | W+R | 6.5 |
- 2729.0 | -17.0 | 
-| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Watanabe Yuu | Lin Xinwei | Win | B+R | 6
-.5 | 2746.0 | 387.0 | 
-| 2021-10-14 | 第48期天元戦予選 | Yuki Satoshi | Watanabe Yuu | Lose | B+R | 6.5 |
- 2359.0 | -386.0 | 
-| 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Lose | W+R | 6.
-5 | 2745.0 | 32.0 | 
-| 2021-08-18 | 第47期碁聖戦予選 | Watanabe Yuu | Hoshikawa Takumi | Win | B+R | 6.
-5 | 2713.0 | 51.0 | 
-| 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Lose | B+R | 6.
-5 | 2662.0 | -75.0 | 
-| 2021-06-10 | 第60期十段戦予選 | Watanabe Yuu | Takashima Yugo | Win | B+3.5 | 6.
-5 | 2737.0 | 52.0 | 
-| 2021-05-12 | 第60期十段戦予選 | Sakakibara Masateru | Watanabe Yuu | Win | W+6.5
- | 6.5 | 2685.0 | 223.0 | 
-| 2021-01-25 | 第46期新人王戦 | Sotoyanagi Sebun | Watanabe Yuu | Lose | B+R | 6.
-5 | 2462.0 | -142.0 | 
-| 2020-11-11 | 第46期新人王戦予選 | Watanabe Yuu |  | Win | B+R | 6.5 | 2604.0 | 6.
-0 | 
-| 2020-10-14 | 第46期新人王戦予選 | Watanabe Yuu | Hara Masakazu | Win | B+R | 6.5 
-| 2598.0 | -302.0 | 
-| 2019-01-14 | 第6回グロービス杯国内予選 |  | Watanabe Yuu | Lose | B+R | 6.5 | 2900.0 
-| 370.0 | 
-| 2018-09-26 | 第67期王座戦予選B | Onoda Takuya | Watanabe Yuu | Win | W+R | 6.5 |
- 2530.0 | 54.0 | 
-| 2018-03-14 | 第57期十段戦予選A | Watanabe Yuu | Seto Taiki | Lose | W+R | 6.5 | 
-2476.0 | 20.0 | 
-| 2018-02-12 | 第5回グロービス杯国内予選 | Watanabe Yuu | Seki Kotaro | Lose | W+R | 6.
-5 | 2456.0 | 0.0 | 
-| 2018-02-12 | 第5回グロービス杯国内予選 | Watanabe Yuu | Ueno Asami | Win | B+R | 6.5 
-| 2456.0 | 188.0 | 
-| 2017-12-14 | 2017年関西棋院VS台湾棋院交流戦第3戦 | Gao Yun | Watanabe Yuu | Lose | B+1.
-5 | 6.5 | 2268.0 | -16.0 | 
-| 2017-12-13 | 2017年関西棋院VS台湾棋院交流戦第2戦 | Ye Hongyuan | Watanabe Yuu | Lose | 
-B+R | 6.5 | 2284.0 | -93.0 | 
-| 2017-12-12 | 2017年関西棋院VS台湾棋院交流戦第1戦 | Watanabe Yuu | Xu Yuqi | Lose | W+F 
-| 6.5 | 2377.0 | -21.0 | 
-| 2017-11-27 | 2017年日本囲碁リーグ2nd最終節瀬戸内-浪速三将戦 | Taniguchi Tooru | Watanabe Yuu
- | Lose | B+R | 6.5 | 2398.0 | 9.0 | 
-| 2017-10-31 | 囲碁関西企画　欧米対日本若手棋士2017 | Watanabe Yuu |  | Lose | W+9.5 | 6.5 
-| 2389.0 | -233.0 | 
-| 2017-10-09 | 2017年日本囲碁リーグ2nd第4節WU-浪速副将戦 | Watanabe Yuu | Mine Yasuhiro | 
-Win | B+R | 6.5 | 2622.0 | -6.0 | 
-| 2017-09-25 | 2017年日本囲碁リーグ2nd第3節古都-浪速副将戦 | Watanabe Yuu | Seto Taiki | Los
-e | W+R | 6.5 | 2628.0 | 34.0 | 
-| 2017-05-22 | 2017年日本囲碁リーグ1st第4節浪速-WU主将戦 | Nyu Eiko | Watanabe Yuu | Lose 
-| B+R | 6.5 | 2594.0 | -108.0 | 
-| 2017-03-27 | 2017年日本囲碁リーグ1st2回戦浪速-兵庫三将戦 | Watanabe Yuu | Abe Yoshiki | Lo
-se | W+R | 6.5 | 2702.0 | -45.0 | 
-| 2017-03-24 | 第3回イベロジャパン杯1回戦 | Watanabe Yuu | Seki Kotaro | Win | B+R | 6.
-5 | 2747.0 | 74.0 | 
-| 2017-03-17 | 第4回グロービス杯国内予選 | Nyu Eiko | Watanabe Yuu | Lose | B+R | 6.5 |
- 2673.0 | -76.0 | 
-| 2017-03-09 | 第43期名人戦予選B | Watanabe Yuu | Nishi Takenobu | Lose | W+R | 6.
-5 | 2749.0 | 27.0 | 
-| 2017-02-06 | 第42期新人王戦　本戦1回戦 | Koyama Kuya | Watanabe Yuu | Lose | B+R | 6
-.5 | 2722.0 | -1.0 | 
-| 2016-12-15 | 第73期本因坊戦予選B | Ha Youngil | Watanabe Yuu | Lose | B+R | 6.5 |
- 2723.0 | -44.0 | 
-| 2016-10-19 | 第42期日本新人王戦予選 | Watanabe Yuu | Abe Yoshiki | Win | B+R | 6.5 
-| 2767.0 | 20.0 | 
-| 2016-10-12 | 第65期 王座戦 予選A | Watanabe Yuu | Aragaki Shun | Win | B+R | 6.5
- | 2747.0 | 2630.0 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Watanabe Yuu | Hsu Chiayuan | Lose | W+R | 6
-.5 | 117.0 | 0.0 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Watanabe Yuu | Hoshiai Shiho | Win | B+R | 6
-.5 | 117.0 | missing |
+| 2022-04-13 | 第48期名人戦予選 | Watanabe Yuu | Sada Atsushi | Lose | W+R | 6.5 | 2522 | -29 | 
+| 2022-01-19 | 第78期本因坊戦予選 | Watanabe Yuu | Abe Yoshiki | Lose | W+R | 6.5 | 2551 | 2 | 
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Watanabe Yuu | Lin Xinwei | Win | B+R | 6.5 | 2549 | 550 | 
+| 2021-12-02 | 第70期王座戦予選 | Watanabe Yuu | Hong Seokui | Lose | W+5.5 | 6.5 | 1999 | 0 | 
+| 2021-10-14 | 第48期天元戦予選 | Yuki Satoshi | Watanabe Yuu | Lose | B+R | 6.5 | 1999 | -533 | 
+| 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Lose | W+R | 6.5 | 2532 | 59 | 
+| 2021-08-18 | 第47期碁聖戦予選 | Watanabe Yuu | Hoshikawa Takumi | Win | B+R | 6.5 | 2473 | 29 | 
+| 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Lose | B+R | 6.5 | 2444 | -78 | 
+| 2021-06-10 | 第60期十段戦予選 | Watanabe Yuu | Takashima Yugo | Win | B+3.5 | 6.5 | 2522 | 102 | 
+| 2021-05-12 | 第60期十段戦予選 | Sakakibara Masateru | Watanabe Yuu | Win | W+6.5 | 6.5 | 2420 | 251 | 
+| 2021-01-25 | 第46期新人王戦 | Sotoyanagi Sebun | Watanabe Yuu | Lose | B+R | 6.5 | 2169 | missing |
 
 
 

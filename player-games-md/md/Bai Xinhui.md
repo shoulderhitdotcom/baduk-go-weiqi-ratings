@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-13 | 第5回呉清源杯台湾予選 | Bai Xinhui | Lu Yuhua | Lose | W+1¼ | 7.5 | 2520 | -4 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Bai Xinhui |  | Win | B+R | 6.5 | 2524 | 0 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Lixiang | Bai Xinhui | Lose | B+R | 6.5 | 2524 | -50 | 
 | 2022-04-06 | 第5回呉清源杯台湾予選 | Bai Xinhui | Su Shengfang | Win | B+R | 7.5 | 2574 | -74 | 

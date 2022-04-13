@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-13 | 第5回呉清源杯台湾予選 | Bai Xinhui | Lu Yuhua | Win | W+1¼ | 7.5 | 2794 | 8 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lu Yuhua | Ding Shaojie | Win | B+R | 6.5 | 2786 | 0 | 
 | 2022-04-12 | 第27回LG杯台湾予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2786 | 24 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦  | Lin Shixun | Lu Yuhua | Lose | B+R | 6.5 | 2762 | -12 | 

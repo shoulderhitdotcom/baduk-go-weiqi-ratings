@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2762 | -317 | 
-| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Lose | W+R | 6.5 | 3079 | 77 | 
-| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 3002 | missing |
+| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2761 | -317 | 
+| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Lose | W+R | 6.5 | 3078 | 77 | 
+| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 3001 | missing |
 
 
 

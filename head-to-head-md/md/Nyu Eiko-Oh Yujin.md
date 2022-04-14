@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Nyu Eiko vs Oh Yujin** | **Nyu Eiko streak** | **Oh Yujin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nyu Eiko Vs Oh Yujin** | **Nyu Eiko Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-09 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第9戦 | Oh Yujin | Nyu Eiko | B+R | 7.5 | 1:5 | 0 | 5 | 
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Oh Yujin | Nyu Eiko | B+R | 7.5 | 1:2 | 0 | 2 | 

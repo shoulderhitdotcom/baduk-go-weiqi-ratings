@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Yu Zhiying** | **Chen Yiming streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yiming Vs Yu Zhiying** | **Chen Yiming Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-13 | 第6回中国女子囲碁甲級リーグ第8節広東-江蘇 | Chen Yiming | Yu Zhiying | W+R | 7.5 | 2:6 | 0 | 3 | 
 | 2016-10-20 | 第4回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Yu Zhiying | W+R | 7.5 | 2:5 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Nakamura Sumire vs Nyu Eiko** | **Nakamura Sumire streak** | **Nyu Eiko streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nakamura Sumire Vs Nyu Eiko** | **Nakamura Sumire Streak** | **Nyu Eiko Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | W+R | 6.5 | 2:0 | 2 | 0 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | B+6.5 | 6.5 | 3:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Yujin vs Wang Chenxing** | **Oh Yujin streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Yujin Vs Wang Chenxing** | **Oh Yujin Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | W+R | 7.5 | 4:2 | 0 | 1 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Wang Chenxing | W+R | 7.5 | 5:5 | 0 | 3 | 

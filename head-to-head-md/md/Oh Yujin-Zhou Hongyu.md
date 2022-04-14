@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Yujin vs Zhou Hongyu** | **Oh Yujin streak** | **Zhou Hongyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Yujin Vs Zhou Hongyu** | **Oh Yujin Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Zhou Hongyu | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Oh Yujin | Zhou Hongyu | B+5.5 | 6.5 | 1:2 | 1 | 0 | 

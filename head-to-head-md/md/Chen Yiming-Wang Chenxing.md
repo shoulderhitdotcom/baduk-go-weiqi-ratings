@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Wang Chenxing** | **Chen Yiming streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yiming Vs Wang Chenxing** | **Chen Yiming Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Chen Yiming | B+R | 7.5 | 2:7 | 0 | 3 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第1戦 | Chen Yiming | Wang Chenxing | W+R | 7.5 | 1:2 | 0 | 1 | 

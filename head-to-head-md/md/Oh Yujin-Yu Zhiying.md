@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Yujin vs Yu Zhiying** | **Oh Yujin streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Yujin Vs Yu Zhiying** | **Oh Yujin Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Oh Yujin | Yu Zhiying | W+¼ | 7.5 | 6:9 | 0 | 1 | 
 | 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Oh Yujin | B+R | 7.5 | 0:3 | 0 | 3 | 

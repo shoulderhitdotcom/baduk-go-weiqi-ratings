@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Yu Zhiying** | **Fujisawa Rina streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Yu Zhiying** | **Fujisawa Rina Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | W+R | 7.5 | 2:4 | 0 | 2 | 
 | 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | W+2.5 | 6.5 | 2:3 | 0 | 1 | 

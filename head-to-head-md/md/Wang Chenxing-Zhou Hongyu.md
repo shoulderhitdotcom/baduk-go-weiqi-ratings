@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Chenxing vs Zhou Hongyu** | **Wang Chenxing streak** | **Zhou Hongyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Chenxing Vs Zhou Hongyu** | **Wang Chenxing Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-02 | 第18回建橋杯女子囲碁オープン戦準決勝 | Zhou Hongyu | Wang Chenxing | B+R | 7.5 | 0:2 | 0 | 2 | 
 | 2020-09-18 | 第25回三星火災杯中国女子枠予選 | Wang Chenxing | Zhou Hongyu | W+R | 6.5 | 0:3 | 0 | 3 | 

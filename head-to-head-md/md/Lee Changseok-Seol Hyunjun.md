@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Seol Hyunjun** | **Lee Changseok streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Seol Hyunjun** | **Lee Changseok Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Lee Changseok | W+R | 6.5 | 3:3 | 2 | 0 | 
 | 2021-02-16 | 第4回クラウン・ヘテ杯決勝三番勝負第2局 | Seol Hyunjun | Lee Changseok | W+R | 6.5 | 5:3 | 4 | 0 | 

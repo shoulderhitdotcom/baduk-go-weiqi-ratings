@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Xu Haohong** | **Fujisawa Rina streak** | **Xu Haohong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Xu Haohong** | **Fujisawa Rina Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Xu Haohong | Fujisawa Rina | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Xu Haohong | Fujisawa Rina | B+R | 6.5 | 0:2 | 0 | 2 | 

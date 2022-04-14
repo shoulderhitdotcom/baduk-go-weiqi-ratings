@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Zhou Hongyu** | **Chen Yiming streak** | **Zhou Hongyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yiming Vs Zhou Hongyu** | **Chen Yiming Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-14 | 第2期中国女子囲碁名人戦挑戦手合三番勝負第3局 | Zhou Hongyu | Chen Yiming | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2020-11-13 | 第2期中国女子囲碁名人戦挑戦手合三番勝負第2局 | Chen Yiming | Zhou Hongyu | B+¾ | 7.5 | 2:1 | 1 | 0 | 

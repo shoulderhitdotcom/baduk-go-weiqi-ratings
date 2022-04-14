@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Oh Yujin** | **Fujisawa Rina streak** | **Oh Yujin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Oh Yujin** | **Fujisawa Rina Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Fujisawa Rina | Oh Yujin | W+R | 7.5 | 1:4 | 0 | 3 | 
 | 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Oh Yujin | Fujisawa Rina | W+R | 7.5 | 1:1 | 1 | 0 | 

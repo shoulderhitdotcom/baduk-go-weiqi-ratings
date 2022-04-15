@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Yang Dingxin** | **Ding Hao streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Yang Dingxin** | **Ding Hao Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | W+¼ | 7.5 | 2:0 | 2 | 0 | 
 | 2021-10-16 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Ding Hao | Yang Dingxin | B+R | 7.5 | 1:0 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Kim Jiseok** | **Fan Tingyu streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Kim Jiseok** | **Fan Tingyu Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Fan Tingyu | W+¼ | 7.5 | 4:0 | 4 | 0 | 
 | 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Fan Tingyu | W+R | 6.5 | 5:0 | 5 | 0 | 

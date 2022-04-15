@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Yang Dingxin** | **Kang Dongyun streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Yang Dingxin** | **Kang Dongyun Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | W+R | 7.5 | 4:3 | 0 | 3 | 
 | 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Kang Dongyun | Yang Dingxin | W+R | 6.5 | 4:2 | 0 | 2 | 

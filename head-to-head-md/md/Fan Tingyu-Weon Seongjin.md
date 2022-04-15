@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Weon Seongjin** | **Fan Tingyu streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Weon Seongjin** | **Fan Tingyu Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Weon Seongjin | Fan Tingyu | B+R | 7.5 | 0:2 | 0 | 2 | 
 | 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Weon Seongjin | Fan Tingyu | B+R | 6.5 | 0:3 | 0 | 3 | 

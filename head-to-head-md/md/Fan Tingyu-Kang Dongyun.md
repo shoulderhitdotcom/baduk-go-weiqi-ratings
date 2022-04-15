@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Kang Dongyun** | **Fan Tingyu streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Kang Dongyun** | **Fan Tingyu Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-11-25 | 第18回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kang Dongyun | Fan Tingyu | W+R | 6.5 | 1:1 | 1 | 0 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Tingyu | Kang Dongyun | W+R | 7.5 | 2:2 | 0 | 1 | 

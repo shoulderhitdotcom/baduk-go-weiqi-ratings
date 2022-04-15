@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Shin Minjun** | **Ding Hao streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Shin Minjun** | **Ding Hao Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | W+R | 7.5 | 0:1 | 0 | 1 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Ding Hao | Shin Minjun | W+R | 7.5 | 1:2 | 0 | 1 | 

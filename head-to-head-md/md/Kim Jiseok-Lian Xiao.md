@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Lian Xiao** | **Kim Jiseok streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Lian Xiao** | **Kim Jiseok Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | B+R | 7.5 | 2:7 | 1 | 0 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | B+R | 7.5 | 1:5 | 1 | 0 | 

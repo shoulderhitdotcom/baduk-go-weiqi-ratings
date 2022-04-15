@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Weon Seongjin** | **Tuo Jiaxi streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Weon Seongjin** | **Tuo Jiaxi Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | W+R | 7.5 | 1:3 | 0 | 2 | 
 | 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Tuo Jiaxi | Weon Seongjin | B+R | 6.5 | 1:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Shin Minjun** | **Kim Jiseok streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Shin Minjun** | **Kim Jiseok Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | B+R | 6.5 | 2:1 | 1 | 0 | 
 | 2021-04-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Shin Minjun | W+R | 6.5 | 2:4 | 0 | 3 | 

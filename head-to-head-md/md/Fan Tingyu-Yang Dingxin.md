@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Yang Dingxin** | **Fan Tingyu streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Yang Dingxin** | **Fan Tingyu Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Fan Tingyu | W+R | 7.5 | 2:0 | 2 | 0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | B+R | 7.5 | 2:5 | 0 | 5 | 

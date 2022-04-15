@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lee Jihyun** | **Kang Dongyun streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Jihyun** | **Kang Dongyun Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-23 | 2018年韓国囲碁リーグ第9節 | Lee Jihyun | Kang Dongyun | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Lee Jihyun | Kang Dongyun | W+R | 6.5 | 2:1 | 2 | 0 | 

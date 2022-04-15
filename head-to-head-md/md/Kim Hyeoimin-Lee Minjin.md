@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Hyeoimin vs Lee Minjin** | **Kim Hyeoimin streak** | **Lee Minjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Hyeoimin Vs Lee Minjin** | **Kim Hyeoimin Streak** | **Lee Minjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-07-11 | 第6回韓国女子囲碁リーグ第8節第3試合第2局 | Kim Hyeoimin | Lee Minjin | B+6.5 | 6.5 | 4:1 | 1 | 0 | 
 | 2017-03-03 | 3期韓国女子連戦3回戦扶安-麗水 | Kim Hyeoimin | Lee Minjin | B+3.5 | 6.5 | 1:0 | 1 | 0 | 

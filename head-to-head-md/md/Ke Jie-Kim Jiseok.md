@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Kim Jiseok** | **Ke Jie streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Kim Jiseok** | **Ke Jie Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | W+0.5 | 6.5 | 5:8 | 0 | 1 | 
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Ke Jie | Kim Jiseok | B+R | 7.5 | 7:8 | 2 | 0 | 

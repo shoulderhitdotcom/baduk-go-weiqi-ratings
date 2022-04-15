@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Park Geunho** | **Kim Jiseok streak** | **Park Geunho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Park Geunho** | **Kim Jiseok Streak** | **Park Geunho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Park Geunho | B+0.5 | 6.5 | 2:2 | 1 | 0 | 
 | 2021-01-10 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Park Geunho | W+1.5 | 6.5 | 1:2 | 0 | 2 | 

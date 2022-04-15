@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Yang Dingxin** | **Kim Jiseok streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Yang Dingxin** | **Kim Jiseok Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Kim Jiseok | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | B+R | 6.5 | 0:7 | 0 | 7 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Hyeoimin vs Weon Seongjin** | **Kim Hyeoimin streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Hyeoimin Vs Weon Seongjin** | **Kim Hyeoimin Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeoimin | Weon Seongjin | W+0.5 | 6.5 | 1:1 | 0 | 1 | 
 | 2007-05-15 | 第12期バッカス杯天元戦1回戦 | Weon Seongjin | Kim Hyeoimin | B+R | 6.5 | 1:2 | 0 | 2 | 

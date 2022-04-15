@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Shiyuan vs Lin Lixiang** | **Chen Shiyuan streak** | **Lin Lixiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lin Lixiang** | **Chen Shiyuan Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Lixiang | Chen Shiyuan | B+R | 6.5 | 1:5 | 0 | 3 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Lin Lixiang | W+R | 6.5 | 5:9 | 0 | 1 | 

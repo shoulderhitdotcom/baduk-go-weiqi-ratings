@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Shin Minjun** | **Fan Tingyu streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Shin Minjun** | **Fan Tingyu Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Tingyu | B+¾ | 7.5 | 2:2 | 0 | 1 | 
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Minjun | Fan Tingyu | W+R | 7.5 | 3:2 | 1 | 0 | 

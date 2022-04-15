@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Park Jinsol** | **Kang Dongyun streak** | **Park Jinsol streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Park Jinsol** | **Kang Dongyun Streak** | **Park Jinsol Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Jinsol | W+R | 6.5 | 1:1 | 0 | 1 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Kang Dongyun | Park Jinsol | B+R | 6.5 | 2:2 | 1 | 0 | 

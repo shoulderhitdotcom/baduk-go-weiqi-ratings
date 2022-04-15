@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Miri vs Lee Minjin** | **Kim Miri streak** | **Lee Minjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Miri Vs Lee Minjin** | **Kim Miri Streak** | **Lee Minjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-08 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Minjin | W+R | 6.5 | 4:6 | 0 | 2 | 
 | 2020-07-24 | 第6回韓国女子囲碁リーグ第10節第2試合第1局 | Lee Minjin | Kim Miri | B+R | 6.5 | 4:5 | 0 | 1 | 

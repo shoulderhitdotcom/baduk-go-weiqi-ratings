@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lian Xiao** | **Kang Dongyun streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lian Xiao** | **Kang Dongyun Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Lian Xiao | Kang Dongyun | B+R | 6.5 | 1:2 | 0 | 1 | 
 | 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Lian Xiao | Kang Dongyun | B+R | 7.5 | 0:1 | 0 | 1 | 

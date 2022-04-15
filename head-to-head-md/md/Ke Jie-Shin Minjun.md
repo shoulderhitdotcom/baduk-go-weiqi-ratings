@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Shin Minjun** | **Ke Jie streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Shin Minjun** | **Ke Jie Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-04 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Ke Jie | Shin Minjun | W+3.5 | 6.5 | 5:4 | 0 | 2 | 
 | 2021-02-03 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ke Jie | Shin Minjun | W+R | 6.5 | 5:3 | 0 | 1 | 

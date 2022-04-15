@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Shiyuan vs Kang Dongyun** | **Chen Shiyuan streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Kang Dongyun** | **Chen Shiyuan Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2004-12-27 | 第9期SKガス杯新鋭プロ十傑戦リーグA | Kang Dongyun | Chen Shiyuan | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Geunho vs Weon Seongjin** | **Park Geunho streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Geunho Vs Weon Seongjin** | **Park Geunho Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-17 | 第5期韓国竜星戦2回戦 | Weon Seongjin | Park Geunho | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2022-02-20 | 2021-2022韓国囲碁リーグ | Park Geunho | Weon Seongjin | W+R | 6.5 | 0:4 | 0 | 4 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Weon Seongjin** | **Ke Jie streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Weon Seongjin** | **Ke Jie Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | W+0.5 | 6.5 | 3:1 | 2 | 0 | 
 | 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Weon Seongjin | Ke Jie | W+R | 6.5 | 2:1 | 1 | 0 | 

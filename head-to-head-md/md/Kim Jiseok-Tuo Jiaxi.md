@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Tuo Jiaxi** | **Kim Jiseok streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Tuo Jiaxi** | **Kim Jiseok Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Kim Jiseok | B+R | 7.5 | 4:2 | 0 | 1 | 
 | 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Kim Jiseok | B+R | 7.5 | 3:1 | 0 | 1 | 

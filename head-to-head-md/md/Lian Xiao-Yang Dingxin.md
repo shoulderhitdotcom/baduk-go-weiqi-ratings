@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Yang Dingxin** | **Lian Xiao streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Yang Dingxin** | **Lian Xiao Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-12 | 第12期中国竜星戦Aブロック9回戦 | Yang Dingxin | Lian Xiao | B+R | 7.5 | 1:2 | 0 | 2 | 
 | 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | W+R | 7.5 | 6:6 | 0 | 2 | 

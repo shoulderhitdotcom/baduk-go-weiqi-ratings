@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Shin Minjun** | **Lian Xiao streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Shin Minjun** | **Lian Xiao Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Lian Xiao | Shin Minjun | W+R | 7.5 | 1:2 | 0 | 2 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Shin Minjun | Lian Xiao | B+R | 7.5 | 1:1 | 0 | 1 | 

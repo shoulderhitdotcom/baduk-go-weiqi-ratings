@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Shin Minjun** | **Cho Hanseung streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Shin Minjun** | **Cho Hanseung Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Cho Hanseung | B+R | 6.5 | 3:1 | 0 | 1 | 
 | 2021-01-05 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Cho Hanseung | Shin Minjun | B+R | 6.5 | 2:0 | 2 | 0 | 

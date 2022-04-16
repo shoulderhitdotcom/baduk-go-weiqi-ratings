@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Tuo Jiaxi** | **Shin Jinseo streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Tuo Jiaxi** | **Shin Jinseo Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Shin Jinseo | Tuo Jiaxi | B+R | 7.5 | 2:0 | 2 | 0 | 
 | 2018-01-18 | 金立杯2018中韓リーグ優勝チーム対抗戦第1戦 | Shin Jinseo | Tuo Jiaxi | B+R | 7.5 | 3:0 | 3 | 0 | 

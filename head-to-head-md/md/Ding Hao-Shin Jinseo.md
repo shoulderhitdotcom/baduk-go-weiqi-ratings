@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Shin Jinseo** | **Ding Hao streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Shin Jinseo** | **Ding Hao Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Ding Hao | Shin Jinseo | W+R | 7.5 | 1:3 | 0 | 1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ding Hao | Shin Jinseo | B+R | 7.5 | 1:2 | 1 | 0 | 

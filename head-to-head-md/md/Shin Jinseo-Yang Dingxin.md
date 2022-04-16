@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Yang Dingxin** | **Shin Jinseo streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Yang Dingxin** | **Shin Jinseo Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-09 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Shin Jinseo | Yang Dingxin | B+R | 6.5 | 6:5 | 4 | 0 | 
 | 2022-02-07 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Shin Jinseo | W+R | 6.5 | 5:5 | 3 | 0 | 

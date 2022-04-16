@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Xie Ke** | **Fan Tingyu streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Xie Ke** | **Fan Tingyu Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-15 | 第7回国手山脈国際囲碁大会中国予選 | Xie Ke | Fan Tingyu | W+R | 6.5 | 4:3 | 1 | 0 | 
 | 2021-01-02 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第2局 | Xie Ke | Fan Tingyu | B+R | 7.5 | 3:3 | 0 | 3 | 

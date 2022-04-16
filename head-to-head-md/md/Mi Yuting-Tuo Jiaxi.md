@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tuo Jiaxi** | **Mi Yuting streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tuo Jiaxi** | **Mi Yuting Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Tuo Jiaxi | Mi Yuting | W+R | 7.5 | 9:8 | 1 | 0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tuo Jiaxi | Mi Yuting | W+R | 7.5 | 7:6 | 1 | 0 | 

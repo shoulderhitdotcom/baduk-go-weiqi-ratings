@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Li Xuanhao** | **Fan Tingyu streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Li Xuanhao** | **Fan Tingyu Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2022-02-23 | 第14回春蘭杯中国予選 | Li Xuanhao | Fan Tingyu | B+R | 7.5 | 0:3 | 0 | 3 | 

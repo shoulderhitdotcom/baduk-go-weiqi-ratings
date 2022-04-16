@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Mi Yuting** | **Lian Xiao streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Mi Yuting** | **Lian Xiao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | W+R | 7.5 | 4:3 | 0 | 1 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Mi Yuting | Lian Xiao | B+R | 7.5 | 10:7 | 0 | 1 | 

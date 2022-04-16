@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Shin Jinseo** | **Fan Tingyu streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Shin Jinseo** | **Fan Tingyu Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | W+R | 6.5 | 1:4 | 0 | 3 | 
 | 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Fan Tingyu | Shin Jinseo | W+R | 7.5 | 0:1 | 0 | 1 | 

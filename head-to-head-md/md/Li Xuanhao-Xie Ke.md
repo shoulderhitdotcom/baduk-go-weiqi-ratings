@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Xie Ke** | **Li Xuanhao streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Xie Ke** | **Li Xuanhao Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Xie Ke | B+R | 7.5 | 2:1 | 1 | 0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Xie Ke | W+R | 7.5 | 3:2 | 0 | 1 | 

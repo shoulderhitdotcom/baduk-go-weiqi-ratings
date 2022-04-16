@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Mi Yuting** | **Li Xuanhao streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Mi Yuting** | **Li Xuanhao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-25 | 第20回西南棋王戦2回戦 | Li Xuanhao | Mi Yuting | W+R | 7.5 | 2:3 | 0 | 3 | 
 | 2020-06-15 | 第19回西南棋王戦準決勝 | Li Xuanhao | Mi Yuting | W+R | 7.5 | 2:2 | 0 | 2 | 

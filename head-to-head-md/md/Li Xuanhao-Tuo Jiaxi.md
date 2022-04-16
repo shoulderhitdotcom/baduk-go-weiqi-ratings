@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Tuo Jiaxi** | **Li Xuanhao streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Tuo Jiaxi** | **Li Xuanhao Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Xuanhao | W+R | 7.5 | 2:4 | 1 | 0 | 
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Tuo Jiaxi | Li Xuanhao | B+R | 7.5 | 1:4 | 0 | 3 | 

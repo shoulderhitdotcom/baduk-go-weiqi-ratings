@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Minjun vs Xie Ke** | **Shin Minjun streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Xie Ke** | **Shin Minjun Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Xie Ke | Shin Minjun | B+R | 7.5 | 1:1 | 0 | 1 | 
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグB | Xie Ke | Shin Minjun | W+R | 6.5 | 2:1 | 1 | 0 | 

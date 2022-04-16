@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Shin Jinseo** | **Lian Xiao streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Shin Jinseo** | **Lian Xiao Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Shin Jinseo | Lian Xiao | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Lian Xiao | Shin Jinseo | W+T | 6.5 | 1:2 | 0 | 1 | 

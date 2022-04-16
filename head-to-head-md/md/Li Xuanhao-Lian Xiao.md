@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Lian Xiao** | **Li Xuanhao streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Lian Xiao** | **Li Xuanhao Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | W+R | 7.5 | 1:2 | 1 | 0 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Xuanhao | Lian Xiao | B+R | 7.5 | 2:4 | 1 | 0 | 

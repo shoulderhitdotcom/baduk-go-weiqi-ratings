@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Minkyu vs Shin Jinseo** | **Park Minkyu streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Minkyu Vs Shin Jinseo** | **Park Minkyu Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2021-12-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 | 

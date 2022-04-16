@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Shin Minjun** | **Mi Yuting streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Shin Minjun** | **Mi Yuting Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Minjun | B+R | 7.5 | 3:2 | 1 | 0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Mi Yuting | B+R | 7.5 | 2:2 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Ke vs Yang Dingxin** | **Xie Ke streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Ke Vs Yang Dingxin** | **Xie Ke Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Yang Dingxin | Xie Ke | W+R | 6.5 | 2:1 | 2 | 0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Yang Dingxin | Xie Ke | W+R | 7.5 | 3:1 | 3 | 0 | 

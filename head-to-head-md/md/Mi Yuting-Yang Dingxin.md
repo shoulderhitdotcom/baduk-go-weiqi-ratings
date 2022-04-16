@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Yang Dingxin** | **Mi Yuting streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Yang Dingxin** | **Mi Yuting Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-09 | 第26回LG杯朝鮮日報棋王戦準決勝 | Mi Yuting | Yang Dingxin | W+R | 6.5 | 5:12 | 0 | 8 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | B+R | 7.5 | 5:11 | 0 | 7 | 

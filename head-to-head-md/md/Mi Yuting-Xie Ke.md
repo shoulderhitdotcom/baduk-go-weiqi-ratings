@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Xie Ke** | **Mi Yuting streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Xie Ke** | **Mi Yuting Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Xie Ke | W+R | 7.5 | 1:1 | 0 | 1 | 
 | 2021-05-05 | 第4回Mlily夢百合杯世界囲碁オープン戦決勝五番勝負第5局 | Xie Ke | Mi Yuting | W+R | 7.5 | 4:3 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Mi Yuting** | **Fan Tingyu streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Mi Yuting** | **Fan Tingyu Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | B+R | 7.5 | 5:2 | 2 | 0 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Fan Tingyu | Mi Yuting | B+R | 7.5 | 4:2 | 1 | 0 | 

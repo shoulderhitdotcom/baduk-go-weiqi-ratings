@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Xie Ke** | **Tuo Jiaxi streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Xie Ke** | **Tuo Jiaxi Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | W+R | 7.5 | 2:2 | 2 | 0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tuo Jiaxi | Xie Ke | B+3¾ | 7.5 | 1:2 | 1 | 0 | 

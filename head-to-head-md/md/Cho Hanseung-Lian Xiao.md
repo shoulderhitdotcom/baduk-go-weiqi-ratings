@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Lian Xiao** | **Cho Hanseung streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Lian Xiao** | **Cho Hanseung Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Lian Xiao | Cho Hanseung | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2012-08-02 | 第17回三星火災杯統合予選1回戦 | Lian Xiao | Cho Hanseung | B+R | 6.5 | 0:3 | 0 | 3 | 

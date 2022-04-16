@@ -13,9 +13,9 @@
 | 2022-03-12 | 2021-2022フューチャーズリーグ | Shin Jaeweon | Lee Wondo | Lose | B+2.5 | 6.5 | 3193 | -6 | 
 | 2022-03-05 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Wondo | Win | W+R | 6.5 | 3199 | 28 | 
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Wondo | Ahn Kukhyun | Lose | W+5.5 | 6.5 | 3171 | 39 | 
-| 2022-02-27 | 2021-2022フューチャーズリーグ | Lee Wondo | Kim Sangcheon | Win | B+R | 6.5 | 3132 | 34 | 
-| 2022-02-23 | 2021-2022フューチャーズリーグ | Lee Wondo | Ryu Minhyung | Win | B+R | 6.5 | 3098 | 69 | 
-| 2022-02-20 | 2021-2022韓国囲碁リーグ | Lee Wondo | Park Seunghwa | Lose | W+R | 6.5 | 3029 | -67 | 
+| 2022-02-27 | 2021-2022フューチャーズリーグ | Lee Wondo | Kim Sangcheon | Win | B+R | 6.5 | 3132 | 35 | 
+| 2022-02-23 | 2021-2022フューチャーズリーグ | Lee Wondo | Ryu Minhyung | Win | B+R | 6.5 | 3097 | 69 | 
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Lee Wondo | Park Seunghwa | Lose | W+R | 6.5 | 3028 | -68 | 
 | 2022-02-13 | 2021-2022フューチャーズリーグ | Lee Wondo | Lee Hyeonjun | Win | B+R | 6.5 | 3096 | -3 | 
 | 2022-02-06 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Wondo | Lose | B+6.5 | 6.5 | 3099 | -64 | 
 | 2022-01-22 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Lee Wondo | Win | W+R | 6.5 | 3163 | -11 | 
@@ -23,9 +23,9 @@
 | 2022-01-05 | 2021-2022フューチャーズリーグ | Lee Sanghun | Lee Wondo | Lose | B+R | 6.5 | 3152 | 27 | 
 | 2021-12-26 | 2021-2022フューチャーズリーグ |  | Lee Wondo | Win | W+7.5 | 6.5 | 3125 | 7 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Wondo | Lose | B+R | 6.5 | 3118 | -39 | 
-| 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Win | B+R | 6.5 | 3157 | 20 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3137 | -29 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | B+R | 6.5 | 3166 | 28 | 
+| 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Win | B+R | 6.5 | 3157 | 21 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3136 | -29 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | B+R | 6.5 | 3165 | 27 | 
 | 2021-11-27 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Lee Wondo | Win | W+R | 6.5 | 3138 | 22 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | An Joyeong | Lee Wondo | Win | W+R | 6.5 | 3116 | 11 | 
 | 2021-04-09 | 第26回GSカルテックス杯プロ棋戦1回戦 | Lee Wonyoung | Lee Wondo | Lose | B+13.5 | 6.5 | 3105 | 9 | 

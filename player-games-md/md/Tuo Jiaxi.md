@@ -40,10 +40,10 @@
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Lose | W+R | 7.5 | 3548 | 1 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3547 | 18 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3529 | 14 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3515 | 17 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Lose | W+R | 7.5 | 3498 | -8 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | Lose | B+R | 7.5 | 3506 | -18 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Win | B+R | 7.5 | 3524 | 28 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3515 | 18 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Lose | W+R | 7.5 | 3497 | -8 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | Lose | B+R | 7.5 | 3505 | -18 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Win | B+R | 7.5 | 3523 | 27 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Wang Shiyi | Win | B+R | 7.5 | 3496 | 26 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Rong Yi | Tuo Jiaxi | Lose | B+R | 7.5 | 3470 | -16 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Gu Zihao | Tuo Jiaxi | Lose | B+¾ | 7.5 | 3486 | 2 | 
@@ -53,9 +53,9 @@
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Win | W+4¼ | 7.5 | 3494 | 25 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Liao Yuanhe | Tuo Jiaxi | Win | W+R | 7.5 | 3469 | 8 | 
 | 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tuo Jiaxi | Yang Dingxin | Lose | W+R | 7.5 | 3461 | -12 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Tuo Jiaxi | Lose | B+R | 7.5 | 3473 | -17 | 
-| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Xuanhao | Lose | W+R | 7.5 | 3490 | -12 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Win | W+R | 7.5 | 3502 | missing |
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Tuo Jiaxi | Lose | B+R | 7.5 | 3473 | -16 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Xuanhao | Lose | W+R | 7.5 | 3489 | -12 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Win | W+R | 7.5 | 3501 | missing |
 
 
 

@@ -11,11 +11,11 @@
 | 2022-04-14 | 第33期女流名人戦挑戦手合三番勝負第1局  | Nakamura Sumire | Fujisawa Rina | Win | W+R | 6.5 | 3161 | -16 | 
 | 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Win | B+R | 6.5 | 3177 | 12 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3165 | -27 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Win | W+2.5 | 6.5 | 3192 | 5 | 
-| 2022-02-24 | 第48期名人戦予選 |  | Fujisawa Rina | Win | W+R | 6.5 | 3187 | -38 | 
-| 2022-01-13 | 第70期王座戦予選 | Onishi Kenya | Fujisawa Rina | Lose | B+R | 6.5 | 3225 | 25 | 
-| 2021-12-13 | 第47期新人王戦予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 3200 | 4 | 
-| 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3196 | 12 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Win | W+2.5 | 6.5 | 3192 | 6 | 
+| 2022-02-24 | 第48期名人戦予選 |  | Fujisawa Rina | Win | W+R | 6.5 | 3186 | -39 | 
+| 2022-01-13 | 第70期王座戦予選 | Onishi Kenya | Fujisawa Rina | Lose | B+R | 6.5 | 3225 | 26 | 
+| 2021-12-13 | 第47期新人王戦予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 3199 | 4 | 
+| 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3195 | 11 | 
 | 2021-11-11 | 第25期女流棋聖戦2回戦 | Fujisawa Rina |  | Lose | W+R | 6.5 | 3184 | 4 | 
 | 2021-10-28 | 第60期十段戦2回戦  | Sun Zhe | Fujisawa Rina | Win | W+4.5 | 6.5 | 3180 | -10 | 
 | 2021-10-22 | 第40期女流本因坊戦挑戦手合五番勝負第3局  | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3190 | 10 | 
@@ -41,9 +41,9 @@
 | 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | Win | B+R | 6.5 | 2975 | 9 | 
 | 2021-04-29 | 第46期棋聖戦予選  | Matsumoto Takehisa | Fujisawa Rina | Win | W+1.5 | 6.5 | 2966 | 8 | 
 | 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 2958 | 13 | 
-| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+1.5 | 6.5 | 2945 | 13 | 
-| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Lose | W+2.5 | 6.5 | 2932 | 0 | 
-| 2021-03-15 | 第46期新人王戦2回戦 | Fujisawa Rina |  | Win | B+3.5 | 6.5 | 2932 | 64 | 
+| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+1.5 | 6.5 | 2945 | 14 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Lose | W+2.5 | 6.5 | 2931 | 0 | 
+| 2021-03-15 | 第46期新人王戦2回戦 | Fujisawa Rina |  | Win | B+3.5 | 6.5 | 2931 | 63 | 
 | 2021-02-01 | 第46期新人王戦1回戦 | Watanabe Kandai | Fujisawa Rina | Win | W+R | 6.5 | 2868 | missing |
 
 

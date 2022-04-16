@@ -27,10 +27,10 @@
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Win | W+R | 7.5 | 3747 | 6 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Rong Yi | Ding Hao | Win | W+R | 7.5 | 3741 | 4 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Dang Yifei | Ding Hao | Win | W+R | 7.5 | 3737 | 6 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Win | W+R | 7.5 | 3731 | 28 | 
-| 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | Win | W+R | 7.5 | 3703 | 9 | 
-| 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3694 | 1 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Win | W+R | 7.5 | 3693 | 13 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Win | W+R | 7.5 | 3731 | 29 | 
+| 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | Win | W+R | 7.5 | 3702 | 9 | 
+| 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3693 | 1 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Win | W+R | 7.5 | 3692 | 12 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Lose | W+R | 7.5 | 3680 | -11 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Win | B+¾ | 7.5 | 3691 | 3 | 
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | Win | W+¼ | 7.5 | 3688 | 9 | 
@@ -54,10 +54,10 @@
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Win | W+R | 7.5 | 3613 | 2 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Win | B+R | 7.5 | 3611 | 26 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Win | W+R | 7.5 | 3585 | 13 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3572 | 22 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3550 | 13 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3537 | -1 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Lose | B+¾ | 7.5 | 3538 | -15 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3572 | 23 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3549 | 13 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3536 | -1 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Lose | B+¾ | 7.5 | 3537 | -16 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Shi Yue | Ding Hao | Lose | B+R | 7.5 | 3553 | -15 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Ding Hao | Xie Erhao | Win | B+R | 7.5 | 3568 | 11 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ding Hao | Shin Jinseo | Win | B+R | 7.5 | 3557 | 35 | 
@@ -67,9 +67,9 @@
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Ding Hao | Ke Jie | Lose | W+R | 7.5 | 3529 | 1 | 
 | 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Tang Weixing | Ding Hao | Win | W+R | 7.5 | 3528 | -2 | 
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Han Yizhou | Ding Hao | Win | W+4¼ | 7.5 | 3530 | 6 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Ding Hao | Zhou Hongyu | Win | B+R | 7.5 | 3524 | -11 | 
-| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Ding Hao | Lian Xiao | Lose | W+R | 7.5 | 3535 | -14 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Ding Hao | Xia Chenkun | Win | B+R | 7.5 | 3549 | missing |
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Ding Hao | Zhou Hongyu | Win | B+R | 7.5 | 3524 | -10 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Ding Hao | Lian Xiao | Lose | W+R | 7.5 | 3534 | -14 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Ding Hao | Xia Chenkun | Win | B+R | 7.5 | 3548 | missing |
 
 
 

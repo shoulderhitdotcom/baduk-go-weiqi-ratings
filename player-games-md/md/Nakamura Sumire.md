@@ -18,16 +18,16 @@
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Nakamura Sumire | Kim Eunji | Lose | W+R | 6.5 | 2835 | -13 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Win | B+1.5 | 6.5 | 2848 | 35 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Nakamura Sumire | Lin Yuting | Win | B+R | 6.5 | 2813 | 2 | 
-| 2022-02-28 | 第78期本因坊戦予選 | Nakamura Sumire | Terayama Rei | Win | B+R | 6.5 | 2811 | 39 | 
-| 2022-02-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Xie Yimin | Win | B+2.5 | 6.5 | 2772 | 40 | 
+| 2022-02-28 | 第78期本因坊戦予選 | Nakamura Sumire | Terayama Rei | Win | B+R | 6.5 | 2811 | 40 | 
+| 2022-02-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Xie Yimin | Win | B+2.5 | 6.5 | 2771 | 39 | 
 | 2022-02-17 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nakamura Sumire | Lose | B+4.5 | 6.5 | 2732 | 36 | 
 | 2022-02-10 | 第33期女流名人戦リーグ |  | Nakamura Sumire | Win | W+R | 6.5 | 2696 | 0 | 
 | 2022-02-07 | 第47期新人王戦 |  | Nakamura Sumire | Lose | B+0.5 | 6.5 | 2696 | -44 | 
 | 2022-01-31 | 第47期棋聖戦予選 | Nakamura Sumire | Kobayashi Izumi | Lose | W+6.5 | 6.5 | 2740 | -9 | 
 | 2022-01-06 | 第47期新人王戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2749 | 28 | 
 | 2021-12-27 | 第41期女流本因坊戦予選  | Nakamura Sumire |  | Win | B+R | 6.5 | 2721 | 42 | 
-| 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2679 | -15 | 
-| 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2694 | 40 | 
+| 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2679 | -14 | 
+| 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2693 | 39 | 
 | 2021-11-29 | 第78期本因坊戦予選 | Nakamura Sumire | Kim Sujun | Win | B+3.5 | 6.5 | 2654 | 13 | 
 | 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2641 | 62 | 
 | 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2579 | -16 | 
@@ -58,8 +58,8 @@
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Nakamura Sumire | Yu Lijun | Win | B+R | 6.5 | 2622 | 0 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yang Zixuan | Nakamura Sumire | Win | W+R | 6.5 | 2622 | 65 | 
 | 2021-04-14 | 第46期棋聖戦予選 | Hara Masakazu | Nakamura Sumire | Win | W+6.5 | 6.5 | 2557 | 116 | 
-| 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Win | W+7.5 | 6.5 | 2441 | -14 | 
-| 2021-03-24 | 女流ティーンエージャー棋士トーナメント戦決勝 |  | Nakamura Sumire | Win | W+6.5 | 6.5 | 2455 | 26 | 
+| 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Win | W+7.5 | 6.5 | 2441 | -13 | 
+| 2021-03-24 | 女流ティーンエージャー棋士トーナメント戦決勝 |  | Nakamura Sumire | Win | W+6.5 | 6.5 | 2454 | 25 | 
 | 2021-02-18 | 第40期女流本因坊戦予選 |  | Nakamura Sumire | Win | W+0.5 | 6.5 | 2429 | 67 | 
 | 2021-02-11 | 第8期会津中央病院・女流立葵杯予選 |  | Nakamura Sumire | Win | W+5.5 | 6.5 | 2362 | 6 | 
 | 2021-02-04 | 第46期棋聖戦予選 | Nakamura Sumire | Ha Youngil | Win | B+13.5 | 6.5 | 2356 | 168 | 

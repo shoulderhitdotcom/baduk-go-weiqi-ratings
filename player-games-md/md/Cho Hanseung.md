@@ -20,8 +20,8 @@
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Lose | B+R | 6.5 | 3286 | -11 | 
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Lose | B+R | 6.5 | 3297 | -11 | 
 | 2022-03-01 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Cho Hanseung | Lose | B+R | 6.5 | 3308 | 12 | 
-| 2022-02-26 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Kang Jihoon | Lose | W+R | 6.5 | 3296 | -20 | 
-| 2022-02-20 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Lee Changseok | Lose | W+R | 6.5 | 3316 | -26 | 
+| 2022-02-26 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Kang Jihoon | Lose | W+R | 6.5 | 3296 | -19 | 
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Lee Changseok | Lose | W+R | 6.5 | 3315 | -27 | 
 | 2022-02-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Cho Hanseung | Lose | B+R | 6.5 | 3342 | 15 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Hong Seongji | Win | B+0.5 | 6.5 | 3327 | 21 | 
 | 2022-02-07 | 2022YK建機杯予選 | Park Geunho | Cho Hanseung | Lose | B+R | 6.5 | 3306 | -14 | 
@@ -32,9 +32,9 @@
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Park Hamin | Cho Hanseung | Win | W+R | 6.5 | 3379 | -26 | 
 | 2022-01-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Kim Hyeongwoo | Win | B+4.5 | 6.5 | 3405 | 42 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Lose | B+0.5 | 6.5 | 3363 | -15 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Lose | W+1.5 | 6.5 | 3378 | 19 | 
-| 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | Win | W+R | 6.5 | 3359 | 28 | 
-| 2021-12-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | B+R | 6.5 | 3331 | 1 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Lose | W+1.5 | 6.5 | 3378 | 20 | 
+| 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | Win | W+R | 6.5 | 3358 | 28 | 
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | B+R | 6.5 | 3330 | 0 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | Lose | B+R | 6.5 | 3330 | -13 | 
 | 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Win | W+2.5 | 6.5 | 3343 | 33 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Win | W+R | 6.5 | 3310 | 4 | 

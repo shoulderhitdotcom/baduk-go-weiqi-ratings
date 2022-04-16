@@ -46,10 +46,10 @@
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3640 | -7 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3647 | 32 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Win | W+R | 7.5 | 3615 | 7 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3608 | 2 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3606 | 4 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Lose | B+¾ | 7.5 | 3602 | -13 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Lose | W+R | 7.5 | 3615 | 8 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3608 | 3 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3605 | 4 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Lose | B+¾ | 7.5 | 3601 | -13 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Lose | W+R | 7.5 | 3614 | 7 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 3607 | 2 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3605 | 23 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Win | B+R | 7.5 | 3582 | 4 | 

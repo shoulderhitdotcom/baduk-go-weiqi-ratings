@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-16 | 2022年アジア競技大会中国予選 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 3641 | 8 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Yang Dingxin | Ke Jie | Win | B+¾ | 7.5 | 3633 | -24 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Kim Jiseok | Win | B+R | 7.5 | 3657 | 16 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Fan Yin | Yang Dingxin | Lose | B+R | 7.5 | 3641 | -7 | 

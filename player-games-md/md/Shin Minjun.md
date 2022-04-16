@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3513 | -4 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Park Geunho | Shin Minjun | Lose | B+R | 7.5 | 3517 | 1 | 
 | 2022-04-12 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changseok | Win | B+R | 6.5 | 3516 | 11 | 
 | 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Lose | W+R | 6.5 | 3505 | -5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-16 | 2022年アジア競技大会中国予選 | Lian Xiao | Xie Ke | Lose | W+R | 7.5 | 3508 | -8 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Lian Xiao | Ke Jie | Lose | W+R | 7.5 | 3516 | -1 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Lian Xiao | Xie Ke | Win | B+R | 7.5 | 3517 | 0 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Jiang Weijie | Lian Xiao | Win | W+R | 7.5 | 3517 | 16 | 

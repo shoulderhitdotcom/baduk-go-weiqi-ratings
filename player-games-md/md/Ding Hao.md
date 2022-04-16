@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-16 | 2022年アジア競技大会中国予選 | Mi Yuting | Ding Hao | Lose | B+1¾ | 7.5 | 3698 | -10 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Lose | B+R | 7.5 | 3708 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Ding Hao | Fan Tingyu | Lose | W+¼ | 7.5 | 3708 | -33 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | Lose | W+R | 7.5 | 3741 | -14 | 

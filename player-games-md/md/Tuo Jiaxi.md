@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | Lose | W+¼ | 7.5 | 3505 | -9 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Win | B+R | 7.5 | 3514 | 6 | 
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Tuo Jiaxi | Mi Yuting | Lose | W+R | 7.5 | 3508 | -2 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Tang Weixing | Tuo Jiaxi | Win | W+R | 7.5 | 3510 | 18 | 

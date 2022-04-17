@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Lee Wondo** | **Kim Seongjae streak** | **Lee Wondo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Lee Wondo** | **Kim Seongjae Streak** | **Lee Wondo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Kim Seongjae | Lee Wondo | W+R | 6.5 | 1:1 | 0 | 1 | 
 | 2018-07-13 | 第20回農心杯韓国選抜戦 | Lee Wondo | Kim Seongjae | W+R | 6.5 | 3:1 | 2 | 0 | 

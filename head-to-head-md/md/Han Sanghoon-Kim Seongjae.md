@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Kim Seongjae** | **Han Sanghoon streak** | **Kim Seongjae streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Kim Seongjae** | **Han Sanghoon Streak** | **Kim Seongjae Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-10-20 | 2012年韓国囲碁リーグ | Kim Seongjae | Han Sanghoon | W+R | 6.5 | 3:0 | 3 | 0 | 
 | 2009-08-31 | 第11回農心杯韓国選抜戦 | Han Sanghoon | Kim Seongjae | W+R | 6.5 | 3:1 | 0 | 1 | 

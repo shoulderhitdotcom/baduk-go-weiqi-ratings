@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Weon Seongjin** | **Cho Hanseung streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Weon Seongjin** | **Cho Hanseung Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-15 | 2018年韓国囲碁リーグ第4節 | Weon Seongjin | Cho Hanseung | B+R | 6.5 | 5:3 | 0 | 1 | 
 | 2011-10-20 | 2011年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | B+R | 6.5 | 5:2 | 1 | 0 | 

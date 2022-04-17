@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Shin Minjun** | **Kim Seongjae streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Shin Minjun** | **Kim Seongjae Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-09-01 | 2016年韓国囲碁リーグ第12節 | Kim Seongjae | Shin Minjun | B+R | 6.5 | 2:1 | 2 | 0 | 
 | 2015-11-09 | 2015年韓国囲碁リーグ | Kim Seongjae | Shin Minjun | B+6.5 | 6.5 | 1:1 | 1 | 0 | 

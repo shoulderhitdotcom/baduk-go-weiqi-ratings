@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Shin Minjun** | **Han Sanghoon streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Shin Minjun** | **Han Sanghoon Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-07 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Han Sanghoon | Shin Minjun | W+0.5 | 6.5 | 2:3 | 0 | 1 | 
 | 2021-01-24 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Shin Minjun | B+R | 6.5 | 2:2 | 1 | 0 | 

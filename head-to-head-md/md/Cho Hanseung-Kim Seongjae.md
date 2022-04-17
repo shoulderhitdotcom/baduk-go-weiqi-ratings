@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Kim Seongjae** | **Cho Hanseung streak** | **Kim Seongjae streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Kim Seongjae** | **Cho Hanseung Streak** | **Kim Seongjae Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | W+5.5 | 6.5 | 7:0 | 7 | 0 | 
 | 2016-06-12 | 2016年韓国囲碁リーグ第3節 | Kim Seongjae | Cho Hanseung | W+1.5 | 6.5 | 3:0 | 3 | 0 | 

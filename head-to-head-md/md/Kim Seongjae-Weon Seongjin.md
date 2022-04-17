@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Weon Seongjin** | **Kim Seongjae streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Weon Seongjin** | **Kim Seongjae Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-02-01 | 第24期GSカルテックス杯24強戦 | Weon Seongjin | Kim Seongjae | W+R | 6.5 | 2:2 | 1 | 0 | 
 | 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Weon Seongjin | Kim Seongjae | B+R | 6.5 | 1:1 | 0 | 1 | 

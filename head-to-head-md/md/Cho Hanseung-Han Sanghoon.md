@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Han Sanghoon** | **Cho Hanseung streak** | **Han Sanghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Han Sanghoon** | **Cho Hanseung Streak** | **Han Sanghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | W+1.5 | 6.5 | 1:1 | 0 | 1 | 
 | 2015-10-19 | 第59期国手戦（韓国）準決勝 | Cho Hanseung | Han Sanghoon | B+R | 6.5 | 2:2 | 1 | 0 | 

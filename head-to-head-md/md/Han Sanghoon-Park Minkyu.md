@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Park Minkyu** | **Han Sanghoon streak** | **Park Minkyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Park Minkyu** | **Han Sanghoon Streak** | **Park Minkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Void | 6.5 | 0:3 | 0 | 3 | 

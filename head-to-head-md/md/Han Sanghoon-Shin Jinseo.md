@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Shin Jinseo** | **Han Sanghoon streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Shin Jinseo** | **Han Sanghoon Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-06 | 第37回KBS杯囲碁王戦32強戦 | Han Sanghoon | Shin Jinseo | W+R | 6.5 | 1:3 | 0 | 3 | 
 | 2017-06-02 | 2017年韓国囲碁リーグ | Shin Jinseo | Han Sanghoon | B+3.5 | 6.5 | 1:2 | 0 | 2 | 

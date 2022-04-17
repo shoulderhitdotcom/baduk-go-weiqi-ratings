@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Weon Seongjin** | **Shin Jinseo streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Weon Seongjin** | **Shin Jinseo Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-12 | 2022YK建機杯リーグ | Weon Seongjin | Shin Jinseo | W+R | 6.5 | 2:1 | 2 | 0 | 
 | 2022-02-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Shin Jinseo | Weon Seongjin | W+R | 6.5 | 2:2 | 0 | 1 | 

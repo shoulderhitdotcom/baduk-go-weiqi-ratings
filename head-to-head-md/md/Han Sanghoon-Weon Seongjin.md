@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Weon Seongjin** | **Han Sanghoon streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Weon Seongjin** | **Han Sanghoon Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | W+R | 6.5 | 0:3 | 0 | 3 | 
 | 2017-09-15 | 2017年韓国囲碁リーグ | Weon Seongjin | Han Sanghoon | B+R | 6.5 | 0:2 | 0 | 2 | 

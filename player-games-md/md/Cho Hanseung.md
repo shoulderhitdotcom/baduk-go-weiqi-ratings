@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Cho Hanseung | Shin Minjun | Lose | W+R | 6.5 | 3244 | -6 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Park Minkyu | Cho Hanseung | Win | W+R | 6.5 | 3250 | 15 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Seol Hyunjun | Cho Hanseung | Lose | B+R | 6.5 | 3235 | -5 | 
 | 2022-04-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Cho Hanseung | Lose | B+R | 6.5 | 3240 | -9 | 
@@ -15,7 +16,7 @@
 | 2022-03-29 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Lee Changseok | Lose | W+R | 6.5 | 3274 | -8 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Win | B+R | 7.5 | 3282 | 0 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Song Gyusang | Cho Hanseung | Lose | B+R | 7.5 | 3282 | -7 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ |  | Cho Hanseung | Win | W+0.5 | 6.5 | 3289 | -9 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ | Han Sangcho | Cho Hanseung | Win | W+0.5 | 6.5 | 3289 | -9 | 
 | 2022-03-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Heo Youngrak | Lose | W+0.5 | 6.5 | 3298 | 12 | 
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Lose | B+R | 6.5 | 3286 | -11 | 
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Lose | B+R | 6.5 | 3297 | -11 | 

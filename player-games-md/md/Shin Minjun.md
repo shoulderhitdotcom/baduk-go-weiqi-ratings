@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Cho Hanseung | Shin Minjun | Win | W+R | 6.5 | 3514 | 1 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3513 | -4 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Park Geunho | Shin Minjun | Lose | B+R | 7.5 | 3517 | 1 | 
 | 2022-04-12 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changseok | Win | B+R | 6.5 | 3516 | 11 | 
@@ -38,7 +39,7 @@
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Win | B+R | 7.5 | 3524 | 5 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Shin Minjun | Shin Jaeweon | Lose | W+R | 6.5 | 3519 | 1 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Lose | B+R | 6.5 | 3518 | 0 | 
-| 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3518 | -4 | 
+| 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Han Sangcho | Shin Minjun | Win | W+R | 6.5 | 3518 | -4 | 
 | 2021-12-31 | 2021-2022韓国囲碁リーグ | Song Gyusang | Shin Minjun | Win | W+R | 6.5 | 3522 | 1 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3521 | 6 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Lose | B+R | 6.5 | 3515 | -14 | 

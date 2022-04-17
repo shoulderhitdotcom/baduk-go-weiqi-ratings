@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Shin Jinseo | Win | W+R | 6.5 | 3832 | 0 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3832 | 0 | 
 | 2022-04-12 | 2022YK建機杯リーグ | Weon Seongjin | Shin Jinseo | Win | W+R | 6.5 | 3832 | 0 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Moon Minjong | Shin Jinseo | Win | W+R | 6.5 | 3832 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Han Sanghoon | Lee Wondo | Win | W+R | 6.5 | 3285 | 23 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Lee Wondo | Kang Jihoon | Win | B+4.5 | 6.5 | 3262 | 32 | 
 | 2022-04-06 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Lee Wondo | Win | W+R | 6.5 | 3230 | 18 | 
 | 2022-03-30 | 2021-2022フューチャーズリーグ | Lee Wondo | Gang Woohyeok | Win | B+R | 6.5 | 3212 | 19 | 
@@ -21,7 +22,7 @@
 | 2022-01-22 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Lee Wondo | Win | W+R | 6.5 | 3163 | -11 | 
 | 2022-01-15 | 2021-2022フューチャーズリーグ | Lee Wondo | Kim Miri | Win | B+R | 6.5 | 3174 | 22 | 
 | 2022-01-05 | 2021-2022フューチャーズリーグ | Lee Sanghun | Lee Wondo | Lose | B+R | 6.5 | 3152 | 27 | 
-| 2021-12-26 | 2021-2022フューチャーズリーグ |  | Lee Wondo | Win | W+7.5 | 6.5 | 3125 | 7 | 
+| 2021-12-26 | 2021-2022フューチャーズリーグ | Kwak Wonkeun | Lee Wondo | Win | W+7.5 | 6.5 | 3125 | 7 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Wondo | Lose | B+R | 6.5 | 3118 | -39 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Win | B+R | 6.5 | 3157 | 21 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3136 | -29 | 

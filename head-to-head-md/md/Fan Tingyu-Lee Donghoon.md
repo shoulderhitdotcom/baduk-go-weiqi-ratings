@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Lee Donghoon** | **Fan Tingyu streak** | **Lee Donghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Lee Donghoon** | **Fan Tingyu Streak** | **Lee Donghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Lee Donghoon | B+R | 7.5 | 3:1 | 3 | 0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Lee Donghoon | Fan Tingyu | B+R | 6.5 | 3:2 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shixun vs Yang Bowei** | **Lin Shixun streak** | **Yang Bowei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Yang Bowei** | **Lin Shixun Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | W+R | 6.5 | 3:1 | 2 | 0 | 
 | 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Yang Bowei | Lin Shixun | W+R | 6.5 | 1:0 | 1 | 0 | 

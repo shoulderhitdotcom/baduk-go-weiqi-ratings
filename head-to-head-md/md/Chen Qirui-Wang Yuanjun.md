@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Wang Yuanjun** | **Chen Qirui streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Wang Yuanjun** | **Chen Qirui Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-24 | 第2回UMC聯電杯早碁争覇戦4回戦  | Chen Qirui | Wang Yuanjun | W+R | 6.5 | 3:6 | 0 | 2 | 
 | 2021-11-21 | 第9期中環碁聖戦決勝三番勝負第3局 | Chen Qirui | Wang Yuanjun | W+R | 6.5 | 7:10 | 0 | 1 | 

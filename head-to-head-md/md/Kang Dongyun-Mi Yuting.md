@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Mi Yuting** | **Kang Dongyun streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Mi Yuting** | **Kang Dongyun Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | B+¾ | 7.5 | 2:5 | 0 | 5 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Kang Dongyun | Mi Yuting | W+R | 7.5 | 2:4 | 0 | 4 | 

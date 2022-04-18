@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Minquan vs Yu Zhiying** | **Lu Minquan streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Yu Zhiying** | **Lu Minquan Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Yu Zhiying | W+1¾ | 7.5 | 3:8 | 0 | 1 | 
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Yu Zhiying | W+R | 7.5 | 0:4 | 0 | 4 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Wang Chenxing** | **Fan Tingyu streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Wang Chenxing** | **Fan Tingyu Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Fan Tingyu | Wang Chenxing | B+R | 7.5 | 1:0 | 1 | 0 |
 

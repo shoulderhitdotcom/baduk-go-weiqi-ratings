@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Park Yeonghun** | **Park Junghwan streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Park Yeonghun** | **Park Junghwan Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-28 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Park Yeonghun | B+R | 6.5 | 15:4 | 2 | 0 | 
 | 2019-06-27 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | W+R | 7.5 | 8:2 | 2 | 0 | 

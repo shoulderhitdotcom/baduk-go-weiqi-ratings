@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Park Junghwan** | **Kang Dongyun streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Park Junghwan** | **Kang Dongyun Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | W+R | 6.5 | 6:9 | 0 | 3 | 
 | 2021-04-29 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | W+R | 6.5 | 6:7 | 0 | 1 | 

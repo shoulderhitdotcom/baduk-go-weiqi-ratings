@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Yuanjun vs Xu Jingen** | **Wang Yuanjun streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Xu Jingen** | **Wang Yuanjun Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-01 | 第17期国手戦（台湾） | Wang Yuanjun | Xu Jingen | B+R | 6.5 | 2:0 | 2 | 0 | 
 | 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Jingen | Wang Yuanjun | W+R | 6.5 | 5:0 | 5 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Yang Bowei** | **Jian Jingting streak** | **Yang Bowei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Yang Bowei** | **Jian Jingting Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-26 | 第2回UMC聯電杯早碁争覇戦4回戦  | Yang Bowei | Jian Jingting | W+R | 6.5 | 4:1 | 2 | 0 | 
 | 2021-01-28 | 第13回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Yang Bowei | B+R | 6.5 | 2:0 | 2 | 0 | 

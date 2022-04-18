@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Minquan vs Wang Chenxing** | **Lu Minquan streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Wang Chenxing** | **Lu Minquan Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Wang Chenxing | B+R | 7.5 | 4:3 | 2 | 0 | 
 | 2019-11-15 | 第4回全国智力運動会女子団体戦第3戦 | Lu Minquan | Wang Chenxing | W+R | 7.5 | 2:3 | 0 | 2 | 

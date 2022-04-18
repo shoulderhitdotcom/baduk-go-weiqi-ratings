@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Park Junghwan** | **Cho Hanseung streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Park Junghwan** | **Cho Hanseung Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-26 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Cho Hanseung | B+R | 6.5 | 2:11 | 0 | 3 | 
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Park Junghwan | Cho Hanseung | B+R | 6.5 | 1:8 | 0 | 8 | 

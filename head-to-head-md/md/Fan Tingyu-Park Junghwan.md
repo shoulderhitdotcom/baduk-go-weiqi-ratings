@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Park Junghwan** | **Fan Tingyu streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Park Junghwan** | **Fan Tingyu Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | B+R | 6.5 | 4:7 | 2 | 0 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | W+R | 7.5 | 2:7 | 0 | 6 | 

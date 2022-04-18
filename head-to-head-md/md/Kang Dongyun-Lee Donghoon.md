@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lee Donghoon** | **Kang Dongyun streak** | **Lee Donghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Donghoon** | **Kang Dongyun Streak** | **Lee Donghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | B+R | 6.5 | 3:3 | 0 | 2 | 
 | 2020-05-05 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Kang Dongyun | B+R | 6.5 | 3:4 | 0 | 3 | 

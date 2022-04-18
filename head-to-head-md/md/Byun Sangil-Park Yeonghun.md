@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Park Yeonghun** | **Byun Sangil streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Park Yeonghun** | **Byun Sangil Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-25 | 韓国囲碁リーグオールスター戦第6局 | Park Yeonghun | Byun Sangil | B+R | 6.5 | 2:6 | 0 | 2 | 
 | 2020-02-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Park Yeonghun | W+R | 6.5 | 0:3 | 0 | 3 | 

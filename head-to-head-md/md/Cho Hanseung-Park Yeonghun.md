@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Park Yeonghun** | **Cho Hanseung streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Park Yeonghun** | **Cho Hanseung Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-04-23 | 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第三局 | Park Yeonghun | Cho Hanseung | W+0.5 | 6.5 | 6:8 | 1 | 0 | 
 | 2018-04-17 | 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第二局 | Cho Hanseung | Park Yeonghun | B+R | 6.5 | 7:8 | 2 | 0 | 

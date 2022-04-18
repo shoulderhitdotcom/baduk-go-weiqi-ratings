@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Yuanjun vs Yang Bowei** | **Wang Yuanjun streak** | **Yang Bowei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Yang Bowei** | **Wang Yuanjun Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Yang Bowei | Wang Yuanjun | W+R | 6.5 | 2:4 | 1 | 0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Yang Bowei | Wang Yuanjun | W+R | 6.5 | 3:5 | 1 | 0 | 

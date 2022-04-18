@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shixun vs Wang Yuanjun** | **Lin Shixun streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Wang Yuanjun** | **Lin Shixun Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-21 | 第3期名人冠軍戦1回戦  | Lin Shixun | Wang Yuanjun | B+R | 6.5 | 1:9 | 1 | 0 | 
 | 2021-03-15 | 第2期名人冠軍戦3回戦 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 0:9 | 0 | 9 | 

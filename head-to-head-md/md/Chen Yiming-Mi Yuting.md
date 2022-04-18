@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Mi Yuting** | **Chen Yiming streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yiming Vs Mi Yuting** | **Chen Yiming Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-09-09 | 第5期中国竜星戦1回戦 | Mi Yuting | Chen Yiming | B+R | 7.5 | 0:1 | 0 | 1 |
 

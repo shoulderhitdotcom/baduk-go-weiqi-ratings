@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Jian Jingting** | **Chen Qirui streak** | **Jian Jingting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Jian Jingting** | **Chen Qirui Streak** | **Jian Jingting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | W+R | 6.5 | 10:3 | 2 | 0 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | W+R | 6.5 | 6:2 | 2 | 0 | 

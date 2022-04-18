@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Donghoon vs Mi Yuting** | **Lee Donghoon streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Donghoon Vs Mi Yuting** | **Lee Donghoon Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Mi Yuting | Lee Donghoon | B+R | 6.5 | 4:2 | 0 | 1 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Mi Yuting | B+¾ | 7.5 | 4:1 | 3 | 0 | 

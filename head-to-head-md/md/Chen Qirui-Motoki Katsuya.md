@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Motoki Katsuya** | **Chen Qirui streak** | **Motoki Katsuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Motoki Katsuya** | **Chen Qirui Streak** | **Motoki Katsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-17 | 日台交流戦第2戦 | Chen Qirui | Motoki Katsuya | B+R | 6.5 | 1:0 | 1 | 0 |
 

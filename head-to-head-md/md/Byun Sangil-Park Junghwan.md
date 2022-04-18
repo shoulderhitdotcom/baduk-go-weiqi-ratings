@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Park Junghwan** | **Byun Sangil streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Park Junghwan** | **Byun Sangil Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | W+R | 6.5 | 2:3 | 0 | 2 | 
 | 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | B+R | 6.5 | 3:8 | 1 | 0 | 

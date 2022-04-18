@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Wang Yuanjun** | **Park Junghwan streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Wang Yuanjun** | **Park Junghwan Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Park Junghwan | Wang Yuanjun | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2018-07-30 | 第5回国手山脈杯世界最強戦決勝 | Wang Yuanjun | Park Junghwan | W+5.5 | 6.5 | 3:0 | 3 | 0 | 

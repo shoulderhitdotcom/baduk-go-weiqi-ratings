@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Xiao Zhenghao** | **Jian Jingting streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Xiao Zhenghao** | **Jian Jingting Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | B+1.5 | 6.5 | 5:4 | 0 | 1 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | B+R | 6.5 | 3:1 | 0 | 1 | 

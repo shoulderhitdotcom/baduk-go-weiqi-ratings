@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Fan Tingyu** | **Byun Sangil streak** | **Fan Tingyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Fan Tingyu** | **Byun Sangil Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Byun Sangil | Fan Tingyu | B+10.5 | 6.5 | 2:3 | 1 | 0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Fan Tingyu | W+R | 7.5 | 1:3 | 0 | 3 | 

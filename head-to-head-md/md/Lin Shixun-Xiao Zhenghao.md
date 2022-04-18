@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shixun vs Xiao Zhenghao** | **Lin Shixun streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Xiao Zhenghao** | **Lin Shixun Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | W+R | 6.5 | 4:4 | 0 | 1 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Xiao Zhenghao | Lin Shixun | B+R | 6.5 | 0:1 | 0 | 1 | 

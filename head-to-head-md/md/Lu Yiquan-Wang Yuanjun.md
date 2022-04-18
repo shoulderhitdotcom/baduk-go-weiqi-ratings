@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Yiquan vs Wang Yuanjun** | **Lu Yiquan streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Yiquan Vs Wang Yuanjun** | **Lu Yiquan Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | B+R | 6.5 | 1:5 | 0 | 4 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Lu Yiquan | B+R | 6.5 | 1:4 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Mi Yuting** | **Byun Sangil streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Mi Yuting** | **Byun Sangil Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Byun Sangil | Mi Yuting | W+R | 6.5 | 2:2 | 0 | 1 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Byun Sangil | Mi Yuting | W+1.5 | 6.5 | 2:3 | 0 | 2 | 

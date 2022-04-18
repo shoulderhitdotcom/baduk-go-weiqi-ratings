@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Yang Bowei** | **Chen Qirui streak** | **Yang Bowei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Yang Bowei** | **Chen Qirui Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Chen Qirui | Yang Bowei | B+R | 7.5 | 1:1 | 1 | 0 | 
 | 2020-06-16 | 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Yang Bowei | Chen Qirui | W+R | 6.5 | 10:2 | 8 | 0 | 

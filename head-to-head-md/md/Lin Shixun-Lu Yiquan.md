@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shixun vs Lu Yiquan** | **Lin Shixun streak** | **Lu Yiquan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Lu Yiquan** | **Lin Shixun Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | B+0.5 | 6.5 | 2:4 | 0 | 3 | 
 | 2020-10-08 | 第13期棋王戦（台湾）予選 | Lin Shixun | Lu Yiquan | W+R | 6.5 | 2:3 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Lee Donghoon** | **Byun Sangil streak** | **Lee Donghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Lee Donghoon** | **Byun Sangil Streak** | **Lee Donghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | W+R | 6.5 | 6:4 | 3 | 0 | 
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Byun Sangil | W+R | 6.5 | 3:3 | 1 | 0 | 

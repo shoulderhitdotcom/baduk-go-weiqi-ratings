@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Yiquan vs Xiao Zhenghao** | **Lu Yiquan streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Yiquan Vs Xiao Zhenghao** | **Lu Yiquan Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | W+R | 6.5 | 0:1 | 0 | 1 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | W+R | 6.5 | 1:4 | 0 | 3 | 

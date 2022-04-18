@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Lee Donghoon** | **Cho Hanseung streak** | **Lee Donghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Lee Donghoon** | **Cho Hanseung Streak** | **Lee Donghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-29 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Cho Hanseung | B+R | 6.5 | 2:2 | 0 | 2 | 
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第1局 | Cho Hanseung | Lee Donghoon | W+R | 6.5 | 2:1 | 0 | 1 | 

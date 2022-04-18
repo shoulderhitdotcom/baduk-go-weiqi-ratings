@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Yiquan vs Xu Jingen** | **Lu Yiquan streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Yiquan Vs Xu Jingen** | **Lu Yiquan Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Xu Jingen | Lu Yiquan | W+R | 7.5 | 2:0 | 2 | 0 | 
 | 2020-10-15 | 第13期棋王戦（台湾）予選 | Xu Jingen | Lu Yiquan | B+R | 6.5 | 3:1 | 0 | 1 | 

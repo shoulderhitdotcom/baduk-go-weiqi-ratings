@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Kang Dongyun** | **Byun Sangil streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kang Dongyun** | **Byun Sangil Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | B+R | 6.5 | 5:4 | 4 | 0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | W+R | 6.5 | 1:2 | 1 | 0 | 

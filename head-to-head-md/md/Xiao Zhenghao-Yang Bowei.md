@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xiao Zhenghao vs Yang Bowei** | **Xiao Zhenghao streak** | **Yang Bowei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xiao Zhenghao Vs Yang Bowei** | **Xiao Zhenghao Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-15 | 第13期棋王戦（台湾）予選 | Yang Bowei | Xiao Zhenghao | W+R | 6.5 | 2:0 | 2 | 0 | 
 | 2018-05-04 | 第17期天元戦（台湾）リーグ | Yang Bowei | Xiao Zhenghao | B+R | 6.5 | 3:1 | 0 | 1 | 

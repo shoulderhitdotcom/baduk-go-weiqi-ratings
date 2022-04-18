@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Park Junghwan** | **Mi Yuting streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Park Junghwan** | **Mi Yuting Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Mi Yuting | Park Junghwan | W+R | 7.5 | 5:7 | 0 | 2 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Park Junghwan | W+1.5 | 6.5 | 5:8 | 0 | 3 | 

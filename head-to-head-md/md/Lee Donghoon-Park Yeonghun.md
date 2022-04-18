@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Donghoon vs Park Yeonghun** | **Lee Donghoon streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Donghoon Vs Park Yeonghun** | **Lee Donghoon Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-19 | 韓国囲碁リーグオールスター戦第5局 | Park Yeonghun | Lee Donghoon | B+R | 6.5 | 2:7 | 0 | 3 | 
 | 2020-03-17 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Park Yeonghun | B+R | 6.5 | 1:1 | 1 | 0 | 

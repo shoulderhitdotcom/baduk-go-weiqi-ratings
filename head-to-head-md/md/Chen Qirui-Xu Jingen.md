@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Xu Jingen** | **Chen Qirui streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Xu Jingen** | **Chen Qirui Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | W+0.5 | 6.5 | 6:0 | 6 | 0 | 
 | 2022-02-24 | 第3期名人冠軍戦2回戦 | Xu Jingen | Chen Qirui | W+R | 6.5 | 7:0 | 7 | 0 | 

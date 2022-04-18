@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Lu Yiquan** | **Jian Jingting streak** | **Lu Yiquan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Lu Yiquan** | **Jian Jingting Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Jian Jingting | W+R | 6.5 | 6:3 | 2 | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Jian Jingting | Lu Yiquan | B+R | 6.5 | 5:3 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Lu Yiquan** | **Chen Qirui streak** | **Lu Yiquan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Lu Yiquan** | **Chen Qirui Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-05 | 2021新人王戦（台湾）準決勝 | Lu Yiquan | Chen Qirui | W+R | 7.5 | 2:0 | 2 | 0 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lu Yiquan | B+R | 6.5 | 7:4 | 1 | 0 | 

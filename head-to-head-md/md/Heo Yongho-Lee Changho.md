@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Heo Yongho vs Lee Changho** | **Heo Yongho streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Heo Yongho Vs Lee Changho** | **Heo Yongho Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | B+R | 6.5 | 4:6 | 1 | 0 | 
 | 2020-12-19 | 2020-2021韓国囲碁リーグ | Heo Yongho | Lee Changho | B+R | 6.5 | 3:5 | 2 | 0 | 

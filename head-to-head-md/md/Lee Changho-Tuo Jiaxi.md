@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Tuo Jiaxi** | **Lee Changho streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Tuo Jiaxi** | **Lee Changho Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Tuo Jiaxi | Lee Changho | W+R | 7.5 | 3:1 | 1 | 0 | 
 | 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Lee Changho | B+R | 6.5 | 2:1 | 0 | 1 | 

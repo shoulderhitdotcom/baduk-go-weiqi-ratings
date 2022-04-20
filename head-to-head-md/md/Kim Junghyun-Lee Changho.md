@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Junghyun vs Lee Changho** | **Kim Junghyun streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Junghyun Vs Lee Changho** | **Kim Junghyun Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-08-17 | 2017年韓国囲碁リーグ | Lee Changho | Kim Junghyun | B+R | 6.5 | 2:2 | 0 | 2 | 
 | 2016-09-02 | 2016年韓国囲碁リーグ第12節 | Lee Changho | Kim Junghyun | W+R | 6.5 | 2:0 | 2 | 0 | 

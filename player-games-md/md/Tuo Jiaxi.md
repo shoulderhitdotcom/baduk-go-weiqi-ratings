@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-20 | 2022年アジア競技大会中国予選 | Li Xuanhao | Tuo Jiaxi | Win | W+R | 7.5 | 3532 | 22 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Xie Ke | Win | B+R | 7.5 | 3510 | 1 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | Lose | W+¼ | 7.5 | 3509 | -9 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Win | B+R | 7.5 | 3518 | 5 | 

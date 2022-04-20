@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-20 | 2022年アジア競技大会中国予選 | Xie Ke | Fan Tingyu | Lose | W+R | 7.5 | 3529 | -5 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Xie Ke | Gu Zihao | Lose | W+R | 7.5 | 3534 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Xie Ke | Lose | B+R | 7.5 | 3534 | -8 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Lian Xiao | Xie Ke | Win | W+R | 7.5 | 3542 | 8 | 

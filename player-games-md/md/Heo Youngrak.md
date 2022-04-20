@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-20 | 第27回LG杯韓国予選 | Heo Youngrak | Lee Changho | Lose | W+R | 6.5 | 3399 | -39 | 
 | 2022-04-19 | 第3期ソパルコサノル最高棋士決定戦リーグ | Heo Youngrak | Yun Chanhee | Lose | W+2.5 | 6.5 | 3438 | -37 | 
 | 2022-04-04 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Heo Youngrak | Lose | B+R | 6.5 | 3475 | -17 | 
 | 2022-03-30 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Heo Youngrak | Win | W+R | 6.5 | 3492 | 21 | 

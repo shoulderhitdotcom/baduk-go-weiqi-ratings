@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第64期関西棋院第一位決定戦予選 | Inoue Naoki | missing | B+7.5 | 2019-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9IuS%2BHE7d%2FQuHZVP73WBsQ%3D%3D) | 
 | 第45期天元戦予選A準決勝 | Inoue Naoki | missing | W+R | 2018-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GS%2Fvlx7JG4hdfibmvHB4uA%3D%3D) | 

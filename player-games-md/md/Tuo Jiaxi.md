@@ -7,22 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-20 | 2022年アジア競技大会中国予選 | Li Xuanhao | Tuo Jiaxi | Win | W+R | 7.5 | 3532 | 22 | 
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Xie Ke | Win | B+R | 7.5 | 3510 | 1 | 
-| 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | Lose | W+¼ | 7.5 | 3509 | -9 | 
-| 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Win | B+R | 7.5 | 3518 | 5 | 
+| 2022-04-20 | 2022年アジア競技大会中国予選 | Li Xuanhao | Tuo Jiaxi | Win | W+R | 7.5 | 3533 | 22 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Xie Ke | Win | B+R | 7.5 | 3511 | 1 | 
+| 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | Lose | W+¼ | 7.5 | 3510 | -9 | 
+| 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Win | B+R | 7.5 | 3519 | 6 | 
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Tuo Jiaxi | Mi Yuting | Lose | W+R | 7.5 | 3513 | -2 | 
-| 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Tang Weixing | Tuo Jiaxi | Win | W+R | 7.5 | 3515 | 19 | 
-| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Win | B+R | 7.5 | 3496 | 11 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | Win | B+R | 7.5 | 3485 | -24 | 
+| 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Tang Weixing | Tuo Jiaxi | Win | W+R | 7.5 | 3515 | 18 | 
+| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Win | B+R | 7.5 | 3497 | 11 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | Win | B+R | 7.5 | 3486 | -23 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Xu Yidi | Win | B+R | 7.5 | 3509 | -1 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ichiriki Ryo | Tuo Jiaxi | Lose | B+R | 7.5 | 3510 | -10 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Tuo Jiaxi | Win | W+R | 7.5 | 3520 | 15 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Lose | W+R | 7.5 | 3505 | -18 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Yang Dingxin | Win | B+R | 7.5 | 3523 | 16 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Lose | B+R | 7.5 | 3507 | 8 | 
-| 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tuo Jiaxi | Mi Yuting | Lose | W+R | 7.5 | 3499 | -6 | 
-| 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tuo Jiaxi | Yang Dingxin | Win | B+¾ | 7.5 | 3505 | 27 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Lose | B+R | 7.5 | 3507 | 7 | 
+| 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tuo Jiaxi | Mi Yuting | Lose | W+R | 7.5 | 3500 | -6 | 
+| 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tuo Jiaxi | Yang Dingxin | Win | B+¾ | 7.5 | 3506 | 28 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tuo Jiaxi | Huang Yunsong | Win | B+R | 7.5 | 3478 | -5 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | Lose | W+R | 7.5 | 3483 | -2 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Win | B+R | 7.5 | 3485 | 24 | 
@@ -40,9 +40,9 @@
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3549 | 1 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 6.5 | 3548 | -3 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Lose | W+R | 7.5 | 3551 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3550 | 19 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3531 | 14 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3517 | 17 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3550 | 18 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3532 | 14 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3518 | 18 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Lose | W+R | 7.5 | 3500 | -8 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | Lose | B+R | 7.5 | 3508 | -18 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Win | B+R | 7.5 | 3526 | 28 | 

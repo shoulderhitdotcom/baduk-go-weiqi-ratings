@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-19 | 第27回LG杯台湾予選 | Wang Yuanjun |  | Win | B+R | 6.5 | 3303 | -9 | 
-| 2022-04-18 | 第12期友士杯十段戦2回戦  | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3312 | -8 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3320 | 0 | 
+| 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3296 | -8 | 
+| 2022-04-19 | 第27回LG杯台湾予選 | Wang Yuanjun |  | Win | B+R | 6.5 | 3304 | -9 | 
+| 2022-04-18 | 第12期友士杯十段戦2回戦  | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3313 | -8 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3321 | 1 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | Lose | W+¼ | 7.5 | 3320 | -6 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦  | Lin Shixun | Wang Yuanjun | Lose | B+R | 6.5 | 3326 | -36 | 
 | 2022-01-20 | 第14回海峰杯プロ囲碁戦準決勝  | Wang Yuanjun | Lin Junyan | Lose | W+5.5 | 6.5 | 3362 | -13 | 
 | 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3375 | 6 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Li Wei | Win | B+R | 6.5 | 3369 | 15 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3354 | 15 | 
-| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Wang Yuanjun |  | Win | B+R | 6.5 | 3339 | 3 | 
-| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+R | 6.5 | 3336 | 26 | 
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Wang Yuanjun |  | Win | B+R | 6.5 | 3339 | 2 | 
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+R | 6.5 | 3337 | 27 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3310 | 10 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Kono Rin | Win | B+R | 6.5 | 3300 | 0 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Onishi Ryuhei | Win | B+R | 6.5 | 3300 | -2 | 
@@ -46,9 +47,9 @@
 | 2021-09-28 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第4局 | Lai Junfu | Wang Yuanjun | Win | W+2.5 | 6.5 | 3242 | 6 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Win | W+R | 6.5 | 3236 | -15 | 
 | 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Lose | W+R | 6.5 | 3251 | -4 | 
-| 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3255 | 21 | 
-| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3234 | -1 | 
-| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3235 | 4 | 
+| 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3255 | 20 | 
+| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3235 | -1 | 
+| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3236 | 5 | 
 | 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3231 | 23 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3208 | -14 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Win | B+R | 6.5 | 3222 | -25 | 
@@ -90,8 +91,8 @@
 | 2021-03-15 | 第2期名人冠軍戦3回戦 | Lin Shixun | Wang Yuanjun | Win | W+R | 6.5 | 3225 | -3 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Wang Yuanjun | Lu Yuhua | Win | B+R | 6.5 | 3228 | 5 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Yang Bowei | Wang Yuanjun | Win | W+R | 6.5 | 3223 | 53 | 
-| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Yang Bowei | Wang Yuanjun | Lose | B+R | 6.5 | 3170 | -14 | 
-| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Xu Jingen | Win | B+R | 6.5 | 3184 | 33 | 
+| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Yang Bowei | Wang Yuanjun | Lose | B+R | 6.5 | 3170 | -15 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Xu Jingen | Win | B+R | 6.5 | 3185 | 34 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Wang Yuanjun |  | Win | B+R | 6.5 | 3151 | 7 | 
 | 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Gao Yun | Wang Yuanjun | Win | W+R | 6.5 | 3144 | missing |
 

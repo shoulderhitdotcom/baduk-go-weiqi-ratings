@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-20 | 第27回LG杯韓国予選 | Heo Yongho | Choi Jeong | Lose | W+1.5 | 6.5 | 3257 | -194 | 
+| 2022-04-20 | 第27回LG杯韓国予選 | Heo Yongho | Choi Jeong | Lose | W+1.5 | 6.5 | 3258 | -193 | 
 | 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Han Sanghoon | Lose | W+R | 6.5 | 3451 | 41 | 
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Win | B+4.5 | 6.5 | 3410 | -1 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho | Cho Seungah | Win | B+R | 6.5 | 3411 | 11 | 
@@ -22,8 +22,8 @@
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Heo Yongho | Park Geunho | Win | B+R | 6.5 | 3386 | 21 | 
 | 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3365 | 33 | 
 | 2021-03-01 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Paek Hongseok | Heo Yongho | Lose | B+1.5 | 6.5 | 3332 | -22 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Heo Yongho | Lose | B+R | 6.5 | 3354 | -17 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3371 | 64 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Heo Yongho | Lose | B+R | 6.5 | 3354 | -18 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3372 | 65 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Sangjin | Win | B+R | 6.5 | 3307 | 34 | 
 | 2021-02-09 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Heo Yongho | Win | W+R | 6.5 | 3273 | 42 | 
 | 2021-02-05 | 2020-2021韓国囲碁リーグ | Paek Hongseok | Heo Yongho | Lose | B+R | 6.5 | 3231 | -4 | 

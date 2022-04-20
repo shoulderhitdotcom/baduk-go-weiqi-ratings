@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Xu Haohong** | **Lin Lixiang streak** | **Xu Haohong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Xu Haohong** | **Lin Lixiang Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-07 | 第3期名人冠軍戦3回戦  | Lin Lixiang | Xu Haohong | W+R | 6.5 | 3:14 | 0 | 1 | 
 | 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Lixiang | Xu Haohong | W+R | 7.5 | 2:8 | 0 | 4 | 

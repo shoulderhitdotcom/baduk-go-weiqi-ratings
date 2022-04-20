@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Yuanjun vs Xu Haohong** | **Wang Yuanjun streak** | **Xu Haohong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Xu Haohong** | **Wang Yuanjun Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | B+R | 6.5 | 13:26 | 1 | 0 | 
 | 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Wang Yuanjun | B+2.5 | 6.5 | 8:18 | 0 | 5 | 

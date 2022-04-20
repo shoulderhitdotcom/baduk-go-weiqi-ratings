@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Junyan vs Wang Yuanjun** | **Lin Junyan streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Wang Yuanjun** | **Lin Junyan Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 第14回海峰杯プロ囲碁戦準決勝  | Wang Yuanjun | Lin Junyan | W+5.5 | 6.5 | 14:10 | 3 | 0 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | B+R | 6.5 | 15:11 | 1 | 0 | 

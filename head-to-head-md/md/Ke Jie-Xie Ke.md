@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Xie Ke** | **Ke Jie streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Xie Ke** | **Ke Jie Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Xie Ke | Ke Jie | W+R | 7.5 | 4:0 | 4 | 0 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Ke | Ke Jie | W+R | 7.5 | 3:0 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Lin Shixun** | **Lin Lixiang streak** | **Lin Shixun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Lin Shixun** | **Lin Lixiang Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Lin Lixiang | W+R | 6.5 | 7:1 | 1 | 0 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lin Lixiang | Lin Shixun | B+R | 6.5 | 5:0 | 5 | 0 | 

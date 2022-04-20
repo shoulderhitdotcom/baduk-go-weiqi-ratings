@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Junyan vs Lin Lixiang** | **Lin Junyan streak** | **Lin Lixiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Lin Lixiang** | **Lin Junyan Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | W+R | 6.5 | 5:4 | 1 | 0 | 
 | 2021-04-11 | 第26回LG杯台湾予選 | Lin Junyan | Lin Lixiang | B+R | 6.5 | 10:5 | 4 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Wang Yuanjun** | **Lin Lixiang streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Wang Yuanjun** | **Lin Lixiang Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | W+¼ | 7.5 | 1:5 | 1 | 0 | 
 | 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | W+R | 6.5 | 1:6 | 0 | 1 | 

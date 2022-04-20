@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Ke Jie** | **Gu Zihao streak** | **Ke Jie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Ke Jie** | **Gu Zihao Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Gu Zihao | Ke Jie | W+¼ | 7.5 | 5:6 | 0 | 4 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ke Jie | W+R | 7.5 | 5:5 | 0 | 3 | 

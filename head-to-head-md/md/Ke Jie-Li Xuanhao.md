@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Li Xuanhao** | **Ke Jie streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Li Xuanhao** | **Ke Jie Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Li Xuanhao | Ke Jie | B+R | 7.5 | 3:2 | 0 | 2 | 
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Li Xuanhao | B+R | 6.5 | 4:2 | 1 | 0 | 

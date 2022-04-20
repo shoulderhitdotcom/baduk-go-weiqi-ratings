@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Wang Yuanjun** | **Ke Jie streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Wang Yuanjun** | **Ke Jie Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Ke Jie | Wang Yuanjun | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Wang Yuanjun | B+1.5 | 6.5 | 3:0 | 3 | 0 | 

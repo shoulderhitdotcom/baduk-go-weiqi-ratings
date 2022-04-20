@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Lin Shixun** | **Lai Junfu streak** | **Lin Shixun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lin Shixun** | **Lai Junfu Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-07 | 第3期名人冠軍戦3回戦 | Lai Junfu | Lin Shixun | B+1.5 | 6.5 | 6:2 | 1 | 0 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | W+R | 6.5 | 4:1 | 4 | 0 | 

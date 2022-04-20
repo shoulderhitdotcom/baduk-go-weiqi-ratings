@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Tuo Jiaxi** | **Gu Zihao streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Tuo Jiaxi** | **Gu Zihao Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | W+R | 7.5 | 2:5 | 1 | 0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Gu Zihao | Tuo Jiaxi | B+¾ | 7.5 | 3:5 | 2 | 0 | 

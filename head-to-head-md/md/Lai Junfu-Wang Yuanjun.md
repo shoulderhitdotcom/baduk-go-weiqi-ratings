@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Wang Yuanjun** | **Lai Junfu streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Wang Yuanjun** | **Lai Junfu Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 6:10 | 0 | 1 | 
 | 2021-10-04 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 0:1 | 0 | 1 | 

@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Xu Haohong** | **Lin Junyan Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-20 | 第27回LG杯台湾予選 | Lin Junyan | Xu Haohong | W+R | 6.5 | 0:1 | 0 | 1 | 
-| 2022-04-14 | 第3期名人冠軍戦決勝七番勝負第3局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:26 | 0 | 5 | 
-| 2022-04-07 | 第3期名人冠軍戦決勝七番勝負第2局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 17:25 | 0 | 4 | 
-| 2022-03-31 | 第3期名人冠軍戦決勝七番勝負第1局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:24 | 0 | 3 | 
+| 2022-04-21 | 第3期名人冠軍戦決勝七番勝負第4局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2022-04-20 | 第27回LG杯台湾予選 | Lin Junyan | Xu Haohong | W+R | 6.5 | 16:22 | 0 | 2 | 
+| 2022-04-14 | 第3期名人冠軍戦決勝七番勝負第3局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:27 | 0 | 5 | 
+| 2022-04-07 | 第3期名人冠軍戦決勝七番勝負第2局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 17:26 | 0 | 4 | 
+| 2022-03-31 | 第3期名人冠軍戦決勝七番勝負第1局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:25 | 0 | 3 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | W+R | 7.5 | 9:16 | 0 | 1 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xu Haohong | B+R | 6.5 | 16:20 | 1 | 0 | 
 | 2022-01-27 | 第14回海峰杯プロ囲碁戦決勝三番勝負第2局  | Lin Junyan | Xu Haohong | W+4.5 | 6.5 | 4:11 | 0 | 5 | 
@@ -25,14 +26,14 @@
 | 2021-08-04 | 第11期友士杯十段戦挑戦手合五番勝負第3局  | Xu Haohong | Lin Junyan | B+0.5 | 6.5 | 0:5 | 0 | 5 | 
 | 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 0:3 | 0 | 3 | 
-| 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 17:23 | 0 | 2 | 
-| 2021-03-18 | 第2期名人冠軍戦準決勝第1局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:22 | 0 | 1 | 
+| 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 17:24 | 0 | 2 | 
+| 2021-03-18 | 第2期名人冠軍戦準決勝第1局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 17:23 | 0 | 1 | 
 | 2021-03-12 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lin Junyan | B+R | 6.5 | 15:20 | 0 | 1 | 
-| 2020-12-18 | 第8期中環碁聖戦決勝三番勝負第3局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 20:33 | 0 | 1 | 
-| 2020-12-13 | 第8期中環碁聖戦決勝三番勝負第2局 | Lin Junyan | Xu Haohong | B+R | 6.5 | 20:32 | 1 | 0 | 
+| 2020-12-18 | 第8期中環碁聖戦決勝三番勝負第3局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 20:34 | 0 | 1 | 
+| 2020-12-13 | 第8期中環碁聖戦決勝三番勝負第2局 | Lin Junyan | Xu Haohong | B+R | 6.5 | 20:33 | 1 | 0 | 
 | 2020-12-03 | 第1期名人冠軍戦決勝七番勝負第6局  | Lin Junyan | Xu Haohong | B+R | 6.5 | 15:19 | 1 | 0 | 
 | 2020-11-30 | 第1期名人冠軍戦決勝七番勝負第5局  | Xu Haohong | Lin Junyan | B+2.5 | 6.5 | 14:19 | 0 | 1 | 
-| 2020-11-29 | 第8期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 19:32 | 0 | 4 | 
+| 2020-11-29 | 第8期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 19:33 | 0 | 4 | 
 | 2020-11-28 | 第1回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Lin Junyan | W+R | 6.5 | 11:17 | 1 | 0 | 
 | 2020-11-26 | 第1期名人冠軍戦決勝七番勝負第4局  | Lin Junyan | Xu Haohong | B+1.5 | 6.5 | 14:18 | 2 | 0 | 
 | 2020-11-23 | 第1期名人冠軍戦決勝七番勝負第3局  | Xu Haohong | Lin Junyan | W+R | 6.5 | 13:18 | 1 | 0 | 
@@ -50,17 +51,17 @@
 | 2018-11-29 | 第11期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | B+R | 6.5 | 2:6 | 2 | 0 | 
 | 2018-11-26 | 第11期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Lin Junyan | W+0.5 | 6.5 | 1:6 | 1 | 0 | 
 | 2018-11-22 | 第11期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 0:6 | 0 | 6 | 
-| 2018-06-28 | 第8回台湾友士杯十段戦挑戦者決定戦 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:31 | 0 | 3 | 
-| 2018-05-21 | 第8期友士杯十段戦1回戦 | Xu Haohong | Lin Junyan | W+0.5 | 6.5 | 21:33 | 1 | 0 | 
+| 2018-06-28 | 第8回台湾友士杯十段戦挑戦者決定戦 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:32 | 0 | 3 | 
+| 2018-05-21 | 第8期友士杯十段戦1回戦 | Xu Haohong | Lin Junyan | W+0.5 | 6.5 | 21:34 | 1 | 0 | 
 | 2018-04-12 | 第10回海峰杯プロ囲碁戦準決勝 | Lin Junyan | Xu Haohong | W+R | 6.5 | 0:2 | 0 | 2 | 
-| 2017-11-16 | 第5期中環碁聖戦決勝三番勝負第三局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 18:27 | 0 | 1 | 
-| 2017-11-05 | 第5期中環碁聖戦決勝三番勝負第二局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 18:28 | 0 | 2 | 
-| 2017-10-29 | 第5期中環碁聖戦決勝三番勝負第一局 | Lin Junyan | Xu Haohong | B+R | 6.5 | 18:26 | 1 | 0 | 
-| 2017-06-21 | 第7期友士杯十段戦敗者復活戦準決勝 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:30 | 0 | 2 | 
+| 2017-11-16 | 第5期中環碁聖戦決勝三番勝負第三局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 18:28 | 0 | 1 | 
+| 2017-11-05 | 第5期中環碁聖戦決勝三番勝負第二局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 18:29 | 0 | 2 | 
+| 2017-10-29 | 第5期中環碁聖戦決勝三番勝負第一局 | Lin Junyan | Xu Haohong | B+R | 6.5 | 18:27 | 1 | 0 | 
+| 2017-06-21 | 第7期友士杯十段戦敗者復活戦準決勝 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:31 | 0 | 2 | 
 | 2016-10-11 | 第12期国手戦（台湾）複戦第三局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 4:7 | 0 | 1 | 
-| 2016-06-27 | 第6期友士杯十段戦敗者復活戦準決勝 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:29 | 0 | 1 | 
-| 2016-06-06 | 第6期友士杯十段戦2回戦 | Xu Haohong | Lin Junyan | W+R | 6.5 | 19:28 | 1 | 0 | 
-| 2015-02-26 | 第2回グロービス杯台湾予選 | Lin Junyan | Xu Haohong | B+R | 6.5 | 17:21 | 1 | 0 |
+| 2016-06-27 | 第6期友士杯十段戦敗者復活戦準決勝 | Lin Junyan | Xu Haohong | W+R | 6.5 | 19:30 | 0 | 1 | 
+| 2016-06-06 | 第6期友士杯十段戦2回戦 | Xu Haohong | Lin Junyan | W+R | 6.5 | 19:29 | 1 | 0 | 
+| 2015-02-26 | 第2回グロービス杯台湾予選 | Lin Junyan | Xu Haohong | B+R | 6.5 | 17:22 | 1 | 0 |
 
 
 

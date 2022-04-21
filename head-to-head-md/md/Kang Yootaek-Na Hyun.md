@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Yootaek vs Na Hyun** | **Kang Yootaek streak** | **Na Hyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Yootaek Vs Na Hyun** | **Kang Yootaek Streak** | **Na Hyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Yootaek | B+R | 6.5 | 3:3 | 0 | 1 | 
 | 2020-11-02 | 第2回大統領杯全国囲碁大会予選（再対局） | Kang Yootaek | Na Hyun | W+R | 6.5 | 3:5 | 0 | 3 | 

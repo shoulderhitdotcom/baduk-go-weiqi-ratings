@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Lee Changseok** | **Han Sanghoon streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Lee Changseok** | **Han Sanghoon Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | B+R | 6.5 | 1:4 | 0 | 4 | 
 | 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第2局 | Han Sanghoon | Lee Changseok | W+R | 6.5 | 1:2 | 0 | 2 | 

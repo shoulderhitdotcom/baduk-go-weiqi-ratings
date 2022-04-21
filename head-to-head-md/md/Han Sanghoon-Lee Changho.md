@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Lee Changho** | **Han Sanghoon streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Lee Changho** | **Han Sanghoon Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | B+R | 6.5 | 0:2 | 0 | 2 | 
 | 2015-09-14 | 第59期国手戦（韓国）2回戦 | Han Sanghoon | Lee Changho | B+R | 6.5 | 2:3 | 1 | 0 | 

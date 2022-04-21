@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Na Hyun** | **Choi Jaeyoung streak** | **Na Hyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Na Hyun** | **Choi Jaeyoung Streak** | **Na Hyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | B+0.5 | 6.5 | 1:2 | 1 | 0 | 
 | 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Na Hyun | Choi Jaeyoung | B+0.5 | 6.5 | 0:2 | 0 | 2 | 

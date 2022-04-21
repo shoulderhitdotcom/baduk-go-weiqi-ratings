@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Han Sanghoon** | **Choi Cheolhan streak** | **Han Sanghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Han Sanghoon** | **Choi Cheolhan Streak** | **Han Sanghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | B+R | 6.5 | 3:3 | 0 | 1 | 
 | 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Han Sanghoon | Choi Cheolhan | W+R | 6.5 | 3:2 | 1 | 0 | 

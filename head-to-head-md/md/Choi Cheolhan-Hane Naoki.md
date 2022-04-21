@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Hane Naoki** | **Choi Cheolhan streak** | **Hane Naoki streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Hane Naoki** | **Choi Cheolhan Streak** | **Hane Naoki Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan | Hane Naoki | W+1.5 | 6.5 | 2:2 | 0 | 2 | 
 | 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Choi Cheolhan | Hane Naoki | W+R | 6.5 | 2:1 | 0 | 1 | 

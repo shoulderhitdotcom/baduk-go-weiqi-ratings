@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Onishi Ryuhei** | **Hane Naoki streak** | **Onishi Ryuhei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Onishi Ryuhei** | **Hane Naoki Streak** | **Onishi Ryuhei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-29 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | W+R | 6.5 | 1:1 | 1 | 0 | 
 | 2021-01-21 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | W+R | 6.5 | 2:2 | 1 | 0 | 

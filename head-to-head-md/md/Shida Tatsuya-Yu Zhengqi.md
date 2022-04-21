@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shida Tatsuya vs Yu Zhengqi** | **Shida Tatsuya streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shida Tatsuya Vs Yu Zhengqi** | **Shida Tatsuya Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-02-20 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Shida Tatsuya | B+R | 6.5 | 2:5 | 0 | 2 | 
 | 2019-09-05 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | W+3.5 | 6.5 | 2:4 | 0 | 1 | 

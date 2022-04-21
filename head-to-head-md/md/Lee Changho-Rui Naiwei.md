@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Rui Naiwei** | **Lee Changho streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Rui Naiwei** | **Lee Changho Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2007-05-30 | 2007年韓国囲碁リーグ | Lee Changho | Rui Naiwei | B+R | 6.5 | 2:0 | 2 | 0 | 
 | 2006-05-05 | 2006年韓国囲碁リーグ | Rui Naiwei | Lee Changho | W+R | 6.5 | 1:0 | 1 | 0 | 

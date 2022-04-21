@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Park Geunho** | **Lee Changseok streak** | **Park Geunho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Park Geunho** | **Lee Changseok Streak** | **Park Geunho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | B+1.5 | 6.5 | 2:1 | 2 | 0 | 
 | 2020-10-12 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Lee Changseok | W+R | 6.5 | 1:1 | 1 | 0 | 

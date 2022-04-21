@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Yootaek vs Lee Changseok** | **Kang Yootaek streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Yootaek Vs Lee Changseok** | **Kang Yootaek Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | B+R | 6.5 | 1:5 | 0 | 3 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | W+R | 6.5 | 1:4 | 0 | 2 | 

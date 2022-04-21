@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Na Hyun** | **Choi Cheolhan streak** | **Na Hyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Na Hyun** | **Choi Cheolhan Streak** | **Na Hyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-11-01 | 2013年韓国囲碁リーグ | Na Hyun | Choi Cheolhan | W+R | 6.5 | 2:0 | 2 | 0 | 
 | 2012-09-20 | 2012年韓国囲碁リーグ | Choi Cheolhan | Na Hyun | B+1.5 | 6.5 | 1:0 | 1 | 0 | 

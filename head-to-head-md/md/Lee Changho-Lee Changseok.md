@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Lee Changseok** | **Lee Changho streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Lee Changseok** | **Lee Changho Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | W+3.5 | 6.5 | 1:2 | 0 | 2 | 
 | 2021-02-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Lee Changseok | B+R | 6.5 | 2:3 | 1 | 0 | 

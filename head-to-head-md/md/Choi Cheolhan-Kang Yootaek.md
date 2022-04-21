@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Kang Yootaek** | **Choi Cheolhan streak** | **Kang Yootaek streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Kang Yootaek** | **Choi Cheolhan Streak** | **Kang Yootaek Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | W+R | 6.5 | 2:2 | 0 | 2 | 
 | 2016-10-23 | 2016年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | W+R | 6.5 | 2:1 | 0 | 1 | 

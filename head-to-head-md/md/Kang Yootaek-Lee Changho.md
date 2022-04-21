@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Yootaek vs Lee Changho** | **Kang Yootaek streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Yootaek Vs Lee Changho** | **Kang Yootaek Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | W+R | 6.5 | 5:2 | 1 | 0 | 
 | 2017-10-05 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changho | W+0.5 | 6.5 | 4:2 | 0 | 1 | 

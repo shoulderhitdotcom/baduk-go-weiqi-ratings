@@ -5,15 +5,16 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li He vs Rui Naiwei** | **Li He streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Rui Naiwei** | **Li He Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Li He | W+R | 7.5 | 6:11 | 1 | 0 | 
+| 2022-03-29 | 第5回呉清源杯中国予選 | Rui Naiwei | Li He | W+R | 7.5 | 6:9 | 2 | 0 | 
+| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Li He | W+R | 7.5 | 7:11 | 1 | 0 | 
 | 2021-08-31 | 第26回三星火災杯中国予選 | Rui Naiwei | Li He | B+R | 6.5 | 0:4 | 0 | 4 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Rui Naiwei | Li He | B+1¾ | 7.5 | 3:8 | 0 | 2 | 
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Rui Naiwei | Li He | B+4¾ | 7.5 | 2:6 | 0 | 2 | 
 | 2019-10-31 | 第10回穹窿山兵聖杯世界女子囲碁選手権8強戦 | Li He | Rui Naiwei | W+R | 7.5 | 0:1 | 0 | 1 | 
-| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Rui Naiwei | Li He | B+R | 7.5 | 5:11 | 0 | 2 | 
-| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Li He | Rui Naiwei | W+3¼ | 7.5 | 5:10 | 0 | 1 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Rui Naiwei | Li He | B+R | 7.5 | 6:11 | 0 | 2 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Li He | Rui Naiwei | W+3¼ | 7.5 | 6:10 | 0 | 1 | 
 | 2017-11-14 | 第5回中国女子囲碁甲級リーグ戦15回戦 | Rui Naiwei | Li He | B+R | 7.5 | 4:9 | 0 | 1 | 
 | 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Li He | Rui Naiwei | B+R | 7.5 | 5:9 | 1 | 0 | 
 | 2016-11-02 | 第4回中国女子囲碁甲級リーグ第16節 | Rui Naiwei | Li He | B+3.5 | 7.5 | 3:7 | 0 | 1 | 

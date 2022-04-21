@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Nyu Eiko vs Suzuki Ayumi** | **Nyu Eiko streak** | **Suzuki Ayumi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nyu Eiko Vs Suzuki Ayumi** | **Nyu Eiko Streak** | **Suzuki Ayumi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | W+1.5 | 6.5 | 2:2 | 1 | 0 | 
 | 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | W+2.5 | 6.5 | 3:2 | 2 | 0 | 

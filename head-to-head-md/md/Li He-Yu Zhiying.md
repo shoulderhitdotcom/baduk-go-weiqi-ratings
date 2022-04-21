@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li He vs Yu Zhiying** | **Li He streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Yu Zhiying** | **Li He Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Li He | Yu Zhiying | B+1¾ | 7.5 | 4:10 | 1 | 0 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 | Yu Zhiying | Li He | B+4.5 | 6.5 | 1:2 | 0 | 2 | 

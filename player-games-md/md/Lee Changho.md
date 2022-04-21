@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-21 | 第27回LG杯韓国予選 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3234 | -6 | 
 | 2022-04-20 | 第27回LG杯韓国予選 | Heo Youngrak | Lee Changho | Win | W+R | 6.5 | 3240 | -32 | 
 | 2022-04-02 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Sangjin | Lose | W+0.5 | 6.5 | 3272 | -33 | 
 | 2022-03-17 | 2021-2022韓国囲碁リーグ | Na Hyun | Lee Changho | Lose | B+R | 6.5 | 3305 | 10 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-21 | 第3期名人冠軍戦決勝七番勝負第4局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3436 | 7 | 
 | 2022-04-20 | 第27回LG杯台湾予選 | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3429 | -19 | 
 | 2022-04-19 | 第27回LG杯台湾予選 | Xu Haohong |  | Win | B+R | 6.5 | 3448 | -5 | 
 | 2022-04-14 | 第3期名人冠軍戦決勝七番勝負第3局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3453 | 24 | 

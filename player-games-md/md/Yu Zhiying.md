@@ -7,19 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3241 | 5 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 3236 | 0 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3236 | -16 | 
-| 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3252 | 0 | 
-| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 3252 | 13 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Lose | W+R | 6.5 | 3239 | -20 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yu Zhiying | Fan Yin | Lose | W+R | 7.5 | 3259 | -43 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 3254 | 0 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 7.5 | 3254 | 12 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3242 | 5 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 3237 | 0 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3237 | -16 | 
+| 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3253 | 0 | 
+| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 3253 | 13 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Lose | W+R | 6.5 | 3240 | -20 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yu Zhiying | Fan Yin | Lose | W+R | 7.5 | 3260 | -42 | 
 | 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Cho Hunhyun | Yu Zhiying | Win | W+1.5 | 6.5 | 3302 | 12 | 
 | 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 3290 | -14 | 
-| 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Yu Zhiying | Lee Changho | Win | B+R | 6.5 | 3304 | 39 | 
-| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3265 | 10 | 
-| 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Yu Zhiying | Win | W+1¼ | 7.5 | 3255 | 2 | 
-| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 3253 | 8 | 
+| 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Yu Zhiying | Lee Changho | Win | B+R | 6.5 | 3304 | 38 | 
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3266 | 10 | 
+| 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Yu Zhiying | Win | W+1¼ | 7.5 | 3256 | 2 | 
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 3254 | 9 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3245 | 10 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 |  | Yu Zhiying | Lose | B+R | 7.5 | 3235 | -11 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Xu Yidi | Yu Zhiying | Win | W+R | 7.5 | 3246 | 9 | 

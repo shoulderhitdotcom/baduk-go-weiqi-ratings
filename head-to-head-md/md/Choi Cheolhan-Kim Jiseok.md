@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Kim Jiseok** | **Choi Cheolhan streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Kim Jiseok** | **Choi Cheolhan Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | W+R | 6.5 | 4:3 | 2 | 0 | 
 | 2020-01-07 | 第3期韓国竜星戦予選決勝 | Kim Jiseok | Choi Cheolhan | B+1.5 | 6.5 | 10:13 | 0 | 1 | 

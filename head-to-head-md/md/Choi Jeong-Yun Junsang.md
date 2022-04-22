@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Yun Junsang** | **Choi Jeong streak** | **Yun Junsang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Yun Junsang** | **Choi Jeong Streak** | **Yun Junsang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-03 | 第26回LG杯韓国予選 | Choi Jeong | Yun Junsang | W+R | 6.5 | 3:1 | 0 | 1 | 
 | 2021-03-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Yun Junsang | Choi Jeong | W+R | 6.5 | 3:0 | 3 | 0 | 

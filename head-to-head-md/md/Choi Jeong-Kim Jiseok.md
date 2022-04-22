@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Kim Jiseok** | **Choi Jeong streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Jiseok** | **Choi Jeong Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Choi Jeong | B+R | 6.5 | 0:2 | 0 | 2 | 
 | 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | B+R | 6.5 | 0:3 | 0 | 3 | 

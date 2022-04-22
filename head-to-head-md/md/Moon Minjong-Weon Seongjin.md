@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Moon Minjong vs Weon Seongjin** | **Moon Minjong streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Moon Minjong Vs Weon Seongjin** | **Moon Minjong Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | B+R | 6.5 | 0:1 | 0 | 1 |
 

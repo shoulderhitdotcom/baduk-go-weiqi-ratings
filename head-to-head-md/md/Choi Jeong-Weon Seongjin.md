@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Weon Seongjin** | **Choi Jeong streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Weon Seongjin** | **Choi Jeong Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Weon Seongjin | W+0.5 | 6.5 | 1:2 | 0 | 2 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Jeong | Weon Seongjin | W+R | 6.5 | 1:4 | 0 | 4 | 

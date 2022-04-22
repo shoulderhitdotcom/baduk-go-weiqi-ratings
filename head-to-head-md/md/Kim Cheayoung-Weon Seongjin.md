@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Weon Seongjin** | **Kim Cheayoung streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Weon Seongjin** | **Kim Cheayoung Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | B+R | 6.5 | 0:1 | 0 | 1 |
 

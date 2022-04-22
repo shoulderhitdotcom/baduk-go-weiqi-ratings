@@ -1,0 +1,14 @@
+## Kim Eunji vs Zhou Hongyu Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunji Vs Zhou Hongyu** | **Kim Eunji Streak** | **Zhou Hongyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | W+6.5 | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

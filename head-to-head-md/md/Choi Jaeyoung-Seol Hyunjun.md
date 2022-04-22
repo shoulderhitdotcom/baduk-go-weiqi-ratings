@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Seol Hyunjun** | **Choi Jaeyoung streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Seol Hyunjun** | **Choi Jaeyoung Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-23 | 中韓新鋭対抗韓国選抜1回戦 | Seol Hyunjun | Choi Jaeyoung | W+R | 7.5 | 1:1 | 1 | 0 | 
 | 2015-11-10 | 第1期未来の星新鋭最強戦Bリーグ | Choi Jaeyoung | Seol Hyunjun | B+R | 6.5 | 2:1 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Seol Hyunjun** | **Kim Jiseok streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Seol Hyunjun** | **Kim Jiseok Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-22 | 第14回春蘭杯韓国予選 | Kim Jiseok | Seol Hyunjun | B+R | 7.5 | 2:1 | 1 | 0 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Kim Jiseok | Seol Hyunjun | B+R | 6.5 | 4:2 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Yootaek vs Wang Yuanjun** | **Kang Yootaek streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Yootaek Vs Wang Yuanjun** | **Kang Yootaek Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2009-11-30 | 2009年国際新鋭囲碁対抗戦第1戦 | Wang Yuanjun | Kang Yootaek | W+8.5 | 7.5 | 1:0 | 1 | 0 |
 

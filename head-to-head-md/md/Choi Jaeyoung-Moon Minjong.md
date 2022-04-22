@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Moon Minjong** | **Choi Jaeyoung streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Moon Minjong** | **Choi Jaeyoung Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Moon Minjong | Choi Jaeyoung | B+R | 6.5 | 0:1 | 0 | 1 |
 

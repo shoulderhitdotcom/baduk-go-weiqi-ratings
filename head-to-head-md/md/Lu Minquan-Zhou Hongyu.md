@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Minquan vs Zhou Hongyu** | **Lu Minquan streak** | **Zhou Hongyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Zhou Hongyu** | **Lu Minquan Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | W+R | 7.5 | 4:5 | 0 | 3 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | W+R | 7.5 | 2:1 | 0 | 1 | 

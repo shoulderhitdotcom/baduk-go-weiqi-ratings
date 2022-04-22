@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Choi Jeong** | **Choi Jaeyoung streak** | **Choi Jeong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Choi Jeong** | **Choi Jaeyoung Streak** | **Choi Jeong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Choi Jaeyoung | W+R | 6.5 | 1:0 | 1 | 0 | 
 | 2018-02-01 | 第23期GSカルテックス杯プロ棋戦24強戦 | Choi Jaeyoung | Choi Jeong | B+R | 6.5 | 2:1 | 1 | 0 | 

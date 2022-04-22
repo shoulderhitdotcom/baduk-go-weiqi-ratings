@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Weon Seongjin** | **Choi Cheolhan streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Weon Seongjin** | **Choi Cheolhan Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | W+R | 7.5 | 19:12 | 1 | 0 | 
 | 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | B+R | 6.5 | 8:1 | 7 | 0 | 

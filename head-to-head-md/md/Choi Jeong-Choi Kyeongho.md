@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Choi Kyeongho** | **Choi Jeong streak** | **Choi Kyeongho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Choi Kyeongho** | **Choi Jeong Streak** | **Choi Kyeongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-28 | 第26回LG杯韓国予選 | Choi Jeong | Choi Kyeongho | B+R | 6.5 | 1:0 | 1 | 0 |
 

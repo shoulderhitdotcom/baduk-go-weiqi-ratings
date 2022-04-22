@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Weon Seongjin vs Yun Junsang** | **Weon Seongjin streak** | **Yun Junsang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Weon Seongjin Vs Yun Junsang** | **Weon Seongjin Streak** | **Yun Junsang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-19 | 2019-2020韓国囲碁リーグ第3節第3試合第1局 | Yun Junsang | Weon Seongjin | B+R | 6.5 | 4:5 | 0 | 1 | 
 | 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Yun Junsang | Weon Seongjin | W+R | 6.5 | 4:4 | 1 | 0 | 

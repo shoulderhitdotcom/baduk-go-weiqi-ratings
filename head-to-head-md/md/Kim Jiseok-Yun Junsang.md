@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Yun Junsang** | **Kim Jiseok streak** | **Yun Junsang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Yun Junsang** | **Kim Jiseok Streak** | **Yun Junsang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-11 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Yun Junsang | B+0.5 | 6.5 | 4:3 | 2 | 0 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Kim Jiseok | Yun Junsang | B+T | 6.5 | 6:3 | 4 | 0 | 

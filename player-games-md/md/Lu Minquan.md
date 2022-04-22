@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Lose | W+R | 7.5 | 3043 | -15 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Win | B+R | 7.5 | 3058 | 0 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Lose | B+R | 7.5 | 3058 | -3 | 
 | 2022-04-18 | 2022年アジア競技大会中国予選 | Wu Yiming | Lu Minquan | Win | W+R | 7.5 | 3061 | -65 | 

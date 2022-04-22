@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯韓国予選 | Kang Yootaek | Kim Jiseok | Lose | W+R | 6.5 | 3284 | 0 | 
 | 2022-04-21 | 第27回LG杯韓国予選 | Park Jaekeun | Kang Yootaek | Win | W+R | 6.5 | 3284 | 0 | 
 | 2022-02-15 | 第5期韓国竜星戦予選 | Kang Yootaek | Park Kyuongkeun | Lose | W+R | 6.5 | 3284 | -120 | 
 | 2022-01-03 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kang Yootaek | Park Jinsol | Lose | W+R | 6.5 | 3404 | 7 | 

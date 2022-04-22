@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 2022年アジア競技大会中国予選 | Li He | Zhou Hongyu | Lose | W+R | 7.5 | 2991 | 3 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Li He | Win | W+R | 7.5 | 2988 | -35 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Rui Naiwei | Li He | Win | W+R | 7.5 | 3023 | 0 | 
 | 2022-03-23 | 第5回呉清源杯中国予選 | Li He | Wu Yiming | Lose | W+3¼ | 7.5 | 3023 | -17 | 

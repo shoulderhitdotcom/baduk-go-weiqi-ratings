@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯韓国予選 | Choi Jeong | Choi Cheolhan | Lose | B+R | 6.5 | 3387 | -14 | 
 | 2022-04-21 | 第27回LG杯韓国予選 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3401 | -11 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Lose | B+0.5 | 6.5 | 3412 | -10 | 
 | 2022-03-26 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Win | B+R | 6.5 | 3422 | 28 | 

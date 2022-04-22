@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯韓国予選 | Moon Minjong | Kim Eunji | Lose | B+R | 6.5 | 3044 | -8 | 
 | 2022-04-21 | 第27回LG杯韓国予選 | Kim Eunji | Han Sanghoon | Win | B+R | 6.5 | 3052 | 72 | 
 | 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Win | W+R | 7.5 | 2980 | 48 | 
 | 2022-04-11 | 第5回呉清源杯韓国予選 | Park Jiyeon | Kim Eunji | Win | W+R | 7.5 | 2932 | 15 | 

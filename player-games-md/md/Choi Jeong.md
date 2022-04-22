@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯韓国予選 | Choi Jeong | Choi Cheolhan | Win | B+R | 6.5 | 3341 | 11 | 
 | 2022-04-20 | 第27回LG杯韓国予選 | Heo Yongho | Choi Jeong | Win | W+1.5 | 6.5 | 3330 | 3 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Choi Jeong | Xie Yimin | Lose | W+R | 6.5 | 3327 | -13 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Jeong | Win | W+R | 6.5 | 3340 | -4 | 

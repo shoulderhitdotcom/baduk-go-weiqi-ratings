@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯韓国予選 | Weon Seongjin | Choi Jaeyoung | Lose | B+R | 6.5 | 3349 | -9 | 
 | 2022-04-21 | 第27回LG杯韓国予選 | Choi Jaeyoung | Kang Jihoon | Win | B+R | 6.5 | 3358 | -34 | 
 | 2022-03-24 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Choi Jaeyoung | Lose | B+R | 6.5 | 3392 | 3 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Moon Minjong | Choi Jaeyoung | Lose | B+R | 6.5 | 3389 | -5 | 

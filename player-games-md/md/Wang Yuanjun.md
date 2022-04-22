@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-22 | 第27回LG杯台湾予選 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3322 | 26 | 
 | 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3296 | -8 | 
 | 2022-04-19 | 第27回LG杯台湾予選 | Wang Yuanjun |  | Win | B+R | 6.5 | 3304 | -9 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦  | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3313 | -8 | 

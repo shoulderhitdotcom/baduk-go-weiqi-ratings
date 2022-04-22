@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Yamashita Keigo** | **Lee Changho streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Yamashita Keigo** | **Lee Changho Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | W+R | 7.5 | 1:2 | 0 | 1 | 
 | 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | W+R | 7.5 | 1:1 | 1 | 0 | 

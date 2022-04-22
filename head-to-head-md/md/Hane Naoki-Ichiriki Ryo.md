@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Ichiriki Ryo** | **Hane Naoki streak** | **Ichiriki Ryo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Ichiriki Ryo** | **Hane Naoki Streak** | **Ichiriki Ryo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-26 | 第77期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | B+R | 6.5 | 5:11 | 0 | 3 | 
 | 2022-03-14 | 第47期名人戦リーグ  | Hane Naoki | Ichiriki Ryo | W+R | 6.5 | 3:7 | 0 | 6 | 

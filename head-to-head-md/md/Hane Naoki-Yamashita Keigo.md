@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Yamashita Keigo** | **Hane Naoki streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Yamashita Keigo** | **Hane Naoki Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | W+R | 6.5 | 17:25 | 0 | 1 | 
 | 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | B+6.5 | 6.5 | 23:39 | 1 | 0 | 

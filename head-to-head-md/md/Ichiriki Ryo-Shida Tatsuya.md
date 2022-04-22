@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Shida Tatsuya** | **Ichiriki Ryo streak** | **Shida Tatsuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Shida Tatsuya** | **Ichiriki Ryo Streak** | **Shida Tatsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-09 | 第75期本因坊戦リーグ | Shida Tatsuya | Ichiriki Ryo | W+R | 6.5 | 7:5 | 3 | 0 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Shida Tatsuya | B+6.5 | 6.5 | 1:1 | 1 | 0 | 

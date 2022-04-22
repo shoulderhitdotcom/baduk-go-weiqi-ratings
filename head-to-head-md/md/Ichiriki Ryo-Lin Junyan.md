@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Lin Junyan** | **Ichiriki Ryo streak** | **Lin Junyan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Lin Junyan** | **Ichiriki Ryo Streak** | **Lin Junyan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Ichiriki Ryo | Lin Junyan | B+R | 6.5 | 2:0 | 2 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ichiriki Ryo | Lin Junyan | B+R | 6.5 | 7:0 | 7 | 0 | 

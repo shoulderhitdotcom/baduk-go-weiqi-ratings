@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Onishi Ryuhei vs Yamashita Keigo** | **Onishi Ryuhei streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Onishi Ryuhei Vs Yamashita Keigo** | **Onishi Ryuhei Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-17 | 第47期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | B+R | 6.5 | 1:2 | 0 | 1 | 
 | 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | W+R | 6.5 | 1:1 | 1 | 0 | 

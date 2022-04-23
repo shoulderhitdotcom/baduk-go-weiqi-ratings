@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tuo Jiaxi | Yang Kaiwen | Lose | W+¼ | 7.5 | 3520 | -13 | 
 | 2022-04-20 | 2022年アジア競技大会中国予選 | Li Xuanhao | Tuo Jiaxi | Win | W+R | 7.5 | 3533 | 22 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Ke Jie | Tuo Jiaxi | Lose | B+R | 7.5 | 3511 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Xie Ke | Win | B+R | 7.5 | 3511 | 1 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | Lose | W+¼ | 7.5 | 3510 | -9 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Win | B+R | 7.5 | 3519 | 6 | 

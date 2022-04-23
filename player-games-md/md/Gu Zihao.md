@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Gu Zihao | Li Xuanhao | Lose | W+R | 7.5 | 3670 | 0 | 
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Xie Ke | Gu Zihao | Win | W+R | 7.5 | 3670 | -42 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Lose | B+R | 7.5 | 3645 | -26 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Gu Zihao | Li Xuanhao | Lose | W+R | 7.5 | 3671 | 0 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Xie Ke | Gu Zihao | Win | W+R | 7.5 | 3671 | -41 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Gu Zihao | Byun Sangil | Lose | W+R | 7.5 | 3712 | -28 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Gu Zihao | Ke Jie | Lose | W+¼ | 7.5 | 3740 | -18 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Gu Zihao | Fan Yin | Lose | W+R | 7.5 | 3758 | -25 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | Lose | B+R | 7.5 | 3783 | -4 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3787 | 12 | 
-| 2021-12-30 | 第1回湾区杯中国囲碁大棋士戦決勝 | Ding Hao | Gu Zihao | Lose | B+R | 7.5 | 3775 | -11 | 
-| 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3786 | 10 | 
-| 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tong Mengcheng | Gu Zihao | Win | W+R | 7.5 | 3776 | 3 | 
-| 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Zhao Chenyu | Win | B+R | 7.5 | 3773 | 8 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3787 | 11 | 
+| 2021-12-30 | 第1回湾区杯中国囲碁大棋士戦決勝 | Ding Hao | Gu Zihao | Lose | B+R | 7.5 | 3776 | -11 | 
+| 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3787 | 10 | 
+| 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tong Mengcheng | Gu Zihao | Win | W+R | 7.5 | 3777 | 3 | 
+| 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Zhao Chenyu | Win | B+R | 7.5 | 3774 | 9 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3765 | -4 | 
 | 2021-12-21 | 第12期中国竜星戦決勝三番勝負第3局 | Mi Yuting | Gu Zihao | Win | W+R | 7.5 | 3769 | 4 | 
 | 2021-12-20 | 第12期中国竜星戦決勝三番勝負第2局 | Mi Yuting | Gu Zihao | Lose | B+¾ | 7.5 | 3765 | -14 | 
@@ -39,9 +40,9 @@
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tong Mengcheng | Gu Zihao | Lose | B+R | 7.5 | 3693 | -5 | 
 | 2021-07-15 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3698 | -9 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Yang Dingxin | Gu Zihao | Win | W+R | 7.5 | 3707 | 2 | 
-| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3705 | 10 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3695 | 8 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3687 | 22 | 
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3705 | 9 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3696 | 8 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3688 | 23 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Lose | W+R | 7.5 | 3665 | -11 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Win | B+R | 7.5 | 3676 | -5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | Win | W+R | 7.5 | 3681 | 14 | 

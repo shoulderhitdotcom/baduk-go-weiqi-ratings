@@ -5,286 +5,44 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3525.0 | -22.0 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Huang Yunsong | Zhang Tao | Win | W+¼ | 7.5 | 3547.0 | -10.0 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Zejin | Win | B+R | 7.5 | 3557.0 | 14.0 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Lose | B+1¼ | 7.5 | 3543.0 | -24.0 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Xu Haohong | Lose | W+2¼ | 7.5 | 3567.0 | -18.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3585.0 | 52.0 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3533.0 | 53.0 | 
-| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3480.0 | -17.0 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3497.0 | 11.0 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3486.0 | 4.0 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Lose | W+R | 7.5 | 3482.0 | -15.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Win | W+R | 7.5 | 3497.0 | 0.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhang Tao | Kang Dongyun | Lose | W+1¼ | 7.5 | 3497.0 | -13.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Win | W+¾ | 7.5 | 3510.0 | 11.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3499.0 | 29.0 | 
-| 2021-09-16 | 第12期中国竜星戦Bブロック6回戦 | Huang Yunsong | Zhang Tao | Lose | B+2¾ | 7.5 | 3470.0 | -10.0 | 
-| 2021-09-15 | 第12期中国竜星戦Bブロック5回戦 | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3480.0 | 5.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Zhang Tao | Lose | B+¾ | 7.5 | 3475.0 | 0.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Ding Hao | Win | B+R | 7.5 | 3475.0 | 9.0 | 
-| 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Win | W+2¼ | 7.5 | 3466.0 | 11.0 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Win | B+R | 7.5 | 3455.0 | 13.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3442.0 | 78.0 | 
-| 2021-08-25 | 第12期中国竜星戦予選 |  | Zhang Tao | Win | W+¼ | 7.5 | 3364.0 | 0.0 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Lose | W+R | 7.5 | 3364.0 | 0.0 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3364.0 | 1.0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Lose | W+R | 7.5 | 3363.0 | -27.0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Zhang Tao | Win | W+R | 7.5 | 3390.0 | 11.0 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhang Tao | Shi Yue | Lose | W+R | 7.5 | 3379.0 | 8.0 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Zhang Tao | Lose | B+¾ | 7.5 | 3371.0 | -19.0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Zhang Tao | Lose | B+R | 7.5 | 3390.0 | -11.0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Chen Yaoye | Win | B+R | 7.5 | 3401.0 | 16.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Win | B+R | 7.5 | 3385.0 | 37.0 | 
-| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Zhang Tao | Zhou Hexi | Win | B+R | 7.5 | 3348.0 | 14.0 | 
-| 2021-03-15 | 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | Lose | W+1¼ | 7.5 | 3334.0 | 23.0 | 
-| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tao Xinran | Zhang Tao | Lose | B+1¾ | 7.5 | 3311.0 | -9.0 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Meng Tailing | Lose | W+R | 7.5 | 3320.0 | -26.0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Huang Jingyuan | Zhang Tao | Win | W+R | 7.5 | 3346.0 | 51.0 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Chen Zhengxun | Win | B+R | 7.5 | 3295.0 | 7.0 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Zhang Tao | Win | W+R | 7.5 | 3288.0 | 6.0 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Li Weiqing | Lose | W+2¼ | 7.5 | 3282.0 | -5.0 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Li Weiqing | Lose | W+R | 7.5 | 3287.0 | -12.0 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Zhang Tao | Lose | B+R | 7.5 | 3299.0 | -19.0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Lose | W+R | 7.5 | 3318.0 | -39.0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Win | W+R | 7.5 | 3357.0 | 35.0 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wu Guangya | Lose | W+¼ | 7.5 | 3322.0 | -1.0 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhang Tao | Fan Yin | Win | B+R | 7.5 | 3323.0 | 21.0 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Lose | B+1¾ | 7.5 | 3302.0 | -45.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wang Zejin | Lose | W+¼ | 7.5 | 3347.0 | -76.0 | 
-| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Win | W+R | 7.5 | 3423.0 | 70.0 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhang Tao | Xie Ke | Win | B+R | 7.5 | 3353.0 | -49.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Zhang Tao | Lose | B+R | 7.5 | 3402.0 | -32.0 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Gu Lingyi | Zhang Tao | Win | W+R | 7.5 | 3434.0 | 5.0 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Zhang Tao | Li Zhe | Win | B+R | 7.5 | 3429.0 | 1.0 | 
-| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Cao Xiaoyang | Zhang Tao | Win | W+R | 7.5 | 3428.0 | 51.0 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Zhang Tao | Byun Sangil | Lose | W+R | 7.5 | 3377.0 | 9.0 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Jingyuan | Zhang Tao | Lose | B+R | 7.5 | 3368.0 | -67.0 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3435.0 | 68.0 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Huang Yunsong | Zhang Tao | Win | W+R | 7.5 | 3367.0 | -4.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3371.0 | -147.0 | 
-| 2019-11-11 | 第4回全国智力運動会大学生個人戦第9戦 | Li Weiqing | Zhang Tao | Win | W+R | 7.5 | 3518.0 | 0.0 | 
-| 2019-11-11 | 第4回全国智力運動会大学生個人戦第7戦 | Zhang Tao | Rong Yi | Lose | W+R | 7.5 | 3518.0 | 23.0 | 
-| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Zhang Tao |  | Lose | W+R | 7.5 | 3495.0 | 4.0 | 
-| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Zhang Tao | Chen Zijian | Win | B+R | 7.5 | 3491.0 | 5.0 | 
-| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Zhang Tao |  | Win | B+R | 7.5 | 3486.0 | 7.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Zhang Tao | Rong Yi | Lose | W+R | 7.5 | 3479.0 | -10.0 | 
-| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Zhang Tao | Li Xuanhao | Lose | W+R | 7.5 | 3489.0 | -5.0 | 
-| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Zhang Tao | He Yuhan | Win | B+R | 7.5 | 3494.0 | 4.0 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Kim Jiseok | Zhang Tao | Lose | B+2.5 | 6.5 | 3490.0 | -11.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tu Xiaoyu | Zhang Tao | Win | W+2¼ | 7.5 | 3501.0 | 30.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Zhang Tao | Mi Yuting | Lose | W+R | 7.5 | 3471.0 | 18.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Shi Yue | Zhang Tao | Lose | B+R | 7.5 | 3453.0 | -7.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Hao | Zhang Tao | Win | W+R | 7.5 | 3460.0 | 51.0 | 
-| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Zhang Tao | Li Xuanhao | Lose | W+R | 7.5 | 3409.0 | -23.0 | 
-| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Zhang Tao | Shin Jinseo | Lose | W+1¼ | 7.5 | 3432.0 | -8.0 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 |  | Zhang Tao | Lose | B+¾ | 7.5 | 3440.0 | -58.0 | 
-| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Chen Yaoye | Zhang Tao | Lose | B+1¾ | 7.5 | 3498.0 | -38.0 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3536.0 | 4.0 | 
-| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Zhang Tao | Huang Jingyuan | Win | B+R | 7.5 | 3532.0 | 19.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Zhang Tao | Peng Liyao | Win | B+R | 7.5 | 3513.0 | -29.0 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 |  | Zhang Tao | Win | W+R | 7.5 | 3542.0 | 33.0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Tang Weixing | Zhang Tao | Win | W+R | 7.5 | 3509.0 | 19.0 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Zhang Tao | Jiang Weijie | Win | B+R | 7.5 | 3490.0 | 30.0 | 
-| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3460.0 | 1.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Dang Yifei | Zhang Tao | Lose | B+R | 7.5 | 3459.0 | 4.0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mi Yuting | Zhang Tao | Lose | B+R | 7.5 | 3455.0 | -33.0 | 
-| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Fan Tingyu | Zhang Tao | Lose | B+R | 7.5 | 3488.0 | -7.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3495.0 | -4.0 | 
-| 2018-12-26 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Zhang Tao | Sun Tengyu | Lose | W+R | 7.5 | 3499.0 | -16.0 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節浙江-衢州 |  | Zhang Tao | Win | W+R | 7.5 | 3515.0 | 4.0 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節民生-浙江 | Shen Peiran | Zhang Tao | Win | W+R | 7.5 | 3511.0 | 17.0 | 
-| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節浙江-蘇泊爾 | Zhang Tao | Li Qincheng | Lose | W+R | 7.5 | 3494.0 | -20.0 | 
-| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節江蘇-浙江 | Zhang Tao | Mi Yuting | Win | B+¾ | 7.5 | 3514.0 | 16.0 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Ding Hao | Zhang Tao | Lose | B+R | 7.5 | 3498.0 | -8.0 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Zhang Tao | Yang Kaiwen | Lose | W+1¼ | 7.5 | 3506.0 | -5.0 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節成都-浙江 | Dang Yifei | Zhang Tao | Lose | B+R | 7.5 | 3511.0 | -26.0 | 
-| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Zhang Tao | Liu Xing | Lose | W+R | 7.5 | 3537.0 | -32.0 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節浙江-重慶 | Zhang Tao | Yang Dingxin | Win | B+R | 7.5 | 3569.0 | -13.0 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節中信-浙江 | Zhang Tao | Chen Yaoye | Lose | W+R | 7.5 | 3582.0 | -15.0 | 
-| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節浙江-天津 | Zhang Tao | Tang Weixing | Win | B+R | 7.5 | 3597.0 | 39.0 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Peng Liyao | Zhang Tao | Win | W+R | 7.5 | 3558.0 | 11.0 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節浙江-上海 | Zhang Tao | Liao Xingwen | Lose | W+R | 7.5 | 3547.0 | -16.0 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節山東-浙江 | Chen Zijian | Zhang Tao | Win | W+R | 7.5 | 3563.0 | -13.0 | 
-| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節衢州-浙江 | Zhang Tao | Lee Sedol | Lose | W+R | 7.5 | 3576.0 | -57.0 | 
-| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節浙江-民生 | Zhang Tao | Sun Tengyu | Win | B+R | 7.5 | 3633.0 | 10.0 | 
-| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節蘇泊爾-浙江 | Zhang Tao | Lian Xiao | Lose | W+R | 7.5 | 3623.0 | 1.0 | 
-| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節浙江-江蘇 | Mi Yuting | Zhang Tao | Win | W+R | 7.5 | 3622.0 | 38.0 | 
-| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Zhang Tao | Zhao Chenyu | Lose | W+¼ | 7.5 | 3584.0 | -10.0 | 
-| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Zhang Tao | Wu Guangya | Win | B+R | 7.5 | 3594.0 | 5.0 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節江西-浙江 | Xu Jiayang | Zhang Tao | Lose | B+R | 7.5 | 3589.0 | -9.0 | 
-| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節浙江-成都 | Zhang Tao | Gu Lingyi | Win | B+¾ | 7.5 | 3598.0 | 14.0 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Zhao Chenyu | Zhang Tao | Lose | B+R | 7.5 | 3584.0 | -16.0 | 
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Li Xuanhao | Zhang Tao | Win | W+R | 7.5 | 3600.0 | 13.0 | 
-| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhang Tao | Huang Yunsong | Lose | W+R | 7.5 | 3587.0 | -20.0 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節浙江-中信 | Zhang Tao | Tuo Jiaxi | Lose | W+1¼ | 7.5 | 3607.0 | -29.0 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節天津-浙江 | Zhang Tao | Meng Tailing | Lose | W+R | 7.5 | 3636.0 | -7.0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Fan Tingyu | Lose | W+R | 7.5 | 3643.0 | -18.0 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhang Tao | Fan Yin | Lose | W+R | 7.5 | 3661.0 | -26.0 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節上海-浙江 | Li Weiqing | Zhang Tao | Win | W+R | 7.5 | 3687.0 | 0.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節浙江-山東 | Zhang Tao | Yi Lingtao | Lose | W+R | 7.5 | 3687.0 | 20.0 | 
-| 2018-01-31 | 第32期中国囲碁天元戦挑戦者決定戦 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3667.0 | -31.0 | 
-| 2018-01-29 | 第32期中国囲碁天元戦準決勝 | Han Yizhou | Zhang Tao | Win | W+R | 7.5 | 3698.0 | 14.0 | 
-| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhou Ruiyang | Zhang Tao | Win | W+R | 7.5 | 3684.0 | 13.0 | 
-| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Peng Liyao | Zhang Tao | Win | W+R | 7.5 | 3671.0 | 13.0 | 
-| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhang Tao | Liao Xingwen | Win | B+R | 7.5 | 3658.0 | 19.0 | 
-| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Zhang Tao | Chen Zijian | Lose | W+R | 7.5 | 3639.0 | -68.0 | 
-| 2017-12-28 | 第13期威孚房開杯棋王戦決勝 | Fan Yin | Zhang Tao | Lose | B+¾ | 7.5 | 3707.0 | -57.0 | 
-| 2017-12-27 | 第13期威孚房開杯棋王戦準決勝 | Zhang Tao | Mi Yuting | Win | B+1¾ | 7.5 | 3764.0 | 26.0 | 
-| 2017-12-26 | 第13期威孚房開杯棋王戦8強戦 | Meng Tailing | Zhang Tao | Win | W+R | 7.5 | 3738.0 | 158.0 | 
-| 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Zhang Tao | Li Qincheng | Win | B+R | 7.5 | 3580.0 | 18.0 | 
-| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhang Tao | Chen Yaoye | Win | B+R | 7.5 | 3562.0 | 64.0 | 
-| 2017-09-15 | 第29回テレビアジア選手権1回戦 | Zhang Tao | Ichiriki Ryo | Lose | W+2.5 | 7.5 | 3498.0 | -4.0 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | Win | B+R | 7.5 | 3502.0 | 0.0 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Li Qincheng | Zhang Tao | Win | W+R | 7.5 | 3502.0 | 115.0 | 
-| 2017-06-16 | 2017年中国囲碁乙級リーグ | Kim Dongho | Zhang Tao | Win | W+R | 7.5 | 3387.0 | 9.0 | 
-| 2017-06-15 | 2017年中国囲碁乙級リーグ | Zhang Tao | Cao Xiaoyang | Lose | W+R | 7.5 | 3378.0 | -15.0 | 
-| 2017-06-13 | 2017年中国囲碁乙級リーグ | Wang Xi | Zhang Tao | Lose | B+R | 7.5 | 3393.0 | -14.0 | 
-| 2017-06-12 | 2017年中国囲碁乙級リーグ | Zhang Tao | Li Kang | Win | B+R | 7.5 | 3407.0 | 9.0 | 
-| 2017-06-08 | 2017年中国囲碁乙級リーグ | Zhang Tao | Lee Jihyun | Win | B+R | 7.5 | 3398.0 | 100.0 | 
-| 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Zhang Tao |  | Win | B+R | 7.5 | 3298.0 | 7.0 | 
-| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Zhang Tao | Xie He | Lose | W+0.5 | 7.5 | 3291.0 | -13.0 | 
-| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Zhang Tao | Tan Xiao | Win | B+R | 7.5 | 3304.0 | 25.0 | 
-| 2017-01-13 | 第31期中国囲碁天元戦予選 | Zhang Tao | Gu Lingyi | Win | B+R | 7.5 | 3279.0 | 3.0 | 
-| 2016-12-30 | 第31期中国囲碁天元戦予選 | Xie Ke | Zhang Tao | Win | W+R | 7.5 | 3276.0 | 24.0 | 
-| 2016-12-29 | 第31期中国囲碁天元戦予選 | Zhang Tao | Yin Hang | Win | B+3.5 | 7.5 | 3252.0 | 26.0 | 
-| 2016-12-28 | 第31期中国囲碁天元戦予選 | Zhang Tao |  | Win | B+25.5 | 7.5 | 3226.0 | 18.0 | 
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Shin Jinseo | Zhang Tao | Lose | B+R | 7.5 | 3208.0 | -7.0 | 
-| 2016-11-24 | 第8期中国竜星戦予選 | Zhang Tao | Sun Tengyu | Lose | W+R | 7.5 | 3215.0 | 17.0 | 
-| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Zhang Tao | Gu Lingyi | Lose | W+R | 7.5 | 3198.0 | -10.0 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Zhang Tao | Peng Liyao | Win | B+R | 7.5 | 3208.0 | 38.0 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3170.0 | -118.0 | 
-| 2016-10-25 | 第8期中国竜星戦予選 | Liao Xingwen | Zhang Tao | Win | W+R | 7.5 | 3288.0 | -3.0 | 
-| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Zhang Tao | Lose | B+1.5 | 7.5 | 3291.0 | -53.0 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Zhang Tao | Mi Yuting | Lose | W+R | 7.5 | 3344.0 | 18.0 | 
-| 2016-09-26 | 2016年全国囲棋個人戦男子組第9戦 | Zhang Tao |  | Lose | W+R | 7.5 | 3326.0 | -5.0 | 
-| 2016-09-25 | 2016年全国囲棋個人戦男子組第8戦 |  | Zhang Tao | Win | W+R | 7.5 | 3331.0 | -2.0 | 
-| 2016-09-23 | 2016年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Zhang Tao | Win | W+R | 7.5 | 3333.0 | 4.0 | 
-| 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 | Fan Yin | Zhang Tao | Lose | B+R | 7.5 | 3329.0 | 13.0 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Li Qincheng | Zhang Tao | Lose | B+1.5 | 7.5 | 3316.0 | 19.0 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Zhang Tao | Niu Yutian | Lose | W+R | 7.5 | 3297.0 | -9.0 | 
-| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3306.0 | -14.0 | 
-| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Peng Liyao | Zhang Tao | Lose | B+R | 7.5 | 3320.0 | 11.0 | 
-| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Zhang Tao | Kang Dongyun | Lose | W+R | 7.5 | 3309.0 | 8.0 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3301.0 | -41.0 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Xie Erhao | Zhang Tao | Lose | B+R | 7.5 | 3342.0 | -36.0 | 
-| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Lee Donghoon | Zhang Tao | Lose | B+R | 7.5 | 3378.0 | -23.0 | 
-| 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 |  | Zhang Tao | Lose | B+R | 7.5 | 3401.0 | -5.0 | 
-| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Ma Yichao | Zhang Tao | Win | W+R | 7.5 | 3406.0 | 13.0 | 
-| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Huang Yunsong | Zhang Tao | Lose | B+R | 7.5 | 3393.0 | -47.0 | 
-| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Han Yizhou | Zhang Tao | Lose | B+R | 7.5 | 3440.0 | -19.0 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Wang Xi | Zhang Tao | Lose | B+R | 7.5 | 3459.0 | 3.0 | 
-| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Zhang Tao | Lose | B+R | 7.5 | 3456.0 | 7.0 | 
-| 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Zhang Tao | Li Weiqing | Win | B+R | 7.5 | 3449.0 | 31.0 | 
-| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Zhang Tao | Yang Kaiwen | Win | B+R | 7.5 | 3418.0 | 10.0 | 
-| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Dingxin | Zhang Tao | Lose | B+R | 7.5 | 3408.0 | -23.0 | 
-| 2015-11-23 | 第17回中国囲碁甲級リーグ第14節 |  | Zhang Tao | Lose | B+R | 7.5 | 3431.0 | -46.0 | 
-| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Mi Yuting | Zhang Tao | Win | W+R | 7.5 | 3477.0 | -17.0 | 
-| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Zhang Tao | Peng Liyao | Win | B+R | 7.5 | 3494.0 | 17.0 | 
-| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 |  | Zhang Tao | Win | W+R | 7.5 | 3477.0 | 17.0 | 
-| 2015-10-26 | 第17回中国囲碁甲級リーグ第15節 | Zhang Tao | Na Hyun | Lose | W+R | 7.5 | 3460.0 | -3.0 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhang Tao | Win | W+R | 7.5 | 3463.0 | 0.0 | 
-| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Zhang Tao | Li Xuanhao | Lose | W+R | 7.5 | 3463.0 | -7.0 | 
-| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Wang Xi | Zhang Tao | Win | W+R | 7.5 | 3470.0 | 12.0 | 
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Xie Erhao | Zhang Tao | Win | W+R | 7.5 | 3458.0 | 1.0 | 
-| 2015-10-08 | 第20回三星火災杯世界囲碁マスターズ3回戦 | Zhang Tao | Lee Sedol | Lose | W+R | 6.5 | 3457.0 | -3.0 | 
-| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Zhang Tao | Park Yeonghun | Win | B+R | 6.5 | 3460.0 | -9.0 | 
-| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦E3 | Ida Atsushi | Zhang Tao | Win | W+R | 6.5 | 3469.0 | 8.0 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦E2 | Zhang Tao | Lee Sedol | Lose | W+R | 6.5 | 3461.0 | -5.0 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦E1 | Zhang Tao | Choi Jeong | Win | B+R | 6.5 | 3466.0 | 14.0 | 
-| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Zhang Tao | Lose | B+R | 7.5 | 3452.0 | 15.0 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Zhong Wenjing | Zhang Tao | Lose | B+R | 7.5 | 3437.0 | -14.0 | 
-| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Wang Haoyang | Zhang Tao | Lose | B+R | 7.5 | 3451.0 | -29.0 | 
-| 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Zhang Tao |  | Lose | W+R | 7.5 | 3480.0 | -10.0 | 
-| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Zhang Tao | Dang Yifei | Win | B+R | 7.5 | 3490.0 | 23.0 | 
-| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Yin Hang | Zhang Tao | Win | W+R | 7.5 | 3467.0 | 14.0 | 
-| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Zhang Tao | Lose | B+1.5 | 7.5 | 3453.0 | 2.0 | 
-| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Lee Donghoon | Zhang Tao | Lose | B+R | 7.5 | 3451.0 | -17.0 | 
-| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Zhang Tao | Gu Li | Lose | W+R | 7.5 | 3468.0 | -14.0 | 
-| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Zhao Chenyu | Zhang Tao | Lose | B+R | 7.5 | 3482.0 | -13.0 | 
-| 2015-06-28 | 第7期中国竜星戦予選 | Zhang Tao | Han Yizhou | Lose | W+R | 7.5 | 3495.0 | -6.0 | 
-| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Peng Liyao | Zhang Tao | Win | W+R | 7.5 | 3501.0 | 45.0 | 
-| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhang Tao | Lose | B+R | 7.5 | 3456.0 | 9.0 | 
-| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 |  | Zhang Tao | Win | W+R | 7.5 | 3447.0 | 34.0 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Choi Cheolhan | Zhang Tao | Lose | B+R | 7.5 | 3413.0 | -16.0 | 
-| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Fan Yunruo | Zhang Tao | Win | W+R | 7.5 | 3429.0 | 7.0 | 
-| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Zhang Tao |  | Lose | W+R | 7.5 | 3422.0 | 13.0 | 
-| 2015-05-03 | 第28期中国囲碁名人戦予選 |  | Zhang Tao | Lose | B+R | 7.5 | 3409.0 | -19.0 | 
-| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Zhang Tao | Win | W+R | 7.5 | 3428.0 | 11.0 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Zhong Wenjing | Zhang Tao | Win | W+R | 7.5 | 3417.0 | 21.0 | 
-| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Lian Xiao | Zhang Tao | Lose | B+R | 7.5 | 3396.0 | -2.0 | 
-| 2015-03-23 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Liao Xingwen | Zhang Tao | Win | W+R | 7.5 | 3398.0 | 17.0 | 
-| 2015-03-21 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yizhong | Zhang Tao | Win | W+1 | 7.5 | 3381.0 | 18.0 | 
-| 2015-01-26 | 第29期中国囲碁天元戦予選 | Zhang Tao | Wang Zejin | Lose | W+R | 7.5 | 3363.0 | -18.0 | 
-| 2015-01-21 | 第15期リコー杯囲碁戦3回戦 | Zhang Tao | Shi Yue | Lose | W+R | 7.5 | 3381.0 | -3.0 | 
-| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Tuo Jiaxi | Zhang Tao | Win | W+R | 7.5 | 3384.0 | -15.0 | 
-| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Zhang Tao | Li Zhe | Win | B+R | 7.5 | 3399.0 | 8.0 | 
-| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Zhang Tao | Zhou Ruiyang | Win | B+R | 7.5 | 3391.0 | 15.0 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Zhang Tao | Tong Mengcheng | Win | B+R | 7.5 | 3376.0 | 17.0 | 
-| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Zhang Tao | Chen Xian | Lose | W+0.5 | 7.5 | 3359.0 | -34.0 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Zhang Tao | Choi Cheolhan | Lose | W+R | 7.5 | 3393.0 | 31.0 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Zhang Tao |  | Lose | W+0.5 | 7.5 | 3362.0 | -44.0 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Zhang Tao | Mao Ruilong | Win | B+R | 7.5 | 3406.0 | 86.0 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Zhang Tao | Park Junghwan | Lose | W+R | 7.5 | 3320.0 | -1.0 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Zhang Tao | Shi Yue | Lose | W+R | 7.5 | 3321.0 | -9.0 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Li Zhe | Zhang Tao | Lose | B+R | 7.5 | 3330.0 | -58.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Zhang Tao | Choi Cheolhan | Lose | W+R | 7.5 | 3388.0 | -11.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Piao Wenyao | Zhang Tao | Win | W+R | 7.5 | 3399.0 | -25.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Fan Tingyu | Zhang Tao | Lose | B+R | 7.5 | 3424.0 | -29.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Zhang Tao | Xie Erhao | Win | B+R | 7.5 | 3453.0 | 34.0 | 
-| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Zhang Tao | Qiu Jun | Lose | W+R | 7.5 | 3419.0 | 24.0 | 
-| 2014-06-26 | 第6期中国竜星戦予選 | Zhang Tao | Gu Zihao | Lose | W+0.5 | 7.5 | 3395.0 | -9.0 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Gu Li | Zhang Tao | Lose | B+R | 7.5 | 3404.0 | -93.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Zhang Tao | Lee Sedol | Lose | W+R | 7.5 | 3497.0 | -1.0 | 
-| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Zhang Tao | Wang Haoyang | Lose | W+2.5 | 7.5 | 3498.0 | -18.0 | 
-| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Zhang Tao | Zhong Wenjing | Lose | W+R | 7.5 | 3516.0 | -47.0 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Zhang Tao | Dang Yifei | Win | B+R | 7.5 | 3563.0 | -14.0 | 
-| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Zhang Tao | Park Junghwan | Lose | W+R | 7.5 | 3577.0 | 13.0 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Zhang Tao | Peng Liyao | Win | B+R | 7.5 | 3564.0 | 9.0 | 
-| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Li Zhe | Zhang Tao | Lose | B+R | 7.5 | 3555.0 | -12.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Zhang Tao | Lose | B+1.5 | 7.5 | 3567.0 | -18.0 | 
-| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Zhang Tao | Kong Jie | Lose | W+0.5 | 7.5 | 3585.0 | -15.0 | 
-| 2014-04-02 | 第27期中国囲碁名人戦予選 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3600.0 | -7.0 | 
-| 2014-04-01 | 第27期中国囲碁名人戦予選 | Ding Wei | Zhang Tao | Win | W+R | 7.5 | 3607.0 | -20.0 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Zhang Tao | Akiyama Jiro | Win | B+1.5 | 7.5 | 3627.0 | 34.0 | 
-| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Ke Jie | Zhang Tao | Lose | B+R | 7.5 | 3593.0 | -7.0 | 
-| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Zhang Tao | Gu Lingyi | Win | B+R | 7.5 | 3600.0 | 21.0 | 
-| 2014-01-14 | 第28期中国囲碁天元戦予選 | An Dongxu | Zhang Tao | Win | W+0.5 | 7.5 | 3579.0 | 32.0 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Huang Yunsong | Zhang Tao | Lose | B+R | 7.5 | 3547.0 | -35.0 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Zhang Tao | Li Qincheng | Win | B+R | 7.5 | 3582.0 | 16.0 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Tuo Jiaxi | Zhang Tao | Win | W+R | 7.5 | 3566.0 | 50.0 | 
-| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Niu Yutian | Zhang Tao | Lose | B+R | 7.5 | 3516.0 | -19.0 | 
-| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Zhang Tao | Chang Hao | Lose | W+T | 7.5 | 3535.0 | -52.0 | 
-| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 |  | Zhang Tao | Win | W+R | 7.5 | 3587.0 | -9.0 | 
-| 2013-09-25 | 2013年全国囲棋個人戦男子組第9戦 | Zhou Hexi | Zhang Tao | Win | W+R | 6.5 | 3596.0 | 11.0 | 
-| 2013-09-16 | 2013年全国囲棋個人戦男子組第3戦 | Zhang Tao | Zhong Wenjing | Lose | W+R | 6.5 | 3585.0 | -35.0 | 
-| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Zhang Tao | Piao Wenyao | Lose | W+R | 7.5 | 3620.0 | 60.0 | 
-| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Zhang Tao | Han Wonggyu | Lose | W+0.5 | 6.5 | 3560.0 | -26.0 | 
-| 2013-08-06 | 第18回三星火災杯統合予選準決勝 | Ahn Kukhyun | Zhang Tao | Win | W+R | 6.5 | 3586.0 | 60.0 | 
-| 2013-07-20 | 2013年中国段位戦 | Zhang Tao | Guo Yuzheng | Win | B+R | 7.5 | 3526.0 | 17.0 | 
-| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Zhang Tao | Cho Hanseung | Lose | W+R | 7.5 | 3509.0 | -4.0 | 
-| 2013-07-13 | 第26期中国囲碁名人戦3回戦 | Chen Yaoye | Zhang Tao | Lose | B+R | 7.5 | 3513.0 | 18.0 | 
-| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Zhang Tao | Liu Xing | Win | B+R | 7.5 | 3495.0 | -4.0 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Zhang Tao | Tuo Jiaxi | Win | B+R | 7.5 | 3499.0 | 173.0 | 
-| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Zhang Tao | Iyama Yuta | Lose | W+R | 6.5 | 3326.0 | -58.0 | 
-| 2013-06-07 | 第26期中国囲碁名人戦2回戦 | Zhang Tao | Mi Yuting | Win | B+R | 7.5 | 3384.0 | 25.0 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Qiu Jun | Lose | W+R | 7.5 | 3359.0 | 0.0 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Rui Naiwei | Win | B+R | 7.5 | 3359.0 | -85.0 | 
-| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Chang Hao | Zhang Tao | Lose | B+1.5 | 7.5 | 3444.0 | -84.0 | 
-| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Peng Liyao | Zhang Tao | Lose | B+R | 7.5 | 3528.0 | 49.0 | 
-| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Wang Xi | Zhang Tao | Lose | B+R | 7.5 | 3479.0 | 51.0 | 
-| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Zhang Tao | Dang Yifei | Win | B+R | 7.5 | 3428.0 | -144.0 | 
-| 2013-04-11 | 第26期中国囲碁名人戦予選 | Zhang Tao |  | Win | B+R | 7.5 | 3572.0 | 10.0 | 
-| 2013-04-10 | 第26期中国囲碁名人戦予選 | Zhang Tao | Peng Quan | Win | B+R | 7.5 | 3562.0 | 44.0 | 
-| 2013-03-27 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Zhang Tao | Win | W+R | 7.5 | 3518.0 | 4.0 | 
-| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Zhang Tao | Lose | B+3.5 | 7.5 | 3514.0 | -1.0 | 
-| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Zhang Tao | Fan Yunruo | Lose | W+R | 7.5 | 3515.0 | 9.0 | 
-| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Zhang Tao | Lee Yeongkyu | Win | B+1.5 | 7.5 | 3506.0 | 55.0 | 
-| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Sun Tengyu | Zhang Tao | Win | W+R | 7.5 | 3451.0 | -17.0 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Niu Yutian | Zhang Tao | Win | W+0.5 | 7.5 | 3468.0 | missing |
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhang Tao | Lian Xiao | Lose | W+R | 7.5 | 3517 | -2 | 
+| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3519 | -21 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Huang Yunsong | Zhang Tao | Win | W+¼ | 7.5 | 3540 | -7 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Zejin | Win | B+R | 7.5 | 3547 | 14 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Lose | B+1¼ | 7.5 | 3533 | -22 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Xu Haohong | Lose | W+2¼ | 7.5 | 3555 | -16 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3571 | 49 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3522 | 44 | 
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3478 | -17 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3495 | 13 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3482 | 3 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Lose | W+R | 7.5 | 3479 | -15 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Win | W+R | 7.5 | 3494 | 1 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhang Tao | Kang Dongyun | Lose | W+1¼ | 7.5 | 3493 | -13 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Win | W+¾ | 7.5 | 3506 | 11 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3495 | 29 | 
+| 2021-09-16 | 第12期中国竜星戦Bブロック6回戦 | Huang Yunsong | Zhang Tao | Lose | B+2¾ | 7.5 | 3466 | -9 | 
+| 2021-09-15 | 第12期中国竜星戦Bブロック5回戦 | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3475 | 8 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Zhang Tao | Lose | B+¾ | 7.5 | 3467 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Ding Hao | Win | B+R | 7.5 | 3467 | 9 | 
+| 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Win | W+2¼ | 7.5 | 3458 | 12 | 
+| 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Win | B+R | 7.5 | 3446 | 15 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3431 | 29 | 
+| 2021-08-25 | 第12期中国竜星戦予選 |  | Zhang Tao | Win | W+¼ | 7.5 | 3402 | 43 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Lose | W+R | 7.5 | 3359 | 2 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3357 | 2 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Lose | W+R | 7.5 | 3355 | -26 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Zhang Tao | Win | W+R | 7.5 | 3381 | 13 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhang Tao | Shi Yue | Lose | W+R | 7.5 | 3368 | 7 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Zhang Tao | Lose | B+¾ | 7.5 | 3361 | -17 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Zhang Tao | Lose | B+R | 7.5 | 3378 | -11 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Chen Yaoye | Win | B+R | 7.5 | 3389 | 17 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Win | B+R | 7.5 | 3372 | 40 | 
+| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Zhang Tao | Zhou Hexi | Win | B+R | 7.5 | 3332 | 16 | 
+| 2021-03-15 | 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | Lose | W+1¼ | 7.5 | 3316 | 21 | 
+| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tao Xinran | Zhang Tao | Lose | B+1¾ | 7.5 | 3295 | missing |
 
 
 

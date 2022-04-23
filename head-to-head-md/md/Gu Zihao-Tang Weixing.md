@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Tang Weixing** | **Gu Zihao streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Tang Weixing** | **Gu Zihao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tang Weixing | Gu Zihao | B+R | 7.5 | 8:5 | 0 | 1 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江西-天津 | Tang Weixing | Gu Zihao | W+R | 7.5 | 5:3 | 1 | 0 | 

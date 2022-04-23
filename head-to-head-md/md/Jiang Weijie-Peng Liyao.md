@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Peng Liyao** | **Jiang Weijie streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Peng Liyao** | **Jiang Weijie Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Peng Liyao | Jiang Weijie | W+R | 7.5 | 9:6 | 2 | 0 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Peng Liyao | B+R | 7.5 | 7:4 | 1 | 0 | 

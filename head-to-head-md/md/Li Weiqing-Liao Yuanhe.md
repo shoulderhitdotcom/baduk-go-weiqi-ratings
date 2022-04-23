@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Liao Yuanhe** | **Li Weiqing streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Liao Yuanhe** | **Li Weiqing Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Li Weiqing | Liao Yuanhe | W+R | 7.5 | 0:5 | 0 | 5 | 

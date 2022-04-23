@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Zhao Chenyu** | **Tong Mengcheng streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Zhao Chenyu** | **Tong Mengcheng Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | W+1¼ | 7.5 | 1:1 | 0 | 1 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tong Mengcheng | Zhao Chenyu | W+R | 6.5 | 5:2 | 0 | 1 | 

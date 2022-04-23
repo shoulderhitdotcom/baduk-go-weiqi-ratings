@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Zhang Tao** | **Ke Jie streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Zhang Tao** | **Ke Jie Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | B+R | 7.5 | 1:1 | 0 | 1 | 

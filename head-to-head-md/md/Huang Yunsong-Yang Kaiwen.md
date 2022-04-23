@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Yang Kaiwen** | **Huang Yunsong streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Yang Kaiwen** | **Huang Yunsong Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | W+R | 7.5 | 2:0 | 2 | 0 | 
 | 2017-08-03 | 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | W+R | 7.5 | 2:1 | 0 | 1 | 

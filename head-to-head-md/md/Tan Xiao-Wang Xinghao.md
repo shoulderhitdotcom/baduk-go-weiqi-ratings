@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Wang Xinghao** | **Tan Xiao streak** | **Wang Xinghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Wang Xinghao** | **Tan Xiao Streak** | **Wang Xinghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | W+1¼ | 7.5 | 2:2 | 0 | 1 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tan Xiao | B+1¾ | 7.5 | 1:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Peng Liyao** | **Ke Jie streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Peng Liyao** | **Ke Jie Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2018-11-30 | 第7回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Ke Jie | Peng Liyao | B+R | 7.5 | 7:2 | 3 | 0 | 

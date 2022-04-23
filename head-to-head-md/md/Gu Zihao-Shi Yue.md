@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Shi Yue** | **Gu Zihao streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Shi Yue** | **Gu Zihao Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Shi Yue | Gu Zihao | B+R | 7.5 | 4:3 | 0 | 1 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江西-陜西 | Shi Yue | Gu Zihao | W+R | 7.5 | 4:2 | 2 | 0 | 

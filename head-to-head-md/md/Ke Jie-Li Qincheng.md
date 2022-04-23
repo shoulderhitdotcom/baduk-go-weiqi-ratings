@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Li Qincheng** | **Ke Jie streak** | **Li Qincheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Li Qincheng** | **Ke Jie Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Ke Jie | Li Qincheng | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2018-11-21 | 第4回TWTテンセント囲碁選手権決勝 | Ke Jie | Li Qincheng | W+R | 7.5 | 2:3 | 0 | 2 | 

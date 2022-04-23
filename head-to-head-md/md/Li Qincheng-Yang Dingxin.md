@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Yang Dingxin** | **Li Qincheng streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Yang Dingxin** | **Li Qincheng Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Yang Dingxin | Li Qincheng | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | B+R | 6.5 | 3:1 | 3 | 0 | 

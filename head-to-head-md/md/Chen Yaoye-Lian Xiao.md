@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Lian Xiao** | **Chen Yaoye streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Lian Xiao** | **Chen Yaoye Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Lian Xiao | Chen Yaoye | B+R | 7.5 | 4:3 | 0 | 1 | 
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦決勝 | Chen Yaoye | Lian Xiao | W+1¼ | 7.5 | 7:11 | 0 | 7 | 

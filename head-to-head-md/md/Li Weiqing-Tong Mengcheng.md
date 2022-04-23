@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Tong Mengcheng** | **Li Weiqing streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Tong Mengcheng** | **Li Weiqing Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Li Weiqing | Tong Mengcheng | B+R | 7.5 | 3:4 | 3 | 0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | W+R | 7.5 | 0:2 | 0 | 2 | 

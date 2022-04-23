@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Zhao Chenyu** | **Fan Tingyu streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Zhao Chenyu** | **Fan Tingyu Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | B+R | 7.5 | 3:2 | 1 | 0 | 
 | 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | B+5.5 | 6.5 | 2:2 | 0 | 2 | 

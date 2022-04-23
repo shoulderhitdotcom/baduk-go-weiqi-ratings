@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Zhang Tao** | **Li Qincheng streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Zhang Tao** | **Li Qincheng Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | W+R | 7.5 | 2:4 | 0 | 1 | 
 | 2018-11-16 | 第20回中国囲碁甲級リーグ第24節浙江-蘇泊爾 | Zhang Tao | Li Qincheng | W+R | 7.5 | 2:3 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Yang Dingxin** | **Huang Yunsong streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Yang Dingxin** | **Huang Yunsong Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | W+R | 7.5 | 4:1 | 3 | 0 | 
 | 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | B+R | 7.5 | 1:1 | 0 | 1 | 

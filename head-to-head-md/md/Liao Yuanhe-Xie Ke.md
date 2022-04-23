@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Xie Ke** | **Liao Yuanhe streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Xie Ke** | **Liao Yuanhe Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Xie Ke | Liao Yuanhe | B+R | 7.5 | 1:2 | 0 | 2 | 
 | 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Xie Ke | Liao Yuanhe | W+¼ | 7.5 | 3:3 | 2 | 0 | 

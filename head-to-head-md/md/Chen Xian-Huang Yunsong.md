@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Huang Yunsong** | **Chen Xian streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Huang Yunsong** | **Chen Xian Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-07-14 | 2015年中国段位戦 | Huang Yunsong | Chen Xian | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2014-06-25 | 第6期中国竜星戦予選 | Huang Yunsong | Chen Xian | B+R | 7.5 | 1:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Tu Xiaoyu** | **Li Qincheng streak** | **Tu Xiaoyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tu Xiaoyu** | **Li Qincheng Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-08 | 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | B+R | 7.5 | 1:0 | 1 | 0 |
 

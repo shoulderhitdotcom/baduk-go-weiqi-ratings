@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Yang Dingxin** | **Dang Yifei streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Yang Dingxin** | **Dang Yifei Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | B+¾ | 7.5 | 0:4 | 0 | 4 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Yang Dingxin | Dang Yifei | W+¼ | 7.5 | 1:7 | 1 | 0 | 

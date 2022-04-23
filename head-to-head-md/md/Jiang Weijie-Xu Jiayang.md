@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Xu Jiayang** | **Jiang Weijie streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Xu Jiayang** | **Jiang Weijie Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-26 | 嫘祖杯第32期中国囲棋名人戦挑戦者決定戦 | Jiang Weijie | Xu Jiayang | W+R | 7.5 | 0:1 | 0 | 1 | 
 | 2019-06-14 | 第10期中国竜星戦決勝三番勝負第3局 | Xu Jiayang | Jiang Weijie | W+R | 7.5 | 2:2 | 1 | 0 | 

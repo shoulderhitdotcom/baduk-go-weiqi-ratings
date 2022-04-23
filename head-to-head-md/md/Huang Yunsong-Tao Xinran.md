@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Tao Xinran** | **Huang Yunsong streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Tao Xinran** | **Huang Yunsong Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tao Xinran | Huang Yunsong | W+R | 7.5 | 6:2 | 6 | 0 | 
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Tao Xinran | Huang Yunsong | W+1¾ | 7.5 | 2:2 | 2 | 0 | 

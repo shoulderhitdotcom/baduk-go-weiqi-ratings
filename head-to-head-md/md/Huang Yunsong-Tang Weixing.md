@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Tang Weixing** | **Huang Yunsong streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Tang Weixing** | **Huang Yunsong Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | W+R | 7.5 | 4:2 | 1 | 0 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | W+R | 6.5 | 5:2 | 2 | 0 | 

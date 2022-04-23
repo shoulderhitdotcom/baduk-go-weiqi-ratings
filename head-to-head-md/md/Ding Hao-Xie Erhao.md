@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Xie Erhao** | **Ding Hao streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Xie Erhao** | **Ding Hao Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Ding Hao | Xie Erhao | B+R | 7.5 | 2:3 | 2 | 0 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | B+R | 7.5 | 1:3 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Shi Yue** | **Lian Xiao streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Shi Yue** | **Lian Xiao Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-23 | 第14回春蘭杯中国予選 | Shi Yue | Lian Xiao | B+R | 7.5 | 2:4 | 0 | 2 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Shi Yue | Lian Xiao | W+R | 6.5 | 6:5 | 4 | 0 | 

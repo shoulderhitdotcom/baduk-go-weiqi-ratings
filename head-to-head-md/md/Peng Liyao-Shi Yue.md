@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Shi Yue** | **Peng Liyao streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Shi Yue** | **Peng Liyao Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-15 | 第25回LG杯中国予選 | Shi Yue | Peng Liyao | W+R | 6.5 | 5:4 | 3 | 0 | 
 | 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Peng Liyao | Shi Yue | W+R | 7.5 | 2:3 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Tuo Jiaxi** | **Tan Xiao streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Tuo Jiaxi** | **Tan Xiao Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tan Xiao | W+R | 7.5 | 2:1 | 1 | 0 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節重慶-中信 | Tan Xiao | Tuo Jiaxi | W+R | 7.5 | 7:7 | 0 | 1 | 

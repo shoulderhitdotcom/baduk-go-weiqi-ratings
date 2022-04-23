@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Tang Weixing** | **Shi Yue streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tang Weixing** | **Shi Yue Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shi Yue | Tang Weixing | B+R | 7.5 | 11:7 | 3 | 0 | 
 | 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Shi Yue | Tang Weixing | B+R | 7.5 | 12:8 | 1 | 0 | 

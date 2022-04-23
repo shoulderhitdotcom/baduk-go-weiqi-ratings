@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Liao Yuanhe** | **Ding Hao streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Liao Yuanhe** | **Ding Hao Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Ding Hao | W+R | 7.5 | 3:3 | 2 | 0 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | B+¾ | 7.5 | 1:0 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Li Qincheng** | **Chen Yaoye streak** | **Li Qincheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Li Qincheng** | **Chen Yaoye Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Yaoye | B+R | 7.5 | 1:2 | 0 | 1 | 
 | 2017-03-16 | 第8期中国竜星戦Aブロック9回戦 | Chen Yaoye | Li Qincheng | B+1.5 | 7.5 | 3:2 | 2 | 0 | 

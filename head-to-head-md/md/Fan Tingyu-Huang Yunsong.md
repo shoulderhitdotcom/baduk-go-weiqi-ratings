@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Huang Yunsong** | **Fan Tingyu streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Huang Yunsong** | **Fan Tingyu Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | B+R | 7.5 | 8:1 | 0 | 1 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Huang Yunsong | Fan Tingyu | W+R | 7.5 | 8:0 | 8 | 0 | 

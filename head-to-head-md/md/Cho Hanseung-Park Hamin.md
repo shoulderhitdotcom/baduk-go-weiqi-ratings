@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Park Hamin** | **Cho Hanseung streak** | **Park Hamin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Park Hamin** | **Cho Hanseung Streak** | **Park Hamin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Park Hamin | Cho Hanseung | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | B+1.5 | 6.5 | 5:1 | 0 | 1 | 

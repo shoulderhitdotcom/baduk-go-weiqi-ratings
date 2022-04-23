@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Tong Mengcheng** | **Ding Hao streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Tong Mengcheng** | **Ding Hao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Ding Hao | Tong Mengcheng | B+R | 7.5 | 4:0 | 4 | 0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Tong Mengcheng | B+R | 7.5 | 1:0 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Peng Liyao** | **Fan Tingyu streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Peng Liyao** | **Fan Tingyu Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Peng Liyao | Fan Tingyu | B+R | 7.5 | 4:4 | 0 | 1 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | W+R | 7.5 | 0:3 | 0 | 3 | 

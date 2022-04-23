@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tu Xiaoyu vs Wang Xinghao** | **Tu Xiaoyu streak** | **Wang Xinghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Wang Xinghao** | **Tu Xiaoyu Streak** | **Wang Xinghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | B+R | 7.5 | 6:4 | 2 | 0 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | W+R | 7.5 | 5:4 | 1 | 0 | 

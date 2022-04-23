@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Jiang Weijie** | **Fan Yin streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Jiang Weijie** | **Fan Yin Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Jiang Weijie | Fan Yin | W+R | 7.5 | 3:2 | 1 | 0 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Fan Yin | Jiang Weijie | W+R | 7.5 | 2:2 | 0 | 1 | 

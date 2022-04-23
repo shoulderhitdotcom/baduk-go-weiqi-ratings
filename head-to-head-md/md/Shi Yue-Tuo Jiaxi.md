@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Tuo Jiaxi** | **Shi Yue streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tuo Jiaxi** | **Shi Yue Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Shi Yue | Tuo Jiaxi | W+R | 7.5 | 3:9 | 0 | 2 | 
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦順位決定戦 | Tuo Jiaxi | Shi Yue | B+R | 7.5 | 4:12 | 0 | 2 | 

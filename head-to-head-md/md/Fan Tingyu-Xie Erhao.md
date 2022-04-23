@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Xie Erhao** | **Fan Tingyu streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Xie Erhao** | **Fan Tingyu Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | B+R | 7.5 | 0:3 | 0 | 3 | 
 | 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Xie Erhao | Fan Tingyu | W+R | 7.5 | 1:3 | 1 | 0 | 

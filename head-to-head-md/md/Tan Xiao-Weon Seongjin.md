@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Weon Seongjin** | **Tan Xiao streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Weon Seongjin** | **Tan Xiao Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Weon Seongjin | Tan Xiao | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Weon Seongjin | Tan Xiao | B+R | 6.5 | 2:1 | 0 | 1 | 

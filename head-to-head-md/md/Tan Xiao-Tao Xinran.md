@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Tao Xinran** | **Tan Xiao streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Tao Xinran** | **Tan Xiao Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tao Xinran | Tan Xiao | W+1.5 | 6.5 | 6:5 | 1 | 0 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Tan Xiao | B+1¾ | 7.5 | 5:5 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yang Dingxin vs Zhao Chenyu** | **Yang Dingxin streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yang Dingxin Vs Zhao Chenyu** | **Yang Dingxin Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | W+R | 7.5 | 3:1 | 2 | 0 | 
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Yang Dingxin | Zhao Chenyu | W+R | 7.5 | 3:2 | 0 | 1 | 

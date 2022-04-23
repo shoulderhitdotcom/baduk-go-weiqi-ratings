@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Zhao Chenyu** | **Liao Yuanhe streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Zhao Chenyu** | **Liao Yuanhe Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Liao Yuanhe | Zhao Chenyu | W+R | 7.5 | 0:1 | 0 | 1 | 
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Zhao Chenyu | Liao Yuanhe | B+R | 7.5 | 0:2 | 0 | 2 | 

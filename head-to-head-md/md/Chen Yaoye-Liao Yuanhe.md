@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Liao Yuanhe** | **Chen Yaoye streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Liao Yuanhe** | **Chen Yaoye Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Chen Yaoye | W+3¼ | 7.5 | 3:0 | 3 | 0 | 
 | 2019-08-05 | 第6回国手山脈国際囲碁大会世界プロ最強戦決勝 | Liao Yuanhe | Chen Yaoye | W+R | 6.5 | 5:0 | 5 | 0 | 

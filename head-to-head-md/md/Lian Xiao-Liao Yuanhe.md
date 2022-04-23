@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Liao Yuanhe** | **Lian Xiao streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Liao Yuanhe** | **Lian Xiao Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Lian Xiao | W+R | 7.5 | 4:0 | 4 | 0 | 

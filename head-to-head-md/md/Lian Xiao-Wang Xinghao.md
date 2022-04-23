@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Wang Xinghao** | **Lian Xiao streak** | **Wang Xinghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Wang Xinghao** | **Lian Xiao Streak** | **Wang Xinghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Wang Xinghao | Lian Xiao | W+R | 7.5 | 3:1 | 3 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Lian Xiao | W+R | 7.5 | 2:1 | 2 | 0 | 

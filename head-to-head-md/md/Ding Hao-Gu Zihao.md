@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Gu Zihao** | **Ding Hao streak** | **Gu Zihao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Gu Zihao** | **Ding Hao Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | B+R | 7.5 | 5:1 | 2 | 0 | 
 | 2021-12-30 | 第1回湾区杯中国囲碁大棋士戦決勝 | Ding Hao | Gu Zihao | B+R | 7.5 | 2:0 | 2 | 0 | 

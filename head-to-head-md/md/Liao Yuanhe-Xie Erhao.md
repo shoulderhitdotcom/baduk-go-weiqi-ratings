@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Xie Erhao** | **Liao Yuanhe streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Xie Erhao** | **Liao Yuanhe Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | B+¾ | 7.5 | 3:2 | 0 | 2 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節成都-天津 | Xie Erhao | Liao Yuanhe | B+R | 7.5 | 3:1 | 0 | 1 | 

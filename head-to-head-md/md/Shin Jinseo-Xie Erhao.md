@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Xie Erhao** | **Shin Jinseo streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Xie Erhao** | **Shin Jinseo Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Xie Erhao | Shin Jinseo | W+R | 6.5 | 4:0 | 4 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Mi Yuting** | **Gu Zihao streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Mi Yuting** | **Gu Zihao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Gu Zihao | Mi Yuting | B+R | 7.5 | 6:5 | 1 | 0 | 
 | 2021-12-21 | 第12期中国竜星戦決勝三番勝負第3局 | Mi Yuting | Gu Zihao | W+R | 7.5 | 3:3 | 1 | 0 | 

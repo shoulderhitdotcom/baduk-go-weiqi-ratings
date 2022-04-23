@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Tang Weixing** | **Ke Jie streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tang Weixing** | **Ke Jie Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ke Jie | Tang Weixing | B+R | 7.5 | 8:5 | 1 | 0 | 
 | 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Tang Weixing | W+R | 7.5 | 3:2 | 0 | 1 | 

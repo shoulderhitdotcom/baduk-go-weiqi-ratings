@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Mi Yuting** | **Liao Yuanhe streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Mi Yuting** | **Liao Yuanhe Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Mi Yuting | Liao Yuanhe | B+R | 7.5 | 1:10 | 0 | 1 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | B+R | 7.5 | 0:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Mi Yuting** | **Li Qincheng streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Mi Yuting** | **Li Qincheng Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | B+1¾ | 7.5 | 3:4 | 0 | 1 | 
 | 2019-09-11 | 第15期威孚房開杯棋王戦16強戦 | Li Qincheng | Mi Yuting | W+R | 7.5 | 1:3 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Shin Jinseo** | **Gu Zihao streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Shin Jinseo** | **Gu Zihao Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-11 | 第9回応氏杯世界選手権3回戦 | Gu Zihao | Shin Jinseo | W+R | 7.5 | 4:4 | 0 | 2 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Gu Zihao | Shin Jinseo | B+R | 7.5 | 4:2 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Tang Weixing** | **Tan Xiao streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Tang Weixing** | **Tan Xiao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | W+R | 7.5 | 7:5 | 1 | 0 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Tan Xiao | Tang Weixing | B+R | 7.5 | 6:4 | 1 | 0 | 

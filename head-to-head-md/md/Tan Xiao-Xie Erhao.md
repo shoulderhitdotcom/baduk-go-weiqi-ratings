@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Xie Erhao** | **Tan Xiao streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Xie Erhao** | **Tan Xiao Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tan Xiao | Xie Erhao | W+R | 7.5 | 3:3 | 0 | 2 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tan Xiao | B+¾ | 7.5 | 3:2 | 0 | 1 | 

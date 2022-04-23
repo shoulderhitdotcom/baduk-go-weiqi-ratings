@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Li Xuanhao** | **Li Weiqing streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Li Xuanhao** | **Li Weiqing Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-08-15 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Li Xuanhao | Li Weiqing | B+1.5 | 7.5 | 0:1 | 0 | 1 |
 

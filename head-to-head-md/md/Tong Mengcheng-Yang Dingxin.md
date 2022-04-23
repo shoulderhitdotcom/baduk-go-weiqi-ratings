@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Yang Dingxin** | **Tong Mengcheng streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Yang Dingxin** | **Tong Mengcheng Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tong Mengcheng | Yang Dingxin | W+R | 7.5 | 3:4 | 0 | 1 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | W+R | 7.5 | 3:5 | 0 | 2 | 

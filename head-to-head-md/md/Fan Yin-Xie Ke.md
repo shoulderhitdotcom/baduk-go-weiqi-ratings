@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Xie Ke** | **Fan Yin streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Xie Ke** | **Fan Yin Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Fan Yin | Xie Ke | W+R | 7.5 | 6:2 | 0 | 1 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | W+R | 7.5 | 2:0 | 2 | 0 | 

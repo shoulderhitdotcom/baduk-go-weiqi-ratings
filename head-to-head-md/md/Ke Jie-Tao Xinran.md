@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Tao Xinran** | **Ke Jie streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tao Xinran** | **Ke Jie Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | B+R | 7.5 | 3:2 | 2 | 0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Ke Jie | Tao Xinran | B+R | 7.5 | 4:3 | 1 | 0 | 

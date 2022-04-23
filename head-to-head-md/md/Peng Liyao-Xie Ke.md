@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Xie Ke** | **Peng Liyao streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Xie Ke** | **Peng Liyao Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Peng Liyao | Xie Ke | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Xie Ke | Peng Liyao | W+R | 7.5 | 1:1 | 1 | 0 | 

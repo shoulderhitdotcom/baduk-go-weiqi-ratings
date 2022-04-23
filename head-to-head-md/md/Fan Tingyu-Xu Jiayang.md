@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Xu Jiayang** | **Fan Tingyu streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Xu Jiayang** | **Fan Tingyu Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | W+R | 6.5 | 2:3 | 1 | 0 | 
 | 2019-06-19 | 嫘祖杯第32期中国囲棋名人戦準決勝 | Fan Tingyu | Xu Jiayang | W+R | 7.5 | 0:1 | 0 | 1 | 

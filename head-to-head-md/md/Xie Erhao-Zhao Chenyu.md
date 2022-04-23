@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Erhao vs Zhao Chenyu** | **Xie Erhao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Zhao Chenyu** | **Xie Erhao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xie Erhao | B+R | 7.5 | 2:3 | 0 | 1 | 
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Zhao Chenyu | B+R | 6.5 | 3:3 | 1 | 0 | 

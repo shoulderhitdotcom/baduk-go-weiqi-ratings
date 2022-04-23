@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Xie Ke** | **Tong Mengcheng streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Xie Ke** | **Tong Mengcheng Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Ke | Tong Mengcheng | W+¼ | 7.5 | 4:1 | 4 | 0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Xie Ke | B+R | 7.5 | 3:1 | 3 | 0 | 

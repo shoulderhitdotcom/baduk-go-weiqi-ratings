@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Yang Kaiwen** | **Ding Hao streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Yang Kaiwen** | **Ding Hao Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Yang Kaiwen | W+¼ | 7.5 | 1:1 | 0 | 1 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Ding Hao | Yang Kaiwen | B+3¾ | 7.5 | 1:0 | 1 | 0 | 

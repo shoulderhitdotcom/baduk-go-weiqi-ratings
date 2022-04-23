@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Mi Yuting** | **Fan Yin streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Mi Yuting** | **Fan Yin Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | W+1¼ | 7.5 | 0:1 | 0 | 1 | 
 | 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Fan Yin | Mi Yuting | W+R | 7.5 | 0:2 | 0 | 2 | 

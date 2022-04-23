@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Zhao Chenyu** | **Chen Yaoye streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Zhao Chenyu** | **Chen Yaoye Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-29 | 第25回三星火災杯中国一般枠予選 | Chen Yaoye | Zhao Chenyu | B+R | 6.5 | 2:1 | 2 | 0 | 
 | 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Chen Yaoye | W+R | 6.5 | 1:1 | 1 | 0 | 

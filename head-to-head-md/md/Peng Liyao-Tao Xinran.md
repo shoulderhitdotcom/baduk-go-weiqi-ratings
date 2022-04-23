@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Tao Xinran** | **Peng Liyao streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tao Xinran** | **Peng Liyao Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tao Xinran | W+R | 7.5 | 1:3 | 0 | 2 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Peng Liyao | Tao Xinran | W+¼ | 7.5 | 1:2 | 0 | 1 | 

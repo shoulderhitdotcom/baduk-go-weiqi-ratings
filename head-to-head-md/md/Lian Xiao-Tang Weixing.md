@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Tang Weixing** | **Lian Xiao streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tang Weixing** | **Lian Xiao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | B+R | 7.5 | 1:1 | 1 | 0 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tang Weixing | Lian Xiao | W+R | 6.5 | 5:3 | 2 | 0 | 

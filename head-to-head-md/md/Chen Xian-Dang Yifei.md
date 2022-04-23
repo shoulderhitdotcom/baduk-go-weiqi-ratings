@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Dang Yifei** | **Chen Xian streak** | **Dang Yifei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Dang Yifei** | **Chen Xian Streak** | **Dang Yifei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Chen Xian | Dang Yifei | W+1¼ | 7.5 | 1:4 | 0 | 2 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Dang Yifei | W+R | 7.5 | 1:3 | 0 | 1 | 

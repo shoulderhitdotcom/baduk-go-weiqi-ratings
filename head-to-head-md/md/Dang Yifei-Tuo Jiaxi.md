@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Tuo Jiaxi** | **Dang Yifei streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Tuo Jiaxi** | **Dang Yifei Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | B+¾ | 7.5 | 0:3 | 0 | 3 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Dang Yifei | Tuo Jiaxi | W+R | 7.5 | 0:6 | 0 | 6 | 

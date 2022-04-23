@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Shi Yue** | **Jiang Weijie streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Shi Yue** | **Jiang Weijie Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Jiang Weijie | Shi Yue | B+R | 7.5 | 9:12 | 3 | 0 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Shi Yue | Jiang Weijie | B+R | 7.5 | 6:12 | 0 | 5 | 

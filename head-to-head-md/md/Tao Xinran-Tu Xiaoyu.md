@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Tu Xiaoyu** | **Tao Xinran streak** | **Tu Xiaoyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Tu Xiaoyu** | **Tao Xinran Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | B+R | 7.5 | 2:2 | 1 | 0 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Tu Xiaoyu | Tao Xinran | B+R | 7.5 | 1:2 | 0 | 1 | 

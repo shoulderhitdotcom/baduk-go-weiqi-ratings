@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tang Weixing vs Tao Xinran** | **Tang Weixing streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Tao Xinran** | **Tang Weixing Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tang Weixing | Tao Xinran | B+2¾ | 7.5 | 5:2 | 2 | 0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Tao Xinran | Tang Weixing | B+3 | 7.5 | 7:3 | 0 | 1 | 

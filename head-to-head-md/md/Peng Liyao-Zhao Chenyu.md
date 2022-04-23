@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Zhao Chenyu** | **Peng Liyao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Zhao Chenyu** | **Peng Liyao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-21 | 第25回LG杯中国予選決勝 | Zhao Chenyu | Peng Liyao | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhao Chenyu | Peng Liyao | W+R | 7.5 | 2:1 | 1 | 0 | 

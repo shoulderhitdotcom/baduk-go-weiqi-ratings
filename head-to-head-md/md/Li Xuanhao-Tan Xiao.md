@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Tan Xiao** | **Li Xuanhao streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Tan Xiao** | **Li Xuanhao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-21 | 第14回春蘭杯中国予選 | Tan Xiao | Li Xuanhao | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Li Xuanhao | Tan Xiao | B+R | 7.5 | 1:1 | 1 | 0 | 

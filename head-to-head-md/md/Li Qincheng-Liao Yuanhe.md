@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Liao Yuanhe** | **Li Qincheng streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Liao Yuanhe** | **Li Qincheng Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | W+R | 7.5 | 2:4 | 1 | 0 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | B+R | 7.5 | 0:1 | 0 | 1 | 

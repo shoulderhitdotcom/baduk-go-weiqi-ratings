@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Li Qincheng** | **Fan Tingyu streak** | **Li Qincheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Li Qincheng** | **Fan Tingyu Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | W+R | 7.5 | 1:1 | 1 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | B+R | 7.5 | 5:4 | 3 | 0 | 

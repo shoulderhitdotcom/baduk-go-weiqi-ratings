@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Shin Jinseo** | **Ke Jie streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Shin Jinseo** | **Ke Jie Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-25 | 第23回農心辛ラーメン杯世界囲碁最強戦第13戦  | Ke Jie | Shin Jinseo | W+R | 6.5 | 5:5 | 0 | 1 | 
 | 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | W+3.5 | 6.5 | 8:7 | 0 | 1 | 

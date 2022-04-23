@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Peng Liyao** | **Chen Yaoye streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Peng Liyao** | **Chen Yaoye Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Chen Yaoye | Peng Liyao | W+R | 7.5 | 2:5 | 0 | 1 | 
 | 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Chen Yaoye | Peng Liyao | W+6.5 | 7.5 | 1:3 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Xu Jiayang** | **Tao Xinran streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Xu Jiayang** | **Tao Xinran Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Tao Xinran | W+R | 7.5 | 3:2 | 1 | 0 | 
 | 2018-08-06 | 第20回中国囲碁甲級リーグ第11節民生-江西 | Xu Jiayang | Tao Xinran | B+R | 7.5 | 2:2 | 0 | 1 | 

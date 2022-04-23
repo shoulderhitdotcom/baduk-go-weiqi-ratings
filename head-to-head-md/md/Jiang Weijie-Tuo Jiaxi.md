@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Tuo Jiaxi** | **Jiang Weijie streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Tuo Jiaxi** | **Jiang Weijie Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Tuo Jiaxi | Jiang Weijie | B+R | 7.5 | 1:4 | 0 | 2 | 
 | 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | B+R | 7.5 | 3:4 | 2 | 0 | 

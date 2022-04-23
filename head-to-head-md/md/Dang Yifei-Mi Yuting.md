@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Mi Yuting** | **Dang Yifei streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Mi Yuting** | **Dang Yifei Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Dang Yifei | W+¼ | 7.5 | 1:1 | 1 | 0 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Mi Yuting | Dang Yifei | W+R | 7.5 | 2:1 | 2 | 0 | 

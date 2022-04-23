@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tao Xinran** | **Mi Yuting streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tao Xinran** | **Mi Yuting Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Tao Xinran | B+R | 7.5 | 3:1 | 1 | 0 | 
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Mi Yuting | Tao Xinran | B+R | 7.5 | 6:1 | 4 | 0 | 

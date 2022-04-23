@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Li Xuanhao** | **Li Qincheng streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Li Xuanhao** | **Li Qincheng Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Li Xuanhao | Li Qincheng | W+R | 7.5 | 4:1 | 1 | 0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Li Qincheng | Li Xuanhao | W+R | 7.5 | 3:1 | 0 | 1 | 

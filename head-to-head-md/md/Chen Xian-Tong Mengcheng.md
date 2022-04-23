@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Tong Mengcheng** | **Chen Xian streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Tong Mengcheng** | **Chen Xian Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Xian | Tong Mengcheng | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Chen Xian | Tong Mengcheng | W+R | 7.5 | 0:1 | 0 | 1 | 

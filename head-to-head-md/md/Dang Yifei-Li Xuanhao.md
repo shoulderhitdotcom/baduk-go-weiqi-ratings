@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Li Xuanhao** | **Dang Yifei streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Li Xuanhao** | **Dang Yifei Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Dang Yifei | Li Xuanhao | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | W+R | 6.5 | 6:5 | 1 | 0 | 

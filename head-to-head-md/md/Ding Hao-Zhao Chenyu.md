@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Zhao Chenyu** | **Ding Hao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Zhao Chenyu** | **Ding Hao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Ding Hao | W+R | 7.5 | 2:2 | 1 | 0 | 
 | 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Ding Hao | Zhao Chenyu | W+R | 6.5 | 2:3 | 0 | 1 | 

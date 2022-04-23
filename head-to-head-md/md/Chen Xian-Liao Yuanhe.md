@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Liao Yuanhe** | **Chen Xian streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Liao Yuanhe** | **Chen Xian Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Chen Xian | Liao Yuanhe | W+¼ | 7.5 | 1:1 | 0 | 1 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Chen Xian | Liao Yuanhe | B+R | 7.5 | 2:1 | 1 | 0 | 

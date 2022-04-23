@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Shi Yue** | **Fan Yin streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Shi Yue** | **Fan Yin Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Shi Yue | W+¼ | 7.5 | 1:2 | 0 | 1 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Shi Yue | Fan Yin | W+R | 7.5 | 1:1 | 1 | 0 | 

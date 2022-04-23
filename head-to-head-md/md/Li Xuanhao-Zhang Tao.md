@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Zhang Tao** | **Li Xuanhao streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Zhang Tao** | **Li Xuanhao Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | B+1¾ | 7.5 | 4:1 | 3 | 0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Zhang Tao | Li Xuanhao | W+R | 7.5 | 2:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Tang Weixing** | **Liao Yuanhe streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Tang Weixing** | **Liao Yuanhe Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-09-02 | 第24回三星火災杯世界囲碁マスターズ準決勝 | Liao Yuanhe | Tang Weixing | W+R | 6.5 | 0:1 | 0 | 1 |
 

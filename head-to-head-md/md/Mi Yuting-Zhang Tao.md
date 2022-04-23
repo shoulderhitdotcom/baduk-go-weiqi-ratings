@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Zhang Tao** | **Mi Yuting streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Zhang Tao** | **Mi Yuting Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Zhang Tao | Mi Yuting | W+R | 7.5 | 3:5 | 1 | 0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mi Yuting | Zhang Tao | B+R | 7.5 | 1:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Gu Zihao** | **Chen Yaoye streak** | **Gu Zihao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Gu Zihao** | **Chen Yaoye Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Chen Yaoye | Gu Zihao | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Chen Yaoye | Gu Zihao | W+R | 7.5 | 4:7 | 0 | 1 | 

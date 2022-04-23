@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Shin Jinseo** | **Chen Yaoye streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Shin Jinseo** | **Chen Yaoye Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Shin Jinseo | Chen Yaoye | B+R | 6.5 | 3:3 | 0 | 1 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦準決勝 | Chen Yaoye | Shin Jinseo | B+R | 6.5 | 6:3 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Tuo Jiaxi** | **Peng Liyao streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tuo Jiaxi** | **Peng Liyao Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Tuo Jiaxi | Peng Liyao | W+R | 7.5 | 3:5 | 1 | 0 | 
 | 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Peng Liyao | Tuo Jiaxi | W+R | 7.5 | 2:5 | 0 | 1 | 

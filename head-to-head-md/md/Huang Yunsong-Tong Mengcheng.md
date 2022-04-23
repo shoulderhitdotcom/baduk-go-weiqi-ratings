@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Tong Mengcheng** | **Huang Yunsong streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Tong Mengcheng** | **Huang Yunsong Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Tong Mengcheng | Huang Yunsong | B+R | 7.5 | 1:4 | 0 | 3 | 
 | 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Huang Yunsong | Tong Mengcheng | B+R | 7.5 | 1:1 | 1 | 0 | 

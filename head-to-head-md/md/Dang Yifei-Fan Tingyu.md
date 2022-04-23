@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Fan Tingyu** | **Dang Yifei streak** | **Fan Tingyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Fan Tingyu** | **Dang Yifei Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Dang Yifei | W+¼ | 7.5 | 1:0 | 1 | 0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Fan Tingyu | Dang Yifei | B+R | 7.5 | 1:3 | 0 | 3 | 

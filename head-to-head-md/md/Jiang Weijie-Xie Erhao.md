@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Xie Erhao** | **Jiang Weijie streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Xie Erhao** | **Jiang Weijie Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Xie Erhao | Jiang Weijie | W+R | 7.5 | 5:2 | 2 | 0 | 
 | 2020-09-17 | 第22回農心杯中国選抜戦 | Jiang Weijie | Xie Erhao | B+R | 6.5 | 4:2 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Hamin vs Tan Xiao** | **Park Hamin streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Hamin Vs Tan Xiao** | **Park Hamin Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Park Hamin | Tan Xiao | W+R | 7.5 | 0:1 | 0 | 1 |
 

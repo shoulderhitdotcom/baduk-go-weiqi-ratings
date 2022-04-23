@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Tang Weixing** | **Shin Jinseo streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Tang Weixing** | **Shin Jinseo Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-15 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Shin Jinseo | Tang Weixing | B+R | 7.5 | 3:0 | 3 | 0 | 
 | 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | W+¼ | 7.5 | 2:0 | 2 | 0 | 

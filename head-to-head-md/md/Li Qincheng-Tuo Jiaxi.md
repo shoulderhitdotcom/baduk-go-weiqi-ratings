@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Tuo Jiaxi** | **Li Qincheng streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tuo Jiaxi** | **Li Qincheng Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | B+R | 7.5 | 4:7 | 0 | 3 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tuo Jiaxi | Li Qincheng | W+R | 6.5 | 6:7 | 2 | 0 | 

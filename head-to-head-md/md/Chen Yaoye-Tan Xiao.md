@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Tan Xiao** | **Chen Yaoye streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Tan Xiao** | **Chen Yaoye Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Chen Yaoye | Tan Xiao | W+R | 7.5 | 10:9 | 0 | 1 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Tan Xiao | Chen Yaoye | W+R | 7.5 | 5:6 | 1 | 0 | 

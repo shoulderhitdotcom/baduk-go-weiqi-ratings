@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Tan Xiao** | **Peng Liyao streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tan Xiao** | **Peng Liyao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | W+R | 6.5 | 5:3 | 4 | 0 | 
 | 2021-03-17 | 第35期中国囲碁天元戦予選 | Tan Xiao | Peng Liyao | W+R | 7.5 | 6:3 | 5 | 0 | 

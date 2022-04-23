@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Liao Yuanhe** | **Jiang Weijie streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Liao Yuanhe** | **Jiang Weijie Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jiang Weijie | W+R | 7.5 | 3:2 | 1 | 0 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Jiang Weijie | B+R | 7.5 | 2:2 | 0 | 1 | 

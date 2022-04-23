@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Weon Seongjin** | **Shi Yue streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Weon Seongjin** | **Shi Yue Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-05 | 第23回三星火災杯統合予選3回戦 | Weon Seongjin | Shi Yue | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2013-02-20 | 第17回LG杯世界棋王戦決勝三番勝負第2局 | Weon Seongjin | Shi Yue | W+R | 6.5 | 3:0 | 3 | 0 | 

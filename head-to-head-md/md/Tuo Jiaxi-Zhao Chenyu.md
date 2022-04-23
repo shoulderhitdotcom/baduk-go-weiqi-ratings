@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Zhao Chenyu** | **Tuo Jiaxi streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Zhao Chenyu** | **Tuo Jiaxi Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-07 | 第11期中国竜星戦Bブロック7回戦 | Tuo Jiaxi | Zhao Chenyu | W+R | 7.5 | 1:1 | 0 | 1 | 
 | 2018-05-14 | 第20回中国囲碁甲級リーグ第6節中信-江蘇 | Zhao Chenyu | Tuo Jiaxi | W+R | 7.5 | 3:2 | 1 | 0 | 

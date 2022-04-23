@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Xu Jiayang** | **Lian Xiao streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Xu Jiayang** | **Lian Xiao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-10 | 2022年アジア競技大会中国予選 | Xu Jiayang | Lian Xiao | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | B+R | 6.5 | 5:3 | 3 | 0 | 

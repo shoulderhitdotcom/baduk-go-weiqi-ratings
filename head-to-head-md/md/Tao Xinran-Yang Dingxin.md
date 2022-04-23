@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Yang Dingxin** | **Tao Xinran streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Yang Dingxin** | **Tao Xinran Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tao Xinran | Yang Dingxin | W+¼ | 7.5 | 2:8 | 0 | 1 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | W+R | 7.5 | 0:4 | 0 | 4 | 

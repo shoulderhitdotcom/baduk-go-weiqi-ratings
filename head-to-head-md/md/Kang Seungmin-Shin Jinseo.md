@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Seungmin vs Shin Jinseo** | **Kang Seungmin streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Shin Jinseo** | **Kang Seungmin Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2020-02-29 | 2019-2020韓国囲碁リーグプレーオフ第2戦第3局 | Shin Jinseo | Kang Seungmin | B+R | 6.5 | 0:3 | 0 | 3 | 

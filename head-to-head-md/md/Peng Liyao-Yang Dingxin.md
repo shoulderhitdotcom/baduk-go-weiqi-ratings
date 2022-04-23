@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Yang Dingxin** | **Peng Liyao streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Yang Dingxin** | **Peng Liyao Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-05-25 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Peng Liyao | Yang Dingxin | B+R | 7.5 | 5:1 | 1 | 0 | 
 | 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Dingxin | Peng Liyao | W+R | 7.5 | 4:0 | 4 | 0 | 

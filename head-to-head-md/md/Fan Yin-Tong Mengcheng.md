@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Tong Mengcheng** | **Fan Yin streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Tong Mengcheng** | **Fan Yin Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tong Mengcheng | Fan Yin | B+2.5 | 6.5 | 1:3 | 0 | 1 | 
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Fan Yin | W+R | 7.5 | 1:2 | 1 | 0 | 

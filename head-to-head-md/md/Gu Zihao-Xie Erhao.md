@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Xie Erhao** | **Gu Zihao streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Xie Erhao** | **Gu Zihao Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | B+R | 7.5 | 2:0 | 2 | 0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | B+R | 7.5 | 5:3 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Tong Mengcheng** | **Tao Xinran streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Tong Mengcheng** | **Tao Xinran Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tong Mengcheng | Tao Xinran | W+R | 6.5 | 5:4 | 4 | 0 | 
 | 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Tong Mengcheng | Tao Xinran | W+R | 7.5 | 4:4 | 3 | 0 | 

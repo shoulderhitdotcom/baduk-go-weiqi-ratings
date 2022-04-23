@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Tang Weixing** | **Fan Yin streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Tang Weixing** | **Fan Yin Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Fan Yin | Tang Weixing | B+R | 7.5 | 2:1 | 2 | 0 | 

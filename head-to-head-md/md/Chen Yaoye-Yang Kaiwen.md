@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Yang Kaiwen** | **Chen Yaoye streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Yang Kaiwen** | **Chen Yaoye Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | B+R | 7.5 | 2:3 | 0 | 2 | 

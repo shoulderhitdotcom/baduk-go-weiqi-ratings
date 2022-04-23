@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tang Weixing** | **Mi Yuting streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tang Weixing** | **Mi Yuting Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | B+R | 7.5 | 1:1 | 0 | 1 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tang Weixing | B+R | 7.5 | 11:3 | 8 | 0 | 

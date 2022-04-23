@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Zhang Tao** | **Li Weiqing streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Zhang Tao** | **Li Weiqing Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Li Weiqing | W+2¼ | 7.5 | 1:2 | 1 | 0 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Li Weiqing | W+R | 7.5 | 2:2 | 2 | 0 | 

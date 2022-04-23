@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Li Qincheng** | **Jiang Weijie streak** | **Li Qincheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Li Qincheng** | **Jiang Weijie Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | B+¾ | 7.5 | 3:5 | 0 | 1 | 
 | 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | W+R | 6.5 | 2:4 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Tong Mengcheng** | **Dang Yifei streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Tong Mengcheng** | **Dang Yifei Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tong Mengcheng | Dang Yifei | W+R | 7.5 | 8:2 | 3 | 0 | 
 | 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Dang Yifei | Tong Mengcheng | W+R | 6.5 | 5:2 | 0 | 1 | 

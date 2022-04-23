@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Zhao Chenyu** | **Shin Jinseo streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Zhao Chenyu** | **Shin Jinseo Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | B+R | 7.5 | 3:1 | 2 | 0 | 
 | 2021-01-12 | 第9回応氏杯世界選手権準決勝第2局 | Zhao Chenyu | Shin Jinseo | W+1 | 7.5 | 5:1 | 4 | 0 | 

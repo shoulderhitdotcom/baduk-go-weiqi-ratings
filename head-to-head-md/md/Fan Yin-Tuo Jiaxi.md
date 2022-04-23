@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Tuo Jiaxi** | **Fan Yin streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Tuo Jiaxi** | **Fan Yin Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Tuo Jiaxi | Fan Yin | B+R | 7.5 | 1:2 | 0 | 1 | 
 | 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Yin | Tuo Jiaxi | W+R | 7.5 | 1:3 | 0 | 2 | 

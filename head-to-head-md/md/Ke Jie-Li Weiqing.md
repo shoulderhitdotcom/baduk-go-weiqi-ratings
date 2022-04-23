@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Li Weiqing** | **Ke Jie streak** | **Li Weiqing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Li Weiqing** | **Ke Jie Streak** | **Li Weiqing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ke Jie | Li Weiqing | B+1¾ | 7.5 | 4:0 | 4 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ke Jie | Li Weiqing | B+R | 7.5 | 3:0 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Fan Tingyu** | **Chen Xian streak** | **Fan Tingyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Fan Tingyu** | **Chen Xian Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Chen Xian | W+R | 7.5 | 3:0 | 3 | 0 | 
 | 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Fan Tingyu | Chen Xian | W+R | 7.5 | 2:0 | 2 | 0 | 

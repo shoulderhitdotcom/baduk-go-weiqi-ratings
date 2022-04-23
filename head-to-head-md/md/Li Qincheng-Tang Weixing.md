@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Tang Weixing** | **Li Qincheng streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tang Weixing** | **Li Qincheng Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Li Qincheng | Tang Weixing | B+R | 7.5 | 3:3 | 1 | 0 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節蘇泊爾-天津 | Tang Weixing | Li Qincheng | B+R | 7.5 | 1:1 | 0 | 1 | 

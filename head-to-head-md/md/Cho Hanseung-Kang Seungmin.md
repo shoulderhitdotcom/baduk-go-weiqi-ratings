@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Kang Seungmin** | **Cho Hanseung streak** | **Kang Seungmin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Kang Seungmin** | **Cho Hanseung Streak** | **Kang Seungmin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第4局 | Cho Hanseung | Kang Seungmin | W+R | 6.5 | 2:1 | 0 | 1 | 
 | 2017-10-07 | 2017年韓国囲碁リーグ | Kang Seungmin | Cho Hanseung | W+3.5 | 6.5 | 2:0 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Shin Jinseo** | **Shi Yue streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Shin Jinseo** | **Shi Yue Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Shi Yue | Shin Jinseo | W+R | 6.5 | 0:7 | 0 | 7 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Shi Yue | Shin Jinseo | W+¼ | 7.5 | 0:6 | 0 | 6 | 

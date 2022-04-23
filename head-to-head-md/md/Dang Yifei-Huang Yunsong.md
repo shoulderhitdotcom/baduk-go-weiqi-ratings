@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Huang Yunsong** | **Dang Yifei streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Huang Yunsong** | **Dang Yifei Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | W+R | 6.5 | 1:3 | 1 | 0 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | W+¼ | 7.5 | 0:3 | 0 | 3 | 

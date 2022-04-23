@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Li Weiqing** | **Chen Xian streak** | **Li Weiqing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Li Weiqing** | **Chen Xian Streak** | **Li Weiqing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Xian | Li Weiqing | B+R | 7.5 | 2:4 | 1 | 0 | 
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Weiqing | Chen Xian | B+R | 7.5 | 1:4 | 0 | 3 | 

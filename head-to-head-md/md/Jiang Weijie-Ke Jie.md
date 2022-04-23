@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Ke Jie** | **Jiang Weijie streak** | **Ke Jie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Ke Jie** | **Jiang Weijie Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | B+R | 7.5 | 1:1 | 0 | 1 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Ke Jie | Jiang Weijie | W+R | 7.5 | 7:3 | 3 | 0 | 

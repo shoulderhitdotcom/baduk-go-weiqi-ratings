@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Tan Xiao** | **Dang Yifei streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Tan Xiao** | **Dang Yifei Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選3回戦 | Tan Xiao | Dang Yifei | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Dang Yifei | Tan Xiao | B+R | 7.5 | 1:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Zhang Tao** | **Fan Tingyu streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Zhang Tao** | **Fan Tingyu Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | B+R | 7.5 | 3:1 | 0 | 1 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Zhang Tao | B+R | 7.5 | 3:0 | 3 | 0 | 

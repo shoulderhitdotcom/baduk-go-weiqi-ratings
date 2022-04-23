@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Tang Weixing** | **Ding Hao streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Tang Weixing** | **Ding Hao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tang Weixing | Ding Hao | W+R | 7.5 | 6:2 | 1 | 0 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | B+R | 7.5 | 3:1 | 3 | 0 | 

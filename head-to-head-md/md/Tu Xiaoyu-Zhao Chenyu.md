@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tu Xiaoyu vs Zhao Chenyu** | **Tu Xiaoyu streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Zhao Chenyu** | **Tu Xiaoyu Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tu Xiaoyu | Zhao Chenyu | B+1¾ | 7.5 | 2:4 | 1 | 0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Tu Xiaoyu | Zhao Chenyu | W+R | 7.5 | 1:4 | 0 | 2 | 

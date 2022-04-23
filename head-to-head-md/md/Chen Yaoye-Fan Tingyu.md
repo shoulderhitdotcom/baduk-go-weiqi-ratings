@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Fan Tingyu** | **Chen Yaoye streak** | **Fan Tingyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Fan Tingyu** | **Chen Yaoye Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | W+R | 7.5 | 3:2 | 0 | 1 | 
 | 2019-03-09 | 第1回王中王囲棋争覇戦1回戦 | Fan Tingyu | Chen Yaoye | B+R | 7.5 | 7:3 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Gu Zihao** | **Chen Xian streak** | **Gu Zihao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Gu Zihao** | **Chen Xian Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Chen Xian | B+¾ | 7.5 | 0:1 | 0 | 1 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Chen Xian | Gu Zihao | W+R | 7.5 | 0:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Shi Yue** | **Ke Jie streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Shi Yue** | **Ke Jie Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-07 | 第5期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局 | Shi Yue | Ke Jie | W+R | 7.5 | 13:9 | 5 | 0 | 
 | 2021-07-05 | 第5期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Ke Jie | Shi Yue | B+R | 7.5 | 12:9 | 4 | 0 | 

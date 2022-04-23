@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Xu Jiayang** | **Dang Yifei streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Xu Jiayang** | **Dang Yifei Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | W+R | 7.5 | 2:3 | 0 | 1 | 
 | 2021-01-06 | 第8回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Dang Yifei | B+¾ | 7.5 | 2:5 | 0 | 3 | 

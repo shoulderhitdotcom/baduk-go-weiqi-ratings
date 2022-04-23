@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Jiang Weijie** | **Cho Hanseung streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Jiang Weijie** | **Cho Hanseung Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Cho Hanseung | Jiang Weijie | B+R | 7.5 | 2:2 | 1 | 0 | 
 | 2015-08-05 | 第20回三星火災杯統合予選決勝 | Jiang Weijie | Cho Hanseung | B+1.5 | 6.5 | 1:2 | 0 | 1 | 

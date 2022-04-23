@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Xu Jiayang** | **Chen Yaoye streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Xu Jiayang** | **Chen Yaoye Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Xu Jiayang | B+R | 7.5 | 1:1 | 1 | 0 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Yaoye | Xu Jiayang | W+R | 7.5 | 1:2 | 0 | 1 | 

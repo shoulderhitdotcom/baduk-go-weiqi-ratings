@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Park Hamin** | **Choi Jeong streak** | **Park Hamin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Park Hamin** | **Choi Jeong Streak** | **Park Hamin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-22 | 第22回農心杯韓国選抜戦 | Park Hamin | Choi Jeong | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2020-03-08 | 2019-2020韓国囲碁リーグ優勝決定戦第3戦第2局 | Park Hamin | Choi Jeong | B+R | 6.5 | 1:1 | 0 | 1 | 

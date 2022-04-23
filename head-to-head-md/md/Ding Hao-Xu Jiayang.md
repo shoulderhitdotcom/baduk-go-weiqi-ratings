@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Xu Jiayang** | **Ding Hao streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Xu Jiayang** | **Ding Hao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Xu Jiayang | Ding Hao | B+R | 7.5 | 2:3 | 0 | 2 | 
 | 2019-04-09 | 2019CCTV杯中国囲棋電視快棋戦決勝 | Xu Jiayang | Ding Hao | W+¼ | 7.5 | 1:1 | 1 | 0 | 

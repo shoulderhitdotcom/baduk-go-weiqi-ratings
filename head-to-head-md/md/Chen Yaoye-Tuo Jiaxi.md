@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Tuo Jiaxi** | **Chen Yaoye streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Tuo Jiaxi** | **Chen Yaoye Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Chen Yaoye | Tuo Jiaxi | B+R | 7.5 | 3:3 | 1 | 0 | 
 | 2018-07-22 | 弈決崆峒世界道教名山戦決勝 | Chen Yaoye | Tuo Jiaxi | B+R | 7.5 | 2:2 | 1 | 0 | 

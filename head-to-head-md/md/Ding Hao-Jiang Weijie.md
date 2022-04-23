@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Jiang Weijie** | **Ding Hao streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Jiang Weijie** | **Ding Hao Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Ding Hao | W+R | 7.5 | 3:1 | 1 | 0 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Weijie | Ding Hao | B+R | 7.5 | 2:1 | 0 | 1 | 

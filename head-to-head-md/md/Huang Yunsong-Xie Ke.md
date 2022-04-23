@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Xie Ke** | **Huang Yunsong streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Xie Ke** | **Huang Yunsong Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Yunsong | Xie Ke | W+R | 7.5 | 1:2 | 0 | 1 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Xie Ke | Huang Yunsong | W+R | 7.5 | 2:2 | 1 | 0 | 

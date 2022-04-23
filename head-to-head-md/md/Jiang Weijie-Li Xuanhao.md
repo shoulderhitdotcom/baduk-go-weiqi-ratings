@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Li Xuanhao** | **Jiang Weijie streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Li Xuanhao** | **Jiang Weijie Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Li Xuanhao | Jiang Weijie | B+2.5 | 6.5 | 3:3 | 0 | 1 | 
 | 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Jiang Weijie | Li Xuanhao | B+R | 7.5 | 1:0 | 1 | 0 | 

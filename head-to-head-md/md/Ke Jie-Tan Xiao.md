@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Tan Xiao** | **Ke Jie streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tan Xiao** | **Ke Jie Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-12-01 | 第7回衢州・爛柯杯中国囲棋冠軍戦決勝 | Ke Jie | Tan Xiao | W+R | 7.5 | 6:6 | 0 | 2 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Tan Xiao | Ke Jie | W+R | 7.5 | 5:4 | 1 | 0 | 

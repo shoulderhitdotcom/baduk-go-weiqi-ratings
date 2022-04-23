@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Tao Xinran** | **Dang Yifei streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Tao Xinran** | **Dang Yifei Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Dang Yifei | W+R | 7.5 | 2:0 | 2 | 0 | 

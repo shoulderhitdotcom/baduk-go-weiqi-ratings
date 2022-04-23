@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Huang Yunsong** | **Ding Hao streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Huang Yunsong** | **Ding Hao Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | W+R | 6.5 | 3:2 | 0 | 1 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | W+R | 7.5 | 2:0 | 2 | 0 | 

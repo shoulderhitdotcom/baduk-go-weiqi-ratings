@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Seungjoo vs Shin Jinseo** | **Han Seungjoo streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Seungjoo Vs Shin Jinseo** | **Han Seungjoo Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Han Seungjoo | B+R | 6.5 | 0:2 | 0 | 2 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Han Seungjoo | Shin Jinseo | W+R | 6.5 | 0:5 | 0 | 5 | 

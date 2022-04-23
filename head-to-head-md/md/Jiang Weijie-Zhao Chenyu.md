@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Zhao Chenyu** | **Jiang Weijie streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Zhao Chenyu** | **Jiang Weijie Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | W+R | 7.5 | 1:1 | 0 | 1 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Jiang Weijie | Zhao Chenyu | B+R | 7.5 | 3:1 | 2 | 0 | 

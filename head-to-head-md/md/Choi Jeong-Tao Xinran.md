@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Tao Xinran** | **Choi Jeong streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Tao Xinran** | **Choi Jeong Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦B2 | Tao Xinran | Choi Jeong | W+R | 6.5 | 1:0 | 1 | 0 |
 

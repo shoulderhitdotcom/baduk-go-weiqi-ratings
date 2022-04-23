@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Xie Erhao** | **Lian Xiao streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Xie Erhao** | **Lian Xiao Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Erhao | Lian Xiao | B+R | 7.5 | 1:3 | 0 | 3 | 
 | 2019-03-13 | 第1回王中王囲棋争覇戦敗者組決勝  | Lian Xiao | Xie Erhao | W+R | 7.5 | 1:2 | 0 | 2 | 

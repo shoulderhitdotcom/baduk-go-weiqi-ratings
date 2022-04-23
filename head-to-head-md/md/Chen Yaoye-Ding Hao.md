@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Ding Hao** | **Chen Yaoye streak** | **Ding Hao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Ding Hao** | **Chen Yaoye Streak** | **Ding Hao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | B+1¾ | 7.5 | 1:2 | 0 | 1 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Ding Hao | B+R | 7.5 | 2:2 | 1 | 0 | 

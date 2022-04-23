@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Shi Yue** | **Huang Yunsong streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Shi Yue** | **Huang Yunsong Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Shi Yue | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Shi Yue | Huang Yunsong | B+R | 7.5 | 0:2 | 0 | 2 | 

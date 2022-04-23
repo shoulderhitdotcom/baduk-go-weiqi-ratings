@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tan Xiao** | **Mi Yuting streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tan Xiao** | **Mi Yuting Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Mi Yuting | Tan Xiao | B+R | 7.5 | 4:4 | 1 | 0 | 
 | 2019-03-11 | 第1回王中王囲棋争覇戦敗者組2回戦 | Mi Yuting | Tan Xiao | W+R | 7.5 | 3:3 | 0 | 2 | 

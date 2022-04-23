@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Zhang Tao** | **Fan Yin streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Zhang Tao** | **Fan Yin Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | W+2¼ | 7.5 | 1:1 | 0 | 1 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhang Tao | Fan Yin | B+R | 7.5 | 3:2 | 0 | 1 | 

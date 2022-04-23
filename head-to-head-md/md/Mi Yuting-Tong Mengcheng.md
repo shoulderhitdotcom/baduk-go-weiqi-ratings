@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tong Mengcheng** | **Mi Yuting streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tong Mengcheng** | **Mi Yuting Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Tong Mengcheng | Mi Yuting | W+R | 7.5 | 7:0 | 7 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | W+R | 7.5 | 8:1 | 0 | 1 | 

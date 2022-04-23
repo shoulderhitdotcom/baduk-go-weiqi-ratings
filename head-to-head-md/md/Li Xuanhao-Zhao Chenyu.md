@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Zhao Chenyu** | **Li Xuanhao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Zhao Chenyu** | **Li Xuanhao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Li Xuanhao | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Li Xuanhao | Zhao Chenyu | B+R | 7.5 | 2:1 | 1 | 0 | 

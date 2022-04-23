@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Mi Yuting** | **Li Weiqing streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Mi Yuting** | **Li Weiqing Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Weiqing | Mi Yuting | W+R | 7.5 | 0:4 | 0 | 4 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Mi Yuting | Li Weiqing | B+R | 7.5 | 0:3 | 0 | 3 | 

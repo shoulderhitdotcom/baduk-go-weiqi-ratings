@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Peng Liyao** | **Liao Yuanhe streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Peng Liyao** | **Liao Yuanhe Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Peng Liyao | Liao Yuanhe | W+¼ | 7.5 | 3:1 | 3 | 0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Liao Yuanhe | Peng Liyao | B+R | 7.5 | 4:1 | 4 | 0 | 

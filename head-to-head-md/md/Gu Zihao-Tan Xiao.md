@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Tan Xiao** | **Gu Zihao streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Tan Xiao** | **Gu Zihao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Gu Zihao | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | W+R | 6.5 | 5:5 | 3 | 0 | 

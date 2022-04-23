@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Xie Erhao** | **Tao Xinran streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Xie Erhao** | **Tao Xinran Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | W+R | 7.5 | 3:6 | 1 | 0 | 
 | 2018-05-19 | 嫘祖杯第31回中国囲棋名人戦8強戦 | Tao Xinran | Xie Erhao | B+R | 7.5 | 2:0 | 2 | 0 | 

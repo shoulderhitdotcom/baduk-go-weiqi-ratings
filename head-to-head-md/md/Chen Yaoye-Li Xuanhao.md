@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Li Xuanhao** | **Chen Yaoye streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Li Xuanhao** | **Chen Yaoye Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Li Xuanhao | Chen Yaoye | B+¾ | 7.5 | 1:3 | 0 | 3 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Li Xuanhao | Chen Yaoye | B+R | 7.5 | 1:5 | 0 | 5 | 

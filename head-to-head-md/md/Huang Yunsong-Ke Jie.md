@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Ke Jie** | **Huang Yunsong streak** | **Ke Jie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Ke Jie** | **Huang Yunsong Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | W+R | 7.5 | 1:7 | 0 | 6 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Ke Jie | Huang Yunsong | B+R | 7.5 | 1:8 | 0 | 7 | 

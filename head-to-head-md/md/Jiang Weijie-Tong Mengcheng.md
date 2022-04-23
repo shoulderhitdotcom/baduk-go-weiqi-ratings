@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Tong Mengcheng** | **Jiang Weijie streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Tong Mengcheng** | **Jiang Weijie Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tong Mengcheng | B+R | 7.5 | 5:2 | 2 | 0 | 
 | 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Jiang Weijie | Tong Mengcheng | W+R | 7.5 | 5:4 | 0 | 2 | 

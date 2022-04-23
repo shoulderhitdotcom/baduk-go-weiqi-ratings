@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Lian Xiao** | **Li Qincheng streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Lian Xiao** | **Li Qincheng Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | W+R | 7.5 | 1:3 | 0 | 2 | 
 | 2018-05-06 | 第9期中国竜星戦Aブロック第9局 | Li Qincheng | Lian Xiao | W+R | 7.5 | 2:8 | 0 | 3 | 

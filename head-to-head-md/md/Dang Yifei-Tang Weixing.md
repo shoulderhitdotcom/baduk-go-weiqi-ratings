@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Tang Weixing** | **Dang Yifei streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Tang Weixing** | **Dang Yifei Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tang Weixing | Dang Yifei | W+R | 7.5 | 5:3 | 2 | 0 | 
 | 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Tang Weixing | Dang Yifei | W+R | 7.5 | 4:3 | 1 | 0 | 

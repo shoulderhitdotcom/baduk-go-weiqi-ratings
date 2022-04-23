@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Peng Liyao** | **Dang Yifei streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Peng Liyao** | **Dang Yifei Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Peng Liyao | Dang Yifei | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Peng Liyao | Dang Yifei | W+R | 7.5 | 2:1 | 2 | 0 | 

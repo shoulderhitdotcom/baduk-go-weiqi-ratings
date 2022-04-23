@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Xie Ke** | **Li Weiqing streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Xie Ke** | **Li Weiqing Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 | Li Weiqing | Xie Ke | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Xie Ke | Li Weiqing | B+R | 7.5 | 0:2 | 0 | 2 | 

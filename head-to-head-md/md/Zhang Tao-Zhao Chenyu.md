@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Zhang Tao vs Zhao Chenyu** | **Zhang Tao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Zhang Tao Vs Zhao Chenyu** | **Zhang Tao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Zhang Tao | Zhao Chenyu | B+R | 7.5 | 2:3 | 1 | 0 | 

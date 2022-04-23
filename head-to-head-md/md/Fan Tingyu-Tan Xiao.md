@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Tan Xiao** | **Fan Tingyu streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Tan Xiao** | **Fan Tingyu Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tan Xiao | Fan Tingyu | W+R | 6.5 | 13:4 | 5 | 0 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | B+R | 6.5 | 10:4 | 2 | 0 | 

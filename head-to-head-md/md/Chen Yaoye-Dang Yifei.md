@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Dang Yifei** | **Chen Yaoye streak** | **Dang Yifei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Dang Yifei** | **Chen Yaoye Streak** | **Dang Yifei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦8強戦 | Dang Yifei | Chen Yaoye | W+T | 7.5 | 4:3 | 1 | 0 | 
 | 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Dang Yifei | Chen Yaoye | B+R | 7.5 | 1:1 | 0 | 1 | 

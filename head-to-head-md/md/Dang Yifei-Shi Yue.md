@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Shi Yue** | **Dang Yifei streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Shi Yue** | **Dang Yifei Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-20 | 第2回巓峰夢想福特撼路者ラリー戦b6 | Shi Yue | Dang Yifei | B+¾ | 7.5 | 3:4 | 0 | 1 | 
 | 2018-06-15 | 第2回巓峰夢想福特撼路者ラリー戦b3 | Dang Yifei | Shi Yue | B+R | 7.5 | 3:3 | 1 | 0 | 

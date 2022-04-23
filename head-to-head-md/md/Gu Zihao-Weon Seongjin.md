@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Weon Seongjin** | **Gu Zihao streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Weon Seongjin** | **Gu Zihao Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Gu Zihao | Weon Seongjin | W+1.5 | 6.5 | 0:1 | 0 | 1 |
 

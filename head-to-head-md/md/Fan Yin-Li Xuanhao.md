@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Li Xuanhao** | **Fan Yin streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Li Xuanhao** | **Fan Yin Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Li Xuanhao | Fan Yin | W+R | 7.5 | 4:1 | 4 | 0 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Fan Yin | Li Xuanhao | W+R | 7.5 | 0:1 | 0 | 1 | 

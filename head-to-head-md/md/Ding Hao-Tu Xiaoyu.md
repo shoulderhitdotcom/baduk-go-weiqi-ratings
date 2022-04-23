@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Tu Xiaoyu** | **Ding Hao streak** | **Tu Xiaoyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Tu Xiaoyu** | **Ding Hao Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-19 | 第11期中国竜星戦Bブロック2回戦 | Ding Hao | Tu Xiaoyu | W+R | 7.5 | 0:1 | 0 | 1 |
 

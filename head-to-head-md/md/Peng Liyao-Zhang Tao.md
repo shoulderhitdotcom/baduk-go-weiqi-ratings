@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Zhang Tao** | **Peng Liyao streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Zhang Tao** | **Peng Liyao Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Zhang Tao | B+¾ | 7.5 | 4:7 | 1 | 0 | 
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Zhang Tao | Peng Liyao | B+R | 7.5 | 3:7 | 0 | 2 | 

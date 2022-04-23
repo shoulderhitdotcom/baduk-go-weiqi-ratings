@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Shin Jinseo** | **Huang Yunsong streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Shin Jinseo** | **Huang Yunsong Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | W+R | 6.5 | 2:2 | 2 | 0 | 
 | 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Shin Jinseo | Huang Yunsong | B+3.5 | 7.5 | 0:2 | 0 | 2 | 

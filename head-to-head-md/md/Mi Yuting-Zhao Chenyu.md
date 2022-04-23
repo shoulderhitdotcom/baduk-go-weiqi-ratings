@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Zhao Chenyu** | **Mi Yuting streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Zhao Chenyu** | **Mi Yuting Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Zhao Chenyu | W+R | 7.5 | 0:1 | 0 | 1 |
 

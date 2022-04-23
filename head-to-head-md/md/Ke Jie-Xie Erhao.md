@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Xie Erhao** | **Ke Jie streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Xie Erhao** | **Ke Jie Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | B+1¾ | 7.5 | 3:0 | 3 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xie Erhao | Ke Jie | W+¼ | 7.5 | 9:3 | 2 | 0 | 

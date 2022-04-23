@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Tong Mengcheng** | **Lian Xiao streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tong Mengcheng** | **Lian Xiao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Lian Xiao | W+R | 7.5 | 5:1 | 1 | 0 | 
 | 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Tong Mengcheng | Lian Xiao | B+R | 7.5 | 4:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Xu Jiayang** | **Tong Mengcheng streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Xu Jiayang** | **Tong Mengcheng Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-12 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Xu Jiayang | Tong Mengcheng | B+R | 7.5 | 0:4 | 0 | 4 | 
 | 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Xu Jiayang | Tong Mengcheng | B+R | 7.5 | 0:3 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Xie Erhao** | **Shi Yue streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Xie Erhao** | **Shi Yue Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Shi Yue | Xie Erhao | B+¾ | 7.5 | 4:2 | 3 | 0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Shi Yue | Xie Erhao | B+R | 7.5 | 3:2 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Tao Xinran** | **Li Xuanhao streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Tao Xinran** | **Li Xuanhao Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | B+R | 6.5 | 8:3 | 3 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Tao Xinran | B+1¾ | 7.5 | 7:3 | 2 | 0 | 

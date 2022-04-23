@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Mi Yuting** | **Ke Jie streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Mi Yuting** | **Ke Jie Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-02 | 第36期中国囲碁天元戦決勝 | Ke Jie | Mi Yuting | W+R | 7.5 | 9:6 | 0 | 1 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Ke Jie | B+R | 7.5 | 5:5 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Zhao Chenyu** | **Fan Yin streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Zhao Chenyu** | **Fan Yin Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhao Chenyu | W+R | 7.5 | 2:2 | 0 | 2 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Fan Yin | Zhao Chenyu | W+R | 7.5 | 2:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Tao Xinran** | **Lian Xiao streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tao Xinran** | **Lian Xiao Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Tao Xinran | Lian Xiao | W+R | 7.5 | 4:3 | 1 | 0 | 
 | 2015-05-01 | 第17回中国囲碁甲級リーグ第2節 | Tao Xinran | Lian Xiao | B+R | 7.5 | 3:3 | 0 | 2 | 

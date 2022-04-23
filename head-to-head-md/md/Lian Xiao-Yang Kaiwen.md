@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Yang Kaiwen** | **Lian Xiao streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Yang Kaiwen** | **Lian Xiao Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | B+R | 7.5 | 3:1 | 3 | 0 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | B+R | 7.5 | 2:1 | 2 | 0 | 

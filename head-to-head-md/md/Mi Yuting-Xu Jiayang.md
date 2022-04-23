@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Xu Jiayang** | **Mi Yuting streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Xu Jiayang** | **Mi Yuting Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-02 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第2局 | Mi Yuting | Xu Jiayang | B+R | 7.5 | 6:1 | 4 | 0 | 
 | 2020-12-31 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第1局 | Xu Jiayang | Mi Yuting | W+R | 7.5 | 5:1 | 3 | 0 | 

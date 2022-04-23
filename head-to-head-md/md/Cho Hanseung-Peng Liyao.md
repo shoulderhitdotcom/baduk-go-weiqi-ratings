@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Peng Liyao** | **Cho Hanseung streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Peng Liyao** | **Cho Hanseung Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Peng Liyao | Cho Hanseung | B+3.5 | 7.5 | 0:2 | 0 | 2 | 
 | 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Cho Hanseung | Peng Liyao | B+R | 7.5 | 1:2 | 1 | 0 | 

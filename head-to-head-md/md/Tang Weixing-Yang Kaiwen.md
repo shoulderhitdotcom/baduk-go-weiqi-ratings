@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tang Weixing vs Yang Kaiwen** | **Tang Weixing streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Yang Kaiwen** | **Tang Weixing Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tang Weixing | Yang Kaiwen | B+R | 7.5 | 3:0 | 3 | 0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tang Weixing | Yang Kaiwen | B+R | 7.5 | 2:0 | 2 | 0 | 

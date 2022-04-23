@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Tan Xiao** | **Ding Hao streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Tan Xiao** | **Ding Hao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | W+R | 7.5 | 1:1 | 1 | 0 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Ding Hao | Tan Xiao | W+R | 7.5 | 3:3 | 0 | 2 | 

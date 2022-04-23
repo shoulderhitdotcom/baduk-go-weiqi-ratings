@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Jiang Weijie** | **Gu Zihao streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Jiang Weijie** | **Gu Zihao Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | B+R | 7.5 | 7:2 | 5 | 0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Gu Zihao | W+R | 7.5 | 5:2 | 3 | 0 | 

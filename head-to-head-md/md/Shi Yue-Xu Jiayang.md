@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Xu Jiayang** | **Shi Yue streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Xu Jiayang** | **Shi Yue Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xu Jiayang | Shi Yue | W+R | 7.5 | 2:2 | 2 | 0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Xu Jiayang | W+R | 7.5 | 0:2 | 0 | 2 | 

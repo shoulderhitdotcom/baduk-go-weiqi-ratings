@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Tao Xinran** | **Jiang Weijie streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Tao Xinran** | **Jiang Weijie Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Tao Xinran | Jiang Weijie | B+R | 7.5 | 1:2 | 0 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tao Xinran | B+1¾ | 7.5 | 3:4 | 2 | 0 | 

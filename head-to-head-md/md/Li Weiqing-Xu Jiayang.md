@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Xu Jiayang** | **Li Weiqing streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Xu Jiayang** | **Li Weiqing Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-28 | 第15期威孚房開杯棋王戦8強戦 | Xu Jiayang | Li Weiqing | W+R | 7.5 | 1:1 | 1 | 0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Li Weiqing | Xu Jiayang | B+R | 7.5 | 2:2 | 1 | 0 | 

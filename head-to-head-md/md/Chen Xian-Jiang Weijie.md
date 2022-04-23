@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Jiang Weijie** | **Chen Xian streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Jiang Weijie** | **Chen Xian Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Xian | Jiang Weijie | B+R | 7.5 | 1:3 | 1 | 0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Jiang Weijie | Chen Xian | B+R | 7.5 | 0:3 | 0 | 3 | 

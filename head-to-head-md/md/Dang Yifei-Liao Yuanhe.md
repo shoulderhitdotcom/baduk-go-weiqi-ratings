@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Liao Yuanhe** | **Dang Yifei streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Liao Yuanhe** | **Dang Yifei Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Dang Yifei | B+R | 7.5 | 0:2 | 0 | 2 | 
 | 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Dang Yifei | Liao Yuanhe | W+R | 7.5 | 0:1 | 0 | 1 | 

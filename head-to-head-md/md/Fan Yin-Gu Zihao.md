@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Gu Zihao** | **Fan Yin streak** | **Gu Zihao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Gu Zihao** | **Fan Yin Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Gu Zihao | Fan Yin | W+R | 7.5 | 3:2 | 1 | 0 | 
 | 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | B+R | 7.5 | 0:1 | 0 | 1 | 

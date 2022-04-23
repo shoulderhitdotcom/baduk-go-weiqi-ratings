@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Shi Yue** | **Fan Tingyu streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Shi Yue** | **Fan Tingyu Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Shi Yue | Fan Tingyu | W+R | 7.5 | 3:5 | 1 | 0 | 
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Fan Tingyu | Shi Yue | W+R | 7.5 | 2:5 | 0 | 4 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Jiang Weijie** | **Chen Yaoye streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Jiang Weijie** | **Chen Yaoye Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Jiang Weijie | Chen Yaoye | B+¾ | 7.5 | 9:5 | 0 | 1 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Jiang Weijie | Chen Yaoye | B+¾ | 7.5 | 6:4 | 0 | 3 | 

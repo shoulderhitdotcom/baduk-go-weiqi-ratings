@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Zhang Tao** | **Shi Yue streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Zhang Tao** | **Shi Yue Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhang Tao | Shi Yue | W+R | 7.5 | 4:2 | 1 | 0 | 

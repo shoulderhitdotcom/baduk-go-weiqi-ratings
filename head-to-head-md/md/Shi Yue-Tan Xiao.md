@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Tan Xiao** | **Shi Yue streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tan Xiao** | **Shi Yue Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-25 | 第20回中国囲碁甲級リーグ第9節民生-重慶z | Tan Xiao | Shi Yue | W+R | 7.5 | 10:5 | 4 | 0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Shi Yue | Tan Xiao | B+R | 7.5 | 7:5 | 1 | 0 | 

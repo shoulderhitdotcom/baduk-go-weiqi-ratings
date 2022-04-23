@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Weon Seongjin** | **Chen Yaoye streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Weon Seongjin** | **Chen Yaoye Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Weon Seongjin | Chen Yaoye | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Chen Yaoye | Weon Seongjin | B+R | 7.5 | 2:0 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Tong Mengcheng** | **Chen Yaoye streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Tong Mengcheng** | **Chen Yaoye Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Yaoye | Tong Mengcheng | W+¼ | 7.5 | 3:2 | 0 | 1 | 
 | 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Tong Mengcheng | Chen Yaoye | B+R | 7.5 | 3:3 | 0 | 2 | 

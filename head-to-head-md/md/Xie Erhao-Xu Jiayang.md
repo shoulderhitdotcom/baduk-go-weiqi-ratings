@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Erhao vs Xu Jiayang** | **Xie Erhao streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Xu Jiayang** | **Xie Erhao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Xie Erhao | Xu Jiayang | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Xu Jiayang | Xie Erhao | B+R | 7.5 | 0:1 | 0 | 1 | 

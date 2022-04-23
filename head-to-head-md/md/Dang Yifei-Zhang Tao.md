@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Zhang Tao** | **Dang Yifei streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Zhang Tao** | **Dang Yifei Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | W+R | 7.5 | 3:2 | 3 | 0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Dang Yifei | Zhang Tao | B+R | 7.5 | 5:2 | 5 | 0 | 

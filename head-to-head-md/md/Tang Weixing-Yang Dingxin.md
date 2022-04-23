@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tang Weixing vs Yang Dingxin** | **Tang Weixing streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Yang Dingxin** | **Tang Weixing Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-26 | 第20回西南棋王戦準決勝 | Tang Weixing | Yang Dingxin | W+R | 7.5 | 6:7 | 0 | 1 | 
 | 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Tang Weixing | Yang Dingxin | B+R | 7.5 | 10:8 | 3 | 0 | 

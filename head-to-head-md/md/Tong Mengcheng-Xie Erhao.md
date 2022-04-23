@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Xie Erhao** | **Tong Mengcheng streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Xie Erhao** | **Tong Mengcheng Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tong Mengcheng | B+R | 7.5 | 5:6 | 0 | 3 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Xie Erhao | Tong Mengcheng | W+R | 7.5 | 3:1 | 1 | 0 | 

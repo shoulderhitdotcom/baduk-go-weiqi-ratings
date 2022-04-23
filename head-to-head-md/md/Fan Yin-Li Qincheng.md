@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Li Qincheng** | **Fan Yin streak** | **Li Qincheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Li Qincheng** | **Fan Yin Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Fan Yin | Li Qincheng | B+R | 7.5 | 2:0 | 2 | 0 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | B+R | 7.5 | 2:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Tan Xiao** | **Huang Yunsong streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Tan Xiao** | **Huang Yunsong Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | B+R | 7.5 | 6:0 | 6 | 0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Huang Yunsong | Tan Xiao | B+R | 7.5 | 5:0 | 5 | 0 | 

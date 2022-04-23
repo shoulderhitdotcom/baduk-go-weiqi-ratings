@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Erhao vs Xie Ke** | **Xie Erhao streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Xie Ke** | **Xie Erhao Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | W+1¼ | 7.5 | 3:0 | 3 | 0 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | B+1¾ | 7.5 | 4:0 | 4 | 0 | 

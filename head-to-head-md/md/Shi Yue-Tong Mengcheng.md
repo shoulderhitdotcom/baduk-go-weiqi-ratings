@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Tong Mengcheng** | **Shi Yue streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tong Mengcheng** | **Shi Yue Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Tong Mengcheng | Shi Yue | B+R | 7.5 | 2:4 | 0 | 2 | 
 | 2019-05-08 | 嫘祖杯第32期中国囲棋名人戦32強戦 | Tong Mengcheng | Shi Yue | B+R | 7.5 | 0:1 | 0 | 1 | 

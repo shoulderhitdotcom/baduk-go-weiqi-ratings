@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lian Xiao vs Tan Xiao** | **Lian Xiao streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tan Xiao** | **Lian Xiao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | W+R | 7.5 | 6:1 | 3 | 0 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Lian Xiao | Tan Xiao | W+R | 7.5 | 3:1 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Tong Mengcheng** | **Ke Jie streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tong Mengcheng** | **Ke Jie Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Ke Jie | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Ke Jie | Tong Mengcheng | B+R | 7.5 | 1:1 | 1 | 0 | 

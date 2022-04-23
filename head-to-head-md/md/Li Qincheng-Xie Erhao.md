@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Xie Erhao** | **Li Qincheng streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Xie Erhao** | **Li Qincheng Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Li Qincheng | Xie Erhao | B+R | 7.5 | 5:0 | 5 | 0 | 
 | 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Li Qincheng | Xie Erhao | B+R | 7.5 | 4:0 | 4 | 0 | 

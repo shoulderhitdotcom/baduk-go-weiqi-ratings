@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Mi Yuting** | **Chen Xian streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Mi Yuting** | **Chen Xian Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Mi Yuting | Chen Xian | B+R | 7.5 | 1:2 | 0 | 1 | 
 | 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Mi Yuting | Chen Xian | B+R | 7.5 | 0:1 | 0 | 1 | 

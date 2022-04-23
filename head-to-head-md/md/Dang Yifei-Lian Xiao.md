@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Lian Xiao** | **Dang Yifei streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Lian Xiao** | **Dang Yifei Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-01 | 第26回三星火災杯中国予選 | Dang Yifei | Lian Xiao | B+0.5 | 6.5 | 3:1 | 1 | 0 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Dang Yifei | Lian Xiao | W+R | 7.5 | 2:1 | 0 | 1 | 

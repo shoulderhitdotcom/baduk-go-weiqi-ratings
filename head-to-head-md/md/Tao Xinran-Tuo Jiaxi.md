@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Tuo Jiaxi** | **Tao Xinran streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Tuo Jiaxi** | **Tao Xinran Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Tuo Jiaxi | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Tuo Jiaxi | Tao Xinran | B+R | 7.5 | 2:5 | 0 | 5 | 

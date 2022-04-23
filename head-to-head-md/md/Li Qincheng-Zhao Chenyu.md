@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Zhao Chenyu** | **Li Qincheng streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Zhao Chenyu** | **Li Qincheng Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | W+R | 7.5 | 4:0 | 4 | 0 | 

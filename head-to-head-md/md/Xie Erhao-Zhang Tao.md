@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Erhao vs Zhang Tao** | **Xie Erhao streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Zhang Tao** | **Xie Erhao Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Xie Erhao | Zhang Tao | B+R | 7.5 | 2:2 | 1 | 0 | 
 | 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Xie Erhao | Zhang Tao | W+R | 7.5 | 1:2 | 0 | 2 | 

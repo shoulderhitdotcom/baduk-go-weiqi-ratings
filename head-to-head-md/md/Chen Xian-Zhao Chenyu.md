@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Zhao Chenyu** | **Chen Xian streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Zhao Chenyu** | **Chen Xian Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Chen Xian | Zhao Chenyu | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2015-07-19 | 2015年中国段位戦 | Zhao Chenyu | Chen Xian | B+1.5 | 7.5 | 0:1 | 0 | 1 | 

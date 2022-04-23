@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Xu Jiayang** | **Peng Liyao streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Xu Jiayang** | **Peng Liyao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Xu Jiayang | Peng Liyao | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Peng Liyao | Xu Jiayang | B+R | 7.5 | 1:1 | 1 | 0 | 

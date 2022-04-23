@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Tan Xiao** | **Li Qincheng streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tan Xiao** | **Li Qincheng Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Li Qincheng | Tan Xiao | W+R | 7.5 | 1:4 | 0 | 2 | 
 | 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Tan Xiao | Li Qincheng | B+R | 7.5 | 1:3 | 0 | 1 | 

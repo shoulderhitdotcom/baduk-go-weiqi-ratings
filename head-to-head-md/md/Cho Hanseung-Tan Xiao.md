@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Tan Xiao** | **Cho Hanseung streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Tan Xiao** | **Cho Hanseung Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-04-06 | 第24回LG杯統合予選決勝 | Tan Xiao | Cho Hanseung | B+R | 6.5 | 1:3 | 0 | 2 | 
 | 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Cho Hanseung | Tan Xiao | W+0.5 | 7.5 | 1:2 | 0 | 1 | 

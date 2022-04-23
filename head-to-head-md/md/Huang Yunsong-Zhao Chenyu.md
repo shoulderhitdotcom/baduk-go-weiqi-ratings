@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Zhao Chenyu** | **Huang Yunsong streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Zhao Chenyu** | **Huang Yunsong Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-01 | 第7回国手山脈国際囲碁大会中国予選 | Zhao Chenyu | Huang Yunsong | W+R | 6.5 | 2:1 | 1 | 0 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | W+R | 6.5 | 1:1 | 0 | 1 | 

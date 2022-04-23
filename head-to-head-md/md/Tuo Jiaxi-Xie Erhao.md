@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Xie Erhao** | **Tuo Jiaxi streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Xie Erhao** | **Tuo Jiaxi Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | W+R | 7.5 | 0:5 | 0 | 5 | 

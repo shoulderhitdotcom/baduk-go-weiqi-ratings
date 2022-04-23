@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Peng Liyao** | **Li Qincheng streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Peng Liyao** | **Li Qincheng Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Peng Liyao | Li Qincheng | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Peng Liyao | Li Qincheng | B+R | 7.5 | 0:1 | 0 | 1 | 

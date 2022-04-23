@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Shi Yue** | **Ding Hao streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Shi Yue** | **Ding Hao Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Ding Hao | Shi Yue | B+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Shi Yue | Ding Hao | B+R | 7.5 | 1:2 | 0 | 2 | 

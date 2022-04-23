@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Zhang Tao** | **Tuo Jiaxi streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Zhang Tao** | **Tuo Jiaxi Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Zhang Tao | Tuo Jiaxi | W+R | 7.5 | 4:3 | 3 | 0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhang Tao | Tuo Jiaxi | W+R | 7.5 | 3:3 | 2 | 0 | 

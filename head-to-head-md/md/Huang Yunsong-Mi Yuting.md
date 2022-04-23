@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Mi Yuting** | **Huang Yunsong streak** | **Mi Yuting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Mi Yuting** | **Huang Yunsong Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Mi Yuting | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | B+R | 7.5 | 1:4 | 0 | 1 | 

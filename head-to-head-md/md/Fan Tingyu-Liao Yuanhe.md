@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Liao Yuanhe** | **Fan Tingyu streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Liao Yuanhe** | **Fan Tingyu Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Liao Yuanhe | B+R | 7.5 | 5:1 | 3 | 0 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Liao Yuanhe | B+R | 7.5 | 1:0 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Tan Xiao** | **Li Weiqing streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Tan Xiao** | **Li Weiqing Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tan Xiao | Li Weiqing | W+R | 6.5 | 3:3 | 1 | 0 | 

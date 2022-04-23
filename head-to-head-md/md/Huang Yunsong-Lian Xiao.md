@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Lian Xiao** | **Huang Yunsong streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Lian Xiao** | **Huang Yunsong Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Lian Xiao | W+R | 7.5 | 4:5 | 0 | 1 | 
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦準決勝 | Lian Xiao | Huang Yunsong | B+R | 7.5 | 4:7 | 0 | 3 | 

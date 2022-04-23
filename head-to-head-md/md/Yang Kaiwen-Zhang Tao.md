@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yang Kaiwen vs Zhang Tao** | **Yang Kaiwen streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yang Kaiwen Vs Zhang Tao** | **Yang Kaiwen Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Zhang Tao | Yang Kaiwen | W+1¼ | 7.5 | 2:2 | 2 | 0 | 
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Zhang Tao | B+1.5 | 7.5 | 1:2 | 1 | 0 | 

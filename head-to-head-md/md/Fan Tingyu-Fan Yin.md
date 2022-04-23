@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Fan Yin** | **Fan Tingyu streak** | **Fan Yin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Fan Yin** | **Fan Tingyu Streak** | **Fan Yin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | W+R | 6.5 | 1:1 | 0 | 1 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Fan Tingyu | Fan Yin | B+R | 7.5 | 2:1 | 1 | 0 | 

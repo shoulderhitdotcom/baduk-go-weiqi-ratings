@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Peng Liyao** | **Li Xuanhao streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Peng Liyao** | **Li Xuanhao Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Li Xuanhao | Peng Liyao | W+R | 7.5 | 1:2 | 0 | 2 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | W+R | 6.5 | 2:4 | 0 | 2 | 

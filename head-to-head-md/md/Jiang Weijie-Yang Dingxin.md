@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Yang Dingxin** | **Jiang Weijie streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Yang Dingxin** | **Jiang Weijie Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Yang Dingxin | W+R | 7.5 | 5:4 | 0 | 1 | 
 | 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Yang Dingxin | Jiang Weijie | B+R | 7.5 | 8:5 | 0 | 1 | 

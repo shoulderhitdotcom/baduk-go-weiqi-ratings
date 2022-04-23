@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tang Weixing vs Xie Erhao** | **Tang Weixing streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Xie Erhao** | **Tang Weixing Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Xie Erhao | Tang Weixing | B+R | 7.5 | 2:1 | 0 | 1 | 
 | 2017-05-10 | 第19期中国阿含桐山杯16強戦 | Tang Weixing | Xie Erhao | B+3.5 | 7.5 | 2:0 | 2 | 0 | 

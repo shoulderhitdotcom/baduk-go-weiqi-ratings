@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Yang Kaiwen** | **Tong Mengcheng streak** | **Yang Kaiwen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Yang Kaiwen** | **Tong Mengcheng Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-25 | 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Tong Mengcheng | Yang Kaiwen | W+R | 7.5 | 3:1 | 0 | 1 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | W+R | 7.5 | 3:0 | 3 | 0 | 

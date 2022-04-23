@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Xie Erhao** | **Dang Yifei streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Xie Erhao** | **Dang Yifei Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Dang Yifei | Xie Erhao | W+R | 7.5 | 0:4 | 0 | 4 | 
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Dang Yifei | Xie Erhao | W+R | 7.5 | 0:2 | 0 | 2 | 

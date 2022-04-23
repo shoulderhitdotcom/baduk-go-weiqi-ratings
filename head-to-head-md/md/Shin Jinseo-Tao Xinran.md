@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Jinseo vs Tao Xinran** | **Shin Jinseo streak** | **Tao Xinran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Tao Xinran** | **Shin Jinseo Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | B+R | 7.5 | 3:1 | 2 | 0 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tao Xinran | Shin Jinseo | W+3.5 | 6.5 | 4:1 | 3 | 0 | 

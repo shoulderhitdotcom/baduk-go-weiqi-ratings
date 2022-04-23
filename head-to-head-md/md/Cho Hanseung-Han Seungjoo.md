@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Han Seungjoo** | **Cho Hanseung streak** | **Han Seungjoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Han Seungjoo** | **Cho Hanseung Streak** | **Han Seungjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第5局 | Han Seungjoo | Cho Hanseung | W+R | 6.5 | 7:1 | 2 | 0 | 
 | 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Han Seungjoo | Cho Hanseung | W+R | 6.5 | 6:1 | 1 | 0 | 

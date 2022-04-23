@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Ke vs Zhao Chenyu** | **Xie Ke streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Ke Vs Zhao Chenyu** | **Xie Ke Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Xie Ke | W+R | 7.5 | 6:0 | 6 | 0 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhao Chenyu | B+R | 7.5 | 5:0 | 5 | 0 | 

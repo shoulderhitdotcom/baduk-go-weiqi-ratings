@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Shin Jinseo** | **Liao Yuanhe streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Shin Jinseo** | **Liao Yuanhe Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Shin Jinseo | Liao Yuanhe | B+R | 6.5 | 1:3 | 0 | 1 | 
 | 2019-09-01 | 第24回三星火災杯世界囲碁マスターズ3回戦 | Liao Yuanhe | Shin Jinseo | B+R | 6.5 | 1:2 | 1 | 0 | 

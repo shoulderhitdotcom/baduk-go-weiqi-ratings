@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Shi Yue** | **Li Xuanhao streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Shi Yue** | **Li Xuanhao Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Shi Yue | Li Xuanhao | W+R | 7.5 | 3:3 | 2 | 0 | 
 | 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Shi Yue | Li Xuanhao | B+R | 7.5 | 1:1 | 0 | 1 | 

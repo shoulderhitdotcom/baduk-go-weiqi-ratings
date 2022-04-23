@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Xie Ke** | **Chen Yaoye streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Xie Ke** | **Chen Yaoye Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-14 | 第25回LG杯中国予選 | Chen Yaoye | Xie Ke | W+6.5 | 6.5 | 2:2 | 0 | 2 | 
 | 2019-07-31 | 第21回農心杯中国選抜戦 | Chen Yaoye | Xie Ke | W+R | 6.5 | 2:1 | 0 | 1 | 

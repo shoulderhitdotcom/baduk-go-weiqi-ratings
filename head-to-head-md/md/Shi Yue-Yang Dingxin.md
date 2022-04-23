@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Yang Dingxin** | **Shi Yue streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Yang Dingxin** | **Shi Yue Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Yang Dingxin | Shi Yue | B+R | 7.5 | 0:1 | 0 | 1 | 
 | 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | W+R | 7.5 | 3:9 | 0 | 3 | 

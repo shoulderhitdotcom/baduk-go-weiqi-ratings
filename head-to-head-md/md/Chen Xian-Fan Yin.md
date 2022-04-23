@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Fan Yin** | **Chen Xian streak** | **Fan Yin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Fan Yin** | **Chen Xian Streak** | **Fan Yin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Xian | Fan Yin | B+R | 7.5 | 3:0 | 3 | 0 | 
 | 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Chen Xian | Fan Yin | B+¾ | 7.5 | 2:0 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Zhao Chenyu** | **Tan Xiao streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Zhao Chenyu** | **Tan Xiao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Zhao Chenyu | Tan Xiao | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦8強戦 | Zhao Chenyu | Tan Xiao | B+R | 7.5 | 2:2 | 0 | 1 | 

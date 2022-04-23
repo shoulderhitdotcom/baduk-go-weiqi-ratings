@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Huang Yunsong** | **Fan Yin streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Huang Yunsong** | **Fan Yin Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Fan Yin | Huang Yunsong | W+R | 7.5 | 1:2 | 0 | 1 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Fan Yin | W+R | 7.5 | 2:2 | 1 | 0 | 

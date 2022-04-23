@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Yang Dingxin** | **Li Weiqing streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Yang Dingxin** | **Li Weiqing Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | W+R | 7.5 | 2:1 | 1 | 0 | 

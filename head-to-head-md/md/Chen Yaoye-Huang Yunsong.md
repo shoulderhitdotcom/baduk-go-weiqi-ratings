@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Huang Yunsong** | **Chen Yaoye streak** | **Huang Yunsong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Huang Yunsong** | **Chen Yaoye Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Chen Yaoye | Huang Yunsong | B+R | 6.5 | 3:1 | 3 | 0 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Chen Yaoye | Huang Yunsong | B+R | 7.5 | 2:1 | 2 | 0 | 

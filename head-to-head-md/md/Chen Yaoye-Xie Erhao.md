@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Xie Erhao** | **Chen Yaoye streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Xie Erhao** | **Chen Yaoye Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | W+1¼ | 7.5 | 2:7 | 0 | 6 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Xie Erhao | B+R | 7.5 | 1:0 | 1 | 0 | 

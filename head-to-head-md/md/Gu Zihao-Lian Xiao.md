@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Lian Xiao** | **Gu Zihao streak** | **Lian Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Lian Xiao** | **Gu Zihao Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Gu Zihao | Lian Xiao | B+R | 7.5 | 5:3 | 2 | 0 | 
 | 2020-09-24 | 2020CCTV杯中国囲棋電視快棋戦決勝 | Lian Xiao | Gu Zihao | W+R | 7.5 | 2:0 | 2 | 0 | 

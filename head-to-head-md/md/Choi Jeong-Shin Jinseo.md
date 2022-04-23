@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Shin Jinseo** | **Choi Jeong streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Shin Jinseo** | **Choi Jeong Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-15 | 第3期韓国竜星戦32強戦 | Shin Jinseo | Choi Jeong | B+R | 6.5 | 0:4 | 0 | 4 | 
 | 2018-12-07 | 第2回クラウン・ヘテ杯1回戦 | Shin Jinseo | Choi Jeong | B+R | 6.5 | 0:3 | 0 | 3 | 

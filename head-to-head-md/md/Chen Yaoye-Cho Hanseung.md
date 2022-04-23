@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Cho Hanseung** | **Chen Yaoye streak** | **Cho Hanseung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Cho Hanseung** | **Chen Yaoye Streak** | **Cho Hanseung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Chen Yaoye | Cho Hanseung | B+R | 7.5 | 2:2 | 2 | 0 | 
 | 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Chen Yaoye | Cho Hanseung | B+R | 7.5 | 1:2 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Tong Mengcheng** | **Tan Xiao streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Tong Mengcheng** | **Tan Xiao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Tan Xiao | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tan Xiao | Tong Mengcheng | B+R | 7.5 | 5:3 | 3 | 0 | 

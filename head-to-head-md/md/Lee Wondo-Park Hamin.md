@@ -5,9 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Wondo vs Park Hamin** | **Lee Wondo streak** | **Park Hamin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Wondo Vs Park Hamin** | **Lee Wondo Streak** | **Park Hamin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-09-30 | 2017年フューチャーズリーグ | Park Hamin | Lee Wondo | W+R | 6.5 | 1:0 | 1 | 0 |
+| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Park Hamin | Lee Wondo | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2017-09-30 | 2017年フューチャーズリーグ | Park Hamin | Lee Wondo | W+R | 6.5 | 1:1 | 1 | 0 |
 
 
 

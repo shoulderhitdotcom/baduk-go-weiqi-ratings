@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Tan Xiao** | **Jiang Weijie streak** | **Tan Xiao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Tan Xiao** | **Jiang Weijie Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Tan Xiao | Jiang Weijie | B+R | 7.5 | 3:4 | 0 | 3 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tan Xiao | Jiang Weijie | W+R | 6.5 | 6:8 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Seungjoo vs Lee Wondo** | **Han Seungjoo streak** | **Lee Wondo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Seungjoo Vs Lee Wondo** | **Han Seungjoo Streak** | **Lee Wondo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-22 | 第25回LG杯韓国予選 | Lee Wondo | Han Seungjoo | B+R | 6.5 | 0:1 | 0 | 1 |
 

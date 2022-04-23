@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xie Ke vs Xu Jiayang** | **Xie Ke streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Ke Vs Xu Jiayang** | **Xie Ke Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Xu Jiayang | Xie Ke | W+R | 7.5 | 3:2 | 2 | 0 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Xu Jiayang | Xie Ke | W+R | 7.5 | 2:2 | 1 | 0 | 

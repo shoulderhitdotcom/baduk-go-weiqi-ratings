@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Seungmin vs Park Jinsol** | **Kang Seungmin streak** | **Park Jinsol streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Park Jinsol** | **Kang Seungmin Streak** | **Park Jinsol Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Park Jinsol | B+0.5 | 6.5 | 1:3 | 1 | 0 | 
 | 2018-02-08 | 第23期GSカルテックス杯プロ棋戦24強戦 | Kang Seungmin | Park Jinsol | W+R | 6.5 | 0:3 | 0 | 3 | 

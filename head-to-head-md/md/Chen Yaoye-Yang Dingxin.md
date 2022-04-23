@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Yang Dingxin** | **Chen Yaoye streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Yang Dingxin** | **Chen Yaoye Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Chen Yaoye | B+R | 7.5 | 4:5 | 0 | 1 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Chen Yaoye | W+R | 7.5 | 4:4 | 1 | 0 | 

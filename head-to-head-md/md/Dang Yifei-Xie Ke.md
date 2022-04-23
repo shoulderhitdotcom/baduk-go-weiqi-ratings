@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Xie Ke** | **Dang Yifei streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Xie Ke** | **Dang Yifei Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-31 | 第12期中国竜星戦予選 | Xie Ke | Dang Yifei | B+¾ | 7.5 | 0:1 | 0 | 1 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Xie Ke | Dang Yifei | B+R | 7.5 | 3:3 | 0 | 1 | 

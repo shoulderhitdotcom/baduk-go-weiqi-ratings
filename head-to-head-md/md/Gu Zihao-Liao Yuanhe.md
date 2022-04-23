@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Liao Yuanhe** | **Gu Zihao streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Liao Yuanhe** | **Gu Zihao Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-12-05 | 第14期威孚房開杯棋王戦決勝 | Liao Yuanhe | Gu Zihao | W+R | 7.5 | 1:0 | 1 | 0 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 | Liao Yuanhe | Gu Zihao | B+¾ | 7.5 | 1:1 | 0 | 1 | 

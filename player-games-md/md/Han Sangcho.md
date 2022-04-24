@@ -5,9 +5,8 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-19 | 第27回LG杯韓国予選 | Lee Hyeonjun | Han Sangcho | Lose | B+R | 6.5 | 3005 | missing |
+Error: LoadError: UndefVarError: countmoves not defined
+in expression starting at c:\weiqi\simulation\utils.jl:398
 
 
 

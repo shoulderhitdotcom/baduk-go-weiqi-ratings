@@ -5,8 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: countmoves not defined
-in expression starting at c:\weiqi\simulation\utils.jl:398
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Park Hamin** | **Kang Seungmin Streak** | **Park Hamin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-04-10 | 2019年囲碁テレビ杯早碁戦64強戦 | Park Hamin | Kang Seungmin | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

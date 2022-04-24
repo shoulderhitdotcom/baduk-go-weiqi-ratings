@@ -5,8 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: countmoves not defined
-in expression starting at c:\weiqi\simulation\utils.jl:398
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Hamin Vs Shin Jinseo** | **Park Hamin Streak** | **Shin Jinseo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Shin Jinseo | Park Hamin | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2019-03-13 | 第2期韓国竜星戦32強戦-2 | Shin Jinseo | Park Hamin | B+2.5 | 6.5 | 0:2 | 0 | 2 |
 
 
 

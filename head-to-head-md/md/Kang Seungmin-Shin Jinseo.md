@@ -5,8 +5,12 @@
 
 
 
-Error: LoadError: UndefVarError: countmoves not defined
-in expression starting at c:\weiqi\simulation\utils.jl:398
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Shin Jinseo** | **Kang Seungmin Streak** | **Shin Jinseo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | W+R | 6.5 | 0:4 | 0 | 4 | 
+| 2020-02-29 | 2019-2020韓国囲碁リーグプレーオフ第2戦第3局 | Shin Jinseo | Kang Seungmin | B+R | 6.5 | 0:3 | 0 | 3 | 
+| 2020-02-28 | 2019-2020韓国囲碁リーグプレーオフ第1戦第2局 | Kang Seungmin | Shin Jinseo | W+R | 6.5 | 0:2 | 0 | 2 | 
+| 2016-07-31 | 2016年韓国囲碁リーグ第8節 | Shin Jinseo | Kang Seungmin | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

@@ -1,4 +1,4 @@
-## Chen Yaoye vs Shi Yue Head to head
+## Han Sangcho vs Kang Seungmin Head to head
 
 [Back to ranking](../../index.md)
 

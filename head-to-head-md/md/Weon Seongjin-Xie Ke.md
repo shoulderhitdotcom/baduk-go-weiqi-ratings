@@ -5,9 +5,8 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Weon Seongjin Vs Xie Ke** | **Weon Seongjin Streak** | **Xie Ke Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Weon Seongjin | Xie Ke | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: countmoves not defined
+in expression starting at c:\weiqi\simulation\utils.jl:398
 
 
 

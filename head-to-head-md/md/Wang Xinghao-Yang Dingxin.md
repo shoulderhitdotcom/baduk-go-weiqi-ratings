@@ -1,4 +1,4 @@
-## Chen Yaoye vs Shi Yue Head to head
+## Wang Xinghao vs Yang Dingxin Head to head
 
 [Back to ranking](../../index.md)
 

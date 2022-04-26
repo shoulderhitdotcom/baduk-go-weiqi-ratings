@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Moon Minjong** | **Chen Qirui streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Moon Minjong** | **Chen Qirui Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Moon Minjong | Chen Qirui | W+R | 6.5 | 1:0 | 1 | 0 |
 

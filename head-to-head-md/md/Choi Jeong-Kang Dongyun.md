@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Kang Dongyun** | **Choi Jeong streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kang Dongyun** | **Choi Jeong Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Kang Dongyun | Choi Jeong | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | B+R | 6.5 | 1:1 | 0 | 1 | 

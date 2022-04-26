@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Seol Hyunjun** | **Kang Dongyun streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Seol Hyunjun** | **Kang Dongyun Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-02 | 2022YK建機杯予選 | Kang Dongyun | Seol Hyunjun | B+R | 6.5 | 2:4 | 1 | 0 | 
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | B+R | 6.5 | 1:3 | 1 | 0 | 

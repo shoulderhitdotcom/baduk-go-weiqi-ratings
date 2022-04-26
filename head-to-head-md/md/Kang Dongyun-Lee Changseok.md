@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lee Changseok** | **Kang Dongyun streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Changseok** | **Kang Dongyun Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | W+R | 6.5 | 5:1 | 4 | 0 | 
 | 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | W+R | 6.5 | 5:2 | 0 | 1 | 

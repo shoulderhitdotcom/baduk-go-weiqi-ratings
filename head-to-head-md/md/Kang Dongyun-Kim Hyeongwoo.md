@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Kim Hyeongwoo** | **Kang Dongyun streak** | **Kim Hyeongwoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Kim Hyeongwoo** | **Kang Dongyun Streak** | **Kim Hyeongwoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-02 | 第4期韓国竜星戦予選 | Kang Dongyun | Kim Hyeongwoo | B+4.5 | 6.5 | 4:1 | 1 | 0 | 
 | 2013-04-12 | 第9期物価情報杯プロ棋戦予選 | Kang Dongyun | Kim Hyeongwoo | W+2.5 | 6.5 | 5:2 | 0 | 1 | 

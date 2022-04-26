@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Lin Shixun** | **Kim Jiseok streak** | **Lin Shixun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Lin Shixun** | **Kim Jiseok Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Kim Jiseok | Lin Shixun | B+R | 7.5 | 1:0 | 1 | 0 |
 

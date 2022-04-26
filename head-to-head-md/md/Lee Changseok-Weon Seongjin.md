@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Weon Seongjin** | **Lee Changseok streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Weon Seongjin** | **Lee Changseok Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Lee Changseok | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | B+R | 6.5 | 0:2 | 0 | 2 | 

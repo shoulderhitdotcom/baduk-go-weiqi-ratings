@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Weon Seongjin** | **Chen Qirui streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Weon Seongjin** | **Chen Qirui Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Weon Seongjin | Chen Qirui | B+R | 6.5 | 0:1 | 0 | 1 |
 

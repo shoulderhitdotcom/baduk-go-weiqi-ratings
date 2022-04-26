@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Moon Minjong** | **Kang Dongyun streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Moon Minjong** | **Kang Dongyun Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Dongyun | Moon Minjong | B+R | 6.5 | 1:0 | 1 | 0 |
 

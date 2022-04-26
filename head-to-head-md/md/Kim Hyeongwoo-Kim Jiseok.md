@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Hyeongwoo vs Kim Jiseok** | **Kim Hyeongwoo streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Hyeongwoo Vs Kim Jiseok** | **Kim Hyeongwoo Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2013-10-05 | 2013年韓国囲碁リーグ | Kim Jiseok | Kim Hyeongwoo | B+R | 6.5 | 0:3 | 0 | 3 | 

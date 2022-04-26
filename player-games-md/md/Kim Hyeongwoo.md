@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第27回LG杯韓国予選 | Park Geunho | Kim Hyeongwoo | Lose | B+R | 6.5 | 3185 | 9 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Lee Changseok | Kim Hyeongwoo | Win | W+R | 6.5 | 3176 | 63 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Jeong | Lose | W+R | 6.5 | 3113 | -28 | 
 | 2022-03-24 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Hyeongwoo | Lose | B+R | 6.5 | 3141 | -5 | 

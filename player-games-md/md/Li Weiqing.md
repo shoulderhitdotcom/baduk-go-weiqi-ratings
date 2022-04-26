@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Li Xuanhao | Li Weiqing | Lose | B+R | 7.5 | 3566 | -10 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yang Kaiwen | Win | B+R | 7.5 | 3576 | 10 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Win | B+R | 7.5 | 3566 | -3 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | Win | B+¾ | 7.5 | 3569 | 15 | 
@@ -22,12 +23,12 @@
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Win | W+R | 6.5 | 3594 | 12 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Lose | W+R | 7.5 | 3582 | -12 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ke Jie | Li Weiqing | Lose | B+R | 7.5 | 3594 | -14 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Lose | W+R | 7.5 | 3608 | -10 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tang Weixing | Win | B+R | 7.5 | 3618 | 2 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Lose | W+R | 7.5 | 3608 | -11 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tang Weixing | Win | B+R | 7.5 | 3619 | 3 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Weiqing | Win | W+R | 7.5 | 3616 | 5 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Li Weiqing | Gu Zihao | Win | B+R | 7.5 | 3611 | 21 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Xian | Li Weiqing | Lose | B+R | 7.5 | 3590 | -10 | 
-| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Niu Yutian | Li Weiqing | Win | W+R | 7.5 | 3600 | 2 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Li Weiqing | Gu Zihao | Win | B+R | 7.5 | 3611 | 20 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Xian | Li Weiqing | Lose | B+R | 7.5 | 3591 | -10 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Niu Yutian | Li Weiqing | Win | W+R | 7.5 | 3601 | 3 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Lose | W+R | 7.5 | 3598 | -12 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Guo Xinyi | Li Weiqing | Win | W+R | 7.5 | 3610 | -11 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | Win | W+R | 7.5 | 3621 | -3 | 

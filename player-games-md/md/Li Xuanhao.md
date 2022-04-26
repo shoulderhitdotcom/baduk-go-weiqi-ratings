@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Li Xuanhao | Li Weiqing | Win | B+R | 7.5 | 3589 | 7 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Peng Liyao | Li Xuanhao | Win | W+R | 7.5 | 3582 | 5 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | Win | W+R | 7.5 | 3577 | 17 | 
 | 2022-04-20 | 2022年アジア競技大会中国予選 | Li Xuanhao | Tuo Jiaxi | Lose | W+R | 7.5 | 3560 | -20 | 
@@ -14,12 +15,12 @@
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Yang Dingxin | Li Xuanhao | Lose | B+R | 7.5 | 3576 | -6 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Huang Yunsong | Li Xuanhao | Win | W+R | 7.5 | 3582 | 0 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Li Xuanhao | Xie Erhao | Win | B+R | 7.5 | 3582 | 14 | 
-| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Win | W+R | 7.5 | 3568 | 5 | 
-| 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3563 | -3 | 
+| 2022-04-12 | 2022年アジア競技大会中国予選 | Lian Xiao | Li Xuanhao | Win | W+R | 7.5 | 3568 | 4 | 
+| 2022-04-11 | 2022年アジア競技大会中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3564 | -2 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Li Xuanhao | Win | W+R | 7.5 | 3566 | 0 | 
-| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ryan Li | Li Xuanhao | Win | W+R | 7.5 | 3566 | 16 | 
-| 2022-02-23 | 第14回春蘭杯中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3550 | 11 | 
-| 2022-02-21 | 第14回春蘭杯中国予選 | Tan Xiao | Li Xuanhao | Win | W+R | 7.5 | 3539 | -16 | 
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ryan Li | Li Xuanhao | Win | W+R | 7.5 | 3566 | 15 | 
+| 2022-02-23 | 第14回春蘭杯中国予選 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3551 | 11 | 
+| 2022-02-21 | 第14回春蘭杯中国予選 | Tan Xiao | Li Xuanhao | Win | W+R | 7.5 | 3540 | -15 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Li Xuanhao | Chen Zijian | Lose | W+R | 7.5 | 3555 | -29 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Li Xuanhao | Win | W+R | 7.5 | 3584 | 8 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3576 | 13 | 
@@ -34,13 +35,13 @@
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3545 | 6 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Xuanhao | Lian Xiao | Win | B+R | 7.5 | 3539 | 10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Win | B+R | 7.5 | 3529 | -3 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Guo Xinyi | Win | B+R | 7.5 | 3532 | 3 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Win | B+1¾ | 7.5 | 3529 | 1 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Guo Xinyi | Win | B+R | 7.5 | 3532 | 2 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Win | B+1¾ | 7.5 | 3530 | 2 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Lose | B+R | 7.5 | 3528 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Xuanhao | Win | W+1¼ | 7.5 | 3537 | 4 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3533 | -11 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3544 | 0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3544 | 0 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3533 | -12 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3545 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3545 | 1 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Lose | B+R | 7.5 | 3544 | -11 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Win | W+R | 6.5 | 3555 | 20 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3535 | 6 | 

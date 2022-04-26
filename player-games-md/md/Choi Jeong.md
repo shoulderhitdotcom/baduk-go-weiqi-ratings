@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第27回LG杯韓国予選 | Cho Hanseung | Choi Jeong | Lose | B+R | 6.5 | 3345 | -7 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Choi Jeong |  | Win | B+R | 6.5 | 3352 | 3 | 
 | 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Choi Jeong | Cho Hanseung | Win | B+3.5 | 6.5 | 3349 | 6 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Choi Jeong | Choi Cheolhan | Win | B+R | 6.5 | 3343 | 11 | 

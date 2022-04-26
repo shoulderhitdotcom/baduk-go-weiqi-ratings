@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第27回LG杯韓国予選 | Lee Hyeonjun | Weon Seongjin | Win | W+R | 6.5 | 3492 | 1 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Weon Seongjin | Kim Jinhyu | Win | B+R | 6.5 | 3491 | 5 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 3486 | 5 | 
 | 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Cho Wankyu | Win | B+R | 6.5 | 3481 | 2 | 

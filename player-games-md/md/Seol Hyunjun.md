@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-26 | 第27回LG杯韓国予選 | Seol Hyunjun | Yun Chanhee | Win | B+R | 6.5 | 3455 | 6 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Seol Hyunjun | Hyun Yoobin | Win | B+R | 6.5 | 3449 | 4 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Kim Cheayoung | Seol Hyunjun | Win | W+R | 6.5 | 3445 | -7 | 
 | 2022-04-14 | 第27回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Choi Kyeongho | Lose | W+R | 6.5 | 3452 | -11 | 

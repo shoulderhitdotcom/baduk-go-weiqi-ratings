@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Shi Yue** | **Kim Jiseok streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Shi Yue** | **Kim Jiseok Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Kim Jiseok | W+R | 7.5 | 7:6 | 1 | 0 | 
 | 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Kim Jiseok | Shi Yue | W+R | 7.5 | 3:4 | 0 | 1 | 

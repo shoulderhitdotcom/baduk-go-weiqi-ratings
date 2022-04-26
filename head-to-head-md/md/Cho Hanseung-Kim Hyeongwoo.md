@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Kim Hyeongwoo** | **Cho Hanseung streak** | **Kim Hyeongwoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Kim Hyeongwoo** | **Cho Hanseung Streak** | **Kim Hyeongwoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Kim Hyeongwoo | B+4.5 | 6.5 | 4:0 | 4 | 0 | 
 | 2012-06-21 | 2012年韓国囲碁リーグ | Cho Hanseung | Kim Hyeongwoo | B+R | 6.5 | 3:0 | 3 | 0 | 

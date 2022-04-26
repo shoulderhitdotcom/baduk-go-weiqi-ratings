@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Geunho vs Seol Hyunjun** | **Park Geunho streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Geunho Vs Seol Hyunjun** | **Park Geunho Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Geunho | Seol Hyunjun | B+R | 7.5 | 2:1 | 2 | 0 | 
 | 2021-04-28 | 第26回LG杯韓国予選 | Park Geunho | Seol Hyunjun | B+R | 6.5 | 3:1 | 3 | 0 | 

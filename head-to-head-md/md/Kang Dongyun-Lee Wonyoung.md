@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lee Wonyoung** | **Kang Dongyun streak** | **Lee Wonyoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Wonyoung** | **Kang Dongyun Streak** | **Lee Wonyoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-22 | 2017年韓国囲碁リーグ | Kang Dongyun | Lee Wonyoung | W+R | 6.5 | 2:1 | 0 | 1 | 
 | 2015-07-05 | 2015年韓国囲碁リーグ | Lee Wonyoung | Kang Dongyun | W+R | 6.5 | 2:0 | 2 | 0 | 

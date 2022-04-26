@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Yeonghun vs Yun Chanhee** | **Park Yeonghun streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Yeonghun Vs Yun Chanhee** | **Park Yeonghun Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Park Yeonghun | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第3局 | Park Yeonghun | Yun Chanhee | B+0.5 | 6.5 | 3:0 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Weon Seongjin vs Yun Chanhee** | **Weon Seongjin streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Weon Seongjin Vs Yun Chanhee** | **Weon Seongjin Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | W+R | 6.5 | 4:3 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Yeonghun vs Weon Seongjin** | **Park Yeonghun streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Yeonghun Vs Weon Seongjin** | **Park Yeonghun Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | W+R | 6.5 | 4:2 | 3 | 0 | 
 | 2019-11-07 | 2019-2020韓国囲碁リーグ第6節第1試合第3局 | Park Yeonghun | Weon Seongjin | B+R | 6.5 | 3:2 | 2 | 0 | 

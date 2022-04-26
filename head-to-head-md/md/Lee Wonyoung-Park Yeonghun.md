@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Wonyoung vs Park Yeonghun** | **Lee Wonyoung streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Wonyoung Vs Park Yeonghun** | **Lee Wonyoung Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-09-03 | 2017年韓国囲碁リーグ | Lee Wonyoung | Park Yeonghun | B+R | 6.5 | 1:2 | 1 | 0 | 
 | 2017-06-01 | 2017年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | B+R | 6.5 | 0:2 | 0 | 2 | 

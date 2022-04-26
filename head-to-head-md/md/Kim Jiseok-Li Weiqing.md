@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Li Weiqing** | **Kim Jiseok streak** | **Li Weiqing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Li Weiqing** | **Kim Jiseok Streak** | **Li Weiqing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Weiqing | W+R | 7.5 | 2:1 | 0 | 1 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Weiqing | Kim Jiseok | W+R | 7.5 | 2:0 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Yun Chanhee** | **Kang Dongyun streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Yun Chanhee** | **Kang Dongyun Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Kang Dongyun | W+R | 6.5 | 7:1 | 5 | 0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kang Dongyun | W+R | 6.5 | 4:1 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Shi Yue** | **Kang Dongyun streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Shi Yue** | **Kang Dongyun Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Shi Yue | Kang Dongyun | B+R | 7.5 | 2:6 | 0 | 2 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Kang Dongyun | Shi Yue | W+R | 7.5 | 2:5 | 0 | 1 | 

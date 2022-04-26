@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Wonyoung vs Weon Seongjin** | **Lee Wonyoung streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Wonyoung Vs Weon Seongjin** | **Lee Wonyoung Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-02 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Lee Wonyoung | B+R | 7.5 | 1:5 | 0 | 5 | 
 | 2020-12-04 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | W+R | 6.5 | 1:4 | 0 | 4 | 

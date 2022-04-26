@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Park Yeonghun** | **Li Xuanhao streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Park Yeonghun** | **Li Xuanhao Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-11-20 | 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Li Xuanhao | Park Yeonghun | W+R | 7.5 | 0:2 | 0 | 2 | 
 | 2017-11-19 | 第3回夢百合杯世界オープン戦準決勝三番勝負第二局 | Li Xuanhao | Park Yeonghun | B+R | 7.5 | 1:2 | 1 | 0 | 

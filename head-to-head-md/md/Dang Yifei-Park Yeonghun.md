@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Park Yeonghun** | **Dang Yifei streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Park Yeonghun** | **Dang Yifei Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Dang Yifei | Park Yeonghun | B+R | 6.5 | 2:1 | 2 | 0 | 
 | 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | B+1.5 | 7.5 | 0:1 | 0 | 1 | 

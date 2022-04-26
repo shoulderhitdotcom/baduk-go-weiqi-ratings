@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Hamin vs Seol Hyunjun** | **Park Hamin streak** | **Seol Hyunjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Hamin Vs Seol Hyunjun** | **Park Hamin Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Hamin | Seol Hyunjun | B+R | 6.5 | 2:2 | 1 | 0 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Hamin | B+R | 6.5 | 1:2 | 0 | 2 | 

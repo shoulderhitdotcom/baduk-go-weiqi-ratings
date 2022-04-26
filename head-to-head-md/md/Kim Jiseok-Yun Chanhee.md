@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Yun Chanhee** | **Kim Jiseok streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Yun Chanhee** | **Kim Jiseok Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-09 | 第23期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Yun Chanhee | B+0.5 | 6.5 | 2:0 | 2 | 0 | 
 | 2016-05-20 | 2016年韓国囲碁リーグ第1節 | Kim Jiseok | Yun Chanhee | B+R | 6.5 | 1:0 | 1 | 0 | 

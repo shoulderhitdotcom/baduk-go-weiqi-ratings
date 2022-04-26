@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Kim Jiseok** | **Cho Hanseung streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Kim Jiseok** | **Cho Hanseung Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Cho Hanseung | Kim Jiseok | W+R | 6.5 | 1:4 | 0 | 4 | 
 | 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Kim Jiseok | Cho Hanseung | B+R | 6.5 | 1:3 | 0 | 3 | 

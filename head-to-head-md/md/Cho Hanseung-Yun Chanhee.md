@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Yun Chanhee** | **Cho Hanseung streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Yun Chanhee** | **Cho Hanseung Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-01 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Cho Hanseung | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | W+R | 6.5 | 2:2 | 1 | 0 | 

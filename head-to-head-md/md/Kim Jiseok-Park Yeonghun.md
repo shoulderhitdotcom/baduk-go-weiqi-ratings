@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Park Yeonghun** | **Kim Jiseok streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Park Yeonghun** | **Kim Jiseok Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | W+R | 6.5 | 5:4 | 1 | 0 | 
 | 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | W+R | 6.5 | 7:6 | 0 | 1 | 

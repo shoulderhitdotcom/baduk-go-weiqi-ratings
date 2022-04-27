@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Jeonga vs Park Jiyeon** | **Oh Jeonga streak** | **Park Jiyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Jeonga Vs Park Jiyeon** | **Oh Jeonga Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-20 | 第4回韓国女子囲碁リーグ第5節 | Oh Jeonga | Park Jiyeon | B+R | 6.5 | 6:4 | 3 | 0 | 
 | 2017-04-11 | 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Park Jiyeon | Oh Jeonga | W+R | 6.5 | 1:0 | 1 | 0 | 

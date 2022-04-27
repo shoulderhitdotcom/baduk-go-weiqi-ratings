@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shin Jinseo** | **Park Junghwan streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Shin Jinseo** | **Park Junghwan Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+R | 6.5 | 4:3 | 0 | 1 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 12:11 | 2 | 0 | 

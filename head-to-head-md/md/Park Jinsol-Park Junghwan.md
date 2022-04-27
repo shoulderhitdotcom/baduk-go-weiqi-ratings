@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Jinsol vs Park Junghwan** | **Park Jinsol streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Jinsol Vs Park Junghwan** | **Park Jinsol Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第3局 | Park Junghwan | Park Jinsol | W+R | 6.5 | 2:4 | 1 | 0 | 
 | 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Park Jinsol | Park Junghwan | W+R | 6.5 | 1:4 | 0 | 3 | 

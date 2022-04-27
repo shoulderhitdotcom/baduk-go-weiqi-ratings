@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Seungah vs Park Jiyeon** | **Cho Seungah streak** | **Park Jiyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Park Jiyeon** | **Cho Seungah Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 | Park Jiyeon | Cho Seungah | W+R | 6.5 | 1:0 | 1 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | W+T | 6.5 | 3:0 | 3 | 0 | 

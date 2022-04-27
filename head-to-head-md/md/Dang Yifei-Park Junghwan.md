@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Park Junghwan** | **Dang Yifei streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Park Junghwan** | **Dang Yifei Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Park Junghwan | Dang Yifei | B+0.5 | 6.5 | 1:5 | 0 | 2 | 
 | 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Dang Yifei | Park Junghwan | W+R | 6.5 | 1:4 | 0 | 1 | 

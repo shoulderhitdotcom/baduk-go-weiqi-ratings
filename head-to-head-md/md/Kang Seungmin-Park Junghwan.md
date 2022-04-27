@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Seungmin vs Park Junghwan** | **Kang Seungmin streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Park Junghwan** | **Kang Seungmin Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | W+R | 6.5 | 0:6 | 0 | 6 | 
 | 2020-04-10 | 第25期GSカルテックス杯プロ棋戦16強戦 | Park Junghwan | Kang Seungmin | B+R | 6.5 | 0:5 | 0 | 5 | 

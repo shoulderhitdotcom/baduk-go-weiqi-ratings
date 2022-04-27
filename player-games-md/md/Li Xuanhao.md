@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Li Xuanhao | Win | W+¼ | 7.5 | 3595 | 6 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Li Xuanhao | Li Weiqing | Win | B+R | 7.5 | 3589 | 7 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Peng Liyao | Li Xuanhao | Win | W+R | 7.5 | 3582 | 5 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | Win | W+R | 7.5 | 3577 | 17 | 

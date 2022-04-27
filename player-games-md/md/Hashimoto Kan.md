@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-09 | 第47期棋聖戦予選 | Hashimoto Kan | Kawamura Kazunori | Win | B+R | 6.5 | 2966.0 | 0.0 | 
 | 2022-01-26 | 第78期本因坊戦予選 | Hashimoto Kan |  | Lose | W+1.5 | 6.5 | 2966.0 | 0.0 | 

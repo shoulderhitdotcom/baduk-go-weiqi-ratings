@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Jinsol | Lose | B+R | 6.5 | 3435 | -16 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Park Yeonghun | Park Jinsol | Win | W+R | 6.5 | 3451 | 17 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Moon Minjong | Park Jinsol | Win | W+R | 6.5 | 3434 | 12 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3422 | -14 | 

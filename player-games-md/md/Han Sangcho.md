@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Han Sangcho | Lose | B+R | 6.5 | 2993 | -13 | 
-| 2022-04-19 | 第27回LG杯韓国予選 | Lee Hyeonjun | Han Sangcho | Lose | B+R | 6.5 | 3006 | missing |
+| 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Han Sangcho | Shin Jinseo | Lose | W+R | 6.5 | 3000 | 5 | 
+| 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Han Sangcho | Lose | B+R | 6.5 | 2995 | -13 | 
+| 2022-04-19 | 第27回LG杯韓国予選 | Lee Hyeonjun | Han Sangcho | Lose | B+R | 6.5 | 3008 | missing |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3598 | -10 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3608 | 21 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Dang Yifei | Liao Yuanhe | Win | B+R | 7.5 | 3587 | 12 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhao Chenyu | Dang Yifei | Win | W+¼ | 7.5 | 3575 | 1 | 

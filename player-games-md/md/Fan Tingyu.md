@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Win | B+R | 7.5 | 3637 | 8 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Wang Xinghao | Fan Tingyu | Win | W+¼ | 7.5 | 3629 | 6 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Lian Xiao | Win | B+¾ | 7.5 | 3623 | 4 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3619 | 14 | 

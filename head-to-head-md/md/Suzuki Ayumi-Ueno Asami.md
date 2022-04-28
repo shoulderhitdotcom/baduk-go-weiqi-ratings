@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Suzuki Ayumi vs Ueno Asami** | **Suzuki Ayumi streak** | **Ueno Asami streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Suzuki Ayumi Vs Ueno Asami** | **Suzuki Ayumi Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-04 | 第33期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | W+R | 6.5 | 4:6 | 0 | 2 | 
 | 2022-01-27 | 第25期女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | W+R | 6.5 | 3:4 | 0 | 3 | 

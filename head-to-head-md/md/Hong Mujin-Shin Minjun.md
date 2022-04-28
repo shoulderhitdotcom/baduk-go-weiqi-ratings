@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hong Mujin vs Shin Minjun** | **Hong Mujin streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hong Mujin Vs Shin Minjun** | **Hong Mujin Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | W+R | 6.5 | 2:1 | 2 | 0 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | W+R | 6.5 | 0:1 | 0 | 1 | 

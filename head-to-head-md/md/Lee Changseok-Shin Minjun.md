@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Shin Minjun** | **Lee Changseok streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Shin Minjun** | **Lee Changseok Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-12 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changseok | B+R | 6.5 | 1:7 | 0 | 4 | 
 | 2022-02-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Lee Changseok | Shin Minjun | W+R | 6.5 | 1:5 | 0 | 2 | 

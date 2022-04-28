@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Okuda Aya vs Suzuki Ayumi** | **Okuda Aya streak** | **Suzuki Ayumi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Okuda Aya Vs Suzuki Ayumi** | **Okuda Aya Streak** | **Suzuki Ayumi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-11 | 第69期王座戦予選 | Okuda Aya | Suzuki Ayumi | W+R | 6.5 | 6:6 | 0 | 2 | 
 | 2019-07-08 | 第38期女流本因坊戦3回戦 | Suzuki Ayumi | Okuda Aya | B+R | 6.5 | 6:5 | 0 | 1 | 

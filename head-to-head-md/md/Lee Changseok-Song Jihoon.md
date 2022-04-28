@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Song Jihoon** | **Lee Changseok streak** | **Song Jihoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Song Jihoon** | **Lee Changseok Streak** | **Song Jihoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Lee Changseok | Song Jihoon | W+R | 6.5 | 2:2 | 0 | 1 | 
 | 2020-02-02 | 第3回クラウン・ヘテ杯決勝三番勝負第3局 | Song Jihoon | Lee Changseok | B+R | 6.5 | 4:4 | 0 | 2 | 

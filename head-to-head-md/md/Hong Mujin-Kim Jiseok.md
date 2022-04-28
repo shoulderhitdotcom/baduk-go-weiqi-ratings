@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hong Mujin vs Kim Jiseok** | **Hong Mujin streak** | **Kim Jiseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hong Mujin Vs Kim Jiseok** | **Hong Mujin Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-02-19 | 第3回BCカード杯世界選手権2回戦 | Kim Jiseok | Hong Mujin | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第47期天元戦予選 | Kin En | Nyu Eiko | W+7.5 | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aa%2FtelcbRB4FSQVgaqbFOw%3D%3D) | 
 | 第2回SGW杯中庸戦予選 | Kin En | Matsumoto Takehisa | W+R | 2019-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCR5VZ6W6KFad7NEaSadSg%3D%3D) | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | Lose | W+R | 7.5 | 2742 | -11 | 
 | 2022-04-27 | 2022年アジア競技大会韓国予選 | Kim Eunji | Park Jiyeon | Lose | B+R | 7.5 | 2753 | 11 | 
 | 2022-04-11 | 第5回呉清源杯韓国予選 | Park Jiyeon | Kim Eunji | Lose | W+R | 7.5 | 2742 | 5 | 
 | 2022-04-07 | 第5回呉清源杯韓国予選 | Lee Minjin | Park Jiyeon | Win | W+2.5 | 7.5 | 2737 | 12 | 

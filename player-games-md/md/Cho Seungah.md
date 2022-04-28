@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 7.5 | 3110 | -3 | 
 | 2022-04-27 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Cho Seungah | Win | W+R | 7.5 | 3113 | 8 | 
 | 2022-04-06 | 2022湖畔杯世界女子覇王戦韓国予選 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3105 | 8 | 
 | 2022-02-17 | 第5期韓国竜星戦予選 | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3097 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-28 | 第78期本因坊戦予選 | Ishida Yoshio | Kawai Shoji | Lose | B+10.5 | 6.5 | missing | 0 | 
 | 2020-08-10 | 第3回SGW杯中庸戦予選 | Kawai Shoji | Kurotaki Masanori | Lose | W+R | 6.5 | missing | 0 | 

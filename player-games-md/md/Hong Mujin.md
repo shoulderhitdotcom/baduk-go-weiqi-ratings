@@ -18,10 +18,10 @@
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Win | B+R | 6.5 | 3397 | 1 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Lose | B+R | 6.5 | 3396 | -1 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Win | B+R | 6.5 | 3397 | 61 | 
-| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3336 | 39 | 
-| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3297 | 1 | 
-| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3296 | 46 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3250 | 134 | 
+| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3336 | 38 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3298 | 1 | 
+| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3297 | 46 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3251 | 135 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3116 | 100 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Lose | W+1.5 | 6.5 | 3016 | 11 | 
 | 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3005 | 1 | 

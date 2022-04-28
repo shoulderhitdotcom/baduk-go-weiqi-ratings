@@ -24,10 +24,10 @@
 | 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Nokyeong | Kim Eunji | Win | W+1.5 | 6.5 | 2853 | 27 | 
 | 2022-02-19 | 第5期韓国竜星戦予選 | Kim Eunji | Kim Hyoyoung | Win | B+R | 6.5 | 2826 | 21 | 
 | 2022-02-11 | 2022YK建機杯予選 | Kim Eunji | Lee Wonyoung | Win | B+1.5 | 6.5 | 2805 | 0 | 
-| 2022-02-11 | 2022YK建機杯予選 | Seol Hyunjun | Kim Eunji | Lose | B+R | 6.5 | 2805 | 206 | 
-| 2022-01-28 | 2022議政府国際新鋭団体戦韓国予選 | Kim Eunji |  | Win | B+R | 6.5 | 2599 | 127 | 
-| 2022-01-27 | 2022議政府国際新鋭団体戦韓国予選 | Kim Eunji |  | Win | B+6.5 | 6.5 | 2472 | 271 | 
-| 2022-01-25 | 2022MEDIHEALミレニアム女子最強戦1回戦 | Kim Hyoyoung | Kim Eunji | Lose | B+R | 6.5 | 2201 | missing |
+| 2022-02-11 | 2022YK建機杯予選 | Seol Hyunjun | Kim Eunji | Lose | B+R | 6.5 | 2805 | 205 | 
+| 2022-01-28 | 2022議政府国際新鋭団体戦韓国予選 | Kim Eunji |  | Win | B+R | 6.5 | 2600 | 127 | 
+| 2022-01-27 | 2022議政府国際新鋭団体戦韓国予選 | Kim Eunji |  | Win | B+6.5 | 6.5 | 2473 | 271 | 
+| 2022-01-25 | 2022MEDIHEALミレニアム女子最強戦1回戦 | Kim Hyoyoung | Kim Eunji | Lose | B+R | 6.5 | 2202 | missing |
 
 
 

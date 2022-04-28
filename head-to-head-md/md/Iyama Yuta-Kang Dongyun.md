@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Kang Dongyun** | **Iyama Yuta streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Kang Dongyun** | **Iyama Yuta Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Kang Dongyun | Iyama Yuta | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Iyama Yuta | Kang Dongyun | W+R | 6.5 | 0:2 | 0 | 2 | 

@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Park Jiyeon** | **Cho Seungah Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | W+R | 7.5 | 1:0 | 1 | 0 | 
-| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 | Park Jiyeon | Cho Seungah | W+R | 6.5 | 2:0 | 2 | 0 | 
+| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | W+R | 7.5 | 2:0 | 2 | 0 | 
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 | Park Jiyeon | Cho Seungah | W+R | 6.5 | 1:0 | 1 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | W+T | 6.5 | 4:0 | 4 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | W+R | 6.5 | 3:0 | 3 | 0 | 
 | 2020-09-16 | 第3回呉清源杯韓国予選 | Park Jiyeon | Cho Seungah | B+0.5 | 7.5 | 4:1 | 0 | 1 | 

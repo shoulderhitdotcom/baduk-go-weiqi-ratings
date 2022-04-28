@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Suzuki Ayumi** | **Iyama Yuta streak** | **Suzuki Ayumi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Suzuki Ayumi** | **Iyama Yuta Streak** | **Suzuki Ayumi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2005-04-07 | 第30期新人王戦2回戦 | Iyama Yuta | Suzuki Ayumi | B+R | 6.5 | 1:0 | 1 | 0 |
 

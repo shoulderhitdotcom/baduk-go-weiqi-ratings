@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Cho Seungah | Kim Eunji | Win | W+R | 7.5 | 3114 | 34 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Kim Eunji | Oh Jeonga | Win | B+R | 7.5 | 3080 | 23 | 
 | 2022-04-27 | 2022年アジア競技大会韓国予選 | Kim Eunji | Park Jiyeon | Win | B+R | 7.5 | 3057 | 11 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Moon Minjong | Kim Eunji | Lose | B+R | 6.5 | 3046 | -8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Park Geunho | Lee Jihyun | Win | W+R | 7.5 | 3354 | 44 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Kang Dongyun | Win | B+R | 7.5 | 3310 | 57 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Weon Seongjin | Lose | W+R | 7.5 | 3253 | -14 | 
 | 2022-04-08 | 2022年アジア競技大会韓国予選 | Lee Jihyun | An Sungjoon | Win | B+R | 7.5 | 3267 | 67 | 

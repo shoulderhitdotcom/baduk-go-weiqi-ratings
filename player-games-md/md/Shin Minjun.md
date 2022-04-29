@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Shin Minjun | Kang Dongyun | Win | B+R | 7.5 | 3523 | 5 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Shin Minjun | Kim Jiseok | Win | B+R | 7.5 | 3518 | -3 | 
 | 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Cho Hanseung | Shin Minjun | Win | W+R | 6.5 | 3521 | 1 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3520 | -4 | 

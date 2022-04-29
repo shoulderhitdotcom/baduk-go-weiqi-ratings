@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kim Jiseok | Win | W+R | 7.5 | 3541 | 5 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Shin Minjun | Kim Jiseok | Lose | B+R | 7.5 | 3536 | 2 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Lee Wonyoung | Kim Jiseok | Win | W+R | 6.5 | 3534 | 3 | 
 | 2022-04-25 | 第27回LG杯韓国予選 |  | Kim Jiseok | Win | W+R | 6.5 | 3531 | 2 | 

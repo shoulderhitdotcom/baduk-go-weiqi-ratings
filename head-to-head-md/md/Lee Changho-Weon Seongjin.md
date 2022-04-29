@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Weon Seongjin** | **Lee Changho streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Weon Seongjin** | **Lee Changho Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | W+14.5 | 6.5 | 1:5 | 0 | 1 | 
 | 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | W+2.5 | 6.5 | 1:4 | 1 | 0 | 

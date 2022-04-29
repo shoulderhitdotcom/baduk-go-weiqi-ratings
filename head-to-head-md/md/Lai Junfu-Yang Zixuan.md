@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Yang Zixuan** | **Lai Junfu streak** | **Yang Zixuan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Yang Zixuan** | **Lai Junfu Streak** | **Yang Zixuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-05 | 第8回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | W+R | 6.5 | 8:0 | 8 | 0 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Yang Zixuan | Lai Junfu | W+R | 6.5 | 9:0 | 9 | 0 | 

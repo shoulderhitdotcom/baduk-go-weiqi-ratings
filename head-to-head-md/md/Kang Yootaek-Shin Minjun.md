@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Yootaek vs Shin Minjun** | **Kang Yootaek streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Yootaek Vs Shin Minjun** | **Kang Yootaek Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-03-13 | 第2期韓国竜星戦32強戦-2 | Shin Minjun | Kang Yootaek | B+R | 6.5 | 0:4 | 0 | 4 | 
 | 2016-09-12 | 第3回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kang Yootaek | Shin Minjun | B+1.5 | 6.5 | 1:4 | 1 | 0 | 

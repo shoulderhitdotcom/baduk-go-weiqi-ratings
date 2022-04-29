@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Seungah vs Kim Hyeoimin** | **Cho Seungah streak** | **Kim Hyeoimin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Kim Hyeoimin** | **Cho Seungah Streak** | **Kim Hyeoimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | W+¼ | 7.5 | 6:3 | 4 | 0 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Hyeoimin | B+0.5 | 6.5 | 3:3 | 1 | 0 | 

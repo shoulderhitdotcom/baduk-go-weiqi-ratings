@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Kang Yootaek** | **Kang Dongyun streak** | **Kang Yootaek streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Kang Yootaek** | **Kang Dongyun Streak** | **Kang Yootaek Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | B+R | 6.5 | 3:1 | 0 | 1 | 
 | 2018-03-29 | 第1回韓国竜星戦32強ダブルエリミネーションE3 | Kang Dongyun | Kang Yootaek | B+R | 6.5 | 5:1 | 2 | 0 | 

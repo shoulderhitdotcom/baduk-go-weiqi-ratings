@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Kyubyeong vs Lee Changho** | **Choi Kyubyeong streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Kyubyeong Vs Lee Changho** | **Choi Kyubyeong Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-03 | 第25回三星火災杯韓国シニア枠予選 | Lee Changho | Choi Kyubyeong | B+1.5 | 6.5 | 0:3 | 0 | 3 | 
 | 2017-01-16 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Choi Kyubyeong | B+R | 6.5 | 0:2 | 0 | 2 | 

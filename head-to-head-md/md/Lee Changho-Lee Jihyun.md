@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Lee Jihyun** | **Lee Changho streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Lee Jihyun** | **Lee Changho Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第2局 | Lee Changho | Lee Jihyun | W+R | 6.5 | 2:3 | 0 | 2 | 
 | 2018-10-06 | 2018年韓国囲碁リーグ第14節 | Lee Changho | Lee Jihyun | B+R | 6.5 | 2:1 | 2 | 0 | 

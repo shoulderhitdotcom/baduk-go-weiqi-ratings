@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Xu Jingen** | **Lai Junfu streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Xu Jingen** | **Lai Junfu Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Jingen | B+R | 7.5 | 3:1 | 2 | 0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦  | Xu Jingen | Lai Junfu | W+R | 6.5 | 2:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Lee Changho** | **Kang Dongyun streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Changho** | **Kang Dongyun Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-01 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Lee Changho | B+R | 6.5 | 15:7 | 1 | 0 | 
 | 2018-08-02 | 2018年韓国囲碁リーグ第6節 | Kang Dongyun | Lee Changho | W+R | 6.5 | 8:2 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Shin Minjun** | **Lee Changho streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Shin Minjun** | **Lee Changho Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | W+R | 6.5 | 2:3 | 1 | 0 | 
 | 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Lee Changho | Shin Minjun | W+R | 6.5 | 1:3 | 0 | 1 | 

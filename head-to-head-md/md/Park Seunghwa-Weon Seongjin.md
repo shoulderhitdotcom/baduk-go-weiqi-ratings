@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Seunghwa vs Weon Seongjin** | **Park Seunghwa streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Seunghwa Vs Weon Seongjin** | **Park Seunghwa Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Weon Seongjin | W+1.5 | 6.5 | 1:1 | 0 | 1 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Weon Seongjin | Park Seunghwa | B+R | 7.5 | 1:3 | 0 | 3 | 

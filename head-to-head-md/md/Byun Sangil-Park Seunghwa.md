@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Park Seunghwa** | **Byun Sangil streak** | **Park Seunghwa streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Park Seunghwa** | **Byun Sangil Streak** | **Park Seunghwa Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Seunghwa | B+R | 6.5 | 2:1 | 1 | 0 | 
 | 2015-06-22 | 第34回KBS杯囲碁王戦2回戦 | Park Seunghwa | Byun Sangil | B+R | 6.5 | 2:2 | 0 | 1 | 

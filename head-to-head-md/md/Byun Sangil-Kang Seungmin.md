@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Kang Seungmin** | **Byun Sangil streak** | **Kang Seungmin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kang Seungmin** | **Byun Sangil Streak** | **Kang Seungmin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Byun Sangil | Kang Seungmin | W+R | 6.5 | 2:5 | 0 | 2 | 
 | 2021-04-06 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Seungmin | B+7.5 | 6.5 | 5:5 | 3 | 0 | 

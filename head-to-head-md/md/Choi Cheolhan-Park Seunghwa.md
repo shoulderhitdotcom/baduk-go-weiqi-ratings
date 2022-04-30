@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Park Seunghwa** | **Choi Cheolhan streak** | **Park Seunghwa streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Park Seunghwa** | **Choi Cheolhan Streak** | **Park Seunghwa Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | B+R | 6.5 | 4:0 | 4 | 0 | 
 | 2016-10-16 | 2016年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | W+R | 6.5 | 3:0 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Shin Jinseo** | **Choi Cheolhan streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Shin Jinseo** | **Choi Cheolhan Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-02 | 第44期名人戦（韓国）敗者復活戦4回戦 | Choi Cheolhan | Shin Jinseo | W+R | 6.5 | 3:3 | 0 | 1 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第5局 | Shin Jinseo | Choi Cheolhan | B+R | 6.5 | 1:2 | 0 | 2 | 

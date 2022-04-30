@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Seungmin vs Lee Changseok** | **Kang Seungmin streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Lee Changseok** | **Kang Seungmin Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2021-05-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Seungmin | B+R | 6.5 | 0:3 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Shin Jinseo** | **Lee Changseok streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Shin Jinseo** | **Lee Changseok Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2021-06-18 | 第26回GSカルテックス杯プロ棋戦3回戦 | Lee Changseok | Shin Jinseo | W+R | 6.5 | 0:4 | 0 | 4 | 

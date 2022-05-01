@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Park Geunho | Win | B+R | 6.5 | 3839 | 0 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3839 | 0 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Han Sangcho | Shin Jinseo | Win | W+R | 6.5 | 3839 | 0 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3839 | 0 | 

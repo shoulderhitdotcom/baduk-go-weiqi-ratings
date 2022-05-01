@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Park Seunghwa | Kang Seungmin | Win | W+R | 6.5 | 3334 | 6 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Seunghwa | Win | B+R | 6.5 | 3328 | 12 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Jinsol | Win | B+R | 6.5 | 3316 | 8 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Han Sangcho | Win | B+R | 6.5 | 3308 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Lee Changseok | Win | W+R | 6.5 | 3470 | 0 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Lee Changseok | Weon Seongjin | Lose | W+R | 6.5 | 3470 | -1 | 
 | 2022-04-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Lee Changseok | Win | W+R | 6.5 | 3471 | 12 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Lee Changseok | Kim Hyeongwoo | Lose | W+R | 6.5 | 3459 | -11 | 

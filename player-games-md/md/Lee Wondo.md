@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Lee Changseok | Lose | W+R | 6.5 | 3277 | -14 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Choi Cheolhan | Lee Wondo | Lose | B+R | 6.5 | 3291 | -11 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Han Seungjoo | Win | B+R | 6.5 | 3302 | 32 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Park Hamin | Lee Wondo | Lose | B+3.5 | 6.5 | 3270 | -11 | 

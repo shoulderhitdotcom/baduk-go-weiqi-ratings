@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Byun Sangil | Weon Seongjin | Win | B+R | 6.5 | 3676 | 0 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3676 | -10 | 
 | 2022-04-18 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Byun Sangil | Win | W+R | 6.5 | 3686 | 1 | 
 | 2022-04-13 | 第5期韓国竜星戦2回戦 | Shen Zaiyi | Byun Sangil | Lose | B+R | 6.5 | 3685 | -8 | 

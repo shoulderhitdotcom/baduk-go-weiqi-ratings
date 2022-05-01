@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 3481 | -6 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Lee Changseok | Weon Seongjin | Win | W+R | 6.5 | 3487 | 3 | 
 | 2022-04-29 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 7.5 | 3484 | -5 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Geunho | Weon Seongjin | Lose | B+R | 7.5 | 3489 | -3 | 

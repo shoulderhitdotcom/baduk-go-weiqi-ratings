@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Park Seunghwa | Kang Seungmin | Lose | W+R | 6.5 | 3194 | -30 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Seunghwa | Lose | B+R | 6.5 | 3224 | -36 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Park Seunghwa | Kang Jihoon | Lose | W+R | 6.5 | 3260 | -66 | 
 | 2022-03-19 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Seunghwa | Lose | B+R | 6.5 | 3326 | 54 | 

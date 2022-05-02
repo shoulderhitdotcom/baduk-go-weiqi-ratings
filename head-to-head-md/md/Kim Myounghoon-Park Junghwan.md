@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Myounghoon vs Park Junghwan** | **Kim Myounghoon streak** | **Park Junghwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Park Junghwan** | **Kim Myounghoon Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-07 | 第1回韓国竜星戦16強戦 | Kim Myounghoon | Park Junghwan | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2017-07-23 | 2017年韓国囲碁リーグ | Park Junghwan | Kim Myounghoon | B+4.5 | 6.5 | 0:2 | 0 | 2 | 

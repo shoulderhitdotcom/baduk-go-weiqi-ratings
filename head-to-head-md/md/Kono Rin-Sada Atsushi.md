@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kono Rin vs Sada Atsushi** | **Kono Rin streak** | **Sada Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kono Rin Vs Sada Atsushi** | **Kono Rin Streak** | **Sada Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-08 | 第46期天元戦2回戦 | Sada Atsushi | Kono Rin | W+R | 6.5 | 1:2 | 1 | 0 | 
 | 2019-07-29 | 第45期天元戦準決勝 | Sada Atsushi | Kono Rin | B+R | 6.5 | 0:2 | 0 | 2 | 

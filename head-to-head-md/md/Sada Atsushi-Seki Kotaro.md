@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sada Atsushi vs Seki Kotaro** | **Sada Atsushi streak** | **Seki Kotaro streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Sada Atsushi Vs Seki Kotaro** | **Sada Atsushi Streak** | **Seki Kotaro Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | B+R | 6.5 | 1:3 | 0 | 3 | 
 | 2020-10-16 | 第45期新人王戦決勝三番勝負第3局  | Sada Atsushi | Seki Kotaro | W+R | 6.5 | 1:2 | 0 | 2 | 

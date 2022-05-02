@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Ryu Minhyung** | **Park Junghwan streak** | **Ryu Minhyung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Ryu Minhyung** | **Park Junghwan Streak** | **Ryu Minhyung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-16 | 2022YK建機杯リーグ | Park Junghwan | Ryu Minhyung | B+R | 6.5 | 4:0 | 4 | 0 | 
 | 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Park Junghwan | Ryu Minhyung | B+R | 6.5 | 3:0 | 3 | 0 | 

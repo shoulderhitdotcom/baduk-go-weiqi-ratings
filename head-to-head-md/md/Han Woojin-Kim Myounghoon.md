@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Woojin vs Kim Myounghoon** | **Han Woojin streak** | **Kim Myounghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Woojin Vs Kim Myounghoon** | **Han Woojin Streak** | **Kim Myounghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Han Woojin | Kim Myounghoon | W+2.5 | 6.5 | 0:1 | 0 | 1 |
 

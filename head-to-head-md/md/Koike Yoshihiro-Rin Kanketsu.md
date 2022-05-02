@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Koike Yoshihiro vs Rin Kanketsu** | **Koike Yoshihiro streak** | **Rin Kanketsu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Koike Yoshihiro Vs Rin Kanketsu** | **Koike Yoshihiro Streak** | **Rin Kanketsu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-16 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Koike Yoshihiro | W+R | 6.5 | 1:0 | 1 | 0 |
 

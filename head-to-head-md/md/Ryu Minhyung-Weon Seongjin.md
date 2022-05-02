@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ryu Minhyung vs Weon Seongjin** | **Ryu Minhyung streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ryu Minhyung Vs Weon Seongjin** | **Ryu Minhyung Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-12 | 2017年韓国囲碁リーグ | Weon Seongjin | Ryu Minhyung | W+R | 6.5 | 1:0 | 1 | 0 |
 

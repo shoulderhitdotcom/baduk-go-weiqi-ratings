@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Myounghoon vs Shin Minjun** | **Kim Myounghoon streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Shin Minjun** | **Kim Myounghoon Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-02-14 | 第3回韓国竜星戦16強戦 | Kim Myounghoon | Shin Minjun | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2018-11-11 | 2018年韓国囲碁リーグプレーオフ第3戦 | Shin Minjun | Kim Myounghoon | B+0.5 | 6.5 | 0:2 | 0 | 2 | 

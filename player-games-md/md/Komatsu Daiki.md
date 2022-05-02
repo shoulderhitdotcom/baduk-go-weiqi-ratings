@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第46期棋聖戦予選 | Imamura Toshiya | Komatsu Daiki | W+2.5 | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aahF6bXAfPLjQOHCxQT8jA%3D%3D) | 
 | 第59期十段戦予選 | Nakamura Sumire | Komatsu Daiki | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=64wAKN4QZH6%2BBr0dGOvNwg%3D%3D) | 

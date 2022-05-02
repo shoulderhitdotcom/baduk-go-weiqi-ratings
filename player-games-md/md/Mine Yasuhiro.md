@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第44期棋聖戦ファーストトーナメント予選1回戦 | Yun Chunho | Mine Yasuhiro | B+R | 2018-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FcEfM%2Ft0W%2FiII42%2BANIaQ%3D%3D) | 
 | 第44期名人戦予選A | Mine Yasuhiro | Hatanaka Hoshinobu | W+0.5 | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbE0IRX4O1dEP4ijZgSDWg%3D%3D) | 

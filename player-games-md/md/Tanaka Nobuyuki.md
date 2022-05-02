@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第42期棋聖戦　Cリーグ1回戦 | Sakai Hideyuki | Tanaka Nobuyuki | B+4.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C3hr2yS3Xj5g780UUw9mBw%3D%3D) | 
 | 第22期LG杯世界予選3回戦 | Tanaka Nobuyuki | An Sungjoon | W+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1BFwXg7ZOYb%2FvPpS4Cw8bw%3D%3D) | 

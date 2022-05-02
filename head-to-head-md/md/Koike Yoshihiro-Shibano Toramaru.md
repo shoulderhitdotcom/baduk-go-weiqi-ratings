@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Koike Yoshihiro vs Shibano Toramaru** | **Koike Yoshihiro streak** | **Shibano Toramaru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Koike Yoshihiro Vs Shibano Toramaru** | **Koike Yoshihiro Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-17 | 第13回広島アルミ杯・若鯉戦2回戦  | Koike Yoshihiro | Shibano Toramaru | B+5.5 | 6.5 | 1:0 | 1 | 0 | 
 | 2018-02-08 | 第43期棋聖戦リーグB組 | Koike Yoshihiro | Shibano Toramaru | W+2.5 | 6.5 | 1:2 | 0 | 2 | 

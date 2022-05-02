@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kono Rin vs Shibano Toramaru** | **Kono Rin streak** | **Shibano Toramaru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kono Rin Vs Shibano Toramaru** | **Kono Rin Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-11 | 第46期名人戦リーグ | Kono Rin | Shibano Toramaru | W+1.5 | 6.5 | 1:3 | 0 | 2 | 
 | 2019-11-21 | 第75期本因坊戦リーグ | Kono Rin | Shibano Toramaru | W+R | 6.5 | 3:6 | 0 | 1 | 

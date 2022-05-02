@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seto Taiki vs Yu Zhengqi** | **Seto Taiki streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seto Taiki Vs Yu Zhengqi** | **Seto Taiki Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-03-23 | 第41期棋聖戦Bリーグ | Yu Zhengqi | Seto Taiki | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2013-07-11 | 第39期天元戦本戦3回戦 | Seto Taiki | Yu Zhengqi | W+3.5 | 6.5 | 1:1 | 0 | 1 | 

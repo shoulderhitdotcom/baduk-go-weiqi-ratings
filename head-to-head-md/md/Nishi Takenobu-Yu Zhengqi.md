@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Nishi Takenobu vs Yu Zhengqi** | **Nishi Takenobu streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nishi Takenobu Vs Yu Zhengqi** | **Nishi Takenobu Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-01 | 第76期本因坊戦予選 | Nishi Takenobu | Yu Zhengqi | W+R | 6.5 | 0:1 | 0 | 1 |
 

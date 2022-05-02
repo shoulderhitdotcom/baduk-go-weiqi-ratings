@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kono Rin vs Yu Zhengqi** | **Kono Rin streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kono Rin Vs Yu Zhengqi** | **Kono Rin Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | W+R | 6.5 | 3:1 | 0 | 1 | 
 | 2021-04-01 | 第46期名人戦リーグ | Yu Zhengqi | Kono Rin | W+0.5 | 6.5 | 3:0 | 3 | 0 | 

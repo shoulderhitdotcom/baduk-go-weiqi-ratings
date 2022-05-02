@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sada Atsushi vs Yu Zhengqi** | **Sada Atsushi streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Sada Atsushi Vs Yu Zhengqi** | **Sada Atsushi Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-27 | 第60期十段戦挑戦者決定戦 | Yu Zhengqi | Sada Atsushi | B+3.5 | 6.5 | 1:2 | 0 | 2 | 
 | 2022-01-10 | 第77期本因坊戦リーグ | Sada Atsushi | Yu Zhengqi | W+R | 6.5 | 2:5 | 0 | 1 | 

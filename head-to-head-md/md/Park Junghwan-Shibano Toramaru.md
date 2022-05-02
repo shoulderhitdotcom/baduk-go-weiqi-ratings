@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shibano Toramaru** | **Park Junghwan streak** | **Shibano Toramaru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Shibano Toramaru** | **Park Junghwan Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-02-01 | 第7回CCTV賀歳杯2回戦 | Park Junghwan | Shibano Toramaru | B+R | 7.5 | 5:0 | 5 | 0 | 
 | 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | B+R | 6.5 | 2:0 | 2 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-03 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2950 | -9 | 
 | 2022-05-02 | 2022年アジア競技大会韓国予選 | Cho Seungah | Oh Jeonga | Lose | B+R | 7.5 | 2959 | -23 | 
 | 2022-04-29 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Park Jiyeon | Win | B+R | 7.5 | 2982 | 22 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Kim Eunji | Oh Jeonga | Lose | B+R | 7.5 | 2960 | -27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-03 | 第9回グロービス杯韓国予選 |  | Hyun Yoobin | Win | W+R | 6.5 | 3161 | 14 | 
 | 2022-05-02 | 第9回グロービス杯韓国予選 | Hyun Yoobin |  | Win | B+T | 6.5 | 3147 | 6 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Seol Hyunjun | Hyun Yoobin | Lose | B+R | 6.5 | 3141 | -16 | 
 | 2022-04-06 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Lee Wondo | Lose | W+R | 6.5 | 3157 | -17 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Minjun vs Wang Yuanjun** | **Shin Minjun streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Wang Yuanjun** | **Shin Minjun Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Shin Minjun | Wang Yuanjun | B+R | 6.5 | 1:0 | 1 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Shin Minjun | Wang Yuanjun | B+R | 6.5 | 2:0 | 2 | 0 | 

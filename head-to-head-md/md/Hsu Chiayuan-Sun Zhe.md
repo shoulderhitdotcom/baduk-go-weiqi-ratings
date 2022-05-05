@@ -5,10 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hsu Chiayuan vs Sun Zhe** | **Hsu Chiayuan streak** | **Sun Zhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Sun Zhe** | **Hsu Chiayuan Streak** | **Sun Zhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Sun Zhe | Hsu Chiayuan | B+R | 6.5 | 0:1 | 0 | 1 | 
-| 2019-01-10 | 第45期天元戦1回戦 | Hsu Chiayuan | Sun Zhe | B+R | 6.5 | 1:1 | 1 | 0 |
+| 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Sun Zhe | Hsu Chiayuan | B+R | 6.5 | 1:1 | 0 | 1 | 
+| 2019-01-10 | 第45期天元戦1回戦 | Hsu Chiayuan | Sun Zhe | B+R | 6.5 | 1:0 | 1 | 0 |
 
 
 

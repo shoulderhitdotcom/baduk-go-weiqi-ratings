@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | Park Joonhoon | Win | W+R | 6.5 | 3436 | 25 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Park Joonhoon | Yoo Ohseong | Win | B+R | 6.5 | 3411 | -6 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Yoo Ohseong | Park Joonhoon | Lose | B+R | 6.5 | 3417 | -31 | 
 | 2022-03-17 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Park Joonhoon | Win | W+R | 6.5 | 3448 | 14 | 

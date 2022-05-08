@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Kim Jinhyu | Kang Seungmin | Lose | B+4.5 | 6.5 | 3336 | -11 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Park Yeonghun | Lose | W+R | 6.5 | 3347 | 8 | 
 | 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Park Seunghwa | Kang Seungmin | Win | W+R | 6.5 | 3339 | 7 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Seunghwa | Win | B+R | 6.5 | 3332 | 12 | 

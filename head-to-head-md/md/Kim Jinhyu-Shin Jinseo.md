@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jinhyu vs Shin Jinseo** | **Kim Jinhyu streak** | **Shin Jinseo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jinhyu Vs Shin Jinseo** | **Kim Jinhyu Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-03-26 | 第3期メジオン杯オープン新人王戦決勝三番勝負第3局 | Shin Jinseo | Kim Jinhyu | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2015-03-25 | 第3期メジオン杯オープン新人王戦決勝三番勝負第2局 | Kim Jinhyu | Shin Jinseo | W+R | 6.5 | 1:1 | 0 | 1 | 

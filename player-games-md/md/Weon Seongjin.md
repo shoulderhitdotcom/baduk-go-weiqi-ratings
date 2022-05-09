@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Weon Seongjin | Na Hyun | Lose | W+R | 6.5 | 3461 | -6 | 
 | 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | Park Joonhoon | Lose | W+R | 6.5 | 3467 | -3 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Weon Seongjin | Kim Jinhyu | Lose | W+1.5 | 6.5 | 3470 | -7 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kang Dongyun | Lose | W+2.5 | 7.5 | 3477 | 1 | 

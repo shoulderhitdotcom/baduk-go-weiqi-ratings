@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Yeonghun vs Yoda Norimoto** | **Park Yeonghun streak** | **Yoda Norimoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Yeonghun Vs Yoda Norimoto** | **Park Yeonghun Streak** | **Yoda Norimoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2007-07-07 | 第20回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Park Yeonghun | W+0.5 | 6.5 | 3:0 | 3 | 0 | 
 | 2007-02-06 | 第8回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yoda Norimoto | Park Yeonghun | W+1.5 | 6.5 | 2:0 | 2 | 0 | 

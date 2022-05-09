@@ -7,59 +7,59 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Gon Jiwoo | Park Junghwan | Lose | W+R | 6.5 | 3025 | 20 | 
-| 2022-04-03 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Gon Jiwoo | Lose | B+R | 6.5 | 3005 | -24 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Park Hamin | Lose | W+R | 6.5 | 3029 | 13 | 
-| 2022-03-10 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Gon Jiwoo | Lose | B+R | 6.5 | 3016 | -18 | 
-| 2022-02-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Gon Jiwoo | Lose | B+R | 6.5 | 3034 | -58 | 
-| 2022-02-12 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Gon Jiwoo | Lose | B+R | 6.5 | 3092 | 18 | 
-| 2022-02-05 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Moon Minjong | Win | B+R | 6.5 | 3074 | -130 | 
-| 2022-01-02 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Kang Dongyun | Lose | W+R | 6.5 | 3204 | -19 | 
-| 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Cho Seungah | Lose | W+R | 6.5 | 3223 | -30 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Gon Jiwoo | Lose | B+R | 6.5 | 3253 | -31 | 
-| 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Gon Jiwoo | Lose | B+R | 6.5 | 3284 | 3 | 
-| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Lose | B+R | 6.5 | 3281 | 0 | 
-| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦 | Cho Wankyu | Gon Jiwoo | Lose | B+R | 6.5 | 3281 | 4 | 
-| 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Geunho | Gon Jiwoo | Lose | B+R | 6.5 | 3277 | -2 | 
-| 2021-11-26 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Song Gyusang | Win | B+5.5 | 6.5 | 3279 | 29 | 
-| 2021-11-19 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Gon Jiwoo | Win | W+R | 6.5 | 3250 | -14 | 
-| 2021-09-13 | 2021電子ランド杯新鋭トーナメント決勝 | Gon Jiwoo | Cho Wankyu | Lose | W+R | 6.5 | 3264 | 18 | 
-| 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Win | B+R | 6.5 | 3246 | 27 | 
-| 2021-08-12 | 第2期利鵬杯新鋭最高位戦8強戦 | Shin Jaeweon | Gon Jiwoo | Lose | B+R | 6.5 | 3219 | 14 | 
-| 2021-07-22 | 第2期利鵬杯新鋭最高位戦 |  | Gon Jiwoo | Win | W+0.5 | 6.5 | 3205 | 1 | 
+| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Gon Jiwoo | Park Junghwan | Lose | W+R | 6.5 | 3027 | 21 | 
+| 2022-04-03 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Gon Jiwoo | Lose | B+R | 6.5 | 3006 | -25 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Park Hamin | Lose | W+R | 6.5 | 3031 | 14 | 
+| 2022-03-10 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Gon Jiwoo | Lose | B+R | 6.5 | 3017 | -19 | 
+| 2022-02-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Gon Jiwoo | Lose | B+R | 6.5 | 3036 | -57 | 
+| 2022-02-12 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Gon Jiwoo | Lose | B+R | 6.5 | 3093 | 18 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Moon Minjong | Win | B+R | 6.5 | 3075 | -130 | 
+| 2022-01-02 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Kang Dongyun | Lose | W+R | 6.5 | 3205 | -19 | 
+| 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Cho Seungah | Lose | W+R | 6.5 | 3224 | -30 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Gon Jiwoo | Lose | B+R | 6.5 | 3254 | -31 | 
+| 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Gon Jiwoo | Lose | B+R | 6.5 | 3285 | 3 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Lose | B+R | 6.5 | 3282 | 0 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦 | Cho Wankyu | Gon Jiwoo | Lose | B+R | 6.5 | 3282 | 4 | 
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Geunho | Gon Jiwoo | Lose | B+R | 6.5 | 3278 | -2 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Song Gyusang | Win | B+5.5 | 6.5 | 3280 | 29 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Gon Jiwoo | Win | W+R | 6.5 | 3251 | -14 | 
+| 2021-09-13 | 2021電子ランド杯新鋭トーナメント決勝 | Gon Jiwoo | Cho Wankyu | Lose | W+R | 6.5 | 3265 | 19 | 
+| 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Win | B+R | 6.5 | 3246 | 26 | 
+| 2021-08-12 | 第2期利鵬杯新鋭最高位戦8強戦 | Shin Jaeweon | Gon Jiwoo | Lose | B+R | 6.5 | 3220 | 14 | 
+| 2021-07-22 | 第2期利鵬杯新鋭最高位戦 |  | Gon Jiwoo | Win | W+0.5 | 6.5 | 3206 | 2 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦  | Ueno Asami | Gon Jiwoo | Lose | B+R | 6.5 | 3204 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Lose | W+R | 6.5 | 3204 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Ueno Asami | Gon Jiwoo | Win | W+R | 6.5 | 3204 | -44 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Gon Jiwoo |  | Win | B+3.5 | 6.5 | 3248 | 13 | 
-| 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Lose | B+0.5 | 6.5 | 3235 | -2 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Park Hamin | Gon Jiwoo | Lose | B+R | 6.5 | 3237 | -7 | 
-| 2021-03-05 | 2020-2021フューチャーズリーグ | Song Gyusang | Gon Jiwoo | Lose | B+R | 6.5 | 3244 | 2 | 
+| 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Lose | B+0.5 | 6.5 | 3235 | -3 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Park Hamin | Gon Jiwoo | Lose | B+R | 6.5 | 3238 | -7 | 
+| 2021-03-05 | 2020-2021フューチャーズリーグ | Song Gyusang | Gon Jiwoo | Lose | B+R | 6.5 | 3245 | 3 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Park Hamin | Gon Jiwoo | Win | W+R | 6.5 | 3242 | 13 | 
 | 2021-02-21 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Win | B+R | 6.5 | 3229 | 0 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Choi Jeong | Gon Jiwoo | Win | W+R | 6.5 | 3229 | 43 | 
 | 2021-02-17 | 2020-2021フューチャーズリーグ | Park Jaekeun | Gon Jiwoo | Lose | B+R | 6.5 | 3186 | 25 | 
 | 2021-02-06 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Hyun Yoobin | Lose | W+R | 6.5 | 3161 | -32 | 
 | 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sedong | Gon Jiwoo | Lose | B+R | 6.5 | 3193 | -8 | 
-| 2021-01-29 | 2020-2021韓国囲碁リーグ | Gon Jiwoo | Kim Myounghoon | Lose | W+R | 6.5 | 3201 | -6 | 
-| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Lose | B+2.5 | 6.5 | 3207 | -14 | 
-| 2021-01-24 | 2020-2021フューチャーズリーグ |  | Gon Jiwoo | Win | W+R | 6.5 | 3221 | 6 | 
-| 2021-01-23 | 2020-2021韓国囲碁リーグ | Moon Minjong | Gon Jiwoo | Win | W+0.5 | 6.5 | 3215 | 34 | 
-| 2021-01-20 | 2020-2021フューチャーズリーグ |  | Gon Jiwoo | Win | W+R | 6.5 | 3181 | -1 | 
+| 2021-01-29 | 2020-2021韓国囲碁リーグ | Gon Jiwoo | Kim Myounghoon | Lose | W+R | 6.5 | 3201 | -7 | 
+| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Lose | B+2.5 | 6.5 | 3208 | -14 | 
+| 2021-01-24 | 2020-2021フューチャーズリーグ |  | Gon Jiwoo | Win | W+R | 6.5 | 3222 | 6 | 
+| 2021-01-23 | 2020-2021韓国囲碁リーグ | Moon Minjong | Gon Jiwoo | Win | W+0.5 | 6.5 | 3216 | 34 | 
+| 2021-01-20 | 2020-2021フューチャーズリーグ |  | Gon Jiwoo | Win | W+R | 6.5 | 3182 | 0 | 
 | 2021-01-17 | 2020-2021韓国囲碁リーグ | Byun Sangil | Gon Jiwoo | Win | W+R | 6.5 | 3182 | 6 | 
 | 2021-01-10 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Song Gyusang | Win | B+R | 6.5 | 3176 | 17 | 
 | 2021-01-09 | 2020-2021韓国囲碁リーグ | An Jungki | Gon Jiwoo | Win | W+1.5 | 6.5 | 3159 | 76 | 
 | 2021-01-02 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Win | B+R | 6.5 | 3083 | 5 | 
 | 2020-12-30 | 第4回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Moon Minjong | Win | B+3.5 | 6.5 | 3078 | 53 | 
 | 2020-12-26 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Shin Jaeweon | Win | B+R | 6.5 | 3025 | 12 | 
-| 2020-12-23 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Hyun Yoobin | Win | B+R | 6.5 | 3013 | 82 | 
-| 2020-12-13 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Lee Chungyu | Win | B+1.5 | 6.5 | 2931 | -2 | 
-| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kang Seungmin | Gon Jiwoo | Lose | B+R | 6.5 | 2933 | -1 | 
+| 2020-12-23 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Hyun Yoobin | Win | B+R | 6.5 | 3013 | 81 | 
+| 2020-12-13 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Lee Chungyu | Win | B+1.5 | 6.5 | 2932 | -2 | 
+| 2020-12-10 | 第26期GSカルテックス杯プロ棋戦予選 | Kang Seungmin | Gon Jiwoo | Lose | B+R | 6.5 | 2934 | 0 | 
 | 2020-12-05 | 2020-2021フューチャーズリーグ |  | Gon Jiwoo | Lose | B+R | 6.5 | 2934 | 40 | 
 | 2020-11-28 | 2020-2021フューチャーズリーグ | Lee Hobum | Gon Jiwoo | Win | W+R | 6.5 | 2894 | -54 | 
 | 2020-09-22 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Gon Jiwoo | Lose | B+R | 6.5 | 2948 | 77 | 
 | 2020-07-29 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第2局 | Gon Jiwoo | Kim Sangcheon | Lose | W+R | 6.5 | 2871 | 0 | 
-| 2020-07-29 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 | Kim Sangcheon | Gon Jiwoo | Lose | B+R | 6.5 | 2871 | -216 | 
-| 2020-06-07 | 第5期未来の星新鋭最強戦準決勝 | Kim Changhoon | Gon Jiwoo | Lose | B+R | 6.5 | 3087 | -28 | 
+| 2020-07-29 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 | Kim Sangcheon | Gon Jiwoo | Lose | B+R | 6.5 | 2871 | -217 | 
+| 2020-06-07 | 第5期未来の星新鋭最強戦準決勝 | Kim Changhoon | Gon Jiwoo | Lose | B+R | 6.5 | 3088 | -27 | 
 | 2020-05-27 | 第5期未来の星新鋭最強戦8強戦 |  | Gon Jiwoo | Win | W+R | 6.5 | 3115 | 93 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Gon Jiwoo | Song Gyusang | Win | B+R | 6.5 | 3022 | 200 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Park Seunghwa | Gon Jiwoo | Lose | B+R | 6.5 | 2822 | -72 | 

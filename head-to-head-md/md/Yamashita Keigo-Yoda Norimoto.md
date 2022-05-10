@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yamashita Keigo vs Yoda Norimoto** | **Yamashita Keigo streak** | **Yoda Norimoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yamashita Keigo Vs Yoda Norimoto** | **Yamashita Keigo Streak** | **Yoda Norimoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-17 | 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | B+R | 6.5 | 23:13 | 2 | 0 | 
 | 2020-07-23 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | B+3.5 | 6.5 | 22:13 | 1 | 0 | 

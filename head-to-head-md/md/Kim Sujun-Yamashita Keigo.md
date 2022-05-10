@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Sujun vs Yamashita Keigo** | **Kim Sujun streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Sujun Vs Yamashita Keigo** | **Kim Sujun Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-03-19 | 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | B+R | 6.5 | 2:5 | 0 | 4 | 
 | 2011-08-25 | 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kim Sujun | B+R | 6.5 | 2:4 | 0 | 3 | 

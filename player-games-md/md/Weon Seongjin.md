@@ -20,9 +20,9 @@
 | 2022-04-26 | 第27回LG杯韓国予選 | Lee Hyeonjun | Weon Seongjin | Win | W+R | 6.5 | 3498 | 1 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Weon Seongjin | Kim Jinhyu | Win | B+R | 6.5 | 3497 | 5 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 3492 | 5 | 
-| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Cho Wankyu | Win | B+R | 6.5 | 3487 | 4 | 
-| 2022-04-22 | 第27回LG杯韓国予選 | Weon Seongjin | Choi Jaeyoung | Win | B+R | 6.5 | 3483 | 4 | 
-| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Weon Seongjin | Park Minkyu | Win | B+R | 6.5 | 3479 | -3 | 
+| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Cho Wankyu | Win | B+R | 6.5 | 3487 | 3 | 
+| 2022-04-22 | 第27回LG杯韓国予選 | Weon Seongjin | Choi Jaeyoung | Win | B+R | 6.5 | 3484 | 4 | 
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Weon Seongjin | Park Minkyu | Win | B+R | 6.5 | 3480 | -2 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Weon Seongjin | Win | W+R | 7.5 | 3482 | 10 | 
 | 2022-04-12 | 2022YK建機杯リーグ | Weon Seongjin | Shin Jinseo | Lose | W+R | 6.5 | 3472 | -7 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Weon Seongjin | Kim Jiseok | Win | B+R | 6.5 | 3479 | 7 | 

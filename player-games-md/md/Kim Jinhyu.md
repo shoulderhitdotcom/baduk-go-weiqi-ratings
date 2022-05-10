@@ -10,8 +10,8 @@
 | 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Kim Jinhyu | Shin Jinseo | Lose | W+R | 6.5 | 3353 | 0 | 
 | 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Kim Jinhyu | Kang Seungmin | Win | B+4.5 | 6.5 | 3353 | 23 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Weon Seongjin | Kim Jinhyu | Win | W+1.5 | 6.5 | 3330 | 39 | 
-| 2022-04-25 | 第27回LG杯韓国予選 | Weon Seongjin | Kim Jinhyu | Lose | B+R | 6.5 | 3291 | -9 | 
-| 2022-04-19 | 第27回LG杯韓国予選 | Kim Jinhyu | Oh Yujin | Win | B+R | 6.5 | 3300 | 7 | 
+| 2022-04-25 | 第27回LG杯韓国予選 | Weon Seongjin | Kim Jinhyu | Lose | B+R | 6.5 | 3291 | -10 | 
+| 2022-04-19 | 第27回LG杯韓国予選 | Kim Jinhyu | Oh Yujin | Win | B+R | 6.5 | 3301 | 8 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Gon Jiwoo | Win | B+R | 6.5 | 3293 | -11 | 
 | 2022-03-11 | 2021-2022韓国囲碁リーグ | Byun Sangil | Kim Jinhyu | Lose | B+3.5 | 6.5 | 3304 | 12 | 
 | 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Win | B+R | 6.5 | 3292 | 35 | 

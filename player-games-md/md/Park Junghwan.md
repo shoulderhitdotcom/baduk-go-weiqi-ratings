@@ -11,8 +11,8 @@
 | 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Gon Jiwoo | Park Junghwan | Win | W+R | 6.5 | 3705 | -6 | 
 | 2022-05-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Byun Sangil | Lose | W+R | 6.5 | 3711 | -6 | 
 | 2022-05-02 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | Lose | B+R | 6.5 | 3717 | -10 | 
-| 2022-04-27 | 第3期ソパルコサノル最高棋士決定戦リーグ | Heo Youngrak | Park Junghwan | Win | W+R | 6.5 | 3727 | 2 | 
-| 2022-04-18 | 第23回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Junghwan | Lee Donghoon | Win | B+R | 6.5 | 3725 | 2 | 
+| 2022-04-27 | 第3期ソパルコサノル最高棋士決定戦リーグ | Heo Youngrak | Park Junghwan | Win | W+R | 6.5 | 3727 | 1 | 
+| 2022-04-18 | 第23回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Junghwan | Lee Donghoon | Win | B+R | 6.5 | 3726 | 3 | 
 | 2022-04-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Lose | W+R | 6.5 | 3723 | -8 | 
 | 2022-04-11 | 第23回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3731 | 1 | 
 | 2022-04-07 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Park Junghwan | Win | W+R | 6.5 | 3730 | 1 | 
@@ -96,8 +96,8 @@
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Park Junghwan | Tong Mengcheng | Lose | W+R | 7.5 | 3681 | -4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Win | W+R | 7.5 | 3685 | 4 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Park Junghwan | Chen Zijian | Lose | W+1¼ | 7.5 | 3681 | -20 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Win | W+R | 7.5 | 3701 | 15 | 
-| 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 3686 | -1 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Win | W+R | 7.5 | 3701 | 14 | 
+| 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 3687 | 0 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Win | W+1.5 | 6.5 | 3687 | 4 | 
 | 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Win | B+R | 6.5 | 3683 | -14 | 
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Win | B+R | 6.5 | 3697 | 3 | 

@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Weon Seongjin | Na Hyun | Win | W+R | 6.5 | 3266 | 74 | 
-| 2022-04-21 | 第27回LG杯韓国予選 | Na Hyun | Lee Changseok | Lose | W+R | 6.5 | 3192 | -18 | 
+| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Weon Seongjin | Na Hyun | Win | W+R | 6.5 | 3266 | 73 | 
+| 2022-04-21 | 第27回LG杯韓国予選 | Na Hyun | Lee Changseok | Lose | W+R | 6.5 | 3193 | -17 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Na Hyun | Cho Hanseung | Win | B+R | 6.5 | 3210 | 11 | 
 | 2022-03-17 | 2021-2022韓国囲碁リーグ | Na Hyun | Lee Changho | Win | B+R | 6.5 | 3199 | -6 | 
 | 2022-03-01 | 2022年アジア競技大会韓国予選 | Na Hyun | Lee Wonyoung | Lose | W+¼ | 7.5 | 3205 | 0 | 

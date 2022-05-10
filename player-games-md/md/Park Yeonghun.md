@@ -10,8 +10,8 @@
 | 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Yoo Ohseong | Park Yeonghun | Win | W+1.5 | 6.5 | 3533 | 10 | 
 | 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3523 | -3 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Park Yeonghun | Win | W+R | 6.5 | 3526 | 26 | 
-| 2022-04-26 | 第27回LG杯韓国予選 | Park Yeonghun | Park Jinsol | Lose | W+R | 6.5 | 3500 | -22 | 
-| 2022-04-18 | 第5期韓国竜星戦2回戦 | Kang Dongyun | Park Yeonghun | Lose | B+1.5 | 6.5 | 3522 | -24 | 
+| 2022-04-26 | 第27回LG杯韓国予選 | Park Yeonghun | Park Jinsol | Lose | W+R | 6.5 | 3500 | -23 | 
+| 2022-04-18 | 第5期韓国竜星戦2回戦 | Kang Dongyun | Park Yeonghun | Lose | B+1.5 | 6.5 | 3523 | -23 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Park Yeonghun | Lose | B+R | 6.5 | 3546 | -38 | 
 | 2022-03-17 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | Win | B+R | 6.5 | 3584 | 15 | 
 | 2022-03-11 | 2021-2022韓国囲碁リーグ | Lee Changseok | Park Yeonghun | Win | W+R | 6.5 | 3569 | 24 | 

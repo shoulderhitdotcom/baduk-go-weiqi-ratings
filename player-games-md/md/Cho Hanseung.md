@@ -10,9 +10,9 @@
 | 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Park Joonhoon | Cho Hanseung | Win | W+R | 6.5 | 3273 | 28 | 
 | 2022-05-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Hong Mujin | Lose | W+3.5 | 6.5 | 3245 | -12 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Cho Hanseung | Choi Jeong | Win | B+R | 6.5 | 3257 | 14 | 
-| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Choi Jeong | Cho Hanseung | Lose | B+3.5 | 6.5 | 3243 | -11 | 
-| 2022-04-18 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Byun Sangil | Lose | W+R | 6.5 | 3254 | -3 | 
-| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Cho Hanseung | Shin Minjun | Lose | W+R | 6.5 | 3257 | -4 | 
+| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Choi Jeong | Cho Hanseung | Lose | B+3.5 | 6.5 | 3243 | -12 | 
+| 2022-04-18 | 第3期ソパルコサノル最高棋士決定戦リーグ | Cho Hanseung | Byun Sangil | Lose | W+R | 6.5 | 3255 | -3 | 
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Cho Hanseung | Shin Minjun | Lose | W+R | 6.5 | 3258 | -3 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Park Minkyu | Cho Hanseung | Win | W+R | 6.5 | 3261 | 14 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Seol Hyunjun | Cho Hanseung | Lose | B+R | 6.5 | 3247 | -5 | 
 | 2022-04-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Cho Hanseung | Lose | B+R | 6.5 | 3252 | -9 | 

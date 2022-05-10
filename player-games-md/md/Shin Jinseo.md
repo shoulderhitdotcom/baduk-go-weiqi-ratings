@@ -13,8 +13,8 @@
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3845 | 0 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Han Sangcho | Shin Jinseo | Win | W+R | 6.5 | 3845 | 0 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3845 | 0 | 
-| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Park Jinsol | Shin Jinseo | Win | W+0.5 | 6.5 | 3845 | 1 | 
-| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
+| 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Park Jinsol | Shin Jinseo | Win | W+0.5 | 6.5 | 3845 | 0 | 
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Shin Jinseo | Win | W+R | 6.5 | 3845 | 1 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3844 | 0 | 
 | 2022-04-12 | 2022YK建機杯リーグ | Weon Seongjin | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Moon Minjong | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
@@ -106,8 +106,8 @@
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Win | W+R | 7.5 | 3831 | 0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Ding Shixiong | Win | B+R | 7.5 | 3831 | 0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Win | B+¾ | 7.5 | 3831 | 0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Lose | B+R | 7.5 | 3831 | 1 | 
-| 2021-06-04 | 第44期名人戦（韓国）敗者復活戦3回戦 | Ko Keuntae | Shin Jinseo | Win | W+R | 6.5 | 3830 | 0 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Lose | B+R | 7.5 | 3831 | 0 | 
+| 2021-06-04 | 第44期名人戦（韓国）敗者復活戦3回戦 | Ko Keuntae | Shin Jinseo | Win | W+R | 6.5 | 3831 | 1 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tao Xinran | Shin Jinseo | Win | W+3.5 | 6.5 | 3830 | 0 | 
 | 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Win | W+R | 6.5 | 3830 | 0 | 
 | 2021-05-22 | 第44期名人戦（韓国）敗者復活戦2回戦 |  | Shin Jinseo | Win | W+R | 6.5 | 3830 | 0 | 

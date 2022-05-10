@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-10 | 2022YK建機杯リーグ | Park Junghwan | Kang Dongyun | Lose | W+R | 6.5 | 3680 | -17 | 
 | 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Park Junghwan | Kang Seungmin | Lose | W+R | 6.5 | 3697 | -8 | 
 | 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Gon Jiwoo | Park Junghwan | Win | W+R | 6.5 | 3705 | -6 | 
 | 2022-05-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Byun Sangil | Lose | W+R | 6.5 | 3711 | -6 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Nishi Takenobu** | **Ichiriki Ryo streak** | **Nishi Takenobu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Nishi Takenobu** | **Ichiriki Ryo Streak** | **Nishi Takenobu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-19 | 第46期天元戦準決勝 | Nishi Takenobu | Ichiriki Ryo | W+9.5 | 6.5 | 1:0 | 1 | 0 |
 

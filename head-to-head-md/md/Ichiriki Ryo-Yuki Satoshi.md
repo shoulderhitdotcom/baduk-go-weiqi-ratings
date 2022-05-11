@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Yuki Satoshi** | **Ichiriki Ryo streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Yuki Satoshi** | **Ichiriki Ryo Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yuki Satoshi | Ichiriki Ryo | W+6.5 | 6.5 | 5:0 | 5 | 0 | 
 | 2017-12-27 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Yuki Satoshi | B+R | 6.5 | 4:0 | 4 | 0 | 

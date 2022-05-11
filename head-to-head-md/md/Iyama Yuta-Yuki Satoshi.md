@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Yuki Satoshi** | **Iyama Yuta streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Yuki Satoshi** | **Iyama Yuta Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | W+R | 6.5 | 18:5 | 2 | 0 | 
 | 2019-07-01 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Iyama Yuta | W+R | 6.5 | 17:5 | 1 | 0 | 

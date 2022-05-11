@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kiyonari Tetsuya vs Yuki Satoshi** | **Kiyonari Tetsuya streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kiyonari Tetsuya Vs Yuki Satoshi** | **Kiyonari Tetsuya Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-04 | 第77期本因坊戦予選 | Kiyonari Tetsuya | Yuki Satoshi | W+3.5 | 6.5 | 3:5 | 0 | 2 | 
 | 2019-09-18 | 第44期棋聖戦Cリーグ | Kiyonari Tetsuya | Yuki Satoshi | W+R | 6.5 | 3:4 | 0 | 1 | 

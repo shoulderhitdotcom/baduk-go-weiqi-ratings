@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Nishi Takenobu vs Yuki Satoshi** | **Nishi Takenobu streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nishi Takenobu Vs Yuki Satoshi** | **Nishi Takenobu Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-13 | 第60期十段戦予選 | Yuki Satoshi | Nishi Takenobu | B+2.5 | 6.5 | 0:3 | 0 | 3 | 
 | 2019-10-10 | 第45期碁聖戦予選 | Nishi Takenobu | Yuki Satoshi | W+R | 6.5 | 0:2 | 0 | 2 | 

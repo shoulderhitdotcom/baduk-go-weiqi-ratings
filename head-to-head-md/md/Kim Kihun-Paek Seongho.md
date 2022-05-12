@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Kihun vs Paek Seongho** | **Kim Kihun streak** | **Paek Seongho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Kihun Vs Paek Seongho** | **Kim Kihun Streak** | **Paek Seongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第3局 | Paek Seongho | Kim Kihun | W+0.5 | 6.5 | 2:1 | 2 | 0 | 
 | 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第2局 | Kim Kihun | Paek Seongho | B+R | 6.5 | 1:1 | 1 | 0 | 

@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Ishu vs Ueno Asami** | **Lee Ishu streak** | **Ueno Asami streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Ishu Vs Ueno Asami** | **Lee Ishu Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-28 | 第60期十段戦予選 | Lee Ishu | Ueno Asami | W+R | 6.5 | 0:1 | 0 | 1 | 
-| 2019-08-01 | 第45期碁聖戦予選 | Lee Ishu | Ueno Asami | W+R | 6.5 | 0:2 | 0 | 2 |
+| 2021-06-28 | 第60期十段戦予選 | Lee Ishu | Ueno Asami | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

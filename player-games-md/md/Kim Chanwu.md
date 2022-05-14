@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第10回GGオークション杯女流対シニア連勝対抗戦第17戦 | Kim Chanwu | Choi Jeong | W+R | 2016-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tVDTRR%2Bur7YtaE99Gr6lEg%3D%3D) | 
 | 第2期圓益杯十段戦1回戦 | Kim Chanwu | Yoo Changhyuk | W+R | 2006-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCGLWbPyBs6enm0eROYvmA%3D%3D) | 

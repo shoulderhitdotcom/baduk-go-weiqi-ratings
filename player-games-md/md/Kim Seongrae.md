@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第6回大舟杯プロシニア最強者戦16強戦 | Kim Seongrae | Seo Bongsoo | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zon44V2Q7anv74As6v1XLQ%3D%3D) | 
 | 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Kim Seongrae | Kim Ilhwan | W+R | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2BRD6pZV4vp2RFLnGQg4%2Bg%3D%3D) | 

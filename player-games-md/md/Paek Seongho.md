@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Seo Bongsoo | Paek Seongho | Lose | B+3.5 | 6.5 | 2429 | -24 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Paek Seongho | Jeong Daesang | Win | B+R | 6.5 | 2453 | 10 | 
 | 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Lose | B+8.5 | 6.5 | 2443 | 35 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Lose | W+R | 6.5 | 2408 | 5 | 

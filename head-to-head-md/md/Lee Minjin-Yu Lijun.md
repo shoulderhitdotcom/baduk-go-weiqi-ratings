@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Minjin vs Yu Lijun** | **Lee Minjin streak** | **Yu Lijun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Minjin Vs Yu Lijun** | **Lee Minjin Streak** | **Yu Lijun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-30 | 第24回三星火災杯統合予選1回戦 | Yu Lijun | Lee Minjin | B+R | 6.5 | 0:1 | 0 | 1 |
 

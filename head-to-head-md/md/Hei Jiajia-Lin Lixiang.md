@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hei Jiajia vs Lin Lixiang** | **Hei Jiajia streak** | **Lin Lixiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hei Jiajia Vs Lin Lixiang** | **Hei Jiajia Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-06-06 | 第6期友士杯十段戦敗者復活戦1回戦 | Lin Lixiang | Hei Jiajia | W+R | 6.5 | 1:6 | 1 | 0 | 
 | 2013-10-03 | 第6期棋王戦（台湾）リーグ | Lin Lixiang | Hei Jiajia | B+R | 6.5 | 0:6 | 0 | 6 | 

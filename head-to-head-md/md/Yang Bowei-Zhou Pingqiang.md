@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yang Bowei vs Zhou Pingqiang** | **Yang Bowei streak** | **Zhou Pingqiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yang Bowei Vs Zhou Pingqiang** | **Yang Bowei Streak** | **Zhou Pingqiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Yang Bowei | Zhou Pingqiang | B+R | 6.5 | 1:0 | 1 | 0 |
+| 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Yang Bowei | Zhou Pingqiang | B+R | 6.5 | 1:0 | 1 | 0 |
 
 
 

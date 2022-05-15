@@ -41,9 +41,9 @@
 | 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Chen Shiyuan | Huang Shiyuan | Lose | B+R | 6.5 | 2644 | -12 | 
 | 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2656 | 30 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Li Wei | Huang Shiyuan | Lose | B+R | 6.5 | 2626 | -9 | 
-| 2021-01-12 | 第20期天元戦（台湾）予選 | Huang Shiyuan | Lin Yuxiang | Win | B+R | 6.5 | 2635 | 2 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Xinwei | Huang Shiyuan | Win | W+R | 6.5 | 2633 | 14 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Lose | W+R | 6.5 | 2619 | -154 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Huang Shiyuan | Lin Yuxiang | Win | B+R | 6.5 | 2635 | 1 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Xinwei | Huang Shiyuan | Win | W+R | 6.5 | 2634 | 14 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Lose | W+R | 6.5 | 2620 | -153 | 
 | 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Lose | W+R | 6.5 | 2773 | -12 | 
 | 2020-09-15 | 第16期国手戦（台湾）1回戦 | Yang Mengyun | Huang Shiyuan | Lose | B+R | 6.5 | 2785 | -11 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Dang Xiyun | Huang Shiyuan | Win | W+R | 6.5 | 2796 | 1 | 

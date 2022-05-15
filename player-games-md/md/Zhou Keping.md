@@ -18,10 +18,10 @@
 | 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lin Shimin | Lose | W+8.5 | 6.5 | 1961 | 50 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Zhou Keping | Lai Junfu | Lose | W+R | 6.5 | 1911 | 13 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Zhou Keping | Liu Yaowen | Lose | W+R | 6.5 | 1898 | -27 | 
-| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 1925 | -41 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Dang Xiyun | Zhou Keping | Win | W+R | 6.5 | 1966 | 166 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | Lose | W+R | 6.5 | 1800 | 20 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Win | B+R | 6.5 | 1780 | -74 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 1925 | -42 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Dang Xiyun | Zhou Keping | Win | W+R | 6.5 | 1967 | 166 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | Lose | W+R | 6.5 | 1801 | 20 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Win | B+R | 6.5 | 1781 | -73 | 
 | 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Keping |  | Lose | W+1.5 | 6.5 | 1854 | -89 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhou Keping |  | Lose | W+3.5 | 6.5 | 1943 | 42 | 
 | 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Zhou Keping | Lose | B+1.5 | 6.5 | 1901 | -204 | 

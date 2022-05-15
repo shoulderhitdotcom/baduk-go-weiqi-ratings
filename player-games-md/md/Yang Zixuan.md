@@ -38,10 +38,10 @@
 | 2021-05-28 | 第4回呉清源杯台湾予選 | Yang Zixuan | Lu Yuhua | Lose | W+R | 7.5 | 2753 | 0 | 
 | 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Win | W+R | 7.5 | 2753 | -12 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2765 | 9 | 
-| 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan |  | Win | B+R | 6.5 | 2756 | 19 | 
-| 2021-05-05 | 第8回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | 2737 | -10 | 
-| 2021-04-28 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Haohong | Win | B+R | 6.5 | 2747 | 0 | 
-| 2021-04-28 | 第8回グロービス杯台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2747 | 7 | 
+| 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan |  | Win | B+R | 6.5 | 2756 | 18 | 
+| 2021-05-05 | 第8回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | 2738 | -10 | 
+| 2021-04-28 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Haohong | Win | B+R | 6.5 | 2748 | 0 | 
+| 2021-04-28 | 第8回グロービス杯台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2748 | 8 | 
 | 2021-04-15 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Jingen | Win | B+R | 6.5 | 2740 | 0 | 
 | 2021-04-15 | 第8回グロービス杯台湾予選 | Lin Yuting | Yang Zixuan | Win | W+R | 6.5 | 2740 | 23 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Chen Feng | Yang Zixuan | Win | W+2.5 | 6.5 | 2717 | 35 | 
@@ -50,8 +50,8 @@
 | 2021-03-08 | 第2期名人冠軍戦1回戦 |  | Yang Zixuan | Win | W+R | 6.5 | 2723 | 25 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Lin Yuxiang | Yang Zixuan | Win | W+R | 6.5 | 2698 | 120 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yang Zixuan | Chen Qirui | Lose | W+R | 6.5 | 2578 | 15 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Yang Zixuan | Win | W+R | 6.5 | 2563 | 5 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Jiehan | Yang Zixuan | Lose | B+R | 6.5 | 2558 | 5 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Yang Zixuan | Win | W+R | 6.5 | 2563 | 4 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Jiehan | Yang Zixuan | Lose | B+R | 6.5 | 2559 | 6 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Yang Zixuan |  | Win | B+3¾ | 7.5 | 2553 | -26 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Yang Zixuan |  | Win | B+R | 7.5 | 2579 | -29 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ | Yang Zixuan |  | Lose | W+R | 7.5 | 2608 | -11 | 

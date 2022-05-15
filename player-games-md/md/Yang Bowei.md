@@ -11,8 +11,8 @@
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Yang Bowei | Lu Yiquan | Lose | W+R | 6.5 | 2969 | 31 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Yang Bowei | Win | W+R | 6.5 | 2938 | -39 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Yang Bowei | Huang Shiyuan | Lose | W+R | 6.5 | 2977 | -37 | 
-| 2022-02-14 | 第3期名人冠軍戦予選 |  | Yang Bowei | Win | W+R | 6.5 | 3014 | 24 | 
-| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Lose | W+R | 6.5 | 2990 | -21 | 
+| 2022-02-14 | 第3期名人冠軍戦予選 |  | Yang Bowei | Win | W+R | 6.5 | 3014 | 23 | 
+| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Lose | W+R | 6.5 | 2991 | -20 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Huang Shiyuan | Yang Bowei | Win | W+R | 6.5 | 3011 | -9 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Chen Feng | Yang Bowei | Win | W+1.5 | 6.5 | 3020 | -17 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Xu Haohong | Yang Bowei | Lose | B+R | 6.5 | 3037 | 7 | 
@@ -37,9 +37,9 @@
 | 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Xu Yuqi | Yang Bowei | Lose | B+3.5 | 6.5 | 2961 | 69 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lu Yiquan | Yang Bowei | Lose | B+R | 6.5 | 2892 | -28 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yang Bowei |  | Win | B+R | 6.5 | 2920 | 14 | 
-| 2021-01-12 | 第20期天元戦（台湾）予選 | Yang Bowei | Zhang Kaixin | Win | B+R | 6.5 | 2906 | -7 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Yang Bowei |  | Win | B+R | 6.5 | 2913 | 4 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Yifang | Yang Bowei | Win | W+R | 6.5 | 2909 | -61 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Yang Bowei | Zhang Kaixin | Win | B+R | 6.5 | 2906 | -8 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Yang Bowei |  | Win | B+R | 6.5 | 2914 | 4 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Yifang | Yang Bowei | Win | W+R | 6.5 | 2910 | -60 | 
 | 2020-10-18 | 第8期中環碁聖戦4回戦 | Lai Junfu | Yang Bowei | Win | W+R | 6.5 | 2970 | 16 | 
 | 2020-10-13 | 第16期国手戦（台湾）4回戦 | Li Wei | Yang Bowei | Lose | B+0.5 | 6.5 | 2954 | -10 | 
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yang Bowei | Lin Shuyang | Win | B+R | 6.5 | 2964 | 39 | 

@@ -50,8 +50,8 @@
 | 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Win | W+2.5 | 6.5 | 2861 | 72 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Lose | B+5.5 | 6.5 | 2789 | 10 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 | Cai Chengwei | Huang Xiangren | Win | B+R | 6.5 | 2779 | -4 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Cai Chengwei | Lose | B+0.5 | 6.5 | 2783 | -23 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Cai Chengwei | Win | W+2.5 | 6.5 | 2806 | 47 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Cai Chengwei | Lose | B+0.5 | 6.5 | 2783 | -24 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Cai Chengwei | Win | W+2.5 | 6.5 | 2807 | 48 | 
 | 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2759 | -21 | 
 | 2020-11-24 | 第16期国手戦（台湾）挑戦者決定戦 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 2780 | -73 | 
 | 2020-11-17 | 2021年台湾囲碁新鋭隊選抜戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2853 | -18 | 

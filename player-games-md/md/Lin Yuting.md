@@ -33,8 +33,8 @@
 | 2021-04-01 | 第11期友士杯十段戦予選 | Lin Yuting |  | Lose | W+R | 6.5 | 1549 | -16 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Yuting |  | Lose | W+R | 6.5 | 1565 | 112 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Lin Yuting | Zhou Pingqiang | Lose | W+R | 6.5 | 1453 | 54 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Lu Yiquan | Lin Yuting | Lose | B+R | 6.5 | 1399 | -1 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhang Kaixin | Lin Yuting | Lose | B+R | 6.5 | 1400 | -244 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Lu Yiquan | Lin Yuting | Lose | B+R | 6.5 | 1399 | -2 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhang Kaixin | Lin Yuting | Lose | B+R | 6.5 | 1401 | -243 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Lin Yuting |  | Lose | W+R | 7.5 | 1644 | -50 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Lin Yuting |  | Lose | W+R | 7.5 | 1694 | -65 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Lin Yuting | Lose | B+R | 7.5 | 1759 | -42 | 

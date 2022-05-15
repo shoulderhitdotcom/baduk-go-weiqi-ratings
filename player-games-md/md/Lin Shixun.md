@@ -28,8 +28,8 @@
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Lin Shixun |  | Win | B+R | 7.5 | 3092 | 9 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Jian Jingting | Win | B+2.5 | 6.5 | 3083 | 20 | 
 | 2022-02-11 | 第21期天元戦（台湾）敗部4回戦 | Li Wei | Lin Shixun | Win | W+R | 6.5 | 3063 | 14 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 3049 | -3 | 
-| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3052 | 8 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 3049 | -4 | 
+| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Win | W+R | 6.5 | 3053 | 9 | 
 | 2022-02-06 | 第21期天元戦（台湾）敗部2回戦 |  | Lin Shixun | Win | W+1.5 | 6.5 | 3044 | -7 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3051 | -3 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 3054 | -19 | 

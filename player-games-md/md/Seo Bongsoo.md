@@ -34,8 +34,8 @@
 | 2021-04-08 | 第8回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo |  | Win | B+R | 6.5 | 2904 | 65 | 
 | 2021-03-17 | 第8回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kwon Kapyong | Win | B+R | 6.5 | 2839 | 53 | 
 | 2021-02-24 | 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | Win | W+R | 6.5 | 2786 | 70 | 
-| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 2716 | 71 | 
-| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | W+R | 6.5 | 2645 | 54 | 
+| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 2716 | 70 | 
+| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | W+R | 6.5 | 2646 | 55 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | Win | B+11.5 | 6.5 | 2591 | -25 | 
 | 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第1局 |  | Seo Bongsoo | Win | W+1.5 | 6.5 | 2616 | 1 | 
 | 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | Win | W+7.5 | 6.5 | 2615 | 11 | 

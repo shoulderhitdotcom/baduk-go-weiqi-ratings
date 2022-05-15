@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Choi Kyubyeong | Moon Myunggun | Win | B+22.5 | 6.5 | 2688 | -13 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Choi Kyubyeong | Kim Kihun | Win | B+R | 6.5 | 2701 | 18 | 
 | 2022-04-29 | 第9回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Choi Kyubyeong | Lose | B+4.5 | 6.5 | 2683 | -61 | 
 | 2022-03-25 | 第9回大舟杯プロシニア最強者戦2回戦 | Choi Kyubyeong | Cho Hyeyeon | Win | B+1.5 | 6.5 | 2744 | 32 | 

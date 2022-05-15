@@ -13,8 +13,8 @@
 | 2022-03-28 | 第12期友士杯十段戦予選 | Lin Shuyang | Lu Yiquan | Lose | W+R | 6.5 | 2831 | -31 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Shuyang | Jian Jingting | Lose | W+0.5 | 6.5 | 2862 | -7 | 
 | 2022-02-17 | 第3期名人冠軍戦予選 | Lin Jiehan | Lin Shuyang | Win | W+5.5 | 6.5 | 2869 | 26 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Lin Shuyang | Lin Lixiang | Lose | W+R | 6.5 | 2843 | -11 | 
-| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Lin Lixiang | Lin Shuyang | Lose | B+R | 6.5 | 2854 | -11 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Lin Shuyang | Lin Lixiang | Lose | W+R | 6.5 | 2843 | -12 | 
+| 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Lin Lixiang | Lin Shuyang | Lose | B+R | 6.5 | 2855 | -10 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Lin Shuyang | Lu Yiquan | Win | B+R | 6.5 | 2865 | 9 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Lin Shuyang | Win | W+9.5 | 6.5 | 2856 | -9 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Lin Shuyang | Lin Lixiang | Lose | W+4.5 | 6.5 | 2865 | 14 | 
@@ -45,9 +45,9 @@
 | 2021-03-19 | 第17期国手戦（台湾） | Dai Jiashen | Lin Shuyang | Win | W+R | 6.5 | 2817 | -15 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Lin Shuyang | Xu Jingen | Lose | W+R | 6.5 | 2832 | 24 | 
 | 2021-03-04 | 第2期名人冠軍戦予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2808 | -25 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2833 | 96 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Yida | Lin Shuyang | Win | W+R | 6.5 | 2737 | -6 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Lin Shuyang | Lose | B+1.5 | 6.5 | 2743 | -145 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2833 | 95 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Yida | Lin Shuyang | Win | W+R | 6.5 | 2738 | -6 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Lin Shuyang | Lose | B+1.5 | 6.5 | 2744 | -144 | 
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yang Bowei | Lin Shuyang | Lose | B+R | 6.5 | 2888 | 7 | 
 | 2020-10-05 | 第13期棋王戦（台湾）予選 | Lin Shuyang | Chen Qirui | Lose | W+R | 6.5 | 2881 | -37 | 
 | 2020-09-24 | 第13期棋王戦（台湾）予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2918 | 21 | 

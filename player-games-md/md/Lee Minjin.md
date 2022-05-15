@@ -12,8 +12,8 @@
 | 2022-04-07 | 第5回呉清源杯韓国予選 | Lee Minjin | Park Jiyeon | Lose | W+2.5 | 7.5 | 2796 | -16 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | Lose | B+¼ | 7.5 | 2812 | -20 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | Lose | W+R | 7.5 | 2832 | 0 | 
-| 2022-04-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | Win | W+R | 7.5 | 2832 | 13 | 
-| 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Win | W+5.5 | 6.5 | 2819 | 15 | 
+| 2022-04-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | Win | W+R | 7.5 | 2832 | 12 | 
+| 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Win | W+5.5 | 6.5 | 2820 | 16 | 
 | 2022-03-30 | 2022年アジア競技大会韓国予選 | Kim Dayoung | Lee Minjin | Lose | B+R | 7.5 | 2804 | 0 | 
 | 2022-03-30 | 2022年アジア競技大会韓国予選 |  | Lee Minjin | Win | W+R | 7.5 | 2804 | -33 | 
 | 2022-03-11 | 第9回大舟杯プロシニア最強者戦1回戦 |  | Lee Minjin | Win | W+R | 6.5 | 2837 | 29 | 

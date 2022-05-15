@@ -48,10 +48,10 @@
 | 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin |  | Lose | W+R | 7.5 | 3031 | 65 | 
 | 2021-04-07 | 第8回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Yoo Changhyuk | Lose | W+R | 6.5 | 2966 | -3 | 
 | 2021-03-25 | 第8回大舟杯プロシニア最強者戦2回戦 | Kim Hyeoimin | Cho Hyeyeon | Win | B+9.5 | 6.5 | 2969 | 101 | 
-| 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Lose | B+2.5 | 6.5 | 2868 | 0 | 
-| 2021-01-05 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Paek Hongseok | Kim Hyeoimin | Lose | B+R | 6.5 | 2868 | 11 | 
-| 2021-01-02 | 第4期韓国製紙女子棋聖戦特別対局 | Cho Hyeyeon | Kim Hyeoimin | Win | W+2.5 | 6.5 | 2857 | 30 | 
-| 2020-11-30 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Hyeoimin | Cho Hyeyeon | Lose | W+R | 6.5 | 2827 | -17 | 
+| 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Lose | B+2.5 | 6.5 | 2868 | -1 | 
+| 2021-01-05 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Paek Hongseok | Kim Hyeoimin | Lose | B+R | 6.5 | 2869 | 11 | 
+| 2021-01-02 | 第4期韓国製紙女子棋聖戦特別対局 | Cho Hyeyeon | Kim Hyeoimin | Win | W+2.5 | 6.5 | 2858 | 30 | 
+| 2020-11-30 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Hyeoimin | Cho Hyeyeon | Lose | W+R | 6.5 | 2828 | -16 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Kim Hyeoimin |  | Lose | W+¼ | 7.5 | 2844 | -19 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Park Jiyeon | Kim Hyeoimin | Win | W+R | 7.5 | 2863 | 16 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Hyeoimin | Kim Eunji | Lose | W+4¾ | 7.5 | 2847 | 4 | 

@@ -25,9 +25,9 @@
 | 2021-03-26 | 第17期国手戦（台湾） | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2224 | -78 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Lin Yuting | Zhou Pingqiang | Win | W+R | 6.5 | 2302 | -13 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Li Wei | Lose | W+1.5 | 6.5 | 2315 | -13 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Pingqiang | Zhou Yinnan | Lose | W+R | 6.5 | 2328 | -12 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2340 | 29 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2311 | 4 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Pingqiang | Zhou Yinnan | Lose | W+R | 6.5 | 2328 | -13 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2341 | 29 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2312 | 5 | 
 | 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang |  | Lose | W+6.5 | 6.5 | 2307 | -64 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Zhou Pingqiang |  | Lose | W+4.5 | 6.5 | 2371 | 6 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2365 | -27 | 

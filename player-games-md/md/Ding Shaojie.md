@@ -26,8 +26,8 @@
 | 2021-04-12 | 第11期友士杯十段戦予選 | Ding Shaojie | Lin Shuyang | Lose | W+R | 6.5 | 2232 | 4 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Ding Shaojie | Chen Xi | Lose | W+R | 6.5 | 2228 | 34 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Wang Yuanjun | Ding Shaojie | Lose | B+R | 6.5 | 2194 | -73 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | Lose | B+R | 6.5 | 2267 | -41 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 | Ding Shaojie |  | Lose | W+R | 6.5 | 2308 | 78 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | Lose | B+R | 6.5 | 2267 | -42 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Ding Shaojie |  | Lose | W+R | 6.5 | 2309 | 79 | 
 | 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 |  | Ding Shaojie | Lose | B+R | 6.5 | 2230 | -123 | 
 | 2020-10-18 | 第8期中環碁聖戦4回戦 | Xu Haohong | Ding Shaojie | Lose | B+R | 6.5 | 2353 | 9 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Yu Lijun | Ding Shaojie | Lose | B+R | 6.5 | 2344 | -8 | 

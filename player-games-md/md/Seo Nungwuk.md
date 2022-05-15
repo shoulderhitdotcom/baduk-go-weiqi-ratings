@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Kim Chanwu | Seo Nungwuk | Lose | B+R | 6.5 | 2697 | -67 | 
-| 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Lose | W+5.5 | 6.5 | 2764 | -3 | 
+| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Kim Chanwu | Seo Nungwuk | Lose | B+R | 6.5 | 2697 | -68 | 
+| 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Lose | W+5.5 | 6.5 | 2765 | -2 | 
 | 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Yoonyoung | Seo Nungwuk | Win | W+7.5 | 6.5 | 2767 | 19 | 
 | 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Win | W+4.5 | 6.5 | 2748 | 27 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yu Bin | Seo Nungwuk | Lose | B+R | 6.5 | 2721 | 33 | 

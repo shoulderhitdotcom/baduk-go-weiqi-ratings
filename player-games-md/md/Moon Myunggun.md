@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2019NHシニア囲碁リーグ第13節第3試合第3局 | Moon Myunggun | missing | W+6.5 | 2019-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmW8Ymhl930hs9JsaxFNJg%3D%3D) | 
 | 2019NHシニア囲碁リーグ第12節第1試合第2局 | Seo Bongsoo | Moon Myunggun | B+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25P6byK6wRFIUcXVMZrbcw%3D%3D) | 

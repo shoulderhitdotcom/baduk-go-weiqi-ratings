@@ -36,10 +36,10 @@
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang | Yu Lijun | Lose | B+R | 6.5 | 2552 | -19 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Yu Lijun | Liu Chuanting | Win | B+2.5 | 6.5 | 2571 | 30 | 
 | 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Mukai Chiaki | Yu Lijun | Lose | B+R | 6.5 | 2541 | 59 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2482 | 4 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Huang Xiangren | Yu Lijun | Lose | B+R | 6.5 | 2478 | -20 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Win | W+R | 6.5 | 2498 | 42 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 | Yu Lijun |  | Win | B+R | 6.5 | 2456 | 61 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2482 | 3 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Huang Xiangren | Yu Lijun | Lose | B+R | 6.5 | 2479 | -20 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Win | W+R | 6.5 | 2499 | 42 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Yu Lijun |  | Win | B+R | 6.5 | 2457 | 62 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Kim Eunji | Yu Lijun | Lose | B+R | 7.5 | 2395 | -22 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Yu Lijun | Win | W+R | 7.5 | 2417 | -29 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Yu Lijun | Lose | B+R | 7.5 | 2446 | -10 | 

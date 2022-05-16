@@ -60,8 +60,8 @@
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3549 | -2 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3551 | 2 | 
 | 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3549 | -4 | 
-| 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Win | W+R | 6.5 | 3553 | 7 | 
-| 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Win | W+R | 6.5 | 3546 | 14 | 
+| 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Win | W+R | 6.5 | 3553 | 8 | 
+| 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Win | W+R | 6.5 | 3545 | 13 | 
 | 2021-06-18 | 第26回GSカルテックス杯プロ棋戦3回戦 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3532 | -6 | 
 | 2021-06-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Lose | B+R | 6.5 | 3538 | -4 | 
 | 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Lose | B+R | 6.5 | 3542 | -3 | 
@@ -123,8 +123,8 @@
 | 2020-04-14 | 第25回LG杯韓国予選 | Lee Changseok |  | Win | B+R | 6.5 | 3361 | 5 | 
 | 2020-04-09 | 第25期GSカルテックス杯プロ棋戦16強戦 | Lee Hoseong | Lee Changseok | Win | W+R | 6.5 | 3356 | 21 | 
 | 2020-03-13 | 第25期GSカルテックス杯プロ棋戦24強戦 | Lee Changseok | Kim Myounghoon | Win | B+R | 6.5 | 3335 | 0 | 
-| 2020-02-09 | 2019-2020韓国囲碁リーグ準プレーオフ第3戦第2局 | Lee Changseok | Lee Hoseong | Lose | W+R | 6.5 | 3335 | -17 | 
-| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第2局 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3352 | -1 | 
+| 2020-02-09 | 2019-2020韓国囲碁リーグ準プレーオフ第3戦第2局 | Lee Changseok | Lee Hoseong | Lose | W+R | 6.5 | 3335 | -16 | 
+| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第2局 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3351 | -2 | 
 | 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第2局 | Han Sanghoon | Lee Changseok | Win | W+R | 6.5 | 3353 | 7 | 
 | 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第2局 | Lee Yeongkyu | Lee Changseok | Win | W+R | 6.5 | 3346 | 17 | 
 | 2020-02-05 | 2019-2020韓国囲碁リーグワイルドカード決定戦第1戦第2局 | Kim Myounghoon | Lee Changseok | Win | W+R | 6.5 | 3329 | 18 | 

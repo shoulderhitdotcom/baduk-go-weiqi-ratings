@@ -23,8 +23,8 @@
 | 2021-09-30 | 第47期名人戦予選 | Iida Junya | Kono Rin | Win | W+R | 6.5 | 2991 | -15 | 
 | 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | W+4.5 | 6.5 | 3006 | -94 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3100 | 7 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3093 | -24 | 
-| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3117 | -34 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3093 | -23 | 
+| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3116 | -35 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Lose | W+R | 6.5 | 3151 | -6 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Lose | W+R | 6.5 | 3157 | -24 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Kono Rin | Adachi Toshimasa | Lose | W+R | 6.5 | 3181 | 20 | 

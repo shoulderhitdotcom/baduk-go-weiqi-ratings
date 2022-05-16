@@ -62,9 +62,9 @@
 | 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3543 | 0 | 
 | 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | B+0.5 | 6.5 | 3543 | 18 | 
 | 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Win | W+R | 6.5 | 3525 | -6 | 
-| 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | B+R | 6.5 | 3531 | 11 | 
-| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Win | B+0.5 | 6.5 | 3520 | -1 | 
-| 2021-06-26 | 第46期碁聖戦挑戦手合五番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3521 | -11 | 
+| 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | B+R | 6.5 | 3531 | 12 | 
+| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Win | B+0.5 | 6.5 | 3519 | -1 | 
+| 2021-06-26 | 第46期碁聖戦挑戦手合五番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3520 | -12 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3532 | 4 | 
 | 2021-06-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3528 | 14 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Win | W+R | 6.5 | 3514 | 0 | 

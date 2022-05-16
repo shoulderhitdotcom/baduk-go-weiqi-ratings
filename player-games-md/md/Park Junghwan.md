@@ -91,8 +91,8 @@
 | 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3693 | -7 | 
 | 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3700 | -7 | 
 | 2021-07-05 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3707 | 15 | 
-| 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Win | W+R | 6.5 | 3692 | 0 | 
-| 2021-07-01 | 第26回GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | Park Junghwan | Lose | B+0.5 | 6.5 | 3692 | 9 | 
+| 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Win | W+R | 6.5 | 3692 | 1 | 
+| 2021-07-01 | 第26回GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | Park Junghwan | Lose | B+0.5 | 6.5 | 3691 | 8 | 
 | 2021-06-19 | 第44期名人戦（韓国）3回戦 | Park Junghwan | An Jungki | Win | B+R | 6.5 | 3683 | -1 | 
 | 2021-06-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Win | B+R | 6.5 | 3684 | 10 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Park Junghwan | Lose | B+R | 7.5 | 3674 | -7 | 
@@ -106,8 +106,8 @@
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Win | B+R | 6.5 | 3697 | 3 | 
 | 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3694 | -1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | Win | B+R | 7.5 | 3695 | 13 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Park Junghwan | Win | W+¼ | 7.5 | 3682 | 3 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Ding Hao | Park Junghwan | Win | W+R | 7.5 | 3679 | 11 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Park Junghwan | Win | W+¼ | 7.5 | 3682 | 4 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Ding Hao | Park Junghwan | Win | W+R | 7.5 | 3678 | 10 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Park Junghwan | Win | W+R | 7.5 | 3668 | 3 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Li Weiqing | Park Junghwan | Win | W+R | 7.5 | 3665 | 7 | 
 | 2021-05-01 | 第44期名人戦（韓国）2回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3658 | 2 | 

@@ -22,8 +22,8 @@
 | 2022-01-25 | 2022議政府国際新鋭団体戦韓国予選 |  | Han Woojin | Win | W+R | 6.5 | 3122 | -58 | 
 | 2021-12-16 | 第5回クラウン・ヘテ杯1回戦 | Han Woojin | Han Seungjoo | Lose | W+R | 6.5 | 3180 | -37 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Han Woojin | Kim Junghyun | Lose | W+2.5 | 6.5 | 3217 | 42 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Woojin | Seol Hyunjun | Lose | W+R | 6.5 | 3175 | 98 | 
-| 2021-05-10 | 第9回河燦錫国手杯英才最強戦準決勝 | Moon Minjong | Han Woojin | Lose | B+R | 6.5 | 3077 | -21 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Woojin | Seol Hyunjun | Lose | W+R | 6.5 | 3175 | 99 | 
+| 2021-05-10 | 第9回河燦錫国手杯英才最強戦準決勝 | Moon Minjong | Han Woojin | Lose | B+R | 6.5 | 3076 | -22 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Cho Wankyu | Win | B+R | 6.5 | 3098 | 0 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Win | B+R | 6.5 | 3098 | 62 | 
 | 2021-04-30 | 第9回河燦錫国手杯英才最強戦3回戦 |  | Han Woojin | Win | W+0.5 | 6.5 | 3036 | 29 | 

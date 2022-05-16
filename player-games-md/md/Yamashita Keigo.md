@@ -32,13 +32,13 @@
 | 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3276 | -2 | 
 | 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3278 | 31 | 
 | 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3247 | 21 | 
-| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3226 | 4 | 
-| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3222 | -21 | 
+| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3226 | 5 | 
+| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3221 | -22 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3243 | 1 | 
 | 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 3242 | 5 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Win | B+6.5 | 6.5 | 3237 | -13 | 
-| 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3250 | 23 | 
-| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3227 | 19 | 
+| 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3250 | 24 | 
+| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3226 | 18 | 
 | 2021-04-29 | 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 | 3208 | -5 | 
 | 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5 | 3213 | -6 | 
 | 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | Win | W+R | 6.5 | 3219 | 34 | 

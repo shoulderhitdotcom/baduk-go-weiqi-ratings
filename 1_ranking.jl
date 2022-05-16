@@ -13,7 +13,6 @@ using StatsBase
 using JDF
 using CSV
 using Alert
-using Revise: includet
 using TableScraper: scrape_tables
 
 includet("utils.jl")
@@ -227,7 +226,7 @@ end
 
 # make ratings database
 if false# run only once to generate the historical ratings
-    @time pings_hist = mapreduce(vcat, Date(2021, 1, 1):Day(1):Date(2022, 4, 8)) do date
+    @time pings_hist = mapreduce(vcat, Date(2020, 1, 1):Day(1):Date(2022, 5, 5)) do date
         println(date)
         # @time pings_hist = mapreduce(vcat, missing_dates) do date
         if isfile("records/$(string(date)) pings.csv")
@@ -370,7 +369,7 @@ rank_ranges = @chain pings_hist begin
     end
     leftjoin(counts, on=:name => :value)
     @subset !ismissing(:ngames)
-    @subset :ngames >= NGAME_THRESHOLD
+    # @subset :ngames >= NGAME_THRESHOLD
     groupby(:date)
     combine(df -> begin
         df = sort(df, :Rating, rev=true)
@@ -378,7 +377,7 @@ rank_ranges = @chain pings_hist begin
         df
     end)
     groupby(:name)
-    @combine(:ranking_range = string(extrema(:ranking)), :median_rank = median(:ranking))
+    @combine(:form_range = string(extrema(:ranking)), :median_rank = median(:ranking))
 end
 
 
@@ -451,13 +450,16 @@ top100names = @chain pings_hist_adj begin
     _[1:100, :name]
 end
 
+
+d1, d2 = sort(pings_hist_adj.date |> unique)[1:2]
+
 top100_movements = @chain pings_hist_adj begin
     @subset :name in top100names
-    @subset :date in (md, md - Day(1))
+    @subset :date in (d1, d2)
     groupby(:name)
     combine(df -> begin
         if nrow(df) == 1
-            return DataFrame()
+            error("what")
         end
         @chain df begin
             sort(:date)
@@ -468,7 +470,7 @@ top100_movements = @chain pings_hist_adj begin
     @transform :abs_rating_change = abs(:rating_change)
     sort(:abs_rating_change, rev=true)
     @transform :eng_name = get(NAMESDB, :name, "")
-    select(:eng_name=>:Name, :rating_change=>Symbol("Rating Change"), :name => Symbol("汉字"))
+    select(:eng_name=>:Name, :abs_rating_change=>Symbol("Rating Change"), :name => Symbol("汉字"))
 end
 
 JDF.save("top100_movements.jdf", top100_movements)
@@ -502,7 +504,7 @@ pings_for_md_tmp = select(
     :Form, :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
     :median_rank => "Median Rank",
-    :ranking_range => "Rank Range",
+    :form_range => "Form Rank Range",
     :name => "Hanzi (汉字) Name")
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
@@ -512,7 +514,7 @@ below_threshold_pings_for_md = @chain pings_for_md_tmp begin
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
-    # @subset $"Games Played" >= NGAME_THRESHOLD
+    @subset $"Games Played" >= NGAME_THRESHOLD
     sort!(:Class, rev=true)
     @transform :Rank = @c 1:length(:Rating)
 end

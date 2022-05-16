@@ -1,4 +1,4 @@
-## Hei Jiajia Games
+## Park Yeonghun vs Yoo Ohseong Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Hei Jiajia.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Park Yeonghun-Yoo Ohseong.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

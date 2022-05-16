@@ -10,9 +10,11 @@ The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
 
-[Biggest Movers today](#biggest-movers-in-top-100-today)
+[Biggest Movers today in top 100](#biggest-movers-in-top-100-today)
 
 [Biggest Movers 365 days](#biggest-movers-in-top-100-last-365-days)
+
+[Infrequent players](#infrequent-players)
 
 ### Top 100
 
@@ -84,6 +86,21 @@ biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
 end
 
 df_to_md(biggest_movers)
+```
+
+### Infrequent players
+
+```{julia; echo=false; line_width=888}
+using JDF
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+tmp = JDF.load("below_threshold_pings_for_md.jdf") |> DataFrame
+
+select!(tmp, Not(:Uncertainty))
+
+df_to_md(tmp)
 ```
 
 [Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)

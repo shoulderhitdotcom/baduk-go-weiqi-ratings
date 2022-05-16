@@ -8,7 +8,6 @@ using Chain: @chain
 using Dates: Date, Day
 using JDF
 using Missings: skipmissings
-using Revise: includet
 using TableScraper: scrape_tables
 using GLM # need to estimate trends
 

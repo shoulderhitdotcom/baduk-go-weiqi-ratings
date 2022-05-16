@@ -1,2 +1,10 @@
 [deps]
+BadukGoWeiqiTools = "71566503-fddc-4190-936c-ecb38fefcffd"
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+DataFrameMacros = "75880514-38bc-4a95-a458-c2aea5a3a702"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 FloatingTableView = "197bc772-8d3f-4a3f-b50f-4eb5086fedbf"
+IOCapture = "b5f81e59-6552-4d32-b1f0-c071b021bf89"
+JDF = "babc3d20-cd49-4f60-a736-a8f9c08892d3"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"

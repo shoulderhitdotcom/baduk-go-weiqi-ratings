@@ -30,7 +30,7 @@ The ratings are based on 4608 games from 2021-05-17 to 2022-05-16.
 | 6 | [Ding Hao](./player-games-md/md/Ding Hao.md) | 3686 | 3698 | 12 | 52 | 4.0 | (2, 14) | 丁浩 | 
 | 7 | [Yang Dingxin](./player-games-md/md/Yang Dingxin.md) | 3663 | 3598 | -65 | 48 | 7.0 | (5, 9) | 楊鼎新 | 
 | 8 | [Mi Yuting](./player-games-md/md/Mi Yuting.md) | 3638 | 3675 | 37 | 62 | 8.0 | (4, 23) | 芈昱廷 | 
-| 9 | [Weon Seongjin](./player-games-md/md/Weon Seongjin.md) | 3588 | 3443 | -145 | 74 | 10.0 | (3, 50) | 元晟溱 | 
+| 9 | [Weon Seongjin](./player-games-md/md/Weon Seongjin.md) | 3587 | 3443 | -144 | 74 | 10.0 | (3, 50) | 元晟溱 | 
 | 10 | [Li Qincheng](./player-games-md/md/Li Qincheng.md) | 3584 | 3548 | -36 | 36 | 11.0 | (9, 31) | 李欽誠 | 
 | 11 | [Dang Yifei](./player-games-md/md/Dang Yifei.md) | 3572 | 3587 | 15 | 36 | 13.0 | (9, 29) | 党毅飛 | 
 | 12 | [Fan Tingyu](./player-games-md/md/Fan Tingyu.md) | 3568 | 3629 | 61 | 49 | 17.0 | (7, 32) | 范廷鈺 | 
@@ -112,7 +112,7 @@ The ratings are based on 4608 games from 2021-05-17 to 2022-05-16.
 | 88 | [Wang Yuanjun](./player-games-md/md/Wang Yuanjun.md) | 3282 | 3371 | 89 | 39 | 107.0 | (72, 128) | 王元均 | 
 | 89 | [Hong Seongji](./player-games-md/md/Hong Seongji.md) | 3279 | 3322 | 43 | 25 | 104.0 | (76, 163) | 洪性志 | 
 | 90 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3274 | 3301 | 27 | 44 | 106.0 | (88, 141) | 文敏鍾 | 
-| 91 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3266 | 3194 | -72 | 17 | 93.0 | (74, 220) | 金炯佑 | 
+| 91 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3265 | 3194 | -71 | 17 | 93.0 | (74, 220) | 金炯佑 | 
 | 92 | [Na Hyun](./player-games-md/md/Na Hyun.md) | 3263 | 3287 | 24 | 21 | 106.0 | (63, 212) | 羅玄 | 
 | 93 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3263 | 3427 | 164 | 23 | 85.0 | (45, 207) | 洪茂鎭 | 
 | 94 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3262 | 3312 | 50 | 25 | 106.0 | (72, 206) | 李映九 | 
@@ -295,7 +295,7 @@ Note that players with fewer than 13 games are not in the list
 | 256 | [](./player-games-md/md/.md) | 2395 | 2553 | 158 | 13 | 443.0 | (390, 479) | 朴昭律 | 
 | 257 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2357 | 2445 | 88 | 17 | 454.0 | (416, 496) | 白成豪 | 
 | 258 | [](./player-games-md/md/.md) | 2356 | 2405 | 49 | 13 | 475.0 | (333, 505) | 姜智洙 | 
-| 259 | [](./player-games-md/md/.md) | 2329 | 2170 | -159 | 15 | 476.0 | (414, 505) | 張庭維 | 
+| 259 | [](./player-games-md/md/.md) | 2328 | 2170 | -158 | 15 | 476.0 | (414, 505) | 張庭維 | 
 | 260 | [](./player-games-md/md/.md) | 2328 | 2246 | -82 | 13 | 500.5 | (277, 527) | 李裕眞 | 
 | 261 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2312 | 2370 | 58 | 16 | 464.0 | (387, 529) | 鄭大相 | 
 | 262 | [Kim Dongmyeon](./player-games-md/md/Kim Dongmyeon.md) | 2284 | 2245 | -39 | 13 | 496.0 | (385, 519) | 金東勉 | 
@@ -436,30 +436,30 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Jin Yucheng | 455 | 21 | 金禹丞 | 
 | Park Yeonghun | 428 | 34 | 朴永訓 | 
 | Han Seungjoo | 415 | 46 | 韓昇周 | 
-| Peng Liyao | 364 | 37 | 彭立尭 | 
+| Peng Liyao | 365 | 37 | 彭立尭 | 
 | Hu Yuhan | 315 | 14 | 胡鈺函 | 
 | Ida Atsushi | 300 | 21 | 伊田篤史 | 
-| Wang Xinghao | 222 | 42 | 王星昊 | 
+| Wang Xinghao | 223 | 42 | 王星昊 | 
 | Hsu Chiayuan | 221 | 49 | 許家元 | 
 | Lee Wondo | 214 | 28 | 李元道 | 
 | Mi Yuting | 210 | 63 | 芈昱廷 | 
 | Kim Jinhyu | 209 | 27 | 金眞輝 | 
 | Zhang Tao | 203 | 28 | 張涛 | 
-| Zhao Chenyu | 202 | 40 | 趙晨宇 | 
+| Zhao Chenyu | 203 | 40 | 趙晨宇 | 
 | Park Joonhoon | 200 | 25 | 朴鐘勲 | 
 | Liao Yuanhe | 199 | 36 | 廖元赫 | 
 | Ding Hao | 192 | 52 | 丁浩 | 
 | Yu Zhengqi | 187 | 46 | 余正麒 | 
 | Park Geunho | 187 | 34 | 朴鍵昊 | 
-| Fan Yin | 172 | 30 | 范胤 | 
+| Fan Yin | 173 | 30 | 范胤 | 
 | Huang Yunsong | 171 | 54 | 黄雲嵩 | 
 | Wang Yuanjun | 168 | 41 | 王元均 | 
-| Wu Guangya | 152 | 18 | 鄔光亜 | 
+| Wu Guangya | 153 | 18 | 鄔光亜 | 
 | Hong Seongji | 146 | 26 | 洪性志 | 
 | Iyama Yuta | 142 | 50 | 井山裕太 | 
 | Yun Chanhee | 137 | 39 | 尹燦熙 | 
 | Tu Xiaoyu | 132 | 40 | 屠暁宇 | 
-| Park Jinsol | 122 | 30 | 朴進率 | 
+| Park Jinsol | 123 | 30 | 朴進率 | 
 | Kim Myounghoon | 116 | 37 | 金明訓 | 
 | Dang Yifei | 108 | 37 | 党毅飛 | 
 | Zhou Ruiyang | 105 | 21 | 周睿羊 | 
@@ -472,16 +472,16 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Li Qincheng | 83 | 36 | 李欽誠 | 
 | Han Yizhou | 80 | 18 | 韓一洲 | 
 | Shi Yue | 79 | 36 | 時越 | 
-| Fan Tingyu | 74 | 50 | 范廷鈺 | 
+| Fan Tingyu | 75 | 50 | 范廷鈺 | 
 | Shibano Toramaru | 72 | 49 | 芝野虎丸 | 
 | Byun Sangil | 71 | 84 | 卞相壹 | 
-| Choi Cheolhan | 65 | 29 | 崔哲瀚 | 
+| Choi Cheolhan | 66 | 29 | 崔哲瀚 | 
 | Park Hamin | 62 | 44 | 朴河旼 | 
 | Tong Mengcheng | 59 | 40 | 童夢成 | 
 | Park Junghwan | 48 | 98 | 朴廷桓 | 
 | Yang Kaiwen | 48 | 27 | 楊楷文 | 
 | Li Xuanhao | 42 | 53 | 李軒豪 | 
-| Han Sanghoon | 41 | 32 | 韓尚勲 | 
+| Han Sanghoon | 42 | 32 | 韓尚勲 | 
 | Seol Hyunjun | 41 | 44 | 偰玹準 | 
 | Chen Yaoye | 40 | 20 | 陳耀燁 | 
 | Park Minkyu | 32 | 26 | 朴珉奎 | 
@@ -490,13 +490,13 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Choi Jaeyoung | 30 | 25 | 崔宰栄 | 
 | Huang Mingyu | 28 | 16 | 黄明宇 | 
 | Tan Xiao | 27 | 43 | 檀嘯 | 
-| Hane Naoki | 26 | 27 | 羽根直樹 | 
+| Hane Naoki | 27 | 27 | 羽根直樹 | 
 | Xu Haohong | 26 | 70 | 許皓鋐 | 
-| Xie Ke | 22 | 42 | 謝科 | 
-| Gu Zihao | 22 | 39 | 辜梓豪 | 
+| Xie Ke | 23 | 42 | 謝科 | 
+| Gu Zihao | 23 | 39 | 辜梓豪 | 
 | Yamashita Keigo | 22 | 31 | 山下敬吾 | 
 | Kim Jiseok | 19 | 78 | 金志錫 | 
-| Shin Jinseo | 17 | 107 | 申眞諝 | 
+| Shin Jinseo | 18 | 107 | 申眞諝 | 
 | Yang Dingxin | 17 | 48 | 楊鼎新 | 
 | Ke Jie | 5 | 45 | 柯潔 | 
 | Kang Dongyun | 1 | 65 | 姜東潤 | 
@@ -504,7 +504,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Li Weiqing | -2 | 35 | 李維清 | 
 | Shin Minjun | -7 | 73 | 申旻埈 | 
 | An Sungjoon | -8 | 44 | 安成浚 | 
-| Tuo Jiaxi | -20 | 41 | 柁嘉熹 | 
+| Tuo Jiaxi | -19 | 41 | 柁嘉熹 | 
 | Lian Xiao | -24 | 52 | 連笑 | 
 | Park Sangjin | -30 | 36 | 朴常鎭 | 
 | Kang Seungmin | -34 | 37 | 姜昇旼 | 
@@ -517,10 +517,10 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Lee Changseok | -83 | 65 | 李昌錫 | 
 | Lee Yeongkyu | -83 | 26 | 李映九 | 
 | Chen Xian | -89 | 33 | 陳賢 | 
-| Tang Weixing | -98 | 37 | 唐韋星 | 
-| Lee Wonyoung | -99 | 25 | 李元栄 | 
+| Tang Weixing | -97 | 37 | 唐韋星 | 
+| Lee Wonyoung | -98 | 25 | 李元栄 | 
 | Xie Erhao | -126 | 30 | 謝爾豪 | 
-| Jiang Weijie | -189 | 23 | 江維傑 | 
+| Jiang Weijie | -188 | 23 | 江維傑 | 
 | Tao Xinran | -207 | 31 | 陶欣然 | 
 | Weon Seongjin | -224 | 75 | 元晟溱 | 
 | Na Hyun | -244 | 21 | 羅玄 | 
@@ -558,7 +558,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 18 | [Ding Shixiong](./player-games-md/md/Ding Shixiong.md) | 3253 | 3291 | 38 | 11 | 112.0 | (72, 177) | 丁世雄 | 
 | 19 | [Zhou Hexi](./player-games-md/md/Zhou Hexi.md) | 3250 | 3053 | -197 | 12 | 112.0 | (93, 208) | 周賀璽 | 
 | 20 | [Chen Bisen](./player-games-md/md/Chen Bisen.md) | 3241 | 3259 | 18 | 3 | 127.0 | (82, 149) | 陳必森 | 
-| 21 | [](./player-games-md/md/.md) | 3241 | 3265 | 24 | 5 | 139.0 | (64, 320) | 李昊潼 | 
+| 21 | [](./player-games-md/md/.md) | 3240 | 3265 | 25 | 5 | 139.0 | (64, 320) | 李昊潼 | 
 | 22 | [Yun Junsang](./player-games-md/md/Yun Junsang.md) | 3231 | 3196 | -35 | 6 | 114.0 | (79, 231) | 尹畯相 | 
 | 23 | [Liao Xingwen](./player-games-md/md/Liao Xingwen.md) | 3230 | 3298 | 68 | 2 | 126.0 | (87, 211) | 廖行文 | 
 | 24 | [Suzuki Shinji](./player-games-md/md/Suzuki Shinji.md) | 3229 | 3113 | -116 | 4 | 126.0 | (88, 194) | 鈴木伸二 | 
@@ -607,7 +607,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 67 | [So Yokoku](./player-games-md/md/So Yokoku.md) | 2948 | 3223 | 275 | 7 | 185.0 | (128, 371) | 蘇耀国 | 
 | 68 | [Li Zerui](./player-games-md/md/Li Zerui.md) | 2925 | 2787 | -138 | 6 | 216.0 | (145, 325) | 李沢鋭 | 
 | 69 | [Shi Yulai](./player-games-md/md/Shi Yulai.md) | 2917 | 2892 | -25 | 3 | 248.0 | (202, 268) | 石豫来 | 
-| 70 | [Hirose Yuichi](./player-games-md/md/Hirose Yuichi.md) | 2911 | 3240 | 329 | 9 | 264.5 | (122, 436) | 広瀬優一 | 
+| 70 | [Hirose Yuichi](./player-games-md/md/Hirose Yuichi.md) | 2910 | 3240 | 330 | 9 | 264.5 | (122, 436) | 広瀬優一 | 
 | 71 | [O Meien](./player-games-md/md/O Meien.md) | 2901 | 3081 | 180 | 12 | 234.5 | (186, 412) | 王銘琬 | 
 | 72 | [Chen Hao](./player-games-md/md/Chen Hao.md) | 2899 | 3004 | 105 | 8 | 247.0 | (147, 327) | 陳浩 | 
 | 73 | [Shen Peiran](./player-games-md/md/Shen Peiran.md) | 2896 | 3351 | 455 | 8 | 230.0 | (78, 424) | 沈沛然 | 
@@ -663,7 +663,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 123 | [Zhang Zhehao](./player-games-md/md/Zhang Zhehao.md) | 2683 | 2574 | -109 | 8 | 360.0 | (250, 444) | 張哲豪 | 
 | 124 | [](./player-games-md/md/.md) | 2674 | 2729 | 55 | 3 | 326.0 | (258, 468) | 武井太心 | 
 | 125 | [](./player-games-md/md/.md) | 2672 | 2679 | 7 | 10 | 343.0 | (294, 388) | 朴隻玹 | 
-| 126 | [Fujii Shuya](./player-games-md/md/Fujii Shuya.md) | 2671 | 2600 | -71 | 9 | 327.0 | (257, 513) | 藤井秀哉 | 
+| 126 | [Fujii Shuya](./player-games-md/md/Fujii Shuya.md) | 2670 | 2600 | -70 | 9 | 327.0 | (257, 513) | 藤井秀哉 | 
 | 127 | [Mukai Chiaki](./player-games-md/md/Mukai Chiaki.md) | 2669 | 2684 | 15 | 11 | 347.5 | (272, 385) | 向井千瑛 | 
 | 128 | [Shintani Yousuke](./player-games-md/md/Shintani Yousuke.md) | 2668 | 2667 | -1 | 4 | 343.0 | (316, 502) | 新谷洋佑 | 
 | 129 | [](./player-games-md/md/.md) | 2667 | 2476 | -191 | 4 | 343.0 | (269, 459) | 酒井佑規 | 
@@ -707,7 +707,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 167 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2549 | 2483 | -66 | 11 | 398.0 | (345, 456) | 林宇翔 | 
 | 168 | [](./player-games-md/md/.md) | 2547 | 2487 | -60 | 2 | 416.5 | (372, 441) | 許瀚文 | 
 | 169 | [](./player-games-md/md/.md) | 2545 | 2027 | -518 | 5 | 379.0 | (272, 524) | 徐晶琦 | 
-| 170 | [Hei Jiajia](./player-games-md/md/Hei Jiajia.md) | 2545 | 2342 | -203 | 5 | 389.0 | (348, 513) | 黒嘉嘉 | 
+| 170 | [Hei Jiajia](./player-games-md/md/Hei Jiajia.md) | 2544 | 2342 | -202 | 5 | 389.0 | (348, 513) | 黒嘉嘉 | 
 | 171 | [Yukawa Mitsuhisa](./player-games-md/md/Yukawa Mitsuhisa.md) | 2541 | 2684 | 143 | 9 | 400.5 | (298, 483) | 湯川光久 | 
 | 172 | [Kiyonari Tetsuya](./player-games-md/md/Kiyonari Tetsuya.md) | 2540 | 2505 | -35 | 8 | 399.5 | (267, 503) | 清成哲也 | 
 | 173 | [](./player-games-md/md/.md) | 2530 | 2432 | -98 | 3 | 405.0 | (324, 444) | 丁明君 | 
@@ -773,7 +773,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 233 | [](./player-games-md/md/.md) | 2176 | 2128 | -48 | 3 | 507.0 | (485, 521) | 林子傑 | 
 | 234 | [](./player-games-md/md/.md) | 2163 | 2143 | -20 | 12 | 510.0 | (409, 528) | 羅錘勲 | 
 | 235 | [](./player-games-md/md/.md) | 2161 | 2061 | -100 | 3 | 509.0 | (475, 529) | 李漢驎 | 
-| 236 | [Konishi Kazuko](./player-games-md/md/Konishi Kazuko.md) | 2138 | 2148 | 10 | 3 | 494.0 | (446, 515) | 小西和子 | 
+| 236 | [Konishi Kazuko](./player-games-md/md/Konishi Kazuko.md) | 2137 | 2148 | 11 | 3 | 494.0 | (446, 515) | 小西和子 | 
 | 237 | [](./player-games-md/md/.md) | 2134 | 2397 | 263 | 10 | 493.0 | (436, 526) | 陳義翔 | 
 | 238 | [Takashima Yugo](./player-games-md/md/Takashima Yugo.md) | 2133 | 2047 | -86 | 4 | 516.0 | (417, 541) | 髙嶋湧吾 | 
 | 239 | [Kim Soojin](./player-games-md/md/Kim Soojin.md) | 2105 | 2088 | -17 | 5 | 520.0 | (313, 533) | 金秀眞 | 

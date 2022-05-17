@@ -7,38 +7,39 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-10 | 第21期天元戦（台湾）挑戦手合七番勝負第2局 | Xu Haohong | Wang Yuanjun | Win | W+0.5 | 6.5 | 3384 | 67 | 
-| 2022-05-03 | 第21期天元戦（台湾）挑戦手合七番勝負第1局 | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3317 | -12 | 
-| 2022-04-22 | 第27回LG杯台湾予選 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3329 | 21 | 
-| 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3308 | -4 | 
-| 2022-04-19 | 第27回LG杯台湾予選 | Wang Yuanjun |  | Win | B+R | 6.5 | 3312 | -16 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3328 | 1 | 
-| 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | Lose | W+¼ | 7.5 | 3327 | -54 | 
-| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3381 | 21 | 
-| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3360 | 18 | 
-| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+R | 6.5 | 3342 | 26 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3316 | 44 | 
-| 2021-11-21 | 第9期中環碁聖戦決勝三番勝負第3局 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3272 | 8 | 
-| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3264 | 5 | 
-| 2021-11-07 | 第9期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Qirui | Lose | W+R | 6.5 | 3259 | -2 | 
-| 2021-10-31 | 第9期中環碁聖戦決勝三番勝負第1局 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3261 | 26 | 
-| 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3235 | -2 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Wang Yuanjun | Lose | B+R | 6.5 | 3237 | -5 | 
-| 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | Win | B+R | 6.5 | 3242 | 0 | 
-| 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | Win | W+R | 6.5 | 3242 | 8 | 
-| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Win | B+R | 6.5 | 3234 | 4 | 
+| 2022-05-17 | 第21期天元戦（台湾）挑戦手合七番勝負第3局 | Wang Yuanjun | Xu Haohong | Lose | W+2.5 | 6.5 | 3366 | -19 | 
+| 2022-05-10 | 第21期天元戦（台湾）挑戦手合七番勝負第2局 | Xu Haohong | Wang Yuanjun | Win | W+0.5 | 6.5 | 3385 | 67 | 
+| 2022-05-03 | 第21期天元戦（台湾）挑戦手合七番勝負第1局 | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3318 | -12 | 
+| 2022-04-22 | 第27回LG杯台湾予選 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3330 | 21 | 
+| 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3309 | -4 | 
+| 2022-04-19 | 第27回LG杯台湾予選 | Wang Yuanjun |  | Win | B+R | 6.5 | 3313 | -16 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3329 | 1 | 
+| 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | Lose | W+¼ | 7.5 | 3328 | -54 | 
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3382 | 21 | 
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3361 | 18 | 
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+R | 6.5 | 3343 | 27 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3316 | 43 | 
+| 2021-11-21 | 第9期中環碁聖戦決勝三番勝負第3局 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3273 | 8 | 
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3265 | 5 | 
+| 2021-11-07 | 第9期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Qirui | Lose | W+R | 6.5 | 3260 | -2 | 
+| 2021-10-31 | 第9期中環碁聖戦決勝三番勝負第1局 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3262 | 26 | 
+| 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3236 | -1 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Wang Yuanjun | Lose | B+R | 6.5 | 3237 | -6 | 
+| 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | Win | B+R | 6.5 | 3243 | 0 | 
+| 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | Win | W+R | 6.5 | 3243 | 8 | 
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Win | B+R | 6.5 | 3235 | 5 | 
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3230 | 9 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Wang Yuanjun | Huang Shiyuan | Win | B+R | 6.5 | 3221 | -1 | 
 | 2021-10-01 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第5局 | Wang Yuanjun | Lai Junfu | Lose | W+R | 6.5 | 3222 | -24 | 
 | 2021-09-28 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第4局 | Lai Junfu | Wang Yuanjun | Win | W+2.5 | 6.5 | 3246 | 5 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Win | W+R | 6.5 | 3241 | -14 | 
-| 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Lose | W+R | 6.5 | 3255 | -4 | 
-| 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3259 | 20 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Win | W+R | 6.5 | 3241 | -15 | 
+| 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Lose | W+R | 6.5 | 3256 | -4 | 
+| 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3260 | 21 | 
 | 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3239 | -1 | 
 | 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3240 | 4 | 
-| 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3236 | 24 | 
-| 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3212 | -14 | 
-| 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Win | B+R | 6.5 | 3226 | -25 | 
+| 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3236 | 23 | 
+| 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3213 | -14 | 
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Win | B+R | 6.5 | 3227 | -24 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3251 | 25 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | Win | B+R | 6.5 | 3226 | -12 | 
 | 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Win | B+R | 6.5 | 3238 | 5 | 
@@ -47,8 +48,8 @@
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Lu Yiquan | Win | B+R | 6.5 | 3238 | 8 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Jian Jingting | Win | B+1.5 | 6.5 | 3230 | -15 | 
 | 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Lose | B+3.5 | 6.5 | 3245 | -1 | 
-| 2021-07-26 | 第11期友士杯十段戦敗部決勝 | Xiao Zhenghao | Wang Yuanjun | Win | W+R | 6.5 | 3246 | 35 | 
-| 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Li Wei | Wang Yuanjun | Win | W+R | 6.5 | 3211 | 18 | 
+| 2021-07-26 | 第11期友士杯十段戦敗部決勝 | Xiao Zhenghao | Wang Yuanjun | Win | W+R | 6.5 | 3246 | 34 | 
+| 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Li Wei | Wang Yuanjun | Win | W+R | 6.5 | 3212 | 19 | 
 | 2021-05-04 | 第20期天元戦（台湾）挑戦手合七番勝負第6局 | Jian Jingting | Wang Yuanjun | Win | W+R | 6.5 | 3193 | 5 | 
 | 2021-04-27 | 第20期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3188 | 10 | 
 | 2021-04-23 | 第17期国手戦（台湾）準決勝 | Wang Yuanjun | Lin Lixiang | Lose | W+R | 6.5 | 3178 | -16 | 
@@ -87,9 +88,9 @@
 | 2020-09-18 | 第1期聯電杯プロ囲碁戦決勝七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3279 | 17 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Su Shengfang | Wang Yuanjun | Win | W+R | 6.5 | 3262 | -6 | 
 | 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Wang Yuanjun | Chen Qirui | Win | B+R | 6.5 | 3268 | 11 | 
-| 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Wang Yuanjun | Win | W+R | 6.5 | 3257 | 6 | 
-| 2020-09-01 | 第25回三星火災杯台湾代表選抜戦 | Lin Junyan | Wang Yuanjun | Lose | B+R | 6.5 | 3251 | -9 | 
-| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | Win | B+R | 6.5 | 3260 | -13 | 
+| 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Wang Yuanjun | Win | W+R | 6.5 | 3257 | 7 | 
+| 2020-09-01 | 第25回三星火災杯台湾代表選抜戦 | Lin Junyan | Wang Yuanjun | Lose | B+R | 6.5 | 3250 | -9 | 
+| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | Win | B+R | 6.5 | 3259 | -14 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Li Wei | Win | B+R | 6.5 | 3273 | -34 | 
 | 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun |  | Win | B+R | 6.5 | 3307 | -34 | 
 | 2020-07-16 | 第1期名人冠軍戦1回戦 | Ding Shaojie | Wang Yuanjun | Win | W+R | 6.5 | 3341 | 9 | 
@@ -112,14 +113,14 @@
 | 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | Win | B+R | 6.5 | 3293 | 18 | 
 | 2020-04-10 | 第5回百霊杯台湾代表選抜戦決勝 | Wang Yuanjun | Xu Haohong | Lose | W+¼ | 7.5 | 3275 | -15 | 
 | 2020-04-09 | 第10期友士杯十段戦勝部1回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3290 | -7 | 
-| 2020-04-07 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3297 | 11 | 
-| 2020-04-01 | 第5回百霊杯台湾代表選抜戦 | Wang Yuanjun | Lin Junyan | Win | B+¾ | 7.5 | 3286 | 5 | 
-| 2020-03-31 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Lose | W+R | 6.5 | 3281 | -1 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lai Junfu | Win | B+R | 6.5 | 3297 | 12 | 
+| 2020-04-01 | 第5回百霊杯台湾代表選抜戦 | Wang Yuanjun | Lin Junyan | Win | B+¾ | 7.5 | 3285 | 5 | 
+| 2020-03-31 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Lose | W+R | 6.5 | 3280 | -2 | 
 | 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Wang Yuanjun | Win | W+R | 7.5 | 3282 | 6 | 
 | 2020-03-24 | 第19期天元戦（台湾）リーグ | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3276 | -8 | 
-| 2020-03-17 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Win | W+R | 6.5 | 3284 | -2 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3286 | 0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Kaixin | Wang Yuanjun | Win | W+R | 6.5 | 3286 | -17 | 
+| 2020-03-17 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Win | W+R | 6.5 | 3284 | -1 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3285 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Kaixin | Wang Yuanjun | Win | W+R | 6.5 | 3285 | -18 | 
 | 2020-02-27 | 第25回LG杯台湾代表選抜戦決勝 | Xu Haohong | Wang Yuanjun | Win | W+R | 6.5 | 3303 | 11 | 
 | 2020-02-26 | 第25回LG杯台湾代表選抜戦 | Lin Lixiang | Wang Yuanjun | Win | W+2.5 | 6.5 | 3292 | 9 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3283 | -2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-18 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | Win | B+R | 6.5 | 3488 | 17 | 
 | 2022-05-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3471 | -13 | 
 | 2022-05-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Yun Chanhee | Win | B+R | 6.5 | 3484 | 6 | 
 | 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Lee Changseok | Win | W+R | 6.5 | 3478 | 1 | 

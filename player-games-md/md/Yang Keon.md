@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第39期名人戦（韓国）予選 | Yang Keon | Yun Chanhee | W+R | 2011-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2Frp%2BQgeMghvmBP8kk5RCg%3D%3D) | 
 | 第12回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Yang Keon | B+R | 2010-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BkHSoFa3TsJZhHJLVUqlEg%3D%3D) | 

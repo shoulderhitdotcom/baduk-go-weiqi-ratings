@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Jihyun Vs Weon Seongjin** | **Lee Jihyun Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-18 | 2022YK建機杯リーグ | Lee Jihyun | Weon Seongjin | B+R | 6.5 | 3:4 | 1 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Weon Seongjin | W+R | 7.5 | 2:4 | 0 | 2 | 
 | 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Weon Seongjin | Lee Jihyun | B+R | 6.5 | 2:3 | 0 | 1 | 
 | 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | W+2.5 | 6.5 | 2:2 | 2 | 0 | 

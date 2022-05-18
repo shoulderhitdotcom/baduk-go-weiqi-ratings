@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Lee Jihyun** | **Kim Jiseok Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-03 | 2022年アジア競技大会韓国予選 | Kim Jiseok | Lee Jihyun | W+R | 7.5 | 5:4 | 0 | 1 | 
 | 2021-04-05 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Jihyun | Kim Jiseok | W+R | 6.5 | 5:3 | 2 | 0 | 
 | 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | B+R | 6.5 | 4:3 | 1 | 0 | 
 | 2019-10-27 | 2019-2020韓国囲碁リーグ第4節第4試合第2局 | Kim Jiseok | Lee Jihyun | W+R | 6.5 | 3:3 | 0 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-18 | 第5期韓国竜星戦2回戦 | Kim Eunji | Kim Jiseok | Lose | W+R | 6.5 | 3157 | 19 | 
 | 2022-05-16 | 2022YK建機杯リーグ | Kim Eunji | Han Woojin | Lose | W+3.5 | 6.5 | 3138 | -37 | 
 | 2022-05-11 | 2022YK建機杯リーグ | Kim Eunji | Shin Jinseo | Lose | W+R | 6.5 | 3175 | 5 | 
 | 2022-05-04 | 2022年アジア競技大会韓国予選 | Kim Eunji | Cho Seungah | Win | B+R | 7.5 | 3170 | 33 | 

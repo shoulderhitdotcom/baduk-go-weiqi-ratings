@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第36回KBS杯囲碁王戦32強戦 | Kim Myounghoon | Kang Jiseong | B+R | 2017-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t9cJ32LvBORyAVqhFpmITg%3D%3D) | 
 | 第18回農心杯韓国選抜戦 | Lee Changho | Kang Jiseong | W+R | 2016-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAokTDCz0TWbcbnvZgCr7A%3D%3D) | 

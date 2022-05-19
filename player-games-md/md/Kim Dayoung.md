@@ -19,12 +19,12 @@
 | 2022-02-08 | 2022YK建機杯予選 | Kim Dayoung | Kim Cheayoung | Lose | W+R | 6.5 | 2663 | -34 | 
 | 2021-12-09 | 第5回クラウン・ヘテ杯1回戦 | Kim Dayoung | Gang Woohyeok | Lose | W+3.5 | 6.5 | 2697 | -143 | 
 | 2021-10-18 | 第5期韓国製紙女子棋聖戦1回戦 | Kim Dayoung |  | Lose | W+0.5 | 6.5 | 2840 | -66 | 
-| 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Miri | Kim Dayoung | Lose | B+6.5 | 6.5 | 2906 | 24 | 
-| 2021-08-14 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2882 | -5 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Miri | Kim Dayoung | Lose | B+6.5 | 6.5 | 2906 | 23 | 
+| 2021-08-14 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2883 | -4 | 
 | 2021-08-05 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2887 | 3 | 
-| 2021-08-01 | 第7回韓国女子囲碁リーグ | Kim Dayoung |  | Win | B+R | 6.5 | 2884 | 7 | 
-| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Lose | B+R | 6.5 | 2877 | -2 | 
-| 2021-07-25 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+3.5 | 6.5 | 2879 | -23 | 
+| 2021-08-01 | 第7回韓国女子囲碁リーグ | Kim Dayoung |  | Win | B+R | 6.5 | 2884 | 6 | 
+| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Lose | B+R | 6.5 | 2878 | -2 | 
+| 2021-07-25 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+3.5 | 6.5 | 2880 | -22 | 
 | 2021-07-15 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Cho Hyeyeon | Lose | W+4.5 | 6.5 | 2902 | 9 | 
 | 2021-07-08 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Nokyeong | Lose | W+R | 6.5 | 2893 | -36 | 
 | 2021-07-02 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2929 | 11 | 
@@ -32,21 +32,21 @@
 | 2021-06-25 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kim Dayoung | Win | W+9.5 | 6.5 | 2893 | 31 | 
 | 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Win | B+R | 6.5 | 2862 | -5 | 
 | 2021-06-10 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Dayoung | Lose | B+1.5 | 6.5 | 2867 | 6 | 
-| 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Lose | W+R | 6.5 | 2861 | 0 | 
-| 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Lose | W+2.5 | 6.5 | 2861 | -8 | 
-| 2021-05-25 | 第4回呉清源杯韓国予選 | Cho Seungah | Kim Dayoung | Lose | B+R | 7.5 | 2869 | -27 | 
-| 2021-05-24 | 第4回呉清源杯韓国予選 | Park Jiyeon | Kim Dayoung | Win | W+R | 7.5 | 2896 | 11 | 
-| 2021-05-23 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Nokyeong | Win | B+R | 6.5 | 2885 | 148 | 
+| 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Lose | W+R | 6.5 | 2861 | -1 | 
+| 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Lose | W+2.5 | 6.5 | 2862 | -8 | 
+| 2021-05-25 | 第4回呉清源杯韓国予選 | Cho Seungah | Kim Dayoung | Lose | B+R | 7.5 | 2870 | -27 | 
+| 2021-05-24 | 第4回呉清源杯韓国予選 | Park Jiyeon | Kim Dayoung | Win | W+R | 7.5 | 2897 | 11 | 
+| 2021-05-23 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Nokyeong | Win | B+R | 6.5 | 2886 | 149 | 
 | 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Win | W+R | 6.5 | 2737 | 67 | 
 | 2020-12-08 | 第4期韓国製紙女子棋聖戦三位決定戦 | Kim Dayoung | Cho Hyeyeon | Win | B+0.5 | 6.5 | 2670 | 28 | 
-| 2020-12-01 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Dayoung | Choi Jeong | Lose | W+R | 6.5 | 2642 | -13 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Kim Dayoung | Win | W+4¼ | 7.5 | 2655 | 6 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Kim Eunji | Kim Dayoung | Lose | B+R | 7.5 | 2649 | -5 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Yu Lijun | Win | B+R | 7.5 | 2654 | 23 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Hyeoimin | Kim Dayoung | Lose | B+¾ | 7.5 | 2631 | -1 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Kim Dayoung |  | Win | B+1¾ | 7.5 | 2632 | -12 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Lin Yuting | Win | B+R | 7.5 | 2644 | -8 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Kim Dayoung | Win | W+2¼ | 7.5 | 2652 | -34 | 
+| 2020-12-01 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Dayoung | Choi Jeong | Lose | W+R | 6.5 | 2642 | -14 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Kim Dayoung | Win | W+4¼ | 7.5 | 2656 | 6 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Kim Eunji | Kim Dayoung | Lose | B+R | 7.5 | 2650 | -5 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Yu Lijun | Win | B+R | 7.5 | 2655 | 23 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Hyeoimin | Kim Dayoung | Lose | B+¾ | 7.5 | 2632 | -1 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Kim Dayoung |  | Win | B+1¾ | 7.5 | 2633 | -12 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Lin Yuting | Win | B+R | 7.5 | 2645 | -8 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Kim Dayoung | Win | W+2¼ | 7.5 | 2653 | -33 | 
 | 2020-11-09 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Dayoung | Kang Dajeong | Win | B+R | 6.5 | 2686 | 76 | 
 | 2020-09-25 | 第25期女流国手戦8強戦 | Kim Dayoung | Choi Jeong | Lose | W+R | 6.5 | 2610 | 24 | 
 | 2020-09-15 | 第3回呉清源杯韓国予選 | Park Jiyeon | Kim Dayoung | Lose | B+R | 7.5 | 2586 | -5 | 

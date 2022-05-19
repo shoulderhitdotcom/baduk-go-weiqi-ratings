@@ -19,17 +19,17 @@
 | 2021-08-19 | 第60期十段戦予選 | O Meien | Mizokami Tomochika | Lose | W+R | 6.5 | 2833 | -24 | 
 | 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Lose | B+5.5 | 6.5 | 2857 | -30 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Lose | W+R | 6.5 | 2887 | -8 | 
-| 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Win | W+R | 6.5 | 2895 | 86 | 
-| 2021-05-27 | 第46期棋聖戦Cリーグ | O Meien | Kubo Katsuaki | Win | B+4.5 | 6.5 | 2809 | 15 | 
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Win | W+R | 6.5 | 2895 | 85 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | O Meien | Kubo Katsuaki | Win | B+4.5 | 6.5 | 2810 | 16 | 
 | 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | Lose | B+R | 6.5 | 2794 | -29 | 
 | 2021-03-29 | 第69期王座戦予選 | Ohba Junya | O Meien | Lose | B+R | 6.5 | 2823 | -66 | 
 | 2021-03-15 | 第77期本因坊戦予選 | O Meien | Uchida Shuhei | Lose | W+2.5 | 6.5 | 2889 | -83 | 
-| 2021-01-14 | 第69期王座戦予選 | Numadate Sakiya | O Meien | Win | W+4.5 | 6.5 | 2972 | 14 | 
-| 2020-11-19 | 第47期天元戦予選 | O Meien | Ryu Shikun | Lose | W+R | 6.5 | 2958 | -30 | 
+| 2021-01-14 | 第69期王座戦予選 | Numadate Sakiya | O Meien | Win | W+4.5 | 6.5 | 2972 | 13 | 
+| 2020-11-19 | 第47期天元戦予選 | O Meien | Ryu Shikun | Lose | W+R | 6.5 | 2959 | -29 | 
 | 2020-10-22 | 第47期天元戦予選 | Suzuki Yoshimichi | O Meien | Win | W+R | 6.5 | 2988 | -43 | 
 | 2020-10-01 | 第59期十段戦1回戦 | O Meien | Hsu Chiayuan | Lose | W+R | 6.5 | 3031 | 6 | 
-| 2020-09-17 | 第46期碁聖戦予選 | O Meien | So Yokoku | Win | B+R | 6.5 | 3025 | 49 | 
-| 2020-09-10 | 第45期棋聖戦Cリーグ | O Meien | Mimura Tomoyasu | Lose | W+4.5 | 6.5 | 2976 | -5 | 
+| 2020-09-17 | 第46期碁聖戦予選 | O Meien | So Yokoku | Win | B+R | 6.5 | 3025 | 48 | 
+| 2020-09-10 | 第45期棋聖戦Cリーグ | O Meien | Mimura Tomoyasu | Lose | W+4.5 | 6.5 | 2977 | -4 | 
 | 2020-09-03 | 第69期王座戦予選 | O Meien | Sakai Takeshi | Win | B+R | 6.5 | 2981 | 11 | 
 | 2020-08-31 | 第59期十段戦予選 | Adachi Toshimasa | O Meien | Win | W+R | 6.5 | 2970 | -76 | 
 | 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Win | W+R | 6.5 | 3046 | 29 | 
@@ -45,8 +45,8 @@
 | 2020-03-19 | 第46期名人戦予選 | O Meien | Kono Mitsuki | Win | B+R | 6.5 | 2832 | -30 | 
 | 2020-03-12 | 第46期碁聖戦予選 | O Meien | Shimoji Gensho | Win | B+R | 6.5 | 2862 | 31 | 
 | 2020-03-05 | 第76期本因坊戦予選 | Cho Chikun | O Meien | Win | W+R | 6.5 | 2831 | 51 | 
-| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Win | B+R | 6.5 | 2780 | -23 | 
-| 2020-01-30 | 第76期本因坊戦予選 | Omori Yasushi | O Meien | Win | W+R | 6.5 | 2803 | -5 | 
+| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Win | B+R | 6.5 | 2780 | -24 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Omori Yasushi | O Meien | Win | W+R | 6.5 | 2804 | -4 | 
 | 2020-01-23 | 第46期碁聖戦予選 | Oomote Takuto | O Meien | Win | W+R | 6.5 | 2808 | missing |
 
 

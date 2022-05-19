@@ -29,17 +29,17 @@
 | 2022-02-16 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Lose | B+R | 6.5 | 3369 | -7 | 
 | 2022-02-13 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Ryu Minhyung | Win | W+7.5 | 6.5 | 3376 | -28 | 
 | 2022-01-26 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Kang Jihoon | Win | B+R | 6.5 | 3404 | 21 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Lose | B+R | 6.5 | 3383 | -48 | 
-| 2022-01-15 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Choi Kihoon | Win | B+R | 6.5 | 3431 | -18 | 
-| 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3449 | -13 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Lose | B+R | 6.5 | 3383 | -49 | 
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Choi Kihoon | Win | B+R | 6.5 | 3432 | -18 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3450 | -12 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Cho Wankyu | Win | B+R | 6.5 | 3462 | 26 | 
 | 2022-01-07 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3436 | 33 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Ryu Minhyung | Win | W+R | 6.5 | 3403 | 3 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Lose | W+R | 6.5 | 3400 | 10 | 
 | 2021-12-19 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Shin Jaeweon | Win | B+R | 6.5 | 3390 | -4 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3394 | 167 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Yoo Ohseong | Ryu Minhyung | Win | W+R | 6.5 | 3227 | -3 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3230 | 41 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Yoo Ohseong | Ryu Minhyung | Win | W+R | 6.5 | 3227 | -4 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3231 | 42 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3189 | 257 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 2932 | missing |
 

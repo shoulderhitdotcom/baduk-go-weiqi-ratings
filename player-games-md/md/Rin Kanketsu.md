@@ -29,9 +29,9 @@
 | 2020-06-04 | 第45期名人戦リーグ | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3101 | 17 | 
 | 2020-04-02 | 第68期王座戦予選 | Rin Kanketsu | Ida Atsushi | Win | B+R | 6.5 | 3084 | 41 | 
 | 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Win | W+R | 6.5 | 3043 | 6 | 
-| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3037 | -45 | 
-| 2020-02-06 | 第45期名人戦リーグ | Rin Kanketsu | Kono Rin | Win | B+R | 6.5 | 3082 | 47 | 
-| 2020-01-30 | 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | Lose | B+2.5 | 6.5 | 3035 | 1 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Lose | W+R | 6.5 | 3037 | -46 | 
+| 2020-02-06 | 第45期名人戦リーグ | Rin Kanketsu | Kono Rin | Win | B+R | 6.5 | 3083 | 47 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | Lose | B+2.5 | 6.5 | 3036 | 2 | 
 | 2020-01-16 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Koike Yoshihiro | Lose | W+R | 6.5 | 3034 | -41 | 
 | 2020-01-09 | 第45期名人戦リーグ | Cho U | Rin Kanketsu | Lose | B+R | 6.5 | 3075 | missing |
 

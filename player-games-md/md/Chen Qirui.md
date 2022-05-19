@@ -47,11 +47,11 @@
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3234 | 1 | 
 | 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Win | B+R | 6.5 | 3233 | 5 | 
 | 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3228 | 1 | 
-| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui |  | Win | B+R | 6.5 | 3227 | -4 | 
-| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3231 | -2 | 
-| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lu Yiquan | Win | B+R | 6.5 | 3233 | 23 | 
-| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Lose | W+R | 6.5 | 3210 | -2 | 
-| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Win | W+1.5 | 6.5 | 3212 | 15 | 
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui |  | Win | B+R | 6.5 | 3227 | -5 | 
+| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3232 | -2 | 
+| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lu Yiquan | Win | B+R | 6.5 | 3234 | 24 | 
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Lose | W+R | 6.5 | 3210 | -3 | 
+| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Win | W+1.5 | 6.5 | 3213 | 16 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lu Yiquan | Chen Qirui | Win | W+R | 6.5 | 3197 | 44 | 
 | 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3153 | 13 | 
 | 2021-04-21 | 第26回LG杯台湾予選 | Chen Qirui | Lin Junyan | Win | B+R | 6.5 | 3140 | -22 | 
@@ -69,37 +69,37 @@
 | 2021-03-09 | 第20期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3172 | -14 | 
 | 2021-03-05 | 第20期天元戦（台湾）リーグ | Xu Haohong | Chen Qirui | Win | W+R | 6.5 | 3186 | 33 | 
 | 2021-03-02 | 第20期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3153 | 10 | 
-| 2021-02-26 | 第20期天元戦（台湾）リーグ | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3143 | -3 | 
-| 2021-02-23 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3146 | 6 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 | Gao Yun | Chen Qirui | Win | W+2.5 | 6.5 | 3140 | -1 | 
-| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Chen Qirui | Lose | B+R | 6.5 | 3141 | 45 | 
+| 2021-02-26 | 第20期天元戦（台湾）リーグ | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3143 | -4 | 
+| 2021-02-23 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3147 | 6 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Gao Yun | Chen Qirui | Win | W+2.5 | 6.5 | 3141 | -1 | 
+| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Chen Qirui | Lose | B+R | 6.5 | 3142 | 46 | 
 | 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3096 | 54 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yang Zixuan | Chen Qirui | Win | W+R | 6.5 | 3042 | 2 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3040 | 28 | 
-| 2020-12-15 | 第16期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3012 | 3 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3040 | 27 | 
+| 2020-12-15 | 第16期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3013 | 4 | 
 | 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Hara Masakazu | Chen Qirui | Lose | B+R | 6.5 | 3009 | 17 | 
 | 2020-12-08 | 第16期国手戦（台湾）挑戦手合五番勝負第3局 | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 2992 | -27 | 
 | 2020-12-01 | 第16期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3019 | -17 | 
 | 2020-11-27 | 第16期国手戦（台湾）挑戦手合五番勝負第1局 | Xu Haohong | Chen Qirui | Win | W+R | 6.5 | 3036 | -3 | 
-| 2020-11-24 | 第16期国手戦（台湾）挑戦者決定戦 | Cai Chengwei | Chen Qirui | Win | W+R | 6.5 | 3039 | -21 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ |  | Chen Qirui | Lose | B+R | 7.5 | 3060 | 22 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Shuo | Lose | W+R | 7.5 | 3038 | -30 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Chen Qirui |  | Lose | W+R | 7.5 | 3068 | -24 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Chen Qirui | Zheng Xu | Win | B+R | 7.5 | 3092 | -9 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Hu Zihao | Chen Qirui | Win | W+R | 7.5 | 3101 | -5 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Qin Yuexin | Chen Qirui | Win | W+R | 7.5 | 3106 | -25 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Chen Qirui | Win | W+R | 7.5 | 3131 | 18 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Yucheng | Win | B+R | 7.5 | 3113 | -5 | 
-| 2020-11-10 | 第16期国手戦（台湾）準決勝 | Lai Junfu | Chen Qirui | Win | W+6.5 | 6.5 | 3118 | 41 | 
-| 2020-10-20 | 第16期国手戦（台湾）準々決勝 | Chen Qirui |  | Win | B+R | 6.5 | 3077 | -25 | 
-| 2020-10-18 | 第8期中環碁聖戦4回戦 | Chen Qirui | Cai Chengwei | Lose | W+R | 6.5 | 3102 | 2 | 
+| 2020-11-24 | 第16期国手戦（台湾）挑戦者決定戦 | Cai Chengwei | Chen Qirui | Win | W+R | 6.5 | 3039 | -22 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ |  | Chen Qirui | Lose | B+R | 7.5 | 3061 | 22 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Shuo | Lose | W+R | 7.5 | 3039 | -30 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Chen Qirui |  | Lose | W+R | 7.5 | 3069 | -24 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Chen Qirui | Zheng Xu | Win | B+R | 7.5 | 3093 | -9 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Hu Zihao | Chen Qirui | Win | W+R | 7.5 | 3102 | -5 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Qin Yuexin | Chen Qirui | Win | W+R | 7.5 | 3107 | -25 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Chen Qirui | Win | W+R | 7.5 | 3132 | 18 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Yucheng | Win | B+R | 7.5 | 3114 | -4 | 
+| 2020-11-10 | 第16期国手戦（台湾）準決勝 | Lai Junfu | Chen Qirui | Win | W+6.5 | 6.5 | 3118 | 40 | 
+| 2020-10-20 | 第16期国手戦（台湾）準々決勝 | Chen Qirui |  | Win | B+R | 6.5 | 3078 | -25 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Chen Qirui | Cai Chengwei | Lose | W+R | 6.5 | 3103 | 3 | 
 | 2020-10-13 | 第16期国手戦（台湾）4回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3100 | -19 | 
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Xu Jingen | Chen Qirui | Win | W+R | 6.5 | 3119 | 6 | 
 | 2020-10-05 | 第13期棋王戦（台湾）予選 | Lin Shuyang | Chen Qirui | Win | W+R | 6.5 | 3113 | 5 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Bai Xinhui | Chen Qirui | Win | W+R | 6.5 | 3108 | -5 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Zhou Yinnan | Chen Qirui | Win | W+R | 6.5 | 3113 | 6 | 
-| 2020-09-11 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Lai Junfu | Chen Qirui | Lose | B+R | 6.5 | 3107 | -9 | 
-| 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Wang Yuanjun | Chen Qirui | Lose | B+R | 6.5 | 3116 | -1 | 
+| 2020-09-11 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Lai Junfu | Chen Qirui | Lose | B+R | 6.5 | 3107 | -10 | 
+| 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Wang Yuanjun | Chen Qirui | Lose | B+R | 6.5 | 3117 | 0 | 
 | 2020-09-06 | 第8期中環碁聖戦2回戦 | Chen Qirui |  | Win | B+R | 6.5 | 3117 | 1 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3116 | 0 | 
 | 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | Lose | B+R | 6.5 | 3116 | -11 | 
@@ -141,16 +141,16 @@
 | 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Jian Jingting | Chen Qirui | Lose | B+R | 6.5 | 3167 | -6 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3173 | -3 | 
 | 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3176 | -10 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 3186 | -5 | 
-| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Qirui | Lin Yuxiang | Win | B+R | 6.5 | 3191 | 19 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 3186 | -6 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Qirui | Lin Yuxiang | Win | B+R | 6.5 | 3192 | 20 | 
 | 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Chen Qirui | Lin Shixun | Lose | W+R | 6.5 | 3172 | -3 | 
-| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Chen Qirui | Lin Lixiang | Win | B+R | 6.5 | 3175 | 0 | 
-| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3175 | -46 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Chen Qirui | Lin Lixiang | Win | B+R | 6.5 | 3175 | -1 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3176 | -45 | 
 | 2020-01-18 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Lixiang | Chen Qirui | Lose | B+R | 7.5 | 3221 | -2 | 
 | 2020-01-17 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Li Wei | Lose | W+R | 7.5 | 3223 | -16 | 
-| 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Junyan | Chen Qirui | Win | W+R | 7.5 | 3239 | 11 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Chen Shiyuan | Win | B+R | 7.5 | 3228 | 0 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Wang Yuanjun | Win | B+R | 7.5 | 3228 | missing |
+| 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Junyan | Chen Qirui | Win | W+R | 7.5 | 3239 | 10 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Chen Shiyuan | Win | B+R | 7.5 | 3229 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Wang Yuanjun | Win | B+R | 7.5 | 3229 | missing |
 
 
 

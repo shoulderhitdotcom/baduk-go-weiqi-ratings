@@ -17,8 +17,8 @@
 | 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2932 | 213 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 2719 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2719 | -16 | 
-| 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 2735 | -75 | 
-| 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Lose | B+1.5 | 6.5 | 2810 | -236 | 
+| 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 2735 | -76 | 
+| 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Lose | B+1.5 | 6.5 | 2811 | -235 | 
 | 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Lose | B+R | 6.5 | 3046 | -58 | 
 | 2020-07-16 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Yamada Kimio | Win | B+0.5 | 6.5 | 3104 | 58 | 
 | 2020-06-11 | 第59期十段戦予選 | Xie Yimin | Hirose Yuichi | Win | W+R | 6.5 | 3046 | -130 | 

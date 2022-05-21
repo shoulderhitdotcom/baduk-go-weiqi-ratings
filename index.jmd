@@ -20,13 +20,15 @@ The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 ```{julia; echo=false; line_width=888}
 using JDF
-using DataFrames: DataFrame
+using DataFrames: DataFrame, DataFrameMacros
 
 include("c:/weiqi/simulation/utils.jl")
 
-tmp = pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
+pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
 
-select!(tmp, Not(:Uncertainty))
+@chain pings_for_md begin
+    select!(Not([:Uncertainty, Symbol("Games Played"), Symbol("Median Rank"), Symbol("Form Rank Range")]))
+end
 
 df_to_md(pings_for_md[1:100, :])
 ```

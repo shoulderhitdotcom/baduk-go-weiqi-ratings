@@ -451,7 +451,7 @@ top100names = @chain pings_hist_adj begin
 end
 
 
-d1, d2 = sort(pings_hist_adj.date |> unique)[1:2]
+d2, d1 = partialsort(pings_hist_adj.date |> unique, 1:2, rev=true)
 
 top100_movements = @chain pings_hist_adj begin
     @subset :name in top100names
@@ -550,5 +550,3 @@ JDF.save("below_threshold_pings_for_md.jdf", below_threshold_pings_for_md)
 # form = mapreduce(Term, + , [Symbol("x"*string(i)) for i in 1:length(players)])
 
 # @time glm(Term(:y)~form, df, Binomial(), LogitLink());
-
-

@@ -1,4 +1,4 @@
-## Kang Jiseong Games
+## Liu Yaowen vs Lu Yuhua Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Kang Jiseong.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Liu Yaowen-Lu Yuhua.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

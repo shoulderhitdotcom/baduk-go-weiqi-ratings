@@ -1,4 +1,4 @@
-## Kang Jiseong Games
+## Heo Yongho vs Kim Changhoon Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Kang Jiseong.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Heo Yongho-Kim Changhoon.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

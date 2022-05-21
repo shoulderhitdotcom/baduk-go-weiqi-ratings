@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Lin Junyan | Win | W+R | 6.5 | 3058 | 12 | 
 | 2022-05-19 | 第3期聯電杯プロ囲碁戦予選 | Liu Jianchang | Lin Junyan | Win | W+R | 6.5 | 3046 | -239 | 
 | 2022-04-21 | 第3期名人冠軍戦決勝七番勝負第4局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3285 | 3 | 
 | 2022-04-20 | 第27回LG杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3282 | -36 | 

@@ -7,65 +7,66 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Yu Lijun | Ding Shaojie | Win | B+R | 6.5 | 2314 | -244 | 
-| 2022-04-12 | 第27回LG杯台湾予選 | Lai Junfu | Yu Lijun | Lose | B+R | 6.5 | 2558 | 0 | 
-| 2022-04-12 | 第27回LG杯台湾予選 |  | Yu Lijun | Win | W+R | 6.5 | 2558 | 9 | 
-| 2022-04-06 | 第5回呉清源杯台湾予選 | Lu Yuhua | Yu Lijun | Lose | B+R | 7.5 | 2549 | -26 | 
-| 2022-03-30 | 第5回呉清源杯台湾予選 | Lin Yuting | Yu Lijun | Win | W+3¼ | 7.5 | 2575 | 0 | 
-| 2022-03-30 | 第5回呉清源杯台湾予選 | Liu Yifang | Yu Lijun | Win | W+¼ | 7.5 | 2575 | -11 | 
-| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Yu Lijun | Lose | B+R | 7.5 | 2586 | -36 | 
-| 2022-02-16 | 第18回倡棋杯台湾予選 |  | Yu Lijun | Lose | B+R | 7.5 | 2622 | -22 | 
-| 2022-01-14 | 第21期天元戦（台湾）予選 | Chen Feng | Yu Lijun | Lose | B+R | 6.5 | 2644 | 25 | 
-| 2022-01-11 | 第21期天元戦（台湾）予選 |  | Yu Lijun | Win | W+R | 6.5 | 2619 | 4 | 
-| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yu Lijun |  | Lose | W+R | 6.5 | 2615 | 55 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Lose | B+R | 6.5 | 2560 | 0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Yu Lijun |  | Win | B+R | 6.5 | 2560 | -51 | 
-| 2021-09-14 | 2021環旭新人王戦予選 | Liu Yifang | Yu Lijun | Win | W+R | 7.5 | 2611 | 10 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Yu Lijun | Ding Shaojie | Lose | W+0.5 | 6.5 | 2601 | 9 | 
-| 2021-09-09 | 第14期棋王戦（台湾）予選 | Yu Lijun | Lin Shimin | Lose | W+R | 6.5 | 2592 | 2 | 
-| 2021-09-05 | 第9期中環碁聖戦 | Yu Lijun | Ding Shaojie | Lose | W+R | 6.5 | 2590 | -19 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Yu Lijun | Xu Jingen | Lose | W+R | 6.5 | 2609 | -74 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Yu Lijun | Lin Junyan | Lose | W+R | 6.5 | 2683 | -3 | 
-| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Lose | W+5.5 | 6.5 | 2686 | 8 | 
-| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Yu Lijun | Win | W+2.5 | 6.5 | 2678 | 50 | 
-| 2021-05-20 | 第4回呉清源杯台湾予選 | Lu Yuhua | Yu Lijun | Lose | B+R | 7.5 | 2628 | -17 | 
-| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Yu Lijun | Win | W+R | 6.5 | 2645 | 49 | 
-| 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Yu Lijun | Lin Lixiang | Lose | W+R | 6.5 | 2596 | 50 | 
-| 2021-04-09 | 第17期国手戦（台湾）16強戦 | Yu Lijun | Lai Junfu | Lose | W+R | 6.5 | 2546 | -5 | 
-| 2021-04-02 | 第17期国手戦（台湾） | Yu Lijun | Lin Shengxian | Win | B+R | 6.5 | 2551 | -1 | 
-| 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang | Yu Lijun | Lose | B+R | 6.5 | 2552 | -19 | 
-| 2021-03-26 | 第17期国手戦（台湾） | Yu Lijun | Liu Chuanting | Win | B+2.5 | 6.5 | 2571 | 30 | 
-| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Mukai Chiaki | Yu Lijun | Lose | B+R | 6.5 | 2541 | 59 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2482 | 3 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Huang Xiangren | Yu Lijun | Lose | B+R | 6.5 | 2479 | -20 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Win | W+R | 6.5 | 2499 | 42 | 
-| 2021-01-05 | 第20期天元戦（台湾）予選 | Yu Lijun |  | Win | B+R | 6.5 | 2457 | 62 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Kim Eunji | Yu Lijun | Lose | B+R | 7.5 | 2395 | -22 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Yu Lijun | Win | W+R | 7.5 | 2417 | -29 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Yu Lijun | Lose | B+R | 7.5 | 2446 | -10 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Yu Lijun |  | Lose | W+R | 7.5 | 2456 | -14 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Yu Lijun | Park Jiyeon | Lose | W+R | 7.5 | 2470 | -28 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Yu Lijun |  | Win | B+R | 7.5 | 2498 | 21 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Yu Lijun | Win | W+R | 7.5 | 2477 | -36 | 
-| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2513 | 17 | 
-| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Yu Lijun | Ding Shaojie | Win | B+R | 6.5 | 2496 | 43 | 
-| 2020-09-14 | 第13期棋王戦（台湾）予選 | Yu Lijun | Lin Xiuping | Lose | W+R | 6.5 | 2453 | -14 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Yu Lijun | Lin Junyan | Lose | W+R | 6.5 | 2467 | -24 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 | Yu Lijun |  | Lose | W+R | 6.5 | 2491 | -37 | 
-| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Cai Chengwei | Yu Lijun | Lose | B+R | 6.5 | 2528 | -48 | 
-| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Win | W+R | 6.5 | 2576 | 108 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選  | Yu Lijun | Dang Xiyun | Win | B+R | 6.5 | 2468 | -49 | 
-| 2020-06-15 | 2020新人王戦（台湾）リーグB | Yu Lijun | Li Wei | Lose | W+R | 7.5 | 2517 | 8 | 
-| 2020-06-08 | 2020新人王戦（台湾）リーグB |  | Yu Lijun | Win | W+R | 7.5 | 2509 | 0 | 
-| 2020-06-08 | 2020新人王戦（台湾）リーグB | Yu Lijun | Huang Shiyuan | Lose | W+R | 7.5 | 2509 | 74 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Yu Lijun |  | Lose | W+R | 6.5 | 2435 | -42 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Yang Zixuan | Yu Lijun | Lose | B+R | 7.5 | 2477 | -3 | 
-| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Yu Lijun | Bai Xinhui | Lose | W+R | 6.5 | 2480 | 0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Yu Lijun | Xu Jingen | Lose | W+R | 6.5 | 2480 | 3 | 
-| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Yu Lijun | Win | W+R | 6.5 | 2477 | 78 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Yu Lijun | Lin Shixun | Lose | W+R | 6.5 | 2399 | -39 | 
-| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Yu Lijun | Lu Yiquan | Lose | W+R | 6.5 | 2438 | -26 | 
-| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Yu Lijun | Cai Chengwei | Lose | W+R | 7.5 | 2464 | -43 | 
+| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Yu Lijun | Lose | B+R | 6.5 | 2255 | -50 | 
+| 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Yu Lijun | Ding Shaojie | Win | B+R | 6.5 | 2305 | -244 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Lai Junfu | Yu Lijun | Lose | B+R | 6.5 | 2549 | 0 | 
+| 2022-04-12 | 第27回LG杯台湾予選 |  | Yu Lijun | Win | W+R | 6.5 | 2549 | 9 | 
+| 2022-04-06 | 第5回呉清源杯台湾予選 | Lu Yuhua | Yu Lijun | Lose | B+R | 7.5 | 2540 | -27 | 
+| 2022-03-30 | 第5回呉清源杯台湾予選 | Lin Yuting | Yu Lijun | Win | W+3¼ | 7.5 | 2567 | 0 | 
+| 2022-03-30 | 第5回呉清源杯台湾予選 | Liu Yifang | Yu Lijun | Win | W+¼ | 7.5 | 2567 | -11 | 
+| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Yu Lijun | Lose | B+R | 7.5 | 2578 | -36 | 
+| 2022-02-16 | 第18回倡棋杯台湾予選 |  | Yu Lijun | Lose | B+R | 7.5 | 2614 | -23 | 
+| 2022-01-14 | 第21期天元戦（台湾）予選 | Chen Feng | Yu Lijun | Lose | B+R | 6.5 | 2637 | 24 | 
+| 2022-01-11 | 第21期天元戦（台湾）予選 |  | Yu Lijun | Win | W+R | 6.5 | 2613 | 5 | 
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yu Lijun |  | Lose | W+R | 6.5 | 2608 | 53 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Lose | B+R | 6.5 | 2555 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Yu Lijun |  | Win | B+R | 6.5 | 2555 | -51 | 
+| 2021-09-14 | 2021環旭新人王戦予選 | Liu Yifang | Yu Lijun | Win | W+R | 7.5 | 2606 | 10 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Yu Lijun | Ding Shaojie | Lose | W+0.5 | 6.5 | 2596 | 9 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Yu Lijun | Lin Shimin | Lose | W+R | 6.5 | 2587 | 1 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Yu Lijun | Ding Shaojie | Lose | W+R | 6.5 | 2586 | -19 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yu Lijun | Xu Jingen | Lose | W+R | 6.5 | 2605 | -73 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Yu Lijun | Lin Junyan | Lose | W+R | 6.5 | 2678 | -4 | 
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Lose | W+5.5 | 6.5 | 2682 | 8 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Yu Lijun | Win | W+2.5 | 6.5 | 2674 | 50 | 
+| 2021-05-20 | 第4回呉清源杯台湾予選 | Lu Yuhua | Yu Lijun | Lose | B+R | 7.5 | 2624 | -17 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Yu Lijun | Win | W+R | 6.5 | 2641 | 49 | 
+| 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Yu Lijun | Lin Lixiang | Lose | W+R | 6.5 | 2592 | 49 | 
+| 2021-04-09 | 第17期国手戦（台湾）16強戦 | Yu Lijun | Lai Junfu | Lose | W+R | 6.5 | 2543 | -5 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Yu Lijun | Lin Shengxian | Win | B+R | 6.5 | 2548 | -1 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang | Yu Lijun | Lose | B+R | 6.5 | 2549 | -19 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Yu Lijun | Liu Chuanting | Win | B+2.5 | 6.5 | 2568 | 30 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Mukai Chiaki | Yu Lijun | Lose | B+R | 6.5 | 2538 | 58 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2480 | 4 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Huang Xiangren | Yu Lijun | Lose | B+R | 6.5 | 2476 | -20 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan | Yu Lijun | Win | W+R | 6.5 | 2496 | 42 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Yu Lijun |  | Win | B+R | 6.5 | 2454 | 61 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Kim Eunji | Yu Lijun | Lose | B+R | 7.5 | 2393 | -22 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Yu Lijun | Win | W+R | 7.5 | 2415 | -29 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Kim Dayoung | Yu Lijun | Lose | B+R | 7.5 | 2444 | -10 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Yu Lijun |  | Lose | W+R | 7.5 | 2454 | -14 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Yu Lijun | Park Jiyeon | Lose | W+R | 7.5 | 2468 | -28 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Yu Lijun |  | Win | B+R | 7.5 | 2496 | 21 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Yu Lijun | Win | W+R | 7.5 | 2475 | -37 | 
+| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yu Lijun | Li Wei | Lose | W+R | 6.5 | 2512 | 17 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Yu Lijun | Ding Shaojie | Win | B+R | 6.5 | 2495 | 43 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Yu Lijun | Lin Xiuping | Lose | W+R | 6.5 | 2452 | -14 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Yu Lijun | Lin Junyan | Lose | W+R | 6.5 | 2466 | -23 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Yu Lijun |  | Lose | W+R | 6.5 | 2489 | -37 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Cai Chengwei | Yu Lijun | Lose | B+R | 6.5 | 2526 | -48 | 
+| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Win | W+R | 6.5 | 2574 | 108 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選  | Yu Lijun | Dang Xiyun | Win | B+R | 6.5 | 2466 | -49 | 
+| 2020-06-15 | 2020新人王戦（台湾）リーグB | Yu Lijun | Li Wei | Lose | W+R | 7.5 | 2515 | 8 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB |  | Yu Lijun | Win | W+R | 7.5 | 2507 | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Yu Lijun | Huang Shiyuan | Lose | W+R | 7.5 | 2507 | 73 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Yu Lijun |  | Lose | W+R | 6.5 | 2434 | -42 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Yang Zixuan | Yu Lijun | Lose | B+R | 7.5 | 2476 | -3 | 
+| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Yu Lijun | Bai Xinhui | Lose | W+R | 6.5 | 2479 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Yu Lijun | Xu Jingen | Lose | W+R | 6.5 | 2479 | 3 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Yu Lijun | Win | W+R | 6.5 | 2476 | 78 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Yu Lijun | Lin Shixun | Lose | W+R | 6.5 | 2398 | -39 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Yu Lijun | Lu Yiquan | Lose | W+R | 6.5 | 2437 | -26 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Yu Lijun | Cai Chengwei | Lose | W+R | 7.5 | 2463 | -44 | 
 | 2020-01-07 | 第19期天元戦（台湾）予選 | Yu Lijun | Liu Chuanting | Lose | W+R | 6.5 | 2507 | 16 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Yu Lijun | Lose | B+R | 7.5 | 2491 | missing |
 

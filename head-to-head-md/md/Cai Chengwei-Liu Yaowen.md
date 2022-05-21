@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cai Chengwei vs Liu Yaowen** | **Cai Chengwei streak** | **Liu Yaowen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cai Chengwei Vs Liu Yaowen** | **Cai Chengwei Streak** | **Liu Yaowen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | W+R | 6.5 | 1:0 | 1 | 0 |
 

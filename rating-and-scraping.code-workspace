@@ -14,6 +14,6 @@
         }
     ],
     "settings": {
-        "julia.environmentPath": "c:\\git\\baduk-go-weiqi-ratings\\analysis"
+        "julia.environmentPath": "c:\\weiqi\\simulation"
     }
 }

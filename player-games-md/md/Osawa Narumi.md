@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第60期十段戦予選 | Osawa Narumi | Otake Hideo | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miFE4%2BoQBA7TirbQYowflw%3D%3D) | 
 | 第77期本因坊戦予選 | Osawa Narumi | Kudo Norio | W+R | 2020-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfHbzggDLI5Kv%2BIBUtz4ZA%3D%3D) | 

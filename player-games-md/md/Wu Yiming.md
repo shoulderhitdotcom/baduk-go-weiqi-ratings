@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-23 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第2戦 | Wu Yiming |  | Win | B+R | 6.5 | 2805 | 13 | 
 | 2022-05-22 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第1戦  | Nakamura Sumire | Wu Yiming | Win | W+R | 6.5 | 2792 | 13 | 
 | 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Win | W+R | 7.5 | 2779 | 31 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Li He | Lose | W+R | 7.5 | 2748 | 0 | 

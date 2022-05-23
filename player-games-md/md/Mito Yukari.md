@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-04 | 第41期女流本因坊戦予選 |  | Mito Yukari | Lose | B+11.5 | 6.5 | missing | 0 | 
 | 2018-12-06 | 第38期女流本因坊戦予選 | Mito Yukari | Arai Miyu | Lose | W+R | 6.5 | missing | 0 | 

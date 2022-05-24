@@ -7,15 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-24 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第3戦  | Wu Yiming | Suzuki Ayumi | Lose | B+11.5 | 6.5 | 2788 | -46 | 
-| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Akane Tatsumi | Suzuki Ayumi | Win | W+R | 6.5 | 2834 | -19 | 
-| 2022-04-25 | 第70期王座戦予選 | Suzuki Ayumi | Sada Atsushi | Lose | W+5.5 | 6.5 | 2853 | 1 | 
-| 2022-04-21 | 第61期十段戦予選 | Suzuki Ayumi | Lee Ishu | Lose | W+R | 6.5 | 2852 | -12 | 
+| 2022-05-24 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第3戦  | Wu Yiming | Suzuki Ayumi | Lose | B+11.5 | 6.5 | 2788 | -47 | 
+| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Akane Tatsumi | Suzuki Ayumi | Win | W+R | 6.5 | 2835 | -19 | 
+| 2022-04-25 | 第70期王座戦予選 | Suzuki Ayumi | Sada Atsushi | Lose | W+5.5 | 6.5 | 2854 | 1 | 
+| 2022-04-21 | 第61期十段戦予選 | Suzuki Ayumi | Lee Ishu | Lose | W+R | 6.5 | 2853 | -11 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Lu Yuhua | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2864 | -1 | 
 | 2022-04-04 | 第33期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | Lose | W+R | 6.5 | 2865 | -27 | 
-| 2022-03-17 | 第33期女流名人戦リーグ |  | Suzuki Ayumi | Win | W+R | 6.5 | 2892 | 21 | 
-| 2022-03-10 | 第33期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2871 | 39 | 
-| 2022-02-24 | 第70期王座戦予選 | Suzuki Ayumi | Miyazawa Goro | Win | B+R | 6.5 | 2832 | -71 | 
+| 2022-03-17 | 第33期女流名人戦リーグ |  | Suzuki Ayumi | Win | W+R | 6.5 | 2892 | 20 | 
+| 2022-03-10 | 第33期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2872 | 39 | 
+| 2022-02-24 | 第70期王座戦予選 | Suzuki Ayumi | Miyazawa Goro | Win | B+R | 6.5 | 2833 | -70 | 
 | 2022-02-17 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nakamura Sumire | Win | B+4.5 | 6.5 | 2903 | 7 | 
 | 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | Lose | W+1.5 | 6.5 | 2896 | -55 | 
 | 2022-01-31 | 第33期女流名人戦リーグ | Xie Yimin | Suzuki Ayumi | Lose | B+2.5 | 6.5 | 2951 | -18 | 
@@ -26,8 +26,8 @@
 | 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+0.5 | 6.5 | 2889 | 1 | 
 | 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 2888 | -19 | 
 | 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 6.5 | 2907 | -8 | 
-| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+3.5 | 6.5 | 2915 | 75 | 
-| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Lose | W+0.5 | 6.5 | 2840 | -15 | 
+| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+3.5 | 6.5 | 2915 | 74 | 
+| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Lose | W+0.5 | 6.5 | 2841 | -14 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Lose | W+R | 7.5 | 2855 | -16 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Feng Yun | Suzuki Ayumi | Win | W+R | 7.5 | 2871 | 110 | 
 | 2021-06-21 | 第6回扇興杯女流最強戦1回戦 | Suzuki Ayumi | Nishiyama Shizuka | Win | B+R | 6.5 | 2761 | 23 | 
@@ -54,8 +54,8 @@
 | 2020-06-25 | 第27期阿含・桐山杯早碁オープン戦予選 | Suzuki Ayumi | Terayama Rei | Lose | W+R | 6.5 | 2927 | -28 | 
 | 2020-06-21 | 第7期会津中央病院・女流立葵杯挑戦者決定戦  |  | Suzuki Ayumi | Win | W+R | 6.5 | 2955 | 16 | 
 | 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Suzuki Ayumi | Xie Yimin | Win | B+0.5 | 6.5 | 2939 | 69 | 
-| 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+R | 6.5 | 2870 | -107 | 
-| 2020-03-30 | 第7期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Kato Chie | Win | B+R | 6.5 | 2977 | -6 | 
+| 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+R | 6.5 | 2870 | -108 | 
+| 2020-03-30 | 第7期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Kato Chie | Win | B+R | 6.5 | 2978 | -5 | 
 | 2020-03-19 | 第46期名人戦予選 | Suzuki Ayumi | Morita Michihiro | Win | B+R | 6.5 | 2983 | -15 | 
 | 2020-02-10 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Suzuki Ayumi | Ueno Asami | Win | B+3.5 | 6.5 | 2998 | 20 | 
 | 2020-02-06 | 第46期碁聖戦予選 | Chino Tadahiko | Suzuki Ayumi | Lose | B+5.5 | 6.5 | 2978 | -72 | 

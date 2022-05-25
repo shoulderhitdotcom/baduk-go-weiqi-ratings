@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Iyama Yuta** | **Ichiriki Ryo Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-25 | 第77期本因坊戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | W+R | 6.5 | 17:31 | 0 | 2 | 
 | 2022-05-11 | 第77期本因坊戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | B+0.5 | 6.5 | 17:30 | 0 | 1 | 
 | 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | B+R | 6.5 | 17:29 | 1 | 0 | 
 | 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | W+R | 6.5 | 16:29 | 0 | 2 | 

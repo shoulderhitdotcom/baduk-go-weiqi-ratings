@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Li Xuanhao** | **Ding Hao Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | W+R | 7.5 | 0:1 | 0 | 1 | 
-| 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | B+0.5 | 6.5 | 1:2 | 1 | 0 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Ding Hao | Li Xuanhao | W+R | 7.5 | 0:2 | 0 | 2 |
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | W+R | 7.5 | 1:2 | 0 | 1 | 
+| 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | B+0.5 | 6.5 | 1:1 | 1 | 0 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Ding Hao | Li Xuanhao | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

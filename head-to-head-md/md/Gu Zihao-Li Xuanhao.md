@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Li Xuanhao** | **Gu Zihao Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Gu Zihao | Li Xuanhao | W+R | 7.5 | 5:4 | 0 | 2 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Gu Zihao | Li Xuanhao | W+R | 7.5 | 5:3 | 0 | 1 | 
 | 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Zihao | Li Xuanhao | B+R | 7.5 | 5:2 | 3 | 0 | 
 | 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Li Xuanhao | Gu Zihao | W+R | 7.5 | 4:2 | 2 | 0 | 

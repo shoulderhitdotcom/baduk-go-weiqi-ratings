@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第48期天元戦予選 | Aragaki Shun | Hoshikawa Koyo | W+R | 2021-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qMONxXnefZm55ai0U6unvQ%3D%3D) | 
 | 第60期十段戦予選 | Aragaki Shun | Yuki Satoshi | W+R | 2021-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CuiYrvEPzVfMEpoy7byvgQ%3D%3D) | 

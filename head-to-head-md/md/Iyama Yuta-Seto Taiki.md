@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Seto Taiki** | **Iyama Yuta streak** | **Seto Taiki streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Seto Taiki** | **Iyama Yuta Streak** | **Seto Taiki Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-13 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Seto Taiki | B+6.5 | 6.5 | 8:1 | 1 | 0 | 
 | 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント予選第2局 | Iyama Yuta | Seto Taiki | W+R | 6.5 | 7:1 | 0 | 1 | 

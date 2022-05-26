@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sada Atsushi vs Takashima Yugo** | **Sada Atsushi streak** | **Takashima Yugo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Sada Atsushi Vs Takashima Yugo** | **Sada Atsushi Streak** | **Takashima Yugo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-01-20 | 第64期王座戦予選 | Takashima Yugo | Sada Atsushi | W+4.5 | 6.5 | 1:0 | 1 | 0 |
 

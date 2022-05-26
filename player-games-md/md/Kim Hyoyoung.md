@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyoyoung | Lose | B+6.5 | 6.5 | 2683 | 3 | 
 | 2022-05-25 | 第10回河燦錫国手杯英才最強戦2回戦 | Kim Hyoyoung |  | Lose | W+1.5 | 6.5 | 2680 | -23 | 
 | 2022-05-17 | 第16回GGオークション杯予選 | Kim Hyoyoung | Heo Seohyun | Win | B+R | 6.5 | 2703 | 218 | 
 | 2022-02-19 | 第5期韓国竜星戦予選 | Kim Eunji | Kim Hyoyoung | Lose | B+R | 6.5 | 2485 | -5 | 

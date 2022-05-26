@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3653 | 11 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Fan Tingyu | Ke Jie | Win | B+0.5 | 7.5 | 3642 | 15 | 
 | 2022-04-29 | 第9回衢州・爛柯杯中国囲碁冠軍戦決勝 | Li Xuanhao | Fan Tingyu | Lose | B+R | 7.5 | 3627 | -7 | 
 | 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Win | B+R | 7.5 | 3634 | 9 | 

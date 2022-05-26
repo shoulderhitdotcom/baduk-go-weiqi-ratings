@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Gu Zihao | Li Xuanhao | Win | W+R | 7.5 | 3599 | 9 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Xu Jiayang | Li Xuanhao | Win | W+R | 7.5 | 3590 | -12 | 
 | 2022-04-29 | 第9回衢州・爛柯杯中国囲碁冠軍戦決勝 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3602 | 10 | 
 | 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Li Xuanhao | Win | W+¼ | 7.5 | 3592 | 7 | 

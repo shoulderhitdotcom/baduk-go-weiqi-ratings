@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第5戦  | Wu Yiming | Xie Yimin | Win | B+R | 6.5 | 2867 | 25 | 
 | 2022-05-25 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第4戦 | Wu Yiming | Heo Seohyun | Win | B+R | 6.5 | 2842 | 23 | 
 | 2022-05-24 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第3戦  | Wu Yiming | Suzuki Ayumi | Win | B+11.5 | 6.5 | 2819 | 14 | 
 | 2022-05-23 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第2戦 | Wu Yiming | Lee Suljoo | Win | B+R | 6.5 | 2805 | 13 | 

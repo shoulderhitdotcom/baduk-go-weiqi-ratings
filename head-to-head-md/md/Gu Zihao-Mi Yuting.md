@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Mi Yuting** | **Gu Zihao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-27 | 第3回王中王囲棋争覇戦3位決定戦 | Gu Zihao | Mi Yuting | W+R | 7.5 | 9:13 | 0 | 1 | 
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Gu Zihao | Mi Yuting | B+R | 7.5 | 9:12 | 2 | 0 | 
 | 2021-12-21 | 第12期中国竜星戦決勝三番勝負第3局 | Mi Yuting | Gu Zihao | W+R | 7.5 | 8:12 | 1 | 0 | 
 | 2021-12-20 | 第12期中国竜星戦決勝三番勝負第2局 | Mi Yuting | Gu Zihao | B+¾ | 7.5 | 7:12 | 0 | 1 | 

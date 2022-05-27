@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-27 | 第3回王中王囲棋争覇戦3位決定戦 | Gu Zihao | Mi Yuting | Lose | W+R | 7.5 | 3600 | -6 | 
 | 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Gu Zihao | Li Xuanhao | Lose | W+R | 7.5 | 3606 | -9 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3615 | -29 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Lose | B+R | 7.5 | 3644 | -25 | 

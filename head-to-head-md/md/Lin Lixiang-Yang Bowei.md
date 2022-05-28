@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Yang Bowei** | **Lin Lixiang Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Lixiang | Yang Bowei | W+R | 6.5 | 2:6 | 0 | 1 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Yang Bowei | Lin Lixiang | W+R | 6.5 | 2:5 | 1 | 0 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選敗部1回戦 | Lin Lixiang | Yang Bowei | W+R | 6.5 | 1:5 | 0 | 5 | 
 | 2018-04-13 | 第十七回天元戦リーグ第一節 | Lin Lixiang | Yang Bowei | W+2.5 | 6.5 | 1:4 | 0 | 4 | 

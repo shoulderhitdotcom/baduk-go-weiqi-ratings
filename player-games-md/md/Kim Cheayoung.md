@@ -24,13 +24,13 @@
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Kim Cheayoung |  | Win | B+R | 6.5 | 2674 | 5 | 
 | 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Win | B+2.5 | 6.5 | 2669 | 4 | 
 | 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2665 | -65 | 
-| 2021-11-11 | 第3回大統領杯全国囲碁大会予選 | Kim Cheayoung | Cho Wankyu | Lose | W+R | 6.5 | 2730 | -20 | 
-| 2021-11-02 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2750 | 8 | 
+| 2021-11-11 | 第3回大統領杯全国囲碁大会予選 | Kim Cheayoung | Cho Wankyu | Lose | W+R | 6.5 | 2730 | -21 | 
+| 2021-11-02 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2751 | 9 | 
 | 2021-10-29 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Kim Cheayoung | Lose | B+R | 6.5 | 2742 | -52 | 
-| 2021-10-22 | 第26期女流国手戦準決勝 | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 2794 | -21 | 
-| 2021-10-04 | 第15回GGオークション杯女流対シニア連勝対抗戦第21局 | Lee Changho | Kim Cheayoung | Lose | B+R | 6.5 | 2815 | -1 | 
-| 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2816 | 8 | 
-| 2021-09-29 | 第26期女流国手戦2回戦 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 2808 | -41 | 
+| 2021-10-22 | 第26期女流国手戦準決勝 | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 2794 | -22 | 
+| 2021-10-04 | 第15回GGオークション杯女流対シニア連勝対抗戦第21局 | Lee Changho | Kim Cheayoung | Lose | B+R | 6.5 | 2816 | -1 | 
+| 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2817 | 8 | 
+| 2021-09-29 | 第26期女流国手戦2回戦 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 2809 | -40 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 2849 | 2 | 
 | 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2847 | 7 | 
 | 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 2840 | -93 | 
@@ -50,22 +50,22 @@
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Yoonyoung | Kim Cheayoung | Lose | B+R | 6.5 | 3050 | 6 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Miri | Win | B+2.5 | 6.5 | 3044 | 14 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3030 | -15 | 
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Nokyeong | Win | B+R | 6.5 | 3045 | -8 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Cheayoung | Win | W+R | 6.5 | 3053 | 1 | 
+| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Nokyeong | Win | B+R | 6.5 | 3045 | -9 | 
+| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Cheayoung | Win | W+R | 6.5 | 3054 | 2 | 
 | 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Win | W+2.5 | 6.5 | 3052 | -17 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 3069 | 61 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ |  | Kim Cheayoung | Win | W+R | 7.5 | 3008 | 5 | 
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | Lose | W+R | 7.5 | 3003 | -24 | 
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Lose | W+¼ | 7.5 | 3027 | -9 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Kim Cheayoung | Lose | B+R | 7.5 | 3036 | -2 | 
-| 2021-02-23 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 3038 | 57 | 
-| 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 2981 | 6 | 
+| 2021-02-23 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 3038 | 56 | 
+| 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 2982 | 7 | 
 | 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Win | B+2.5 | 6.5 | 2975 | 12 | 
 | 2021-01-05 | 第4回クラウン・ヘテ杯1回戦 | Wen Rubin | Kim Cheayoung | Lose | B+R | 6.5 | 2963 | -7 | 
 | 2020-12-15 | 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 2970 | -2 | 
 | 2020-12-14 | 第4期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2972 | 8 | 
-| 2020-12-07 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Cheayoung | Cho Hyeyeon | Win | B+0.5 | 6.5 | 2964 | 2 | 
-| 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | Lose | B+R | 6.5 | 2962 | -20 | 
+| 2020-12-07 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Cheayoung | Cho Hyeyeon | Win | B+0.5 | 6.5 | 2964 | 1 | 
+| 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | Lose | B+R | 6.5 | 2963 | -19 | 
 | 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 2982 | -18 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Kim Cheayoung | Lose | B+R | 7.5 | 3000 | 0 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Chen Yiming | Lose | W+1¼ | 7.5 | 3000 | -27 | 
@@ -76,10 +76,10 @@
 | 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Pan Yang | Kim Cheayoung | Win | W+R | 7.5 | 3008 | 17 | 
 | 2020-09-03 | 第25回三星火災杯韓国女子枠予選 | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 2991 | 40 | 
 | 2020-09-02 | 第25回三星火災杯韓国女子枠予選 | Kim Hyeoimin | Kim Cheayoung | Win | W+2.5 | 6.5 | 2951 | 15 | 
-| 2020-09-01 | 第25回三星火災杯韓国女子枠予選 | Kim Eunji | Kim Cheayoung | Win | W+R | 6.5 | 2936 | 0 | 
-| 2020-08-29 | 第25回三星火災杯韓国女子枠予選 | Choi Jeong | Kim Cheayoung | Win | W+R | 6.5 | 2936 | -27 | 
-| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第1局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2963 | -62 | 
-| 2020-08-15 | 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | Win | B+4.5 | 6.5 | 3025 | -6 | 
+| 2020-09-01 | 第25回三星火災杯韓国女子枠予選 | Kim Eunji | Kim Cheayoung | Win | W+R | 6.5 | 2936 | -1 | 
+| 2020-08-29 | 第25回三星火災杯韓国女子枠予選 | Choi Jeong | Kim Cheayoung | Win | W+R | 6.5 | 2937 | -27 | 
+| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第1局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2964 | -62 | 
+| 2020-08-15 | 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | Win | B+4.5 | 6.5 | 3026 | -5 | 
 | 2020-08-09 | 第6回韓国女子囲碁リーグ第12節第4試合第1局 | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 3031 | -25 | 
 | 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Kim Cheayoung | Pan Yang | Win | B+2¾ | 7.5 | 3056 | 6 | 
 | 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Win | B+1.5 | 6.5 | 3050 | 36 | 
@@ -96,10 +96,10 @@
 | 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第2試合第2局 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 3097 | 58 | 
 | 2020-06-18 | 第6回韓国女子囲碁リーグ第5節第1試合第3局 |  | Kim Cheayoung | Win | W+R | 6.5 | 3039 | -6 | 
 | 2020-06-14 | 第6回韓国女子囲碁リーグ第4節第4試合第1局 | Kim Cheayoung | Kang Dajeong | Win | B+R | 6.5 | 3045 | -8 | 
-| 2020-06-06 | 第6回韓国女子囲碁リーグ第3節第3試合第2局 | Kim Eunji | Kim Cheayoung | Win | W+R | 6.5 | 3053 | -4 | 
-| 2020-05-29 | 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 3057 | 36 | 
-| 2020-05-21 | 第6回韓国女子囲碁リーグ第1節第1試合第3局 | Kim Cheayoung | Oh Yujin | Win | B+0.5 | 6.5 | 3021 | -52 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Lose | B+R | 6.5 | 3073 | -36 | 
+| 2020-06-06 | 第6回韓国女子囲碁リーグ第3節第3試合第2局 | Kim Eunji | Kim Cheayoung | Win | W+R | 6.5 | 3053 | -5 | 
+| 2020-05-29 | 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 3058 | 36 | 
+| 2020-05-21 | 第6回韓国女子囲碁リーグ第1節第1試合第3局 | Kim Cheayoung | Oh Yujin | Win | B+0.5 | 6.5 | 3022 | -52 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Lose | B+R | 6.5 | 3074 | -35 | 
 | 2020-02-03 | 第13回GGオークション杯女流対シニア連勝対抗戦第16局 | Han Chongjin | Kim Cheayoung | Lose | B+R | 6.5 | 3109 | missing |
 
 

@@ -57,8 +57,8 @@
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | Lose | W+R | 7.5 | 3003 | -24 | 
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Lose | W+¼ | 7.5 | 3027 | -9 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Kim Cheayoung | Lose | B+R | 7.5 | 3036 | -2 | 
-| 2021-02-23 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 3038 | 56 | 
-| 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 2982 | 7 | 
+| 2021-02-23 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 3038 | 57 | 
+| 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 2981 | 6 | 
 | 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Win | B+2.5 | 6.5 | 2975 | 12 | 
 | 2021-01-05 | 第4回クラウン・ヘテ杯1回戦 | Wen Rubin | Kim Cheayoung | Lose | B+R | 6.5 | 2963 | -7 | 
 | 2020-12-15 | 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 2970 | -2 | 

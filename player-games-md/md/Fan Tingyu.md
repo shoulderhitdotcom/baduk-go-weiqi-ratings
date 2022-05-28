@@ -64,8 +64,8 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Hu Yuhan | Win | B+R | 7.5 | 3514 | 0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Guo Xinyi | Win | B+R | 7.5 | 3514 | 11 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Lee Donghoon | Win | B+R | 7.5 | 3503 | 8 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Lose | B+R | 7.5 | 3495 | -10 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Lin Junyan | Fan Tingyu | Lose | B+R | 7.5 | 3505 | -6 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Lose | B+R | 7.5 | 3495 | -9 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Lin Junyan | Fan Tingyu | Lose | B+R | 7.5 | 3504 | -7 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Fan Tingyu | Tang Weixing | Lose | W+2¼ | 7.5 | 3511 | 40 | 
 | 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Fan Tingyu | Shin Jinseo | Lose | W+R | 7.5 | 3471 | -23 | 
 | 2021-01-02 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第2局 | Xie Ke | Fan Tingyu | Lose | B+R | 7.5 | 3494 | -7 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shin Minjun vs Zhao Chenyu** | **Shin Minjun streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Zhao Chenyu** | **Shin Minjun Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Zhao Chenyu | B+R | 6.5 | 2:2 | 1 | 0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Shin Minjun | Zhao Chenyu | W+R | 7.5 | 1:2 | 0 | 1 | 

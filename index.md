@@ -34,10 +34,10 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 | 10 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3592 | 32 | CHN | Male | 22.2 | 李維清 | 
 | 11 | [Gu Zihao](./player-games-md/md/Gu Zihao.md) | 3590 | 43 | CHN | Male | 24.2 | 辜梓豪 | 
 | 12 | [Yang Dingxin](./player-games-md/md/Yang Dingxin.md) | 3590 | 49 | CHN | Male | 23.6 | 楊鼎新 | 
-| 13 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3589 | 33 | Male | Unknown | 18.3 | 王星昊 | 
+| 13 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3589 | 33 | CHN | Male | 18.3 | 王星昊 | 
 | 14 | [Peng Liyao](./player-games-md/md/Peng Liyao.md) | 3576 | 37 | CHN | Male | 30.4 | 彭立尭 | 
 | 15 | [Lee Donghoon](./player-games-md/md/Lee Donghoon.md) | 3564 | 59 | KOR | Male | 24.3 | 李東勲 | 
-| 16 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3564 | 36 | CHN | Male | missing | 廖元赫 | 
+| 16 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3564 | 36 | CHN | Male | 21.5 | 廖元赫 | 
 | 17 | [Huang Yunsong](./player-games-md/md/Huang Yunsong.md) | 3554 | 54 | CHN | Male | 25.4 | 黄雲嵩 | 
 | 18 | [Li Qincheng](./player-games-md/md/Li Qincheng.md) | 3553 | 36 | CHN | Male | 23.6 | 李欽誠 | 
 | 19 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3552 | 49 | JPN | Male | 33.0 | 井山裕太 | 

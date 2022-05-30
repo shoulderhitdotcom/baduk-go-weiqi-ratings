@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Kang Dajeong** | **Choi Jeong streak** | **Kang Dajeong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kang Dajeong** | **Choi Jeong Streak** | **Kang Dajeong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-04-25 | 第4回韓国女子囲碁リーグ第14節 | Choi Jeong | Kang Dajeong | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2017-04-02 | 3期韓国女子連戦8回戦首尓-浦項 | Kang Dajeong | Choi Jeong | W+R | 6.5 | 2:0 | 2 | 0 | 

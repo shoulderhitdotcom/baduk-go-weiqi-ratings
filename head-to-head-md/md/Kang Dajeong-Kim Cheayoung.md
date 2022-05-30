@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dajeong vs Kim Cheayoung** | **Kang Dajeong streak** | **Kim Cheayoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dajeong Vs Kim Cheayoung** | **Kang Dajeong Streak** | **Kim Cheayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-14 | 第6回韓国女子囲碁リーグ第4節第4試合第1局 | Kim Cheayoung | Kang Dajeong | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2019-07-31 | 第5回韓国女子囲碁リーグ第11節第3試合第1局 | Kim Cheayoung | Kang Dajeong | B+4.5 | 6.5 | 0:4 | 0 | 4 | 

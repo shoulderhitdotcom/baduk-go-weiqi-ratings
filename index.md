@@ -20,7 +20,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 
 
 
-Error: syntax: missing comma or ) in argument list
+Error: ArgumentError: column name :Games Palyed not found in the data frame; existing most similar names are: :Games Played
 
 
 

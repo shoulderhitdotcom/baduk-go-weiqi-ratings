@@ -28,7 +28,7 @@ include("c:/weiqi/simulation/utils.jl")
 pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
 
 @chain pings_for_md begin
-    select!(Not([:Uncertainty, Symbol("Games Played"), Symbol("Median Rank"), Symbol("Form Rank Range")]))
+    select!(Not([:Uncertainty, Symbol("Median Rank"), Symbol("Form Rank Range")]))
 end
 
 df_to_md(pings_for_md[1:100, :])

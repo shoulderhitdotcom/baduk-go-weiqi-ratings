@@ -381,6 +381,8 @@ rank_ranges = @chain pings_hist begin
 end
 
 
+
+
 # figure out the adjustment needed for each day
 sjs_ratings = scrape_tables("https://www.goratings.org/en/players/1313.html")[2] |> DataFrame
 
@@ -470,7 +472,7 @@ top100_movements = @chain pings_hist_adj begin
     @transform :abs_rating_change = abs(:rating_change)
     sort(:abs_rating_change, rev=true)
     @transform :eng_name = get(NAMESDB, :name, "")
-    select(:eng_name=>:Name, :abs_rating_change=>Symbol("Rating Change"), :name => Symbol("汉字"))
+    select(:eng_name => :Name, :abs_rating_change => Symbol("Rating Change"), :name => Symbol("汉字"))
 end
 
 JDF.save("top100_movements.jdf", top100_movements)
@@ -483,39 +485,78 @@ mean_ratings = @chain pings_hist_adj begin
     @combine(:mean_rating = mean(:Rating))
 end
 
-pings_for_md2 = @chain pings_for_md1 begin
-    leftjoin(rank_ranges, on=:name)
-    leftjoin(mean_ratings, on=:name)
-    sort(:mean_rating, rev=true)
-    # @transform :Rank = @c 1:length(:mean_rating)
-    @transform :Class = round(Int, :mean_rating)
-    @transform :Form = round(Int, :Rating - :Class)
+function meh(days)
+    mean_ratings = @chain pings_hist_adj begin
+        @subset today() - Day(days) <= :date
+        groupby([:name, :eng_name_old])
+        @combine(:mean_rating = mean(:Rating))
+        sort(:mean_rating, rev=true)
+        @transform :rank = @c 1:length(:mean_rating)
+        @subset :eng_name_old in ("Ke Jie", "Weon Seongjin")
+        # _[2:2, :eng_name_old]
+    end
+
+    kj_rating = @chain mean_ratings begin
+        @subset :eng_name_old == "Ke Jie"
+        _[1, :rank]
+    end
+
+    wsj_rating = @chain mean_ratings begin
+        @subset :eng_name_old != "Ke Jie"
+        _[1, :rank]
+    end
+
+    kj_rating, wsj_rating
 end
 
+using BadukGoWeiqiTools: create_player_info_tbl
+players_info = create_player_info_tbl()
+
+pings_for_md2 = @chain pings_for_md1 begin
+    leftjoin(players_info, on=:eng_name_old => :name)
+    @transform :date_of_birth = @m Date(:date_of_birth)
+    #@transform :age = @m round((today() - :date_of_birth)/ 365, ndigits=2)
+    @transform :age = @m round(getproperty(today() - :date_of_birth, Symbol("value"))/365, digits=1)
+    # leftjoin(rank_ranges, on=:name)
+    # leftjoin(mean_ratings, on=:name)
+    sort(:Rating, rev=true)
+    # @transform :Rank = @c 1:length(:mean_rating)
+    # @transform :Class = round(Int, :mean_rating)
+    # @transform :Form = round(Int, :Rating - :Class)
+    # select(:age)
+end
+
+
 # work out the average rating change
+
 
 # ready for output
 pings_for_md_tmp = select(
     pings_for_md2,
     :Rank,
+    :age,
+    :sex,
+    :nationality,
+    :affiliation,
     :eng_name => "Name",
-    :Class,
+    # :Class,
     :Rating,
-    :Form, :rating_uncertainty => Symbol("Uncertainty"),
+    # :Form,
+    # :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
-    :median_rank => "Median Rank",
-    :form_range => "Form Rank Range",
+    # :median_rank => "Median Rank",
+    # :form_range => "Form Rank Range",
     :name => "Hanzi (汉字) Name")
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" < NGAME_THRESHOLD
-    sort!(:Class, rev=true)
+    sort!(:Rating, rev=true)
     @transform :Rank = @c 1:length(:Rating)
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" >= NGAME_THRESHOLD
-    sort!(:Class, rev=true)
+    sort!(:Rating, rev=true)
     @transform :Rank = @c 1:length(:Rating)
 end
 

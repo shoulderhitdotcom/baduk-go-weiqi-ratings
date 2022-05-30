@@ -1,4 +1,4 @@
-## Anzai Nobuaki Games
+## Chen Weiting vs Lin Shixun Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Anzai Nobuaki.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Chen Weiting-Lin Shixun.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

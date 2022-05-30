@@ -20,7 +20,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 
 
 
-Error: ArgumentError: column name :Uncertainty not found in the data frame
+Error: syntax: missing comma or ) in argument list
 
 
 

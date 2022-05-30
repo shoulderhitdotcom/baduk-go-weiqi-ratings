@@ -31,7 +31,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 | 7 | [Fan Tingyu](./player-games-md/md/Fan Tingyu.md) | 3643 | 52 | CHN | Male | 25.8 | 范廷鈺 | 
 | 8 | [Li Xuanhao](./player-games-md/md/Li Xuanhao.md) | 3606 | 55 | CHN | Male | 27.3 | 李軒豪 | 
 | 9 | [Dang Yifei](./player-games-md/md/Dang Yifei.md) | 3593 | 36 | CHN | Male | 28.0 | 党毅飛 | 
-| 10 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3592 | 32 | CHN | Male | missing | 李維清 | 
+| 10 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3592 | 32 | CHN | Male | 22.2 | 李維清 | 
 | 11 | [Gu Zihao](./player-games-md/md/Gu Zihao.md) | 3590 | 43 | CHN | Male | 24.2 | 辜梓豪 | 
 | 12 | [Yang Dingxin](./player-games-md/md/Yang Dingxin.md) | 3590 | 49 | CHN | Male | 23.6 | 楊鼎新 | 
 | 13 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3589 | 33 | CHN | Unknown | 18.3 | 王星昊 | 

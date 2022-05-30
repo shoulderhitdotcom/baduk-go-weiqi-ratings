@@ -24,7 +24,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Shin Jinseo](./player-games-md/md/Shin Jinseo.md) | 3835 | 102 | KOR | Male | 22.2 | 申眞諝 | 
 | 2 | [Ke Jie](./player-games-md/md/Ke Jie.md) | 3715 | 46 | CHN | Male | 24.8 | 柯潔 | 
-| 3 | [Ding Hao](./player-games-md/md/Ding Hao.md) | 3691 | 53 | CHN | Male | missing | 丁浩 | 
+| 3 | [Ding Hao](./player-games-md/md/Ding Hao.md) | 3691 | 53 | CHN | Male | 22.0 | 丁浩 | 
 | 4 | [Mi Yuting](./player-games-md/md/Mi Yuting.md) | 3675 | 64 | CHN | Male | 26.4 | 芈昱廷 | 
 | 5 | [Byun Sangil](./player-games-md/md/Byun Sangil.md) | 3671 | 81 | KOR | Male | 25.4 | 卞相壹 | 
 | 6 | [Park Junghwan](./player-games-md/md/Park Junghwan.md) | 3666 | 94 | KOR | Male | 29.4 | 朴廷桓 | 

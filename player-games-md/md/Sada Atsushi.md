@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 |  | Sada Atsushi | Lose | B+R | 6.5 | 3255 | 30 | 
+| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Sada Atsushi | Lose | B+R | 6.5 | 3255 | 30 | 
 | 2022-05-25 | 第48期名人戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3225 | -2 | 
 | 2022-05-11 | 第66期関西棋院第一位決定戦3回戦 | Sada Atsushi | Abe Yoshiki | Win | B+R | 6.5 | 3227 | 17 | 
 | 2022-05-02 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Tanaka Nobuyuki | Sada Atsushi | Win | W+12.5 | 6.5 | 3210 | -7 | 

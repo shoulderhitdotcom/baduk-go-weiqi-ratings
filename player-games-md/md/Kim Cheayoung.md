@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-29 | 第8回韓国女子囲碁リーグ | Kim Cheayoung |  | Win | B+R | 6.5 | 2833 | 3 | 
 | 2022-05-28 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第7戦  | Fujisawa Rina | Kim Cheayoung | Lose | B+R | 6.5 | 2830 | -3 | 
 | 2022-05-27 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第6戦 | Wu Yiming | Kim Cheayoung | Win | W+R | 6.5 | 2833 | 25 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Kim Cheayoung | Seol Hyunjun | Lose | W+R | 6.5 | 2808 | 0 | 

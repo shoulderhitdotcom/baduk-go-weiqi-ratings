@@ -34,7 +34,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 | 10 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3592 | 32 | CHN | Male | 22.2 | 李維清 | 
 | 11 | [Gu Zihao](./player-games-md/md/Gu Zihao.md) | 3590 | 43 | CHN | Male | 24.2 | 辜梓豪 | 
 | 12 | [Yang Dingxin](./player-games-md/md/Yang Dingxin.md) | 3590 | 49 | CHN | Male | 23.6 | 楊鼎新 | 
-| 13 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3589 | 33 | CHN | Unknown | 18.3 | 王星昊 | 
+| 13 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3589 | 33 | Male | Unknown | 18.3 | 王星昊 | 
 | 14 | [Peng Liyao](./player-games-md/md/Peng Liyao.md) | 3576 | 37 | CHN | Male | 30.4 | 彭立尭 | 
 | 15 | [Lee Donghoon](./player-games-md/md/Lee Donghoon.md) | 3564 | 59 | KOR | Male | 24.3 | 李東勲 | 
 | 16 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3564 | 36 | CHN | Male | missing | 廖元赫 | 

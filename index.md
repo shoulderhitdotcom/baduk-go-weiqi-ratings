@@ -20,7 +20,7 @@ The ratings are based on 4517 games from 2021-05-31 to 2022-05-30.
 
 
 
-Error: syntax: unexpected ","
+Error: ArgumentError: column name :affililation not found in the data frame; existing most similar names are: :affiliation
 
 
 

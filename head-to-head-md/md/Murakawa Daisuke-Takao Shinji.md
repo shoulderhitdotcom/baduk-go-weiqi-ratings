@@ -5,12 +5,11 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Takao Shinji** | **Murakawa Daisuke streak** | **Takao Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Takao Shinji** | **Murakawa Daisuke Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-04-22 | 第46期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+R | 6.5 | 8:8 | 2 | 0 | 
-| 2020-09-21 | 第45期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+4.5 | 6.5 | 7:8 | 1 | 0 | 
-| 2019-07-25 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Takao Shinji | W+R | 6.5 | 6:8 | 0 | 1 | 
-| 2019-01-31 | 第57期十段戦挑戦者決定戦 | Murakawa Daisuke | Takao Shinji | B+R | 6.5 | 6:7 | 2 | 0 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+R | 6.5 | 7:8 | 2 | 0 | 
+| 2020-09-21 | 第45期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+4.5 | 6.5 | 6:8 | 1 | 0 | 
+| 2019-07-25 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Takao Shinji | W+R | 6.5 | 5:8 | 0 | 1 | 
 | 2018-05-10 | 第43期名人戦リーグ | Murakawa Daisuke | Takao Shinji | B+2.5 | 6.5 | 5:7 | 1 | 0 | 
 | 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Takao Shinji | Murakawa Daisuke | B+0.5 | 6.5 | 4:7 | 0 | 2 | 
 | 2016-09-29 | 第41期棋聖戦　Sリーグ5回戦 | Takao Shinji | Murakawa Daisuke | B+R | 6.5 | 4:6 | 0 | 1 | 

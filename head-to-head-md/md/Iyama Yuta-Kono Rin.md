@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Kono Rin** | **Iyama Yuta streak** | **Kono Rin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Kono Rin** | **Iyama Yuta Streak** | **Kono Rin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-05 | 第45期棋聖戦挑戦手合七番勝負第5局 | Kono Rin | Iyama Yuta | W+R | 6.5 | 42:19 | 1 | 0 | 
 | 2021-02-17 | 第45期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Kono Rin | W+R | 6.5 | 41:19 | 0 | 1 | 

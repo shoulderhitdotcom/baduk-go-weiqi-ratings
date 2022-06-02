@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Kim Miri** | **Choi Jeong streak** | **Kim Miri streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Miri** | **Choi Jeong Streak** | **Kim Miri Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-23 | 第23期女流国手戦8強戦 | Kim Miri | Choi Jeong | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2015-03-10 | 第1回韓国女子囲碁リーグ第12節 | Choi Jeong | Kim Miri | B+R | 6.5 | 3:0 | 3 | 0 | 

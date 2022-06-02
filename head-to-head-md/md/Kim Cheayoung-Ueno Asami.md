@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Ueno Asami** | **Kim Cheayoung streak** | **Ueno Asami streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Ueno Asami** | **Kim Cheayoung Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Ueno Asami | Kim Cheayoung | W+R | 7.5 | 3:0 | 3 | 0 | 
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Kim Cheayoung | Ueno Asami | B+R | 7.5 | 2:0 | 2 | 0 | 

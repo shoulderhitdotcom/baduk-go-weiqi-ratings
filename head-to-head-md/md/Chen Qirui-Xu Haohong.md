@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Xu Haohong** | **Chen Qirui Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-02 | 第12期友士杯十段戦挑戦手合五番勝負第4局  | Xu Haohong | Chen Qirui | B+R | 6.5 | 8:12 | 0 | 1 | 
 | 2022-05-26 | 第12期友士杯十段戦挑戦手合五番勝負第3局  | Chen Qirui | Xu Haohong | B+R | 6.5 | 8:11 | 1 | 0 | 
 | 2022-05-19 | 第12期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Chen Qirui | B+R | 6.5 | 7:11 | 0 | 1 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Chen Qirui | Xu Haohong | B+R | 6.5 | 7:10 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Shin Minjun** | **Shin Jinseo Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | W+R | 6.5 | 18:6 | 4 | 0 | 
 | 2022-04-16 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Shin Jinseo | Shin Minjun | B+R | 6.5 | 17:6 | 3 | 0 | 
 | 2021-11-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Shin Minjun | Shin Jinseo | W+R | 6.5 | 16:6 | 2 | 0 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Shin Minjun | Shin Jinseo | W+R | 6.5 | 15:6 | 1 | 0 | 

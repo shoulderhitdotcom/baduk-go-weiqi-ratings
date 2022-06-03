@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3838 | 0 | 
 | 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3838 | 0 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦  | Shin Jinseo | Yu Zhengqi | Win | B+R | 6.5 | 3838 | 0 | 
 | 2022-05-19 | 第5期韓国竜星戦3回戦 | Shen Zaiyi | Shin Jinseo | Win | W+R | 6.5 | 3838 | 0 | 

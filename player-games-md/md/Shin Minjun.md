@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3516 | -4 | 
 | 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3520 | -3 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Shin Minjun | Lose | B+R | 6.5 | 3523 | -6 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Shin Minjun | Win | W+R | 6.5 | 3529 | -9 | 

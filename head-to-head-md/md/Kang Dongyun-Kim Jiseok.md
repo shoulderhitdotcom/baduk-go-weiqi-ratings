@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Kim Jiseok** | **Kang Dongyun Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-03 | 第5期韓国竜星戦3回戦 | Kang Dongyun | Kim Jiseok | B+R | 6.5 | 12:15 | 3 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Kang Dongyun | Kim Jiseok | B+R | 7.5 | 11:15 | 2 | 0 | 
 | 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | W+R | 6.5 | 10:15 | 1 | 0 | 
 | 2020-03-16 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | B+R | 6.5 | 9:15 | 0 | 1 | 

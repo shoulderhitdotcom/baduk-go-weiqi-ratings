@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-10 | 第41期女流本因坊戦予選 | Kato Keiko | Mukai Kaori | Win | B+7.5 | 6.5 | 1828.0 | 0.0 | 
 | 2021-02-04 | 第40期女流本因坊戦予選 | Kato Keiko | Aoki Kikuyo | Lose | W+R | 6.5 | 1828.0 | 0.0 | 

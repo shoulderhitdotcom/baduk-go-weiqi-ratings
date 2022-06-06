@@ -12,8 +12,8 @@
 | 2022-04-08 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Yujin | Lee Youngjoo | Lose | B+R | 6.5 | 2680 | 0 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Lee Youngjoo | Kim Dayoung | Lose | W+¼ | 7.5 | 2680 | 0 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Lee Youngjoo | Heo Seohyun | Lose | W+R | 7.5 | 2680 | -2 | 
-| 2022-02-18 | 第9回大舟杯プロシニア最強者戦1回戦 | Lee Youngjoo | Choi Kyubyeong | Lose | W+0.5 | 6.5 | 2682 | -14 | 
-| 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Lose | B+2.5 | 6.5 | 2696 | -84 | 
+| 2022-02-18 | 第9回大舟杯プロシニア最強者戦1回戦 | Lee Youngjoo | Choi Kyubyeong | Lose | W+0.5 | 6.5 | 2682 | -15 | 
+| 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Lose | B+2.5 | 6.5 | 2697 | -83 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+2.5 | 6.5 | 2780 | -22 | 
 | 2021-08-24 | 第15回GGオークション杯女流対シニア連勝対抗戦第10局 | Lee Youngjoo | Han Chongjin | Lose | W+R | 6.5 | 2802 | 1 | 
 | 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2801 | 40 | 
@@ -23,14 +23,14 @@
 | 2021-07-24 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | Lose | W+0.5 | 6.5 | 2879 | -26 | 
 | 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Youngjoo | Win | W+R | 6.5 | 2905 | 54 | 
 | 2021-07-08 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+7.5 | 6.5 | 2851 | -10 | 
-| 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Win | W+3.5 | 6.5 | 2861 | 26 | 
-| 2021-06-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+R | 6.5 | 2835 | 39 | 
+| 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Win | W+3.5 | 6.5 | 2861 | 25 | 
+| 2021-06-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+R | 6.5 | 2836 | 40 | 
 | 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | W+5.5 | 6.5 | 2796 | -27 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Win | B+R | 6.5 | 2823 | 47 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | Win | B+R | 6.5 | 2776 | 21 | 
 | 2021-05-27 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Youngjoo | Lose | B+9.5 | 6.5 | 2755 | 1 | 
-| 2021-05-23 | 第7回韓国女子囲碁リーグ |  | Lee Youngjoo | Win | W+R | 6.5 | 2754 | 138 | 
-| 2020-09-18 | 第25期女流国手戦8強戦 | Kim Hyeoimin | Lee Youngjoo | Lose | B+R | 6.5 | 2616 | -5 | 
+| 2021-05-23 | 第7回韓国女子囲碁リーグ |  | Lee Youngjoo | Win | W+R | 6.5 | 2754 | 137 | 
+| 2020-09-18 | 第25期女流国手戦8強戦 | Kim Hyeoimin | Lee Youngjoo | Lose | B+R | 6.5 | 2617 | -4 | 
 | 2020-09-06 | 第6回韓国女子囲碁リーグプレーオフ第3戦第2局 | Lee Youngjoo | Oh Yujin | Lose | W+6.5 | 6.5 | 2621 | 2 | 
 | 2020-09-05 | 第6回韓国女子囲碁リーグプレーオフ第2戦第2局 | Lee Youngjoo |  | Win | B+R | 6.5 | 2619 | 12 | 
 | 2020-09-04 | 第6回韓国女子囲碁リーグプレーオフ第1戦第1局 | Lee Youngjoo |  | Lose | W+R | 6.5 | 2607 | 22 | 

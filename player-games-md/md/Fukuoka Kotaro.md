@@ -7,39 +7,39 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝 | Fukuoka Kotaro | Zhou Hongyu | Win | B+5.5 | 6.5 | 3291 | 0 | 
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20準々決勝 | Fukuoka Kotaro |  | Win | B+R | 6.5 | 3291 | 0 | 
-| 2022-06-05 | 第9回グロービス杯世界囲碁U-20決勝 | Fukuoka Kotaro | Wang Xinghao | Lose | W+R | 6.5 | 3291 | 83 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 | Fukuoka Kotaro | Han Woojin | Win | B+0.5 | 6.5 | 3208 | 0 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+R | 6.5 | 3208 | 48 | 
-| 2022-04-07 | 第61期十段戦予選 | Kataoka Satoshi | Fukuoka Kotaro | Win | W+4.5 | 6.5 | 3160 | 8 | 
-| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Lose | B+6.5 | 6.5 | 3152 | 179 | 
+| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝  | Fukuoka Kotaro | Zhou Hongyu | Win | B+5.5 | 6.5 | 3291 | 0 | 
+| 2022-06-05 | 第9回グロービス杯世界囲碁U-20決勝  | Fukuoka Kotaro | Wang Xinghao | Lose | W+R | 6.5 | 3291 | 83 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+R | 6.5 | 3208 | 0 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦  | Fukuoka Kotaro | Han Woojin | Win | B+0.5 | 6.5 | 3208 | 48 | 
+| 2022-04-07 | 第61期十段戦予選 | Kataoka Satoshi | Fukuoka Kotaro | Win | W+4.5 | 6.5 | 3160 | 7 | 
+| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Lose | B+6.5 | 6.5 | 3153 | 180 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Win | W+R | 7.5 | 2973 | 78 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2895 | 82 | 
 | 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2813 | -95 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2908 | 55 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2853 | -28 | 
-| 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Win | W+R | 6.5 | 2881 | 46 | 
-| 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Win | W+0.5 | 6.5 | 2835 | 151 | 
+| 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Win | W+R | 6.5 | 2881 | 45 | 
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Win | W+0.5 | 6.5 | 2836 | 152 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Lose | W+R | 6.5 | 2684 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Lose | B+R | 6.5 | 2684 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Fukuoka Kotaro |  | Win | B+R | 6.5 | 2684 | -48 | 
 | 2021-05-27 | 第77期本因坊戦予選 | Fukuoka Kotaro | Inaba Takahiro | Win | B+3.5 | 6.5 | 2732 | 9 | 
-| 2021-05-03 | 第46期棋聖戦予選  | Fukuoka Kotaro | Ueno Asami | Win | B+0.5 | 6.5 | 2723 | 63 | 
-| 2021-04-22 | 第77期本因坊戦予選 | Takeuchi Kousuke | Fukuoka Kotaro | Win | W+R | 6.5 | 2660 | 14 | 
-| 2021-04-19 | 第8回グロービス杯国内予選 |  | Fukuoka Kotaro | Win | W+3.5 | 6.5 | 2646 | 0 | 
-| 2021-04-19 | 第8回グロービス杯国内予選 | Fukuoka Kotaro |  | Win | B+7.5 | 6.5 | 2646 | 249 | 
+| 2021-05-03 | 第46期棋聖戦予選  | Fukuoka Kotaro | Ueno Asami | Win | B+0.5 | 6.5 | 2723 | 62 | 
+| 2021-04-22 | 第77期本因坊戦予選 | Takeuchi Kousuke | Fukuoka Kotaro | Win | W+R | 6.5 | 2661 | 14 | 
+| 2021-04-19 | 第8回グロービス杯国内予選 |  | Fukuoka Kotaro | Win | W+3.5 | 6.5 | 2647 | 0 | 
+| 2021-04-19 | 第8回グロービス杯国内予選 | Fukuoka Kotaro |  | Win | B+7.5 | 6.5 | 2647 | 250 | 
 | 2021-03-04 | 第60期十段戦予選 | Rin Kaiho | Fukuoka Kotaro | Win | W+7.5 | 6.5 | 2397 | -87 | 
-| 2021-02-11 | 第47期碁聖戦予選 | Fukuoka Kotaro | Kudo Norio | Win | B+R | 6.5 | 2484 | 70 | 
-| 2021-01-25 | 第46期新人王戦1回戦 | Fukuoka Kotaro |  | Lose | W+4.5 | 6.5 | 2414 | -193 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro |  | Lose | W+R | 7.5 | 2607 | 25 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Fukuoka Kotaro | Win | W+2¼ | 7.5 | 2582 | -24 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Wang Yucheng | Fukuoka Kotaro | Lose | B+1¾ | 7.5 | 2606 | -39 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Jin Yucheng | Lose | W+R | 7.5 | 2645 | -20 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Qin Yuexin | Lose | W+R | 7.5 | 2665 | -28 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Zhu Yuanhao | Fukuoka Kotaro | Lose | B+R | 7.5 | 2693 | -24 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Chen Qirui | Lose | W+R | 7.5 | 2717 | 11 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ | Guo Xinyi | Fukuoka Kotaro | Lose | B+T | 7.5 | 2706 | 50 | 
+| 2021-02-11 | 第47期碁聖戦予選 | Fukuoka Kotaro | Kudo Norio | Win | B+R | 6.5 | 2484 | 69 | 
+| 2021-01-25 | 第46期新人王戦1回戦 | Fukuoka Kotaro |  | Lose | W+4.5 | 6.5 | 2415 | -193 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro |  | Lose | W+R | 7.5 | 2608 | 25 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Fukuoka Kotaro | Win | W+2¼ | 7.5 | 2583 | -24 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Wang Yucheng | Fukuoka Kotaro | Lose | B+1¾ | 7.5 | 2607 | -39 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Jin Yucheng | Lose | W+R | 7.5 | 2646 | -20 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Qin Yuexin | Lose | W+R | 7.5 | 2666 | -28 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Zhu Yuanhao | Fukuoka Kotaro | Lose | B+R | 7.5 | 2694 | -24 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Chen Qirui | Lose | W+R | 7.5 | 2718 | 11 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Guo Xinyi | Fukuoka Kotaro | Lose | B+T | 7.5 | 2707 | 51 | 
 | 2020-08-11 | 第1回ディスカバリー杯3回戦 |  | Fukuoka Kotaro | Lose | B+R | 6.5 | 2656 | 0 | 
 | 2020-08-11 | 第1回ディスカバリー杯2回戦 |  | Fukuoka Kotaro | Win | W+R | 6.5 | 2656 | 0 | 
 | 2020-08-11 | 第1回ディスカバリー杯1回戦 |  | Fukuoka Kotaro | Win | W+R | 6.5 | 2656 | 59 | 

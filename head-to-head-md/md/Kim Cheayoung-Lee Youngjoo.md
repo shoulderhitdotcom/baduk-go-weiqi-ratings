@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Lee Youngjoo** | **Kim Cheayoung streak** | **Lee Youngjoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Lee Youngjoo** | **Kim Cheayoung Streak** | **Lee Youngjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | B+2.5 | 6.5 | 6:2 | 4 | 0 | 
 | 2018-03-16 | 第4回韓国女子囲碁リーグ第4節 | Lee Youngjoo | Kim Cheayoung | W+0.5 | 6.5 | 5:2 | 3 | 0 | 

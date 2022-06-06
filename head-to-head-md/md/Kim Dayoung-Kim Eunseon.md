@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Dayoung vs Kim Eunseon** | **Kim Dayoung streak** | **Kim Eunseon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dayoung Vs Kim Eunseon** | **Kim Dayoung Streak** | **Kim Eunseon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-03-03 | 3期韓国女子連戦3回戦扶安-麗水 | Kim Dayoung | Kim Eunseon | B+R | 6.5 | 1:0 | 1 | 0 |
 

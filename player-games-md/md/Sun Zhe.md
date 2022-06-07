@@ -18,8 +18,8 @@
 | 2021-10-14 | 第60期十段戦1回戦 | Sun Zhe | Shida Tatsuya | Win | B+4.5 | 6.5 | 2973 | 24 | 
 | 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Lose | B+2.5 | 6.5 | 2949 | -22 | 
 | 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Win | W+R | 6.5 | 2971 | 64 | 
-| 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2907 | -68 | 
-| 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | 2975 | 42 | 
+| 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2907 | -69 | 
+| 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | 2976 | 43 | 
 | 2021-06-28 | 第69期王座戦1回戦 | Yuki Satoshi | Sun Zhe | Lose | B+R | 6.5 | 2933 | -79 | 
 | 2021-03-18 | 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | Lose | B+3.5 | 6.5 | 3012 | -49 | 
 | 2021-02-25 | 第69期王座戦予選 | Sun Zhe | Onishi Kenya | Win | B+0.5 | 6.5 | 3061 | -8 | 
@@ -31,12 +31,12 @@
 | 2020-10-12 | 第46期名人戦予選 | Motoki Katsuya | Sun Zhe | Lose | B+R | 6.5 | 3145 | -55 | 
 | 2020-10-08 | 第59期十段戦1回戦 | Yamashita Keigo | Sun Zhe | Lose | B+4.5 | 6.5 | 3200 | -103 | 
 | 2020-08-31 | 第59期十段戦予選 | Cho Sonjin | Sun Zhe | Win | W+R | 6.5 | 3303 | -27 | 
-| 2020-07-30 | 第46期名人戦予選 | O Meien | Sun Zhe | Win | W+R | 6.5 | 3330 | 16 | 
-| 2020-07-23 | 第46期天元戦3回戦 | Kono Rin | Sun Zhe | Lose | B+R | 6.5 | 3314 | -35 | 
+| 2020-07-30 | 第46期名人戦予選 | O Meien | Sun Zhe | Win | W+R | 6.5 | 3330 | 15 | 
+| 2020-07-23 | 第46期天元戦3回戦 | Kono Rin | Sun Zhe | Lose | B+R | 6.5 | 3315 | -34 | 
 | 2020-06-25 | 第68期王座戦1回戦 | Sun Zhe | Yamashita Keigo | Lose | W+R | 6.5 | 3349 | -14 | 
 | 2020-06-18 | 第45期棋聖戦Cリーグ | Yuki Satoshi | Sun Zhe | Win | W+R | 6.5 | 3363 | 26 | 
-| 2020-06-11 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Terayama Rei | Sun Zhe | Lose | B+R | 6.5 | 3337 | 4 | 
-| 2020-06-03 | 第68期王座戦予選 | Shida Tatsuya | Sun Zhe | Win | W+R | 6.5 | 3333 | 10 | 
+| 2020-06-11 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Terayama Rei | Sun Zhe | Lose | B+R | 6.5 | 3337 | 3 | 
+| 2020-06-03 | 第68期王座戦予選 | Shida Tatsuya | Sun Zhe | Win | W+R | 6.5 | 3334 | 11 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Donghoon | Sun Zhe | Lose | B+R | 6.5 | 3323 | 1 | 
 | 2020-04-17 | 日台交流戦第1戦 | Lin Lixiang | Sun Zhe | Win | W+R | 6.5 | 3322 | 34 | 
 | 2020-04-07 | 第25回LG杯国内予選決勝 | Sun Zhe | Mutsuura Yuta | Win | B+R | 6.5 | 3288 | -6 | 

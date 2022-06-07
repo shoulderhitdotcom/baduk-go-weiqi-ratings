@@ -13,8 +13,8 @@
 | 2022-04-14 | 第33期女流名人戦挑戦手合三番勝負第1局  | Nakamura Sumire | Fujisawa Rina | Win | W+R | 6.5 | 3172 | -13 | 
 | 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Win | B+R | 6.5 | 3185 | 12 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3173 | -27 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Win | W+2.5 | 6.5 | 3200 | 7 | 
-| 2022-02-24 | 第48期名人戦予選 |  | Fujisawa Rina | Win | W+R | 6.5 | 3193 | -38 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Win | W+2.5 | 6.5 | 3200 | 6 | 
+| 2022-02-24 | 第48期名人戦予選 |  | Fujisawa Rina | Win | W+R | 6.5 | 3194 | -37 | 
 | 2022-01-13 | 第70期王座戦予選 | Onishi Kenya | Fujisawa Rina | Lose | B+R | 6.5 | 3231 | 26 | 
 | 2021-12-13 | 第47期新人王戦予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 3205 | 4 | 
 | 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3201 | 12 | 
@@ -30,9 +30,9 @@
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Win | W+R | 6.5 | 3121 | 49 | 
 | 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Win | B+R | 6.5 | 3072 | 11 | 
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3061 | -5 | 
-| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3066 | 8 | 
-| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 3058 | -6 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3064 | 9 | 
+| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3066 | 7 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 3059 | -6 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3065 | 10 | 
 | 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3055 | -16 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Lose | W+R | 6.5 | 3071 | -1 | 
 | 2021-06-28 | 第6回扇興杯女流最強戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3072 | 7 | 
@@ -48,8 +48,8 @@
 | 2021-03-15 | 第46期新人王戦2回戦 | Fujisawa Rina |  | Win | B+3.5 | 6.5 | 2935 | 64 | 
 | 2021-02-01 | 第46期新人王戦1回戦 | Watanabe Kandai | Fujisawa Rina | Win | W+R | 6.5 | 2871 | -102 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Fujisawa Rina | Lose | B+R | 6.5 | 2973 | 25 | 
-| 2020-12-03 | 第24期ドコモ杯女流棋聖戦挑戦者決定戦 | Ueno Asami | Fujisawa Rina | Lose | B+R | 6.5 | 2948 | -28 | 
-| 2020-11-25 | 第39期女流本因坊戦挑戦手合五番勝負第5局  | Fujisawa Rina | Ueno Asami | Win | B+0.5 | 6.5 | 2976 | -33 | 
+| 2020-12-03 | 第24期ドコモ杯女流棋聖戦挑戦者決定戦 | Ueno Asami | Fujisawa Rina | Lose | B+R | 6.5 | 2948 | -29 | 
+| 2020-11-25 | 第39期女流本因坊戦挑戦手合五番勝負第5局  | Fujisawa Rina | Ueno Asami | Win | B+0.5 | 6.5 | 2977 | -32 | 
 | 2020-11-22 | 第15回広島アルミ杯・若鯉戦準決勝  | Hirata Tomoya | Fujisawa Rina | Win | W+R | 6.5 | 3009 | 0 | 
 | 2020-11-22 | 第15回広島アルミ杯・若鯉戦決勝  | Sun Zhe | Fujisawa Rina | Win | W+0.5 | 6.5 | 3009 | 84 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦 | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 2925 | 0 | 
@@ -71,10 +71,10 @@
 | 2020-08-06 | 第5回扇興杯女流最強戦2回戦 | Fujisawa Rina | Umezawa Yukari | Win | B+3.5 | 6.5 | 3066 | -10 | 
 | 2020-08-03 | 第45期新人王戦準決勝  | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3076 | -38 | 
 | 2020-07-29 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Suzuki Ayumi | Win | B+8.5 | 6.5 | 3114 | 16 | 
-| 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina | Win | W+0.5 | 6.5 | 3098 | -17 | 
-| 2020-07-16 | 第46期名人戦予選 | Fujisawa Rina | Yoda Norimoto | Lose | W+9.5 | 6.5 | 3115 | -8 | 
-| 2020-07-13 | 第39期女流本因坊戦3回戦  | Xie Yimin | Fujisawa Rina | Win | W+4.5 | 6.5 | 3123 | 0 | 
-| 2020-07-09 | 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+0.5 | 6.5 | 3123 | 8 | 
+| 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina | Win | W+0.5 | 6.5 | 3098 | -18 | 
+| 2020-07-16 | 第46期名人戦予選 | Fujisawa Rina | Yoda Norimoto | Lose | W+9.5 | 6.5 | 3116 | -8 | 
+| 2020-07-13 | 第39期女流本因坊戦3回戦  | Xie Yimin | Fujisawa Rina | Win | W+4.5 | 6.5 | 3124 | 0 | 
+| 2020-07-09 | 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+0.5 | 6.5 | 3124 | 9 | 
 | 2020-07-02 | 第45期新人王戦3回戦 | Fujisawa Rina |  | Win | B+1.5 | 6.5 | 3115 | 4 | 
 | 2020-06-29 | 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | Lose | W+R | 6.5 | 3111 | 7 | 
 | 2020-06-15 | 第45期新人王戦2回戦 | Fujisawa Rina | Abe Yoshiki | Win | B+R | 6.5 | 3104 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Shin Minjun** | **Shin Jinseo Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | B+R | 6.5 | 20:7 | 1 | 0 | 
 | 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | B+R | 6.5 | 19:7 | 0 | 1 | 
 | 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | B+R | 6.5 | 19:6 | 5 | 0 | 
 | 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | W+R | 6.5 | 18:6 | 4 | 0 | 

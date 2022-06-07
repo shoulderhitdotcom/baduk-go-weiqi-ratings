@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Xu Haohong** | **Wang Yuanjun Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-07 | 第21期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Xu Haohong | W+1.5 | 6.5 | 12:23 | 0 | 3 | 
 | 2022-05-24 | 第21期天元戦（台湾）挑戦手合七番勝負第4局 | Xu Haohong | Wang Yuanjun | B+1.5 | 6.5 | 12:22 | 0 | 2 | 
 | 2022-05-17 | 第21期天元戦（台湾）挑戦手合七番勝負第3局 | Wang Yuanjun | Xu Haohong | W+2.5 | 6.5 | 12:21 | 0 | 1 | 
 | 2022-05-10 | 第21期天元戦（台湾）挑戦手合七番勝負第2局 | Xu Haohong | Wang Yuanjun | W+0.5 | 6.5 | 12:20 | 1 | 0 | 

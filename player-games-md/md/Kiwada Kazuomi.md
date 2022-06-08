@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第57期十段戦　予選B | Sato Yuta | Kiwada Kazuomi | W+R | 2017-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f857mdy4hqLhosJn66uU7w%3D%3D) | 
 | 第43期碁聖戦予選A | Kiwada Kazuomi | Sada Atsushi | W+4.5 | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adylt3ev%2FeCYuid5u34H7A%3D%3D) | 

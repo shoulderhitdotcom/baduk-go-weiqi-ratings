@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shibano Toramaru vs Yuki Satoshi** | **Shibano Toramaru streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Yuki Satoshi** | **Shibano Toramaru Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-12 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Shibano Toramaru | B+R | 6.5 | 2:1 | 0 | 1 | 
 | 2019-06-03 | 第67期王座戦1回戦 | Shibano Toramaru | Yuki Satoshi | B+R | 6.5 | 2:0 | 2 | 0 | 

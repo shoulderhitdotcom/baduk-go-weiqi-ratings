@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Seungah vs Choi Jeong** | **Cho Seungah streak** | **Choi Jeong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Choi Jeong** | **Cho Seungah Streak** | **Choi Jeong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-21 | 2021電子ランドライバル対戦第5局 | Cho Seungah | Choi Jeong | W+R | 6.5 | 2:6 | 0 | 2 | 
 | 2021-09-17 | 第7回韓国女子囲碁リーグプレーオフ第1戦 | Choi Jeong | Cho Seungah | B+R | 6.5 | 2:5 | 0 | 1 | 

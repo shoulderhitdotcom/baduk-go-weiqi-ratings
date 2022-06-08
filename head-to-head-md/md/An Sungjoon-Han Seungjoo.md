@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Han Seungjoo** | **An Sungjoon streak** | **Han Seungjoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Han Seungjoo** | **An Sungjoon Streak** | **Han Seungjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2021-01-08 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | B+R | 6.5 | 2:0 | 2 | 0 | 

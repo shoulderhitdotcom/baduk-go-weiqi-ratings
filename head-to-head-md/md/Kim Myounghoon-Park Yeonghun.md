@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Myounghoon vs Park Yeonghun** | **Kim Myounghoon streak** | **Park Yeonghun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Park Yeonghun** | **Kim Myounghoon Streak** | **Park Yeonghun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-06 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Kim Myounghoon | W+R | 6.5 | 5:1 | 1 | 0 | 
 | 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Kim Myounghoon | Park Yeonghun | W+2.5 | 6.5 | 4:1 | 0 | 1 | 

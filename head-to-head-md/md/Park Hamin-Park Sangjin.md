@@ -5,10 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Hamin vs Park Sangjin** | **Park Hamin streak** | **Park Sangjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Hamin Vs Park Sangjin** | **Park Hamin Streak** | **Park Sangjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-03-16 | 第4期未来の星新鋭最強戦キングオブキング戦 | Park Sangjin | Park Hamin | W+R | 6.5 | 2:0 | 2 | 0 | 
-| 2019-03-09 | 第4期未来の星新鋭最強戦2次大会決勝 | Park Hamin | Park Sangjin | B+R | 6.5 | 1:0 | 1 | 0 |
+| 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Park Sangjin | Park Hamin | W+R | 6.5 | 1:1 | 1 | 0 | 
+| 2022-02-10 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Sangjin | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

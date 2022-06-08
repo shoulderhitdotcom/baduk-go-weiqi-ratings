@@ -1,0 +1,14 @@
+## Lin Yanchen Games
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Lin Yanchen | Lose | B+R | 6.5 | 2742 | missing |
+
+
+
+

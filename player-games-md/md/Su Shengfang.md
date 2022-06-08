@@ -7,39 +7,41 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Cai Chengwei | Su Shengfang | Lose | B+R | 6.5 | 2220 | 138 | 
-| 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Su Shengfang | Liu Yifang | Win | B+R | 6.5 | 2082 | -251 | 
-| 2022-04-12 | 第27回LG杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 6.5 | 2333 | 30 | 
-| 2022-04-06 | 第5回呉清源杯台湾予選 | Bai Xinhui | Su Shengfang | Lose | B+R | 7.5 | 2303 | -29 | 
-| 2022-03-30 | 第5回呉清源杯台湾予選 | Yang Zixuan | Su Shengfang | Win | W+R | 7.5 | 2332 | 66 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Lose | W+R | 6.5 | 2266 | -104 | 
-| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Su Shengfang | Lose | B+R | 7.5 | 2370 | -31 | 
-| 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 7.5 | 2401 | 35 | 
-| 2022-01-04 | 第21期天元戦（台湾）予選 | Liu Chuanting | Su Shengfang | Lose | B+R | 6.5 | 2366 | 91 | 
-| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Lose | W+R | 6.5 | 2275 | -29 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2304 | 0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Win | B+R | 6.5 | 2304 | 115 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2189 | 15 | 
-| 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Lose | W+R | 6.5 | 2174 | -4 | 
-| 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Su Shengfang | Lose | B+R | 6.5 | 2178 | -28 | 
-| 2021-09-02 | 第14期棋王戦（台湾）予選 | Su Shengfang | Ding Shaojie | Lose | W+R | 6.5 | 2206 | 0 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan | Su Shengfang | Lose | B+R | 6.5 | 2206 | -10 | 
-| 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhao Peizhe | Su Shengfang | Win | W+R | 6.5 | 2216 | 114 | 
-| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 | Yang Zixuan | Su Shengfang | Win | W+R | 6.5 | 2102 | 327 | 
-| 2021-05-12 | 第4回呉清源杯台湾予選 | Su Shengfang | Liu Yifang | Lose | W+R | 6.5 | 1775 | -189 | 
-| 2021-05-11 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Su Shengfang | Lose | B+R | 6.5 | 1964 | -1 | 
-| 2021-04-02 | 第17期国手戦（台湾） | Yang Bowei | Su Shengfang | Lose | B+R | 6.5 | 1965 | 0 | 
-| 2021-04-01 | 第11期友士杯十段戦予選 | Su Shengfang | Lin Ziyuan | Lose | W+R | 6.5 | 1965 | 29 | 
-| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Win | B+R | 6.5 | 1936 | 124 | 
-| 2021-02-18 | 第2期名人冠軍戦予選 | Su Shengfang |  | Lose | W+R | 6.5 | 1812 | 0 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | Lose | W+R | 6.5 | 1812 | 0 | 
-| 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Nishiyama Shizuka | Su Shengfang | Lose | B+T | 6.5 | 1812 | 0 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Xu Jingen | Su Shengfang | Lose | B+R | 6.5 | 1812 | 0 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Su Shengfang | Wang Yuanjun | Lose | W+R | 6.5 | 1812 | 0 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Lose | B+R | 6.5 | 1812 | 12 | 
-| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Su Shengfang | Zhang Kaixin | Lose | W+R | 6.5 | 1800 | -346 | 
-| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Su Shengfang |  | Lose | W+R | 6.5 | 2146 | 24 | 
-| 2020-01-14 | 第19期天元戦（台湾）予選 | Su Shengfang | Lai Junfu | Lose | W+R | 6.5 | 2122 | missing |
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Su Shengfang |  | Win | B+7.5 | 6.5 | 2266 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan | Su Shengfang | Lose | B+R | 6.5 | 2266 | 50 | 
+| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Cai Chengwei | Su Shengfang | Lose | B+R | 6.5 | 2216 | 138 | 
+| 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Su Shengfang | Liu Yifang | Win | B+R | 6.5 | 2078 | -252 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 6.5 | 2330 | 30 | 
+| 2022-04-06 | 第5回呉清源杯台湾予選 | Bai Xinhui | Su Shengfang | Lose | B+R | 7.5 | 2300 | -28 | 
+| 2022-03-30 | 第5回呉清源杯台湾予選 | Yang Zixuan | Su Shengfang | Win | W+R | 7.5 | 2328 | 66 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Lose | W+R | 6.5 | 2262 | -105 | 
+| 2022-02-22 | 第14回春蘭杯台湾予選 | Niu Shite | Su Shengfang | Lose | B+R | 7.5 | 2367 | -31 | 
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Yuqi | Su Shengfang | Lose | B+R | 7.5 | 2398 | 35 | 
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Liu Chuanting | Su Shengfang | Lose | B+R | 6.5 | 2363 | 91 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Lose | W+R | 6.5 | 2272 | -29 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2301 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Win | B+R | 6.5 | 2301 | 114 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang | Chen Shoulian | Lose | W+R | 6.5 | 2187 | 16 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Lose | W+R | 6.5 | 2171 | -4 | 
+| 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Su Shengfang | Lose | B+R | 6.5 | 2175 | -28 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Su Shengfang | Ding Shaojie | Lose | W+R | 6.5 | 2203 | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan | Su Shengfang | Lose | B+R | 6.5 | 2203 | -10 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhao Peizhe | Su Shengfang | Win | W+R | 6.5 | 2213 | 114 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 | Yang Zixuan | Su Shengfang | Win | W+R | 6.5 | 2099 | 326 | 
+| 2021-05-12 | 第4回呉清源杯台湾予選 | Su Shengfang | Liu Yifang | Lose | W+R | 6.5 | 1773 | -189 | 
+| 2021-05-11 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Su Shengfang | Lose | B+R | 6.5 | 1962 | -1 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Yang Bowei | Su Shengfang | Lose | B+R | 6.5 | 1963 | 0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Su Shengfang | Lin Ziyuan | Lose | W+R | 6.5 | 1963 | 29 | 
+| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Win | B+R | 6.5 | 1934 | 123 | 
+| 2021-02-18 | 第2期名人冠軍戦予選 | Su Shengfang |  | Lose | W+R | 6.5 | 1811 | 0 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | Lose | W+R | 6.5 | 1811 | 0 | 
+| 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Nishiyama Shizuka | Su Shengfang | Lose | B+T | 6.5 | 1811 | 0 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Xu Jingen | Su Shengfang | Lose | B+R | 6.5 | 1811 | 0 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Su Shengfang | Wang Yuanjun | Lose | W+R | 6.5 | 1811 | 0 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Lose | B+R | 6.5 | 1811 | 12 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Su Shengfang | Zhang Kaixin | Lose | W+R | 6.5 | 1799 | -346 | 
+| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Su Shengfang |  | Lose | W+R | 6.5 | 2145 | 24 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Su Shengfang | Lai Junfu | Lose | W+R | 6.5 | 2121 | missing |
 
 
 

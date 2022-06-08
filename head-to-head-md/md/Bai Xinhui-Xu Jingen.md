@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Bai Xinhui vs Xu Jingen** | **Bai Xinhui streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Bai Xinhui Vs Xu Jingen** | **Bai Xinhui Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Jingen | Bai Xinhui | B+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Bai Xinhui vs Lai Junfu** | **Bai Xinhui streak** | **Lai Junfu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Bai Xinhui Vs Lai Junfu** | **Bai Xinhui Streak** | **Lai Junfu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-28 | 第8回グロービス杯台湾予選 | Lai Junfu | Bai Xinhui | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Lai Junfu | Bai Xinhui | B+R | 6.5 | 0:2 | 0 | 2 | 

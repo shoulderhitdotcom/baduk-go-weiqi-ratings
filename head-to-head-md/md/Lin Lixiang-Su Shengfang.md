@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Su Shengfang** | **Lin Lixiang streak** | **Su Shengfang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Su Shengfang** | **Lin Lixiang Streak** | **Su Shengfang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | W+R | 6.5 | 1:0 | 1 | 0 |
 

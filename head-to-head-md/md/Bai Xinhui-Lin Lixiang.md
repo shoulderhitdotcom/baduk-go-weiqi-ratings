@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Bai Xinhui vs Lin Lixiang** | **Bai Xinhui streak** | **Lin Lixiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Bai Xinhui Vs Lin Lixiang** | **Bai Xinhui Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Lixiang | Bai Xinhui | B+R | 6.5 | 0:1 | 0 | 1 |
 

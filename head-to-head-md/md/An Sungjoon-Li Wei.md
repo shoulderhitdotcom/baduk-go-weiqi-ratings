@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Li Wei** | **An Sungjoon streak** | **Li Wei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Li Wei** | **An Sungjoon Streak** | **Li Wei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | An Sungjoon | Li Wei | B+R | 7.5 | 1:0 | 1 | 0 |
 

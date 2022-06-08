@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Eunseon vs Kim Miri** | **Kim Eunseon streak** | **Kim Miri streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunseon Vs Kim Miri** | **Kim Eunseon Streak** | **Kim Miri Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-18 | 第5回韓国女子囲碁リーグ第6節第2試合第3局 | Kim Eunseon | Kim Miri | W+R | 6.5 | 2:5 | 0 | 1 | 
 | 2017-04-13 | 3期韓国女子連戦11回戦首尓-扶安 | Kim Eunseon | Kim Miri | B+R | 6.5 | 2:4 | 1 | 0 | 

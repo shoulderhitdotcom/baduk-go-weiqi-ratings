@@ -8,13 +8,13 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Park Taehee | Oh Yujin | Win | B+R | 6.5 | 2652 | 73 | 
-| 2021-08-06 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | B+R | 6.5 | 2579 | -20 | 
-| 2021-07-25 | 第7回韓国女子囲碁リーグ | Park Taehee |  | Lose | W+3.5 | 6.5 | 2599 | -92 | 
+| 2021-08-06 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | B+R | 6.5 | 2579 | -21 | 
+| 2021-07-25 | 第7回韓国女子囲碁リーグ | Park Taehee |  | Lose | W+3.5 | 6.5 | 2600 | -91 | 
 | 2021-07-17 | 第7回韓国女子囲碁リーグ | Lee Minjin | Park Taehee | Lose | B+8.5 | 6.5 | 2691 | -15 | 
 | 2021-07-10 | 第7回韓国女子囲碁リーグ | Park Taehee | Kim Cheayoung | Lose | W+R | 6.5 | 2706 | -11 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Park Taehee | Choi Jeong | Lose | W+R | 6.5 | 2717 | 31 | 
-| 2021-06-27 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Park Taehee | Win | W+3.5 | 6.5 | 2686 | 82 | 
-| 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Win | W+5.5 | 6.5 | 2604 | -50 | 
+| 2021-06-27 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Park Taehee | Win | W+3.5 | 6.5 | 2686 | 81 | 
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Win | W+5.5 | 6.5 | 2605 | -49 | 
 | 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Lose | B+R | 6.5 | 2654 | -19 | 
 | 2021-06-03 | 第7回韓国女子囲碁リーグ | Park Taehee |  | Lose | W+R | 6.5 | 2673 | -19 | 
 | 2021-05-28 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Win | W+7.5 | 6.5 | 2692 | -26 | 

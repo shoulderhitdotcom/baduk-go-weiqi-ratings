@@ -19,9 +19,9 @@
 | 2021-04-29 | 第8期会津中央病院・女流立葵杯1回戦 | Ueno Asami | Okuda Aya | Lose | B+R | 6.5 | 1943 | -242 | 
 | 2021-02-11 | 第69期王座戦予選 | Okuda Aya | Suzuki Ayumi | Lose | W+R | 6.5 | 2185 | 0 | 
 | 2020-12-14 | 第40期女流本因坊戦予選  | Xie Yimin | Okuda Aya | Lose | B+R | 6.5 | 2185 | 0 | 
-| 2020-11-01 | 第3回SGW杯中庸戦4回戦 | Omori Yasushi | Okuda Aya | Win | W+R | 6.5 | 2185 | 275 | 
-| 2020-10-15 | 第47期天元戦予選 | Xie Yimin | Okuda Aya | Lose | B+R | 6.5 | 1910 | -470 | 
-| 2020-09-21 | 第3回SGW杯中庸戦予選 | Rin Shien | Okuda Aya | Win | W+5.5 | 6.5 | 2380 | 722 | 
+| 2020-11-01 | 第3回SGW杯中庸戦4回戦 | Omori Yasushi | Okuda Aya | Win | W+R | 6.5 | 2185 | 274 | 
+| 2020-10-15 | 第47期天元戦予選 | Xie Yimin | Okuda Aya | Lose | B+R | 6.5 | 1911 | -470 | 
+| 2020-09-21 | 第3回SGW杯中庸戦予選 | Rin Shien | Okuda Aya | Win | W+5.5 | 6.5 | 2381 | 723 | 
 | 2020-07-20 | 第5回扇興杯女流最強戦1回戦 | Okuda Aya | Inori Yoko | Lose | W+4.5 | 6.5 | 1658 | -813 | 
 | 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Lose | W+R | 6.5 | 2471 | 263 | 
 | 2020-02-24 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Okuda Aya | Hiraoka Satoshi | Win | B+1.5 | 6.5 | 2208 | missing |

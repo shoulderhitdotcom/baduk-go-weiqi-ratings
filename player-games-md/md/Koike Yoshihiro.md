@@ -9,15 +9,15 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Lose | B+R | 6.5 | 3059 | 11 | 
 | 2022-05-26 | 第70期王座戦1回戦 | Koike Yoshihiro | Anzai Nobuaki | Lose | W+R | 6.5 | 3048 | -50 | 
-| 2022-05-23 | 第47期新人王戦2回戦 |  | Koike Yoshihiro | Win | W+R | 6.5 | 3098 | 33 | 
-| 2022-05-02 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Koike Yoshihiro | Seto Taiki | Win | B+R | 6.5 | 3065 | 162 | 
+| 2022-05-23 | 第47期新人王戦2回戦 |  | Koike Yoshihiro | Win | W+R | 6.5 | 3098 | 32 | 
+| 2022-05-02 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Koike Yoshihiro | Seto Taiki | Win | B+R | 6.5 | 3066 | 163 | 
 | 2022-03-17 | 第70期王座戦予選 | Koike Yoshihiro | Takao Shinji | Win | B+R | 6.5 | 2903 | 216 | 
 | 2022-03-10 | 第47期新人王戦1回戦 | Koike Yoshihiro |  | Win | B+5.5 | 6.5 | 2687 | 3 | 
-| 2021-10-21 | 第47期名人戦予選 | Ida Atsushi | Koike Yoshihiro | Lose | B+R | 6.5 | 2684 | 121 | 
-| 2021-09-02 | 第77期本因坊戦予選 | Koike Yoshihiro | Motoki Katsuya | Lose | W+R | 6.5 | 2563 | -11 | 
-| 2021-06-17 | 第60期十段戦予選 | Koike Yoshihiro | Ko Iso | Lose | W+R | 6.5 | 2574 | 268 | 
-| 2021-03-22 | 第46期新人王戦2回戦 | Koyama Kuya | Koike Yoshihiro | Lose | B+R | 6.5 | 2306 | -27 | 
-| 2021-03-18 | 第69期王座戦予選 | Ichiriki Ryo | Koike Yoshihiro | Lose | B+R | 6.5 | 2333 | -176 | 
+| 2021-10-21 | 第47期名人戦予選 | Ida Atsushi | Koike Yoshihiro | Lose | B+R | 6.5 | 2684 | 120 | 
+| 2021-09-02 | 第77期本因坊戦予選 | Koike Yoshihiro | Motoki Katsuya | Lose | W+R | 6.5 | 2564 | -10 | 
+| 2021-06-17 | 第60期十段戦予選 | Koike Yoshihiro | Ko Iso | Lose | W+R | 6.5 | 2574 | 267 | 
+| 2021-03-22 | 第46期新人王戦2回戦 | Koyama Kuya | Koike Yoshihiro | Lose | B+R | 6.5 | 2307 | -27 | 
+| 2021-03-18 | 第69期王座戦予選 | Ichiriki Ryo | Koike Yoshihiro | Lose | B+R | 6.5 | 2334 | -175 | 
 | 2021-02-18 | 第46期新人王戦1回戦 | Sada Atsushi | Koike Yoshihiro | Win | W+0.5 | 6.5 | 2509 | -396 | 
 | 2020-10-19 | 第46期碁聖戦予選 | Koike Yoshihiro | Kobayashi Satoru | Lose | W+R | 6.5 | 2905 | -49 | 
 | 2020-09-03 | 第45期棋聖戦Bリーグ | Mutsuura Yuta | Koike Yoshihiro | Lose | B+R | 6.5 | 2954 | -162 | 

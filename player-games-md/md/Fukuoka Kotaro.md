@@ -16,8 +16,8 @@
 | 2022-04-07 | 第61期十段戦予選 | Kataoka Satoshi | Fukuoka Kotaro | Win | W+4.5 | 6.5 | 3152 | 6 | 
 | 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Lose | B+6.5 | 6.5 | 3146 | 179 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Win | W+R | 7.5 | 2967 | 78 | 
-| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2889 | 81 | 
-| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2808 | -96 | 
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2889 | 80 | 
+| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2809 | -95 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2904 | 55 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2849 | -28 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Win | W+R | 6.5 | 2877 | 45 | 

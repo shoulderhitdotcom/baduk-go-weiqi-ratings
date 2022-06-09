@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | An Sungjoon | Lose | B+R | 6.5 | 3391 | -8 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Seol Hyunjun | An Sungjoon | Win | W+R | 6.5 | 3399 | 9 | 
 | 2022-06-02 | 第27回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Hong Mujin | Win | B+R | 6.5 | 3390 | 51 | 
 | 2022-04-08 | 2022年アジア競技大会韓国予選 | Lee Jihyun | An Sungjoon | Lose | B+R | 7.5 | 3339 | -11 | 

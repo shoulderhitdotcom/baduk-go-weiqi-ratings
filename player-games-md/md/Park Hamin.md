@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3447 | -7 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Park Sangjin | Park Hamin | Win | W+R | 6.5 | 3454 | 6 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Yu Zhengqi | Park Hamin | Lose | B+R | 6.5 | 3448 | -10 | 
 | 2022-05-19 | 第27回GSカルテックス杯プロ棋戦1回戦 | Im Sanggyu | Park Hamin | Win | W+R | 6.5 | 3458 | 12 | 

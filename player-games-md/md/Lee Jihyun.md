@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3358 | -9 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Wonyoung | Lee Jihyun | Win | W+R | 6.5 | 3367 | 11 | 
 | 2022-06-06 | 2022YK建機杯リーグ | Lee Jihyun | Han Woojin | Lose | W+0.5 | 6.5 | 3356 | -20 | 
 | 2022-05-18 | 2022YK建機杯リーグ | Lee Jihyun | Weon Seongjin | Win | B+R | 6.5 | 3376 | 31 | 

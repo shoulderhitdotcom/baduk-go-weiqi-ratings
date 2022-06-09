@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第2回吉祥杯準決勝 | Sakakibara Fumiko | Konishi Kazuko | W+9.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PUavngDx4NjGDq3zFVv3lA%3D%3D) | 
 | 第24期ドコモ杯女流棋聖戦予選 | Tamura Chiaki | Sakakibara Fumiko | B+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FSNHuS25ZIFpsx18kg5v%2FQ%3D%3D) | 

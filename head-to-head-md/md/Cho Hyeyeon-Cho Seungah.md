@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Cho Seungah** | **Cho Hyeyeon streak** | **Cho Seungah streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Cho Seungah** | **Cho Hyeyeon Streak** | **Cho Seungah Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-10 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Cho Hyeyeon | B+10.5 | 6.5 | 5:2 | 0 | 2 | 
 | 2021-07-21 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Cho Hyeyeon | Cho Seungah | W+3.5 | 6.5 | 5:1 | 0 | 1 | 

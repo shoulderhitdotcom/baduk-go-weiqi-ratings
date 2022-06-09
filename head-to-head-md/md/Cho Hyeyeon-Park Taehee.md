@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Park Taehee** | **Cho Hyeyeon streak** | **Park Taehee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Park Taehee** | **Cho Hyeyeon Streak** | **Park Taehee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Park Taehee | Cho Hyeyeon | W+R | 6.5 | 6:2 | 2 | 0 | 
 | 2017-03-10 | 3期韓国女子連戦5回戦浦項-麟蹄 | Cho Hyeyeon | Park Taehee | B+R | 6.5 | 5:2 | 1 | 0 | 

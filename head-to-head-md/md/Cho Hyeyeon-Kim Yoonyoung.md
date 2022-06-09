@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Kim Yoonyoung** | **Cho Hyeyeon streak** | **Kim Yoonyoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Kim Yoonyoung** | **Cho Hyeyeon Streak** | **Kim Yoonyoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-04-22 | 第2回韓国女子囲碁リーグ第11節 | Kim Yoonyoung | Cho Hyeyeon | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2012-10-04 | 第1期女流十段戦準決勝 | Kim Yoonyoung | Cho Hyeyeon | W+2.5 | 6.5 | 2:1 | 1 | 0 | 

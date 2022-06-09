@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Yu Zhengqi** | **Kang Dongyun streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Yu Zhengqi** | **Kang Dongyun Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Yu Zhengqi | B+R | 7.5 | 1:0 | 1 | 0 |
 

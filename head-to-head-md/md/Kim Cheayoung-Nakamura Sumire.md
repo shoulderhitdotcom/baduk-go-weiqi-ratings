@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Nakamura Sumire** | **Kim Cheayoung streak** | **Nakamura Sumire streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Nakamura Sumire** | **Kim Cheayoung Streak** | **Nakamura Sumire Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | W+¼ | 7.5 | 3:1 | 0 | 1 | 
 | 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第3局 | Kim Cheayoung | Nakamura Sumire | B+R | 6.5 | 3:0 | 3 | 0 | 

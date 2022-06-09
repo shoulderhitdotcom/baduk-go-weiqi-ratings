@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Lee Youngjoo** | **Cho Hyeyeon streak** | **Lee Youngjoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Lee Youngjoo** | **Cho Hyeyeon Streak** | **Lee Youngjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | W+1.5 | 6.5 | 4:4 | 1 | 0 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | B+R | 6.5 | 3:4 | 0 | 1 | 

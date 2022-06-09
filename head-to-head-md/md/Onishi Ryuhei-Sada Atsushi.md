@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Onishi Ryuhei vs Sada Atsushi** | **Onishi Ryuhei streak** | **Sada Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Onishi Ryuhei Vs Sada Atsushi** | **Onishi Ryuhei Streak** | **Sada Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-26 | 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | B+R | 6.5 | 0:2 | 0 | 2 | 
 | 2020-01-16 | 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | B+R | 6.5 | 0:1 | 0 | 1 |

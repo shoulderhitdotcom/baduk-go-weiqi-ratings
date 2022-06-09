@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Eunseon vs Park Taehee** | **Kim Eunseon streak** | **Park Taehee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunseon Vs Park Taehee** | **Kim Eunseon Streak** | **Park Taehee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-12 | 第4回韓国女子囲碁リーグ第16節 | Park Taehee | Kim Eunseon | W+1.5 | 6.5 | 1:0 | 1 | 0 |
 

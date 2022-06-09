@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Koike Yoshihiro** | **Hane Naoki streak** | **Koike Yoshihiro streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Koike Yoshihiro** | **Hane Naoki Streak** | **Koike Yoshihiro Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-03-12 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | B+0.5 | 6.5 | 2:1 | 0 | 1 | 
 | 2019-04-18 | 第44期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | W+R | 6.5 | 2:0 | 2 | 0 | 

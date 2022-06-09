@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Oh Jeonga** | **Cho Hyeyeon streak** | **Oh Jeonga streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Oh Jeonga** | **Cho Hyeyeon Streak** | **Oh Jeonga Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-13 | 第6回韓国女子囲碁リーグ第4節第3試合第1局 | Cho Hyeyeon | Oh Jeonga | W+R | 6.5 | 3:1 | 0 | 1 | 
 | 2019-08-28 | 第5回韓国女子囲碁リーグプレーオフ第2戦第1局 | Oh Jeonga | Cho Hyeyeon | W+R | 6.5 | 3:0 | 3 | 0 | 

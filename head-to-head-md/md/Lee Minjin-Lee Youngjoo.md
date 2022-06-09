@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Minjin vs Lee Youngjoo** | **Lee Minjin streak** | **Lee Youngjoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Minjin Vs Lee Youngjoo** | **Lee Minjin Streak** | **Lee Youngjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | W+3.5 | 6.5 | 2:4 | 0 | 4 | 
 | 2019-08-05 | 第5回韓国女子囲碁リーグ第12節第1試合第3局 | Lee Youngjoo | Lee Minjin | B+12.5 | 6.5 | 2:3 | 0 | 3 | 

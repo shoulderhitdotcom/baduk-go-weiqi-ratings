@@ -5,11 +5,11 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Kim Eunseon** | **Cho Hyeyeon streak** | **Kim Eunseon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Kim Eunseon** | **Cho Hyeyeon Streak** | **Kim Eunseon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-11-19 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Cho Hyeyeon | B+1.5 | 6.5 | 0:1 | 0 | 1 | 
-| 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 | Cho Hyeyeon | Kim Eunseon | B+R | 6.5 | 1:2 | 1 | 0 | 
-| 2012-09-06 | 第14期女流名人戦（韓国）敗者復活戦決勝 | Kim Eunseon | Cho Hyeyeon | B+1.5 | 6.5 | 0:2 | 0 | 2 |
+| 2021-11-19 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Cho Hyeyeon | B+1.5 | 6.5 | 1:2 | 0 | 1 | 
+| 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 | Cho Hyeyeon | Kim Eunseon | B+R | 6.5 | 1:1 | 1 | 0 | 
+| 2012-09-06 | 第14期女流名人戦（韓国）敗者復活戦決勝 | Kim Eunseon | Cho Hyeyeon | B+1.5 | 6.5 | 0:1 | 0 | 1 |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Lin Shixun** | **Jian Jingting Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Lin Shixun | W+1.5 | 6.5 | 4:10 | 0 | 4 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Jian Jingting | B+2.5 | 6.5 | 4:9 | 0 | 3 | 
 | 2021-10-05 | 2021新人王戦（台湾）準決勝  | Jian Jingting | Lin Shixun | W+R | 7.5 | 4:8 | 0 | 2 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Jian Jingting | Lin Shixun | W+0.5 | 6.5 | 4:7 | 0 | 1 | 

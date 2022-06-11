@@ -7,14 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 2999 | -32 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Lin Yanchen | Win | B+R | 6.5 | 3031 | 0 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 3031 | 59 | 
 | 2022-05-25 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Chen Shiyuan | Lin Yuxiang | Win | B+6.5 | 6.5 | 2972 | -100 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Chen Shiyuan | Lai Junfu | Lose | W+1.5 | 6.5 | 3072 | -7 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3079 | 0 | 
-| 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Liu Yifang | Win | B+R | 6.5 | 3079 | 32 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | Lose | W+R | 6.5 | 3047 | -26 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Chen Shiyuan | Chen Weiting | Lose | W+R | 6.5 | 3073 | -19 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Liu Yifang | Win | B+R | 6.5 | 3079 | 31 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | Lose | W+R | 6.5 | 3048 | -26 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Chen Shiyuan | Chen Weiting | Lose | W+R | 6.5 | 3074 | -18 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Xu Haohong | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3092 | 1 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3091 | 11 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 3080 | -26 | 
@@ -36,22 +37,22 @@
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 2972 | -6 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2978 | 10 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Niu Shite | Chen Shiyuan | Win | W+R | 6.5 | 2968 | 0 | 
-| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 2968 | 6 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Zeng Pinjie | Win | B+R | 6.5 | 2962 | 24 | 
-| 2021-10-01 | 第9期中環碁聖戦16強戦 | Lin Ziyuan | Chen Shiyuan | Win | W+R | 6.5 | 2938 | -13 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 2968 | 5 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Zeng Pinjie | Win | B+R | 6.5 | 2963 | 24 | 
+| 2021-10-01 | 第9期中環碁聖戦16強戦 | Lin Ziyuan | Chen Shiyuan | Win | W+R | 6.5 | 2939 | -12 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Chen Shiyuan | Gao Yun | Win | B+R | 6.5 | 2951 | -16 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Chen Shiyuan | Chen Feng | Win | B+R | 6.5 | 2967 | 3 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Lose | W+R | 6.5 | 2964 | 22 | 
-| 2021-09-08 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2942 | -17 | 
-| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Junyan | Chen Shiyuan | Win | W+R | 6.5 | 2959 | 25 | 
-| 2021-09-03 | 第26回三星火災杯台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 2934 | -1 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Xu Jingen | Win | B+R | 6.5 | 2935 | 0 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Yuting | Chen Shiyuan | Win | W+R | 6.5 | 2935 | -6 | 
-| 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Chen Shiyuan | Win | W+R | 6.5 | 2941 | 27 | 
-| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2914 | -44 | 
-| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Lose | B+R | 6.5 | 2958 | 6 | 
-| 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 2952 | 10 | 
-| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2942 | -16 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Lose | W+R | 6.5 | 2964 | 21 | 
+| 2021-09-08 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2943 | -16 | 
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Junyan | Chen Shiyuan | Win | W+R | 6.5 | 2959 | 24 | 
+| 2021-09-03 | 第26回三星火災杯台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 2935 | -1 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Xu Jingen | Win | B+R | 6.5 | 2936 | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Yuting | Chen Shiyuan | Win | W+R | 6.5 | 2936 | -6 | 
+| 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Chen Shiyuan | Win | W+R | 6.5 | 2942 | 27 | 
+| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2915 | -44 | 
+| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Lose | B+R | 6.5 | 2959 | 6 | 
+| 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 2953 | 10 | 
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2943 | -15 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Niu Shite | Chen Shiyuan | Win | W+R | 6.5 | 2958 | 9 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xu Haohong | Lose | W+R | 6.5 | 2949 | -77 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3026 | 53 | 
@@ -60,15 +61,15 @@
 | 2021-04-02 | 第17期国手戦（台湾） |  | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2988 | -16 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | Win | B+R | 6.5 | 3004 | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Jingen | Lose | W+R | 6.5 | 3004 | -18 | 
-| 2021-03-26 | 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | Win | B+R | 6.5 | 3022 | 9 | 
-| 2021-03-11 | 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | Win | W+R | 6.5 | 3013 | 67 | 
-| 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2946 | 2 | 
-| 2021-01-29 | 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 2944 | 18 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | Win | B+R | 6.5 | 3022 | 8 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | Win | W+R | 6.5 | 3014 | 67 | 
+| 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2947 | 2 | 
+| 2021-01-29 | 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 2945 | 19 | 
 | 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Chen Shiyuan | Huang Shiyuan | Win | B+R | 6.5 | 2926 | -4 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Chen Xi | Lose | W+R | 6.5 | 2930 | 32 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shimin | Chen Shiyuan | Win | W+R | 6.5 | 2898 | -10 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Chen Weiting | Chen Shiyuan | Win | W+R | 6.5 | 2908 | 11 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Shiyuan | Dang Xiyun | Win | B+R | 6.5 | 2897 | -9 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Chen Weiting | Chen Shiyuan | Win | W+R | 6.5 | 2908 | 10 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Shiyuan | Dang Xiyun | Win | B+R | 6.5 | 2898 | -8 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+¼ | 7.5 | 2906 | 19 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Win | W+¼ | 7.5 | 2887 | -25 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+¾ | 7.5 | 2912 | -24 | 
@@ -76,10 +77,10 @@
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 2948 | -6 | 
 | 2020-11-16 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Kim Myounghoon | Lose | W+¼ | 7.5 | 2954 | -28 | 
 | 2020-11-15 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | Lose | W+R | 7.5 | 2982 | 16 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 2966 | -64 | 
-| 2020-09-24 | 第13期棋王戦（台湾）予選 | Lin Shixun | Chen Shiyuan | Win | W+R | 6.5 | 3030 | 1 | 
-| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Chen Shiyuan | Zeng Pinjie | Lose | W+0.5 | 6.5 | 3029 | 0 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3029 | -14 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 2966 | -65 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Lin Shixun | Chen Shiyuan | Win | W+R | 6.5 | 3031 | 1 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Chen Shiyuan | Zeng Pinjie | Lose | W+0.5 | 6.5 | 3030 | 0 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3030 | -13 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Shiyuan | Lose | B+R | 6.5 | 3043 | -22 | 
 | 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Chen Shiyuan | Xu Haohong | Lose | W+1.5 | 6.5 | 3065 | -9 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3074 | -9 | 

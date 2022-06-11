@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-10 | 第8回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3431 | 6 | 
 | 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | An Sungjoon | Win | B+R | 6.5 | 3425 | 0 | 
 | 2022-05-30 | 第27回LG杯朝鮮日報棋王戦1回戦  | Weon Seongjin | Wang Yuanjun | Lose | W+R | 6.5 | 3425 | -4 | 
 | 2022-05-21 | 第5期韓国竜星戦3回戦 | Kim Myounghoon | Weon Seongjin | Lose | B+R | 6.5 | 3429 | -7 | 
 | 2022-05-18 | 2022YK建機杯リーグ | Lee Jihyun | Weon Seongjin | Lose | B+R | 6.5 | 3436 | 0 | 
-| 2022-05-12 | 2021-2022韓国囲碁リーグ優勝決定戦第4戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3436 | -12 | 
-| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Weon Seongjin | Na Hyun | Lose | W+R | 6.5 | 3448 | -6 | 
-| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | Park Joonhoon | Lose | W+R | 6.5 | 3454 | -3 | 
+| 2022-05-12 | 2021-2022韓国囲碁リーグ優勝決定戦第4戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3436 | -11 | 
+| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Weon Seongjin | Na Hyun | Lose | W+R | 6.5 | 3447 | -6 | 
+| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | Park Joonhoon | Lose | W+R | 6.5 | 3453 | -4 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Weon Seongjin | Kim Jinhyu | Lose | W+1.5 | 6.5 | 3457 | -7 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kang Dongyun | Lose | W+2.5 | 7.5 | 3464 | 1 | 
 | 2022-05-03 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Shin Minjun | Lose | W+R | 7.5 | 3463 | -3 | 
@@ -56,8 +57,8 @@
 | 2022-01-25 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Weon Seongjin | Byun Sangil | Lose | W+R | 6.5 | 3515 | -16 | 
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3531 | -27 | 
 | 2022-01-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Weon Seongjin | Win | W+0.5 | 6.5 | 3558 | -9 | 
-| 2022-01-13 | 2021-2022韓国囲碁リーグ | Han Sangcho | Weon Seongjin | Lose | B+0.5 | 6.5 | 3567 | 8 | 
-| 2022-01-02 | 2021-2022韓国囲碁リーグ | Shin Jaeweon | Weon Seongjin | Win | W+1.5 | 6.5 | 3559 | 0 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Han Sangcho | Weon Seongjin | Lose | B+0.5 | 6.5 | 3567 | 9 | 
+| 2022-01-02 | 2021-2022韓国囲碁リーグ | Shin Jaeweon | Weon Seongjin | Win | W+1.5 | 6.5 | 3558 | -1 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Lose | B+0.5 | 6.5 | 3559 | -25 | 
 | 2021-12-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Kim Jiseok | Win | B+R | 6.5 | 3584 | 9 | 
 | 2021-12-17 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kim Sedong | Win | B+R | 6.5 | 3575 | 1 | 

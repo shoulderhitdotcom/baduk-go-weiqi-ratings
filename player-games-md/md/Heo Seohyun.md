@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-11 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Eunji | Lose | W+R | 6.5 | 2857 | 0 | 
 | 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Heo Seohyun |  | Win | B+8.5 | 6.5 | 2857 | 53 | 
 | 2022-06-03 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Lee Minjin | Lose | W+0.5 | 6.5 | 2804 | 46 | 
 | 2022-05-26 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Dayoung | Win | B+2.5 | 6.5 | 2758 | 5 | 

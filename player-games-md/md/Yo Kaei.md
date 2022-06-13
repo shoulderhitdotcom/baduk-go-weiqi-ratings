@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第45期棋聖戦ファーストトーナメント予選 | Sugiuchi Kazuko | Yo Kaei | W+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MzS5hoJTE1vLKT7gTl%2FtYg%3D%3D) | 
 | 第68期王座戦予選 | Yo Kaei | Cho Chikun | W+8.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fjx4SANB3CneTYN9j0ZUnw%3D%3D) | 

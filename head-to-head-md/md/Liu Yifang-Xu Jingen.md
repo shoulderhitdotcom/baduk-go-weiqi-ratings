@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liu Yifang vs Xu Jingen** | **Liu Yifang streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liu Yifang Vs Xu Jingen** | **Liu Yifang Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-04-12 | 第11期友士杯十段戦予選 | Xu Jingen | Liu Yifang | B+R | 6.5 | 0:1 | 0 | 1 |
+| 2022-06-13 | 2022新人王戦（台湾）予選 | Liu Yifang | Xu Jingen | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

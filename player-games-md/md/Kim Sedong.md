@@ -7,62 +7,63 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-19 | 2022YK建機杯リーグ | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3182 | -27 | 
-| 2022-05-10 | 2022YK建機杯リーグ | Lee Jihyun | Kim Sedong | Win | W+R | 6.5 | 3209 | 82 | 
-| 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Win | W+R | 6.5 | 3127 | -31 | 
-| 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Win | B+R | 6.5 | 3158 | 12 | 
-| 2022-03-23 | 2022YK建機杯リーグ | Weon Seongjin | Kim Sedong | Lose | B+3.5 | 6.5 | 3146 | -8 | 
-| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Kim Sedong | Lose | B+2.5 | 6.5 | 3154 | -2 | 
-| 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Donghoon | Lose | W+R | 6.5 | 3156 | -23 | 
-| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3179 | 40 | 
-| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3139 | -22 | 
-| 2022-02-17 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Kim Sedong | Lose | B+R | 6.5 | 3161 | -135 | 
-| 2022-02-03 | 2021-2022韓国囲碁リーグ | Kim Sedong | Park Hamin | Lose | W+R | 6.5 | 3296 | -35 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Kim Sedong | Byun Sangil | Lose | W+R | 6.5 | 3331 | -22 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Taehyun | Lose | W+R | 6.5 | 3353 | -3 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Win | W+R | 6.5 | 3356 | 4 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Sedong | Lose | B+0.5 | 6.5 | 3352 | -1 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Lose | B+R | 6.5 | 3353 | -14 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kim Sedong | Lose | B+R | 6.5 | 3367 | -12 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Sedong | Win | W+R | 6.5 | 3379 | 4 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong | Han Sangcho | Win | B+R | 6.5 | 3375 | 13 | 
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Lose | B+R | 6.5 | 3362 | -26 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Lose | W+R | 6.5 | 3388 | -10 | 
-| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Win | B+R | 6.5 | 3398 | 7 | 
-| 2021-07-12 | 第23回農心杯韓国予選 | Kim Sedong | An Joyeong | Lose | W+R | 6.5 | 3391 | 0 | 
-| 2021-06-24 | 第26回GSカルテックス杯プロ棋戦3回戦 | Kim Sedong | Byun Sangil | Lose | W+5.5 | 6.5 | 3391 | -27 | 
-| 2021-05-14 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | Win | W+R | 6.5 | 3418 | 61 | 
-| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Lose | W+9.5 | 6.5 | 3357 | -16 | 
-| 2021-04-08 | 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | Win | W+R | 6.5 | 3373 | 10 | 
-| 2021-03-07 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Kim Sedong | Win | W+R | 6.5 | 3363 | 30 | 
-| 2021-02-24 | 2020-2021フューチャーズリーグ | Kim Sedong | Shin Jaeweon | Win | B+R | 6.5 | 3333 | 4 | 
-| 2021-02-21 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3329 | 30 | 
-| 2021-02-14 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Hobum | Win | B+R | 6.5 | 3299 | 1 | 
-| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | Win | W+R | 6.5 | 3298 | 53 | 
-| 2021-02-09 | 第4期韓国竜星戦1回戦 | Kim Sedong | Park Joonhoon | Win | B+R | 6.5 | 3245 | 28 | 
-| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Win | B+R | 6.5 | 3217 | -14 | 
-| 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sedong | Gon Jiwoo | Win | B+R | 6.5 | 3231 | 51 | 
-| 2021-01-23 | 2020-2021フューチャーズリーグ | Kim Sedong | Oh Yujin | Win | B+R | 6.5 | 3180 | 4 | 
-| 2021-01-21 | 2020-2021韓国囲碁リーグ | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3176 | -16 | 
-| 2021-01-17 | 2020-2021フューチャーズリーグ | Kim Sedong |  | Win | B+3.5 | 6.5 | 3192 | 13 | 
-| 2021-01-16 | 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | Win | B+R | 6.5 | 3179 | -14 | 
-| 2021-01-09 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | Win | B+R | 6.5 | 3193 | 93 | 
-| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | Lose | W+0.5 | 6.5 | 3100 | -38 | 
-| 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3138 | -73 | 
-| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sangcheon | Win | B+R | 6.5 | 3211 | 27 | 
-| 2020-12-20 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Sedong | Lose | B+R | 6.5 | 3184 | -21 | 
-| 2020-12-13 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3205 | 39 | 
-| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Oh Yujin | Kim Sedong | Win | W+R | 6.5 | 3166 | 19 | 
-| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | Win | B+R | 6.5 | 3147 | 46 | 
-| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | Lose | W+0.5 | 6.5 | 3101 | -50 | 
+| 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Lose | W+R | 6.5 | 3183 | 5 | 
+| 2022-05-19 | 2022YK建機杯リーグ | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3178 | -28 | 
+| 2022-05-10 | 2022YK建機杯リーグ | Lee Jihyun | Kim Sedong | Win | W+R | 6.5 | 3206 | 82 | 
+| 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Win | W+R | 6.5 | 3124 | -31 | 
+| 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Win | B+R | 6.5 | 3155 | 12 | 
+| 2022-03-23 | 2022YK建機杯リーグ | Weon Seongjin | Kim Sedong | Lose | B+3.5 | 6.5 | 3143 | -8 | 
+| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Kim Sedong | Lose | B+2.5 | 6.5 | 3151 | -2 | 
+| 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Donghoon | Lose | W+R | 6.5 | 3153 | -23 | 
+| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3176 | 40 | 
+| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3136 | -22 | 
+| 2022-02-17 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Kim Sedong | Lose | B+R | 6.5 | 3158 | -135 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Kim Sedong | Park Hamin | Lose | W+R | 6.5 | 3293 | -35 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Kim Sedong | Byun Sangil | Lose | W+R | 6.5 | 3328 | -22 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Taehyun | Lose | W+R | 6.5 | 3350 | -4 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Win | W+R | 6.5 | 3354 | 4 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Sedong | Lose | B+0.5 | 6.5 | 3350 | -1 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Lose | B+R | 6.5 | 3351 | -13 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kim Sedong | Lose | B+R | 6.5 | 3364 | -12 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Sedong | Win | W+R | 6.5 | 3376 | 3 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong | Han Sangcho | Win | B+R | 6.5 | 3373 | 13 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Lose | B+R | 6.5 | 3360 | -26 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Lose | W+R | 6.5 | 3386 | -10 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Win | B+R | 6.5 | 3396 | 6 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Kim Sedong | An Joyeong | Lose | W+R | 6.5 | 3390 | 1 | 
+| 2021-06-24 | 第26回GSカルテックス杯プロ棋戦3回戦 | Kim Sedong | Byun Sangil | Lose | W+5.5 | 6.5 | 3389 | -28 | 
+| 2021-05-14 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | Win | W+R | 6.5 | 3417 | 61 | 
+| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Lose | W+9.5 | 6.5 | 3356 | -16 | 
+| 2021-04-08 | 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | Win | W+R | 6.5 | 3372 | 10 | 
+| 2021-03-07 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Kim Sedong | Win | W+R | 6.5 | 3362 | 30 | 
+| 2021-02-24 | 2020-2021フューチャーズリーグ | Kim Sedong | Shin Jaeweon | Win | B+R | 6.5 | 3332 | 5 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3327 | 30 | 
+| 2021-02-14 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Hobum | Win | B+R | 6.5 | 3297 | 0 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | Win | W+R | 6.5 | 3297 | 53 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 | Kim Sedong | Park Joonhoon | Win | B+R | 6.5 | 3244 | 28 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Win | B+R | 6.5 | 3216 | -14 | 
+| 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sedong | Gon Jiwoo | Win | B+R | 6.5 | 3230 | 51 | 
+| 2021-01-23 | 2020-2021フューチャーズリーグ | Kim Sedong | Oh Yujin | Win | B+R | 6.5 | 3179 | 5 | 
+| 2021-01-21 | 2020-2021韓国囲碁リーグ | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3174 | -17 | 
+| 2021-01-17 | 2020-2021フューチャーズリーグ | Kim Sedong |  | Win | B+3.5 | 6.5 | 3191 | 13 | 
+| 2021-01-16 | 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | Win | B+R | 6.5 | 3178 | -14 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | Win | B+R | 6.5 | 3192 | 93 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | Lose | W+0.5 | 6.5 | 3099 | -38 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3137 | -73 | 
+| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sangcheon | Win | B+R | 6.5 | 3210 | 27 | 
+| 2020-12-20 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Sedong | Lose | B+R | 6.5 | 3183 | -21 | 
+| 2020-12-13 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3204 | 39 | 
+| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Oh Yujin | Kim Sedong | Win | W+R | 6.5 | 3165 | 19 | 
+| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | Win | B+R | 6.5 | 3146 | 46 | 
+| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | Lose | W+0.5 | 6.5 | 3100 | -51 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Lee Yeongkyu | Kim Sedong | Lose | B+R | 6.5 | 3151 | -8 | 
 | 2020-04-20 | 第25回LG杯韓国予選 |  | Kim Sedong | Win | W+R | 6.5 | 3159 | -12 | 
-| 2020-04-13 | 第25回LG杯韓国予選 | Kim Sedong | You Byungyong | Win | B+R | 6.5 | 3171 | 24 | 
-| 2020-02-04 | 2019-2020KBフューチャーズリーグ第18節第4試合第3局 | Kim Sedong | Lee Hoseong | Win | B+1.5 | 6.5 | 3147 | 10 | 
-| 2020-01-18 | 2019-2020KBフューチャーズリーグ第16節第1試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | 3137 | 21 | 
-| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第2試合第2局 | Kim Sedong | Choi Kyeongho | Win | B+R | 6.5 | 3116 | 25 | 
-| 2020-01-05 | 2019-2020KBフューチャーズリーグ第14節第3試合第1局 | Kim Sedong |  | Lose | W+R | 6.5 | 3091 | -16 | 
-| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第5局 | Kim Sedong | Park Sangjin | Lose | W+7.5 | 6.5 | 3107 | missing |
+| 2020-04-13 | 第25回LG杯韓国予選 | Kim Sedong | You Byungyong | Win | B+R | 6.5 | 3171 | 25 | 
+| 2020-02-04 | 2019-2020KBフューチャーズリーグ第18節第4試合第3局 | Kim Sedong | Lee Hoseong | Win | B+1.5 | 6.5 | 3146 | 9 | 
+| 2020-01-18 | 2019-2020KBフューチャーズリーグ第16節第1試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | 3137 | 22 | 
+| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第2試合第2局 | Kim Sedong | Choi Kyeongho | Win | B+R | 6.5 | 3115 | 25 | 
+| 2020-01-05 | 2019-2020KBフューチャーズリーグ第14節第3試合第1局 | Kim Sedong |  | Lose | W+R | 6.5 | 3090 | -16 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第5局 | Kim Sedong | Park Sangjin | Lose | W+7.5 | 6.5 | 3106 | missing |
 
 
 

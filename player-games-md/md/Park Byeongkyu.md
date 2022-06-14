@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第25回LG杯韓国予選 | Park Byeongkyu | Baek Chanhee | W+R | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qQ4pEcg84xaE04dIYoDyyA%3D%3D) | 
 | 第19期バッカス杯天元戦1回戦 | Kang Seungmin | Park Byeongkyu | B+R | 2014-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sorl3WlqzehDBewdBat2Q%3D%3D) | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Jihyun Vs Park Junghwan** | **Lee Jihyun Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-15 | 2022YK建機杯リーグ | Park Junghwan | Lee Jihyun | B+R | 6.5 | 4:5 | 0 | 1 | 
 | 2021-03-23 | 第22回マキシムコーヒー杯入神最強戦準決勝 | Park Junghwan | Lee Jihyun | W+2.5 | 6.5 | 4:4 | 1 | 0 | 
 | 2019-07-26 | 第21回農心杯韓国選抜戦 | Lee Jihyun | Park Junghwan | W+R | 6.5 | 3:4 | 0 | 4 | 
 | 2014-02-21 | 第19期GSカルテックス杯プロ棋戦2回戦 | Lee Jihyun | Park Junghwan | W+R | 6.5 | 3:3 | 0 | 3 | 

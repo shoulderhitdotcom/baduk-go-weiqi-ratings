@@ -7,24 +7,24 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Lose | W+R | 6.5 | 3183 | 5 | 
-| 2022-05-19 | 2022YK建機杯リーグ | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3178 | -28 | 
+| 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Lose | W+R | 6.5 | 3183 | 4 | 
+| 2022-05-19 | 2022YK建機杯リーグ | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3179 | -27 | 
 | 2022-05-10 | 2022YK建機杯リーグ | Lee Jihyun | Kim Sedong | Win | W+R | 6.5 | 3206 | 82 | 
 | 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Win | W+R | 6.5 | 3124 | -31 | 
-| 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Win | B+R | 6.5 | 3155 | 12 | 
-| 2022-03-23 | 2022YK建機杯リーグ | Weon Seongjin | Kim Sedong | Lose | B+3.5 | 6.5 | 3143 | -8 | 
-| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Kim Sedong | Lose | B+2.5 | 6.5 | 3151 | -2 | 
-| 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Donghoon | Lose | W+R | 6.5 | 3153 | -23 | 
-| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3176 | 40 | 
-| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3136 | -22 | 
+| 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Win | B+R | 6.5 | 3155 | 11 | 
+| 2022-03-23 | 2022YK建機杯リーグ | Weon Seongjin | Kim Sedong | Lose | B+3.5 | 6.5 | 3144 | -8 | 
+| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Kim Sedong | Lose | B+2.5 | 6.5 | 3152 | -2 | 
+| 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Donghoon | Lose | W+R | 6.5 | 3154 | -22 | 
+| 2022-03-01 | 2022YK建機杯予選 | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3176 | 39 | 
+| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3137 | -21 | 
 | 2022-02-17 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Kim Sedong | Lose | B+R | 6.5 | 3158 | -135 | 
 | 2022-02-03 | 2021-2022韓国囲碁リーグ | Kim Sedong | Park Hamin | Lose | W+R | 6.5 | 3293 | -35 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Kim Sedong | Byun Sangil | Lose | W+R | 6.5 | 3328 | -22 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Taehyun | Lose | W+R | 6.5 | 3350 | -4 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Win | W+R | 6.5 | 3354 | 4 | 
 | 2021-12-31 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Sedong | Lose | B+0.5 | 6.5 | 3350 | -1 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Lose | B+R | 6.5 | 3351 | -13 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kim Sedong | Lose | B+R | 6.5 | 3364 | -12 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Lose | B+R | 6.5 | 3351 | -14 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Kim Sedong | Lose | B+R | 6.5 | 3365 | -11 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Sedong | Win | W+R | 6.5 | 3376 | 3 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong | Han Sangcho | Win | B+R | 6.5 | 3373 | 13 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Lose | B+R | 6.5 | 3360 | -26 | 

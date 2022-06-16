@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ida Atsushi vs Iyama Yuta** | **Ida Atsushi streak** | **Iyama Yuta streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ida Atsushi Vs Iyama Yuta** | **Ida Atsushi Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-06 | 第46期碁聖戦挑戦者決定戦  | Iyama Yuta | Ida Atsushi | B+R | 6.5 | 2:11 | 0 | 4 | 
 | 2019-01-31 | 第44期碁聖戦本戦2回戦 | Iyama Yuta | Ida Atsushi | B+R | 6.5 | 2:10 | 0 | 3 | 

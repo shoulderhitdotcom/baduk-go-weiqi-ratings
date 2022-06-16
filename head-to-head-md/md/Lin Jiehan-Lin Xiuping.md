@@ -5,10 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Jiehan vs Lin Xiuping** | **Lin Jiehan streak** | **Lin Xiuping streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Jiehan Vs Lin Xiuping** | **Lin Jiehan Streak** | **Lin Xiuping Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Xiuping | Lin Jiehan | W+R | 6.5 | 1:2 | 1 | 0 | 
-| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Lin Jiehan | B+R | 6.5 | 0:2 | 0 | 2 | 
+| 2022-06-16 | 第15期棋王戦（台湾）予選 | Lin Jiehan | Lin Xiuping | W+R | 6.5 | 1:2 | 0 | 1 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Xiuping | Lin Jiehan | W+R | 6.5 | 1:1 | 1 | 0 | 
 | 2015-02-24 | 第14期天元戦（台湾）予選 | Lin Jiehan | Lin Xiuping | W+R | 6.5 | 0:1 | 0 | 1 |
 
 

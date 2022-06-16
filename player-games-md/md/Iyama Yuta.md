@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-16 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Iyama Yuta | Win | W+1.5 | 6.5 | 3599 | -6 | 
 | 2022-06-12 | 第77期本因坊戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3605 | 3 | 
 | 2022-06-08 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3602 | 40 | 
-| 2022-06-02 | 第77期本因坊戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3562 | 30 | 
-| 2022-05-25 | 第77期本因坊戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3532 | 9 | 
+| 2022-06-02 | 第77期本因坊戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3562 | 29 | 
+| 2022-05-25 | 第77期本因坊戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3533 | 10 | 
 | 2022-05-11 | 第77期本因坊戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Win | B+0.5 | 6.5 | 3523 | 9 | 
-| 2022-04-28 | 第47期棋聖戦Sリーグ | Takao Shinji | Iyama Yuta | Lose | B+R | 6.5 | 3514 | -53 | 
-| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Kim Jiseok | Lose | W+R | 7.5 | 3567 | -7 | 
-| 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3574 | 3 | 
-| 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3571 | 3 | 
-| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3568 | 16 | 
-| 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Lose | W+R | 6.5 | 3552 | -15 | 
+| 2022-04-28 | 第47期棋聖戦Sリーグ | Takao Shinji | Iyama Yuta | Lose | B+R | 6.5 | 3514 | -54 | 
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Kim Jiseok | Lose | W+R | 7.5 | 3568 | -7 | 
+| 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3575 | 3 | 
+| 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3572 | 4 | 
+| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3568 | 15 | 
+| 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Lose | W+R | 6.5 | 3553 | -14 | 
 | 2022-02-19 | 第46期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3567 | -2 | 
 | 2022-02-05 | 第46期棋聖戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3569 | -17 | 
 | 2022-01-22 | 第46期棋聖戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3586 | -3 | 
@@ -32,13 +33,13 @@
 | 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Lose | B+R | 6.5 | 3464 | -29 | 
 | 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3493 | 26 | 
 | 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3467 | -9 | 
-| 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Lose | B+R | 6.5 | 3476 | 0 | 
-| 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3476 | -3 | 
+| 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Lose | B+R | 6.5 | 3476 | -1 | 
+| 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3477 | -2 | 
 | 2021-10-13 | 第46期名人戦挑戦手合七番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3479 | -10 | 
 | 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | Lose | W+R | 6.5 | 3489 | -15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Win | W+R | 7.5 | 3504 | 16 | 
-| 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3488 | 4 | 
-| 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3484 | -4 | 
+| 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3488 | 3 | 
+| 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3485 | -3 | 
 | 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3488 | 4 | 
 | 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3484 | -24 | 
 | 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3508 | -7 | 
@@ -72,18 +73,18 @@
 | 2020-12-24 | 第59期十段戦3回戦 | Hsu Chiayuan | Iyama Yuta | Lose | B+R | 6.5 | 3347 | -26 | 
 | 2020-12-16 | 第46期天元戦挑戦手合五番勝負第5局 | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3373 | 20 | 
 | 2020-12-07 | 第46期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3353 | -34 | 
-| 2020-11-27 | 第46期天元戦挑戦手合五番勝負第3局 | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3387 | -41 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Park Sangjin | Iyama Yuta | Win | W+R | 7.5 | 3428 | 32 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Lose | W+R | 7.5 | 3396 | -10 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3406 | -10 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Liu Zhaozhe | Iyama Yuta | Lose | B+R | 7.5 | 3416 | 5 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Myounghoon | Iyama Yuta | Lose | B+R | 7.5 | 3411 | -10 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3421 | -21 | 
+| 2020-11-27 | 第46期天元戦挑戦手合五番勝負第3局 | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3387 | -42 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Park Sangjin | Iyama Yuta | Win | W+R | 7.5 | 3429 | 32 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Lose | W+R | 7.5 | 3397 | -10 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3407 | -10 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Liu Zhaozhe | Iyama Yuta | Lose | B+R | 7.5 | 3417 | 5 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Myounghoon | Iyama Yuta | Lose | B+R | 7.5 | 3412 | -10 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3422 | -20 | 
 | 2020-11-15 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | Win | W+R | 7.5 | 3442 | 4 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Mao Ruilong | Win | B+R | 7.5 | 3438 | -2 | 
-| 2020-11-12 | 第1回関西囲碁オープントーナメントトップクラス決勝  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3440 | 2 | 
-| 2020-11-11 | 第1回関西囲碁オープントーナメントトップクラス準決勝 | Yu Zhengqi | Iyama Yuta | Win | W+R | 6.5 | 3438 | 5 | 
-| 2020-11-10 | 第1回関西囲碁オープントーナメントトップクラス1回戦 | Iyama Yuta |  | Win | B+R | 6.5 | 3433 | 28 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Mao Ruilong | Win | B+R | 7.5 | 3438 | -3 | 
+| 2020-11-12 | 第1回関西囲碁オープントーナメントトップクラス決勝  | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3441 | 2 | 
+| 2020-11-11 | 第1回関西囲碁オープントーナメントトップクラス準決勝 | Yu Zhengqi | Iyama Yuta | Win | W+R | 6.5 | 3439 | 5 | 
+| 2020-11-10 | 第1回関西囲碁オープントーナメントトップクラス1回戦 | Iyama Yuta |  | Win | B+R | 6.5 | 3434 | 29 | 
 | 2020-10-23 | 第59期十段戦2回戦 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3405 | -1 | 
 | 2020-10-20 | 第46期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3406 | -27 | 
 | 2020-10-14 | 第45期名人戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3433 | -5 | 
@@ -92,8 +93,8 @@
 | 2020-09-30 | 第45期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3451 | 12 | 
 | 2020-09-24 | 第45期名人戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Lose | B+R | 6.5 | 3439 | -5 | 
 | 2020-09-16 | 第45期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3444 | 0 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Gu Zihao | Iyama Yuta | Lose | B+3 | 7.5 | 3444 | 0 | 
-| 2020-09-04 | 第68期王座戦準決勝 | Cho U | Iyama Yuta | Lose | B+R | 6.5 | 3444 | -18 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Gu Zihao | Iyama Yuta | Lose | B+3 | 7.5 | 3444 | -1 | 
+| 2020-09-04 | 第68期王座戦準決勝 | Cho U | Iyama Yuta | Lose | B+R | 6.5 | 3445 | -17 | 
 | 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3462 | 6 | 
 | 2020-08-26 | 第45期名人戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Win | W+1.5 | 6.5 | 3456 | -10 | 
 | 2020-08-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Lose | B+R | 6.5 | 3466 | -9 | 
@@ -103,11 +104,11 @@
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Shin Minjun | Lose | W+R | 7.5 | 3463 | 4 | 
 | 2020-07-27 | 第45期名人戦リーグ  | Cho U | Iyama Yuta | Win | W+0.5 | 6.5 | 3459 | 2 | 
 | 2020-07-16 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | So Yokoku | Win | B+R | 6.5 | 3457 | -5 | 
-| 2020-07-09 | 第75期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Win | W+4.5 | 6.5 | 3462 | 10 | 
-| 2020-07-06 | 第68期王座戦1回戦 | Fujita Akihiko | Iyama Yuta | Win | W+R | 6.5 | 3452 | 1 | 
-| 2020-07-01 | 第75期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Lose | W+R | 6.5 | 3451 | -16 | 
-| 2020-06-25 | 第45期名人戦リーグ | Iyama Yuta | Hsu Chiayuan | Win | B+R | 6.5 | 3467 | 2 | 
-| 2020-06-23 | 第75期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3465 | 49 | 
+| 2020-07-09 | 第75期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Win | W+4.5 | 6.5 | 3462 | 9 | 
+| 2020-07-06 | 第68期王座戦1回戦 | Fujita Akihiko | Iyama Yuta | Win | W+R | 6.5 | 3453 | 1 | 
+| 2020-07-01 | 第75期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Lose | W+R | 6.5 | 3452 | -16 | 
+| 2020-06-25 | 第45期名人戦リーグ | Iyama Yuta | Hsu Chiayuan | Win | B+R | 6.5 | 3468 | 2 | 
+| 2020-06-23 | 第75期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3466 | 50 | 
 | 2020-06-14 | 第75期本因坊戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3416 | -3 | 
 | 2020-06-08 | 第45期名人戦リーグ | Hane Naoki | Iyama Yuta | Win | W+R | 6.5 | 3419 | 21 | 
 | 2020-06-03 | 第75期本因坊戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3398 | 7 | 

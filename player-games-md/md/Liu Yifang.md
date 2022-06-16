@@ -7,13 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-16 | 第15期棋王戦（台湾）予選 |  | Liu Yifang | Win | W+R | 6.5 | 1984 | 0 | 
+| 2022-06-16 | 第15期棋王戦（台湾）予選 | Liu Yifang | Lin Shixun | Lose | W+R | 6.5 | 1984 | 118 | 
 | 2022-06-13 | 2022新人王戦（台湾）予選 | Liu Yifang | Xu Jingen | Lose | W+R | 7.5 | 1866 | -8 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Yuting | Liu Yifang | Win | W+R | 6.5 | 1874 | 0 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Liu Yifang | Lai Junfu | Lose | W+R | 6.5 | 1874 | 101 | 
 | 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Su Shengfang | Liu Yifang | Lose | B+R | 6.5 | 1773 | -377 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Liu Yifang | Lose | B+R | 6.5 | 2150 | -21 | 
-| 2022-03-30 | 第5回呉清源杯台湾予選 | Liu Yifang | Yu Lijun | Lose | W+¼ | 7.5 | 2171 | -30 | 
-| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Liu Yifang | Lose | B+R | 7.5 | 2201 | -62 | 
+| 2022-03-30 | 第5回呉清源杯台湾予選 | Liu Yifang | Yu Lijun | Lose | W+¼ | 7.5 | 2171 | -31 | 
+| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Liu Yifang | Lose | B+R | 7.5 | 2202 | -61 | 
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Liu Yifang | Zeng Pinjie | Lose | W+R | 7.5 | 2263 | -24 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Lose | W+R | 6.5 | 2287 | 1 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 | Liu Yifang | Huang Shiyuan | Lose | W+R | 6.5 | 2286 | 11 | 

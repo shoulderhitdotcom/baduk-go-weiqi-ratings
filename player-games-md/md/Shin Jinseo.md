@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-16 | 第27回GSカルテックス杯プロ棋戦2回戦 | Han Sanghoon | Shin Jinseo | Win | W+R | 6.5 | 3831 | 0 | 
 | 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Win | W+R | 6.5 | 3831 | 0 | 
 | 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3831 | 0 | 
 | 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | Lose | B+R | 6.5 | 3831 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Lin Shixun** | **Li Wei Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Lin Shixun | Li Wei | W+R | 6.5 | 3:4 | 1 | 0 | 
 | 2022-02-11 | 第21期天元戦（台湾）敗部4回戦 | Li Wei | Lin Shixun | W+R | 6.5 | 2:4 | 0 | 2 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Li Wei | Lin Shixun | W+R | 6.5 | 2:3 | 0 | 1 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | B+R | 7.5 | 2:2 | 1 | 0 | 

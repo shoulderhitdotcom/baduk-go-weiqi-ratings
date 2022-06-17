@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cai Chengwei Vs Jian Jingting** | **Cai Chengwei Streak** | **Jian Jingting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Cai Chengwei | Jian Jingting | W+R | 6.5 | 1:6 | 0 | 3 | 
 | 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | W+5.5 | 6.5 | 1:5 | 0 | 2 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Cai Chengwei | B+R | 6.5 | 1:4 | 0 | 1 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | W+R | 7.5 | 1:3 | 1 | 0 | 

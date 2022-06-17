@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Lin Shixun | Li Wei | Lose | W+R | 6.5 | 3086 | -9 | 
 | 2022-06-16 | 第15期棋王戦（台湾）予選 | Lin Yanchen | Lin Shixun | Win | W+R | 6.5 | 3095 | 0 | 
 | 2022-06-16 | 第15期棋王戦（台湾）予選 | Liu Yifang | Lin Shixun | Win | W+R | 6.5 | 3095 | 1 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Lin Shixun | Win | W+1.5 | 6.5 | 3094 | -27 | 

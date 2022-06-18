@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Hao vs Tang Weixing** | **Chang Hao streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Hao Vs Tang Weixing** | **Chang Hao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Tang Weixing | B+R | 7.5 | 2:2 | 1 | 0 | 
 | 2014-03-08 | 第13回西南棋王戦決勝 | Tang Weixing | Chang Hao | B+R | 7.5 | 1:2 | 0 | 1 | 

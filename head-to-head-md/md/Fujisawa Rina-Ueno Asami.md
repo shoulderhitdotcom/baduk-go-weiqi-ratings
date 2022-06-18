@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Ueno Asami** | **Fujisawa Rina Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-18 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | W+R | 6.5 | 15:8 | 0 | 2 | 
 | 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | W+R | 6.5 | 15:7 | 0 | 1 | 
 | 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 15:6 | 5 | 0 | 
 | 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | B+R | 6.5 | 14:6 | 4 | 0 | 

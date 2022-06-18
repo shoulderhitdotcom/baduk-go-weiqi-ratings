@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Hao vs Gu Li** | **Chang Hao streak** | **Gu Li streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Hao Vs Gu Li** | **Chang Hao Streak** | **Gu Li Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-26 | 「天下第一蓋」龍虎超級戦 | Gu Li | Chang Hao | W+R | 7.5 | 8:10 | 1 | 0 | 
 | 2017-03-19 | 昌江棋子湾中国冠軍戦決勝 | Gu Li | Chang Hao | B+R | 7.5 | 7:10 | 0 | 2 | 

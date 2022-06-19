@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-19 | 第21回西南棋王戦準決勝 | Liu Yuhang | Tang Weixing | Win | W+R | 7.5 | 3427 | 12 | 
+| 2022-06-19 | 第21回西南棋王戦準決勝 | Liu Yuhang | Tang Weixing | Win | W+R | 7.5 | 3427 | 0 | 
+| 2022-06-19 | 第21回西南棋王戦決勝 | Tang Weixing | Ke Jie | Lose | W+R | 7.5 | 3427 | 12 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Tang Weixing | Mi Yuting | Win | B+¾ | 7.5 | 3415 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Tang Weixing | Wang Yao | Win | B+R | 7.5 | 3415 | -19 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tang Weixing | Fan Tingyu | Lose | W+R | 7.5 | 3434 | -37 | 

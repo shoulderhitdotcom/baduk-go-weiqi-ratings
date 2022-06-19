@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-19 | 第21回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3582 | -5 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | Win | W+R | 7.5 | 3587 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Yang Dingxin | Shi Yulai | Win | B+R | 7.5 | 3587 | -5 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Jinsol | Yang Dingxin | Win | W+R | 6.5 | 3592 | 1 | 

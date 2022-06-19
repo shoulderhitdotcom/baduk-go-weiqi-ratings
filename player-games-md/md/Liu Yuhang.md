@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-19 | 第21回西南棋王戦準決勝 | Liu Yuhang | Tang Weixing | Lose | W+R | 7.5 | 3350 | -27 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Shi Yue | Liu Yuhang | Win | W+R | 7.5 | 3377 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | Win | B+¾ | 7.5 | 3377 | -32 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Yang Kaiwen | Liu Yuhang | Lose | B+R | 7.5 | 3409 | -19 | 

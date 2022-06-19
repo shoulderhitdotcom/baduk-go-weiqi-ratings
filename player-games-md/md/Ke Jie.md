@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-19 | 第21回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3722 | 6 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Li Xuanhao | Ke Jie | Win | W+R | 7.5 | 3716 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Gu Li | Ke Jie | Win | W+R | 7.5 | 3716 | -2 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Shin Minjun | Win | B+R | 6.5 | 3718 | 3 | 

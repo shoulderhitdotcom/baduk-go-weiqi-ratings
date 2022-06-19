@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Yang Dingxin** | **Ke Jie Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-19 | 第21回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | W+R | 7.5 | 8:4 | 1 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Yang Dingxin | Ke Jie | B+¾ | 7.5 | 7:4 | 0 | 3 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | W+R | 7.5 | 7:3 | 0 | 2 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | W+R | 7.5 | 7:2 | 0 | 1 | 

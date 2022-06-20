@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Youngjoo vs Park Jiyeon** | **Lee Youngjoo streak** | **Park Jiyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Youngjoo Vs Park Jiyeon** | **Lee Youngjoo Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第3局 | Park Jiyeon | Lee Youngjoo | B+4.5 | 6.5 | 3:3 | 0 | 2 | 
 | 2017-02-17 | 3期韓国女子連戦1回戦京畿湖畔-麟蹄 | Lee Youngjoo | Park Jiyeon | W+1.5 | 6.5 | 3:2 | 0 | 1 | 

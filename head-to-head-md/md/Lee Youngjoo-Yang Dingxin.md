@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Youngjoo vs Yang Dingxin** | **Lee Youngjoo streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Youngjoo Vs Yang Dingxin** | **Lee Youngjoo Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦F1 | Lee Youngjoo | Yang Dingxin | W+R | 6.5 | 0:1 | 0 | 1 |
 

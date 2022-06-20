@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Heo Seohyun Vs Lee Youngjoo** | **Heo Seohyun Streak** | **Lee Youngjoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-19 | 第8回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | B+1.5 | 6.5 | 4:2 | 0 | 1 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Lee Youngjoo | Heo Seohyun | W+R | 7.5 | 4:1 | 2 | 0 | 
 | 2021-07-24 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | W+0.5 | 6.5 | 3:1 | 1 | 0 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | B+R | 6.5 | 2:1 | 0 | 1 | 

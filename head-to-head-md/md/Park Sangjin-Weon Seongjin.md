@@ -5,11 +5,11 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Sangjin vs Weon Seongjin** | **Park Sangjin streak** | **Weon Seongjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Sangjin Vs Weon Seongjin** | **Park Sangjin Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | B+R | 6.5 | 0:3 | 0 | 3 | 
-| 2021-01-23 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Sangjin | B+R | 6.5 | 0:1 | 0 | 1 | 
-| 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | B+R | 6.5 | 0:2 | 0 | 2 |
+| 2021-01-23 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Sangjin | B+R | 6.5 | 0:2 | 0 | 2 | 
+| 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

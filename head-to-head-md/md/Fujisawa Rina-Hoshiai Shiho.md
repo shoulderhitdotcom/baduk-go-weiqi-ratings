@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Hoshiai Shiho** | **Fujisawa Rina streak** | **Hoshiai Shiho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Hoshiai Shiho** | **Fujisawa Rina Streak** | **Hoshiai Shiho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-22 | 第40期女流本因坊戦挑戦手合五番勝負第3局  | Hoshiai Shiho | Fujisawa Rina | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2021-10-08 | 第40期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Hoshiai Shiho | B+R | 6.5 | 4:0 | 4 | 0 | 

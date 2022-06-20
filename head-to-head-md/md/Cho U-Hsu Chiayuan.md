@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Hsu Chiayuan** | **Cho U streak** | **Hsu Chiayuan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Hsu Chiayuan** | **Cho U Streak** | **Hsu Chiayuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-24 | 第46期棋聖戦Aリーグ | Cho U | Hsu Chiayuan | W+3.5 | 6.5 | 1:7 | 0 | 7 | 
 | 2021-01-18 | 第59期十段戦準決勝 | Hsu Chiayuan | Cho U | B+R | 6.5 | 1:6 | 0 | 6 | 

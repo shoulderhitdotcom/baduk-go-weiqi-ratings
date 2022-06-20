@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Yang Zixuan** | **Fujisawa Rina streak** | **Yang Zixuan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Yang Zixuan** | **Fujisawa Rina Streak** | **Yang Zixuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Fujisawa Rina | Yang Zixuan | B+R | 6.5 | 3:2 | 1 | 0 | 
 | 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Zixuan | Fujisawa Rina | B+R | 6.5 | 2:2 | 0 | 1 | 

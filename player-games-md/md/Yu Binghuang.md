@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第9期友士杯十段戦予選敗部準決勝 | Lin Jiehan | Yu Binghuang | B+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Mkf8yuuDM7YuYKLBAmQXQ%3D%3D) | 
 | 第9期友士杯十段戦予選敗部3回戦 | Yu Binghuang | Lin Lixiang | B+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LF53AGqdv%2FaoL%2Fai2Qj%2Ffw%3D%3D) | 

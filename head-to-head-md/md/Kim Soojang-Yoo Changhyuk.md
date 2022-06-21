@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Soojang vs Yoo Changhyuk** | **Kim Soojang streak** | **Yoo Changhyuk streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Soojang Vs Yoo Changhyuk** | **Kim Soojang Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | W+R | 6.5 | 1:7 | 0 | 4 | 
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第2局 | Yoo Changhyuk | Kim Soojang | B+10.5 | 6.5 | 1:6 | 0 | 3 | 

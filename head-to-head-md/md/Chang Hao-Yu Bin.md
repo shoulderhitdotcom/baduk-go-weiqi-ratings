@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Hao vs Yu Bin** | **Chang Hao streak** | **Yu Bin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Hao Vs Yu Bin** | **Chang Hao Streak** | **Yu Bin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-06 | 第9期中国竜星戦予選 | Yu Bin | Chang Hao | W+R | 7.5 | 9:6 | 2 | 0 | 
 | 2016-11-24 | 第8期中国竜星戦予選 | Chang Hao | Yu Bin | B+R | 7.5 | 8:6 | 1 | 0 | 

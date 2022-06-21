@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative O Meien vs Takao Shinji** | **O Meien streak** | **Takao Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative O Meien Vs Takao Shinji** | **O Meien Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-07-11 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | O Meien | Takao Shinji | W+R | 6.5 | 0:11 | 0 | 11 | 
 | 2013-06-03 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | O Meien | Takao Shinji | W+R | 6.5 | 0:10 | 0 | 10 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kobayashi Koichi vs Takao Shinji** | **Kobayashi Koichi streak** | **Takao Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kobayashi Koichi Vs Takao Shinji** | **Kobayashi Koichi Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-23 | 第57期十段戦最終予選決勝 | Takao Shinji | Kobayashi Koichi | B+7.5 | 7.5 | 1:5 | 0 | 4 | 
 | 2011-07-14 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Takao Shinji | W+4.5 | 6.5 | 1:4 | 0 | 3 | 

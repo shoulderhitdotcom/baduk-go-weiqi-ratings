@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Xu Jingen** | **Lin Lixiang Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-21 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | W+R | 6.5 | 6:2 | 1 | 0 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | W+R | 6.5 | 5:2 | 0 | 1 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Xu Jingen | Lin Lixiang | W+R | 7.5 | 5:1 | 3 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | W+R | 6.5 | 4:1 | 2 | 0 | 

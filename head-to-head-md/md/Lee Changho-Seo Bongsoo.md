@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Seo Bongsoo** | **Lee Changho streak** | **Seo Bongsoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Seo Bongsoo** | **Lee Changho Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | B+R | 6.5 | 4:0 | 4 | 0 | 
 | 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | W+R | 6.5 | 3:0 | 3 | 0 | 

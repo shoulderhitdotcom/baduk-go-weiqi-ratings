@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kobayashi Koichi vs Takemiya Masaki** | **Kobayashi Koichi streak** | **Takemiya Masaki streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kobayashi Koichi Vs Takemiya Masaki** | **Kobayashi Koichi Streak** | **Takemiya Masaki Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-03-02 | 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Takemiya Masaki | Kobayashi Koichi | B+1.5 | 6.5 | 2:2 | 0 | 2 | 
 | 2009-05-21 | 第65期本因坊戦予選 | Takemiya Masaki | Kobayashi Koichi | B+R | 6.5 | 2:1 | 0 | 1 | 

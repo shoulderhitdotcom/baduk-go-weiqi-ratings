@@ -51,7 +51,7 @@ The ratings are based on 4481 games from 2021-06-21 to 2022-06-20.
 | 27 | [Xie Ke](./player-games-md/md/Xie Ke.md) | 3514 | 36 | CHN | Male | 22.4 | 謝科 | 
 | 28 | [Park Yeonghun](./player-games-md/md/Park Yeonghun.md) | 3514 | 34 | KOR | Male | 37.2 | 朴永訓 | 
 | 29 | [Han Seungjoo](./player-games-md/md/Han Seungjoo.md) | 3512 | 46 | KOR | Male | 25.6 | 韓昇周 | 
-| 30 | [Tuo Jiaxi](./player-games-md/md/Tuo Jiaxi.md) | 3512 | 35 | CHN | Male | 31.4 | 柁嘉熹 | 
+| 30 | [Tuo Jiaxi](./player-games-md/md/Tuo Jiaxi.md) | 3512 | 35 | CHN | Male | 31.5 | 柁嘉熹 | 
 | 31 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3508 | 35 | KOR | Male | 24.0 | 朴鍵昊 | 
 | 32 | [Li Qincheng](./player-games-md/md/Li Qincheng.md) | 3502 | 31 | CHN | Male | 23.7 | 李欽誠 | 
 | 33 | [Ichiriki Ryo](./player-games-md/md/Ichiriki Ryo.md) | 3500 | 64 | JPN | Male | 25.0 | 一力遼 | 
@@ -76,7 +76,7 @@ The ratings are based on 4481 games from 2021-06-21 to 2022-06-20.
 | 52 | [Chen Yaoye](./player-games-md/md/Chen Yaoye.md) | 3416 | 14 | CHN | Male | 32.5 | 陳耀燁 | 
 | 53 | [Shibano Toramaru](./player-games-md/md/Shibano Toramaru.md) | 3413 | 47 | JPN | Male | 22.6 | 芝野虎丸 | 
 | 54 | [Chen Zijian](./player-games-md/md/Chen Zijian.md) | 3413 | 19 | CHN | Male | missing | 陳梓健 | 
-| 55 | [Xie Erhao](./player-games-md/md/Xie Erhao.md) | 3407 | 23 | CHN | Male | 23.7 | 謝爾豪 | 
+| 55 | [Xie Erhao](./player-games-md/md/Xie Erhao.md) | 3407 | 23 | CHN | Male | 23.8 | 謝爾豪 | 
 | 56 | [Park Jinsol](./player-games-md/md/Park Jinsol.md) | 3407 | 29 | KOR | Male | 35.8 | 朴進率 | 
 | 57 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3404 | 23 | KOR | Male | 28.1 | 洪茂鎭 | 
 | 58 | [Tan Xiao](./player-games-md/md/Tan Xiao.md) | 3403 | 34 | CHN | Male | 29.3 | 檀嘯 | 
@@ -104,7 +104,7 @@ The ratings are based on 4481 games from 2021-06-21 to 2022-06-20.
 | 80 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3328 | 27 | JPN | Male | 43.8 | 山下敬吾 | 
 | 81 | [Han Sanghoon](./player-games-md/md/Han Sanghoon.md) | 3326 | 32 | KOR | Male | 34.1 | 韓尚勲 | 
 | 82 | [Yun Chanhee](./player-games-md/md/Yun Chanhee.md) | 3320 | 39 | KOR | Male | 32.2 | 尹燦熙 | 
-| 83 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3317 | 25 | KOR | Male | 34.8 | 李映九 | 
+| 83 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3317 | 25 | KOR | Male | 34.9 | 李映九 | 
 | 84 | [Wu Guangya](./player-games-md/md/Wu Guangya.md) | 3307 | 13 | CHN | Male | 31.9 | 鄔光亜 | 
 | 85 | [Fukuoka Kotaro](./player-games-md/md/Fukuoka Kotaro.md) | 3307 | 15 | missing | missing | missing | 福岡航太朗 | 
 | 86 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3300 | 23 | CHN | Male | 28.0 | 陶欣然 | 
@@ -410,9 +410,9 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | **Name** | **Rating Change Trend** | **Games Played** | **汉字** | 
 | --- | --- | --- | --- |
 | Hong Mujin | 553 | 23 | 洪茂鎭 | 
-| Otake Yu | 505 | 17 | 大竹優 | 
+| Otake Yu | 506 | 17 | 大竹優 | 
 | Shida Tatsuya | 499 | 16 | 志田達哉 | 
-| Fu Jianheng | 473 | 15 | 傅健恒 | 
+| Fu Jianheng | 474 | 15 | 傅健恒 | 
 | Fukuoka Kotaro | 458 | 16 | 福岡航太朗 | 
 | Park Yeonghun | 439 | 35 | 朴永訓 | 
 | Han Seungjoo | 415 | 46 | 韓昇周 | 
@@ -432,9 +432,9 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Wang Yuanjun | 168 | 46 | 王元均 | 
 | Zhang Tao | 165 | 24 | 張涛 | 
 | Kim Myounghoon | 164 | 40 | 金明訓 | 
-| Zhao Chenyu | 162 | 37 | 趙晨宇 | 
+| Zhao Chenyu | 163 | 37 | 趙晨宇 | 
 | Mi Yuting | 159 | 62 | 芈昱廷 | 
-| Park Jinsol | 158 | 29 | 朴進率 | 
+| Park Jinsol | 159 | 29 | 朴進率 | 
 | Hong Seongji | 158 | 25 | 洪性志 | 
 | Fan Yin | 142 | 27 | 范胤 | 
 | Iyama Yuta | 127 | 50 | 井山裕太 | 
@@ -485,7 +485,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Kim Jiseok | -27 | 71 | 金志錫 | 
 | Park Sangjin | -28 | 31 | 朴常鎭 | 
 | Li Weiqing | -30 | 30 | 李維清 | 
-| Tan Xiao | -36 | 36 | 檀嘯 | 
+| Tan Xiao | -35 | 36 | 檀嘯 | 
 | Yi Lingtao | -39 | 19 | 伊淩濤 | 
 | Ichiriki Ryo | -53 | 64 | 一力遼 | 
 | Yang Dingxin | -53 | 47 | 楊鼎新 | 
@@ -503,7 +503,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Na Hyun | -170 | 21 | 羅玄 | 
 | Lee Jihyun | -237 | 24 | 李志賢 | 
 | Weon Seongjin | -254 | 80 | 元晟溱 | 
-| Tao Xinran | -255 | 24 | 陶欣然 |
+| Tao Xinran | -254 | 24 | 陶欣然 |
 
 
 

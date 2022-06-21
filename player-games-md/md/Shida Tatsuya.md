@@ -12,8 +12,8 @@
 | 2022-05-26 | 第47期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | Lose | W+0.5 | 6.5 | 3219 | 37 | 
 | 2022-05-05 | 第47期名人戦リーグ  | Hane Naoki | Shida Tatsuya | Win | W+R | 6.5 | 3182 | 33 | 
 | 2022-04-21 | 第47期棋聖戦Aリーグ | Shida Tatsuya | Hane Naoki | Lose | W+0.5 | 6.5 | 3149 | 14 | 
-| 2022-04-11 | 第47期名人戦リーグ  | Shida Tatsuya | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3135 | -14 | 
-| 2022-03-26 | 第47期名人戦リーグ  | Shida Tatsuya | Shibano Toramaru | Lose | W+R | 6.5 | 3149 | -50 | 
+| 2022-04-11 | 第47期名人戦リーグ  | Shida Tatsuya | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3135 | -13 | 
+| 2022-03-26 | 第47期名人戦リーグ  | Shida Tatsuya | Shibano Toramaru | Lose | W+R | 6.5 | 3148 | -51 | 
 | 2022-03-03 | 第47期棋聖戦Aリーグ | Shida Tatsuya | Yamashita Keigo | Lose | W+1.5 | 6.5 | 3199 | -28 | 
 | 2022-02-17 | 第47期棋聖戦Aリーグ | Hong Seokui | Shida Tatsuya | Win | W+R | 6.5 | 3227 | 16 | 
 | 2022-01-06 | 第47期名人戦リーグ  | Motoki Katsuya | Shida Tatsuya | Win | W+R | 6.5 | 3211 | 108 | 

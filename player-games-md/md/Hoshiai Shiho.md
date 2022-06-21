@@ -23,8 +23,8 @@
 | 2021-04-01 | 第46期棋聖戦予選 | Hoshiai Shiho | Ueno Asami | Lose | W+R | 6.5 | 2526 | -238 | 
 | 2020-11-19 | 第77期本因坊戦予選 | Otake Hideo | Hoshiai Shiho | Win | W+6.5 | 6.5 | 2764 | 113 | 
 | 2020-10-15 | 第77期本因坊戦予選 | Chinen Kaori | Hoshiai Shiho | Win | W+R | 6.5 | 2651 | -16 | 
-| 2020-09-28 | 第24期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Lose | B+R | 6.5 | 2667 | -12 | 
-| 2020-09-10 | 第47期天元戦予選 | Hoshiai Shiho | Izumitani Hideo | Win | B+R | 6.5 | 2679 | 26 | 
+| 2020-09-28 | 第24期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Lose | B+R | 6.5 | 2667 | -11 | 
+| 2020-09-10 | 第47期天元戦予選 | Hoshiai Shiho | Izumitani Hideo | Win | B+R | 6.5 | 2678 | 25 | 
 | 2020-08-27 | 第39期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Fujisawa Rina | Lose | W+R | 6.5 | 2653 | -88 | 
 | 2020-08-13 | 第46期碁聖戦予選 | Hoshiai Shiho | Hirata Tomoya | Lose | W+R | 6.5 | 2741 | 13 | 
 | 2020-08-06 | 第39期女流本因坊戦準決勝  | Mukai Chiaki | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2728 | 36 | 

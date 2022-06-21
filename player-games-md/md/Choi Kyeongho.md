@@ -11,8 +11,8 @@
 | 2022-06-10 | 第27回GSカルテックス杯プロ棋戦2回戦 | Choi Kyeongho | Park Junghwan | Lose | W+R | 6.5 | 3132 | 24 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Kang Dongyun | Choi Kyeongho | Lose | B+R | 6.5 | 3108 | -8 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Choi Kyeongho | Yun Junsang | Win | B+R | 6.5 | 3116 | 39 | 
-| 2022-04-14 | 第27回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Choi Kyeongho | Win | W+R | 6.5 | 3077 | 53 | 
-| 2022-03-26 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kyeongho | Lose | B+R | 6.5 | 3024 | -24 | 
+| 2022-04-14 | 第27回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Choi Kyeongho | Win | W+R | 6.5 | 3077 | 54 | 
+| 2022-03-26 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kyeongho | Lose | B+R | 6.5 | 3023 | -25 | 
 | 2022-03-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Choi Kihoon | Win | B+1.5 | 6.5 | 3048 | 39 | 
 | 2022-03-13 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Kang Jihoon | Lose | W+R | 6.5 | 3009 | 47 | 
 | 2022-03-09 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Choi Kyeongho | Win | W+R | 6.5 | 2962 | 24 | 
@@ -50,8 +50,8 @@
 | 2020-11-04 | 第2回大統領杯全国囲碁大会予選 |  | Choi Kyeongho | Win | W+6.5 | 6.5 | 3098 | 14 | 
 | 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Choi Kyeongho | Han Seungjoo | Lose | W+R | 6.5 | 3084 | -57 | 
 | 2020-06-14 | 第5期未来の星新鋭最強戦決勝 | Choi Kyeongho | Kim Changhoon | Lose | W+R | 6.5 | 3141 | -6 | 
-| 2020-06-09 | 第5期未来の星新鋭最強戦準決勝 | Choi Kyeongho |  | Win | B+R | 6.5 | 3147 | 39 | 
-| 2020-05-27 | 第5期未来の星新鋭最強戦8強戦 | Choi Kyeongho | Lee Yeon | Win | B+R | 6.5 | 3108 | 25 | 
+| 2020-06-09 | 第5期未来の星新鋭最強戦準決勝 | Choi Kyeongho |  | Win | B+R | 6.5 | 3147 | 40 | 
+| 2020-05-27 | 第5期未来の星新鋭最強戦8強戦 | Choi Kyeongho | Lee Yeon | Win | B+R | 6.5 | 3107 | 24 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Kim Seongji | Choi Kyeongho | Win | W+R | 6.5 | 3083 | -27 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Han Wonggyu | Choi Kyeongho | Lose | B+0.5 | 6.5 | 3110 | -27 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Kyeongho | Park Jinyoung | Win | B+1.5 | 6.5 | 3137 | 24 | 

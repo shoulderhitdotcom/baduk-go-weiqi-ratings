@@ -34,8 +34,8 @@
 | 2021-02-22 | 第46期棋聖戦Aリーグ | Hane Naoki | Cho U | Win | W+R | 6.5 | 3016 | 36 | 
 | 2021-01-18 | 第59期十段戦準決勝 | Hsu Chiayuan | Cho U | Lose | B+R | 6.5 | 2980 | -56 | 
 | 2020-11-26 | 第59期十段戦3回戦 | Takao Shinji | Cho U | Win | W+R | 6.5 | 3036 | -77 | 
-| 2020-11-05 | 第47期天元戦予選 | Cho U | Yo Kagen | Lose | W+R | 6.5 | 3113 | 16 | 
-| 2020-10-22 | 第59期十段戦2回戦 | So Yokoku | Cho U | Win | W+R | 6.5 | 3097 | -21 | 
+| 2020-11-05 | 第47期天元戦予選 | Cho U | Yo Kagen | Lose | W+R | 6.5 | 3113 | 17 | 
+| 2020-10-22 | 第59期十段戦2回戦 | So Yokoku | Cho U | Win | W+R | 6.5 | 3096 | -22 | 
 | 2020-10-15 | 第46期名人戦予選 | Anzai Nobuaki | Cho U | Lose | B+R | 6.5 | 3118 | -40 | 
 | 2020-10-01 | 第46期名人戦予選 | Cho U | Shida Tatsuya | Win | B+3.5 | 6.5 | 3158 | -6 | 
 | 2020-09-28 | 第59期十段戦1回戦 | Seto Taiki | Cho U | Win | W+R | 6.5 | 3164 | 30 | 

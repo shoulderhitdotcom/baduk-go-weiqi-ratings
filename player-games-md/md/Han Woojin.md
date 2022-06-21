@@ -16,9 +16,9 @@
 | 2022-05-16 | 2022YK建機杯リーグ | Kim Eunji | Han Woojin | Win | W+3.5 | 6.5 | 3001 | -113 | 
 | 2022-05-02 | 2022YK建機杯リーグ | Han Woojin | Ryu Minhyung | Win | B+R | 6.5 | 3114 | -15 | 
 | 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Lose | W+R | 6.5 | 3129 | -21 | 
-| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3150 | 0 | 
-| 2022-03-26 | 第7回未来の星新鋭最強戦決勝 |  | Han Woojin | Lose | B+R | 6.5 | 3150 | -1 | 
-| 2022-03-25 | 第7回未来の星新鋭最強戦準決勝 |  | Han Woojin | Win | W+R | 6.5 | 3151 | 34 | 
+| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3150 | 1 | 
+| 2022-03-26 | 第7回未来の星新鋭最強戦決勝 |  | Han Woojin | Lose | B+R | 6.5 | 3149 | -1 | 
+| 2022-03-25 | 第7回未来の星新鋭最強戦準決勝 |  | Han Woojin | Win | W+R | 6.5 | 3150 | 33 | 
 | 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Lose | W+1.5 | 6.5 | 3117 | -10 | 
 | 2022-03-08 | 第7回未来の星新鋭最強戦1回戦 | Han Woojin |  | Win | B+R | 6.5 | 3127 | 2 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Han Woojin |  | Win | B+R | 6.5 | 3125 | 13 | 

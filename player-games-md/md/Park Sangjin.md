@@ -14,8 +14,8 @@
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Sangjin | Park Jinsol | Lose | W+¼ | 7.5 | 3342 | 0 | 
 | 2022-03-31 | 2022年アジア競技大会韓国予選 | Park Sangjin | Yun Chanhee | Lose | W+R | 7.5 | 3342 | -14 | 
 | 2022-03-30 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Park Sangjin | Win | W+R | 7.5 | 3356 | 10 | 
-| 2022-03-28 | 2022年アジア競技大会韓国予選 | Ryu Minhyung | Park Sangjin | Win | W+2¼ | 7.5 | 3346 | 15 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Lee Changseok | Park Sangjin | Lose | B+R | 6.5 | 3331 | -26 | 
+| 2022-03-28 | 2022年アジア競技大会韓国予選 | Ryu Minhyung | Park Sangjin | Win | W+2¼ | 7.5 | 3346 | 16 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Lee Changseok | Park Sangjin | Lose | B+R | 6.5 | 3330 | -27 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Park Sangjin | Hong Seongji | Lose | W+R | 6.5 | 3357 | -8 | 
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Sangjin | Win | W+1.5 | 6.5 | 3365 | 13 | 
 | 2022-02-27 | 2021-2022韓国囲碁リーグ | Na Hyun | Park Sangjin | Lose | B+R | 6.5 | 3352 | -16 | 
@@ -36,8 +36,8 @@
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Lose | W+R | 6.5 | 3395 | -1 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Win | W+R | 6.5 | 3396 | 24 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Lose | W+R | 6.5 | 3372 | -2 | 
-| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3374 | 10 | 
-| 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Lose | W+R | 6.5 | 3364 | -6 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3374 | 11 | 
+| 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Lose | W+R | 6.5 | 3363 | -7 | 
 | 2021-06-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Paek Hongseok | Win | B+R | 6.5 | 3370 | 17 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Tu Xiaoyu | Park Sangjin | Lose | B+R | 6.5 | 3353 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Win | W+R | 6.5 | 3353 | 0 | 

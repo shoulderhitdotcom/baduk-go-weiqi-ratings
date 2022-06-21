@@ -13,8 +13,8 @@
 | 2022-04-25 | 第27回LG杯韓国予選 | Moon Minjong | Park Jinsol | Lose | W+R | 6.5 | 3291 | -7 | 
 | 2022-04-22 | 第27回LG杯韓国予選 | Moon Minjong | Kim Eunji | Win | B+R | 6.5 | 3298 | 0 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3298 | -28 | 
-| 2022-04-02 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Moon Minjong | Lose | B+1.5 | 6.5 | 3326 | -4 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3330 | -20 | 
+| 2022-04-02 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Moon Minjong | Lose | B+1.5 | 6.5 | 3326 | -3 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3329 | -21 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Moon Minjong | Choi Jaeyoung | Win | B+R | 6.5 | 3350 | 35 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Moon Minjong |  | Win | B+6.5 | 6.5 | 3315 | 2 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Moon Minjong | Lai Junfu | Win | B+T | 6.5 | 3313 | 13 | 
@@ -78,10 +78,10 @@
 | 2020-12-04 | 2020-2021韓国囲碁リーグ | Moon Minjong | Cho Hanseung | Win | B+8.5 | 6.5 | 3241 | 7 | 
 | 2020-11-27 | 2020-2021韓国囲碁リーグ | Moon Minjong | Lee Donghoon | Lose | W+R | 6.5 | 3234 | -38 | 
 | 2020-11-11 | 第4回クラウン・ヘテ杯予選 | Moon Minjong | Kwak Wonkeun | Win | B+6.5 | 6.5 | 3272 | -25 | 
-| 2020-09-23 | 第22回農心杯韓国選抜戦 | Cho Hanseung | Moon Minjong | Lose | B+R | 6.5 | 3297 | -17 | 
-| 2020-09-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Dongyun | Moon Minjong | Lose | B+R | 6.5 | 3314 | -14 | 
-| 2020-09-09 | 第1期利鵬杯新鋭最高位戦決勝三番勝負第2局 | Moon Minjong | Wen Rubin | Lose | W+R | 6.5 | 3328 | 0 | 
-| 2020-09-09 | 第1期利鵬杯新鋭最高位戦決勝三番勝負第1局 | Wen Rubin | Moon Minjong | Lose | B+0.5 | 6.5 | 3328 | -90 | 
+| 2020-09-23 | 第22回農心杯韓国選抜戦 | Cho Hanseung | Moon Minjong | Lose | B+R | 6.5 | 3297 | -16 | 
+| 2020-09-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Dongyun | Moon Minjong | Lose | B+R | 6.5 | 3313 | -14 | 
+| 2020-09-09 | 第1期利鵬杯新鋭最高位戦決勝三番勝負第2局 | Moon Minjong | Wen Rubin | Lose | W+R | 6.5 | 3327 | 0 | 
+| 2020-09-09 | 第1期利鵬杯新鋭最高位戦決勝三番勝負第1局 | Wen Rubin | Moon Minjong | Lose | B+0.5 | 6.5 | 3327 | -91 | 
 | 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Park Seunghwa | Moon Minjong | Win | W+R | 6.5 | 3418 | -39 | 
 | 2020-08-19 | 第1期利鵬杯新鋭最高位戦準決勝三番勝負第2局 | Moon Minjong | Kim Sangcheon | Win | B+4.5 | 6.5 | 3457 | 0 | 
 | 2020-08-19 | 第1期利鵬杯新鋭最高位戦準決勝三番勝負第1局 | Kim Sangcheon | Moon Minjong | Win | W+R | 6.5 | 3457 | 42 | 

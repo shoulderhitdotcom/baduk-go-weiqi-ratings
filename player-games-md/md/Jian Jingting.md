@@ -15,8 +15,8 @@
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Jian Jingting | Yang Zixuan | Win | B+R | 6.5 | 2999 | -90 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Jian Jingting | Lin Yanchen | Lose | W+R | 6.5 | 3089 | -7 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3096 | 0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Yang Mengyun | Jian Jingting | Win | W+R | 6.5 | 3096 | -2 | 
-| 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3098 | 1 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Yang Mengyun | Jian Jingting | Win | W+R | 6.5 | 3096 | -1 | 
+| 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3097 | 0 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | B+R | 6.5 | 3097 | 0 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 3097 | -4 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3101 | -35 | 
@@ -88,8 +88,8 @@
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Xu Yuqi | Jian Jingting | Win | W+R | 6.5 | 3017 | -3 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lin Yanchen | Jian Jingting | Win | W+R | 6.5 | 3020 | 6 | 
 | 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | Win | W+R | 6.5 | 3014 | 4 | 
-| 2020-11-22 | 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3010 | -30 | 
-| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | Win | B+R | 6.5 | 3040 | -9 | 
+| 2020-11-22 | 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3010 | -29 | 
+| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | Win | B+R | 6.5 | 3039 | -10 | 
 | 2020-10-18 | 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | Win | B+R | 6.5 | 3049 | -19 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Jian Jingting | Yang Bowei | Lose | W+R | 6.5 | 3068 | -8 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Jian Jingting | Lin Shuyang | Win | B+4.5 | 6.5 | 3076 | 10 | 

@@ -34,8 +34,8 @@
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | 2698 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Yanchen | Yang Zixuan | Win | W+R | 6.5 | 2698 | -30 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2728 | 4 | 
-| 2021-09-16 | 第14期棋王戦（台湾）予選 | Chen Shoulian | Yang Zixuan | Win | W+R | 6.5 | 2724 | 9 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Win | W+5.5 | 6.5 | 2715 | 29 | 
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Chen Shoulian | Yang Zixuan | Win | W+R | 6.5 | 2724 | 10 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Win | W+5.5 | 6.5 | 2714 | 28 | 
 | 2021-09-05 | 第9期中環碁聖戦 |  | Yang Zixuan | Lose | B+R | 6.5 | 2686 | -22 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | 2708 | -4 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Chen Yida | Yang Zixuan | Win | W+9.5 | 6.5 | 2712 | 5 | 
@@ -80,8 +80,8 @@
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Lin Shimin | Yang Zixuan | Win | W+R | 7.5 | 2737 | 0 | 
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Li Wei | Yang Zixuan | Win | W+R | 7.5 | 2737 | 30 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lai Junfu | Yang Zixuan | Lose | B+R | 6.5 | 2707 | -9 | 
-| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Xinwei | Yang Zixuan | Win | W+R | 6.5 | 2716 | 11 | 
-| 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Yang Zixuan |  | Lose | W+R | 7.5 | 2705 | 13 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Xinwei | Yang Zixuan | Win | W+R | 6.5 | 2716 | 12 | 
+| 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Yang Zixuan |  | Lose | W+R | 7.5 | 2704 | 12 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Bai Xinhui | Yang Zixuan | Win | W+R | 6.5 | 2692 | -30 | 
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Chen Qirui | Yang Zixuan | Lose | B+R | 7.5 | 2722 | 0 | 
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Yang Zixuan | Yu Lijun | Win | B+R | 7.5 | 2722 | 5 | 

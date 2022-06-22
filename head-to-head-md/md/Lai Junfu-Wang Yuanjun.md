@@ -7,9 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Wang Yuanjun** | **Lai Junfu Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | B+R | 6.5 | 6:12 | 0 | 2 | 
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 6:11 | 0 | 1 | 
-| 2021-10-04 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2021-10-01 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第5局 | Wang Yuanjun | Lai Junfu | W+R | 6.5 | 6:10 | 1 | 0 | 
 | 2021-09-28 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第4局 | Lai Junfu | Wang Yuanjun | W+2.5 | 6.5 | 5:10 | 0 | 1 | 
 | 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | W+R | 6.5 | 5:9 | 1 | 0 | 
@@ -24,10 +23,8 @@
 | 2020-09-18 | 第1期聯電杯プロ囲碁戦決勝七番勝負第1局 | Wang Yuanjun | Lai Junfu | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2020-04-07 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lai Junfu | B+R | 6.5 | 0:3 | 0 | 3 | 
-| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Wang Yuanjun | W+R | 7.5 | 6:12 | 0 | 2 | 
-| 2019-05-30 | 第9期友士杯十段戦敗部準決勝 | Wang Yuanjun | Lai Junfu | W+R | 6.5 | 8:12 | 2 | 0 | 
-| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Lai Junfu | Wang Yuanjun | B+1.5 | 6.5 | 7:12 | 1 | 0 | 
-| 2016-11-04 | 第9期棋王戦（台湾）リーグ | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 8:13 | 0 | 1 |
+| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Wang Yuanjun | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2016-11-04 | 第9期棋王戦（台湾）リーグ | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

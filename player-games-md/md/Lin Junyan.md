@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3101 | 8 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Xu Jingen | Lin Junyan | Lose | B+0.5 | 6.5 | 3093 | -17 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Win | B+R | 6.5 | 3110 | 51 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Liu Yaowen | Lin Junyan | Win | W+R | 6.5 | 3059 | 3 | 
@@ -45,9 +46,9 @@
 | 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3307 | -10 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Junyan |  | Win | B+R | 6.5 | 3317 | -4 | 
 | 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3321 | -6 | 
-| 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Win | B+3.5 | 6.5 | 3327 | 73 | 
-| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Jiehan | Lin Junyan | Win | W+R | 6.5 | 3254 | 57 | 
-| 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | Win | W+R | 6.5 | 3197 | 29 | 
+| 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Win | B+3.5 | 6.5 | 3327 | 72 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Jiehan | Lin Junyan | Win | W+R | 6.5 | 3255 | 57 | 
+| 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | Win | W+R | 6.5 | 3198 | 30 | 
 | 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Lin Junyan | Huang Yunsong | Lose | W+R | 7.5 | 3168 | -4 | 
 | 2021-04-21 | 第26回LG杯台湾予選 | Chen Qirui | Lin Junyan | Lose | B+R | 6.5 | 3172 | -8 | 
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Lin Junyan | Zhao Chenyu | Win | B+¾ | 7.5 | 3180 | 43 | 

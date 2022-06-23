@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Miri vs Park Jiyeon** | **Kim Miri streak** | **Park Jiyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Miri Vs Park Jiyeon** | **Kim Miri Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-23 | 第8回韓国女子囲碁リーグ | Kim Miri | Park Jiyeon | B+R | 6.5 | 4:2 | 4 | 0 | 
 | 2021-07-09 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | W+R | 6.5 | 3:2 | 3 | 0 | 
 | 2021-05-22 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | W+R | 6.5 | 2:2 | 2 | 0 | 
 | 2018-05-20 | 第4回韓国女子囲碁リーグ第18節 | Kim Miri | Park Jiyeon | B+R | 6.5 | 1:2 | 1 | 0 | 

@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Yoda Norimoto** | **Hane Naoki streak** | **Yoda Norimoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Yoda Norimoto** | **Hane Naoki Streak** | **Yoda Norimoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-23 | 第70期王座戦1回戦 | Hane Naoki | Yoda Norimoto | B+0.5 | 6.5 | 8:6 | 2 | 0 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | B+R | 6.5 | 7:6 | 1 | 0 | 
 | 2019-09-12 | 第44期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | W+R | 6.5 | 6:6 | 0 | 2 | 
 | 2017-06-08 | 第42期棋聖戦　Aリーグ4回戦 | Yoda Norimoto | Hane Naoki | B+1.5 | 6.5 | 6:5 | 0 | 1 | 

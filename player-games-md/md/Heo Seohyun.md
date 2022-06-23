@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Oh Jeonga | Win | B+4.5 | 6.5 | 2833 | 5 | 
 | 2022-06-20 | 第45期名人戦（韓国）予選 | Heo Seohyun | Choi Kyeongho | Lose | W+R | 6.5 | 2828 | -23 | 
 | 2022-06-19 | 第8回韓国女子囲碁リーグ | Lee Youngjoo | Heo Seohyun | Lose | B+1.5 | 6.5 | 2851 | -8 | 
 | 2022-06-11 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Eunji | Lose | W+R | 6.5 | 2859 | 0 | 

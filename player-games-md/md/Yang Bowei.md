@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Yang Bowei | Lose | B+0.5 | 6.5 | 2907 | 22 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Lin Yuxiang | Yang Bowei | Win | W+R | 6.5 | 2885 | 9 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Yang Bowei | Xu Jingen | Lose | W+R | 6.5 | 2876 | 67 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Lixiang | Yang Bowei | Win | W+R | 6.5 | 2809 | 0 | 
@@ -18,8 +19,8 @@
 | 2022-02-14 | 第3期名人冠軍戦予選 |  | Yang Bowei | Win | W+R | 6.5 | 3005 | 23 | 
 | 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Lose | W+R | 6.5 | 2982 | -21 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Huang Shiyuan | Yang Bowei | Win | W+R | 6.5 | 3003 | -9 | 
-| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Chen Feng | Yang Bowei | Win | W+1.5 | 6.5 | 3012 | -17 | 
-| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Xu Haohong | Yang Bowei | Lose | B+R | 6.5 | 3029 | 8 | 
+| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Chen Feng | Yang Bowei | Win | W+1.5 | 6.5 | 3012 | -16 | 
+| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Xu Haohong | Yang Bowei | Lose | B+R | 6.5 | 3028 | 7 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Yang Bowei | Liu Yaowen | Win | B+R | 6.5 | 3021 | 7 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Junyan | Lose | W+R | 6.5 | 3014 | 21 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Yang Bowei | Win | W+R | 6.5 | 2993 | 5 | 
@@ -52,8 +53,8 @@
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Liu Yaowen | Yang Bowei | Win | W+R | 6.5 | 2921 | 9 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Yang Bowei | Win | W+R | 6.5 | 2912 | 2 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Yang Bowei | Lin Yuxiang | Win | B+R | 6.5 | 2910 | -37 | 
-| 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Yang Bowei | Lin Junyan | Lose | W+R | 6.5 | 2947 | -30 | 
-| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Lin Junyan | Yang Bowei | Lose | B+R | 6.5 | 2977 | -8 | 
+| 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Yang Bowei | Lin Junyan | Lose | W+R | 6.5 | 2947 | -29 | 
+| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Lin Junyan | Yang Bowei | Lose | B+R | 6.5 | 2976 | -9 | 
 | 2020-06-16 | 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Yang Bowei | Chen Qirui | Lose | W+R | 6.5 | 2985 | 2 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選敗部1回戦 | Lin Lixiang | Yang Bowei | Win | W+R | 6.5 | 2983 | 37 | 
 | 2020-06-10 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lin Yanchen | Yang Bowei | Lose | B+R | 6.5 | 2946 | -29 | 
@@ -66,8 +67,8 @@
 | 2020-03-10 | 第19期天元戦（台湾）敗部4回戦 | Chen Qirui | Yang Bowei | Lose | B+R | 6.5 | 2942 | -13 | 
 | 2020-03-03 | 第19期天元戦（台湾）敗部3回戦 | Yang Bowei | Niu Shite | Win | B+R | 6.5 | 2955 | -2 | 
 | 2020-02-25 | 第19期天元戦（台湾）敗部2回戦 | Xu Yuqi | Yang Bowei | Win | W+R | 6.5 | 2957 | -16 | 
-| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Lai Junfu | Yang Bowei | Lose | B+R | 6.5 | 2973 | -12 | 
-| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Yang Bowei | Win | W+R | 6.5 | 2985 | 3 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Lai Junfu | Yang Bowei | Lose | B+R | 6.5 | 2973 | -11 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Yang Bowei | Win | W+R | 6.5 | 2984 | 2 | 
 | 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Yang Bowei | Liu Chuanting | Win | B+R | 6.5 | 2982 | -21 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 |  | Yang Bowei | Win | W+R | 6.5 | 3003 | missing |
 

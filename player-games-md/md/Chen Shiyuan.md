@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 3044 | 0 | 
+| 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Lose | W+0.5 | 6.5 | 3044 | 24 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3020 | 19 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 3001 | -32 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Lin Yanchen | Win | B+R | 6.5 | 3033 | 0 | 
@@ -30,8 +32,8 @@
 | 2022-02-17 | 第3期名人冠軍戦予選 | Lin Yanchen | Chen Shiyuan | Win | W+R | 6.5 | 3106 | -21 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 3127 | -25 | 
 | 2022-01-25 | 第21期天元戦（台湾）勝部3回戦 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 3152 | 17 | 
-| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lu Yiquan | Win | B+0.5 | 6.5 | 3135 | -2 | 
-| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Chen Xi | Win | B+R | 6.5 | 3137 | 10 | 
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lu Yiquan | Win | B+0.5 | 6.5 | 3135 | -1 | 
+| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Chen Xi | Win | B+R | 6.5 | 3136 | 9 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Lin Xinwei | Chen Shiyuan | Win | W+R | 6.5 | 3127 | 35 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Chen Shiyuan | Bai Xinhui | Win | B+R | 6.5 | 3092 | 49 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Chen Shiyuan | Yang Zixuan | Lose | W+3.5 | 6.5 | 3043 | 70 | 
@@ -84,8 +86,8 @@
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3030 | -14 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Shiyuan | Lose | B+R | 6.5 | 3044 | -22 | 
 | 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Chen Shiyuan | Xu Haohong | Lose | W+1.5 | 6.5 | 3066 | -9 | 
-| 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3075 | -9 | 
-| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 3084 | -23 | 
+| 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3075 | -8 | 
+| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 3083 | -24 | 
 | 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Lu Yiquan | Lose | W+1.5 | 6.5 | 3107 | -27 | 
 | 2020-07-16 | 第1期名人冠軍戦1回戦 | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3134 | 10 | 
 | 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 3124 | 17 | 
@@ -110,12 +112,12 @@
 | 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Win | W+4.5 | 6.5 | 3032 | 0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Chen Shiyuan | Win | W+R | 6.5 | 3032 | 14 | 
 | 2020-03-10 | 第19期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Li Wei | Win | B+2.5 | 6.5 | 3018 | -4 | 
-| 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 3022 | -12 | 
-| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Shiyuan | Lin Shixun | Lose | W+2.5 | 6.5 | 3034 | -4 | 
-| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Cai Wenhe | Chen Shiyuan | Win | W+R | 6.5 | 3038 | -6 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Ding Shaojie | Chen Shiyuan | Win | W+R | 6.5 | 3044 | -20 | 
-| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3064 | 12 | 
-| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Chen Shiyuan | Win | W+0.5 | 6.5 | 3052 | -2 | 
+| 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 3022 | -11 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Shiyuan | Lin Shixun | Lose | W+2.5 | 6.5 | 3033 | -4 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Cai Wenhe | Chen Shiyuan | Win | W+R | 6.5 | 3037 | -6 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Ding Shaojie | Chen Shiyuan | Win | W+R | 6.5 | 3043 | -21 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3064 | 13 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Chen Shiyuan | Win | W+0.5 | 6.5 | 3051 | -3 | 
 | 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Xu Yuqi | Chen Shiyuan | Win | W+R | 6.5 | 3054 | -24 | 
 | 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Lose | W+R | 6.5 | 3078 | 0 | 
 | 2020-01-21 | 2020年日台精鋭交流戦第5戦 | Adachi Toshimasa | Chen Shiyuan | Win | W+3.5 | 6.5 | 3078 | -11 | 

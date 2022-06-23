@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-13 | 2022新人王戦（台湾）予選 | Chen Shoulian | Chen Weiting | Lose | W+R | 7.5 | 2750 | missing |
+| 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lin Shuyang | Lose | W+1.5 | 6.5 | 2775 | 23 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 | Chen Shoulian | Chen Weiting | Lose | W+R | 7.5 | 2752 | missing |
 
 
 

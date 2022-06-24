@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Niu Shite** | **Jian Jingting Streak** | **Niu Shite Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | W+R | 6.5 | 5:2 | 3 | 0 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | B+R | 6.5 | 4:2 | 2 | 0 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Niu Shite | Jian Jingting | W+R | 6.5 | 3:2 | 1 | 0 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 | Niu Shite | Jian Jingting | B+R | 6.5 | 2:2 | 0 | 1 | 

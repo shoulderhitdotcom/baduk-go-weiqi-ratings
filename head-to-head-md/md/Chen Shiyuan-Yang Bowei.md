@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Yang Bowei** | **Chen Shiyuan Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Yang Bowei | Chen Shiyuan | W+R | 6.5 | 7:1 | 5 | 0 | 
 | 2019-03-29 | 第18期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | B+0.5 | 6.5 | 6:1 | 4 | 0 | 
 | 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Yang Bowei | Chen Shiyuan | W+R | 6.5 | 5:1 | 3 | 0 | 
 | 2016-05-03 | 第15期天元戦（台湾）リーグ | Yang Bowei | Chen Shiyuan | W+R | 6.5 | 4:1 | 2 | 0 | 

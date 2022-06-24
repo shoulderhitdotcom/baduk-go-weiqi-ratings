@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Iyama Yuta** | **Fujisawa Rina streak** | **Iyama Yuta streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Iyama Yuta** | **Fujisawa Rina Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | W+R | 6.5 | 0:1 | 0 | 1 |
 

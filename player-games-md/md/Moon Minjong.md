@@ -7,61 +7,61 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-24 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Junghwan | Lose | W+R | 6.5 | 3277 | -4 | 
-| 2022-06-23 | 第45期名人戦（韓国）予選 | Ahn Kukhyun | Moon Minjong | Win | W+0.5 | 6.5 | 3281 | 11 | 
-| 2022-06-20 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Sangjin | Win | B+R | 6.5 | 3270 | -4 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Moon Minjong | Lose | B+R | 6.5 | 3274 | 0 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦  | Moon Minjong | Watanabe Kandai | Lose | W+R | 6.5 | 3274 | -17 | 
-| 2022-04-25 | 第27回LG杯韓国予選 | Moon Minjong | Park Jinsol | Lose | W+R | 6.5 | 3291 | -7 | 
-| 2022-04-22 | 第27回LG杯韓国予選 | Moon Minjong | Kim Eunji | Win | B+R | 6.5 | 3298 | 1 | 
-| 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3297 | -28 | 
-| 2022-04-02 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Moon Minjong | Lose | B+1.5 | 6.5 | 3325 | -4 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3329 | -21 | 
-| 2022-03-18 | 2021-2022韓国囲碁リーグ | Moon Minjong | Choi Jaeyoung | Win | B+R | 6.5 | 3350 | 35 | 
-| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Moon Minjong |  | Win | B+6.5 | 6.5 | 3315 | 2 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Moon Minjong | Lai Junfu | Win | B+T | 6.5 | 3313 | 13 | 
-| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Tu Xiaoyu | Moon Minjong | Win | W+R | 6.5 | 3300 | 36 | 
-| 2022-02-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Moon Minjong | Lose | B+R | 6.5 | 3264 | -7 | 
-| 2022-02-19 | 2021-2022韓国囲碁リーグ | Moon Minjong | Song Jihoon | Lose | W+0.5 | 6.5 | 3271 | -6 | 
-| 2022-02-05 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Moon Minjong | Lose | B+R | 6.5 | 3277 | -25 | 
+| 2022-06-24 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Junghwan | Lose | W+R | 6.5 | 3278 | -4 | 
+| 2022-06-23 | 第45期名人戦（韓国）予選 | Ahn Kukhyun | Moon Minjong | Win | W+0.5 | 6.5 | 3282 | 11 | 
+| 2022-06-20 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Sangjin | Win | B+R | 6.5 | 3271 | -4 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Moon Minjong | Lose | B+R | 6.5 | 3275 | 0 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦  | Moon Minjong | Watanabe Kandai | Lose | W+R | 6.5 | 3275 | -17 | 
+| 2022-04-25 | 第27回LG杯韓国予選 | Moon Minjong | Park Jinsol | Lose | W+R | 6.5 | 3292 | -7 | 
+| 2022-04-22 | 第27回LG杯韓国予選 | Moon Minjong | Kim Eunji | Win | B+R | 6.5 | 3299 | 0 | 
+| 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3299 | -28 | 
+| 2022-04-02 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Moon Minjong | Lose | B+1.5 | 6.5 | 3327 | -3 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3330 | -21 | 
+| 2022-03-18 | 2021-2022韓国囲碁リーグ | Moon Minjong | Choi Jaeyoung | Win | B+R | 6.5 | 3351 | 35 | 
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Moon Minjong |  | Win | B+6.5 | 6.5 | 3316 | 2 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Moon Minjong | Lai Junfu | Win | B+T | 6.5 | 3314 | 13 | 
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Tu Xiaoyu | Moon Minjong | Win | W+R | 6.5 | 3301 | 36 | 
+| 2022-02-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Moon Minjong | Lose | B+R | 6.5 | 3265 | -7 | 
+| 2022-02-19 | 2021-2022韓国囲碁リーグ | Moon Minjong | Song Jihoon | Lose | W+0.5 | 6.5 | 3272 | -6 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Moon Minjong | Lose | B+R | 6.5 | 3278 | -24 | 
 | 2022-01-28 | 2022議政府国際新鋭団体戦韓国予選 | Lee Yeon | Moon Minjong | Win | W+R | 6.5 | 3302 | 4 | 
 | 2022-01-27 | 2022議政府国際新鋭団体戦韓国予選 | Oh Byungwoo | Moon Minjong | Win | W+R | 6.5 | 3298 | 9 | 
 | 2022-01-25 | 2022議政府国際新鋭団体戦韓国予選 | Moon Minjong |  | Win | B+R | 6.5 | 3289 | 22 | 
-| 2022-01-21 | 2021-2022韓国囲碁リーグ | Moon Minjong | Jin Siyoung | Lose | W+R | 6.5 | 3267 | -30 | 
-| 2022-01-14 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3297 | 12 | 
-| 2022-01-08 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Myounghoon | Lose | W+R | 6.5 | 3285 | -9 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Moon Minjong | Win | W+R | 6.5 | 3294 | 20 | 
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Moon Minjong | Jin Siyoung | Lose | W+R | 6.5 | 3267 | -31 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Lose | B+R | 6.5 | 3298 | 12 | 
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Myounghoon | Lose | W+R | 6.5 | 3286 | -9 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Moon Minjong | Win | W+R | 6.5 | 3295 | 21 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Jinhyu | Win | B+4.5 | 6.5 | 3274 | 15 | 
 | 2021-12-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Moon Minjong | Lose | B+R | 6.5 | 3259 | -19 | 
-| 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | Win | B+R | 6.5 | 3278 | 18 | 
-| 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Sangcho | Moon Minjong | Win | W+R | 6.5 | 3260 | 13 | 
-| 2021-11-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Yun Chanhee | Lose | W+R | 6.5 | 3247 | 2 | 
-| 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | Lose | B+R | 6.5 | 3245 | 1 | 
-| 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Lose | W+R | 6.5 | 3244 | 0 | 
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | Win | B+R | 6.5 | 3278 | 17 | 
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Sangcho | Moon Minjong | Win | W+R | 6.5 | 3261 | 13 | 
+| 2021-11-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Yun Chanhee | Lose | W+R | 6.5 | 3248 | 2 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | Lose | B+R | 6.5 | 3246 | 1 | 
+| 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Lose | W+R | 6.5 | 3245 | 1 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Tu Xiaoyu | Moon Minjong | Lose | B+R | 7.5 | 3244 | -10 | 
-| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Lose | W+R | 7.5 | 3254 | -9 | 
-| 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3263 | -8 | 
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Lose | W+R | 7.5 | 3254 | -10 | 
+| 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3264 | -7 | 
 | 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Win | W+R | 6.5 | 3271 | 77 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Jen Youngkyu | Win | B+R | 6.5 | 3194 | -84 | 
 | 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | 3278 | 4 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3274 | -5 | 
-| 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3279 | 1 | 
-| 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3278 | 28 | 
-| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3250 | 0 | 
-| 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+0.5 | 6.5 | 3250 | 25 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3225 | 0 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3225 | 0 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3225 | -9 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3234 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3234 | -21 | 
-| 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3255 | -12 | 
-| 2021-05-18 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Moon Minjong | Lee Yeon | Win | B+R | 6.5 | 3267 | 7 | 
-| 2021-05-17 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Lee Yeon | Moon Minjong | Win | W+2.5 | 6.5 | 3260 | 28 | 
-| 2021-05-10 | 第9回河燦錫国手杯英才最強戦準決勝 | Moon Minjong | Han Woojin | Win | B+R | 6.5 | 3232 | 16 | 
-| 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Lose | B+4.5 | 6.5 | 3216 | -4 | 
-| 2021-04-29 | 第9回河燦錫国手杯英才最強戦3回戦 | Moon Minjong |  | Win | B+R | 6.5 | 3220 | -15 | 
-| 2021-04-08 | 第9回河燦錫国手杯英才最強戦2回戦 | Moon Minjong |  | Win | B+R | 6.5 | 3235 | 27 | 
-| 2021-04-06 | 第6回未来の星新鋭最強戦決勝 | Moon Minjong | Hyun Yoobin | Win | B+R | 6.5 | 3208 | -6 | 
+| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3274 | -6 | 
+| 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3280 | 1 | 
+| 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3279 | 28 | 
+| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3251 | 0 | 
+| 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+0.5 | 6.5 | 3251 | 25 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3226 | 0 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3226 | 0 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | -9 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | -20 | 
+| 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3255 | -13 | 
+| 2021-05-18 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Moon Minjong | Lee Yeon | Win | B+R | 6.5 | 3268 | 7 | 
+| 2021-05-17 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Lee Yeon | Moon Minjong | Win | W+2.5 | 6.5 | 3261 | 28 | 
+| 2021-05-10 | 第9回河燦錫国手杯英才最強戦準決勝 | Moon Minjong | Han Woojin | Win | B+R | 6.5 | 3233 | 16 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Lose | B+4.5 | 6.5 | 3217 | -4 | 
+| 2021-04-29 | 第9回河燦錫国手杯英才最強戦3回戦 | Moon Minjong |  | Win | B+R | 6.5 | 3221 | -15 | 
+| 2021-04-08 | 第9回河燦錫国手杯英才最強戦2回戦 | Moon Minjong |  | Win | B+R | 6.5 | 3236 | 27 | 
+| 2021-04-06 | 第6回未来の星新鋭最強戦決勝 | Moon Minjong | Hyun Yoobin | Win | B+R | 6.5 | 3209 | -5 | 
 | 2021-03-25 | 第6回未来の星新鋭最強戦準決勝 | Moon Minjong | Oh Byungwoo | Win | B+R | 6.5 | 3214 | 8 | 
 | 2021-03-15 | 第6回未来の星新鋭最強戦3回戦 | Gueon Hyojin | Moon Minjong | Win | W+R | 6.5 | 3206 | 4 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Lee Changseok | Moon Minjong | Lose | B+R | 6.5 | 3202 | -13 | 
@@ -69,9 +69,9 @@
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Moon Minjong | An Jungki | Lose | W+R | 6.5 | 3192 | -7 | 
 | 2021-01-31 | 2020-2021韓国囲碁リーグ | Choi Jeong | Moon Minjong | Lose | B+R | 6.5 | 3199 | -7 | 
 | 2021-01-29 | 第4期韓国竜星戦予選 | Heo Yongho | Moon Minjong | Lose | B+R | 6.5 | 3206 | 1 | 
-| 2021-01-23 | 2020-2021韓国囲碁リーグ | Moon Minjong | Gon Jiwoo | Lose | W+0.5 | 6.5 | 3205 | -24 | 
-| 2021-01-16 | 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | Lose | B+R | 6.5 | 3229 | -30 | 
-| 2021-01-10 | 2020-2021韓国囲碁リーグ | Byun Sangil | Moon Minjong | Lose | B+2.5 | 6.5 | 3259 | 6 | 
+| 2021-01-23 | 2020-2021韓国囲碁リーグ | Moon Minjong | Gon Jiwoo | Lose | W+0.5 | 6.5 | 3205 | -25 | 
+| 2021-01-16 | 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | Lose | B+R | 6.5 | 3230 | -30 | 
+| 2021-01-10 | 2020-2021韓国囲碁リーグ | Byun Sangil | Moon Minjong | Lose | B+2.5 | 6.5 | 3260 | 7 | 
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Moon Minjong | Park Junghwan | Win | B+1.5 | 6.5 | 3253 | 38 | 
 | 2020-12-30 | 第4回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Moon Minjong | Lose | B+3.5 | 6.5 | 3215 | -30 | 
 | 2020-12-26 | 2020-2021韓国囲碁リーグ | Shin Minjun | Moon Minjong | Lose | B+R | 6.5 | 3245 | 24 | 

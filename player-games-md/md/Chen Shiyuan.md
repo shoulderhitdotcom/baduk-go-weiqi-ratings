@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Yang Bowei | Chen Shiyuan | Win | W+R | 6.5 | 3031 | -13 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 3044 | 0 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Lose | W+0.5 | 6.5 | 3044 | 24 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3020 | 19 | 

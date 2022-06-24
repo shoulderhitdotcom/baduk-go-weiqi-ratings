@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Junghwan | Lose | W+R | 6.5 | 3277 | -4 | 
 | 2022-06-23 | 第45期名人戦（韓国）予選 | Ahn Kukhyun | Moon Minjong | Win | W+0.5 | 6.5 | 3281 | 11 | 
 | 2022-06-20 | 第45期名人戦（韓国）予選 | Moon Minjong | Park Sangjin | Win | B+R | 6.5 | 3270 | -4 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Moon Minjong | Lose | B+R | 6.5 | 3274 | 0 | 

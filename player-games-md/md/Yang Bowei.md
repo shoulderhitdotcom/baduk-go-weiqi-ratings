@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Yang Bowei | Chen Shiyuan | Lose | W+R | 6.5 | 2820 | -87 | 
+| 2022-06-23 | 第15期棋王戦（台湾）予選 | Yang Bowei |  | Lose | W+0.5 | 6.5 | 2907 | 0 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Yang Bowei | Lose | B+0.5 | 6.5 | 2907 | 22 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Lin Yuxiang | Yang Bowei | Win | W+R | 6.5 | 2885 | 9 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Yang Bowei | Xu Jingen | Lose | W+R | 6.5 | 2876 | 67 | 

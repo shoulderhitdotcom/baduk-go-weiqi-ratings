@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-24 | 第27回GSカルテックス杯プロ棋戦2回戦 | Cho Wankyu | Kim Jiseok | Lose | B+R | 6.5 | 3517 | -13 | 
 | 2022-06-23 | 第45期名人戦（韓国）予選 | Kim Jiseok | Lee Hobum | Win | B+R | 6.5 | 3530 | 2 | 
 | 2022-06-10 | 第8回国手山脈国際囲碁大会韓国予選 | Kim Jiseok | Park Geunho | Win | B+R | 6.5 | 3528 | 21 | 
 | 2022-06-03 | 第5期韓国竜星戦3回戦 | Kang Dongyun | Kim Jiseok | Lose | B+R | 6.5 | 3507 | 7 | 

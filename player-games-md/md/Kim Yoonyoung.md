@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-17 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Jeonga | Win | B+R | 6.5 | 2856 | 51 | 
-| 2022-06-09 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Eunseon | Win | B+R | 6.5 | 2805 | 55 | 
-| 2022-06-03 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung |  | Win | B+R | 6.5 | 2750 | 54 | 
-| 2022-05-27 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Nokyeong | Win | B+R | 6.5 | 2696 | 6 | 
-| 2022-04-11 | 第5回呉清源杯韓国予選 | Kim Yoonyoung | Oh Jeonga | Lose | W+2¼ | 7.5 | 2690 | 13 | 
-| 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Yoonyoung | Seo Nungwuk | Lose | W+7.5 | 6.5 | 2677 | -171 | 
-| 2021-08-03 | 第15回GGオークション杯女流対シニア連勝対抗戦第4局 | Seo Musang | Kim Yoonyoung | Lose | B+2.5 | 6.5 | 2848 | -2 | 
-| 2021-08-02 | 第15回GGオークション杯女流対シニア連勝対抗戦第3局 |  | Kim Yoonyoung | Win | W+9.5 | 6.5 | 2850 | -40 | 
+| 2022-06-25 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Yoonyoung | Lose | B+R | 6.5 | 2925 | 68 | 
+| 2022-06-17 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Jeonga | Win | B+R | 6.5 | 2857 | 51 | 
+| 2022-06-09 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Eunseon | Win | B+R | 6.5 | 2806 | 55 | 
+| 2022-06-03 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung |  | Win | B+R | 6.5 | 2751 | 54 | 
+| 2022-05-27 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Nokyeong | Win | B+R | 6.5 | 2697 | 6 | 
+| 2022-04-11 | 第5回呉清源杯韓国予選 | Kim Yoonyoung | Oh Jeonga | Lose | W+2¼ | 7.5 | 2691 | 13 | 
+| 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Yoonyoung | Seo Nungwuk | Lose | W+7.5 | 6.5 | 2678 | -171 | 
+| 2021-08-03 | 第15回GGオークション杯女流対シニア連勝対抗戦第4局 | Seo Musang | Kim Yoonyoung | Lose | B+2.5 | 6.5 | 2849 | -2 | 
+| 2021-08-02 | 第15回GGオークション杯女流対シニア連勝対抗戦第3局 |  | Kim Yoonyoung | Win | W+9.5 | 6.5 | 2851 | -39 | 
 | 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Win | W+R | 6.5 | 2890 | 164 | 
-| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Win | W+R | 6.5 | 2726 | 115 | 
-| 2021-07-14 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunseon | Kim Yoonyoung | Lose | B+R | 6.5 | 2611 | missing |
+| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Win | W+R | 6.5 | 2726 | 114 | 
+| 2021-07-14 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunseon | Kim Yoonyoung | Lose | B+R | 6.5 | 2612 | missing |
 
 
 

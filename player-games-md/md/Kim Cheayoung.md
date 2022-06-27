@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-26 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Lee Youngjoo | Lose | W+3.5 | 6.5 | 2884 | -7 | 
 | 2022-06-24 | 第45期名人戦（韓国）予選 | Kim Cheayoung | Shen Zaiyi | Lose | W+2.5 | 6.5 | 2891 | 10 | 
 | 2022-06-16 | 第8回韓国女子囲碁リーグ |  | Kim Cheayoung | Win | W+R | 6.5 | 2881 | -1 | 
 | 2022-06-11 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2882 | 9 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Seungmin vs Oh Yujin** | **Kang Seungmin streak** | **Oh Yujin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Seungmin Vs Oh Yujin** | **Kang Seungmin Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-09-15 | 2013年楽スターリーグ | Oh Yujin | Kang Seungmin | W+R | 6.5 | 1:0 | 1 | 0 |
 

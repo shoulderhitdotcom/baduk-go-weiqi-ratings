@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-27 | 第7回扇興杯女流最強戦2回戦  |  | Fujisawa Rina | Win | W+R | 6.5 | 3201 | 0 | 
 | 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3201 | 4 | 
 | 2022-06-20 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3197 | 9 | 
 | 2022-06-18 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3188 | -39 | 

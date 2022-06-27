@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Win | B+R | 6.5 | 3366 | 4 | 
 | 2022-06-26 | 第45期名人戦（韓国）予選 | Kang Seungmin | Lee Wonyoung | Win | B+R | 6.5 | 3362 | 17 | 
 | 2022-05-12 | 2021-2022韓国囲碁リーグ優勝決定戦第4戦 | Na Hyun | Kang Seungmin | Lose | B+R | 6.5 | 3345 | -10 | 
 | 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Park Junghwan | Kang Seungmin | Win | W+R | 6.5 | 3355 | 27 | 

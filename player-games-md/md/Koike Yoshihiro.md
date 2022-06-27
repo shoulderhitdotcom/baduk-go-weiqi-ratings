@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-23 | 第78期本因坊戦予選 | Koike Yoshihiro | Cho U | Lose | W+R | 6.5 | 3101 | 40 | 
-| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Lose | B+R | 6.5 | 3061 | 11 | 
-| 2022-05-26 | 第70期王座戦1回戦 | Koike Yoshihiro | Anzai Nobuaki | Lose | W+R | 6.5 | 3050 | -50 | 
-| 2022-05-23 | 第47期新人王戦2回戦 |  | Koike Yoshihiro | Win | W+R | 6.5 | 3100 | 33 | 
-| 2022-05-02 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Koike Yoshihiro | Seto Taiki | Win | B+R | 6.5 | 3067 | 162 | 
-| 2022-03-17 | 第70期王座戦予選 | Koike Yoshihiro | Takao Shinji | Win | B+R | 6.5 | 2905 | 216 | 
-| 2022-03-10 | 第47期新人王戦1回戦 | Koike Yoshihiro |  | Win | B+5.5 | 6.5 | 2689 | 3 | 
+| 2022-06-27 | 第47期新人王戦3回戦 | Oomote Takuto | Koike Yoshihiro | Win | W+R | 6.5 | 3133 | 31 | 
+| 2022-06-23 | 第78期本因坊戦予選 | Koike Yoshihiro | Cho U | Lose | W+R | 6.5 | 3102 | 40 | 
+| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Lose | B+R | 6.5 | 3062 | 11 | 
+| 2022-05-26 | 第70期王座戦1回戦 | Koike Yoshihiro | Anzai Nobuaki | Lose | W+R | 6.5 | 3051 | -50 | 
+| 2022-05-23 | 第47期新人王戦2回戦 |  | Koike Yoshihiro | Win | W+R | 6.5 | 3101 | 32 | 
+| 2022-05-02 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Koike Yoshihiro | Seto Taiki | Win | B+R | 6.5 | 3069 | 163 | 
+| 2022-03-17 | 第70期王座戦予選 | Koike Yoshihiro | Takao Shinji | Win | B+R | 6.5 | 2906 | 216 | 
+| 2022-03-10 | 第47期新人王戦1回戦 | Koike Yoshihiro |  | Win | B+5.5 | 6.5 | 2690 | 4 | 
 | 2021-10-21 | 第47期名人戦予選 | Ida Atsushi | Koike Yoshihiro | Lose | B+R | 6.5 | 2686 | 121 | 
 | 2021-09-02 | 第77期本因坊戦予選 | Koike Yoshihiro | Motoki Katsuya | Lose | W+R | 6.5 | 2565 | -11 | 
 | 2021-06-17 | 第60期十段戦予選 | Koike Yoshihiro | Ko Iso | Lose | W+R | 6.5 | 2576 | 268 | 

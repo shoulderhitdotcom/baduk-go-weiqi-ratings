@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Sedong vs Park Jinyoung** | **Kim Sedong streak** | **Park Jinyoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Sedong Vs Park Jinyoung** | **Kim Sedong Streak** | **Park Jinyoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | B+R | 6.5 | 1:0 | 1 | 0 |
 

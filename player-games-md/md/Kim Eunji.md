@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Lose | B+11.5 | 6.5 | 3127 | -20 | 
 | 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Lose | B+R | 6.5 | 3147 | -39 | 
 | 2022-06-24 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Kim Eunji | Lose | B+3.5 | 6.5 | 3186 | 4 | 
 | 2022-06-22 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunji | Gueon Hyojin | Win | B+3.5 | 6.5 | 3182 | 1 | 

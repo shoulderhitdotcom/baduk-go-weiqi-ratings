@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lin Lixiang** | **Lai Junfu Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Lai Junfu | W+R | 6.5 | 6:5 | 3 | 0 | 
 | 2022-04-19 | 第27回LG杯台湾予選 | Lai Junfu | Lin Lixiang | B+R | 6.5 | 5:5 | 2 | 0 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | W+1 | 7.5 | 4:5 | 1 | 0 | 
 | 2021-04-30 | 第17期国手戦（台湾）挑戦者決定戦 | Lin Lixiang | Lai Junfu | B+R | 6.5 | 3:5 | 0 | 1 | 

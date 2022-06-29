@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lin Shixun** | **Chen Shiyuan Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29 | 第3期聯電杯プロ囲碁戦敗部4回戦 | Chen Shiyuan | Lin Shixun | B+R | 6.5 | 4:7 | 1 | 0 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | W+R | 6.5 | 3:7 | 0 | 2 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Chen Shiyuan | Lin Shixun | W+R | 7.5 | 3:6 | 0 | 1 | 
 | 2020-09-24 | 第13期棋王戦（台湾）予選 | Lin Shixun | Chen Shiyuan | W+R | 6.5 | 3:5 | 1 | 0 | 

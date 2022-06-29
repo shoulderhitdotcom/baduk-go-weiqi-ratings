@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第25回LG杯韓国予選 | Seo Joonghui | Lee Changho | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWgtmbm7hJy3e0XwBfVbSw%3D%3D) | 
 | 第25回LG杯韓国予選 | Seo Joonghui | Lee Yungsoo | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FoVMVApB3Fbv2U18gDgkjQ%3D%3D) | 

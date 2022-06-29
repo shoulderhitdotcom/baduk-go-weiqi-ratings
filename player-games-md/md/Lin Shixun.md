@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29 | 第3期聯電杯プロ囲碁戦敗部4回戦 | Chen Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 3091 | -18 | 
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 | Chen Weiting | Lin Shixun | Win | W+R | 7.5 | 3109 | 19 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Lin Shixun | Li Wei | Lose | W+R | 6.5 | 3090 | -9 | 
 | 2022-06-16 | 第15期棋王戦（台湾）予選 | Lin Yanchen | Lin Shixun | Win | W+R | 6.5 | 3099 | 0 | 

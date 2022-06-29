@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29 | 2022YK建機杯リーグ | Han Woojin | Shin Jinseo | Win | W+R | 6.5 | 3837 | 0 | 
 | 2022-06-27 | 2022YK建機杯リーグ | Shin Jinseo | Kang Dongyun | Win | B+R | 6.5 | 3837 | 0 | 
 | 2022-06-23 | 第5期韓国竜星戦準決勝 | Shin Jinseo | Kim Myounghoon | Win | B+R | 6.5 | 3837 | 1 | 
 | 2022-06-16 | 第27回GSカルテックス杯プロ棋戦2回戦 | Han Sanghoon | Shin Jinseo | Win | W+R | 6.5 | 3836 | 0 | 

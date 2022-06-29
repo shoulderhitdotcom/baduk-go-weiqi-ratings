@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3302 | -13 | 
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3315 | 2 | 
 | 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3313 | 24 | 
 | 2022-06-20 | 2022新人王戦（台湾）1回戦 | Lin Yanchen | Chen Qirui | Win | W+R | 7.5 | 3289 | 7 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cao Youyin vs Kim Cheayoung** | **Cao Youyin streak** | **Kim Cheayoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Youyin Vs Kim Cheayoung** | **Cao Youyin Streak** | **Kim Cheayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-09-13 | 第5回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Kim Cheayoung | W+R | 7.5 | 2:1 | 0 | 1 | 
 | 2016-05-28 | 第1回新奥杯世界囲碁オープン戦予選 | Kim Cheayoung | Cao Youyin | W+R | 7.5 | 2:0 | 2 | 0 | 

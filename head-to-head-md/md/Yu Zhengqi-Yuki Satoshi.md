@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yu Zhengqi vs Yuki Satoshi** | **Yu Zhengqi streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yu Zhengqi Vs Yuki Satoshi** | **Yu Zhengqi Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-11-02 | 第43期名人戦予選 | Yu Zhengqi | Yuki Satoshi | B+R | 6.5 | 4:3 | 4 | 0 | 
 | 2017-10-05 | 第61期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yuki Satoshi | B+1.5 | 6.5 | 3:3 | 3 | 0 | 

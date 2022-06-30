@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mizokami Tomochika vs Yuki Satoshi** | **Mizokami Tomochika streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mizokami Tomochika Vs Yuki Satoshi** | **Mizokami Tomochika Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-05-19 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yuki Satoshi | B+R | 6.5 | 2:5 | 1 | 0 | 
 | 2015-08-20 | 第40期棋聖戦Aリーグ | Mizokami Tomochika | Yuki Satoshi | W+R | 6.5 | 1:5 | 0 | 3 | 

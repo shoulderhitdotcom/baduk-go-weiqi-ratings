@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Wei vs Yu Zhengqi** | **Li Wei streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Yu Zhengqi** | **Li Wei Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-04-17 | 日台交流戦第2戦 | Yu Zhengqi | Li Wei | B+R | 6.5 | 0:1 | 0 | 1 |
 

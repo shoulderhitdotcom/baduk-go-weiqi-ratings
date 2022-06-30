@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Yuki Satoshi** | **Murakawa Daisuke streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Yuki Satoshi** | **Murakawa Daisuke Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-06-21 | 第62期関西棋院第一位決定戦本戦準々決勝 | Yuki Satoshi | Murakawa Daisuke | B+R | 6.5 | 6:5 | 0 | 4 | 
 | 2017-01-29 | 第64回NHK杯3回戦第8局 | Yuki Satoshi | Murakawa Daisuke | B+R | 6.5 | 6:4 | 0 | 3 | 

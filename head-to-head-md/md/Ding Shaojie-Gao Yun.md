@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Shaojie vs Gao Yun** | **Ding Shaojie streak** | **Gao Yun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shaojie Vs Gao Yun** | **Ding Shaojie Streak** | **Gao Yun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Ding Shaojie | Gao Yun | W+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mizokami Tomochika vs Murakawa Daisuke** | **Mizokami Tomochika streak** | **Murakawa Daisuke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mizokami Tomochika Vs Murakawa Daisuke** | **Mizokami Tomochika Streak** | **Murakawa Daisuke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-08-01 | 第38期名人戦リーグ | Murakawa Daisuke | Mizokami Tomochika | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2013-05-16 | 第38期棋聖戦Bリーグ | Mizokami Tomochika | Murakawa Daisuke | W+R | 6.5 | 1:1 | 0 | 1 | 

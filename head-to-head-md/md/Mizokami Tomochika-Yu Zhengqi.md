@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mizokami Tomochika vs Yu Zhengqi** | **Mizokami Tomochika streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mizokami Tomochika Vs Yu Zhengqi** | **Mizokami Tomochika Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-02-25 | 第41期碁聖戦本戦2回戦 | Yu Zhengqi | Mizokami Tomochika | B+R | 6.5 | 0:1 | 0 | 1 |
 

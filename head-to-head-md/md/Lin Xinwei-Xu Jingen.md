@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Xinwei vs Xu Jingen** | **Lin Xinwei streak** | **Xu Jingen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Xinwei Vs Xu Jingen** | **Lin Xinwei Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-02-25 | 第2期名人冠軍戦予選 | Lin Xinwei | Xu Jingen | B+R | 6.5 | 1:0 | 1 | 0 |
+| 2022-06-30 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Xu Jingen | W+T | 6.5 | 0:1 | 0 | 1 |
 
 
 

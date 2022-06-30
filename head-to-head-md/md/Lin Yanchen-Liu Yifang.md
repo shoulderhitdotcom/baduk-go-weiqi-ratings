@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Yanchen Vs Liu Yifang** | **Lin Yanchen Streak** | **Liu Yifang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-30 | 第15期棋王戦（台湾）予選 | Liu Yifang | Lin Yanchen | W+R | 6.5 | 2:0 | 2 | 0 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Liu Yifang | Lin Yanchen | W+R | 6.5 | 1:0 | 1 | 0 |
 
 

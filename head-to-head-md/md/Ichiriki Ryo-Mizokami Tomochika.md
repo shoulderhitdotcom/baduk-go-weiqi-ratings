@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Mizokami Tomochika** | **Ichiriki Ryo streak** | **Mizokami Tomochika streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Mizokami Tomochika** | **Ichiriki Ryo Streak** | **Mizokami Tomochika Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-04-16 | 第40期棋聖戦Aリーグ | Ichiriki Ryo | Mizokami Tomochika | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2014-11-06 | 第53期十段戦2回戦 | Mizokami Tomochika | Ichiriki Ryo | W+R | 6.5 | 2:0 | 2 | 0 | 

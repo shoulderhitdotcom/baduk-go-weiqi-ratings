@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-30 | 第8回国手山脈国際囲碁大会韓国予選 | Oh Yujin |  | Win | B+R | 6.5 | 3163 | -1 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会韓国予選 | Choi Jaeyoung | Oh Yujin | Win | W+2.5 | 6.5 | 3164 | 2 | 
 | 2022-06-26 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Soojin | Win | B+6.5 | 6.5 | 3162 | 15 | 
 | 2022-06-19 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Oh Yujin | Win | W+R | 6.5 | 3147 | 2 | 

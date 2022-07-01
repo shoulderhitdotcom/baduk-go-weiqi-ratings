@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Motoki Katsuya Vs Yamashita Keigo** | **Motoki Katsuya Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-30 | 第47期名人戦リーグ  | Yamashita Keigo | Motoki Katsuya | B+1.5 | 6.5 | 3:8 | 0 | 3 | 
 | 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | W+R | 6.5 | 3:7 | 0 | 2 | 
 | 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | W+R | 6.5 | 3:6 | 0 | 1 | 
 | 2019-01-17 | 第45期天元戦1回戦 | Motoki Katsuya | Yamashita Keigo | B+1.5 | 6.5 | 3:5 | 1 | 0 | 

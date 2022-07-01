@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mizokami Tomochika vs Yamashita Keigo** | **Mizokami Tomochika streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mizokami Tomochika Vs Yamashita Keigo** | **Mizokami Tomochika Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | W+R | 6.5 | 1:4 | 0 | 2 | 
 | 2010-12-09 | 第36期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | W+4.5 | 6.5 | 1:3 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-01 | 2022YK建機杯リーグ | Lee Jihyun | Kim Eunji | Lose | B+R | 6.5 | 3128 | -4 | 
 | 2022-06-30 | 第8回韓国女子囲碁リーグ | Kim Eunji | Kim Miri | Win | B+R | 6.5 | 3132 | 4 | 
 | 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Lose | B+11.5 | 6.5 | 3128 | -20 | 
 | 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Lose | B+R | 6.5 | 3148 | -39 | 

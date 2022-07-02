@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fang Ruoxi Vs Li He** | **Fang Ruoxi Streak** | **Li He Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-02 | 第2回天台山杯全国女子囲碁オープン戦 | Li He | Fang Ruoxi | W+R | 7.5 | 6:5 | 2 | 0 | 
 | 2022-03-22 | 第5回呉清源杯中国予選 | Fang Ruoxi | Li He | B+¾ | 7.5 | 5:5 | 1 | 0 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Fang Ruoxi | Li He | W+R | 7.5 | 4:5 | 0 | 2 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Fang Ruoxi | Li He | W+R | 6.5 | 4:4 | 0 | 1 | 

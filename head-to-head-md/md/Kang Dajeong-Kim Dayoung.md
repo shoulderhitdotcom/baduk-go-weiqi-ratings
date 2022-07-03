@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dajeong vs Kim Dayoung** | **Kang Dajeong streak** | **Kim Dayoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dajeong Vs Kim Dayoung** | **Kang Dajeong Streak** | **Kim Dayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-09 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Dayoung | Kang Dajeong | B+R | 6.5 | 2:4 | 0 | 1 | 
 | 2019-05-27 | 第5回韓国女子囲碁リーグ第3節第1試合第2局 | Kang Dajeong | Kim Dayoung | B+0.5 | 6.5 | 2:3 | 1 | 0 | 

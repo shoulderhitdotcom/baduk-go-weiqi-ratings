@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-The ratings are based on 4558 games from 2021-07-03 to 2022-07-02.
+The ratings are based on 4561 games from 2021-07-03 to 2022-07-02.
 
 ### Quicklinks
 
@@ -99,26 +99,26 @@ The ratings are based on 4558 games from 2021-07-03 to 2022-07-02.
 | 75 | [Han Sanghoon](./player-games-md/md/Han Sanghoon.md) | 3336 | 31 | KOR | Male | 34.2 | 韓尚勲 | 
 | 76 | [Chen Xian](./player-games-md/md/Chen Xian.md) | 3335 | 27 | CHN | Male | 25.2 | 陳賢 | 
 | 77 | [Choi Jaeyoung](./player-games-md/md/Choi Jaeyoung.md) | 3331 | 26 | KOR | Male | 25.2 | 崔宰栄 | 
-| 78 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3331 | 25 | KOR | Male | 26.4 | 金眞輝 | 
-| 79 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3330 | 28 | JPN | Male | 43.8 | 山下敬吾 | 
-| 80 | [Park Sangjin](./player-games-md/md/Park Sangjin.md) | 3327 | 32 |  | Unknown | 21.1 | 朴常鎭 | 
-| 81 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3326 | 93 | KOR | Female | 25.8 | 崔精 | 
+| 78 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3331 | 25 | KOR | Male | 26.5 | 金眞輝 | 
+| 79 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3330 | 28 | JPN | Male | 43.9 | 山下敬吾 | 
+| 80 | [Park Sangjin](./player-games-md/md/Park Sangjin.md) | 3328 | 32 |  | Unknown | 21.1 | 朴常鎭 | 
+| 81 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3327 | 94 | KOR | Female | 25.8 | 崔精 | 
 | 82 | [Ryu Minhyung](./player-games-md/md/Ryu Minhyung.md) | 3321 | 37 | KOR | Male | 30.8 | 柳珉瀅 | 
 | 83 | [Yun Chanhee](./player-games-md/md/Yun Chanhee.md) | 3319 | 39 | KOR | Male | 32.2 | 尹燦熙 | 
 | 84 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3315 | 25 | KOR | Male | 34.9 | 李映九 | 
 | 85 | [Wu Guangya](./player-games-md/md/Wu Guangya.md) | 3307 | 13 | CHN | Male | 31.9 | 鄔光亜 | 
 | 86 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3301 | 23 | CHN | Male | 28.0 | 陶欣然 | 
 | 87 | [Chen Qirui](./player-games-md/md/Chen Qirui.md) | 3299 | 49 | TWN | Male | 22.1 | 陳祈睿 | 
-| 88 | [Lee Wondo](./player-games-md/md/Lee Wondo.md) | 3299 | 28 | KOR | Male | 33.1 | 李元道 | 
+| 88 | [Lee Wondo](./player-games-md/md/Lee Wondo.md) | 3298 | 28 | KOR | Male | 33.1 | 李元道 | 
 | 89 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3292 | 42 | missing | missing | missing | 文敏鍾 | 
 | 90 | [Na Hyun](./player-games-md/md/Na Hyun.md) | 3289 | 21 | KOR | Male | 27.4 | 羅玄 | 
 | 91 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3289 | 16 | JPN | Male | 20.6 | 大竹優 | 
 | 92 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3285 | 16 | JPN | Male | 31.6 | 志田達哉 | 
 | 93 | [Cho Hanseung](./player-games-md/md/Cho Hanseung.md) | 3280 | 46 | KOR | Male | 39.6 | 趙漢乗 | 
 | 94 | [Lai Junfu](./player-games-md/md/Lai Junfu.md) | 3279 | 53 | TWN | Male | 20.2 | 賴均輔 | 
-| 95 | [Lee Changho](./player-games-md/md/Lee Changho.md) | 3272 | 41 | KOR | Male | 47.0 | 李昌鎬 | 
-| 96 | [Lee Yeon](./player-games-md/md/Lee Yeon.md) | 3272 | 13 | missing | missing | missing | 李沇 | 
-| 97 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3272 | 14 | missing | missing | missing | 傅健恒 | 
+| 95 | [Lee Yeon](./player-games-md/md/Lee Yeon.md) | 3275 | 13 | missing | missing | missing | 李沇 | 
+| 96 | [Lee Changho](./player-games-md/md/Lee Changho.md) | 3272 | 41 | KOR | Male | 47.0 | 李昌鎬 | 
+| 97 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3271 | 14 | missing | missing | missing | 傅健恒 | 
 | 98 | [Lee Wonyoung](./player-games-md/md/Lee Wonyoung.md) | 3266 | 26 | KOR | Male | 30.2 | 李元栄 | 
 | 99 | [Kang Jihoon](./player-games-md/md/Kang Jihoon.md) | 3265 | 25 | KOR | Male | missing | 姜知勲 | 
 | 100 | [Fukuoka Kotaro](./player-games-md/md/Fukuoka Kotaro.md) | 3263 | 14 | missing | missing | missing | 福岡航太朗 |
@@ -138,7 +138,7 @@ Note that players with fewer than 13 games are not in the list
 | **Rank** | **Name** | **Rating** | **Games Played** | **Region** | **Sex** | **Age** | **Hanzi (汉字) Name** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 101 | [Kono Rin](./player-games-md/md/Kono Rin.md) | 3261 | 18 | JPN | Male | 41.5 | 河野臨 | 
-| 102 | [Jin Siyoung](./player-games-md/md/Jin Siyoung.md) | 3260 | 21 | KOR | Male | 32.8 | 陳時暎 | 
+| 102 | [Jin Siyoung](./player-games-md/md/Jin Siyoung.md) | 3259 | 21 | KOR | Male | 32.8 | 陳時暎 | 
 | 103 | [Yu Zhiying](./player-games-md/md/Yu Zhiying.md) | 3258 | 43 | CHN | Female | 24.6 | 於之瑩 | 
 | 104 | [Zhou Ruiyang](./player-games-md/md/Zhou Ruiyang.md) | 3254 | 14 | CHN | Male | 31.3 | 周睿羊 | 
 | 105 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3246 | 25 | JPN | Male | 26.9 | 本木克弥 | 
@@ -152,15 +152,15 @@ Note that players with fewer than 13 games are not in the list
 | 113 | [Hane Naoki](./player-games-md/md/Hane Naoki.md) | 3235 | 25 | JPN | Male | 45.9 | 羽根直樹 | 
 | 114 | [Kim Sonjin](./player-games-md/md/Kim Sonjin.md) | 3228 | 18 | KOR | Male | 32.9 | 金成進 | 
 | 115 | [Xia Chenkun](./player-games-md/md/Xia Chenkun.md) | 3228 | 15 | CHN | Male | 27.7 | 夏晨琨 | 
-| 116 | [Yoo Ohseong](./player-games-md/md/Yoo Ohseong.md) | 3226 | 24 | missing | missing | missing | 兪旿成 | 
+| 116 | [Yoo Ohseong](./player-games-md/md/Yoo Ohseong.md) | 3225 | 24 | missing | missing | missing | 兪旿成 | 
 | 117 | [Hyun Yoobin](./player-games-md/md/Hyun Yoobin.md) | 3217 | 26 |  | Unknown | missing | 玄釉斌 | 
 | 118 | [Lee Sanghun](./player-games-md/md/Lee Sanghun.md) | 3213 | 20 | KOR | Male | missing | 李尚憲 | 
 | 119 | [Lee Taehyun](./player-games-md/md/Lee Taehyun.md) | 3212 | 14 | KOR | Male | 32.5 | 李泰賢 | 
 | 120 | [Kwak Wonkeun](./player-games-md/md/Kwak Wonkeun.md) | 3211 | 18 | missing | missing | missing | 郭圓根 | 
 | 121 | [Ahn Kukhyun](./player-games-md/md/Ahn Kukhyun.md) | 3210 | 24 | KOR | Male | 30.0 | 安国鉉 | 
 | 122 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3208 | 13 | JPN | Male | 26.4 | 孫喆 | 
-| 123 | [Seki Kotaro](./player-games-md/md/Seki Kotaro.md) | 3204 | 18 | missing | missing | missing | 関航太郎 | 
-| 124 | [Shin Jaeweon](./player-games-md/md/Shin Jaeweon.md) | 3204 | 25 | missing | missing | missing | 申載元 | 
+| 123 | [Shin Jaeweon](./player-games-md/md/Shin Jaeweon.md) | 3205 | 25 | missing | missing | missing | 申載元 | 
+| 124 | [Seki Kotaro](./player-games-md/md/Seki Kotaro.md) | 3204 | 18 | missing | missing | missing | 関航太郎 | 
 | 125 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3198 | 17 | KOR | Male | 34.4 | 金炯佑 | 
 | 126 | [Fujisawa Rina](./player-games-md/md/Fujisawa Rina.md) | 3196 | 29 | JPN | Female | 23.8 | 藤沢里菜 | 
 | 127 | [Ueno Asami](./player-games-md/md/Ueno Asami.md) | 3196 | 42 | JPN | Female | 20.7 | 上野愛咲美 | 
@@ -172,21 +172,21 @@ Note that players with fewer than 13 games are not in the list
 | 133 | [Kim Sangcheon](./player-games-md/md/Kim Sangcheon.md) | 3173 | 18 | missing | missing | missing | 金相天 | 
 | 134 | [An Joyeong](./player-games-md/md/An Joyeong.md) | 3172 | 23 | KOR | Male | 42.8 | 安祚永 | 
 | 135 | [Baek Hyeonwoo](./player-games-md/md/Baek Hyeonwoo.md) | 3172 | 13 | missing | missing | missing | 白現宇 | 
-| 136 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3158 | 61 | KOR | Female | 24.1 | 呉侑珍 | 
+| 136 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3156 | 61 | KOR | Female | 24.1 | 呉侑珍 | 
 | 137 | [Choi Kyeongho](./player-games-md/md/Choi Kyeongho.md) | 3156 | 24 | missing | missing | missing | 崔光戸 | 
-| 138 | [Park Jinyoung](./player-games-md/md/Park Jinyoung.md) | 3148 | 20 | KOR | Male | 22.2 | 朴鎭鍈 | 
+| 138 | [Park Jinyoung](./player-games-md/md/Park Jinyoung.md) | 3147 | 20 | KOR | Male | 22.2 | 朴鎭鍈 | 
 | 139 | [Lin Lixiang](./player-games-md/md/Lin Lixiang.md) | 3133 | 51 | TWN | Male | 28.8 | 林立祥 | 
 | 140 | [Takao Shinji](./player-games-md/md/Takao Shinji.md) | 3131 | 16 | JPN | Male | 45.7 | 高尾紳路 | 
 | 141 | [Kim Eunji](./player-games-md/md/Kim Eunji.md) | 3131 | 43 | missing | missing | missing | 金恩持 | 
-| 142 | [O Meien](./player-games-md/md/O Meien.md) | 3107 | 17 | JPN | Male | 60.6 | 王銘琬 | 
-| 143 | [Lin Junyan](./player-games-md/md/Lin Junyan.md) | 3106 | 40 | TWN | Male | 24.6 | 林君諺 | 
+| 142 | [Lin Junyan](./player-games-md/md/Lin Junyan.md) | 3106 | 40 | TWN | Male | 24.6 | 林君諺 | 
+| 143 | [O Meien](./player-games-md/md/O Meien.md) | 3106 | 17 | JPN | Male | 60.7 | 王銘琬 | 
 | 144 | [Lee Hyeonjun](./player-games-md/md/Lee Hyeonjun.md) | 3100 | 19 | KOR | Male | missing | 李炫準 | 
 | 145 | [Lin Shixun](./player-games-md/md/Lin Shixun.md) | 3088 | 57 | TWN | Male | missing | 林士勛 | 
-| 146 | [Cho Seungah](./player-games-md/md/Cho Seungah.md) | 3070 | 66 |  | Unknown | 23.9 | 曺承亜 | 
-| 147 | [Watanabe Kandai](./player-games-md/md/Watanabe Kandai.md) | 3069 | 13 | missing | missing | missing | 渡辺寛大 | 
-| 148 | [Gang Woohyeok](./player-games-md/md/Gang Woohyeok.md) | 3065 | 20 |  | Unknown | missing | 康又赫 | 
-| 149 | [Kim Seongji](./player-games-md/md/Kim Seongji.md) | 3051 | 17 | missing | missing | missing | 金宣圻 | 
-| 150 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3049 | 16 | JPN | Male | 56.4 | 依田紀基 | 
+| 146 | [Watanabe Kandai](./player-games-md/md/Watanabe Kandai.md) | 3069 | 13 | missing | missing | missing | 渡辺寛大 | 
+| 147 | [Cho Seungah](./player-games-md/md/Cho Seungah.md) | 3068 | 66 |  | Unknown | 23.9 | 曺承亜 | 
+| 148 | [Gang Woohyeok](./player-games-md/md/Gang Woohyeok.md) | 3064 | 20 |  | Unknown | missing | 康又赫 | 
+| 149 | [Kim Seongji](./player-games-md/md/Kim Seongji.md) | 3050 | 17 | missing | missing | missing | 金宣圻 | 
+| 150 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3048 | 16 | JPN | Male | 56.4 | 依田紀基 | 
 | 151 | [Jian Jingting](./player-games-md/md/Jian Jingting.md) | 3048 | 53 | TWN | Male | missing | 簡靖庭 | 
 | 152 | [Lee Hyungjin](./player-games-md/md/Lee Hyungjin.md) | 3041 | 16 | KOR | Male | 31.8 | 李炯珍 | 
 | 153 | [Chen Shiyuan](./player-games-md/md/Chen Shiyuan.md) | 3035 | 52 | TWN | Male | missing | 陳詩淵 | 
@@ -195,47 +195,47 @@ Note that players with fewer than 13 games are not in the list
 | 156 | [Lu Minquan](./player-games-md/md/Lu Minquan.md) | 3028 | 31 | CHN | Female | missing | 陸敏全 | 
 | 157 | [Han Sangcho](./player-games-md/md/Han Sangcho.md) | 3025 | 15 | missing | missing | missing | 韓相朝 | 
 | 158 | [Xu Jingen](./player-games-md/md/Xu Jingen.md) | 3013 | 44 | missing | missing | missing | 徐靖恩 | 
-| 159 | [Gon Jiwoo](./player-games-md/md/Gon Jiwoo.md) | 3011 | 20 | missing | missing | missing | 琴沚玗 | 
-| 160 | [Li He](./player-games-md/md/Li He.md) | 3010 | 41 | CHN | Female | 30.5 | 李赫 | 
-| 161 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2989 | 15 | JPN | Female | 23.2 | 牛栄子 | 
-| 162 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 2981 | 30 | KOR | Male | 56.2 | 劉昌赫 | 
+| 159 | [Gon Jiwoo](./player-games-md/md/Gon Jiwoo.md) | 3012 | 20 | missing | missing | missing | 琴沚玗 | 
+| 160 | [Li He](./player-games-md/md/Li He.md) | 3009 | 41 | CHN | Female | 30.5 | 李赫 | 
+| 161 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2988 | 15 | JPN | Female | 23.2 | 牛栄子 | 
+| 162 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 2980 | 30 | KOR | Male | 56.2 | 劉昌赫 | 
 | 163 | [Li Wei](./player-games-md/md/Li Wei.md) | 2975 | 39 | TWN | Male | missing | 李維 | 
 | 164 | [Tang Jiawen](./player-games-md/md/Tang Jiawen.md) | 2965 | 31 | missing | missing | missing | 唐嘉雯 | 
 | 165 | [Xu Yidi](./player-games-md/md/Xu Yidi.md) | 2953 | 16 | missing | missing | missing | 許一笛 | 
 | 166 | [Wang Chenxing](./player-games-md/md/Wang Chenxing.md) | 2946 | 36 | CHN | Female | 31.0 | 王晨星 | 
 | 167 | [Niu Shite](./player-games-md/md/Niu Shite.md) | 2940 | 39 | missing | missing | missing | 牛詩特 | 
 | 168 | [Lu Yiquan](./player-games-md/md/Lu Yiquan.md) | 2933 | 50 | TWN | Male | missing | 盧奕銓 | 
-| 169 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 2927 | 36 | missing | missing | missing | 呉依銘 | 
+| 169 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 2926 | 36 | missing | missing | missing | 呉依銘 | 
 | 170 | [Xie Yimin](./player-games-md/md/Xie Yimin.md) | 2915 | 21 | JPN | Female | 32.6 | 謝依旻 | 
-| 171 | [Lee Euihyun](./player-games-md/md/Lee Euihyun.md) | 2912 | 14 | missing | missing | missing | 李宜炫 | 
+| 171 | [Lee Euihyun](./player-games-md/md/Lee Euihyun.md) | 2913 | 14 | missing | missing | missing | 李宜炫 | 
 | 172 | [Wang Shuang](./player-games-md/md/Wang Shuang.md) | 2910 | 16 | CHN | Female | missing | 王爽 | 
-| 173 | [Oh Jeonga](./player-games-md/md/Oh Jeonga.md) | 2908 | 25 | KOR | Female | 29.3 | 呉政娥 | 
-| 174 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 2906 | 26 | KOR | Female | 35.9 | 金恵敏 | 
-| 175 | [Zhao Yifei](./player-games-md/md/Zhao Yifei.md) | 2900 | 25 | CHN | Female | missing | 趙奕斐 | 
-| 176 | [Gueon Hyojin](./player-games-md/md/Gueon Hyojin.md) | 2899 | 21 | KOR | Female | 40.3 | 権孝珍 | 
-| 177 | [Lee Minjin](./player-games-md/md/Lee Minjin.md) | 2886 | 35 | KOR | Female | 38.0 | 李玟眞 | 
-| 178 | [Wang Chunhui](./player-games-md/md/Wang Chunhui.md) | 2882 | 17 | missing | missing | missing | 王春暉 | 
-| 179 | [Kim Cheayoung](./player-games-md/md/Kim Cheayoung.md) | 2879 | 48 | KOR | Female | 26.5 | 金彩瑛 | 
+| 173 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 2907 | 26 | KOR | Female | 35.9 | 金恵敏 | 
+| 174 | [Oh Jeonga](./player-games-md/md/Oh Jeonga.md) | 2903 | 25 | KOR | Female | 29.3 | 呉政娥 | 
+| 175 | [Gueon Hyojin](./player-games-md/md/Gueon Hyojin.md) | 2901 | 21 | KOR | Female | 40.3 | 権孝珍 | 
+| 176 | [Zhao Yifei](./player-games-md/md/Zhao Yifei.md) | 2900 | 25 | CHN | Female | missing | 趙奕斐 | 
+| 177 | [Lee Minjin](./player-games-md/md/Lee Minjin.md) | 2884 | 35 | KOR | Female | 38.0 | 李玟眞 | 
+| 178 | [Wang Chunhui](./player-games-md/md/Wang Chunhui.md) | 2881 | 17 | missing | missing | missing | 王春暉 | 
+| 179 | [Kim Cheayoung](./player-games-md/md/Kim Cheayoung.md) | 2880 | 48 | KOR | Female | 26.5 | 金彩瑛 | 
 | 180 | [Nakamura Sumire](./player-games-md/md/Nakamura Sumire.md) | 2878 | 29 | missing | missing | missing | 仲邑菫 | 
 | 181 | [Wang Yubo](./player-games-md/md/Wang Yubo.md) | 2877 | 22 | CHN | Female | missing | 汪雨博 | 
-| 182 | [Heo Seohyun](./player-games-md/md/Heo Seohyun.md) | 2876 | 32 | missing | missing | missing | 許瑞玹 | 
-| 183 | [Park Jiyeon](./player-games-md/md/Park Jiyeon.md) | 2869 | 39 | KOR | Female | 31.1 | 朴志娟 | 
+| 182 | [Heo Seohyun](./player-games-md/md/Heo Seohyun.md) | 2874 | 32 | missing | missing | missing | 許瑞玹 | 
+| 183 | [Park Jiyeon](./player-games-md/md/Park Jiyeon.md) | 2870 | 39 | KOR | Female | 31.2 | 朴志娟 | 
 | 184 | [Nishi Takenobu](./player-games-md/md/Nishi Takenobu.md) | 2859 | 14 | JPN | Male | 22.8 | 西健伸 | 
-| 185 | [Cho Hyeyeon](./player-games-md/md/Cho Hyeyeon.md) | 2855 | 31 | KOR | Female | 37.1 | 趙恵連 | 
-| 186 | [Seo Bongsoo](./player-games-md/md/Seo Bongsoo.md) | 2855 | 25 | KOR | Male | 69.5 | 徐奉洙 | 
-| 187 | [Xu Yuqi](./player-games-md/md/Xu Yuqi.md) | 2838 | 35 | TWN | Male | missing | 許育祺 | 
+| 185 | [Cho Hyeyeon](./player-games-md/md/Cho Hyeyeon.md) | 2854 | 31 | KOR | Female | 37.1 | 趙恵連 | 
+| 186 | [Seo Bongsoo](./player-games-md/md/Seo Bongsoo.md) | 2854 | 25 | KOR | Male | 69.5 | 徐奉洙 | 
+| 187 | [Xu Yuqi](./player-games-md/md/Xu Yuqi.md) | 2837 | 35 | TWN | Male | missing | 許育祺 | 
 | 188 | [Suzuki Ayumi](./player-games-md/md/Suzuki Ayumi.md) | 2836 | 20 | JPN | Female | 38.8 | 鈴木歩 | 
-| 189 | [](./player-games-md/md/.md) | 2836 | 16 | missing | missing | missing | 金珉舒 | 
-| 190 | [Lee Youngjoo](./player-games-md/md/Lee Youngjoo.md) | 2829 | 21 | KOR | Female | missing | 李映周 | 
+| 189 | [](./player-games-md/md/.md) | 2835 | 17 | missing | missing | missing | 金珉舒 | 
+| 190 | [Lee Youngjoo](./player-games-md/md/Lee Youngjoo.md) | 2823 | 21 | KOR | Female | missing | 李映周 | 
 | 191 | [Lin Shuyang](./player-games-md/md/Lin Shuyang.md) | 2811 | 31 | TWN | Male | 32.8 | 林書陽 | 
 | 192 | [Yang Bowei](./player-games-md/md/Yang Bowei.md) | 2808 | 27 | TWN | Male | 24.5 | 楊博崴 | 
-| 193 | [Kim Dayoung](./player-games-md/md/Kim Dayoung.md) | 2803 | 25 | KOR | Female | missing | 金多瑛 | 
-| 194 | [Gao Xing](./player-games-md/md/Gao Xing.md) | 2802 | 14 | CHN | Female | missing | 高星 | 
-| 195 | [Kim Eunseon](./player-games-md/md/Kim Eunseon.md) | 2801 | 27 | KOR | Female | 33.8 | 金恩善 | 
-| 196 | [Kim Daeyoung](./player-games-md/md/Kim Daeyoung.md) | 2797 | 16 | KOR | Male | 36.9 | 金大容 | 
-| 197 | [Choi Kyubyeong](./player-games-md/md/Choi Kyubyeong.md) | 2796 | 26 | KOR | Male | 59.2 | 崔珪昞 | 
-| 198 | [Abe Yoshiki](./player-games-md/md/Abe Yoshiki.md) | 2792 | 16 | JPN | Male | 26.0 | 阿部良希 | 
-| 199 | [Seo Nungwuk](./player-games-md/md/Seo Nungwuk.md) | 2791 | 18 | KOR | Male | 64.2 | 徐能旭 | 
+| 193 | [Gao Xing](./player-games-md/md/Gao Xing.md) | 2802 | 14 | CHN | Female | missing | 高星 | 
+| 194 | [Kim Daeyoung](./player-games-md/md/Kim Daeyoung.md) | 2796 | 16 | KOR | Male | 37.0 | 金大容 | 
+| 195 | [Choi Kyubyeong](./player-games-md/md/Choi Kyubyeong.md) | 2795 | 26 | KOR | Male | 59.2 | 崔珪昞 | 
+| 196 | [Kim Eunseon](./player-games-md/md/Kim Eunseon.md) | 2794 | 27 | KOR | Female | 33.8 | 金恩善 | 
+| 197 | [Abe Yoshiki](./player-games-md/md/Abe Yoshiki.md) | 2792 | 16 | JPN | Male | 26.0 | 阿部良希 | 
+| 198 | [Seo Nungwuk](./player-games-md/md/Seo Nungwuk.md) | 2789 | 18 | KOR | Male | 64.2 | 徐能旭 | 
+| 199 | [Kim Dayoung](./player-games-md/md/Kim Dayoung.md) | 2782 | 26 | KOR | Female | missing | 金多瑛 | 
 | 200 | [](./player-games-md/md/.md) | 2778 | 38 | missing | missing | missing | 鄭有珍 | 
 | 201 | [Rui Naiwei](./player-games-md/md/Rui Naiwei.md) | 2773 | 27 | CHN | Female | 58.6 | 芮廼偉 | 
 | 202 | [Lu Yuhua](./player-games-md/md/Lu Yuhua.md) | 2773 | 32 | missing | missing | missing | 盧鈺樺 | 
@@ -243,62 +243,62 @@ Note that players with fewer than 13 games are not in the list
 | 204 | [Chen Weiting](./player-games-md/md/Chen Weiting.md) | 2772 | 33 | missing | missing | missing | 陳威廷 | 
 | 205 | [Chen Xi](./player-games-md/md/Chen Xi.md) | 2766 | 25 | TWN | Male | missing | 陳禧 | 
 | 206 | [Cai Chengwei](./player-games-md/md/Cai Chengwei.md) | 2763 | 33 | TWN | Male | missing | 蔡丞韋 | 
-| 207 | [Kim Seungjun](./player-games-md/md/Kim Seungjun.md) | 2758 | 18 | KOR | Male | 49.3 | 金承俊 | 
+| 207 | [Kim Seungjun](./player-games-md/md/Kim Seungjun.md) | 2757 | 18 | KOR | Male | 49.3 | 金承俊 | 
 | 208 | [Chu Keer](./player-games-md/md/Chu Keer.md) | 2754 | 16 | missing | missing | missing | 儲可児 | 
-| 209 | [Kang Dajeong](./player-games-md/md/Kang Dajeong.md) | 2749 | 18 | KOR | Female | missing | 姜多情 | 
-| 210 | [Lin Yanchen](./player-games-md/md/Lin Yanchen.md) | 2748 | 33 | missing | missing | missing | 林彦丞 | 
-| 211 | [Huang Shiyuan](./player-games-md/md/Huang Shiyuan.md) | 2741 | 27 | TWN | Male | missing | 黄世元 | 
-| 212 | [Lin Xinwei](./player-games-md/md/Lin Xinwei.md) | 2740 | 20 | TWN | Male | missing | 林新為 | 
-| 213 | [Tang Yi](./player-games-md/md/Tang Yi.md) | 2739 | 13 | CHN | Female | 34.5 | 唐奕 | 
-| 214 | [Kim Miri](./player-games-md/md/Kim Miri.md) | 2734 | 33 | KOR | Female | 31.3 | 金美里 | 
-| 215 | [An Kwanwuk](./player-games-md/md/An Kwanwuk.md) | 2734 | 23 | KOR | Male | 60.7 | 安官旭 | 
-| 216 | [](./player-games-md/md/.md) | 2734 | 13 | missing | missing | missing | 劉慧玲 | 
-| 217 | [Chen Yiming](./player-games-md/md/Chen Yiming.md) | 2717 | 18 | CHN | Female | missing | 陳一鳴 | 
+| 209 | [Lin Yanchen](./player-games-md/md/Lin Yanchen.md) | 2747 | 33 | missing | missing | missing | 林彦丞 | 
+| 210 | [Huang Shiyuan](./player-games-md/md/Huang Shiyuan.md) | 2741 | 27 | TWN | Male | missing | 黄世元 | 
+| 211 | [Lin Xinwei](./player-games-md/md/Lin Xinwei.md) | 2740 | 20 | TWN | Male | missing | 林新為 | 
+| 212 | [Tang Yi](./player-games-md/md/Tang Yi.md) | 2739 | 13 | CHN | Female | 34.5 | 唐奕 | 
+| 213 | [An Kwanwuk](./player-games-md/md/An Kwanwuk.md) | 2733 | 23 | KOR | Male | 60.7 | 安官旭 | 
+| 214 | [](./player-games-md/md/.md) | 2733 | 13 | missing | missing | missing | 劉慧玲 | 
+| 215 | [Kim Miri](./player-games-md/md/Kim Miri.md) | 2729 | 33 | KOR | Female | 31.3 | 金美里 | 
+| 216 | [Kang Dajeong](./player-games-md/md/Kang Dajeong.md) | 2719 | 19 | KOR | Female | missing | 姜多情 | 
+| 217 | [Chen Yiming](./player-games-md/md/Chen Yiming.md) | 2716 | 18 | CHN | Female | missing | 陳一鳴 | 
 | 218 | [Liu Yaowen](./player-games-md/md/Liu Yaowen.md) | 2713 | 13 | TWN | Male | missing | 劉耀文 | 
-| 219 | [Yang Zixuan](./player-games-md/md/Yang Zixuan.md) | 2707 | 34 | TWN | Female | missing | 楊子萱 | 
-| 220 | [Kim Soojang](./player-games-md/md/Kim Soojang.md) | 2701 | 18 | KOR | Male | 64.7 | 金秀壮 | 
-| 221 | [](./player-games-md/md/.md) | 2682 | 25 | missing | missing | missing | 荘承濬 | 
-| 222 | [Kim Nokyeong](./player-games-md/md/Kim Nokyeong.md) | 2679 | 16 | missing | missing | missing | 金魯炅 | 
-| 223 | [](./player-games-md/md/.md) | 2668 | 14 | missing | missing | missing | 李度弦 | 
-| 224 | [Song Ronghui](./player-games-md/md/Song Ronghui.md) | 2657 | 15 | CHN | Female | 30.0 | 宋容慧 | 
-| 225 | [Cai Bihan](./player-games-md/md/Cai Bihan.md) | 2655 | 14 | CHN | Female | missing | 蔡碧涵 | 
-| 226 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2645 | 20 | KOR | Male | 31.9 | 姜勲 | 
-| 227 | [Kim Hyoyoung](./player-games-md/md/Kim Hyoyoung.md) | 2645 | 17 | missing | missing | missing | 金孝英 | 
-| 228 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2639 | 16 | TWN | Unknown | missing | 林宇翔 | 
-| 229 | [](./player-games-md/md/.md) | 2635 | 15 | missing | missing | missing | 朴昭律 | 
+| 219 | [Yang Zixuan](./player-games-md/md/Yang Zixuan.md) | 2706 | 34 | TWN | Female | missing | 楊子萱 | 
+| 220 | [Kim Soojang](./player-games-md/md/Kim Soojang.md) | 2700 | 18 | KOR | Male | 64.7 | 金秀壮 | 
+| 221 | [Kim Hyoyoung](./player-games-md/md/Kim Hyoyoung.md) | 2693 | 18 | missing | missing | missing | 金孝英 | 
+| 222 | [](./player-games-md/md/.md) | 2683 | 16 | missing | missing | missing | 朴昭律 | 
+| 223 | [](./player-games-md/md/.md) | 2682 | 25 | missing | missing | missing | 荘承濬 | 
+| 224 | [Kim Nokyeong](./player-games-md/md/Kim Nokyeong.md) | 2674 | 16 | missing | missing | missing | 金魯炅 | 
+| 225 | [](./player-games-md/md/.md) | 2665 | 14 | missing | missing | missing | 李度弦 | 
+| 226 | [Song Ronghui](./player-games-md/md/Song Ronghui.md) | 2657 | 15 | CHN | Female | 30.0 | 宋容慧 | 
+| 227 | [Cai Bihan](./player-games-md/md/Cai Bihan.md) | 2654 | 14 | CHN | Female | missing | 蔡碧涵 | 
+| 228 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2644 | 20 | KOR | Male | 31.9 | 姜勲 | 
+| 229 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2639 | 16 | TWN | Unknown | missing | 林宇翔 | 
 | 230 | [Chen Feng](./player-games-md/md/Chen Feng.md) | 2630 | 13 | TWN | Male | missing | 陳鋒 | 
 | 231 | [Pan Yang](./player-games-md/md/Pan Yang.md) | 2616 | 14 | CHN | Female | missing | 潘陽 | 
-| 232 | [Jimmy Cha](./player-games-md/md/Jimmy Cha.md) | 2610 | 16 | KOR | Male | 71.5 | 車敏洙 | 
-| 233 | [Park Seungmun](./player-games-md/md/Park Seungmun.md) | 2582 | 14 | KOR | Male | 58.5 | 朴勝文 | 
+| 232 | [Jimmy Cha](./player-games-md/md/Jimmy Cha.md) | 2608 | 16 | KOR | Male | 71.5 | 車敏洙 | 
+| 233 | [Park Seungmun](./player-games-md/md/Park Seungmun.md) | 2581 | 14 | KOR | Male | 58.5 | 朴勝文 | 
 | 234 | [](./player-games-md/md/.md) | 2578 | 16 | missing | missing | missing | 李思璇 | 
-| 235 | [Kim Kihun](./player-games-md/md/Kim Kihun.md) | 2574 | 16 | KOR | Male | missing | 金基憲 | 
+| 235 | [Kim Kihun](./player-games-md/md/Kim Kihun.md) | 2573 | 16 | KOR | Male | missing | 金基憲 | 
 | 236 | [Zeng Pinjie](./player-games-md/md/Zeng Pinjie.md) | 2571 | 25 | missing | missing | missing | 曾品傑 | 
 | 237 | [Zhang Zhihan](./player-games-md/md/Zhang Zhihan.md) | 2568 | 14 | missing | missing | missing | 張子涵 | 
-| 238 | [Kim Ilhwan](./player-games-md/md/Kim Ilhwan.md) | 2566 | 22 | KOR | Male | 66.2 | 金日煥 | 
-| 239 | [Kim Chongsu](./player-games-md/md/Kim Chongsu.md) | 2561 | 16 | KOR | Male | 59.8 | 金鐘秀 | 
+| 238 | [Kim Ilhwan](./player-games-md/md/Kim Ilhwan.md) | 2565 | 22 | KOR | Male | 66.2 | 金日煥 | 
+| 239 | [Kim Chongsu](./player-games-md/md/Kim Chongsu.md) | 2559 | 16 | KOR | Male | 59.8 | 金鐘秀 | 
 | 240 | [Li Xiaoxi](./player-games-md/md/Li Xiaoxi.md) | 2552 | 22 | CHN | Female | missing | 李小渓 | 
-| 241 | [Park Yeongchan](./player-games-md/md/Park Yeongchan.md) | 2530 | 14 | KOR | Male | 61.8 | 朴映璨 | 
-| 242 | [](./player-games-md/md/.md) | 2529 | 21 | missing | missing | missing | 金京垠 | 
-| 243 | [Oh Kyuchul](./player-games-md/md/Oh Kyuchul.md) | 2524 | 14 | KOR | Male | 69.7 | 呉圭喆 | 
+| 241 | [Park Yeongchan](./player-games-md/md/Park Yeongchan.md) | 2529 | 14 | KOR | Male | 61.8 | 朴映璨 | 
+| 242 | [](./player-games-md/md/.md) | 2527 | 21 | missing | missing | missing | 金京垠 | 
+| 243 | [Oh Kyuchul](./player-games-md/md/Oh Kyuchul.md) | 2523 | 14 | KOR | Male | 69.7 | 呉圭喆 | 
 | 244 | [](./player-games-md/md/.md) | 2511 | 22 | missing | missing | missing | 黄袖圃 | 
-| 245 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2503 | 18 | KOR | Male | 66.4 | 白成豪 | 
+| 245 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2502 | 18 | KOR | Male | 66.4 | 白成豪 | 
 | 246 | [Bai Xinhui](./player-games-md/md/Bai Xinhui.md) | 2497 | 20 | missing | missing | missing | 白昕卉 | 
 | 247 | [](./player-games-md/md/.md) | 2495 | 23 | missing | missing | missing | 孫偉勛 | 
 | 248 | [](./player-games-md/md/.md) | 2487 | 19 | missing | missing | missing | 陳劭全 | 
-| 249 | [](./player-games-md/md/.md) | 2478 | 19 | missing | missing | missing | 施景尭 | 
+| 249 | [](./player-games-md/md/.md) | 2477 | 19 | missing | missing | missing | 施景尭 | 
 | 250 | [Zhou Pingqiang](./player-games-md/md/Zhou Pingqiang.md) | 2448 | 14 | TWN | Male | missing | 周平強 | 
-| 251 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2443 | 16 | KOR | Male | 64.9 | 鄭大相 | 
+| 251 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2441 | 16 | KOR | Male | 64.9 | 鄭大相 | 
 | 252 | [Zhan Ying](./player-games-md/md/Zhan Ying.md) | 2433 | 15 | CHN | Female | missing | 戦鷹 | 
 | 253 | [Ding Shaojie](./player-games-md/md/Ding Shaojie.md) | 2411 | 17 | TWN | Male | missing | 丁少傑 | 
-| 254 | [Cho Daehyeon](./player-games-md/md/Cho Daehyeon.md) | 2401 | 13 | KOR | Male | 63.3 | 趙大賢 | 
+| 254 | [Cho Daehyeon](./player-games-md/md/Cho Daehyeon.md) | 2399 | 13 | KOR | Male | 63.3 | 趙大賢 | 
 | 255 | [](./player-games-md/md/.md) | 2390 | 19 | missing | missing | missing | 林瀚彰 | 
 | 256 | [Su Shengfang](./player-games-md/md/Su Shengfang.md) | 2383 | 22 | TWN | Female | missing | 蘇聖芳 | 
-| 257 | [Yu Lijun](./player-games-md/md/Yu Lijun.md) | 2374 | 23 | TWN | Female | missing | 兪俐均 | 
-| 258 | [Chang Suyeong](./player-games-md/md/Chang Suyeong.md) | 2353 | 13 | KOR | Male | 69.8 | 張秀英 | 
-| 259 | [](./player-games-md/md/.md) | 2353 | 21 | missing | missing | missing | 張庭維 | 
+| 257 | [Yu Lijun](./player-games-md/md/Yu Lijun.md) | 2373 | 23 | TWN | Female | missing | 兪俐均 | 
+| 258 | [](./player-games-md/md/.md) | 2353 | 21 | missing | missing | missing | 張庭維 | 
+| 259 | [Chang Suyeong](./player-games-md/md/Chang Suyeong.md) | 2352 | 13 | KOR | Male | 69.8 | 張秀英 | 
 | 260 | [](./player-games-md/md/.md) | 2348 | 13 | missing | missing | missing | 徐海哲 | 
 | 261 | [](./player-games-md/md/.md) | 2328 | 15 | missing | missing | missing | 黄偉 | 
-| 262 | [Kim Dongmyeon](./player-games-md/md/Kim Dongmyeon.md) | 2312 | 13 | KOR | Male | 65.7 | 金東勉 | 
+| 262 | [Kim Dongmyeon](./player-games-md/md/Kim Dongmyeon.md) | 2310 | 13 | KOR | Male | 65.7 | 金東勉 | 
 | 263 | [Lin Yuting](./player-games-md/md/Lin Yuting.md) | 2265 | 20 | missing | missing | missing | 林鈺娗 | 
 | 264 | [Liu Yifang](./player-games-md/md/Liu Yifang.md) | 2142 | 22 | missing | missing | missing | 劉一芳 | 
 | 265 | [](./player-games-md/md/.md) | 2132 | 13 | missing | missing | missing | 尤浩宇 |
@@ -494,7 +494,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Han Yizhou | 21 | 13 | 韓一洲 | 
 | Lee Yeongkyu | 18 | 26 | 李映九 | 
 | Tong Mengcheng | 16 | 35 | 童夢成 | 
-| Choi Jeong | 12 | 97 | 崔精 | 
+| Choi Jeong | 12 | 98 | 崔精 | 
 | Shin Jinseo | 10 | 107 | 申眞諝 | 
 | An Sungjoon | 8 | 45 | 安成浚 | 
 | Ke Jie | -1 | 45 | 柯潔 | 

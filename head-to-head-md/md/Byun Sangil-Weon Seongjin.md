@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Weon Seongjin** | **Byun Sangil Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-04 | 第45期名人戦（韓国）1回戦 | Weon Seongjin | Byun Sangil | B+0.5 | 6.5 | 7:1 | 0 | 1 | 
 | 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Byun Sangil | Weon Seongjin | B+R | 6.5 | 7:0 | 7 | 0 | 
 | 2022-01-25 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Weon Seongjin | Byun Sangil | W+R | 6.5 | 6:0 | 6 | 0 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Byun Sangil | Weon Seongjin | B+0.5 | 6.5 | 5:0 | 5 | 0 | 

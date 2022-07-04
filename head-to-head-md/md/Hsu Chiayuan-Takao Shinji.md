@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Takao Shinji** | **Hsu Chiayuan Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-04 | 第47期棋聖戦Sリーグ  | Takao Shinji | Hsu Chiayuan | W+R | 6.5 | 9:2 | 1 | 0 | 
 | 2020-08-03 | 第45期棋聖戦Sリーグ | Hsu Chiayuan | Takao Shinji | W+R | 6.5 | 8:2 | 0 | 1 | 
 | 2019-08-19 | 第67期王座戦準決勝 | Takao Shinji | Hsu Chiayuan | W+6.5 | 6.5 | 8:1 | 7 | 0 | 
 | 2019-06-27 | 第44期棋聖戦Sリーグ | Takao Shinji | Hsu Chiayuan | W+R | 6.5 | 7:1 | 6 | 0 | 

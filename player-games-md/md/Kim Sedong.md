@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-05 | 2022YK建機杯リーグ | Kang Dongyun | Kim Sedong | Lose | B+R | 6.5 | 3164 | -14 | 
 | 2022-07-04 | 第24回農心杯韓国予選 | Kim Sedong | Park Sangjin | Lose | W+R | 6.5 | 3178 | -12 | 
 | 2022-06-28 | 2022YK建機杯リーグ | Kim Myounghoon | Kim Sedong | Lose | B+R | 6.5 | 3190 | 0 | 
 | 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Lose | W+R | 6.5 | 3190 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-05 | 第24回農心杯韓国予選 | Park Jaekeun | Heo Yongho | Win | B+R | 6.5 | 2903 | -321 | 
 | 2022-04-21 | 第27回LG杯韓国予選 | Park Jaekeun | Kang Yootaek | Lose | W+R | 6.5 | 3224 | 0 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Shin Minjun | Park Jaekeun | Lose | B+R | 6.5 | 3224 | -32 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Park Jaekeun | Lose | B+R | 6.5 | 3256 | -24 | 
@@ -21,8 +22,17 @@
 | 2021-01-27 | 2020-2021フューチャーズリーグ | Kim Minho | Park Jaekeun | Win | W+R | 6.5 | 3191 | 10 | 
 | 2021-01-16 | 2020-2021フューチャーズリーグ | Park Jaekeun | Kim Hyeongwoo | Lose | W+R | 6.5 | 3181 | -50 | 
 | 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Jeonga | Park Jaekeun | Win | W+R | 6.5 | 3231 | 8 | 
-| 2021-01-08 | 2020-2021韓国囲碁リーグ | Park Jaekeun | Sim Jaeik | Lose | W+R | 6.5 | 3223 | 2 | 
-| 2021-01-02 | 2020-2021フューチャーズリーグ | Ju Hyeongwuk | Park Jaekeun | Win | W+4.5 | 6.5 | 3221 | missing |
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Park Jaekeun | Shen Zaiyi | Lose | W+R | 6.5 | 3223 | 2 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Ju Hyeongwuk | Park Jaekeun | Win | W+4.5 | 6.5 | 3221 | 27 | 
+| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sonjin | Park Jaekeun | Win | W+R | 6.5 | 3194 | 93 | 
+| 2020-12-19 | 2020-2021フューチャーズリーグ | Baek Chanhee | Park Jaekeun | Win | W+R | 6.5 | 3101 | 87 | 
+| 2020-12-16 | 2020-2021フューチャーズリーグ | Park Jaekeun | Kim Sangcheon | Lose | W+0.5 | 6.5 | 3014 | -14 | 
+| 2020-12-05 | 2020-2021フューチャーズリーグ | Park Jaekeun | Park Younglong | Win | B+R | 6.5 | 3028 | 47 | 
+| 2020-11-29 | 2020-2021フューチャーズリーグ | Lee Hyeonjun | Park Jaekeun | Win | W+R | 6.5 | 2981 | -30 | 
+| 2020-11-21 | 第2回大統領杯全国囲碁大会2回戦 | Park Jaekeun | An Sungjoon | Lose | W+R | 6.5 | 3011 | 0 | 
+| 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Han Seungjoo | Park Jaekeun | Win | W+R | 6.5 | 3011 | 267 | 
+| 2020-09-21 | 第22回農心杯韓国選抜戦 | Park Jaekeun | Park Younglong | Win | B+R | 6.5 | 2744 | -177 | 
+| 2020-03-26 | 第25期GSカルテックス杯プロ棋戦24強戦 | Kang Seungmin | Park Jaekeun | Lose | B+R | 6.5 | 2921 | missing |
 
 
 

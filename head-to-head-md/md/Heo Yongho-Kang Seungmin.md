@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Heo Yongho vs Kang Seungmin** | **Heo Yongho streak** | **Kang Seungmin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Heo Yongho Vs Kang Seungmin** | **Heo Yongho Streak** | **Kang Seungmin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Heo Yongho | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2021-01-09 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Heo Yongho | B+R | 6.5 | 1:1 | 0 | 1 | 

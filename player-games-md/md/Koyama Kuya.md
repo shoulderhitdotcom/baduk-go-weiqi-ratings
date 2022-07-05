@@ -19,13 +19,13 @@
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Lose | B+R | 6.5 | 2942 | 12 | 
 | 2021-07-29 | 第77期本因坊戦予選 | Koyama Kuya | Hikosaka Naoto | Win | B+2.5 | 6.5 | 2930 | -39 | 
 | 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Lose | W+0.5 | 6.5 | 2969 | 128 | 
-| 2021-06-21 | 第69期王座戦1回戦 | Cho U | Koyama Kuya | Lose | B+2.5 | 6.5 | 2841 | 35 | 
-| 2021-05-13 | 第46期新人王戦3回戦 | Fujisawa Rina | Koyama Kuya | Win | W+R | 6.5 | 2806 | 242 | 
+| 2021-06-21 | 第69期王座戦1回戦 | Cho U | Koyama Kuya | Lose | B+2.5 | 6.5 | 2841 | 36 | 
+| 2021-05-13 | 第46期新人王戦3回戦 | Fujisawa Rina | Koyama Kuya | Win | W+R | 6.5 | 2805 | 241 | 
 | 2021-04-23 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Koyama Kuya | Lose | B+R | 6.5 | 2564 | 18 | 
 | 2021-04-12 | 第69期王座戦予選 | Shida Tatsuya | Koyama Kuya | Win | W+R | 6.5 | 2546 | 179 | 
 | 2021-03-29 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Koyama Kuya |  | Win | B+R | 6.5 | 2367 | 86 | 
-| 2021-03-22 | 第46期新人王戦2回戦 | Koyama Kuya | Koike Yoshihiro | Win | B+R | 6.5 | 2281 | 182 | 
-| 2021-01-25 | 第46期新人王戦1回戦 | Koyama Kuya | Oomote Takuto | Win | B+0.5 | 6.5 | 2099 | -957 | 
+| 2021-03-22 | 第46期新人王戦2回戦 | Koyama Kuya | Koike Yoshihiro | Win | B+R | 6.5 | 2281 | 183 | 
+| 2021-01-25 | 第46期新人王戦1回戦 | Koyama Kuya | Oomote Takuto | Win | B+0.5 | 6.5 | 2098 | -958 | 
 | 2020-06-25 | 第68期王座戦1回戦 | Koyama Kuya | Cho U | Lose | W+R | 6.5 | 3056 | -32 | 
 | 2020-06-22 | 第45期新人王戦2回戦 | Yokotsuka Riki | Koyama Kuya | Lose | B+0.5 | 6.5 | 3088 | 28 | 
 | 2020-03-19 | 第68期王座戦予選 | Koyama Kuya | Nakano Hironari | Win | B+5.5 | 6.5 | 3060 | 83 | 

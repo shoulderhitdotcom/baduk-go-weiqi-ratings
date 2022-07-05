@@ -43,7 +43,7 @@ The ratings are based on 4557 games from 2021-07-06 to 2022-07-05.
 | 19 | [Huang Yunsong](./player-games-md/md/Huang Yunsong.md) | 3531 | 48 | CHN | Male | 25.5 | 黄雲嵩 | 
 | 20 | [Zhao Chenyu](./player-games-md/md/Zhao Chenyu.md) | 3523 | 37 | CHN | Male | 23.1 | 趙晨宇 | 
 | 21 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3521 | 47 | TWN | Male | 24.5 | 許家元 | 
-| 22 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3521 | 27 | CHN | Male | 22.2 | 李維清 | 
+| 22 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3521 | 27 | CHN | Male | 22.3 | 李維清 | 
 | 23 | [Kang Dongyun](./player-games-md/md/Kang Dongyun.md) | 3513 | 65 | KOR | Male | 33.5 | 姜東潤 | 
 | 24 | [Lian Xiao](./player-games-md/md/Lian Xiao.md) | 3513 | 46 | CHN | Male | 28.3 | 連笑 | 
 | 25 | [Shin Minjun](./player-games-md/md/Shin Minjun.md) | 3509 | 70 | KOR | Male | 23.5 | 申旻埈 | 
@@ -72,13 +72,13 @@ The ratings are based on 4557 games from 2021-07-06 to 2022-07-05.
 | 48 | [Weon Seongjin](./player-games-md/md/Weon Seongjin.md) | 3414 | 81 | KOR | Male | 37.0 | 元晟溱 | 
 | 49 | [Han Yizhou](./player-games-md/md/Han Yizhou.md) | 3412 | 13 | CHN | Male | missing | 韓一洲 | 
 | 50 | [Park Joonhoon](./player-games-md/md/Park Joonhoon.md) | 3412 | 25 | KOR | Male | 22.5 | 朴鐘勲 | 
-| 51 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3409 | 25 | KOR | Male | 28.1 | 洪茂鎭 | 
+| 51 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3409 | 25 | KOR | Male | 28.2 | 洪茂鎭 | 
 | 52 | [Xu Haohong](./player-games-md/md/Xu Haohong.md) | 3408 | 71 | TWN | Male | 21.2 | 許皓鋐 | 
 | 53 | [Chen Yaoye](./player-games-md/md/Chen Yaoye.md) | 3407 | 14 | CHN | Male | 32.6 | 陳耀燁 | 
 | 54 | [Choi Cheolhan](./player-games-md/md/Choi Cheolhan.md) | 3407 | 25 | KOR | Male | 37.3 | 崔哲瀚 | 
 | 55 | [Chen Zijian](./player-games-md/md/Chen Zijian.md) | 3405 | 19 | CHN | Male | missing | 陳梓健 | 
 | 56 | [Xie Erhao](./player-games-md/md/Xie Erhao.md) | 3399 | 23 | CHN | Male | 23.8 | 謝爾豪 | 
-| 57 | [Park Jinsol](./player-games-md/md/Park Jinsol.md) | 3399 | 29 | KOR | Male | 35.8 | 朴進率 | 
+| 57 | [Park Jinsol](./player-games-md/md/Park Jinsol.md) | 3399 | 29 | KOR | Male | 35.9 | 朴進率 | 
 | 58 | [Tan Xiao](./player-games-md/md/Tan Xiao.md) | 3396 | 34 | CHN | Male | 29.3 | 檀嘯 | 
 | 59 | [Yi Lingtao](./player-games-md/md/Yi Lingtao.md) | 3393 | 18 | CHN | Male | 22.1 | 伊淩濤 | 
 | 60 | [An Sungjoon](./player-games-md/md/An Sungjoon.md) | 3393 | 44 | KOR | Male | 30.8 | 安成浚 | 
@@ -93,7 +93,7 @@ The ratings are based on 4557 games from 2021-07-06 to 2022-07-05.
 | 69 | [Rong Yi](./player-games-md/md/Rong Yi.md) | 3337 | 13 | CHN | Male | 27.7 | 戎毅 | 
 | 70 | [Wi Taewoong](./player-games-md/md/Wi Taewoong.md) | 3335 | 25 | KOR | Male | 28.5 | 魏太雄 | 
 | 71 | [Park Minkyu](./player-games-md/md/Park Minkyu.md) | 3335 | 23 | KOR | Male | missing | 朴珉奎 | 
-| 72 | [Sada Atsushi](./player-games-md/md/Sada Atsushi.md) | 3333 | 41 | JPN | Male | 26.5 | 佐田篤史 | 
+| 72 | [Sada Atsushi](./player-games-md/md/Sada Atsushi.md) | 3333 | 41 | JPN | Male | 26.6 | 佐田篤史 | 
 | 73 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3333 | 16 | KOR | Male | 34.1 | 李賢虎 | 
 | 74 | [Murakawa Daisuke](./player-games-md/md/Murakawa Daisuke.md) | 3332 | 20 | JPN | Male | 31.6 | 村川大介 | 
 | 75 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3330 | 26 | KOR | Male | 26.5 | 金眞輝 | 
@@ -138,7 +138,7 @@ Note that players with fewer than 13 games are not in the list
 | **Rank** | **Name** | **Rating** | **Games Played** | **Region** | **Sex** | **Age** | **Hanzi (汉字) Name** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 101 | [Jin Siyoung](./player-games-md/md/Jin Siyoung.md) | 3248 | 21 | KOR | Male | 32.8 | 陳時暎 | 
-| 102 | [Zhou Ruiyang](./player-games-md/md/Zhou Ruiyang.md) | 3246 | 14 | CHN | Male | 31.3 | 周睿羊 | 
+| 102 | [Zhou Ruiyang](./player-games-md/md/Zhou Ruiyang.md) | 3246 | 14 | CHN | Male | 31.4 | 周睿羊 | 
 | 103 | [Kono Rin](./player-games-md/md/Kono Rin.md) | 3242 | 18 | JPN | Male | 41.5 | 河野臨 | 
 | 104 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3237 | 27 | KOR | Male | 23.8 | 宋圭相 | 
 | 105 | [Jiang Weijie](./player-games-md/md/Jiang Weijie.md) | 3236 | 18 | CHN | Male | 30.7 | 江維傑 | 

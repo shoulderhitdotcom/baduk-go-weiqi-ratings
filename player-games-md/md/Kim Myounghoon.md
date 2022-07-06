@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Win | B+R | 6.5 | 3555 | -2 | 
 | 2022-07-04 | 2022YK建機杯リーグ | Park Junghwan | Kim Myounghoon | Lose | B+R | 6.5 | 3557 | -9 | 
 | 2022-06-30 | 第27回GSカルテックス杯プロ棋戦3回戦 | Park Junghwan | Kim Myounghoon | Lose | B+5.5 | 6.5 | 3566 | -10 | 
 | 2022-06-28 | 2022YK建機杯リーグ | Kim Myounghoon | Kim Sedong | Win | B+R | 6.5 | 3576 | -5 | 

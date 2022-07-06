@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-06 | 2022YK建機杯リーグ | Weon Seongjin | Kim Eunji | Lose | W+R | 6.5 | 3410 | -13 | 
 | 2022-07-04 | 第45期名人戦（韓国）1回戦 | Weon Seongjin | Byun Sangil | Win | B+0.5 | 6.5 | 3423 | 9 | 
 | 2022-07-01 | 2022YK建機杯リーグ | Weon Seongjin | Ryu Minhyung | Lose | W+R | 6.5 | 3414 | -25 | 
 | 2022-06-22 | 第45期名人戦（韓国）予選 | Weon Seongjin | Park Minkyu | Win | B+2.5 | 6.5 | 3439 | 6 | 

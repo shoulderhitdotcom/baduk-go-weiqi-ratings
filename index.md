@@ -43,7 +43,7 @@ The ratings are based on 4562 games from 2021-07-07 to 2022-07-06.
 | 19 | [Huang Yunsong](./player-games-md/md/Huang Yunsong.md) | 3535 | 48 | CHN | Male | 25.5 | 黄雲嵩 | 
 | 20 | [Zhao Chenyu](./player-games-md/md/Zhao Chenyu.md) | 3526 | 37 | CHN | Male | 23.1 | 趙晨宇 | 
 | 21 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3525 | 27 | CHN | Male | 22.3 | 李維清 | 
-| 22 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3524 | 47 | TWN | Male | 24.5 | 許家元 | 
+| 22 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3524 | 47 | TWN | Male | 24.6 | 許家元 | 
 | 23 | [Lian Xiao](./player-games-md/md/Lian Xiao.md) | 3518 | 46 | CHN | Male | 28.3 | 連笑 | 
 | 24 | [Kang Dongyun](./player-games-md/md/Kang Dongyun.md) | 3517 | 65 | KOR | Male | 33.5 | 姜東潤 | 
 | 25 | [Shin Minjun](./player-games-md/md/Shin Minjun.md) | 3516 | 71 | KOR | Male | 23.5 | 申旻埈 | 
@@ -62,7 +62,7 @@ The ratings are based on 4562 games from 2021-07-07 to 2022-07-06.
 | 38 | [Chen Haoxin](./player-games-md/md/Chen Haoxin.md) | 3469 | 16 | CHN | Male | 18.5 | 陳豪鑫 | 
 | 39 | [Shi Yue](./player-games-md/md/Shi Yue.md) | 3461 | 32 | CHN | Male | 31.5 | 時越 | 
 | 40 | [Xu Jiayang](./player-games-md/md/Xu Jiayang.md) | 3460 | 24 | CHN | Male | missing | 許嘉陽 | 
-| 41 | [Seol Hyunjun](./player-games-md/md/Seol Hyunjun.md) | 3459 | 44 | KOR | Male | 23.4 | 偰玹準 | 
+| 41 | [Seol Hyunjun](./player-games-md/md/Seol Hyunjun.md) | 3459 | 44 | KOR | Male | 23.5 | 偰玹準 | 
 | 42 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3455 | 46 | KOR | Male | 24.4 | 朴河旼 | 
 | 43 | [Tong Mengcheng](./player-games-md/md/Tong Mengcheng.md) | 3450 | 35 | CHN | Male | 26.2 | 童夢成 | 
 | 44 | [Lee Changseok](./player-games-md/md/Lee Changseok.md) | 3446 | 52 | KOR | Male | 26.2 | 李昌錫 | 
@@ -111,7 +111,7 @@ The ratings are based on 4562 games from 2021-07-07 to 2022-07-06.
 | 87 | [Chen Qirui](./player-games-md/md/Chen Qirui.md) | 3292 | 49 | TWN | Male | 22.1 | 陳祈睿 | 
 | 88 | [Lee Wondo](./player-games-md/md/Lee Wondo.md) | 3292 | 28 | KOR | Male | 33.1 | 李元道 | 
 | 89 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3285 | 16 | JPN | Male | 20.7 | 大竹優 | 
-| 90 | [Na Hyun](./player-games-md/md/Na Hyun.md) | 3284 | 21 | KOR | Male | 27.4 | 羅玄 | 
+| 90 | [Na Hyun](./player-games-md/md/Na Hyun.md) | 3284 | 21 | KOR | Male | 27.5 | 羅玄 | 
 | 91 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3279 | 40 | missing | missing | missing | 文敏鍾 | 
 | 92 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3275 | 16 | JPN | Male | 31.6 | 志田達哉 | 
 | 93 | [Cho Hanseung](./player-games-md/md/Cho Hanseung.md) | 3273 | 46 | KOR | Male | 39.6 | 趙漢乗 | 

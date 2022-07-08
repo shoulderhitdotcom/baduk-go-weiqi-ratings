@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunseon Vs Oh Jeonga** | **Kim Eunseon Streak** | **Oh Jeonga Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-08 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Kim Eunseon | B+7.5 | 6.5 | 0:7 | 0 | 7 | 
 | 2021-08-04 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Kim Eunseon | Oh Jeonga | W+0.5 | 6.5 | 0:6 | 0 | 6 | 
 | 2018-05-06 | 第4回韓国女子囲碁リーグ第15節 | Kim Eunseon | Oh Jeonga | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2016-09-21 | 第21期女流国手戦8強戦 | Kim Eunseon | Oh Jeonga | W+R | 6.5 | 0:4 | 0 | 4 | 

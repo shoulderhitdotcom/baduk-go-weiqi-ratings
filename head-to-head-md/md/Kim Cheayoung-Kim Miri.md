@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Kim Miri** | **Kim Cheayoung Streak** | **Kim Miri Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-08 | 第8回韓国女子囲碁リーグ | Kim Miri | Kim Cheayoung | W+R | 6.5 | 10:1 | 10 | 0 | 
 | 2021-08-15 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Miri | B+R | 6.5 | 9:1 | 9 | 0 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Miri | B+2.5 | 6.5 | 8:1 | 8 | 0 | 
 | 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | B+R | 6.5 | 7:1 | 7 | 0 | 

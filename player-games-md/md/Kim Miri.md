@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-08 | 第8回韓国女子囲碁リーグ | Kim Miri | Kim Cheayoung | Lose | W+R | 6.5 | 2728 | -35 | 
 | 2022-06-30 | 第8回韓国女子囲碁リーグ | Kim Eunji | Kim Miri | Lose | B+R | 6.5 | 2763 | 38 | 
 | 2022-06-23 | 第8回韓国女子囲碁リーグ | Kim Miri | Park Jiyeon | Win | B+R | 6.5 | 2725 | 39 | 
 | 2022-06-17 | 第8回韓国女子囲碁リーグ | Kim Miri | Lee Minjin | Win | B+2.5 | 6.5 | 2686 | -6 | 
@@ -20,8 +21,8 @@
 | 2022-03-29 | 2021-2022フューチャーズリーグ | Kim Miri | Ryu Minhyung | Lose | W+4.5 | 6.5 | 2789 | 2 | 
 | 2022-03-25 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Ilhwan | Kim Miri | Win | W+4.5 | 6.5 | 2787 | 5 | 
 | 2022-03-16 | 2021-2022フューチャーズリーグ | Kwak Wonkeun | Kim Miri | Lose | B+R | 6.5 | 2782 | -5 | 
-| 2022-03-15 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Miri | Lose | B+R | 6.5 | 2787 | 70 | 
-| 2022-02-26 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Kim Miri | Lose | B+R | 6.5 | 2717 | -5 | 
+| 2022-03-15 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Miri | Lose | B+R | 6.5 | 2787 | 69 | 
+| 2022-02-26 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Kim Miri | Lose | B+R | 6.5 | 2718 | -4 | 
 | 2022-02-12 | 2021-2022フューチャーズリーグ | Kim Miri | Wi Taewoong | Lose | W+7.5 | 6.5 | 2722 | 14 | 
 | 2022-02-05 | 2021-2022フューチャーズリーグ | Kim Miri | Kang Jihoon | Lose | W+R | 6.5 | 2708 | -46 | 
 | 2022-01-23 | 2021-2022フューチャーズリーグ | Kim Miri | Lee Sanghun | Lose | W+R | 6.5 | 2754 | -34 | 
@@ -29,8 +30,8 @@
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Lose | W+R | 6.5 | 2796 | -3 | 
 | 2022-01-01 | 2021-2022フューチャーズリーグ | Lee Euihyun | Kim Miri | Win | W+R | 6.5 | 2799 | 47 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Miri | Lee Hyunho | Lose | W+R | 6.5 | 2752 | 6 | 
-| 2021-12-22 | 2021-2022フューチャーズリーグ | Kim Miri | Choi Kyeongho | Lose | W+R | 6.5 | 2746 | 29 | 
-| 2021-12-01 | 2021-2022フューチャーズリーグ | Choi Kihoon | Kim Miri | Lose | B+R | 6.5 | 2717 | -9 | 
+| 2021-12-22 | 2021-2022フューチャーズリーグ | Kim Miri | Choi Kyeongho | Lose | W+R | 6.5 | 2746 | 28 | 
+| 2021-12-01 | 2021-2022フューチャーズリーグ | Choi Kihoon | Kim Miri | Lose | B+R | 6.5 | 2718 | -8 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Miri | Lose | B+0.5 | 6.5 | 2726 | -15 | 
 | 2021-11-08 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Miri | Lose | B+R | 6.5 | 2741 | -202 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Miri | Kim Dayoung | Win | B+6.5 | 6.5 | 2943 | 50 | 
@@ -49,8 +50,8 @@
 | 2021-05-22 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Win | W+R | 6.5 | 2885 | 29 | 
 | 2021-04-28 | 第26回LG杯韓国予選 | Ko Keuntae | Kim Miri | Win | W+7.5 | 6.5 | 2856 | 93 | 
 | 2021-03-04 | 第8回大舟杯プロシニア最強者戦1回戦 | Kim Miri | Yoo Changhyuk | Lose | W+R | 6.5 | 2763 | 145 | 
-| 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | Lose | B+R | 6.5 | 2618 | -16 | 
-| 2020-10-27 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Miri | Cho Seungah | Win | B+R | 6.5 | 2634 | 91 | 
+| 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | Lose | B+R | 6.5 | 2618 | -17 | 
+| 2020-10-27 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Miri | Cho Seungah | Win | B+R | 6.5 | 2635 | 92 | 
 | 2020-09-08 | 第14回GGオークション杯女流対シニア連勝対抗戦第12局 | Kim Miri | An Joyeong | Lose | W+7.5 | 6.5 | 2543 | -12 | 
 | 2020-09-07 | 第14回GGオークション杯女流対シニア連勝対抗戦第11局 | Kim Chongsu | Kim Miri | Win | W+R | 6.5 | 2555 | 69 | 
 | 2020-09-01 | 第14回GGオークション杯女流対シニア連勝対抗戦第10局 | Kim Dongyeop | Kim Miri | Win | W+12.5 | 6.5 | 2486 | -14 | 

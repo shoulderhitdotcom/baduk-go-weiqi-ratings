@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-07 | 第8回韓国女子囲碁リーグ | Oh Yujin |  | Win | B+R | 6.5 | 3173 | 27 | 
 | 2022-07-05 | 第24回農心杯韓国予選 |  | Oh Yujin | Win | W+R | 6.5 | 3146 | 3 | 
 | 2022-07-03 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Yujin | Lose | B+R | 6.5 | 3143 | -21 | 
 | 2022-06-30 | 第8回国手山脈国際囲碁大会韓国予選 | Oh Yujin |  | Win | B+R | 6.5 | 3164 | -1 | 
@@ -17,8 +18,8 @@
 | 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Park Taehee | Oh Yujin | Lose | B+R | 6.5 | 3146 | -5 | 
 | 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Win | W+R | 6.5 | 3151 | 12 | 
 | 2022-05-28 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Miri | Win | B+R | 6.5 | 3139 | 19 | 
-| 2022-04-19 | 第27回LG杯韓国予選 | Kim Jinhyu | Oh Yujin | Lose | B+R | 6.5 | 3120 | -6 | 
-| 2022-04-14 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Yujin | Cho Hyeyeon | Win | B+R | 6.5 | 3126 | -1 | 
+| 2022-04-19 | 第27回LG杯韓国予選 | Kim Jinhyu | Oh Yujin | Lose | B+R | 6.5 | 3120 | -5 | 
+| 2022-04-14 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Yujin | Cho Hyeyeon | Win | B+R | 6.5 | 3125 | -2 | 
 | 2022-04-08 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Yujin | Lee Youngjoo | Win | B+R | 6.5 | 3127 | -2 | 
 | 2022-04-06 | 2022湖畔杯世界女子覇王戦韓国予選 |  | Oh Yujin | Win | W+R | 6.5 | 3129 | 0 | 
 | 2022-04-05 | 2022世界女子覇王戦韓国予選 | Gueon Hyojin | Oh Yujin | Win | W+R | 6.5 | 3129 | 10 | 
@@ -70,14 +71,14 @@
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | Lose | W+R | 7.5 | 3085 | -2 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li He | Oh Yujin | Win | W+1¼ | 7.5 | 3087 | -1 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Natalya Kovaleva | Oh Yujin | Win | W+R | 7.5 | 3088 | -2 | 
-| 2021-07-17 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | Lose | W+0.5 | 6.5 | 3090 | -24 | 
-| 2021-07-10 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Oh Yujin | Win | W+R | 6.5 | 3114 | -7 | 
+| 2021-07-17 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | Lose | W+0.5 | 6.5 | 3090 | -23 | 
+| 2021-07-10 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Oh Yujin | Win | W+R | 6.5 | 3113 | -8 | 
 | 2021-07-07 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Oh Yujin | Oh Jeonga | Lose | W+R | 6.5 | 3121 | -9 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Lose | B+R | 6.5 | 3130 | -17 | 
 | 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Oh Yujin |  | Win | B+7.5 | 6.5 | 3147 | 7 | 
 | 2021-06-27 | 第7回韓国女子囲碁リーグ | Oh Yujin | Heo Seohyun | Win | B+0.5 | 6.5 | 3140 | 27 | 
-| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Win | B+0.5 | 6.5 | 3113 | -3 | 
-| 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+R | 6.5 | 3116 | -1 | 
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Win | B+0.5 | 6.5 | 3113 | -2 | 
+| 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+R | 6.5 | 3115 | -2 | 
 | 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Win | W+R | 6.5 | 3117 | 15 | 
 | 2021-05-28 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | Lose | W+1.5 | 6.5 | 3102 | -28 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Win | W+R | 6.5 | 3130 | 17 | 
@@ -89,9 +90,9 @@
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Zhang Zhihan | Oh Yujin | Win | W+R | 7.5 | 3018 | 6 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Wang Chenxing | Lose | W+R | 7.5 | 3012 | -3 | 
 | 2021-03-06 | 2020-2021フューチャーズリーグ | Oh Yujin | Park Jaekeun | Win | B+R | 6.5 | 3015 | 33 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Oh Yujin | Lose | B+R | 6.5 | 2982 | -9 | 
-| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Lose | B+R | 6.5 | 2991 | 11 | 
-| 2021-02-21 | 2020-2021フューチャーズリーグ | Kim Sonjin | Oh Yujin | Win | W+R | 6.5 | 2980 | 50 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Oh Yujin | Lose | B+R | 6.5 | 2982 | -8 | 
+| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Lose | B+R | 6.5 | 2990 | 11 | 
+| 2021-02-21 | 2020-2021フューチャーズリーグ | Kim Sonjin | Oh Yujin | Win | W+R | 6.5 | 2979 | 49 | 
 | 2021-02-13 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Oh Yujin | Lose | B+R | 6.5 | 2930 | 11 | 
 | 2021-02-10 | 2020-2021フューチャーズリーグ | Lee Hobum | Oh Yujin | Win | W+1.5 | 6.5 | 2919 | 5 | 
 | 2021-02-04 | 第4期韓国竜星戦予選 | Cho Seungah | Oh Yujin | Lose | B+R | 6.5 | 2914 | -8 | 
@@ -102,16 +103,16 @@
 | 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Yujin | Han Sanghoon | Lose | W+R | 6.5 | 2923 | 3 | 
 | 2021-01-02 | 2020-2021フューチャーズリーグ | Oh Yujin |  | Lose | W+R | 6.5 | 2920 | -14 | 
 | 2020-12-30 | 2020-2021フューチャーズリーグ | Lee Hyeonjun | Oh Yujin | Win | W+R | 6.5 | 2934 | 9 | 
-| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Oh Yujin |  | Lose | W+2.5 | 6.5 | 2925 | 8 | 
-| 2020-12-19 | 2020-2021フューチャーズリーグ | Oh Yujin | Lee Hobum | Lose | W+R | 6.5 | 2917 | -26 | 
-| 2020-12-12 | 2020-2021フューチャーズリーグ | Oh Yujin | Baek Chanhee | Lose | W+R | 6.5 | 2943 | 8 | 
+| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Oh Yujin |  | Lose | W+2.5 | 6.5 | 2925 | 9 | 
+| 2020-12-19 | 2020-2021フューチャーズリーグ | Oh Yujin | Lee Hobum | Lose | W+R | 6.5 | 2916 | -26 | 
+| 2020-12-12 | 2020-2021フューチャーズリーグ | Oh Yujin | Baek Chanhee | Lose | W+R | 6.5 | 2942 | 7 | 
 | 2020-12-09 | 2020-2021KBフューチャーズリーグ | Oh Yujin | Kim Sedong | Lose | W+R | 6.5 | 2935 | 10 | 
 | 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Oh Yujin | Kim Junghyun | Lose | W+R | 6.5 | 2925 | -16 | 
 | 2020-12-02 | 2020-2021フューチャーズリーグ | Park Younglong | Oh Yujin | Win | W+2.5 | 6.5 | 2941 | -28 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Tang Jiawen | Oh Yujin | Win | W+R | 7.5 | 2969 | 24 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Lu Minquan | Win | B+R | 7.5 | 2945 | 21 | 
-| 2020-11-17 | 第8回中国女子囲碁甲級リーグ |  | Oh Yujin | Win | W+R | 7.5 | 2924 | 31 | 
-| 2020-10-26 | 第4期韓国製紙女子棋聖戦1回戦 | Cho Hyeyeon | Oh Yujin | Lose | B+0.5 | 6.5 | 2893 | -89 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ |  | Oh Yujin | Win | W+R | 7.5 | 2924 | 32 | 
+| 2020-10-26 | 第4期韓国製紙女子棋聖戦1回戦 | Cho Hyeyeon | Oh Yujin | Lose | B+0.5 | 6.5 | 2892 | -90 | 
 | 2020-10-09 | 第25期女流国手戦準決勝 | Kim Hyeoimin | Oh Yujin | Lose | B+R | 6.5 | 2982 | -5 | 
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Zhou Hongyu | Lose | W+R | 7.5 | 2987 | 2 | 
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Oh Yujin | Wu Yiming | Win | B+R | 7.5 | 2985 | 22 | 

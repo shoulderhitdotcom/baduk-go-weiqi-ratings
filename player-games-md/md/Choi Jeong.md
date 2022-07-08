@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-08 | 第24回農心杯韓国予選 | Choi Jeong | Kim Seongjae | Lose | W+R | 6.5 | 3317 | -4 | 
 | 2022-07-07 | 第45期名人戦（韓国）1回戦 | Shen Zaiyi | Choi Jeong | Lose | B+R | 6.5 | 3321 | -5 | 
 | 2022-07-02 | 第8回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+7.5 | 6.5 | 3326 | -5 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会韓国予選 |  | Choi Jeong | Lose | B+2.5 | 6.5 | 3331 | -17 | 

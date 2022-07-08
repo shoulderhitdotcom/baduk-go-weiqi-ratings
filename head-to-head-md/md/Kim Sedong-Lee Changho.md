@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Sedong vs Lee Changho** | **Kim Sedong streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Sedong Vs Lee Changho** | **Kim Sedong Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Lee Changho | Kim Sedong | W+9.5 | 6.5 | 2:0 | 2 | 0 | 

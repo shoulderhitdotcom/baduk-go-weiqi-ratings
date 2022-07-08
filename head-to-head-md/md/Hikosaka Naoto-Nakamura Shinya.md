@@ -5,11 +5,11 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hikosaka Naoto vs Nakamura Shinya** | **Hikosaka Naoto streak** | **Nakamura Shinya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hikosaka Naoto Vs Nakamura Shinya** | **Hikosaka Naoto Streak** | **Nakamura Shinya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-08 | 第47期名人戦予選 | Nakamura Shinya | Hikosaka Naoto | B+R | 6.5 | 0:1 | 0 | 1 | 
-| 2017-05-18 | 第43期碁聖戦　予選B決勝 | Hikosaka Naoto | Nakamura Shinya | W+1.5 | 6.5 | 0:3 | 0 | 3 | 
-| 2014-10-16 | 第41期天元戦予選 | Hikosaka Naoto | Nakamura Shinya | W+R | 6.5 | 0:2 | 0 | 2 |
+| 2021-07-08 | 第47期名人戦予選 | Nakamura Shinya | Hikosaka Naoto | B+R | 6.5 | 0:3 | 0 | 3 | 
+| 2017-05-18 | 第43期碁聖戦　予選B決勝 | Hikosaka Naoto | Nakamura Shinya | W+1.5 | 6.5 | 0:2 | 0 | 2 | 
+| 2014-10-16 | 第41期天元戦予選 | Hikosaka Naoto | Nakamura Shinya | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

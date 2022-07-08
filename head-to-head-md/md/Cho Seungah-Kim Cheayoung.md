@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Kim Cheayoung** | **Cho Seungah Streak** | **Kim Cheayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-07 | 第24回農心杯韓国予選 | Kim Cheayoung | Cho Seungah | B+R | 6.5 | 6:6 | 0 | 1 | 
 | 2022-06-29 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Cheayoung | Cho Seungah | W+R | 6.5 | 6:5 | 3 | 0 | 
 | 2022-06-09 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | W+R | 6.5 | 5:5 | 2 | 0 | 
 | 2022-02-17 | 第5期韓国竜星戦予選 | Kim Cheayoung | Cho Seungah | W+R | 6.5 | 4:5 | 1 | 0 | 

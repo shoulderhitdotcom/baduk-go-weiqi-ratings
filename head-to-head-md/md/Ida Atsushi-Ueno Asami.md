@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ida Atsushi vs Ueno Asami** | **Ida Atsushi streak** | **Ueno Asami streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ida Atsushi Vs Ueno Asami** | **Ida Atsushi Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Ueno Asami | Ida Atsushi | W+R | 6.5 | 1:0 | 1 | 0 |
 

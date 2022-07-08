@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Hikosaka Naoto** | **Hane Naoki streak** | **Hikosaka Naoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Hikosaka Naoto** | **Hane Naoki Streak** | **Hikosaka Naoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-09-24 | 第41期名人戦予選 | Hikosaka Naoto | Hane Naoki | W+R | 6.5 | 3:2 | 2 | 0 | 
 | 2008-02-28 | 第56期王座戦予選 | Hane Naoki | Hikosaka Naoto | B+R | 6.5 | 2:2 | 1 | 0 | 

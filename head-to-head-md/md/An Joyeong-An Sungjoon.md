@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Joyeong vs An Sungjoon** | **An Joyeong streak** | **An Sungjoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Joyeong Vs An Sungjoon** | **An Joyeong Streak** | **An Sungjoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-14 | 2017年韓国囲碁リーグ | An Joyeong | An Sungjoon | W+R | 6.5 | 1:2 | 0 | 1 | 
 | 2011-09-11 | 2011年韓国囲碁リーグ | An Sungjoon | An Joyeong | W+R | 6.5 | 1:1 | 1 | 0 | 

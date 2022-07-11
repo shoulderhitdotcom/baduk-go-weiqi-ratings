@@ -7,15 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-06-06 | 第7回扇興杯女流最強戦1回戦 | Fujisawa Rina | Kato Chie | Lose | B+5.5 | 6.5 | 2778 | 91 | 
-| 2022-05-26 | 第41期女流本因坊戦2回戦 | Konishi Kazuko | Kato Chie | Win | W+3.5 | 6.5 | 2687 | -20 | 
-| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Kato Chie | Kibe Natsuki | Lose | W+6.5 | 6.5 | 2707 | -83 | 
-| 2022-02-24 | 第47期新人王戦1回戦 | Kato Chie |  | Win | B+R | 6.5 | 2790 | 63 | 
-| 2022-02-07 | 第41期女流本因坊戦予選 |  | Kato Chie | Win | W+R | 6.5 | 2727 | 59 | 
-| 2021-12-06 | 第25期女流棋聖戦挑戦者決定戦 | Suzuki Ayumi | Kato Chie | Lose | B+4.5 | 6.5 | 2668 | 6 | 
-| 2021-11-25 | 第25期女流棋聖戦準決勝 | Tsukuda Akiko | Kato Chie | Win | W+R | 6.5 | 2662 | 38 | 
-| 2021-11-11 | 第25期女流棋聖戦2回戦 | Fujisawa Rina | Kato Chie | Win | W+R | 6.5 | 2624 | 149 | 
-| 2021-10-28 | 第25期女流棋聖戦1回戦 | Koyama Mitsuru | Kato Chie | Win | W+1.5 | 6.5 | 2475 | 143 | 
+| 2022-07-11 | 第41期女流本因坊戦3回戦 | Nyu Eiko | Kato Chie | Win | W+R | 6.5 | 2824 | 47 | 
+| 2022-06-06 | 第7回扇興杯女流最強戦1回戦 | Fujisawa Rina | Kato Chie | Lose | B+5.5 | 6.5 | 2777 | 91 | 
+| 2022-05-26 | 第41期女流本因坊戦2回戦 | Konishi Kazuko | Kato Chie | Win | W+3.5 | 6.5 | 2686 | -20 | 
+| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Kato Chie | Kibe Natsuki | Lose | W+6.5 | 6.5 | 2706 | -83 | 
+| 2022-02-24 | 第47期新人王戦1回戦 | Kato Chie |  | Win | B+R | 6.5 | 2789 | 63 | 
+| 2022-02-07 | 第41期女流本因坊戦予選 |  | Kato Chie | Win | W+R | 6.5 | 2726 | 58 | 
+| 2021-12-06 | 第25期女流棋聖戦挑戦者決定戦 | Suzuki Ayumi | Kato Chie | Lose | B+4.5 | 6.5 | 2668 | 7 | 
+| 2021-11-25 | 第25期女流棋聖戦準決勝 | Tsukuda Akiko | Kato Chie | Win | W+R | 6.5 | 2661 | 37 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Fujisawa Rina | Kato Chie | Win | W+R | 6.5 | 2624 | 150 | 
+| 2021-10-28 | 第25期女流棋聖戦1回戦 | Koyama Mitsuru | Kato Chie | Win | W+1.5 | 6.5 | 2474 | 142 | 
 | 2021-08-05 | 第6回扇興杯女流最強戦2回戦 | Xie Yimin | Kato Chie | Lose | B+R | 6.5 | 2332 | 91 | 
 | 2021-06-24 | 第6回扇興杯女流最強戦1回戦 | Kato Chie | Kibe Natsuki | Win | B+R | 6.5 | 2241 | 17 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Kato Chie | Ueno Asami | Lose | W+R | 6.5 | 2224 | 49 | 

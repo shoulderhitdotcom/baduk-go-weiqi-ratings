@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-09 | 第61期十段戦予選 | Kudo Norio | Mannami Kana | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-11-25 | 第41期女流本因坊戦予選 | Mannami Kana | Okuda Aya | Lose | W+R | 6.5 | missing | 0 | 

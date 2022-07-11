@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-11 | 第16回GGオークション杯女流対シニア連勝対抗戦第9局 | Kim Yoonyoung | Seo Joonghui | Lose | W+R | 6.5 | 2868 | 1 | 
 | 2022-07-10 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Hyoyoung | Lose | W+R | 6.5 | 2867 | -61 | 
 | 2022-07-03 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Yujin | Win | B+R | 6.5 | 2928 | -2 | 
 | 2022-06-25 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Yoonyoung | Lose | B+R | 6.5 | 2930 | 68 | 

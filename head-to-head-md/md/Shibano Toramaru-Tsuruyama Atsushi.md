@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shibano Toramaru vs Tsuruyama Atsushi** | **Shibano Toramaru streak** | **Tsuruyama Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Tsuruyama Atsushi** | **Shibano Toramaru Streak** | **Tsuruyama Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | W+R | 6.5 | 3:0 | 3 | 0 | 
 | 2021-01-14 | 第76期本因坊戦リーグ  | Shibano Toramaru | Tsuruyama Atsushi | B+R | 6.5 | 2:0 | 2 | 0 | 

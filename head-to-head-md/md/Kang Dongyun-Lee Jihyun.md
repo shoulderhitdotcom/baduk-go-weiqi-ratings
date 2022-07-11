@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Jihyun** | **Kang Dongyun Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-11 | 2022YK建機杯リーグ | Kang Dongyun | Lee Jihyun | W+R | 6.5 | 4:5 | 0 | 1 | 
 | 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Jihyun | Kang Dongyun | W+R | 6.5 | 4:4 | 1 | 0 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Kang Dongyun | B+R | 7.5 | 3:4 | 0 | 2 | 
 | 2018-08-23 | 2018年韓国囲碁リーグ第9節 | Lee Jihyun | Kang Dongyun | B+R | 6.5 | 3:3 | 0 | 1 | 

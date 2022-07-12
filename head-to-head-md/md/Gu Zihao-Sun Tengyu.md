@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Sun Tengyu** | **Gu Zihao streak** | **Sun Tengyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Sun Tengyu** | **Gu Zihao Streak** | **Sun Tengyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-12-28 | 第8期中国竜星戦Bブロック4回戦 | Gu Zihao | Sun Tengyu | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2015-05-03 | 第28期中国囲碁名人戦予選 | Sun Tengyu | Gu Zihao | B+R | 7.5 | 0:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Sun Tengyu** | **Mi Yuting streak** | **Sun Tengyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Sun Tengyu** | **Mi Yuting Streak** | **Sun Tengyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Mi Yuting | Sun Tengyu | B+R | 7.5 | 1:0 | 1 | 0 |
 

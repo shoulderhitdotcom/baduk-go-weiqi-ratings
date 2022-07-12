@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Wang Haoyang** | **Mi Yuting streak** | **Wang Haoyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Wang Haoyang** | **Mi Yuting Streak** | **Wang Haoyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Wang Haoyang | Mi Yuting | W+1.5 | 7.5 | 3:0 | 3 | 0 | 
 | 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Mi Yuting | Wang Haoyang | B+R | 7.5 | 2:0 | 2 | 0 | 

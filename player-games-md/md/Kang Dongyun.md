@@ -32,8 +32,8 @@
 | 2022-04-11 | 2022YK建機杯リーグ | Kim Myounghoon | Kang Dongyun | Win | W+R | 6.5 | 3480 | 6 | 
 | 2022-04-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Cho Hanseung | Win | B+R | 6.5 | 3474 | -4 | 
 | 2022-04-04 | 2022YK建機杯リーグ | Kang Dongyun | Weon Seongjin | Win | B+R | 6.5 | 3478 | 0 | 
-| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Win | B+R | 6.5 | 3478 | 12 | 
-| 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3466 | -24 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Win | B+R | 6.5 | 3478 | 11 | 
+| 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3467 | -23 | 
 | 2022-03-24 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Lose | W+R | 6.5 | 3490 | -4 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3494 | -2 | 
 | 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Win | W+1.5 | 6.5 | 3496 | 5 | 
@@ -107,8 +107,8 @@
 | 2021-02-19 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3464 | 41 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kang Dongyun | Lose | B+1.5 | 6.5 | 3423 | -1 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Han Wonggyu | Kang Dongyun | Lose | B+R | 6.5 | 3424 | -7 | 
-| 2021-02-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Kang Dongyun | Win | W+R | 6.5 | 3431 | 12 | 
-| 2021-02-05 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Win | B+R | 6.5 | 3419 | 4 | 
+| 2021-02-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Kang Dongyun | Win | W+R | 6.5 | 3431 | 11 | 
+| 2021-02-05 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Win | B+R | 6.5 | 3420 | 5 | 
 | 2021-02-02 | 第4期韓国竜星戦予選 | Kang Dongyun | Kim Hyeongwoo | Win | B+4.5 | 6.5 | 3415 | 9 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | Lose | B+R | 6.5 | 3406 | -8 | 
 | 2021-01-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3414 | -2 | 

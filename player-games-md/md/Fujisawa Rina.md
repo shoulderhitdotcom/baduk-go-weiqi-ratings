@@ -38,8 +38,8 @@
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3061 | -5 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3066 | 7 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 3059 | -6 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3065 | 10 | 
-| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3055 | -16 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3065 | 9 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3056 | -15 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Lose | W+R | 6.5 | 3071 | -1 | 
 | 2021-06-28 | 第6回扇興杯女流最強戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3072 | 7 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Lose | W+R | 6.5 | 3065 | -9 | 
@@ -85,8 +85,8 @@
 | 2020-06-29 | 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | Lose | W+R | 6.5 | 3111 | 7 | 
 | 2020-06-15 | 第45期新人王戦2回戦 | Fujisawa Rina | Abe Yoshiki | Win | B+R | 6.5 | 3104 | 3 | 
 | 2020-04-02 | 第39期女流本因坊戦2回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+1.5 | 6.5 | 3101 | 27 | 
-| 2020-02-27 | 第76期本因坊戦予選 | Ryu Shikun | Fujisawa Rina | Lose | B+R | 6.5 | 3074 | -12 | 
-| 2020-02-20 | 第45期新人王戦1回戦 | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3086 | 4 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Ryu Shikun | Fujisawa Rina | Lose | B+R | 6.5 | 3074 | -13 | 
+| 2020-02-20 | 第45期新人王戦1回戦 | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3087 | 5 | 
 | 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3082 | 0 | 
 | 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3082 | -3 | 
 | 2020-02-06 | 第76期本因坊戦予選 | Numadate Sakiya | Fujisawa Rina | Win | W+0.5 | 6.5 | 3085 | 71 | 

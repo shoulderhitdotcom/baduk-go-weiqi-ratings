@@ -19,8 +19,8 @@
 | 2022-05-19 | 第12期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3241 | -44 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3285 | 3 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Win | W+0.5 | 6.5 | 3282 | -3 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3285 | 18 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3267 | -4 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3285 | 17 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3268 | -3 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Shixun | Chen Qirui | Win | W+R | 6.5 | 3271 | 7 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3264 | 2 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3262 | -7 | 
@@ -148,10 +148,10 @@
 | 2020-03-06 | 第7回グロービス杯台湾予選 | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3147 | 4 | 
 | 2020-03-01 | 第7回グロービス杯台湾予選 | Lin Yanchen | Chen Qirui | Win | W+R | 6.5 | 3143 | -25 | 
 | 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Jian Jingting | Chen Qirui | Lose | B+R | 6.5 | 3168 | -6 | 
-| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3174 | -2 | 
-| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3176 | -10 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 3186 | 0 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Chen Shoulian | Chen Qirui | Win | W+R | 6.5 | 3186 | -6 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3174 | -3 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3177 | -10 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 3187 | 0 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Chen Shoulian | Chen Qirui | Win | W+R | 6.5 | 3187 | -5 | 
 | 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Qirui | Lin Yuxiang | Win | B+R | 6.5 | 3192 | 19 | 
 | 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Chen Qirui | Lin Shixun | Lose | W+R | 6.5 | 3173 | -3 | 
 | 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Chen Qirui | Lin Lixiang | Win | B+R | 6.5 | 3176 | 0 | 

@@ -132,8 +132,8 @@
 | 2021-02-18 | 2020-2021韓国囲碁リーグ | Baek Chanhee | Park Junghwan | Lose | B+0.5 | 6.5 | 3643 | 19 | 
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Lee Yeongkyu | Win | B+5.5 | 6.5 | 3624 | 9 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3615 | 6 | 
-| 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Win | B+R | 6.5 | 3609 | 8 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Park Junghwan | Win | W+0.5 | 6.5 | 3601 | 0 | 
+| 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Win | B+R | 6.5 | 3609 | 7 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Park Junghwan | Win | W+0.5 | 6.5 | 3602 | 1 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3601 | 21 | 
 | 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | Win | W+R | 6.5 | 3580 | 13 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | Lose | B+0.5 | 6.5 | 3567 | -23 | 
@@ -194,9 +194,9 @@
 | 2020-06-22 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3728 | 7 | 
 | 2020-06-15 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3721 | -30 | 
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Hong Kipyo | Park Junghwan | Win | W+R | 6.5 | 3751 | 3 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Win | W+R | 6.5 | 3748 | 4 | 
-| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Lose | B+3.5 | 6.5 | 3744 | -8 | 
-| 2020-05-25 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3752 | 23 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Win | W+R | 6.5 | 3748 | 3 | 
+| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Lose | B+3.5 | 6.5 | 3745 | -8 | 
+| 2020-05-25 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3753 | 24 | 
 | 2020-05-14 | 第25期GSカルテックス杯プロ棋戦8強戦 | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3729 | 4 | 
 | 2020-05-04 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3725 | 4 | 
 | 2020-05-03 | 韓国囲碁リーグオールスター戦第9局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3721 | -12 | 

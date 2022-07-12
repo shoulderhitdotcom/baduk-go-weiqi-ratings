@@ -24,8 +24,8 @@
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Kono Rin | Gu Li | Lose | W+¼ | 7.5 | 3005 | 18 | 
 | 2021-09-30 | 第47期名人戦予選 | Iida Junya | Kono Rin | Win | W+R | 6.5 | 2987 | -15 | 
 | 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | W+4.5 | 6.5 | 3002 | -94 | 
-| 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3096 | 6 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3090 | -24 | 
+| 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3096 | 5 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3091 | -23 | 
 | 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3114 | -34 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Lose | W+R | 6.5 | 3148 | -6 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Lose | W+R | 6.5 | 3154 | -25 | 
@@ -38,8 +38,8 @@
 | 2021-03-11 | 第46期名人戦リーグ | Kono Rin | Shibano Toramaru | Lose | W+1.5 | 6.5 | 3144 | -9 | 
 | 2021-03-05 | 第45期棋聖戦挑戦手合七番勝負第5局 | Kono Rin | Iyama Yuta | Lose | W+R | 6.5 | 3153 | -2 | 
 | 2021-02-17 | 第45期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Kono Rin | Win | W+R | 6.5 | 3155 | 16 | 
-| 2021-02-11 | 第46期名人戦リーグ | Anzai Nobuaki | Kono Rin | Lose | B+R | 6.5 | 3139 | -6 | 
-| 2021-02-06 | 第45期棋聖戦挑戦手合七番勝負第3局 | Kono Rin | Iyama Yuta | Lose | W+R | 6.5 | 3145 | 28 | 
+| 2021-02-11 | 第46期名人戦リーグ | Anzai Nobuaki | Kono Rin | Lose | B+R | 6.5 | 3139 | -7 | 
+| 2021-02-06 | 第45期棋聖戦挑戦手合七番勝負第3局 | Kono Rin | Iyama Yuta | Lose | W+R | 6.5 | 3146 | 29 | 
 | 2021-01-28 | 第69期王座戦予選 | Kono Rin | Chang Rueijie | Lose | W+R | 6.5 | 3117 | -13 | 
 | 2021-01-23 | 第45期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Kono Rin | Lose | B+R | 6.5 | 3130 | -28 | 
 | 2021-01-14 | 第45期棋聖戦挑戦手合七番勝負第1局 | Kono Rin | Iyama Yuta | Lose | W+R | 6.5 | 3158 | -5 | 
@@ -75,8 +75,8 @@
 | 2020-03-19 | 第45期名人戦リーグ | Kono Rin | Cho U | Lose | W+R | 6.5 | 3314 | -7 | 
 | 2020-03-06 | 第44期棋聖戦挑戦手合七番勝負第6局 | Kono Rin | Iyama Yuta | Lose | W+3.5 | 6.5 | 3321 | -22 | 
 | 2020-03-02 | 第68期王座戦予選 | Anzai Nobuaki | Kono Rin | Lose | B+R | 6.5 | 3343 | -13 | 
-| 2020-02-27 | 第44期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Kono Rin | Win | W+R | 6.5 | 3356 | 5 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Win | B+R | 6.5 | 3351 | -4 | 
+| 2020-02-27 | 第44期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Kono Rin | Win | W+R | 6.5 | 3356 | 4 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Win | B+R | 6.5 | 3352 | -3 | 
 | 2020-02-15 | 第44期棋聖戦挑戦手合七番勝負第4局 | Kono Rin | Iyama Yuta | Win | B+R | 6.5 | 3355 | 3 | 
 | 2020-02-10 | 第46期天元戦1回戦 | Kono Rin | Kitano Ryo | Win | B+5.5 | 6.5 | 3352 | -2 | 
 | 2020-02-06 | 第45期名人戦リーグ | Rin Kanketsu | Kono Rin | Lose | B+R | 6.5 | 3354 | -17 | 

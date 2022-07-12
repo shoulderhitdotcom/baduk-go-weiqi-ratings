@@ -33,8 +33,8 @@
 | 2020-08-31 | 第76期本因坊戦予選 | Tsuruyama Atsushi | Ida Atsushi | Win | B+6.5 | 6.5 | 3029 | -23 | 
 | 2020-08-06 | 第45期棋聖戦Bリーグ | Yamada Kimio | Tsuruyama Atsushi | Win | W+R | 6.5 | 3052 | 40 | 
 | 2020-07-30 | 第76期本因坊戦予選 | Ryu Shikun | Tsuruyama Atsushi | Win | W+R | 6.5 | 3012 | 52 | 
-| 2020-07-23 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Tsuruyama Atsushi | Lose | B+R | 6.5 | 2960 | -16 | 
-| 2020-02-20 | 第76期本因坊戦予選 | Tsuruyama Atsushi | Cho Sonjin | Win | B+5.5 | 6.5 | 2976 | -36 | 
+| 2020-07-23 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Tsuruyama Atsushi | Lose | B+R | 6.5 | 2960 | -17 | 
+| 2020-02-20 | 第76期本因坊戦予選 | Tsuruyama Atsushi | Cho Sonjin | Win | B+5.5 | 6.5 | 2977 | -35 | 
 | 2020-01-30 | 第68期王座戦予選 | Tsuruyama Atsushi | Hikosaka Naoto | Lose | W+2.5 | 6.5 | 3012 | missing |
 
 

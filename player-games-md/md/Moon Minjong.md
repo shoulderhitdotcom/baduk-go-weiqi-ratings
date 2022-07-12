@@ -46,8 +46,8 @@
 | 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3266 | -8 | 
 | 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Win | W+R | 6.5 | 3274 | 77 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Jen Youngkyu | Win | B+R | 6.5 | 3197 | -84 | 
-| 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | 3281 | 5 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3276 | -6 | 
+| 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | 3281 | 4 | 
+| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3277 | -5 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3282 | 1 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3281 | 28 | 
 | 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3253 | 0 | 

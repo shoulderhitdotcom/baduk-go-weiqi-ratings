@@ -21,8 +21,8 @@
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Lose | W+R | 7.5 | 3432 | -26 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Park Hamin | Han Sanghoon | Win | B+R | 7.5 | 3458 | 0 | 
 | 2022-04-03 | 2022年アジア競技大会韓国予選 | Song Gyusang | Park Hamin | Win | W+R | 7.5 | 3458 | 10 | 
-| 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Win | B+R | 6.5 | 3448 | 10 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Park Hamin | Win | W+R | 6.5 | 3438 | 16 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Win | B+R | 6.5 | 3448 | 9 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Park Hamin | Win | W+R | 6.5 | 3439 | 17 | 
 | 2022-03-19 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Seunghwa | Win | B+R | 6.5 | 3422 | -12 | 
 | 2022-03-15 | 2022年アジア競技大会韓国予選 | Park Hamin | Kim Jiseok | Lose | W+R | 7.5 | 3434 | 0 | 
 | 2022-03-15 | 2022年アジア競技大会韓国予選 | Byun Sangil | Park Hamin | Lose | B+R | 7.5 | 3434 | 18 | 
@@ -56,8 +56,8 @@
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Win | B+R | 6.5 | 3304 | 8 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Win | W+R | 6.5 | 3296 | -78 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3374 | -15 | 
-| 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Lose | B+R | 6.5 | 3389 | 25 | 
-| 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | Win | B+1.5 | 6.5 | 3364 | 13 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Lose | B+R | 6.5 | 3389 | 24 | 
+| 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | Win | B+1.5 | 6.5 | 3365 | 14 | 
 | 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Shin Jinseo | Park Hamin | Lose | B+R | 6.5 | 3351 | 0 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Park Hamin | Gon Jiwoo | Win | B+R | 6.5 | 3351 | 7 | 
 | 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Park Hamin | Cho Hanseung | Lose | W+R | 6.5 | 3344 | 3 | 
@@ -66,8 +66,8 @@
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Park Hamin | Gon Jiwoo | Lose | W+R | 6.5 | 3314 | -32 | 
 | 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Hamin | Choi Kyeongho | Win | B+1.5 | 6.5 | 3346 | 50 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Park Hamin | Kim Jiseok | Lose | W+R | 6.5 | 3296 | 0 | 
-| 2021-02-09 | 第4期韓国竜星戦1回戦 | Hong Mujin | Park Hamin | Lose | B+R | 6.5 | 3296 | 13 | 
-| 2021-02-05 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | Lose | W+R | 6.5 | 3283 | -27 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 | Hong Mujin | Park Hamin | Lose | B+R | 6.5 | 3296 | 12 | 
+| 2021-02-05 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | Lose | W+R | 6.5 | 3284 | -26 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Yun Junsang | Park Hamin | Win | W+R | 6.5 | 3310 | 24 | 
 | 2021-01-24 | 2020-2021韓国囲碁リーグ | Park Hamin | Baek Hyeonwoo | Win | B+R | 6.5 | 3286 | -14 | 
 | 2021-01-14 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Yeongkyu | Win | B+R | 6.5 | 3300 | 22 | 

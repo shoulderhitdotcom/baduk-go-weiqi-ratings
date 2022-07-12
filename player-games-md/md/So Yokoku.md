@@ -28,8 +28,8 @@
 | 2020-07-09 | 第45期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | Win | W+R | 6.5 | 2977 | 92 | 
 | 2020-06-29 | 第45期棋聖戦Aリーグ | So Yokoku | Yu Zhengqi | Lose | W+R | 6.5 | 2885 | 50 | 
 | 2020-03-19 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | So Yokoku | Lose | B+R | 6.5 | 2835 | -21 | 
-| 2020-03-12 | 第59期十段戦予選 | Takemiya Masaki | So Yokoku | Win | W+R | 6.5 | 2856 | 62 | 
-| 2020-02-20 | 第68期王座戦予選 | Akiyama Jiro | So Yokoku | Lose | B+R | 6.5 | 2794 | -119 | 
+| 2020-03-12 | 第59期十段戦予選 | Takemiya Masaki | So Yokoku | Win | W+R | 6.5 | 2856 | 61 | 
+| 2020-02-20 | 第68期王座戦予選 | Akiyama Jiro | So Yokoku | Lose | B+R | 6.5 | 2795 | -118 | 
 | 2020-02-13 | 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | Win | B+R | 6.5 | 2913 | 188 | 
 | 2020-02-06 | 第45期棋聖戦Aリーグ | Yoda Norimoto | So Yokoku | Lose | B+R | 6.5 | 2725 | -60 | 
 | 2020-01-09 | 第46期天元戦1回戦 | So Yokoku | Seto Taiki | Lose | W+R | 6.5 | 2785 | missing |

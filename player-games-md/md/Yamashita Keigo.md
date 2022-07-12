@@ -30,12 +30,12 @@
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win | W+R | 6.5 | 3125 | -35 | 
 | 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3160 | -34 | 
 | 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Lose | W+4.5 | 6.5 | 3194 | -16 | 
-| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3210 | -27 | 
-| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3237 | -11 | 
+| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3210 | -28 | 
+| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3238 | -10 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3248 | -25 | 
 | 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3273 | -2 | 
-| 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3275 | 31 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3244 | 21 | 
+| 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3275 | 30 | 
+| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3245 | 22 | 
 | 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3223 | 4 | 
 | 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3219 | -21 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3240 | 1 | 
@@ -86,8 +86,8 @@
 | 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+0.5 | 6.5 | 3144 | 0 | 
 | 2020-03-19 | 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 3144 | 1 | 
 | 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | W+R | 6.5 | 3143 | -15 | 
-| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Lose | W+R | 6.5 | 3158 | -49 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3207 | -15 | 
+| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Lose | W+R | 6.5 | 3158 | -50 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3208 | -14 | 
 | 2020-02-13 | 第45期名人戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3222 | -2 | 
 | 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Win | W+R | 6.5 | 3224 | 9 | 
 | 2020-01-30 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | Win | B+R | 6.5 | 3215 | 11 | 

@@ -20,8 +20,8 @@
 | 2021-10-14 | 第60期十段戦1回戦 | Sun Zhe | Shida Tatsuya | Win | B+4.5 | 6.5 | 2973 | 25 | 
 | 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Lose | B+2.5 | 6.5 | 2948 | -23 | 
 | 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Win | W+R | 6.5 | 2971 | 64 | 
-| 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2907 | -68 | 
-| 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | 2975 | 42 | 
+| 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2907 | -69 | 
+| 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | 2976 | 43 | 
 | 2021-06-28 | 第69期王座戦1回戦 | Yuki Satoshi | Sun Zhe | Lose | B+R | 6.5 | 2933 | -79 | 
 | 2021-03-18 | 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | Lose | B+3.5 | 6.5 | 3012 | -49 | 
 | 2021-02-25 | 第69期王座戦予選 | Sun Zhe | Onishi Kenya | Win | B+0.5 | 6.5 | 3061 | -8 | 

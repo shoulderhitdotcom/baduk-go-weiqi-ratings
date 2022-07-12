@@ -49,10 +49,10 @@
 | 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3374 | -12 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kato Atsushi | Hsu Chiayuan | Win | W+R | 6.5 | 3386 | -40 | 
 | 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | Win | W+R | 6.5 | 3426 | 34 | 
-| 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3392 | -1 | 
-| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Win | W+R | 6.5 | 3393 | -3 | 
-| 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3396 | 58 | 
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3338 | -5 | 
+| 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3392 | -2 | 
+| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Win | W+R | 6.5 | 3394 | -2 | 
+| 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3396 | 57 | 
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3339 | -4 | 
 | 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Lose | B+R | 6.5 | 3343 | 12 | 
 | 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3331 | -16 | 
 | 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3347 | 20 | 
@@ -121,8 +121,8 @@
 | 2020-04-03 | 第75期本因坊戦リーグ  | Hsu Chiayuan | Shida Tatsuya | Win | B+R | 6.5 | 3361 | -5 | 
 | 2020-03-12 | 第75期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | Win | W+R | 6.5 | 3366 | 25 | 
 | 2020-03-05 | 第46期天元戦1回戦 | Hsu Chiayuan | Yokotsuka Riki | Win | B+R | 6.5 | 3341 | -5 | 
-| 2020-02-27 | 第45期名人戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Lose | W+R | 6.5 | 3346 | 0 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Win | B+R | 6.5 | 3346 | 0 | 
+| 2020-02-27 | 第45期名人戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Lose | W+R | 6.5 | 3346 | -1 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Win | B+R | 6.5 | 3347 | 1 | 
 | 2020-02-13 | 第45期名人戦リーグ | Cho U | Hsu Chiayuan | Win | W+R | 6.5 | 3346 | -21 | 
 | 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Win | B+R | 6.5 | 3367 | 9 | 
 | 2020-01-16 | 第75期本因坊戦リーグ | Shibano Toramaru | Hsu Chiayuan | Lose | B+R | 6.5 | 3358 | missing |

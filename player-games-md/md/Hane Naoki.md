@@ -48,8 +48,8 @@
 | 2021-03-11 | 第46期名人戦リーグ | Anzai Nobuaki | Hane Naoki | Win | W+2.5 | 6.5 | 3109 | 46 | 
 | 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | Lose | W+R | 6.5 | 3063 | -44 | 
 | 2021-02-22 | 第46期棋聖戦Aリーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3107 | 33 | 
-| 2021-02-11 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 3074 | 9 | 
-| 2021-02-04 | 第46期名人戦リーグ | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 3065 | 51 | 
+| 2021-02-11 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 3074 | 8 | 
+| 2021-02-04 | 第46期名人戦リーグ | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 3066 | 52 | 
 | 2021-01-21 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | Win | W+R | 6.5 | 3014 | -47 | 
 | 2021-01-07 | 第46期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3061 | 53 | 
 | 2020-12-18 | 第76期本因坊戦リーグ | Hane Naoki | Hsu Chiayuan | Win | B+R | 6.5 | 3008 | -104 | 
@@ -75,8 +75,8 @@
 | 2020-03-19 | 第45期棋聖戦Bリーグ | Mutsuura Yuta | Hane Naoki | Lose | B+R | 6.5 | 3198 | -40 | 
 | 2020-03-12 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Lose | B+0.5 | 6.5 | 3238 | 2 | 
 | 2020-03-05 | 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | Lose | B+R | 6.5 | 3236 | -29 | 
-| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3265 | 4 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3261 | -33 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3265 | 3 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3262 | -32 | 
 | 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 3294 | -46 | 
 | 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3340 | 11 | 
 | 2020-01-16 | 第75期本因坊戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3329 | 15 | 

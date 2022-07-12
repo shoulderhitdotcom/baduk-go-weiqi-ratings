@@ -77,8 +77,8 @@
 | 2021-03-08 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Yoda Norimoto | Win | B+6.5 | 6.5 | 3244 | 9 | 
 | 2021-03-02 | 第59期十段戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3235 | -19 | 
 | 2021-02-22 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 3254 | 0 | 
-| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Lose | W+R | 6.5 | 3254 | 29 | 
-| 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3225 | 20 | 
+| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Lose | W+R | 6.5 | 3254 | 28 | 
+| 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3226 | 21 | 
 | 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3205 | -46 | 
 | 2021-01-14 | 第76期本因坊戦リーグ  | Shibano Toramaru | Tsuruyama Atsushi | Win | B+R | 6.5 | 3251 | 10 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Lose | B+R | 7.5 | 3241 | -13 | 

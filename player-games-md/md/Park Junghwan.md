@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-12 | 2022YK建機杯リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3694 | 3 | 
 | 2022-07-11 | 第45期名人戦（韓国）1回戦 | Park Junghwan | Cho Wankyu | Win | B+R | 6.5 | 3691 | 3 | 
 | 2022-07-04 | 2022YK建機杯リーグ | Park Junghwan | Kim Myounghoon | Win | B+R | 6.5 | 3688 | 12 | 
 | 2022-06-30 | 第27回GSカルテックス杯プロ棋戦3回戦 | Park Junghwan | Kim Myounghoon | Win | B+5.5 | 6.5 | 3676 | 0 | 

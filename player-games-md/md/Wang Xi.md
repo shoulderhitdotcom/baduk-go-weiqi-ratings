@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2017年中国囲碁乙級リーグ | Wang Xi | Li Kang | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGGNjoXwVp3prfnKnKETbg%3D%3D) | 
 | 2017年中国囲碁乙級リーグ | missing | Wang Xi | W+R | 2017-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDtQf8DcZGqq40ZILn0XWg%3D%3D) | 

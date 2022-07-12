@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2020年中国囲碁乙級リーグ | Mutsuura Yuta | Tong Yulin | B+1¾ | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GtpZJU54fNoxU5fid8Tx1w%3D%3D) | 
 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Tong Yulin | He Yuhan | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2BS8ChJGJMAzUFOJOqEqTw%3D%3D) | 

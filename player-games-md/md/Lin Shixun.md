@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-12 | 2021中国囲碁乙級リーグ | Lin Shixun | Wang Chuxuan | Lose | W+R | 7.5 | 3034 | -43 | 
 | 2022-07-11 | 2022新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Win | B+R | 7.5 | 3077 | 25 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Lin Shixun | Cai Chengwei | Lose | W+R | 6.5 | 3052 | -39 | 
 | 2022-07-04 | 2022新人王戦（台湾）準決勝 |  | Lin Shixun | Lose | B+R | 7.5 | 3091 | -2 | 

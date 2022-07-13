@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-12 | 第16回GGオークション杯女流対シニア連勝対抗戦第10局 | Seo Joonghui | Cho Seungah | Win | W+R | 6.5 | 3074 | 9 | 
 | 2022-07-10 | 第8回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+7.5 | 6.5 | 3065 | 7 | 
 | 2022-07-07 | 第24回農心杯韓国予選 | Kim Cheayoung | Cho Seungah | Lose | B+R | 6.5 | 3058 | -10 | 
 | 2022-07-03 | 第8回韓国女子囲碁リーグ | Lee Youngjoo | Cho Seungah | Win | W+R | 6.5 | 3068 | -8 | 
@@ -62,10 +63,10 @@
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+T | 6.5 | 3172 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3172 | 36 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Cho Seungah | Win | W+R | 6.5 | 3136 | -10 | 
-| 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3146 | -1 | 
-| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3147 | 1 | 
-| 2021-08-10 | 第26期女流国手戦1回戦 |  | Cho Seungah | Win | W+R | 6.5 | 3146 | -1 | 
-| 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3147 | -4 | 
+| 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3146 | -2 | 
+| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3148 | 1 | 
+| 2021-08-10 | 第26期女流国手戦1回戦 |  | Cho Seungah | Win | W+R | 6.5 | 3147 | -1 | 
+| 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3148 | -3 | 
 | 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+R | 6.5 | 3151 | 27 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3124 | 25 | 
 | 2021-07-21 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Cho Hyeyeon | Cho Seungah | Win | W+3.5 | 6.5 | 3099 | 0 | 
@@ -95,8 +96,8 @@
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Cho Seungah | Win | W+R | 7.5 | 2936 | 14 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Cho Seungah | Win | W+1¼ | 7.5 | 2922 | 35 | 
 | 2021-03-03 | 第4期韓国竜星戦2回戦 | Han Wonggyu | Cho Seungah | Lose | B+R | 6.5 | 2887 | 53 | 
-| 2021-02-08 | 第4期韓国竜星戦1回戦 | Choi Kyubyeong | Cho Seungah | Win | W+T | 6.5 | 2834 | -6 | 
-| 2021-02-04 | 第4期韓国竜星戦予選 | Cho Seungah | Oh Yujin | Win | B+R | 6.5 | 2840 | 45 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Choi Kyubyeong | Cho Seungah | Win | W+T | 6.5 | 2834 | -7 | 
+| 2021-02-04 | 第4期韓国竜星戦予選 | Cho Seungah | Oh Yujin | Win | B+R | 6.5 | 2841 | 46 | 
 | 2021-01-27 | 第4回クラウン・ヘテ杯3回戦 | Cho Seungah | Seol Hyunjun | Lose | W+R | 6.5 | 2795 | -14 | 
 | 2021-01-15 | 第44期名人戦（韓国）予選 | Kang Jihoon | Cho Seungah | Lose | B+R | 6.5 | 2809 | 6 | 
 | 2021-01-07 | 第4回クラウン・ヘテ杯2回戦 | Kim Changhoon | Cho Seungah | Win | W+R | 6.5 | 2803 | 50 | 
@@ -121,8 +122,8 @@
 | 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第1試合第3局 | Cho Hyeyeon | Cho Seungah | Lose | B+0.5 | 6.5 | 3017 | -10 | 
 | 2020-06-18 | 第6回韓国女子囲碁リーグ第5節第1試合第1局 | Cho Seungah | Kim Miri | Win | B+12.5 | 6.5 | 3027 | 5 | 
 | 2020-06-12 | 第6回韓国女子囲碁リーグ第4節第2試合第2局 |  | Cho Seungah | Win | W+R | 6.5 | 3022 | 26 | 
-| 2020-06-07 | 第6回韓国女子囲碁リーグ第3節第4試合第1局 | Heo Seohyun | Cho Seungah | Win | W+2.5 | 6.5 | 2996 | -42 | 
-| 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第1局 | Cho Seungah | Park Jiyeon | Win | B+R | 6.5 | 3038 | 22 | 
+| 2020-06-07 | 第6回韓国女子囲碁リーグ第3節第4試合第1局 | Heo Seohyun | Cho Seungah | Win | W+2.5 | 6.5 | 2996 | -43 | 
+| 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第1局 | Cho Seungah | Park Jiyeon | Win | B+R | 6.5 | 3039 | 23 | 
 | 2020-05-23 | 第6回韓国女子囲碁リーグ第1節第3試合第2局 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3016 | -19 | 
 | 2020-04-16 | 第25回LG杯韓国予選 | Han Sangcho | Cho Seungah | Lose | B+0.5 | 6.5 | 3035 | missing |
 

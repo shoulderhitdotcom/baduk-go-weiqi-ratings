@@ -81,7 +81,7 @@
 | 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Win | W+¼ | 7.5 | 2890 | -25 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+¾ | 7.5 | 2915 | -24 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ | Wang Lei (s) | Chen Shiyuan | Lose | B+R | 7.5 | 2939 | -12 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 2951 | -6 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Wang Zheyu | Lose | W+R | 7.5 | 2951 | -6 | 
 | 2020-11-16 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Kim Myounghoon | Lose | W+¼ | 7.5 | 2957 | -28 | 
 | 2020-11-15 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | Lose | W+R | 7.5 | 2985 | 16 | 
 | 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 2969 | -64 | 

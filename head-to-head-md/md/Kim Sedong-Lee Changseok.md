@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Sedong vs Lee Changseok** | **Kim Sedong streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Sedong Vs Lee Changseok** | **Kim Sedong Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | W+R | 6.5 | 1:0 | 1 | 0 |
 

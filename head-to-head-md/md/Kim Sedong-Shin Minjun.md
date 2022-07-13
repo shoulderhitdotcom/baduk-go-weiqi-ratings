@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Sedong vs Shin Minjun** | **Kim Sedong streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Sedong Vs Shin Minjun** | **Kim Sedong Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-08-16 | 2013年韓国囲碁リーグ | Shin Minjun | Kim Sedong | W+R | 6.5 | 1:0 | 1 | 0 |
 

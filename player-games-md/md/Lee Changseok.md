@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 2021中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Lose | W+R | 7.5 | 3437 | -10 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Gu Lingyi | Lee Changseok | Lose | B+R | 7.5 | 3447 | -34 | 
 | 2022-05-18 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | Win | B+R | 6.5 | 3481 | 17 | 
 | 2022-05-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3464 | -13 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3383 | -27 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Kang Seungmin | Shen Zaiyi | Lose | B+R | 7.5 | 3410 | -76 | 
 | 2022-07-07 | 第45期名人戦（韓国）1回戦 | Shen Zaiyi | Choi Jeong | Win | B+R | 6.5 | 3486 | 32 | 
 | 2022-06-24 | 第45期名人戦（韓国）予選 | Kim Cheayoung | Shen Zaiyi | Win | W+2.5 | 6.5 | 3454 | 13 | 

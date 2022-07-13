@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 2021中国囲碁乙級リーグ | Tong Yulin | Kang Seungmin | Win | W+R | 7.5 | 3413 | 13 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Kang Seungmin | Shen Zaiyi | Win | B+R | 7.5 | 3400 | 25 | 
 | 2022-07-05 | 第45期名人戦（韓国）1回戦 | Kang Seungmin | Seol Hyunjun | Win | B+R | 6.5 | 3375 | 4 | 
 | 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Win | B+R | 6.5 | 3371 | 4 | 

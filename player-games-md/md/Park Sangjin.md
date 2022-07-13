@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 2021中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Win | W+R | 7.5 | 3352 | 28 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Park Sangjin |  | Win | B+R | 7.5 | 3324 | -13 | 
 | 2022-07-04 | 第24回農心杯韓国予選 | Kim Sedong | Park Sangjin | Win | W+R | 6.5 | 3337 | 12 | 
 | 2022-06-30 | 第8回国手山脈国際囲碁大会韓国予選 | Park Sangjin | Moon Minjong | Lose | W+0.5 | 6.5 | 3325 | -15 | 

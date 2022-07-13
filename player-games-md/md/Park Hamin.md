@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 第24回農心杯韓国予選 | Park Hamin | Park Junghwan | Lose | W+R | 6.5 | 3470 | 0 | 
 | 2022-07-12 | 第24回農心杯韓国予選 | Park Hamin | Park Joonhoon | Win | B+R | 6.5 | 3470 | 10 | 
 | 2022-07-11 | 第24回農心杯韓国予選 | Moon Minjong | Park Hamin | Win | W+R | 6.5 | 3460 | 9 | 
 | 2022-07-07 | 第27回GSカルテックス杯プロ棋戦3回戦 | Byun Sangil | Park Hamin | Lose | B+R | 6.5 | 3451 | -16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 第45期名人戦（韓国）1回戦 | Shin Jinseo | Kim Sedong | Win | B+R | 6.5 | 3839 | 0 | 
 | 2022-07-12 | 2022YK建機杯リーグ | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3839 | 0 | 
 | 2022-07-08 | 第27回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Shin Jinseo | Win | W+R | 6.5 | 3839 | 0 | 
 | 2022-06-29 | 2022YK建機杯リーグ | Han Woojin | Shin Jinseo | Win | W+R | 6.5 | 3839 | 0 | 

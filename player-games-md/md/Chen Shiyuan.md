@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 2021中国囲碁乙級リーグ |  | Chen Shiyuan | Win | W+R | 7.5 | 3046 | 53 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Shuo | Chen Shiyuan | Lose | B+R | 7.5 | 2993 | -31 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選  | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 3024 | -16 | 
 | 2022-06-29 | 第3期聯電杯プロ囲碁戦敗部4回戦 | Chen Shiyuan | Lin Shixun | Win | B+R | 6.5 | 3040 | 3 | 

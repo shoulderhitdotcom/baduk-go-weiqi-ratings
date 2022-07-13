@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-13 | 第24回農心杯韓国予選 | Kim Jiseok | Byun Sangil | Lose | W+R | 6.5 | 3510 | -5 | 
 | 2022-07-12 | 第45期名人戦（韓国）1回戦 | Kim Seungjun | Kim Jiseok | Win | W+R | 6.5 | 3515 | -8 | 
 | 2022-06-24 | 第27回GSカルテックス杯プロ棋戦2回戦 | Cho Wankyu | Kim Jiseok | Lose | B+R | 6.5 | 3523 | -13 | 
 | 2022-06-23 | 第45期名人戦（韓国）予選 | Kim Jiseok | Lee Hobum | Win | B+R | 6.5 | 3536 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Jiang Weijie** | **Chen Qirui streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Jiang Weijie** | **Chen Qirui Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Jiang Weijie | Chen Qirui | B+R | 6.5 | 0:1 | 0 | 1 |
 

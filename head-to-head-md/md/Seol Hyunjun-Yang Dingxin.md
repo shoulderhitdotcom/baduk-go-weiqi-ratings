@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seol Hyunjun vs Yang Dingxin** | **Seol Hyunjun streak** | **Yang Dingxin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seol Hyunjun Vs Yang Dingxin** | **Seol Hyunjun Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Seol Hyunjun | B+R | 6.5 | 0:1 | 0 | 1 |
 

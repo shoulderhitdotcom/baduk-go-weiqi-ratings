@@ -5,9 +5,8 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Shida Tatsuya** | **Murakawa Daisuke streak** | **Shida Tatsuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Shida Tatsuya** | **Murakawa Daisuke Streak** | **Shida Tatsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-06-27 | 第75期本因坊戦予選 | Murakawa Daisuke | Shida Tatsuya | W+R | 6.5 | 5:1 | 0 | 1 | 
 | 2018-07-12 | 第43期棋聖戦Aリーグ | Shida Tatsuya | Murakawa Daisuke | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2018-01-25 | 第56期十段戦挑戦者決定戦 | Shida Tatsuya | Murakawa Daisuke | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2013-10-05 | 第20期阿含・桐山杯全日本早碁オープン戦決勝 | Murakawa Daisuke | Shida Tatsuya | B+3.5 | 6.5 | 3:0 | 3 | 0 | 

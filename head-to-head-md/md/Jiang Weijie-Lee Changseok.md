@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Lee Changseok** | **Jiang Weijie streak** | **Lee Changseok streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Lee Changseok** | **Jiang Weijie Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Jiang Weijie | Lee Changseok | B+6.5 | 6.5 | 1:0 | 1 | 0 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hong Mujin vs Kang Seungmin** | **Hong Mujin streak** | **Kang Seungmin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hong Mujin Vs Kang Seungmin** | **Hong Mujin Streak** | **Kang Seungmin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Kang Seungmin | W+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seto Taiki vs Shida Tatsuya** | **Seto Taiki streak** | **Shida Tatsuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seto Taiki Vs Shida Tatsuya** | **Seto Taiki Streak** | **Shida Tatsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | B+4.5 | 6.5 | 4:2 | 0 | 1 | 
 | 2019-01-17 | 第44期碁聖戦本戦2回戦 | Shida Tatsuya | Seto Taiki | W+4.5 | 6.5 | 4:1 | 1 | 0 | 

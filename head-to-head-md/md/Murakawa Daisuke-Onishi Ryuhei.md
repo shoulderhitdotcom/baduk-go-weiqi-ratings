@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Onishi Ryuhei** | **Murakawa Daisuke streak** | **Onishi Ryuhei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Onishi Ryuhei** | **Murakawa Daisuke Streak** | **Onishi Ryuhei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | W+5.5 | 6.5 | 4:1 | 3 | 0 | 
 | 2020-09-24 | 第46期名人戦予選 | Onishi Ryuhei | Murakawa Daisuke | W+R | 6.5 | 3:1 | 2 | 0 | 

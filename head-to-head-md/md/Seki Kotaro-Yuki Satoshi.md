@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seki Kotaro vs Yuki Satoshi** | **Seki Kotaro streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seki Kotaro Vs Yuki Satoshi** | **Seki Kotaro Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-19 | 第60期十段戦予選 | Yuki Satoshi | Seki Kotaro | B+R | 6.5 | 0:1 | 0 | 1 |
 

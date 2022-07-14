@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 第24回農心杯韓国予選 | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3526 | 13 | 
 | 2022-07-11 | 2022YK建機杯リーグ | Kang Dongyun | Lee Jihyun | Lose | W+R | 6.5 | 3513 | -1 | 
 | 2022-07-05 | 2022YK建機杯リーグ | Kang Dongyun | Kim Sedong | Win | B+R | 6.5 | 3514 | -11 | 
 | 2022-06-27 | 2022YK建機杯リーグ | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3525 | -2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 第24回農心杯韓国予選 | Kang Dongyun | Shin Minjun | Lose | B+R | 6.5 | 3523 | -6 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3529 | 12 | 
 | 2022-07-06 | 第45期名人戦（韓国）1回戦 | Shin Minjun | Lee Jihyun | Win | B+R | 6.5 | 3517 | -5 | 
 | 2022-06-23 | 第27回GSカルテックス杯プロ棋戦2回戦 | Shin Minjun | Park Jinsol | Lose | W+R | 6.5 | 3522 | 5 | 

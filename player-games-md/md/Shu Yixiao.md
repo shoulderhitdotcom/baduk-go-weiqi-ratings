@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2020年中国囲碁乙級リーグ | Shu Yixiao | Mutsuura Yuta | B+R | 2020-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U4rgbMDzpiJ7z5gY3SAlsw%3D%3D) | 
 | 第4回全国智力運動会プロ男子個人戦第2戦 | Tong Mengcheng | Shu Yixiao | W+R | 2019-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7H1hCzWjSQW9DJOd8eUUw%3D%3D) | 

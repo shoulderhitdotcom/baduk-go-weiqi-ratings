@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3330 | 8 | 
 | 2022-07-09 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Choi Jeong | Win | W+R | 6.5 | 3322 | 4 | 
 | 2022-07-08 | 第24回農心杯韓国予選 | Choi Jeong | Kim Seongjae | Lose | W+R | 6.5 | 3318 | -4 | 
 | 2022-07-07 | 第45期名人戦（韓国）1回戦 | Shen Zaiyi | Choi Jeong | Lose | B+R | 6.5 | 3322 | -5 | 
@@ -15,7 +16,7 @@
 | 2022-06-25 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Yoonyoung | Win | B+R | 6.5 | 3349 | 7 | 
 | 2022-06-18 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Eunji | Win | B+R | 6.5 | 3342 | 4 | 
 | 2022-06-10 | 第8回韓国女子囲碁リーグ | Park Taehee | Choi Jeong | Win | W+R | 6.5 | 3338 | 1 | 
-| 2022-06-08 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 |  | Choi Jeong | Lose | B+2.5 | 6.5 | 3337 | -5 | 
+| 2022-06-08 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Jeong Yujin | Choi Jeong | Lose | B+2.5 | 6.5 | 3337 | -5 | 
 | 2022-06-02 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3342 | -8 | 
 | 2022-05-29 | 第8回韓国女子囲碁リーグ | Kim Soojin | Choi Jeong | Lose | B+0.5 | 6.5 | 3350 | 6 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Cho Hanseung | Choi Jeong | Lose | B+R | 6.5 | 3344 | -7 | 
@@ -24,8 +25,8 @@
 | 2022-04-22 | 第27回LG杯韓国予選 | Choi Jeong | Choi Cheolhan | Win | B+R | 6.5 | 3343 | 11 | 
 | 2022-04-20 | 第27回LG杯韓国予選 | Heo Yongho | Choi Jeong | Win | W+1.5 | 6.5 | 3332 | 3 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Choi Jeong | Xie Yimin | Lose | W+R | 6.5 | 3329 | -14 | 
-| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Jeong | Win | W+R | 6.5 | 3343 | -3 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Choi Jeong | Win | W+R | 6.5 | 3346 | -4 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Jeong | Win | W+R | 6.5 | 3343 | -4 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Choi Jeong | Win | W+R | 6.5 | 3347 | -3 | 
 | 2022-03-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Park Geunho | Win | B+R | 6.5 | 3350 | 10 | 
 | 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Choi Jeong | Lose | B+0.5 | 6.5 | 3340 | 6 | 
 | 2022-03-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Choi Jeong | Win | W+R | 6.5 | 3334 | 47 | 
@@ -48,7 +49,7 @@
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Win | W+R | 6.5 | 3347 | 26 | 
 | 2022-01-04 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Lee Minjin | Win | B+2.5 | 6.5 | 3321 | 0 | 
 | 2022-01-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Lee Changseok | Lose | W+R | 6.5 | 3321 | 1 | 
-| 2022-01-01 | 2021女子最高棋士決定戦（韓国）リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3320 | 4 | 
+| 2022-01-01 | 2021女子最高棋士決定戦（韓国）リーグ | Jeong Yujin | Choi Jeong | Win | W+R | 6.5 | 3320 | 4 | 
 | 2021-12-30 | 2021-2022韓国囲碁リーグ | Lee Changho | Choi Jeong | Win | W+R | 6.5 | 3316 | 23 | 
 | 2021-12-22 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Choi Jeong | Win | W+R | 6.5 | 3293 | -10 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Choi Jaeyoung | Lose | W+R | 6.5 | 3303 | -8 | 
@@ -92,11 +93,11 @@
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | Win | W+R | 6.5 | 3343 | 6 | 
 | 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Win | B+R | 6.5 | 3337 | -1 | 
 | 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3338 | 4 | 
-| 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3334 | -2 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Nokyeong | Win | B+R | 6.5 | 3336 | 6 | 
-| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3330 | 8 | 
-| 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong | Lee Suljoo | Win | B+R | 6.5 | 3322 | 1 | 
-| 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3321 | -5 | 
+| 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3334 | -3 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Nokyeong | Win | B+R | 6.5 | 3337 | 6 | 
+| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3331 | 8 | 
+| 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong | Lee Suljoo | Win | B+R | 6.5 | 3323 | 1 | 
+| 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3322 | -4 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3326 | -4 | 
 | 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Win | B+R | 6.5 | 3330 | 28 | 
 | 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 3302 | 5 | 
@@ -104,17 +105,17 @@
 | 2021-07-22 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3301 | 9 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Gueon Hyojin | Choi Jeong | Win | W+R | 6.5 | 3292 | 5 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Win | B+R | 7.5 | 3287 | 9 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Choi Jeong | Win | W+R | 7.5 | 3278 | -5 | 
-| 2021-07-16 | 第7回韓国女子囲碁リーグ | Heo Seohyun | Choi Jeong | Win | W+R | 6.5 | 3283 | -3 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Choi Jeong | Win | W+R | 7.5 | 3278 | -6 | 
+| 2021-07-16 | 第7回韓国女子囲碁リーグ | Heo Seohyun | Choi Jeong | Win | W+R | 6.5 | 3284 | -2 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Choi Jeong | Cho Seungah | Win | B+R | 6.5 | 3286 | 0 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Park Taehee | Choi Jeong | Win | W+R | 6.5 | 3286 | -3 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Choi Jeong | Heo Seohyun | Win | B+2.5 | 6.5 | 3289 | 1 | 
 | 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | Lose | B+R | 6.5 | 3288 | -5 | 
-| 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Win | B+R | 6.5 | 3293 | 9 | 
-| 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3284 | -10 | 
+| 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Win | B+R | 6.5 | 3293 | 8 | 
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3285 | -9 | 
 | 2021-06-10 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Dayoung | Win | B+1.5 | 6.5 | 3294 | 5 | 
 | 2021-06-06 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3289 | -18 | 
-| 2021-05-29 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3307 | 11 | 
+| 2021-05-29 | 第7回韓国女子囲碁リーグ | Choi Jeong | Jeong Yujin | Win | B+R | 6.5 | 3307 | 11 | 
 | 2021-05-28 | 第44期名人戦（韓国）敗者復活戦2回戦 | Choi Jeong | Hyun Yoobin | Lose | W+1.5 | 6.5 | 3296 | -37 | 
 | 2021-05-22 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Choi Jeong | Win | W+R | 6.5 | 3333 | 17 | 
 | 2021-05-20 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3316 | -7 | 
@@ -136,8 +137,8 @@
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Choi Jeong | Gon Jiwoo | Lose | W+R | 6.5 | 3286 | -13 | 
 | 2021-02-19 | 第44期名人戦（韓国）1回戦 | Choi Jeong | Ko Keuntae | Win | B+R | 6.5 | 3299 | 43 | 
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Jeong | Win | W+R | 6.5 | 3256 | 17 | 
-| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Yeonghun | Choi Jeong | Lose | B+R | 6.5 | 3239 | -16 | 
-| 2021-02-07 | 2020-2021韓国囲碁リーグ | Choi Jeong | Lee Changseok | Lose | W+R | 6.5 | 3255 | 7 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Yeonghun | Choi Jeong | Lose | B+R | 6.5 | 3239 | -17 | 
+| 2021-02-07 | 2020-2021韓国囲碁リーグ | Choi Jeong | Lee Changseok | Lose | W+R | 6.5 | 3256 | 8 | 
 | 2021-02-02 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Na Hyun | Choi Jeong | Win | W+1.5 | 6.5 | 3248 | 15 | 
 | 2021-01-31 | 2020-2021韓国囲碁リーグ | Choi Jeong | Moon Minjong | Win | B+R | 6.5 | 3233 | 26 | 
 | 2021-01-21 | 2020-2021韓国囲碁リーグ | Choi Jeong | Lee Donghoon | Win | B+R | 6.5 | 3207 | 26 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 2021中国囲碁乙級リーグ | Chen Qirui |  | Lose | W+¼ | 7.5 | 3257 | -1 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ |  | Chen Qirui | Lose | B+R | 7.5 | 3258 | 24 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Zheyu | Chen Qirui | Lose | B+¾ | 7.5 | 3234 | -48 | 
 | 2022-07-11 | 2022新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Lose | B+R | 7.5 | 3282 | -22 | 

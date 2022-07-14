@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 第78期本因坊戦予選 | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 3208 | 5 | 
 | 2022-07-11 | 第47期棋聖戦Aリーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3203 | -49 | 
 | 2022-07-07 | 第47期名人戦リーグ  | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 3252 | 17 | 
 | 2022-06-23 | 第70期王座戦1回戦 | Hane Naoki | Yoda Norimoto | Win | B+0.5 | 6.5 | 3235 | -23 | 

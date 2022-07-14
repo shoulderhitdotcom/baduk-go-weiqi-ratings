@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-14 | 2021中国囲碁乙級リーグ |  | Lin Lixiang | Lose | B+R | 7.5 | 3128 | 0 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ | Lin Lixiang |  | Win | B+R | 7.5 | 3128 | 37 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Lin Lixiang |  | Lose | W+¾ | 7.5 | 3091 | -46 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+R | 6.5 | 3137 | -14 | 

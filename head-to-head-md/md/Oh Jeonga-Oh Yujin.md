@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Jeonga Vs Oh Yujin** | **Oh Jeonga Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Oh Yujin | W+R | 6.5 | 4:10 | 0 | 1 | 
 | 2021-07-07 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Oh Yujin | Oh Jeonga | W+R | 6.5 | 4:9 | 1 | 0 | 
 | 2020-08-14 | 第6回韓国女子囲碁リーグ第13節第2試合第1局 | Oh Jeonga | Oh Yujin | W+R | 6.5 | 3:9 | 0 | 3 | 
 | 2018-11-02 | 第9回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Oh Yujin | Oh Jeonga | B+R | 7.5 | 3:8 | 0 | 2 | 

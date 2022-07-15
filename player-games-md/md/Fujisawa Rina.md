@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Fujisawa Rina | Nakamura Sumire | Lose | W+1.5 | 6.5 | 3157 | -11 | 
 | 2022-07-11 | 第47期棋聖戦Cリーグ |  | Fujisawa Rina | Lose | B+1.5 | 6.5 | 3168 | -50 | 
 | 2022-07-07 | 第78期本因坊戦予選 | Fujisawa Rina | Nakamura Shinya | Win | B+R | 6.5 | 3218 | 12 | 
 | 2022-06-27 | 第7回扇興杯女流最強戦2回戦  |  | Fujisawa Rina | Win | W+R | 6.5 | 3206 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2990 | 61 | 
 | 2022-07-11 | 第41期女流本因坊戦3回戦 | Nyu Eiko | Kato Chie | Lose | W+R | 6.5 | 2929 | -33 | 
 | 2022-06-23 | 第7回扇興杯女流最強戦2回戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2962 | 49 | 
 | 2022-06-13 | 第41期女流本因坊戦2回戦  | Nyu Eiko | Koyama Mitsuru | Win | B+R | 6.5 | 2913 | 2 | 

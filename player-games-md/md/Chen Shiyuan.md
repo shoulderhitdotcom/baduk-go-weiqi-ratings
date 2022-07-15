@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3035 | -12 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3047 | 1 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ |  | Chen Shiyuan | Win | W+R | 7.5 | 3046 | 53 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Shuo | Chen Shiyuan | Lose | B+R | 7.5 | 2993 | -31 | 

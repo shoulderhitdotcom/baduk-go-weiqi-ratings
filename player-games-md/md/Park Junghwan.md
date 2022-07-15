@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第24回農心杯韓国予選 | Ryu Minhyung | Park Junghwan | Win | W+R | 6.5 | 3705 | 3 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Park Hamin | Park Junghwan | Win | W+R | 6.5 | 3702 | 8 | 
 | 2022-07-12 | 2022YK建機杯リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3694 | 3 | 
 | 2022-07-11 | 第45期名人戦（韓国）1回戦 | Park Junghwan | Cho Wankyu | Win | B+R | 6.5 | 3691 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Qirui | Sun Tengyu | Lose | B+¾ | 7.5 | 3360 | -73 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Sun Tengyu | Lee Changseok | Lose | W+R | 7.5 | 3433 | 1 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ |  | Sun Tengyu | Win | W+R | 7.5 | 3432 | -44 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Sun Tengyu | Wang Xi | Win | B+R | 7.5 | 3476 | -65 | 

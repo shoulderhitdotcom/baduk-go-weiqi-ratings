@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Lee Changseok | Ma Yichao | Lose | W+R | 7.5 | 3443 | 6 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Sun Tengyu | Lee Changseok | Win | W+R | 7.5 | 3437 | 0 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Lose | W+R | 7.5 | 3437 | -10 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Gu Lingyi | Lee Changseok | Lose | B+R | 7.5 | 3447 | -34 | 

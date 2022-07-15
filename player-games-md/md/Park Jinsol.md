@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第24回農心杯韓国予選 | Byun Sangil | Park Jinsol | Lose | B+R | 6.5 | 3523 | -28 | 
 | 2022-07-12 | 第24回農心杯韓国予選 | Lee Wonyoung | Park Jinsol | Win | W+R | 6.5 | 3551 | 21 | 
 | 2022-07-01 | 第27回GSカルテックス杯プロ棋戦3回戦 | Cho Wankyu | Park Jinsol | Win | W+R | 6.5 | 3530 | 19 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会韓国予選 | Park Jinsol | An Sungjoon | Win | B+R | 6.5 | 3511 | 64 | 

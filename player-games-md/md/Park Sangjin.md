@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Park Sangjin |  | Lose | W+R | 7.5 | 3364 | 10 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Ma Yichao | Park Sangjin | Win | W+R | 7.5 | 3354 | 2 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Win | W+R | 7.5 | 3352 | 28 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Park Sangjin |  | Win | B+R | 7.5 | 3324 | -13 | 

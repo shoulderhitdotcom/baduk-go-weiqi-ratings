@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第24回農心杯韓国予選 | Byun Sangil | Park Jinsol | Win | B+R | 6.5 | 3661 | 8 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Kim Jiseok | Byun Sangil | Win | W+R | 6.5 | 3653 | 3 | 
 | 2022-07-07 | 第27回GSカルテックス杯プロ棋戦3回戦 | Byun Sangil | Park Hamin | Win | B+R | 6.5 | 3650 | -2 | 
 | 2022-07-04 | 第45期名人戦（韓国）1回戦 | Weon Seongjin | Byun Sangil | Lose | B+0.5 | 6.5 | 3652 | -14 | 

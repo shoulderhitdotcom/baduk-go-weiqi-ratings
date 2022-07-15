@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nyu Eiko Vs Ueno Asami** | **Nyu Eiko Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | B+R | 6.5 | 3:7 | 1 | 0 | 
 | 2022-05-12 | 第47期新人王戦2回戦 | Nyu Eiko | Ueno Asami | W+R | 6.5 | 2:7 | 0 | 1 | 
 | 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | B+R | 6.5 | 2:6 | 1 | 0 | 
 | 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | B+2.5 | 6.5 | 1:6 | 0 | 4 | 

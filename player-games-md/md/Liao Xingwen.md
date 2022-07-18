@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Liao Xingwen |  | Lose | W+R | 7.5 | 3201 | -141 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Wang Xi | Liao Xingwen | Win | W+R | 7.5 | 3342 | 74 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ |  | Liao Xingwen | Lose | B+1¾ | 7.5 | 3268 | 113 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Lose | B+R | 7.5 | 3155 | -26 | 

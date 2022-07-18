@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Kang Seungmin | Wang Yao | Win | B+R | 7.5 | 3398 | -6 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Kang Seungmin | Lose | B+R | 7.5 | 3404 | 7 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Hu Zihao | Kang Seungmin | Lose | B+R | 7.5 | 3397 | -8 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Kang Seungmin | Seol Hyunjun | Lose | W+R | 7.5 | 3405 | 0 | 

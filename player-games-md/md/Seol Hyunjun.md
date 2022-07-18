@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Seol Hyunjun |  | Win | B+¾ | 7.5 | 3485 | 13 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Seol Hyunjun | Win | W+1¼ | 7.5 | 3472 | 6 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Seol Hyunjun |  | Win | B+R | 7.5 | 3466 | 2 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Kang Seungmin | Seol Hyunjun | Win | W+R | 7.5 | 3464 | 2 | 

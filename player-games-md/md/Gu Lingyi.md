@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Park Sangjin | Gu Lingyi | Win | W+R | 7.5 | 3354 | 132 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Chen Qirui | Gu Lingyi | Win | W+R | 7.5 | 3222 | 198 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ |  | Gu Lingyi | Lose | B+R | 7.5 | 3024 | -267 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Gu Lingyi | Lee Changseok | Win | B+R | 7.5 | 3291 | 127 | 

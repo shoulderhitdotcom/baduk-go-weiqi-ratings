@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3440 | 38 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Win | B+¾ | 7.5 | 3402 | 24 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Shu Yixiao | Shen Zaiyi | Win | W+R | 7.5 | 3378 | 3 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3375 | -27 | 

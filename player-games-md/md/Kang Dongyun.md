@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-19 | 2022YK建機杯決勝三番勝負第2局 | Park Junghwan | Kang Dongyun | Win | W+R | 6.5 | 3547 | 9 | 
 | 2022-07-18 | 2022YK建機杯決勝三番勝負第1局 | Kang Dongyun | Park Junghwan | Win | B+R | 6.5 | 3538 | 20 | 
 | 2022-07-14 | 第24回農心杯韓国予選 | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3518 | 13 | 
 | 2022-07-11 | 2022YK建機杯リーグ | Kang Dongyun | Lee Jihyun | Lose | W+R | 6.5 | 3505 | -1 | 

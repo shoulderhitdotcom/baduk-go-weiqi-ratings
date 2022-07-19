@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Park Junghwan** | **Kang Dongyun Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-19 | 2022YK建機杯決勝三番勝負第2局 | Park Junghwan | Kang Dongyun | W+R | 6.5 | 12:9 | 4 | 0 | 
 | 2022-07-18 | 2022YK建機杯決勝三番勝負第1局 | Kang Dongyun | Park Junghwan | B+R | 6.5 | 11:9 | 3 | 0 | 
 | 2022-06-01 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Junghwan | Kang Dongyun | W+R | 6.5 | 10:9 | 2 | 0 | 
 | 2022-05-10 | 2022YK建機杯リーグ | Park Junghwan | Kang Dongyun | W+R | 6.5 | 9:9 | 1 | 0 | 

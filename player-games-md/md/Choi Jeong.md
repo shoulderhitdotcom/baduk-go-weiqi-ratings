@@ -94,11 +94,11 @@
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | Win | W+R | 6.5 | 3340 | 6 | 
 | 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Win | B+R | 6.5 | 3334 | -1 | 
 | 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3335 | 4 | 
-| 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3331 | -3 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Nokyeong | Win | B+R | 6.5 | 3334 | 6 | 
-| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3328 | 8 | 
-| 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong | Lee Suljoo | Win | B+R | 6.5 | 3320 | 1 | 
-| 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3319 | -4 | 
+| 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3331 | -2 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Nokyeong | Win | B+R | 6.5 | 3333 | 6 | 
+| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3327 | 8 | 
+| 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong | Lee Suljoo | Win | B+R | 6.5 | 3319 | 1 | 
+| 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3318 | -5 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3323 | -4 | 
 | 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Win | B+R | 6.5 | 3327 | 28 | 
 | 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 3299 | 5 | 

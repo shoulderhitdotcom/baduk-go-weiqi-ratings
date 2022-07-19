@@ -54,8 +54,8 @@
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3545 | 0 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | Win | W+3.5 | 6.5 | 3545 | 6 | 
 | 2021-11-21 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Byun Sangil | Win | B+R | 6.5 | 3539 | 5 | 
-| 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Win | W+R | 6.5 | 3534 | 2 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lee Changseok | Yang Dingxin | Lose | W+R | 6.5 | 3532 | -12 | 
+| 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Win | W+R | 6.5 | 3534 | 3 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lee Changseok | Yang Dingxin | Lose | W+R | 6.5 | 3531 | -13 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Peng Liyao | Lee Changseok | Win | W+0.5 | 6.5 | 3544 | 13 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Win | W+R | 6.5 | 3531 | 0 | 
 | 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Lose | W+R | 6.5 | 3531 | -10 | 
@@ -64,8 +64,8 @@
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Win | B+1.5 | 6.5 | 3556 | 12 | 
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3544 | -10 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3554 | 11 | 
-| 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3543 | -2 | 
-| 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3545 | 1 | 
+| 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3543 | -1 | 
+| 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3544 | 0 | 
 | 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3544 | -3 | 
 | 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Win | W+R | 6.5 | 3547 | 7 | 
 | 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Win | W+R | 6.5 | 3540 | 13 | 

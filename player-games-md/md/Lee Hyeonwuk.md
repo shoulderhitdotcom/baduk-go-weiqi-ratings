@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-14 | 第23回農心杯韓国予選 | Song Jihoon | Lee Hyeonwuk | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-04-26 | 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | Lose | W+R | 6.5 | missing | 0 | 

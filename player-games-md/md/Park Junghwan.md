@@ -76,9 +76,9 @@
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Lose | W+R | 6.5 | 3738 | -4 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3742 | 5 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3737 | 5 | 
-| 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3732 | -5 | 
-| 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Win | W+R | 6.5 | 3737 | 11 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Win | W+2.5 | 6.5 | 3726 | 1 | 
+| 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3732 | -4 | 
+| 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Win | W+R | 6.5 | 3736 | 11 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Win | W+2.5 | 6.5 | 3725 | 0 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Park Junghwan | Win | W+1.5 | 6.5 | 3725 | 11 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Win | W+R | 6.5 | 3714 | 15 | 
 | 2021-10-14 | 第23回農心辛ラーメン杯世界囲碁最強戦第4戦  | Hsu Chiayuan | Park Junghwan | Win | W+R | 6.5 | 3699 | 1 | 

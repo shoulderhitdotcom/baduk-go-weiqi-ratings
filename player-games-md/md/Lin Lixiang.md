@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-19 | 2021中国囲碁乙級リーグ | Lin Lixiang | Tong Yulin | Lose | W+R | 7.5 | 3084 | -2 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Lin Lixiang | Lose | B+R | 7.5 | 3086 | -31 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Lose | B+¾ | 7.5 | 3117 | -3 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ |  | Lin Lixiang | Lose | B+R | 7.5 | 3120 | 0 | 
@@ -57,10 +58,10 @@
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Win | B+R | 6.5 | 3054 | 16 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3038 | -9 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lu Yiquan | Lin Lixiang | Win | W+R | 6.5 | 3047 | 0 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3047 | -12 | 
-| 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | Lose | W+R | 6.5 | 3059 | -13 | 
-| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3072 | 4 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3068 | -2 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3047 | -11 | 
+| 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | Lose | W+R | 6.5 | 3058 | -13 | 
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3071 | 4 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3067 | -3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Lin Lixiang | Lose | B+R | 6.5 | 3070 | -16 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Chen Shoulian | Lin Lixiang | Win | W+R | 6.5 | 3086 | -3 | 
 | 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3089 | 27 | 

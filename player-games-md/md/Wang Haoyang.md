@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-19 | 2021中国囲碁乙級リーグ | Wang Haoyang | Chen Qirui | Win | B+R | 7.5 | 3193 | 2 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Lee Changseok | Wang Haoyang | Lose | B+R | 7.5 | 3191 | -86 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Haoyang |  | Lose | W+R | 7.5 | 3277 | -122 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Wang Haoyang | Shi Yue | Lose | W+R | 7.5 | 3399 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-19 | 2021中国囲碁乙級リーグ | Lin Shixun |  | Lose | W+R | 7.5 | 3066 | 3 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Lin Shixun | Lose | B+R | 7.5 | 3063 | -21 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ |  | Lin Shixun | Win | W+1¼ | 7.5 | 3084 | 5 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ |  | Lin Shixun | Lose | B+R | 7.5 | 3079 | 0 | 
@@ -67,9 +68,9 @@
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Jian Jingting | Lin Shixun | Win | W+0.5 | 6.5 | 2930 | 25 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Chen Weiting | Lin Shixun | Win | W+R | 6.5 | 2905 | 0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Shixun | Chen Qirui | Win | B+R | 6.5 | 2905 | -12 | 
-| 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 2917 | 11 | 
-| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 2906 | -19 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Lose | B+0.5 | 6.5 | 2925 | -3 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 2917 | 12 | 
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 2905 | -19 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Lose | B+0.5 | 6.5 | 2924 | -4 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Win | W+5.5 | 6.5 | 2928 | 4 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shixun | Win | W+R | 6.5 | 2924 | 43 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Shixun |  | Win | B+R | 6.5 | 2881 | 30 | 

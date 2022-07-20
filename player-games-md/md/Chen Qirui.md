@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Qirui | Ma Yichao | Win | B+R | 7.5 | 3241 | 1 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Wang Haoyang | Chen Qirui | Lose | B+R | 7.5 | 3240 | 5 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Chen Qirui | Gu Lingyi | Lose | W+R | 7.5 | 3235 | -27 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Qirui | Sun Tengyu | Win | B+¾ | 7.5 | 3262 | 13 | 

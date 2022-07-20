@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ |  | Park Sangjin | Win | W+¾ | 7.5 | 3357 | -7 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Park Sangjin | Liao Xingwen | Lose | W+R | 7.5 | 3364 | 1 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Park Sangjin | Gu Lingyi | Lose | W+R | 7.5 | 3363 | -1 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Wang Zheyu | Park Sangjin | Win | W+R | 7.5 | 3364 | 8 | 

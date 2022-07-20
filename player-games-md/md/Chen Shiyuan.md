@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Shiyuan | Kou Zhengyan | Lose | W+R | 7.5 | 3003 | -3 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Fu Jianheng | Chen Shiyuan | Win | W+¼ | 7.5 | 3006 | 2 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3004 | -23 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3027 | -12 | 

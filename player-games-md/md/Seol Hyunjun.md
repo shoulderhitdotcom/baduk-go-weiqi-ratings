@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Seol Hyunjun |  | Lose | W+R | 7.5 | 3474 | -12 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Shu Yixiao | Seol Hyunjun | Win | W+¼ | 7.5 | 3486 | 1 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Seol Hyunjun |  | Win | B+¾ | 7.5 | 3485 | 13 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Seol Hyunjun | Win | W+1¼ | 7.5 | 3472 | 6 | 

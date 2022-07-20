@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 第2回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Park Taehee | Lose | W+R | 6.5 | 3076 | 0 | 
+| 2022-07-19 | 第16回GGオークション杯女流対シニア連勝対抗戦第12局 | Yang Keon | Cho Seungah | Win | W+R | 6.5 | 3076 | -10 | 
 | 2022-07-18 | 第16回GGオークション杯女流対シニア連勝対抗戦第11局 | Lee Hyeonwuk | Cho Seungah | Win | W+R | 6.5 | 3086 | -1 | 
 | 2022-07-16 | 第8回韓国女子囲碁リーグ | Lee Suljoo | Cho Seungah | Win | W+2.5 | 6.5 | 3087 | 21 | 
 | 2022-07-12 | 第16回GGオークション杯女流対シニア連勝対抗戦第10局 | Seo Joonghui | Cho Seungah | Win | W+R | 6.5 | 3066 | 9 | 

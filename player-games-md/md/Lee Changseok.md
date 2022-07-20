@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Liao Xingwen | Lee Changseok | Win | W+R | 7.5 | 3464 | 5 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ |  | Lee Changseok | Win | W+¾ | 7.5 | 3459 | 1 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Lee Changseok | Wang Haoyang | Win | B+R | 7.5 | 3458 | 11 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ | Lee Changseok |  | Win | B+R | 7.5 | 3447 | 12 | 

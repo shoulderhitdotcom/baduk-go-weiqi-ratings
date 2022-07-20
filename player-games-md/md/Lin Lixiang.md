@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Wang Yao | Lin Lixiang | Lose | B+R | 7.5 | 3066 | -18 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Lin Lixiang | Tong Yulin | Lose | W+R | 7.5 | 3084 | -2 | 
 | 2022-07-17 | 2021中国囲碁乙級リーグ |  | Lin Lixiang | Lose | B+R | 7.5 | 3086 | -31 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Lose | B+¾ | 7.5 | 3117 | -3 | 

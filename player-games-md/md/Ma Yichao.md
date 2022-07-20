@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Qirui | Ma Yichao | Lose | B+R | 7.5 | 3248 | -115 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Lee Changseok | Ma Yichao | Win | W+R | 7.5 | 3363 | 155 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Ma Yichao | Park Sangjin | Lose | W+R | 7.5 | 3208 | -216 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Ma Yichao | Shi Yue | Win | B+R | 7.5 | 3424 | 554 | 

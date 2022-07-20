@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Tong Yulin | Shen Zaiyi | Win | W+R | 7.5 | 3456 | 16 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3440 | 0 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3440 | 38 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Win | B+¾ | 7.5 | 3402 | 24 | 

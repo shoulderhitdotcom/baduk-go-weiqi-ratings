@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-21 | 第48期碁聖戦予選 | Nakamura Sumire | Ito Masashi | Win | B+4.5 | 6.5 | 2879 | -9 | 
 | 2022-07-17 | 第7回扇興杯女流最強戦決勝  | Nakamura Sumire | Nyu Eiko | Lose | W+2.5 | 6.5 | 2888 | -11 | 
 | 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Fujisawa Rina | Nakamura Sumire | Win | W+1.5 | 6.5 | 2899 | 33 | 
 | 2022-07-04 | 第48期名人戦予選  | Nakamura Sumire | Koyama Kuya | Lose | W+8.5 | 6.5 | 2866 | -9 | 
@@ -48,8 +49,8 @@
 | 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2625 | -6 | 
 | 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Win | W+15.5 | 6.5 | 2631 | -15 | 
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | 2646 | -85 | 
-| 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2731 | -1 | 
-| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 2732 | 10 | 
+| 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2731 | 0 | 
+| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 2731 | 9 | 
 | 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Win | B+6.5 | 6.5 | 2722 | 9 | 
 | 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Win | B+2.5 | 6.5 | 2713 | 8 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Lose | W+R | 7.5 | 2705 | -7 | 

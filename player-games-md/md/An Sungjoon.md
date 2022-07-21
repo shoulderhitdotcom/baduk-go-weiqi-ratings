@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-21 | 第4回大統領杯全国囲碁大会予選 | An Sungjoon | Ahn Kukhyun | Win | B+0.5 | 6.5 | 3403 | 5 | 
 | 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | An Sungjoon | Kim Eunji | Win | B+R | 6.5 | 3398 | 9 | 
 | 2022-07-08 | 第27回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Shin Jinseo | Lose | W+R | 6.5 | 3389 | -16 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会韓国予選 | Park Jinsol | An Sungjoon | Lose | B+R | 6.5 | 3405 | -2 | 

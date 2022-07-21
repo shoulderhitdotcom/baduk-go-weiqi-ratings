@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Jinsol Vs Shin Jinseo** | **Park Jinsol Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | W+R | 6.5 | 1:5 | 0 | 3 | 
 | 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Park Jinsol | Shin Jinseo | W+0.5 | 6.5 | 1:4 | 0 | 2 | 
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Jinsol | B+R | 6.5 | 1:3 | 0 | 1 | 
 | 2021-02-16 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Shin Jinseo | Park Jinsol | W+R | 6.5 | 1:2 | 1 | 0 | 

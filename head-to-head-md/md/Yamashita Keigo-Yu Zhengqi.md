@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yamashita Keigo Vs Yu Zhengqi** | **Yamashita Keigo Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-21 | 第47期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | W+R | 6.5 | 7:8 | 0 | 1 | 
 | 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | B+0.5 | 6.5 | 7:7 | 1 | 0 | 
 | 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | W+R | 6.5 | 6:7 | 0 | 4 | 
 | 2021-03-04 | 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | W+4.5 | 6.5 | 6:6 | 0 | 3 | 

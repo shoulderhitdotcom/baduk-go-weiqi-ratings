@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ahn Kukhyun vs Lee Jihyun** | **Ahn Kukhyun streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ahn Kukhyun Vs Lee Jihyun** | **Ahn Kukhyun Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-03 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Ahn Kukhyun | Lee Jihyun | W+R | 6.5 | 2:3 | 0 | 1 | 
 | 2018-07-25 | 第20回農心杯韓国選抜戦 | Ahn Kukhyun | Lee Jihyun | B+R | 6.5 | 2:2 | 1 | 0 | 

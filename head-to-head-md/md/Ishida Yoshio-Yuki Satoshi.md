@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ishida Yoshio vs Yuki Satoshi** | **Ishida Yoshio streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ishida Yoshio Vs Yuki Satoshi** | **Ishida Yoshio Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Ishida Yoshio | B+7.5 | 6.5 | 0:1 | 0 | 1 |
 

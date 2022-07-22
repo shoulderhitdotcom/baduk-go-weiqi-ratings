@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Park Junghwan** | **Byun Sangil Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-22 | 第27回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Park Junghwan | B+R | 6.5 | 5:8 | 2 | 0 | 
 | 2022-05-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Byun Sangil | W+R | 6.5 | 4:8 | 1 | 0 | 
 | 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | W+R | 6.5 | 3:8 | 0 | 1 | 
 | 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | B+R | 6.5 | 3:7 | 1 | 0 | 

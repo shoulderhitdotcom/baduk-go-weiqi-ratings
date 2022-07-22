@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Lee Jihyun** | **Ichiriki Ryo streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Lee Jihyun** | **Ichiriki Ryo Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Jihyun | Ichiriki Ryo | W+R | 6.5 | 1:2 | 1 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Ichiriki Ryo | Lee Jihyun | W+1.5 | 6.5 | 0:2 | 0 | 2 | 

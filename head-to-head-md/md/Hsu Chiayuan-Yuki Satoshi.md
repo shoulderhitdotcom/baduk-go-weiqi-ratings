@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hsu Chiayuan vs Yuki Satoshi** | **Hsu Chiayuan streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Yuki Satoshi** | **Hsu Chiayuan Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-27 | 第59期十段戦予選 | Yuki Satoshi | Hsu Chiayuan | W+R | 6.5 | 4:2 | 3 | 0 | 
 | 2020-07-27 | 第68期王座戦2回戦 | Hsu Chiayuan | Yuki Satoshi | B+R | 6.5 | 3:2 | 2 | 0 | 

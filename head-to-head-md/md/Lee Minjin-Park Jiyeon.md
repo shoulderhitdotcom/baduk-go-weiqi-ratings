@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Minjin Vs Park Jiyeon** | **Lee Minjin Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-23 | 第8回韓国女子囲碁リーグ | Lee Minjin | Park Jiyeon | B+R | 6.5 | 5:3 | 1 | 0 | 
 | 2022-04-07 | 第5回呉清源杯韓国予選 | Lee Minjin | Park Jiyeon | W+2.5 | 7.5 | 4:3 | 0 | 2 | 
 | 2022-04-05 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | B+¼ | 7.5 | 4:2 | 0 | 1 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Lee Minjin | W+R | 7.5 | 4:1 | 4 | 0 | 

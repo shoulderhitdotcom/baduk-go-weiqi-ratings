@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Shin Jinseo | Kim Beomseo | Lose | B+R | 6.5 | 3251 | -1 | 
 | 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Win | W+R | 6.5 | 3252 | 7 | 
 | 2022-07-20 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Kim Beomseo | Gueon Hyojin | Win | B+R | 6.5 | 3245 | 91 | 
 | 2022-07-07 | 第10回河燦錫国手杯英才最強戦準決勝 | Lee Yeon | Kim Beomseo | Win | W+R | 6.5 | 3154 | 70 | 

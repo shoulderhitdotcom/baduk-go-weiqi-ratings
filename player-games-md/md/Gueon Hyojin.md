@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2866 | 2 | 
 | 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Lose | W+R | 6.5 | 2864 | 3 | 
 | 2022-07-20 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Kim Beomseo | Gueon Hyojin | Lose | B+R | 6.5 | 2861 | -94 | 
 | 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Win | W+R | 6.5 | 2955 | 103 | 

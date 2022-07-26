@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kono Rin vs Yoda Norimoto** | **Kono Rin streak** | **Yoda Norimoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kono Rin Vs Yoda Norimoto** | **Kono Rin Streak** | **Yoda Norimoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-04-30 | 第63期王座戦予選 | Kono Rin | Yoda Norimoto | B+5.5 | 6.5 | 9:4 | 4 | 0 | 
 | 2014-08-13 | 第40期天元戦本戦準決勝 | Yoda Norimoto | Kono Rin | W+6.5 | 6.5 | 8:4 | 3 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Lin Shixun** | **Chen Qirui Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-25 | 2022新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | W+R | 6.5 | 5:14 | 0 | 2 | 
 | 2022-07-11 | 2022新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | B+R | 7.5 | 5:13 | 0 | 1 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Shixun | Chen Qirui | W+R | 6.5 | 5:12 | 1 | 0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Chen Qirui | Lin Shixun | W+1 | 7.5 | 4:12 | 0 | 3 | 

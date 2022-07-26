@@ -1,0 +1,15 @@
+## Li Xiaoxi Games
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-26 | 2022博思軟件杯中国囲碁新秀争覇戦予選 | Li Xiaoxi |  | Win | B+R | 7.5 | 2601 | 0 | 
+| 2022-07-26 | 2022博思軟件杯中国囲碁新秀争覇戦予選 | Li Xiaoxi |  | Win | B+1¾ | 7.5 | 2601 | missing |
+
+
+
+

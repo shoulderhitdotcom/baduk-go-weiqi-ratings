@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-26 | 第16回GGオークション杯女流対シニア連勝対抗戦第14局 | Yoo Changhyuk | Kim Eunji | Lose | W+7.5 | 6.5 | 3006 | -14 | 
 | 2022-07-25 | 第16回GGオークション杯女流対シニア連勝対抗戦第13局 | Cho Seungah | Yoo Changhyuk | Win | W+R | 6.5 | 3020 | 34 | 
 | 2022-06-22 | 2022年1004島新安国際シニア囲碁大会準決勝 |  | Yoo Changhyuk | Win | W+R | 6.5 | 2986 | 0 | 
 | 2022-06-22 | 2022年1004島新安国際シニア囲碁大会決勝  | O Meien | Yoo Changhyuk | Win | W+R | 6.5 | 2986 | 51 | 

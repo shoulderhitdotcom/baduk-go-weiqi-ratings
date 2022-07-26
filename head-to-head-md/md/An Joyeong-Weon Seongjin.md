@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Joyeong Vs Weon Seongjin** | **An Joyeong Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-26 | 第45期名人戦（韓国）2回戦 | Weon Seongjin | An Joyeong | B+R | 6.5 | 3:10 | 0 | 7 | 
 | 2022-07-08 | 第24回農心杯韓国予選 | An Joyeong | Weon Seongjin | W+R | 6.5 | 3:9 | 0 | 6 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第1局 | Weon Seongjin | An Joyeong | B+R | 6.5 | 3:8 | 0 | 5 | 
 | 2017-03-06 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | An Joyeong | B+3.5 | 6.5 | 3:7 | 0 | 4 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-27 | 第27期女流国手戦予選 | Kim Eunji | Lee Suljoo | Win | B+R | 6.5 | 3116 | 3 | 
 | 2022-07-26 | 第16回GGオークション杯女流対シニア連勝対抗戦第14局 | Yoo Changhyuk | Kim Eunji | Win | W+7.5 | 6.5 | 3113 | -9 | 
 | 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | B+R | 6.5 | 3122 | -2 | 
 | 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | An Sungjoon | Kim Eunji | Lose | B+R | 6.5 | 3124 | 7 | 

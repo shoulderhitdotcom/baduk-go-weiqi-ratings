@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Shin Jinseo** | **Kang Dongyun Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-28 | 第5期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Kang Dongyun | B+R | 6.5 | 2:11 | 0 | 8 | 
 | 2022-07-26 | 第5期韓国竜星戦決勝三番勝負第1局 | Kang Dongyun | Shin Jinseo | W+R | 6.5 | 2:10 | 0 | 7 | 
 | 2022-06-27 | 2022YK建機杯リーグ | Shin Jinseo | Kang Dongyun | B+R | 6.5 | 2:9 | 0 | 6 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | W+0.5 | 6.5 | 2:8 | 0 | 5 | 

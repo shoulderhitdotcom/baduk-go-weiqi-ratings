@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Kim Eunji | Zhou Hongyu | Lose | W+5¼ | 7.5 | 3130 | -17 | 
 | 2022-07-29 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Eunji | Win | W+R | 6.5 | 3147 | 9 | 
 | 2022-07-28 | 第3期利鵬杯新鋭最高位戦1回戦 | Kim Beomseo | Kim Eunji | Win | W+R | 6.5 | 3138 | 16 | 
 | 2022-07-27 | 第27期女流国手戦予選 | Kim Eunji | Lee Suljoo | Win | B+R | 6.5 | 3122 | 3 | 

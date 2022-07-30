@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Fang Ruoxi | Yin Mingming | Lose | B+R | 7.5 | missing | 0 | 
 | 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Yin Mingming | Li He | Lose | W+R | 7.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第4回大統領杯全国囲碁大会準決勝 | Song Jihoon | Han Sangcho | Lose | B+R | 6.5 | 3066 | -21 | 
 | 2022-07-30 | 第4回大統領杯全国囲碁大会1回戦 | Han Sangcho | An Sungjoon | Win | B+R | 6.5 | 3087 | 88 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Han Sangcho | Shin Jinseo | Lose | W+R | 6.5 | 2999 | 5 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Han Sangcho | Lose | B+R | 6.5 | 2994 | -11 | 

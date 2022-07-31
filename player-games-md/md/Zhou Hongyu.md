@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Ueno Asami | Zhou Hongyu | Lose | B+R | 7.5 | 3236 | -24 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Kim Eunji | Zhou Hongyu | Win | W+5¼ | 7.5 | 3260 | 17 | 
 | 2022-07-27 | 2022博思軟件杯中国囲碁新秀争覇戦1回戦 | Zhou Hongyu |  | Lose | W+¼ | 7.5 | 3243 | 17 | 
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝  | Fukuoka Kotaro | Zhou Hongyu | Lose | B+5.5 | 6.5 | 3226 | 0 | 

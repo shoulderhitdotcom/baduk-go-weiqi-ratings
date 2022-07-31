@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Win | W+1¼ | 7.5 | 2794 | 162 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Rui Naiwei | Hei Jiajia | Win | W+R | 7.5 | 2632 | 309 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Hei Jiajia | Yang Zixuan | Lose | W+R | 6.5 | 2323 | -234 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Hei Jiajia | Pan Yang | Win | B+R | 7.5 | 2557 | 115 | 

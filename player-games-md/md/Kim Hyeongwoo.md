@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第4回大統領杯全国囲碁大会準決勝 | Choi Cheolhan | Kim Hyeongwoo | Lose | B+0.5 | 6.5 | 3210 | -13 | 
 | 2022-07-30 | 第4回大統領杯全国囲碁大会2回戦 | Park Jaekeun | Kim Hyeongwoo | Win | W+R | 6.5 | 3223 | 40 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Park Geunho | Kim Hyeongwoo | Lose | B+R | 6.5 | 3183 | 8 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Lee Changseok | Kim Hyeongwoo | Win | W+R | 6.5 | 3175 | 63 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Wu Yiming | Lose | B+¾ | 7.5 | 2959 | -16 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦  | Wu Yiming | Nyu Eiko | Win | B+3¾ | 7.5 | 2975 | 19 | 
 | 2022-07-28 | 2022博思軟件杯中国囲碁新秀争覇戦2回戦 | Wang Xinghao | Wu Yiming | Lose | B+R | 7.5 | 2956 | 30 | 
 | 2022-07-02 | 第2回天台山杯全国女子囲碁オープン戦 | Wu Yiming |  | Win | B+R | 7.5 | 2926 | 0 | 

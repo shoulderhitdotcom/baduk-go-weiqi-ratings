@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Wang Chenxing | Lose | W+R | 7.5 | 3052 | -13 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Cho Seungah | Yin Mingming | Win | B+R | 7.5 | 3065 | -3 | 
 | 2022-07-25 | 第16回GGオークション杯女流対シニア連勝対抗戦第13局 | Cho Seungah | Yoo Changhyuk | Lose | W+R | 6.5 | 3068 | -1 | 
 | 2022-07-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Cho Seungah | Win | W+0.5 | 6.5 | 3069 | -13 | 

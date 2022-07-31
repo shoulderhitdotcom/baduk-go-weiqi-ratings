@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Lu Minquan | Suzuki Ayumi | Lose | B+R | 7.5 | 2859 | -5 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦  |  | Suzuki Ayumi | Win | W+R | 7.5 | 2864 | -20 | 
 | 2022-07-25 | 第41期女流本因坊戦3回戦  | Suzuki Ayumi | Ueno Asami | Lose | W+R | 6.5 | 2884 | 20 | 
 | 2022-07-21 | 第48期碁聖戦予選 | Suzuki Ayumi | Ishida Yoshio | Win | B+R | 6.5 | 2864 | 26 | 

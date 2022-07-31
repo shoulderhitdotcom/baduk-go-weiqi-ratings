@@ -24,16 +24,16 @@
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ |  | Wang Yubo | Win | W+2¼ | 7.5 | 2905 | -2 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Li He | Lose | W+4¼ | 7.5 | 2907 | -21 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 | Wang Chenxing | Wang Yubo | Lose | B+R | 7.5 | 2928 | -37 | 
-| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Yubo | Pan Yang | Win | B+R | 7.5 | 2965 | 17 | 
-| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Chen Yiming | Win | B+R | 7.5 | 2948 | 0 | 
-| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Win | B+¾ | 7.5 | 2948 | 48 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁女子個人公開組第5戦 | Chen Yiming | Wang Yubo | Lose | B+R | 7.5 | 2900 | -4 | 
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Yubo | Pan Yang | Win | B+R | 7.5 | 2965 | 18 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Chen Yiming | Win | B+R | 7.5 | 2947 | 0 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Win | B+¾ | 7.5 | 2947 | 48 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁女子個人公開組第5戦 | Chen Yiming | Wang Yubo | Lose | B+R | 7.5 | 2899 | -5 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Song Ronghui | Wang Yubo | Lose | B+R | 7.5 | 2904 | -40 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Wang Yubo | Win | W+R | 7.5 | 2944 | 6 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Li He | Wang Yubo | Lose | B+1¾ | 7.5 | 2938 | -14 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Wang Yubo | Chen Yiming | Win | B+1¾ | 7.5 | 2952 | 22 | 
-| 2021-06-01 | 第4回呉清源杯中国予選 | Wang Yubo | Li Xiaoxi | Lose | W+1¼ | 7.5 | 2930 | -17 | 
-| 2021-05-31 | 第4回呉清源杯中国予選 | Lu Minquan | Wang Yubo | Lose | B+1¾ | 7.5 | 2947 | -2 | 
+| 2021-06-01 | 第4回呉清源杯中国予選 | Wang Yubo | Li Xiaoxi | Lose | W+1¼ | 7.5 | 2930 | -16 | 
+| 2021-05-31 | 第4回呉清源杯中国予選 | Lu Minquan | Wang Yubo | Lose | B+1¾ | 7.5 | 2946 | -3 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ |  | Wang Yubo | Win | W+R | 7.5 | 2949 | -8 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Zhao Yifei | Win | B+1¾ | 7.5 | 2957 | -5 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wang Yubo | Lose | B+R | 7.5 | 2962 | -24 | 

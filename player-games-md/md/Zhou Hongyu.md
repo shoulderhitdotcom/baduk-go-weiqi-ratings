@@ -13,29 +13,29 @@
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu |  | Win | B+R | 6.5 | 3226 | 0 | 
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20 3位決定戦 | Zhou Hongyu | Tu Xiaoyu | Lose | W+R | 6.5 | 3226 | -11 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦  |  | Zhou Hongyu | Win | W+R | 6.5 | 3237 | 0 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Zhou Hongyu |  | Win | B+R | 6.5 | 3237 | 26 | 
-| 2022-04-22 | 2022年アジア競技大会中国予選 | Li He | Zhou Hongyu | Win | W+R | 7.5 | 3211 | 12 | 
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Lose | W+R | 7.5 | 3199 | -13 | 
-| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+R | 7.5 | 3212 | -6 | 
-| 2022-03-29 | 第5回呉清源杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | B+R | 7.5 | 3218 | -37 | 
-| 2022-03-11 | 第26期馬橋杯中国囲碁新人王戦準決勝 | Zhou Hongyu |  | Win | B+R | 7.5 | 3255 | 19 | 
-| 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Tang Jiawen | Zhou Hongyu | Win | W+R | 7.5 | 3236 | 10 | 
-| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Xu Yidi | Zhou Hongyu | Win | W+R | 7.5 | 3226 | 3 | 
-| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3223 | 15 | 
-| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Win | W+R | 6.5 | 3208 | 3 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3205 | -23 | 
-| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Win | W+6.5 | 6.5 | 3228 | 8 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Zhou Hongyu |  | Win | B+R | 6.5 | 3237 | 27 | 
+| 2022-04-22 | 2022年アジア競技大会中国予選 | Li He | Zhou Hongyu | Win | W+R | 7.5 | 3210 | 12 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Lose | W+R | 7.5 | 3198 | -13 | 
+| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+R | 7.5 | 3211 | -7 | 
+| 2022-03-29 | 第5回呉清源杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | B+R | 7.5 | 3218 | -36 | 
+| 2022-03-11 | 第26期馬橋杯中国囲碁新人王戦準決勝 | Zhou Hongyu |  | Win | B+R | 7.5 | 3254 | 19 | 
+| 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Tang Jiawen | Zhou Hongyu | Win | W+R | 7.5 | 3235 | 10 | 
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Xu Yidi | Zhou Hongyu | Win | W+R | 7.5 | 3225 | 3 | 
+| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3222 | 15 | 
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Win | W+R | 6.5 | 3207 | 3 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3204 | -23 | 
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Win | W+6.5 | 6.5 | 3227 | 7 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3220 | 11 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Zhan Ying | Win | B+R | 7.5 | 3209 | 3 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3206 | 9 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3197 | 11 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3186 | -4 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Zhou Hongyu |  | Win | B+1¾ | 7.5 | 3190 | -8 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3198 | -11 | 
-| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3209 | 17 | 
-| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3192 | 21 | 
-| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Zhou Hongyu | Hu Zihao | Lose | W+¼ | 7.5 | 3171 | -21 | 
-| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chuxuan | Zhou Hongyu | Win | W+R | 7.5 | 3192 | -18 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3198 | -10 | 
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3208 | 17 | 
+| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3191 | 21 | 
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Zhou Hongyu | Hu Zihao | Lose | W+¼ | 7.5 | 3170 | -21 | 
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chuxuan | Zhou Hongyu | Win | W+R | 7.5 | 3191 | -19 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhou Hongyu | Win | W+R | 7.5 | 3210 | 3 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Huang Ziping | Win | B+R | 7.5 | 3207 | 2 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Yi | Win | B+R | 7.5 | 3205 | -3 | 
@@ -56,15 +56,15 @@
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Zhou Hongyu | Win | W+R | 7.5 | 3193 | -3 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Zhou Hongyu | Yin Qu | Win | B+3¾ | 7.5 | 3196 | 7 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 | Tang Jiawen | Zhou Hongyu | Lose | B+4.5 | 6.5 | 3189 | -5 | 
-| 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3194 | 50 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Lose | B+R | 7.5 | 3144 | 27 | 
+| 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3194 | 51 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Lose | B+R | 7.5 | 3143 | 26 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Lose | B+R | 7.5 | 3117 | 4 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Win | W+R | 7.5 | 3113 | 7 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Lose | W+R | 6.5 | 3106 | -5 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Zhou Hongyu |  | Win | B+R | 6.5 | 3111 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  |  | Zhou Hongyu | Win | W+R | 6.5 | 3111 | 2 | 
-| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Chuxuan | Zhou Hongyu | Lose | B+R | 7.5 | 3109 | -32 | 
-| 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Zhou Hongyu | Wang Shuo | Win | B+R | 7.5 | 3141 | 30 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  |  | Zhou Hongyu | Win | W+R | 6.5 | 3111 | 3 | 
+| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Chuxuan | Zhou Hongyu | Lose | B+R | 7.5 | 3108 | -32 | 
+| 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Zhou Hongyu | Wang Shuo | Win | B+R | 7.5 | 3140 | 29 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3111 | -21 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Chu Keer | Win | B+R | 7.5 | 3132 | -8 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Zhou Hongyu | Win | W+R | 7.5 | 3140 | 8 | 

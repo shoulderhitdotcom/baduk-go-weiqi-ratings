@@ -7,12 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Lose | W+1¼ | 7.5 | 3232 | -22 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 3254 | 0 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 7.5 | 3254 | 12 | 
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3242 | 5 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 3237 | 0 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3237 | -17 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Lose | W+1¼ | 7.5 | 3232 | -23 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 3255 | 0 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 7.5 | 3255 | 12 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3243 | 5 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 3238 | 0 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3238 | -16 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3254 | 0 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 3254 | 14 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Lose | W+R | 6.5 | 3240 | -20 | 
@@ -30,11 +30,11 @@
 | 2021-12-03 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 3235 | 0 | 
 | 2021-12-02 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 3235 | 22 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Win | B+R | 7.5 | 3213 | -7 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Wang Chunhui | Yu Zhiying | Win | W+¼ | 7.5 | 3220 | 15 | 
-| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Yu Zhiying |  | Win | B+1¾ | 7.5 | 3205 | 22 | 
-| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Hu Zihao | Yu Zhiying | Lose | B+R | 7.5 | 3183 | 22 | 
-| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Yu Zhiying | Wang Chuxuan | Lose | W+¼ | 7.5 | 3161 | -26 | 
-| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fu Jianheng | Yu Zhiying | Lose | B+R | 7.5 | 3187 | -38 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Wang Chunhui | Yu Zhiying | Win | W+¼ | 7.5 | 3220 | 14 | 
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Yu Zhiying |  | Win | B+1¾ | 7.5 | 3206 | 22 | 
+| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Hu Zihao | Yu Zhiying | Lose | B+R | 7.5 | 3184 | 22 | 
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Yu Zhiying | Wang Chuxuan | Lose | W+¼ | 7.5 | 3162 | -26 | 
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fu Jianheng | Yu Zhiying | Lose | B+R | 7.5 | 3188 | -37 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+R | 7.5 | 3225 | -1 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 3226 | 8 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhan Ying | Win | B+2¾ | 7.5 | 3218 | -4 | 

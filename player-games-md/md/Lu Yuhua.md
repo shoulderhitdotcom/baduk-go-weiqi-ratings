@@ -54,20 +54,20 @@
 | 2021-03-19 | 第17期国手戦（台湾） | Xu Jingen | Lu Yuhua | Lose | B+R | 6.5 | 2674 | -69 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Xiao Zhenghao | Lu Yuhua | Win | W+1.5 | 6.5 | 2743 | 34 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Li Wei | Lu Yuhua | Win | W+R | 6.5 | 2709 | 37 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 | Zhang Zhehao | Lu Yuhua | Win | W+1.5 | 6.5 | 2672 | 124 | 
-| 2021-01-15 | 第20期天元戦（台湾）予選 | Lu Yuhua | Chen Xi | Lose | W+R | 6.5 | 2548 | -19 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lin Lixiang | Lu Yuhua | Lose | B+R | 6.5 | 2567 | -6 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Zhang Zhehao | Lu Yuhua | Win | W+1.5 | 6.5 | 2672 | 123 | 
+| 2021-01-15 | 第20期天元戦（台湾）予選 | Lu Yuhua | Chen Xi | Lose | W+R | 6.5 | 2549 | -19 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lin Lixiang | Lu Yuhua | Lose | B+R | 6.5 | 2568 | -5 | 
 | 2021-01-08 | 第20期天元戦（台湾）予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2573 | -34 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Lu Yuhua | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2607 | 17 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Lin Shixun | Lose | W+2.5 | 6.5 | 2590 | 8 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 6.5 | 2582 | 24 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao | Lu Yuhua | Lose | B+R | 6.5 | 2558 | -1 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Cai Chengwei | Lose | W+4.5 | 6.5 | 2559 | -64 | 
-| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2623 | 49 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Cai Chengwei | Lose | W+4.5 | 6.5 | 2559 | -65 | 
+| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2624 | 50 | 
 | 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2574 | 3 | 
 | 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Lu Yuhua | Lin Jiehan | Lose | W+R | 7.5 | 2571 | 45 | 
-| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lu Yuhua |  | Lose | W+3.5 | 6.5 | 2526 | -71 | 
-| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lu Yuhua | Jian Jingting | Lose | W+R | 6.5 | 2597 | 169 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lu Yuhua |  | Lose | W+3.5 | 6.5 | 2526 | -72 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lu Yuhua | Jian Jingting | Lose | W+R | 6.5 | 2598 | 170 | 
 | 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 | Lu Yuhua | Lu Yiquan | Lose | W+R | 6.5 | 2428 | -49 | 
 | 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2477 | -4 | 
 | 2020-02-04 | 第19期天元戦（台湾）予選 | Zeng Pinjie | Lu Yuhua | Win | W+R | 6.5 | 2481 | -10 | 

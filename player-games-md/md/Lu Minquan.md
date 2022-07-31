@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Lu Minquan | Suzuki Ayumi | Win | B+R | 7.5 | 3040 | -3 | 
-| 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Lose | W+R | 7.5 | 3043 | -15 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Win | B+R | 7.5 | 3058 | 0 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Lose | B+R | 7.5 | 3058 | -3 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Wu Yiming | Lu Minquan | Win | W+R | 7.5 | 3061 | -66 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Lu Minquan | Suzuki Ayumi | Win | B+R | 7.5 | 3040 | -4 | 
+| 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Lose | W+R | 7.5 | 3044 | -15 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Win | B+R | 7.5 | 3059 | 0 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Lose | B+R | 7.5 | 3059 | -3 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Wu Yiming | Lu Minquan | Win | W+R | 7.5 | 3062 | -65 | 
 | 2022-03-22 | 第5回呉清源杯中国予選 | Lu Minquan | Wang Yubo | Win | B+R | 7.5 | 3127 | 19 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Chen Yiming | Win | B+R | 7.5 | 3108 | 13 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Lu Minquan | Win | W+R | 7.5 | 3095 | 7 | 
@@ -19,11 +19,11 @@
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3099 | 9 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan | Hu Zihao | Lose | W+R | 7.5 | 3090 | 5 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Wang Chuxuan | Lu Minquan | Win | W+R | 7.5 | 3085 | 22 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Fu Jianheng | Lu Minquan | Lose | B+¾ | 7.5 | 3063 | -2 | 
-| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 |  | Lu Minquan | Win | W+R | 7.5 | 3065 | 18 | 
-| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Lu Minquan | Xu Yidi | Lose | W+R | 7.5 | 3047 | -13 | 
-| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Lu Minquan | Wang Chunhui | Lose | W+R | 7.5 | 3060 | -26 | 
-| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 |  | Lu Minquan | Lose | B+R | 7.5 | 3086 | -34 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Fu Jianheng | Lu Minquan | Lose | B+¾ | 7.5 | 3063 | -3 | 
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 |  | Lu Minquan | Win | W+R | 7.5 | 3066 | 18 | 
+| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Lu Minquan | Xu Yidi | Lose | W+R | 7.5 | 3048 | -13 | 
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Lu Minquan | Wang Chunhui | Lose | W+R | 7.5 | 3061 | -26 | 
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 |  | Lu Minquan | Lose | B+R | 7.5 | 3087 | -33 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Lu Minquan | Lose | B+R | 7.5 | 3120 | -22 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Lu Minquan | Win | W+R | 7.5 | 3142 | 0 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Li He | Lu Minquan | Win | W+R | 7.5 | 3142 | 9 | 

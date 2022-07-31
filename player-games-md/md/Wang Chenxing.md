@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Wang Chenxing | Win | W+R | 7.5 | 2958 | 15 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Win | W+R | 7.5 | 2943 | 23 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Wang Chenxing | Win | W+R | 7.5 | 2958 | 14 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Win | W+R | 7.5 | 2944 | 24 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Lose | W+R | 7.5 | 2920 | 0 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Wu Yiming | Wang Chenxing | Lose | B+R | 7.5 | 2920 | -81 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Wang Chenxing | Wu Yiming | Lose | W+R | 7.5 | 3001 | 6 | 
@@ -19,11 +19,11 @@
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Wang Chenxing | Lose | B+R | 7.5 | 3053 | -16 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Win | B+R | 7.5 | 3069 | 22 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 3047 | 6 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 3041 | -3 | 
-| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Wang Chenxing | Xu Yidi | Win | B+R | 7.5 | 3044 | 15 | 
-| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Win | W+1¼ | 7.5 | 3029 | 20 | 
-| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 |  | Wang Chenxing | Lose | B+R | 7.5 | 3009 | -2 | 
-| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chenxing | Hu Zihao | Lose | W+R | 7.5 | 3011 | -54 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 3041 | -4 | 
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Wang Chenxing | Xu Yidi | Win | B+R | 7.5 | 3045 | 15 | 
+| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Win | W+1¼ | 7.5 | 3030 | 20 | 
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 |  | Wang Chenxing | Lose | B+R | 7.5 | 3010 | -2 | 
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chenxing | Hu Zihao | Lose | W+R | 7.5 | 3012 | -53 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Zhang Zhihan | Win | B+R | 7.5 | 3065 | 6 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Pan Yang | Win | B+1¾ | 7.5 | 3059 | 5 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Li Xiaoxi | Win | B+¾ | 7.5 | 3054 | 9 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Taehee vs Rui Naiwei** | **Park Taehee streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Taehee Vs Rui Naiwei** | **Park Taehee Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-27 | 第4回韓国女子囲碁リーグプレーオフ | Park Taehee | Rui Naiwei | W+1.5 | 6.5 | 1:2 | 0 | 2 | 
 | 2017-03-16 | 3期韓国女子連戦6回戦麟蹄-京畿SG | Rui Naiwei | Park Taehee | B+R | 6.5 | 1:1 | 0 | 1 | 

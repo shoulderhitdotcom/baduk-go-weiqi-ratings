@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Rui Naiwei** | **Choi Jeong streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Rui Naiwei** | **Choi Jeong Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-01 | 第10回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Choi Jeong | Rui Naiwei | B+R | 7.5 | 4:3 | 2 | 0 | 
 | 2018-06-07 | 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第12戦 | Rui Naiwei | Choi Jeong | W+R | 7.5 | 3:3 | 1 | 0 | 

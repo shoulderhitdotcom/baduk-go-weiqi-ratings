@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hei Jiajia vs Wang Chenxing** | **Hei Jiajia streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hei Jiajia Vs Wang Chenxing** | **Hei Jiajia Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Chenxing | Hei Jiajia | B+R | 6.5 | 1:5 | 0 | 1 | 
 | 2015-03-28 | 第1回韓国女子囲碁リーグプレーオフ | Hei Jiajia | Wang Chenxing | B+6.5 | 6.5 | 1:4 | 1 | 0 | 

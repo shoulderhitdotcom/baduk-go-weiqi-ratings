@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Minquan vs Oh Yujin** | **Lu Minquan streak** | **Oh Yujin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Oh Yujin** | **Lu Minquan Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Lu Minquan | B+R | 7.5 | 2:5 | 0 | 1 | 
 | 2019-06-11 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第12戦 | Oh Yujin | Lu Minquan | W+R | 7.5 | 2:4 | 1 | 0 | 

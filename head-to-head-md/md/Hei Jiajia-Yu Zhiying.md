@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hei Jiajia vs Yu Zhiying** | **Hei Jiajia streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hei Jiajia Vs Yu Zhiying** | **Hei Jiajia Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | W+1¼ | 7.5 | 3:16 | 1 | 0 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 | Yu Zhiying | Hei Jiajia | B+R | 7.5 | 2:16 | 0 | 13 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Yu Zhiying | Hei Jiajia | B+R | 7.5 | 2:15 | 0 | 12 | 
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Yu Zhiying | Hei Jiajia | B+R | 7.5 | 2:14 | 0 | 11 | 

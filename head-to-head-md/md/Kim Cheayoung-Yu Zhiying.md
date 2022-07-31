@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Yu Zhiying** | **Kim Cheayoung streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Yu Zhiying** | **Kim Cheayoung Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-01 | 第1回呉清源杯世界女流囲碁選手権準決勝 | Yu Zhiying | Kim Cheayoung | W+¼ | 7.5 | 2:3 | 2 | 0 | 
 | 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Kim Cheayoung | Yu Zhiying | B+R | 6.5 | 1:3 | 1 | 0 | 

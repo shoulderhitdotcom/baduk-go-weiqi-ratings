@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Wang Chenxing** | **Choi Jeong streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Wang Chenxing** | **Choi Jeong Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-03 | 第2回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Wang Chenxing | B+R | 7.5 | 8:2 | 7 | 0 | 
 | 2019-12-02 | 第2回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Wang Chenxing | Choi Jeong | W+R | 7.5 | 7:2 | 6 | 0 | 

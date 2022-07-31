@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Cheayoung vs Wang Chenxing** | **Kim Cheayoung streak** | **Wang Chenxing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Wang Chenxing** | **Kim Cheayoung Streak** | **Wang Chenxing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-15 | 第5回韓国女子囲碁リーグ第13節第4試合第2局 | Kim Cheayoung | Wang Chenxing | B+R | 6.5 | 2:2 | 2 | 0 | 
 | 2019-06-17 | 第5回韓国女子囲碁リーグ第6節第1試合第1局 | Kim Cheayoung | Wang Chenxing | B+R | 6.5 | 1:2 | 1 | 0 | 

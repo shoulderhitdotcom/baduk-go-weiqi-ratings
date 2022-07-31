@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hei Jiajia vs Li He** | **Hei Jiajia streak** | **Li He streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hei Jiajia Vs Li He** | **Hei Jiajia Streak** | **Li He Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Li He | Hei Jiajia | B+R | 7.5 | 2:6 | 0 | 3 | 
 | 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節廈門-陜西 | Hei Jiajia | Li He | W+R | 7.5 | 2:5 | 0 | 2 | 

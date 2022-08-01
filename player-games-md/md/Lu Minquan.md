@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Oh Yujin | Lose | W+R | 7.5 | 3029 | -11 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Lu Minquan | Suzuki Ayumi | Win | B+R | 7.5 | 3040 | -4 | 
 | 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Lose | W+R | 7.5 | 3044 | -15 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Win | B+R | 7.5 | 3059 | 0 | 

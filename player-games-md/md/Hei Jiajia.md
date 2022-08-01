@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Hei Jiajia | Kim Cheayoung | Lose | W+¼ | 7.5 | 2733 | -61 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Win | W+1¼ | 7.5 | 2794 | 162 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Rui Naiwei | Hei Jiajia | Win | W+R | 7.5 | 2632 | 309 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Hei Jiajia | Yang Zixuan | Lose | W+R | 6.5 | 2323 | -234 | 

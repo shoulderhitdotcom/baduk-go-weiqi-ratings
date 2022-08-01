@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Oh Yujin | Win | W+R | 7.5 | 3212 | 10 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Oh Yujin | Feng Yun | Win | B+R | 7.5 | 3202 | -14 | 
 | 2022-07-30 | 第8回韓国女子囲碁リーグ | Oh Yujin | Choi Jeong | Lose | W+R | 6.5 | 3216 | 9 | 
 | 2022-07-22 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Hyoyoung | Win | B+R | 6.5 | 3207 | 18 | 

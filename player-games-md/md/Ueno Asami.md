@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Ueno Asami | Choi Jeong | Lose | W+R | 7.5 | 3161 | -14 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Ueno Asami | Zhou Hongyu | Win | B+R | 7.5 | 3175 | 0 | 
 | 2022-07-25 | 第41期女流本因坊戦3回戦  | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3175 | 0 | 
 | 2022-07-21 | 第48期碁聖戦予選 | Ueno Asami |  | Win | B+R | 6.5 | 3175 | 9 | 

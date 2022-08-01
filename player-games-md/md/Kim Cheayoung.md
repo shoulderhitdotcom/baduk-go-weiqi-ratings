@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Wu Yiming | Win | B+¾ | 7.5 | 2990 | 0 | 
-| 2022-07-31 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Lose | W+1.5 | 6.5 | 2990 | 30 | 
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Hei Jiajia | Kim Cheayoung | Win | W+¼ | 7.5 | 3004 | 14 | 
+| 2022-07-31 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Lose | W+1.5 | 6.5 | 2990 | 0 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Wu Yiming | Win | B+¾ | 7.5 | 2990 | 30 | 
 | 2022-07-21 | 第8回韓国女子囲碁リーグ | Lee Suljoo | Kim Cheayoung | Win | W+R | 6.5 | 2960 | 29 | 
 | 2022-07-14 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2931 | 23 | 
 | 2022-07-08 | 第8回韓国女子囲碁リーグ | Kim Miri | Kim Cheayoung | Win | W+R | 6.5 | 2908 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Wang Chenxing | Lu Yuhua | Lose | B+R | 7.5 | 2809 | -17 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Li He | Lu Yuhua | Win | W+¼ | 7.5 | 2826 | 41 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Wang Yubo | Win | B+R | 7.5 | 2785 | 23 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Lu Yuhua | Chen Weiting | Lose | W+R | 6.5 | 2762 | -15 | 

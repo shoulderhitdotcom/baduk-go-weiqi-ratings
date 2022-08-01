@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Oh Yujin** | **Lu Minquan Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Oh Yujin | W+R | 7.5 | 2:6 | 0 | 2 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Lu Minquan | B+R | 7.5 | 2:5 | 0 | 1 | 
 | 2019-06-11 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第12戦 | Oh Yujin | Lu Minquan | W+R | 7.5 | 2:4 | 1 | 0 | 
 | 2018-11-01 | 第9回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Lu Minquan | Oh Yujin | W+R | 7.5 | 1:4 | 0 | 2 | 

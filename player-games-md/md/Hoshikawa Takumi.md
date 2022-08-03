@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-06 | 第61期十段戦予選 | Ota Ryou | Hoshikawa Takumi | Lose | B+2.5 | 6.5 | 2551.0 | 0.0 | 
 | 2021-12-01 | 第48期天元戦予選 | Sada Atsushi | Hoshikawa Takumi | Lose | B+R | 6.5 | 2551.0 | 0.0 | 

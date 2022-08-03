@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Xia Chenkun** | **Tuo Jiaxi streak** | **Xia Chenkun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Xia Chenkun** | **Tuo Jiaxi Streak** | **Xia Chenkun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Xia Chenkun | Tuo Jiaxi | W+R | 7.5 | 4:0 | 4 | 0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tuo Jiaxi | Xia Chenkun | B+R | 7.5 | 3:0 | 3 | 0 | 

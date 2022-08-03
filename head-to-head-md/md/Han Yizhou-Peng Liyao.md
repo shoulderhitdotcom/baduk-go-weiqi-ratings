@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Peng Liyao** | **Han Yizhou streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Peng Liyao** | **Han Yizhou Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Peng Liyao | Han Yizhou | B+R | 7.5 | 1:2 | 0 | 1 | 
 | 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Han Yizhou | W+R | 7.5 | 1:1 | 1 | 0 | 

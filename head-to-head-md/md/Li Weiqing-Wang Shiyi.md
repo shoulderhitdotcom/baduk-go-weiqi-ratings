@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Wang Shiyi** | **Li Weiqing streak** | **Wang Shiyi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Wang Shiyi** | **Li Weiqing Streak** | **Wang Shiyi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Wang Shiyi | Li Weiqing | W+R | 7.5 | 3:0 | 3 | 0 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Li Weiqing | Wang Shiyi | B+R | 7.5 | 2:0 | 2 | 0 | 

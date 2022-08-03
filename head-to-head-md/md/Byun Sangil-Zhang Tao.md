@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Zhang Tao** | **Byun Sangil streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Zhang Tao** | **Byun Sangil Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Zhang Tao | Byun Sangil | W+R | 7.5 | 1:0 | 1 | 0 |
 

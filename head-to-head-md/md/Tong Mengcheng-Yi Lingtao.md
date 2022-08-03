@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tong Mengcheng vs Yi Lingtao** | **Tong Mengcheng streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Yi Lingtao** | **Tong Mengcheng Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Yi Lingtao | Tong Mengcheng | W+R | 7.5 | 4:0 | 4 | 0 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Tong Mengcheng | Yi Lingtao | B+R | 7.5 | 3:0 | 3 | 0 | 

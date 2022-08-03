@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shen Peiran vs Zhao Chenyu** | **Shen Peiran streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shen Peiran Vs Zhao Chenyu** | **Shen Peiran Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Shen Peiran | Zhao Chenyu | W+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jin Yucheng vs Li Chengsen** | **Jin Yucheng streak** | **Li Chengsen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Yucheng Vs Li Chengsen** | **Jin Yucheng Streak** | **Li Chengsen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Li Chengsen | W+R | 7.5 | 0:1 | 0 | 1 |
 

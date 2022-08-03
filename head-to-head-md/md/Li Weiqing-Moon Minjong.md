@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Moon Minjong** | **Li Weiqing streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Moon Minjong** | **Li Weiqing Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | W+R | 6.5 | 0:1 | 0 | 1 |
 

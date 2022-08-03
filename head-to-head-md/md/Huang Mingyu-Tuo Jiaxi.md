@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Mingyu vs Tuo Jiaxi** | **Huang Mingyu streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Mingyu Vs Tuo Jiaxi** | **Huang Mingyu Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | B+R | 7.5 | 0:1 | 0 | 1 |
 

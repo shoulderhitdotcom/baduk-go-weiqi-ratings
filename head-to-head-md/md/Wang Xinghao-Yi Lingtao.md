@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Xinghao vs Yi Lingtao** | **Wang Xinghao streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Xinghao Vs Yi Lingtao** | **Wang Xinghao Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-14 | 第36期中国囲碁天元戦1回戦 | Yi Lingtao | Wang Xinghao | B+R | 7.5 | 0:1 | 0 | 1 |
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

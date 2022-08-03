@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xiangyu vs Wang Zejin** | **Li Xiangyu streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Wang Zejin** | **Li Xiangyu Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Wang Zejin | B+¾ | 7.5 | 3:3 | 3 | 0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Wang Zejin | Li Xiangyu | W+R | 7.5 | 2:3 | 2 | 0 | 

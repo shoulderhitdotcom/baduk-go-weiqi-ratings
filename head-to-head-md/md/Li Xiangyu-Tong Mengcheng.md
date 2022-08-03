@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xiangyu vs Tong Mengcheng** | **Li Xiangyu streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Tong Mengcheng** | **Li Xiangyu Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Xiangyu | Tong Mengcheng | B+R | 7.5 | 1:0 | 1 | 0 |
 

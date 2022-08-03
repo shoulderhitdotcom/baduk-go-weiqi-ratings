@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Qirun vs Li Weiqing** | **Jiang Qirun streak** | **Li Weiqing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Li Weiqing** | **Jiang Qirun Streak** | **Li Weiqing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Li Weiqing | Jiang Qirun | B+R | 7.5 | 0:2 | 0 | 2 | 

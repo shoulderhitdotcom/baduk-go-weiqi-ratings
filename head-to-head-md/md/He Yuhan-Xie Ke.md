@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative He Yuhan vs Xie Ke** | **He Yuhan streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Xie Ke** | **He Yuhan Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | He Yuhan | Xie Ke | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | He Yuhan | Xie Ke | W+R | 7.5 | 0:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Chengsen vs Tuo Jiaxi** | **Li Chengsen streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Chengsen Vs Tuo Jiaxi** | **Li Chengsen Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Chengsen | Tuo Jiaxi | W+R | 7.5 | 0:1 | 0 | 1 |
 

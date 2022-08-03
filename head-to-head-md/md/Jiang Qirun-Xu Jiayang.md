@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Qirun vs Xu Jiayang** | **Jiang Qirun streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Xu Jiayang** | **Jiang Qirun Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Xu Jiayang | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Xu Jiayang | Jiang Qirun | B+¾ | 7.5 | 0:2 | 0 | 2 | 

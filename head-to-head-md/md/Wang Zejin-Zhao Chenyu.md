@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Zejin vs Zhao Chenyu** | **Wang Zejin streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Zejin Vs Zhao Chenyu** | **Wang Zejin Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Wang Zejin | W+¼ | 7.5 | 2:2 | 1 | 0 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江蘇-天津 | Wang Zejin | Zhao Chenyu | W+R | 7.5 | 1:2 | 0 | 1 | 

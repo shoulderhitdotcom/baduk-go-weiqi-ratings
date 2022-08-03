@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tao Xinran vs Xia Chenkun** | **Tao Xinran streak** | **Xia Chenkun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Xia Chenkun** | **Tao Xinran Streak** | **Xia Chenkun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節杭州-民生 | Tao Xinran | Xia Chenkun | B+R | 7.5 | 3:0 | 3 | 0 | 
 | 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Tao Xinran | Xia Chenkun | B+R | 7.5 | 2:0 | 2 | 0 | 

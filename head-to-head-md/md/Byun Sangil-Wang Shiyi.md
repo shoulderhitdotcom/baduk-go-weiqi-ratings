@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Wang Shiyi** | **Byun Sangil streak** | **Wang Shiyi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Wang Shiyi** | **Byun Sangil Streak** | **Wang Shiyi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | B+R | 7.5 | 2:1 | 2 | 0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | B+R | 7.5 | 1:1 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Shin Minjun** | **Chen Xian streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Shin Minjun** | **Chen Xian Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | B+R | 7.5 | 0:1 | 0 | 1 |
 

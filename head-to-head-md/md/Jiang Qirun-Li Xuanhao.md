@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Qirun vs Li Xuanhao** | **Jiang Qirun streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Li Xuanhao** | **Jiang Qirun Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | B+R | 7.5 | 2:1 | 2 | 0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Li Xuanhao | Jiang Qirun | W+R | 7.5 | 1:1 | 1 | 0 | 

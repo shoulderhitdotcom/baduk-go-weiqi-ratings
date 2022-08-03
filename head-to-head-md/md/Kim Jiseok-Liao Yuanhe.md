@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Liao Yuanhe** | **Kim Jiseok streak** | **Liao Yuanhe streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Liao Yuanhe** | **Kim Jiseok Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Liao Yuanhe | Kim Jiseok | W+2¼ | 7.5 | 2:1 | 1 | 0 | 

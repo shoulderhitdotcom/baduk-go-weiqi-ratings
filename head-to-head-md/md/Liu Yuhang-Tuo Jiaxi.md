@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liu Yuhang vs Tuo Jiaxi** | **Liu Yuhang streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liu Yuhang Vs Tuo Jiaxi** | **Liu Yuhang Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | B+¾ | 7.5 | 0:1 | 0 | 1 |
 

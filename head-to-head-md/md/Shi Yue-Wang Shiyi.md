@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shi Yue vs Wang Shiyi** | **Shi Yue streak** | **Wang Shiyi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Wang Shiyi** | **Shi Yue Streak** | **Wang Shiyi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Shi Yue | W+R | 7.5 | 1:0 | 1 | 0 |
 

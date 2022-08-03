@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tu Xiaoyu vs Xia Chenkun** | **Tu Xiaoyu streak** | **Xia Chenkun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Xia Chenkun** | **Tu Xiaoyu Streak** | **Xia Chenkun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | B+R | 7.5 | 3:1 | 3 | 0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Tu Xiaoyu | W+R | 7.5 | 2:1 | 2 | 0 | 

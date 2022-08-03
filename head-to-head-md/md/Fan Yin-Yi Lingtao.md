@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Yi Lingtao** | **Fan Yin streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Yi Lingtao** | **Fan Yin Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | W+R | 7.5 | 3:1 | 2 | 0 | 
 | 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Yi Lingtao | Fan Yin | W+2¼ | 7.5 | 2:1 | 1 | 0 | 

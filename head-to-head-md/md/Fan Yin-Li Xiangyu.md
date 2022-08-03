@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Li Xiangyu** | **Fan Yin streak** | **Li Xiangyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Li Xiangyu** | **Fan Yin Streak** | **Li Xiangyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Li Xiangyu | Fan Yin | B+R | 7.5 | 0:2 | 0 | 2 | 

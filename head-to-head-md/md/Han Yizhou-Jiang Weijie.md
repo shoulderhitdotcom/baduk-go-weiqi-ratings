@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Jiang Weijie** | **Han Yizhou streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Jiang Weijie** | **Han Yizhou Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Han Yizhou | Jiang Weijie | W+R | 7.5 | 0:5 | 0 | 5 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Han Yizhou | B+R | 7.5 | 0:4 | 0 | 4 | 

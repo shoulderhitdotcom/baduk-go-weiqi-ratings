@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Xu Haohong** | **Chen Xian streak** | **Xu Haohong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Xu Haohong** | **Chen Xian Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Xian | Xu Haohong | W+1¼ | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Wang Shiyi** | **Chen Yaoye streak** | **Wang Shiyi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Wang Shiyi** | **Chen Yaoye Streak** | **Wang Shiyi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Shiyi | Chen Yaoye | W+R | 7.5 | 1:0 | 1 | 0 |
 

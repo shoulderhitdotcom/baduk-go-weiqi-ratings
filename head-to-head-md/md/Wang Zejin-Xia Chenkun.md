@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Zejin vs Xia Chenkun** | **Wang Zejin streak** | **Xia Chenkun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Zejin Vs Xia Chenkun** | **Wang Zejin Streak** | **Xia Chenkun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | B+R | 7.5 | 3:2 | 1 | 0 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Wang Zejin | Xia Chenkun | W+R | 7.5 | 2:2 | 0 | 1 | 

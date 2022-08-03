@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Shen Peiran** | **Kim Jiseok streak** | **Shen Peiran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Shen Peiran** | **Kim Jiseok Streak** | **Shen Peiran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Shen Peiran | W+R | 7.5 | 0:1 | 0 | 1 |
 

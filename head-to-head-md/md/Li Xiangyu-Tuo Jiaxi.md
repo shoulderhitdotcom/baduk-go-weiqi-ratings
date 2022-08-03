@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xiangyu vs Tuo Jiaxi** | **Li Xiangyu streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Tuo Jiaxi** | **Li Xiangyu Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | W+R | 7.5 | 1:2 | 0 | 1 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | B+R | 7.5 | 1:1 | 1 | 0 | 

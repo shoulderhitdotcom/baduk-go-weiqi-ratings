@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liu Yuhang vs Ma Yichao** | **Liu Yuhang streak** | **Ma Yichao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liu Yuhang Vs Ma Yichao** | **Liu Yuhang Streak** | **Ma Yichao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-19 | 第30期中国囲碁名人戦予選 | Ma Yichao | Liu Yuhang | W+R | 7.5 | 1:0 | 1 | 0 |
 

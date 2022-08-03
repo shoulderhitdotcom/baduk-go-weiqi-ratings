@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Chengsen vs Liu Yuhang** | **Li Chengsen streak** | **Liu Yuhang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Chengsen Vs Liu Yuhang** | **Li Chengsen Streak** | **Liu Yuhang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | Li Chengsen | Liu Yuhang | B+R | 7.5 | 1:0 | 1 | 0 |
 

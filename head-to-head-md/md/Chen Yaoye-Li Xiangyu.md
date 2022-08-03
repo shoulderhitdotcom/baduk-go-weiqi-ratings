@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Li Xiangyu** | **Chen Yaoye streak** | **Li Xiangyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Li Xiangyu** | **Chen Yaoye Streak** | **Li Xiangyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Li Xiangyu | Chen Yaoye | W+¼ | 7.5 | 1:0 | 1 | 0 |
 

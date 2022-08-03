@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Tang Weixing** | **Li Xuanhao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Tang Weixing | B+R | 7.5 | 5:5 | 3 | 0 | 
 | 2019-03-06 | 第10期中国竜星戦予選 | Li Xuanhao | Tang Weixing | B+R | 7.5 | 4:5 | 2 | 0 | 
 | 2017-08-07 | 嫘祖杯30回中国名人戦準決勝 | Li Xuanhao | Tang Weixing | B+5.5 | 7.5 | 3:5 | 1 | 0 | 
 | 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Li Xuanhao | Tang Weixing | W+R | 7.5 | 2:5 | 0 | 3 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Yi Lingtao** | **Li Qincheng streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Yi Lingtao** | **Li Qincheng Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Li Qincheng | Yi Lingtao | W+1¼ | 7.5 | 1:3 | 0 | 2 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Yi Lingtao | Li Qincheng | B+R | 7.5 | 1:2 | 0 | 1 | 

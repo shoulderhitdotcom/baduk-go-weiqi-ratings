@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative He Yuhan vs Zhang Tao** | **He Yuhan streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Zhang Tao** | **He Yuhan Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Zhang Tao | He Yuhan | B+R | 7.5 | 0:1 | 0 | 1 |
 

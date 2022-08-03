@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Moon Minjong** | **Gu Zihao streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Moon Minjong** | **Gu Zihao Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Gu Zihao | Moon Minjong | B+R | 6.5 | 1:0 | 1 | 0 |
 

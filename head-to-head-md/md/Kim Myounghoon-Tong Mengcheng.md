@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Myounghoon vs Tong Mengcheng** | **Kim Myounghoon streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Tong Mengcheng** | **Kim Myounghoon Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Tong Mengcheng | Kim Myounghoon | W+R | 6.5 | 1:0 | 1 | 0 |
 

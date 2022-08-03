@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yunong vs Peng Liyao** | **Chen Yunong streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yunong Vs Peng Liyao** | **Chen Yunong Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Peng Liyao | Chen Yunong | B+R | 7.5 | 0:1 | 0 | 1 |
 

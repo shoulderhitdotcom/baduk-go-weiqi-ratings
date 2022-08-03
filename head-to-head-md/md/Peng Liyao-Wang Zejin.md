@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Wang Zejin** | **Peng Liyao streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Wang Zejin** | **Peng Liyao Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Wang Zejin | Peng Liyao | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-08-06 | 第20回中国囲碁甲級リーグ第11節廈門-天津 | Peng Liyao | Wang Zejin | B+R | 7.5 | 1:1 | 1 | 0 | 

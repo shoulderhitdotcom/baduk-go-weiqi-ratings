@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Xie Erhao** | **Han Yizhou streak** | **Xie Erhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Xie Erhao** | **Han Yizhou Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Han Yizhou | Xie Erhao | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Han Yizhou | Xie Erhao | W+2¼ | 7.5 | 0:2 | 0 | 2 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Chunhui vs Zhang Tao** | **Wang Chunhui streak** | **Zhang Tao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Chunhui Vs Zhang Tao** | **Wang Chunhui Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Zhang Tao | B+R | 7.5 | 1:0 | 1 | 0 |
 

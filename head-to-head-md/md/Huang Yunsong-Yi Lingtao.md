@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Yi Lingtao** | **Huang Yunsong streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Yi Lingtao** | **Huang Yunsong Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | B+R | 7.5 | 4:0 | 4 | 0 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Yi Lingtao | B+2¾ | 7.5 | 3:0 | 3 | 0 | 

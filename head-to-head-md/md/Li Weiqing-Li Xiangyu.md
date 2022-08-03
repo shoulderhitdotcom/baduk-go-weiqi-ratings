@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Li Xiangyu** | **Li Weiqing streak** | **Li Xiangyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Li Xiangyu** | **Li Weiqing Streak** | **Li Xiangyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Weiqing | Li Xiangyu | B+R | 7.5 | 1:0 | 1 | 0 |
 

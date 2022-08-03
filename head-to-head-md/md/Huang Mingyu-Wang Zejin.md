@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Mingyu vs Wang Zejin** | **Huang Mingyu streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Mingyu Vs Wang Zejin** | **Huang Mingyu Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Zejin | Huang Mingyu | W+R | 7.5 | 1:0 | 1 | 0 |
 

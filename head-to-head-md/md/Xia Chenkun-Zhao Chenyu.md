@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xia Chenkun vs Zhao Chenyu** | **Xia Chenkun streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xia Chenkun Vs Zhao Chenyu** | **Xia Chenkun Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhao Chenyu | B+R | 7.5 | 3:2 | 1 | 0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Zhao Chenyu | Xia Chenkun | B+R | 7.5 | 2:2 | 0 | 1 | 

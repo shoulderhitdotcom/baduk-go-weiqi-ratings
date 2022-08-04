@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Li Xiangyu** | **Ding Hao streak** | **Li Xiangyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Li Xiangyu** | **Ding Hao Streak** | **Li Xiangyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-12-10 | 第8期リコー杯新秀戦予選 | Ding Hao | Li Xiangyu | W+R | 7.5 | 0:1 | 0 | 1 |
 

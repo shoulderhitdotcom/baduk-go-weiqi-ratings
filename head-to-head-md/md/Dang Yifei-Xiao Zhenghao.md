@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Xiao Zhenghao** | **Dang Yifei streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Xiao Zhenghao** | **Dang Yifei Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Xiao Zhenghao | Dang Yifei | W+0.5 | 6.5 | 1:0 | 1 | 0 |
 

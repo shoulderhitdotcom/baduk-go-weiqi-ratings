@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Ida Atsushi** | **Ichiriki Ryo Streak** | **Ida Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第48期天元戦挑戦者決定戦  | Ichiriki Ryo | Ida Atsushi | W+R | 6.5 | 8:6 | 0 | 1 | 
 | 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | W+R | 6.5 | 8:5 | 4 | 0 | 
 | 2021-08-12 | 第69期王座戦準決勝  | Ida Atsushi | Ichiriki Ryo | W+1.5 | 6.5 | 7:5 | 3 | 0 | 
 | 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦決勝  | Ichiriki Ryo | Ida Atsushi | B+R | 6.5 | 6:5 | 2 | 0 | 

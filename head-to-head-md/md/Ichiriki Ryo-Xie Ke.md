@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Xie Ke** | **Ichiriki Ryo streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Xie Ke** | **Ichiriki Ryo Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-01-12 | 第9回応氏杯世界選手権準決勝第2局  | Xie Ke | Ichiriki Ryo | B+3 | 7.5 | 0:3 | 0 | 3 | 
 | 2021-01-10 | 第9回応氏杯世界選手権準決勝第1局  | Ichiriki Ryo | Xie Ke | W+R | 7.5 | 0:2 | 0 | 2 | 

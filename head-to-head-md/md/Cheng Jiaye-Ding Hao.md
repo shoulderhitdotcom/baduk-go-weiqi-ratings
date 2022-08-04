@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cheng Jiaye vs Ding Hao** | **Cheng Jiaye streak** | **Ding Hao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cheng Jiaye Vs Ding Hao** | **Cheng Jiaye Streak** | **Ding Hao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Cheng Jiaye | Ding Hao | W+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Weijie vs Lin Shuyang** | **Jiang Weijie streak** | **Lin Shuyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Lin Shuyang** | **Jiang Weijie Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-06-01 | 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Lin Shuyang | B+R | 7.5 | 1:0 | 1 | 0 |
 

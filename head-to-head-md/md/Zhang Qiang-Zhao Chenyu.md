@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Zhang Qiang vs Zhao Chenyu** | **Zhang Qiang streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Zhang Qiang Vs Zhao Chenyu** | **Zhang Qiang Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Zhang Qiang | Zhao Chenyu | W+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Zhao Chenyu** | **Iyama Yuta streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Zhao Chenyu** | **Iyama Yuta Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Iyama Yuta | Zhao Chenyu | W+R | 6.5 | 0:1 | 0 | 1 |
 

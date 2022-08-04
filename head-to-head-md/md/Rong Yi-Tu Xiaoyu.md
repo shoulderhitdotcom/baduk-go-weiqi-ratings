@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Rong Yi vs Tu Xiaoyu** | **Rong Yi streak** | **Tu Xiaoyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Rong Yi Vs Tu Xiaoyu** | **Rong Yi Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Rong Yi | Tu Xiaoyu | W+R | 7.5 | 1:1 | 0 | 1 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Tu Xiaoyu | Rong Yi | W+¼ | 7.5 | 1:0 | 1 | 0 |

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Tang Weixing** | **Iyama Yuta streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Tang Weixing** | **Iyama Yuta Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Iyama Yuta | Tang Weixing | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦G1 | Tang Weixing | Iyama Yuta | B+R | 6.5 | 0:1 | 0 | 1 |

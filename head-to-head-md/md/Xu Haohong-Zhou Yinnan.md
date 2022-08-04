@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xu Haohong vs Zhou Yinnan** | **Xu Haohong streak** | **Zhou Yinnan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xu Haohong Vs Zhou Yinnan** | **Xu Haohong Streak** | **Zhou Yinnan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-09-15 | 第7期中環碁聖戦2回戦 | Xu Haohong | Zhou Yinnan | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Xu Haohong | Zhou Yinnan | B+R | 6.5 | 2:0 | 2 | 0 | 

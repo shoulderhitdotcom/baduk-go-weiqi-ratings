@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tang Weixing vs Zhang Qiang** | **Tang Weixing streak** | **Zhang Qiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Zhang Qiang** | **Tang Weixing Streak** | **Zhang Qiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Tang Weixing | Zhang Qiang | B+R | 7.5 | 1:0 | 1 | 0 |
 

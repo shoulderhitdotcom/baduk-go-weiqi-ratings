@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Park Junghwan** | **Jiang Weijie Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Weijie | B+R | 7.5 | 5:7 | 0 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Park Junghwan | B+R | 7.5 | 5:6 | 4 | 0 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Park Junghwan | B+R | 7.5 | 4:6 | 3 | 0 | 
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | W+R | 6.5 | 3:6 | 2 | 0 | 

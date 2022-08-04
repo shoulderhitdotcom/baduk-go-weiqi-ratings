@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Jiang Qirun** | **Dang Yifei streak** | **Jiang Qirun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Jiang Qirun** | **Dang Yifei Streak** | **Jiang Qirun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | B+¾ | 7.5 | 1:3 | 0 | 2 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Jiang Qirun | Dang Yifei | B+R | 7.5 | 1:2 | 0 | 1 | 

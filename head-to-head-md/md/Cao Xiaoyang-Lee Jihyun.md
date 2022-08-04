@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cao Xiaoyang vs Lee Jihyun** | **Cao Xiaoyang streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Lee Jihyun** | **Cao Xiaoyang Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-06-17 | 2017年中国囲碁乙級リーグ | Lee Jihyun | Cao Xiaoyang | B+R | 7.5 | 0:1 | 0 | 1 |
 

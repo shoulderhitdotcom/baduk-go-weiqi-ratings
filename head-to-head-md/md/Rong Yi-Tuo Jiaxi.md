@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Rong Yi vs Tuo Jiaxi** | **Rong Yi streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Rong Yi Vs Tuo Jiaxi** | **Rong Yi Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Rong Yi | Tuo Jiaxi | B+R | 7.5 | 1:0 | 1 | 0 |
 

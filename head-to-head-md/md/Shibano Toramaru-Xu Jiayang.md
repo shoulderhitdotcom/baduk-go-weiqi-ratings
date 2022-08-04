@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Shibano Toramaru vs Xu Jiayang** | **Shibano Toramaru streak** | **Xu Jiayang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Xu Jiayang** | **Shibano Toramaru Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Shibano Toramaru | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -5,11 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Rong Yi vs Xie Ke** | **Rong Yi streak** | **Xie Ke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Rong Yi Vs Xie Ke** | **Rong Yi Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Rong Yi | Xie Ke | W+R | 7.5 | 1:1 | 0 | 1 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Xie Ke | Rong Yi | W+R | 7.5 | 1:0 | 1 | 0 | 
-| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Xie Ke | Rong Yi | W+R | 7.5 | 2:1 | 1 | 0 |
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Xie Ke | Rong Yi | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

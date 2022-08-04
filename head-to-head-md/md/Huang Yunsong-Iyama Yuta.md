@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Iyama Yuta** | **Huang Yunsong streak** | **Iyama Yuta streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Iyama Yuta** | **Huang Yunsong Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-12-25 | 第17回阿含・桐山杯日中決戦 | Huang Yunsong | Iyama Yuta | W+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Zhengxun vs Jiang Weijie** | **Chen Zhengxun streak** | **Jiang Weijie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Jiang Weijie** | **Chen Zhengxun Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | B+R | 7.5 | 1:2 | 0 | 2 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Jiang Weijie | Chen Zhengxun | B+R | 7.5 | 1:1 | 0 | 1 | 

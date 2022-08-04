@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jiang Qirun vs Zhang Qiang** | **Jiang Qirun streak** | **Zhang Qiang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Zhang Qiang** | **Jiang Qirun Streak** | **Zhang Qiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Qirun | Zhang Qiang | W+¼ | 7.5 | 0:1 | 0 | 1 |
 

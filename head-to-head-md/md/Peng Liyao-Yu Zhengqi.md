@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Peng Liyao vs Yu Zhengqi** | **Peng Liyao streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Yu Zhengqi** | **Peng Liyao Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Peng Liyao | Yu Zhengqi | W+R | 6.5 | 0:1 | 0 | 1 |
 

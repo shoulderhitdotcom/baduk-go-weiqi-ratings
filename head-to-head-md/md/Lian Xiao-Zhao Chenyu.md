@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Zhao Chenyu** | **Lian Xiao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Lian Xiao | Zhao Chenyu | W+R | 7.5 | 3:5 | 0 | 3 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Zhao Chenyu | Lian Xiao | B+R | 6.5 | 3:4 | 0 | 2 | 
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Zhao Chenyu | Lian Xiao | B+R | 7.5 | 3:3 | 0 | 1 | 
 | 2021-03-11 | 第35期中国囲碁天元戦1回戦 | Lian Xiao | Zhao Chenyu | B+1¾ | 7.5 | 3:2 | 3 | 0 | 

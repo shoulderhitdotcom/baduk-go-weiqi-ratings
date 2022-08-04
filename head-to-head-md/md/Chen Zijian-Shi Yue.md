@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Shi Yue** | **Chen Zijian Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Shi Yue | Chen Zijian | B+R | 7.5 | 0:2 | 0 | 2 | 
 | 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Shi Yue | Chen Zijian | B+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Hao vs Wang Zejin** | **Ding Hao streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Wang Zejin** | **Ding Hao Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Ding Hao | Wang Zejin | B+R | 7.5 | 1:0 | 1 | 0 |
 

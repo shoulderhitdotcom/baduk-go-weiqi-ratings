@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Chen Zhengxun** | **Chen Yaoye streak** | **Chen Zhengxun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Chen Zhengxun** | **Chen Yaoye Streak** | **Chen Zhengxun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | W+R | 7.5 | 3:0 | 3 | 0 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Chen Yaoye | Chen Zhengxun | B+R | 7.5 | 2:0 | 2 | 0 | 

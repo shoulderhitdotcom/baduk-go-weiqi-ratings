@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Shibano Toramaru** | **Iyama Yuta Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第47期棋聖戦Sリーグ  | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 19:14 | 0 | 1 | 
 | 2022-06-08 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 19:13 | 2 | 0 | 
 | 2021-12-09 | 第69期王座戦挑戦手合五番勝負第5局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 18:13 | 1 | 0 | 
 | 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | B+R | 6.5 | 17:13 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Weiqing vs Rong Yi** | **Li Weiqing streak** | **Rong Yi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Rong Yi** | **Li Weiqing Streak** | **Rong Yi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-10 | 第4回全国智力運動会大学生個人戦第4戦 | Li Weiqing | Rong Yi | W+R | 7.5 | 1:2 | 0 | 1 | 
 | 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Rong Yi | Li Weiqing | W+R | 7.5 | 1:1 | 1 | 0 | 

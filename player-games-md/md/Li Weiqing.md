@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Li Weiqing | Win | W+R | 7.5 | 3574 | 22 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Weiqing | Chen Yaoye | Win | B+R | 7.5 | 3552 | -13 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Li Xuanhao | Li Weiqing | Lose | B+R | 7.5 | 3565 | -10 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yang Kaiwen | Win | B+R | 7.5 | 3575 | 10 | 

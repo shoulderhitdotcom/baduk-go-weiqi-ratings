@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Liao Yuanhe | Win | W+R | 7.5 | 3499 | 27 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Tao Xinran | Liao Yuanhe | Win | W+R | 7.5 | 3472 | -23 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Chen Zijian | Liao Yuanhe | Lose | B+1¾ | 7.5 | 3495 | -99 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Dang Yifei | Liao Yuanhe | Lose | B+R | 7.5 | 3594 | -14 | 

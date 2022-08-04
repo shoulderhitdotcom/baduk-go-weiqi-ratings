@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Lose | W+R | 7.5 | 3539 | -9 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Lose | B+1¾ | 7.5 | 3548 | -7 | 
 | 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Win | B+R | 6.5 | 3555 | -2 | 
 | 2022-07-04 | 2022YK建機杯リーグ | Park Junghwan | Kim Myounghoon | Lose | B+R | 6.5 | 3557 | -9 | 

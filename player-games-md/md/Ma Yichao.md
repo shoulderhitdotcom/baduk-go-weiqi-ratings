@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ma Yichao | Wang Zheyu | Win | B+¾ | 7.5 | 3227 | 49 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Ma Yichao | Shi Yue | Lose | W+R | 7.5 | 3178 | -77 | 
 | 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Qirui | Ma Yichao | Lose | B+R | 7.5 | 3255 | -115 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Lee Changseok | Ma Yichao | Win | W+R | 7.5 | 3370 | 155 | 

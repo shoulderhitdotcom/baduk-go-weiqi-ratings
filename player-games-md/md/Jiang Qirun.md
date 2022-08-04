@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Xia Chenkun | Lose | W+R | 7.5 | 3280 | -22 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Jiang Qirun | Win | W+R | 7.5 | 3302 | -50 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 7.5 | 3352 | -50 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Chengsen | Win | B+R | 7.5 | 3402 | 24 | 

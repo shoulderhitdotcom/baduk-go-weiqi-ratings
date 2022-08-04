@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Shuo | Dang Yifei | Lose | W+R | 7.5 | 3515 | -48 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Shuo | Liu Zhaozhe | Win | B+R | 7.5 | 3563 | -8 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Shuo | Chen Shiyuan | Win | B+R | 7.5 | 3571 | 146 | 
 | 2022-03-14 | 第18回倡棋杯予選 | Wang Shuo |  | Win | B+¾ | 7.5 | 3425 | 169 | 

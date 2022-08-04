@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Lose | W+¼ | 7.5 | 3089 | -10 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Lose | B+R | 7.5 | 3099 | -220 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | He Yuhan | Kim Jiseok | Lose | W+R | 7.5 | 3319 | 30 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Chunhui | He Yuhan | Win | W+R | 7.5 | 3289 | 10 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Li Weiqing | Lose | W+R | 7.5 | 3489 | -3 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Xu Jiayang | Win | W+R | 7.5 | 3492 | -25 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Xu Jiayang | Li Xuanhao | Lose | W+R | 7.5 | 3517 | -25 | 
 | 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Li Xuanhao | Lose | W+¼ | 7.5 | 3542 | -8 | 

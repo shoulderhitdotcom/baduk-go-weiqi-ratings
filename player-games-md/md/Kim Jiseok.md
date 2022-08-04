@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Zerui | Kim Jiseok | Lose | B+R | 7.5 | 3503 | -11 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Xu Jiayang | Lose | W+R | 7.5 | 3514 | -13 | 
 | 2022-07-25 | 第45期名人戦（韓国）2回戦 | Shin Minjun | Kim Jiseok | Win | W+R | 6.5 | 3527 | 18 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Kim Jiseok | Byun Sangil | Lose | W+R | 6.5 | 3509 | -5 | 

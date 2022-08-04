@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Win | W+R | 7.5 | 3585 | 17 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Fan Yin | Lian Xiao | Win | B+R | 7.5 | 3568 | 53 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Xu Jiayang | Lose | W+R | 7.5 | 3515 | 9 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Fan Yin | Xie Ke | Lose | W+R | 7.5 | 3506 | -14 | 

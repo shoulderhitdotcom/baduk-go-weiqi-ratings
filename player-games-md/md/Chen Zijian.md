@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Lose | W+R | 7.5 | 3386 | -4 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Lose | W+R | 7.5 | 3390 | -29 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | Lose | W+R | 7.5 | 3419 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Chen Zijian | Liao Yuanhe | Win | B+1¾ | 7.5 | 3419 | 8 | 

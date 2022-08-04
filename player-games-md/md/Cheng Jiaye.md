@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Liao Yuanhe | Lose | W+R | 7.5 | 3407 | -85 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Gu Lingyi | Win | B+¾ | 7.5 | 3492 | 239 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Gu Li | Cheng Jiaye | Win | W+R | 7.5 | 3253 | 133 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Wang Shuo | Cheng Jiaye | Lose | B+R | 7.5 | 3120 | -77 | 

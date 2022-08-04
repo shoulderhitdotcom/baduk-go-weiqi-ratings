@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Wang Zejin | Win | W+R | 7.5 | 3395 | 17 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Win | B+R | 7.5 | 3378 | 47 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | Lose | B+R | 7.5 | 3331 | -25 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Wang Zejin |  | Win | B+R | 7.5 | 3356 | -14 | 

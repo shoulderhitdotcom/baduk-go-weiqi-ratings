@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Li Xuanhao | Win | W+R | 7.5 | 3662 | 7 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Tang Weixing | Win | B+R | 7.5 | 3655 | 21 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Li Xuanhao | Ke Jie | Lose | W+R | 7.5 | 3634 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Li Xuanhao | Gu Lingyi | Win | B+¾ | 7.5 | 3634 | 27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3079 | 8 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Lose | W+R | 7.5 | 3071 | -390 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3461 | 14 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3447 | -1 | 

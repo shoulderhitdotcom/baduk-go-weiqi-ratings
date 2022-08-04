@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Win | W+R | 7.5 | 3641 | -2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Byun Sangil | Win | W+R | 7.5 | 3643 | -8 | 
 | 2022-07-22 | 第27回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Park Junghwan | Win | B+R | 6.5 | 3651 | -15 | 
 | 2022-07-18 | 第45期名人戦（韓国）敗者組1回戦 | Byun Sangil | Choi Jeong | Win | B+R | 6.5 | 3666 | 6 | 

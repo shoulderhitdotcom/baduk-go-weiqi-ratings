@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Xie Ke | Lose | B+2¾ | 7.5 | 3530 | -1 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Xie Ke | Win | W+R | 7.5 | 3531 | -7 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Dang Yifei | Xie Ke | Lose | B+R | 7.5 | 3538 | -7 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xie Ke | Li Qincheng | Win | B+R | 7.5 | 3545 | 9 | 

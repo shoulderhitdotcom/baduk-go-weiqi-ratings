@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Liu Qifeng | Win | B+R | 7.5 | 3371 | 53 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Xie Ke | Lose | W+R | 7.5 | 3318 | -37 | 
 | 2022-06-19 | 第21回西南棋王戦準決勝 | Liu Yuhang | Tang Weixing | Lose | W+R | 7.5 | 3355 | -27 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Shi Yue | Liu Yuhang | Win | W+R | 7.5 | 3382 | 0 | 

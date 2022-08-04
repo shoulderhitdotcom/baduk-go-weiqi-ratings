@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Lose | B+R | 7.5 | 3199 | -24 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Haotong | Hu Zihao | Lose | B+R | 7.5 | 3223 | -139 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Hu Zihao | Kang Seungmin | Win | B+R | 7.5 | 3362 | 112 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Hu Zihao | Tang Jiawen | Lose | W+R | 7.5 | 3250 | -55 | 

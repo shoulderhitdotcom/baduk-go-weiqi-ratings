@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Win | W+R | 7.5 | 3609 | 16 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | Win | B+R | 7.5 | 3593 | 10 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Mi Yuting | Gu Zihao | Win | W+R | 6.5 | 3583 | -8 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Gu Zihao | Kim Jiseok | Lose | W+R | 6.5 | 3591 | -10 | 

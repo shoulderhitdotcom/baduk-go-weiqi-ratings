@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Weijie | Win | B+R | 7.5 | 3668 | -1 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Park Junghwan | Tu Xiaoyu | Lose | W+3¼ | 7.5 | 3669 | -11 | 
 | 2022-07-27 | 第45期名人戦（韓国）2回戦 | Kang Seungmin | Park Junghwan | Win | W+R | 6.5 | 3680 | 0 | 
 | 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Win | B+R | 6.5 | 3680 | 2 | 

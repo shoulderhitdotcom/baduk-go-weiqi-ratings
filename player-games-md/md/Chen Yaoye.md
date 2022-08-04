@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Yaoye | Win | W+R | 7.5 | 3413 | 25 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Weiqing | Chen Yaoye | Lose | B+R | 7.5 | 3388 | -82 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Shi Yue | Chen Yaoye | Lose | B+R | 7.5 | 3470 | -16 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tao Xinran | Chen Yaoye | Win | W+R | 7.5 | 3486 | -2 | 

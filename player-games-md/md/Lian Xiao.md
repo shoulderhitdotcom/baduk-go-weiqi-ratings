@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Lian Xiao | Zhao Chenyu | Lose | W+R | 7.5 | 3526 | 0 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Fan Yin | Lian Xiao | Lose | B+R | 7.5 | 3526 | -4 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Jiang Weijie | Lian Xiao | Win | W+R | 6.5 | 3530 | 3 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Lian Xiao | Lose | B+¾ | 7.5 | 3527 | -5 | 

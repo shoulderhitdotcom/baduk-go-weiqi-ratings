@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Weijie | Lose | B+R | 7.5 | 3225 | 2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | Lose | B+R | 7.5 | 3223 | -17 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Jiang Weijie | Lian Xiao | Lose | W+R | 6.5 | 3240 | -211 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Jiang Weijie | Huang Yunsong | Lose | W+R | 7.5 | 3451 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Zhang Tao | Win | B+R | 7.5 | 3631 | 28 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Win | W+R | 7.5 | 3603 | -4 | 
 | 2022-07-28 | 2022博思軟件杯中国囲碁新秀争覇戦2回戦 | Wang Xinghao | Wu Yiming | Win | B+R | 7.5 | 3607 | -3 | 
 | 2022-07-27 | 2022博思軟件杯中国囲碁新秀争覇戦1回戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3610 | 10 | 

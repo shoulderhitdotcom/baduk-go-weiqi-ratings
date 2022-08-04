@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Xu Haohong | Wang Chuxuan | Lose | W+R | 7.5 | 3373 | -52 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Yang Dingxin | Lose | W+R | 7.5 | 3369 | -4 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Wang Chuxuan | Lose | W+R | 7.5 | 3373 | -52 | 
 | 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Xu Haohong | Lose | B+R | 6.5 | 3425 | -8 | 
 | 2022-06-07 | 第21期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Xu Haohong | Win | W+1.5 | 6.5 | 3433 | 36 | 
 | 2022-06-02 | 第12期友士杯十段戦挑戦手合五番勝負第4局  | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3397 | 15 | 

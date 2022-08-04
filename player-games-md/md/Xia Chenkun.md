@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Xia Chenkun | Win | W+R | 7.5 | 3309 | 38 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Huang Yunsong | Win | B+R | 7.5 | 3271 | -136 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 3407 | -20 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3427 | -19 | 

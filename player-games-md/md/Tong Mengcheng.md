@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Tong Mengcheng | Win | W+R | 7.5 | 3420 | 15 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Jiang Qirun | Lose | W+R | 7.5 | 3405 | -73 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Wang Xinghao | Tong Mengcheng | Lose | B+R | 7.5 | 3478 | -4 | 
 | 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | Lose | W+R | 6.5 | 3482 | -12 | 

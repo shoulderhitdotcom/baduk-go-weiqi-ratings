@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Xie Erhao | Lee Jihyun | Win | B+R | 7.5 | 3398 | 30 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Win | W+R | 7.5 | 3368 | -46 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Lose | B+R | 7.5 | 3414 | -20 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Li Xuanhao | Xie Erhao | Lose | B+R | 7.5 | 3434 | -30 | 

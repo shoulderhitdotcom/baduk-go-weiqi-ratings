@@ -7,27 +7,27 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-04 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Seol Hyunjun | Park Hyunsoo | Win | W+R | 6.5 | 3028 | 0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Park Hyunsoo | Lee Donghoon | Lose | W+R | 6.5 | 3028 | 10 | 
-| 2021-04-26 | 第26回LG杯韓国予選 | Park Hyunsoo | Kim Hyeongwoo | Win | B+7.5 | 6.5 | 3018 | 45 | 
-| 2021-01-26 | 第4回クラウン・ヘテ杯3回戦 | An Jungki | Park Hyunsoo | Lose | B+2.5 | 6.5 | 2973 | 26 | 
-| 2021-01-19 | 第4回クラウン・ヘテ杯2回戦 | Park Hyunsoo | Oh Byungwoo | Win | B+7.5 | 6.5 | 2947 | -99 | 
-| 2020-12-30 | 第4回クラウン・ヘテ杯1回戦 | Park Hyunsoo | Lee Yeon | Win | B+R | 6.5 | 3046 | 37 | 
-| 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Na Hyun | Park Hyunsoo | Lose | B+R | 6.5 | 3009 | -65 | 
-| 2020-07-14 | 2020陜川歴代英才vs女性頂上連勝対抗戦第6局 | Park Hyunsoo | Oh Yujin | Lose | W+0.5 | 6.5 | 3074 | -2 | 
-| 2020-07-08 | 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | Win | B+R | 6.5 | 3076 | 17 | 
-| 2020-05-26 | 第7回グロービス杯韓国予選 | Park Joonhoon | Park Hyunsoo | Lose | B+R | 6.5 | 3059 | -3 | 
-| 2020-05-25 | 第7回グロービス杯韓国予選 | Gang Woohyeok | Park Hyunsoo | Win | W+R | 6.5 | 3062 | 17 | 
-| 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Lee Yeon | Park Hyunsoo | Lose | B+R | 6.5 | 3045 | -49 | 
-| 2020-04-22 | 第25回LG杯韓国予選 | Park Hyunsoo | Park Geunho | Lose | W+R | 6.5 | 3094 | -2 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Park Hyunsoo | Lee Hoseong | Win | B+0.5 | 6.5 | 3096 | 8 | 
-| 2020-04-16 | 第25回LG杯韓国予選 | Park Hyunsoo | Kim Seungjun | Win | B+R | 6.5 | 3088 | 8 | 
+| 2022-08-04 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Seol Hyunjun | Park Hyunsoo | Win | W+R | 6.5 | 3025 | 0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Park Hyunsoo | Lee Donghoon | Lose | W+R | 6.5 | 3025 | 10 | 
+| 2021-04-26 | 第26回LG杯韓国予選 | Park Hyunsoo | Kim Hyeongwoo | Win | B+7.5 | 6.5 | 3015 | 44 | 
+| 2021-01-26 | 第4回クラウン・ヘテ杯3回戦 | An Jungki | Park Hyunsoo | Lose | B+2.5 | 6.5 | 2971 | 27 | 
+| 2021-01-19 | 第4回クラウン・ヘテ杯2回戦 | Park Hyunsoo | Oh Byungwoo | Win | B+7.5 | 6.5 | 2944 | -100 | 
+| 2020-12-30 | 第4回クラウン・ヘテ杯1回戦 | Park Hyunsoo | Lee Yeon | Win | B+R | 6.5 | 3044 | 37 | 
+| 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Na Hyun | Park Hyunsoo | Lose | B+R | 6.5 | 3007 | -66 | 
+| 2020-07-14 | 2020陜川歴代英才vs女性頂上連勝対抗戦第6局 | Park Hyunsoo | Oh Yujin | Lose | W+0.5 | 6.5 | 3073 | -2 | 
+| 2020-07-08 | 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | Win | B+R | 6.5 | 3075 | 17 | 
+| 2020-05-26 | 第7回グロービス杯韓国予選 | Park Joonhoon | Park Hyunsoo | Lose | B+R | 6.5 | 3058 | -3 | 
+| 2020-05-25 | 第7回グロービス杯韓国予選 | Gang Woohyeok | Park Hyunsoo | Win | W+R | 6.5 | 3061 | 17 | 
+| 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Lee Yeon | Park Hyunsoo | Lose | B+R | 6.5 | 3044 | -49 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Park Hyunsoo | Park Geunho | Lose | W+R | 6.5 | 3093 | -2 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Park Hyunsoo | Lee Hoseong | Win | B+0.5 | 6.5 | 3095 | 8 | 
+| 2020-04-16 | 第25回LG杯韓国予選 | Park Hyunsoo | Kim Seungjun | Win | B+R | 6.5 | 3087 | 7 | 
 | 2020-01-25 | 2019-2020KBフューチャーズリーグ第17節第1試合第1局 | Min Sangyoun | Park Hyunsoo | Lose | B+R | 6.5 | 3080 | -17 | 
 | 2020-01-18 | 2019-2020KBフューチャーズリーグ第16節第2試合第2局 | Park Hyunsoo | Lee Chungyu | Win | B+R | 6.5 | 3097 | 27 | 
-| 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第3局 | Jin Siyoung | Park Hyunsoo | Lose | B+R | 6.5 | 3070 | -17 | 
-| 2020-01-12 | 2019-2020KBフューチャーズリーグ第15節第3試合第3局 | Park Hyunsoo |  | Lose | W+3.5 | 6.5 | 3087 | -18 | 
-| 2020-01-11 | 2019-2020韓国囲碁リーグ第15節第3試合第5局 | Park Hyunsoo | Lee Yeongkyu | Win | B+0.5 | 6.5 | 3105 | 44 | 
-| 2020-01-08 | 2019-2020KBフューチャーズリーグ第14節第4試合第3局 | Park Hyunsoo | Han Wonggyu | Win | B+3.5 | 6.5 | 3061 | missing |
+| 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第3局 | Jin Siyoung | Park Hyunsoo | Lose | B+R | 6.5 | 3070 | -16 | 
+| 2020-01-12 | 2019-2020KBフューチャーズリーグ第15節第3試合第3局 | Park Hyunsoo |  | Lose | W+3.5 | 6.5 | 3086 | -18 | 
+| 2020-01-11 | 2019-2020韓国囲碁リーグ第15節第3試合第5局 | Park Hyunsoo | Lee Yeongkyu | Win | B+0.5 | 6.5 | 3104 | 44 | 
+| 2020-01-08 | 2019-2020KBフューチャーズリーグ第14節第4試合第3局 | Park Hyunsoo | Han Wonggyu | Win | B+3.5 | 6.5 | 3060 | missing |
 
 
 

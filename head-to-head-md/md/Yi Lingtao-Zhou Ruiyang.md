@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yi Lingtao vs Zhou Ruiyang** | **Yi Lingtao streak** | **Zhou Ruiyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yi Lingtao Vs Zhou Ruiyang** | **Yi Lingtao Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Yi Lingtao | Zhou Ruiyang | B+R | 7.5 | 1:0 | 1 | 0 |
 

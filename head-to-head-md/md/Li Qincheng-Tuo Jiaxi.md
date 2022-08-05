@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tuo Jiaxi** | **Li Qincheng Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tuo Jiaxi | B+¾ | 7.5 | 8:7 | 1 | 0 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | B+R | 7.5 | 7:7 | 0 | 1 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tuo Jiaxi | Li Qincheng | W+R | 6.5 | 7:6 | 2 | 0 | 
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | Li Qincheng | Tuo Jiaxi | B+R | 7.5 | 6:6 | 1 | 0 | 

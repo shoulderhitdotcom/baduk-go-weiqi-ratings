@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Shen Peiran** | **Dang Yifei streak** | **Shen Peiran streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Shen Peiran** | **Dang Yifei Streak** | **Shen Peiran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | W+R | 7.5 | 2:1 | 2 | 0 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節民生-成都 | Shen Peiran | Dang Yifei | W+R | 7.5 | 1:1 | 1 | 0 | 

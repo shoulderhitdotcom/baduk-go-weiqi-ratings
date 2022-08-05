@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Shixiong vs Wang Zejin** | **Ding Shixiong streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Wang Zejin** | **Ding Shixiong Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-12-28 | 第31期中国囲碁天元戦予選 | Ding Shixiong | Wang Zejin | W+R | 7.5 | 0:1 | 0 | 1 |
 

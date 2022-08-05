@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cao Xiaoyang vs Ke Jie** | **Cao Xiaoyang streak** | **Ke Jie streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Ke Jie** | **Cao Xiaoyang Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Ke Jie | W+R | 7.5 | 0:1 | 0 | 1 |
 

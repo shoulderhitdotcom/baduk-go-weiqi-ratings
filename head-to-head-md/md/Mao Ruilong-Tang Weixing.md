@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mao Ruilong vs Tang Weixing** | **Mao Ruilong streak** | **Tang Weixing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mao Ruilong Vs Tang Weixing** | **Mao Ruilong Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Tang Weixing | Mao Ruilong | W+R | 7.5 | 1:1 | 1 | 0 | 
 | 2014-03-07 | 第13回西南棋王戦1回戦 | Tang Weixing | Mao Ruilong | B+R | 7.5 | 0:1 | 0 | 1 |

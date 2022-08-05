@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Liao Yuanhe vs Zhou Ruiyang** | **Liao Yuanhe streak** | **Zhou Ruiyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Zhou Ruiyang** | **Liao Yuanhe Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | B+R | 7.5 | 1:0 | 1 | 0 |
 

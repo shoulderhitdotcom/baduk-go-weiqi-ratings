@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xu Jiayang Vs Yang Dingxin** | **Xu Jiayang Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xu Jiayang | B+¾ | 7.5 | 3:4 | 0 | 1 | 
 | 2021-01-08 | 第8回衢州・爛柯杯中国囲碁冠軍戦決勝 | Yang Dingxin | Xu Jiayang | W+R | 7.5 | 3:3 | 1 | 0 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | W+R | 7.5 | 2:3 | 0 | 2 | 
 | 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Xu Jiayang | Yang Dingxin | W+R | 7.5 | 2:2 | 0 | 1 | 

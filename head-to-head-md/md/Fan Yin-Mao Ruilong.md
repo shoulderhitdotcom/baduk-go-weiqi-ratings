@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Mao Ruilong** | **Fan Yin streak** | **Mao Ruilong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Mao Ruilong** | **Fan Yin Streak** | **Mao Ruilong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Fan Yin | Mao Ruilong | B+R | 7.5 | 1:0 | 1 | 0 |
 

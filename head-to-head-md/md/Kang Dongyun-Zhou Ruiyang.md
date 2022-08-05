@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Zhou Ruiyang** | **Kang Dongyun streak** | **Zhou Ruiyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Zhou Ruiyang** | **Kang Dongyun Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | B+¾ | 7.5 | 3:3 | 2 | 0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Zhou Ruiyang | Kang Dongyun | W+¼ | 7.5 | 2:3 | 1 | 0 | 

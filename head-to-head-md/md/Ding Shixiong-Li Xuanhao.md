@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Shixiong vs Li Xuanhao** | **Ding Shixiong streak** | **Li Xuanhao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Li Xuanhao** | **Ding Shixiong Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Ding Shixiong | Li Xuanhao | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Ding Shixiong | Li Xuanhao | W+R | 7.5 | 0:2 | 0 | 2 | 

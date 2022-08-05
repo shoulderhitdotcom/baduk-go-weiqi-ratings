@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Huang Mingyu** | **Fan Tingyu streak** | **Huang Mingyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Huang Mingyu** | **Fan Tingyu Streak** | **Huang Mingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | W+2¼ | 7.5 | 1:0 | 1 | 0 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Huang Yunsong** | **Fan Yin Streak** | **Huang Yunsong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Yin | Huang Yunsong | W+R | 7.5 | 3:5 | 0 | 2 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Fan Yin | Huang Yunsong | W+R | 7.5 | 3:4 | 0 | 1 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Fan Yin | W+R | 7.5 | 3:3 | 3 | 0 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Fan Yin | Huang Yunsong | B+R | 6.5 | 2:3 | 2 | 0 | 

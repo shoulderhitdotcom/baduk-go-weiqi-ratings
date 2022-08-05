@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Zhou Ruiyang** | **Han Yizhou streak** | **Zhou Ruiyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Zhou Ruiyang** | **Han Yizhou Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Han Yizhou | Zhou Ruiyang | W+R | 7.5 | 0:4 | 0 | 4 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Zhou Ruiyang | Han Yizhou | B+R | 7.5 | 0:3 | 0 | 3 | 

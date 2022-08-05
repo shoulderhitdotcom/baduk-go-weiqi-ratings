@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Shixiong vs Tong Mengcheng** | **Ding Shixiong streak** | **Tong Mengcheng streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Tong Mengcheng** | **Ding Shixiong Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江蘇-衢州 | Tong Mengcheng | Ding Shixiong | B+T | 7.5 | 1:2 | 0 | 1 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Ding Shixiong | Tong Mengcheng | B+R | 7.5 | 1:1 | 1 | 0 | 

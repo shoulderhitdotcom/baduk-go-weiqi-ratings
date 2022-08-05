@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shen Peiran | Lee Jihyun | Lose | B+R | 7.5 | 3341 | -24 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Xie Erhao | Lee Jihyun | Lose | B+R | 7.5 | 3365 | -20 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Wang Zheyu | Win | B+R | 7.5 | 3385 | -14 | 
 | 2022-07-21 | 第45期名人戦（韓国）敗者組1回戦 | Seol Hyunjun | Lee Jihyun | Win | W+R | 6.5 | 3399 | 32 | 

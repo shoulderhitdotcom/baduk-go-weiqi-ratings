@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Lose | B+¾ | 7.5 | 3574 | -32 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Shuo | Dang Yifei | Win | W+R | 7.5 | 3606 | 30 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | Lose | B+¾ | 7.5 | 3576 | -14 | 
 | 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3590 | -9 | 

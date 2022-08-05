@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Win | W+R | 7.5 | 3426 | 3 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Win | B+R | 7.5 | 3423 | 24 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Yang Kaiwen | Lose | B+R | 7.5 | 3399 | -118 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yang Kaiwen | Lose | B+R | 7.5 | 3517 | -14 | 

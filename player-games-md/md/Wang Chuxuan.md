@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Wang Chuxuan | Lose | B+R | 7.5 | 3157 | -31 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Tong Mengcheng | Lose | W+R | 7.5 | 3188 | 2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Wang Chuxuan | Win | W+R | 7.5 | 3186 | -7 | 
 | 2022-07-12 | 2021中国囲碁乙級リーグ | Lin Shixun | Wang Chuxuan | Win | W+R | 7.5 | 3193 | missing |

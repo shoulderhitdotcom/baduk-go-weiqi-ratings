@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Mao Ruilong | Lose | W+R | 7.5 | 2711 | -37 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tang Weixing | Wang Shiyi | Lose | B+R | 7.5 | 2748 | -18 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Wang Chunhui | Win | B+¾ | 7.5 | 2766 | -249 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Wang Shiyi | Yang Kaiwen | Lose | W+R | 7.5 | 3015 | -4 | 

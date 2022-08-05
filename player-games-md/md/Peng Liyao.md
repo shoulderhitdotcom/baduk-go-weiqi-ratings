@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tao Xinran | Peng Liyao | Lose | B+R | 7.5 | 3533 | -34 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Lose | W+R | 7.5 | 3567 | -2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Win | W+R | 7.5 | 3569 | 24 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Peng Liyao | Li Xuanhao | Lose | W+R | 7.5 | 3545 | -11 | 

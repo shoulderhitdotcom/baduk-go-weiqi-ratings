@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xu Jiayang | Win | B+¾ | 7.5 | 3567 | -4 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Yang Dingxin | Win | W+R | 7.5 | 3571 | 11 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 3560 | -13 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 6.5 | 3573 | -6 | 

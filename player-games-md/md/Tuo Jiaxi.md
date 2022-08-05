@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tuo Jiaxi | Lose | B+¾ | 7.5 | 3493 | -20 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Lose | B+R | 7.5 | 3513 | -1 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhang Tao | Tuo Jiaxi | Win | W+R | 7.5 | 3514 | -8 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Tuo Jiaxi | Yang Dingxin | Win | B+R | 6.5 | 3522 | 8 | 

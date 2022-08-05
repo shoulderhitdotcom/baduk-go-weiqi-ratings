@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Yin | Huang Yunsong | Win | W+R | 7.5 | 3547 | -1 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Xie Ke | Win | B+2¾ | 7.5 | 3548 | 15 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Huang Yunsong | Lose | B+R | 7.5 | 3533 | -17 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Huang Yunsong | Xu Jiayang | Lose | W+¼ | 7.5 | 3550 | -10 | 

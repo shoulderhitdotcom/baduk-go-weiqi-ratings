@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tuo Jiaxi | Win | B+¾ | 7.5 | 3483 | 6 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3477 | 19 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Win | B+1¾ | 7.5 | 3458 | -100 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3558 | -16 | 

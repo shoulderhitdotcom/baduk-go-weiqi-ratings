@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Tang Weixing | Win | B+R | 7.5 | 3473 | 10 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+R | 7.5 | 3463 | 10 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Park Junghwan | Tu Xiaoyu | Win | W+3¼ | 7.5 | 3453 | 22 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Tu Xiaoyu | Mi Yuting | Lose | W+R | 7.5 | 3431 | -51 | 

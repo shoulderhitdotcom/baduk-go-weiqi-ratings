@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Ye Changxin | Win | W+1¼ | 7.5 | 3116 | 74 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Lose | B+R | 7.5 | 3042 | -65 | 
 | 2022-07-28 | 2022博思軟件杯中国囲碁新秀争覇戦2回戦 | Ye Changxin | Li Xiaoxi | Win | B+R | 7.5 | 3107 | 242 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Ye Changxin | Tang Jiawen | Lose | W+¼ | 7.5 | 2865 | -105 | 

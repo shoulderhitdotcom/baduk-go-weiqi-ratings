@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Zerui | Win | W+R | 7.5 | 3261 | 78 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Zerui | Kim Jiseok | Win | B+R | 7.5 | 3183 | 139 | 
 | 2022-03-15 | 第18回倡棋杯予選 |  | Li Zerui | Win | W+3¼ | 7.5 | 3044 | 14 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Wang Chuxuan | Li Zerui | Lose | B+¾ | 7.5 | 3030 | -35 | 

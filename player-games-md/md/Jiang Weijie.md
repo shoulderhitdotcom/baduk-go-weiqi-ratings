@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Wang Chunhui | Win | B+R | 7.5 | 3219 | 3 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Weijie | Lose | B+R | 7.5 | 3216 | 2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | Lose | B+R | 7.5 | 3214 | -17 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Jiang Weijie | Lian Xiao | Lose | W+R | 6.5 | 3231 | -213 | 

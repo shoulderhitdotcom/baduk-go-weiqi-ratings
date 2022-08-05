@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Ye Changxin | Lose | W+1¼ | 7.5 | 3310 | -40 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Rong Yi | Win | B+R | 7.5 | 3350 | 42 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Yang Kaiwen | Win | B+R | 7.5 | 3308 | -146 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Ke Jie | Yi Lingtao | Lose | B+R | 7.5 | 3454 | -17 | 

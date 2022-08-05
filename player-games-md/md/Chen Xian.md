@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Chen Xian | Win | W+R | 7.5 | 3353 | 7 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Xian | Li Qincheng | Lose | W+R | 7.5 | 3346 | -2 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Chen Xian | Win | W+¼ | 7.5 | 3348 | -49 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Xie Ke | Chen Xian | Lose | B+R | 7.5 | 3397 | -8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Zerui | Lose | W+R | 7.5 | 3307 | -35 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tan Xiao | Huang Mingyu | Lose | B+R | 7.5 | 3342 | -34 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Lose | W+R | 7.5 | 3376 | -11 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Lose | W+R | 7.5 | 3387 | -14 | 

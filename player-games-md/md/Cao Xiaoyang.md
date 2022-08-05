@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Cao Xiaoyang | Lose | B+¾ | 7.5 | 3029 | -36 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Wang Zejin | Lose | W+R | 7.5 | 3065 | -139 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Cao Xiaoyang | Tong Mengcheng | Lose | W+R | 7.5 | 3204 | -168 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Cao Xiaoyang | Tao Xinran | Win | B+4¼ | 7.5 | 3372 | 49 | 

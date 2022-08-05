@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Liu Yuhang | Win | B+R | 7.5 | 3533 | -3 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Lian Xiao | Zhao Chenyu | Win | W+R | 7.5 | 3536 | 17 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Byun Sangil | Lose | W+R | 7.5 | 3519 | -9 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Mi Yuting | Lose | W+2.5 | 6.5 | 3528 | -5 | 

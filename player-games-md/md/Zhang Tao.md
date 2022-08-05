@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhang Tao | Li Xiangyu | Win | B+R | 7.5 | 3514 | -6 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Zhang Tao | Lose | B+R | 7.5 | 3520 | -3 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3523 | 12 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhang Tao | Lian Xiao | Lose | W+R | 7.5 | 3511 | -3 | 

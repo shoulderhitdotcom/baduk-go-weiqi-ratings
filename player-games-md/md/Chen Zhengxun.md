@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Win | B+¾ | 7.5 | 3370 | 99 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Chen Zhengxun | Win | W+R | 7.5 | 3271 | -99 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3370 | -25 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3395 | 27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Tan Xiao | Lose | B+R | 7.5 | 3403 | -12 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tan Xiao | Huang Mingyu | Win | B+R | 7.5 | 3415 | 25 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3390 | -56 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Lose | W+R | 7.5 | 3446 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Lose | W+R | 7.5 | 3423 | -19 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Win | W+R | 7.5 | 3442 | 21 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Ma Yichao | Shi Yue | Win | W+R | 7.5 | 3421 | -39 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Shi Yue | Liu Yuhang | Lose | W+R | 7.5 | 3460 | 0 | 

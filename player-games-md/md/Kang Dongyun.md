@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Gu Lingyi | Kang Dongyun | Win | W+¼ | 7.5 | 3519 | -6 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Win | W+¼ | 7.5 | 3525 | -3 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3528 | 2 | 
 | 2022-07-28 | 第5期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3526 | -4 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Tang Weixing | Lose | B+R | 7.5 | 3406 | -19 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tang Weixing | Wang Shiyi | Win | B+R | 7.5 | 3425 | 12 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Tang Weixing | Lose | B+R | 7.5 | 3413 | -11 | 
 | 2022-06-19 | 第21回西南棋王戦準決勝 | Liu Yuhang | Tang Weixing | Win | W+R | 7.5 | 3424 | 0 | 

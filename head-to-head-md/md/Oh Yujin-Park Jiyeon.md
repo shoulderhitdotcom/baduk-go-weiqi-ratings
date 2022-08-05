@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Yujin Vs Park Jiyeon** | **Oh Yujin Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第8回韓国女子囲碁リーグ | Oh Yujin | Park Jiyeon | W+R | 6.5 | 5:4 | 0 | 1 | 
 | 2022-06-19 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Oh Yujin | W+R | 6.5 | 5:3 | 2 | 0 | 
 | 2021-08-12 | 第7回韓国女子囲碁リーグ | Oh Yujin | Park Jiyeon | B+R | 6.5 | 4:3 | 1 | 0 | 
 | 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第3局 | Oh Yujin | Park Jiyeon | W+R | 6.5 | 3:3 | 0 | 1 | 

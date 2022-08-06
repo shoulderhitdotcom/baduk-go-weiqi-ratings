@@ -55,7 +55,7 @@ The ratings are based on 4703 games from 2021-08-06 to 2022-08-05.
 | 31 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3477 | 74 | KOR | Male | 33.2 | 金志錫 | 
 | 32 | [Tu Xiaoyu](./player-games-md/md/Tu Xiaoyu.md) | 3473 | 31 | CHN | Male | missing | 屠暁宇 | 
 | 33 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3462 | 32 | CHN | Male | 21.6 | 廖元赫 | 
-| 34 | [Yu Zhengqi](./player-games-md/md/Yu Zhengqi.md) | 3459 | 42 | TWN | Male | 27.1 | 余正麒 | 
+| 34 | [Yu Zhengqi](./player-games-md/md/Yu Zhengqi.md) | 3459 | 42 | TWN | Male | 27.2 | 余正麒 | 
 | 35 | [Xu Jiayang](./player-games-md/md/Xu Jiayang.md) | 3457 | 25 | CHN | Male | missing | 許嘉陽 | 
 | 36 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3447 | 37 | KOR | Male | 24.2 | 朴鍵昊 | 
 | 37 | [Ichiriki Ryo](./player-games-md/md/Ichiriki Ryo.md) | 3444 | 64 | JPN | Male | 25.2 | 一力遼 | 
@@ -152,7 +152,7 @@ Note that players with fewer than 13 games are not in the list
 | 113 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3192 | 26 | KOR | Male | 23.9 | 宋圭相 | 
 | 114 | [Yu Zhiying](./player-games-md/md/Yu Zhiying.md) | 3186 | 43 | CHN | Female | 24.7 | 於之瑩 | 
 | 115 | [Yoo Ohseong](./player-games-md/md/Yoo Ohseong.md) | 3185 | 24 | missing | missing | missing | 兪旿成 | 
-| 116 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3183 | 18 | KOR | Male | 34.4 | 金炯佑 | 
+| 116 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3183 | 18 | KOR | Male | 34.5 | 金炯佑 | 
 | 117 | [Hane Naoki](./player-games-md/md/Hane Naoki.md) | 3182 | 27 | JPN | Male | 46.0 | 羽根直樹 | 
 | 118 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3177 | 14 | JPN | Male | 26.5 | 孫喆 | 
 | 119 | [Kim Sonjin](./player-games-md/md/Kim Sonjin.md) | 3172 | 18 | KOR | Male | 33.0 | 金成進 | 
@@ -209,9 +209,9 @@ Note that players with fewer than 13 games are not in the list
 | 170 | [Wang Chenxing](./player-games-md/md/Wang Chenxing.md) | 2923 | 36 | CHN | Female | 31.1 | 王晨星 | 
 | 171 | [Tang Jiawen](./player-games-md/md/Tang Jiawen.md) | 2920 | 31 | missing | missing | missing | 唐嘉雯 | 
 | 172 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 2920 | 39 | missing | missing | missing | 呉依銘 | 
-| 173 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2919 | 18 | JPN | Female | 23.2 | 牛栄子 | 
+| 173 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2919 | 18 | JPN | Female | 23.3 | 牛栄子 | 
 | 174 | [Park Jiyeon](./player-games-md/md/Park Jiyeon.md) | 2907 | 37 | KOR | Female | 31.2 | 朴志娟 | 
-| 175 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 2905 | 20 | KOR | Female | 35.9 | 金恵敏 | 
+| 175 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 2905 | 20 | KOR | Female | 36.0 | 金恵敏 | 
 | 176 | [Xu Yidi](./player-games-md/md/Xu Yidi.md) | 2905 | 17 | missing | missing | missing | 許一笛 | 
 | 177 | [Lu Yiquan](./player-games-md/md/Lu Yiquan.md) | 2899 | 51 | TWN | Male | missing | 盧奕銓 | 
 | 178 | [Zhao Yifei](./player-games-md/md/Zhao Yifei.md) | 2886 | 25 | CHN | Female | missing | 趙奕斐 | 
@@ -269,7 +269,7 @@ Note that players with fewer than 13 games are not in the list
 | 230 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2657 | 19 | KOR | Male | 32.0 | 姜勲 | 
 | 231 | [](./player-games-md/md/.md) | 2656 | 24 | missing | missing | missing | 荘承濬 | 
 | 232 | [](./player-games-md/md/.md) | 2655 | 20 | missing | missing | missing | 金京垠 | 
-| 233 | [Song Ronghui](./player-games-md/md/Song Ronghui.md) | 2654 | 15 | CHN | Female | 30.0 | 宋容慧 | 
+| 233 | [Song Ronghui](./player-games-md/md/Song Ronghui.md) | 2654 | 15 | CHN | Female | 30.1 | 宋容慧 | 
 | 234 | [Cai Bihan](./player-games-md/md/Cai Bihan.md) | 2636 | 14 | CHN | Female | missing | 蔡碧涵 | 
 | 235 | [Pan Yang](./player-games-md/md/Pan Yang.md) | 2627 | 14 | CHN | Female | missing | 潘陽 | 
 | 236 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2620 | 15 | TWN | Unknown | missing | 林宇翔 | 
@@ -446,15 +446,15 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Hong Mujin | 417 | 26 | 洪茂鎭 | 
 | Park Yeonghun | 394 | 35 | 朴永訓 | 
 | Han Seungjoo | 375 | 45 | 韓昇周 | 
-| Kim Jinhyu | 276 | 26 | 金眞輝 | 
+| Kim Jinhyu | 275 | 26 | 金眞輝 | 
 | Sada Atsushi | 275 | 44 | 佐田篤史 | 
 | Lee Wondo | 272 | 28 | 李元道 | 
-| Park Joonhoon | 251 | 27 | 朴鐘勲 | 
+| Park Joonhoon | 250 | 27 | 朴鐘勲 | 
 | Kono Rin | 246 | 19 | 河野臨 | 
 | Kim Seongjae | 244 | 21 | 金昇宰 | 
-| Peng Liyao | 216 | 34 | 彭立尭 | 
+| Peng Liyao | 215 | 34 | 彭立尭 | 
 | Park Geunho | 200 | 38 | 朴鍵昊 | 
-| Yu Zhengqi | 194 | 45 | 余正麒 | 
+| Yu Zhengqi | 193 | 45 | 余正麒 | 
 | Kim Myounghoon | 190 | 46 | 金明訓 | 
 | Park Jinsol | 188 | 28 | 朴進率 | 
 | Hsu Chiayuan | 183 | 46 | 許家元 | 
@@ -463,7 +463,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Hong Seongji | 155 | 23 | 洪性志 | 
 | Yamashita Keigo | 151 | 27 | 山下敬吾 | 
 | Wang Xinghao | 135 | 32 | 王星昊 | 
-| Park Hamin | 130 | 52 | 朴河旼 | 
+| Park Hamin | 129 | 52 | 朴河旼 | 
 | Ida Atsushi | 125 | 21 | 伊田篤史 | 
 | Iyama Yuta | 118 | 47 | 井山裕太 | 
 | Jin Yucheng | 113 | 17 | 金禹丞 | 
@@ -480,7 +480,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Moon Minjong | 69 | 40 | 文敏鍾 | 
 | Mi Yuting | 66 | 62 | 芈昱廷 | 
 | Seol Hyunjun | 64 | 54 | 偰玹準 | 
-| Chen Zijian | 60 | 21 | 陳梓健 | 
+| Chen Zijian | 59 | 21 | 陳梓健 | 
 | Kang Dongyun | 53 | 74 | 姜東潤 | 
 | Choi Cheolhan | 46 | 27 | 崔哲瀚 | 
 | Xu Haohong | 45 | 68 | 許皓鋐 | 
@@ -489,7 +489,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Kang Seungmin | 22 | 43 | 姜昇旼 | 
 | Huang Yunsong | 16 | 49 | 黄雲嵩 | 
 | Ding Hao | 15 | 48 | 丁浩 | 
-| Choi Jaeyoung | 14 | 25 | 崔宰栄 | 
+| Choi Jaeyoung | 13 | 25 | 崔宰栄 | 
 | Tuo Jiaxi | 12 | 38 | 柁嘉熹 | 
 | An Sungjoon | 10 | 45 | 安成浚 | 
 | Han Sanghoon | 7 | 31 | 韓尚勲 | 
@@ -508,7 +508,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Yun Chanhee | -39 | 37 | 尹燦熙 | 
 | Wang Zejin | -41 | 16 | 王沢錦 | 
 | Liao Yuanhe | -43 | 33 | 廖元赫 | 
-| Park Junghwan | -49 | 93 | 朴廷桓 | 
+| Park Junghwan | -50 | 93 | 朴廷桓 | 
 | Li Weiqing | -51 | 31 | 李維清 | 
 | Byun Sangil | -54 | 75 | 卞相壹 | 
 | Na Hyun | -56 | 21 | 羅玄 | 
@@ -532,7 +532,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Tang Weixing | -139 | 38 | 唐韋星 | 
 | Xu Jiayang | -149 | 25 | 許嘉陽 | 
 | Jiang Qirun | -159 | 15 | 蒋其潤 | 
-| Xie Erhao | -184 | 24 | 謝爾豪 | 
+| Xie Erhao | -185 | 24 | 謝爾豪 | 
 | Xia Chenkun | -205 | 18 | 夏晨琨 | 
 | Lee Jihyun | -206 | 31 | 李志賢 | 
 | Chen Xian | -214 | 30 | 陳賢 | 

@@ -9,9 +9,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Zerui | Lose | W+R | 7.5 | 3307 | -35 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tan Xiao | Huang Mingyu | Lose | B+R | 7.5 | 3342 | -34 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Lose | W+R | 7.5 | 3376 | -11 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Lose | W+R | 7.5 | 3387 | -14 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Win | W+¾ | 7.5 | 3401 | -25 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Lose | W+R | 7.5 | 3376 | -10 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Lose | W+R | 7.5 | 3386 | -14 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Win | W+¾ | 7.5 | 3400 | -26 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Byun Sangil | Lose | W+R | 7.5 | 3426 | -14 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Win | W+R | 7.5 | 3440 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Zejin | Huang Mingyu | Win | W+R | 7.5 | 3421 | 7 | 
@@ -29,11 +29,11 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Huang Mingyu | Lose | B+R | 7.5 | 3297 | -8 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Zhao Chenyu | Lose | W+R | 7.5 | 3305 | -13 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Li Qincheng | Lose | W+R | 7.5 | 3318 | -13 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Dang Yifei | Huang Mingyu | Lose | B+R | 7.5 | 3331 | 69 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Win | W+R | 7.5 | 3262 | 31 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tong Mengcheng | Lose | W+R | 7.5 | 3231 | -18 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Xia Chenkun | Lose | W+R | 7.5 | 3249 | -27 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Win | W+R | 7.5 | 3276 | 20 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Dang Yifei | Huang Mingyu | Lose | B+R | 7.5 | 3331 | 70 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Win | W+R | 7.5 | 3261 | 31 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tong Mengcheng | Lose | W+R | 7.5 | 3230 | -18 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Xia Chenkun | Lose | W+R | 7.5 | 3248 | -27 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Win | W+R | 7.5 | 3275 | 19 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Li Xuanhao | Win | B+R | 7.5 | 3256 | 78 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Tang Weixing | Lose | W+R | 7.5 | 3178 | 8 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Gu Lingyi | Win | B+R | 7.5 | 3170 | 3 | 

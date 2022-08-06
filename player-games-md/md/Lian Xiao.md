@@ -31,9 +31,9 @@
 | 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | Lose | W+R | 7.5 | 3552 | 4 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3548 | -9 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Lose | W+¼ | 7.5 | 3557 | -5 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Lose | W+2.5 | 6.5 | 3562 | -4 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Win | W+0.5 | 6.5 | 3566 | 7 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Win | W+R | 6.5 | 3559 | 8 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Lose | W+2.5 | 6.5 | 3562 | -3 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Win | W+0.5 | 6.5 | 3565 | 7 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Win | W+R | 6.5 | 3558 | 7 | 
 | 2021-10-12 | 第12期中国竜星戦Aブロック9回戦 | Yang Dingxin | Lian Xiao | Lose | B+R | 7.5 | 3551 | -3 | 
 | 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | Win | W+R | 7.5 | 3554 | 10 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Xuanhao | Lian Xiao | Lose | B+R | 7.5 | 3544 | -6 | 
@@ -43,8 +43,8 @@
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lian Xiao | Han Yizhou | Lose | W+R | 7.5 | 3582 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Lian Xiao | Win | W+R | 7.5 | 3591 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3591 | 0 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3591 | -5 | 
-| 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Win | B+R | 7.5 | 3596 | -3 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3591 | -4 | 
+| 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Win | B+R | 7.5 | 3595 | -4 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | Win | W+R | 7.5 | 3599 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Win | W+R | 7.5 | 3599 | 4 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Lian Xiao | Wang Yao | Win | B+R | 7.5 | 3595 | 1 | 
@@ -81,9 +81,9 @@
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Lian Xiao | Win | W+R | 7.5 | 3513 | 6 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Park Junghwan | Win | B+R | 7.5 | 3507 | 13 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Win | B+R | 7.5 | 3494 | 8 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Lian Xiao | Lose | B+R | 7.5 | 3486 | 27 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Lian Xiao | Tu Xiaoyu | Lose | W+R | 7.5 | 3459 | -17 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Lian Xiao | Ding Hao | Lose | W+R | 7.5 | 3476 | -17 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Lian Xiao | Lose | B+R | 7.5 | 3486 | 28 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Lian Xiao | Tu Xiaoyu | Lose | W+R | 7.5 | 3458 | -17 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Lian Xiao | Ding Hao | Lose | W+R | 7.5 | 3475 | -18 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Lian Xiao | Win | W+R | 7.5 | 3493 | 16 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3477 | 34 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Erhao | Lian Xiao | Lose | B+R | 7.5 | 3443 | -13 | 
@@ -91,8 +91,8 @@
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3472 | -9 | 
 | 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | Lose | W+R | 7.5 | 3481 | -10 | 
 | 2020-12-02 | 第34期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Lian Xiao | Lose | B+R | 7.5 | 3491 | -16 | 
-| 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Win | B+R | 7.5 | 3507 | -28 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Lian Xiao | Li Weiqing | Lose | W+R | 7.5 | 3535 | 24 | 
+| 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Win | B+R | 7.5 | 3507 | -27 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Lian Xiao | Li Weiqing | Lose | W+R | 7.5 | 3534 | 23 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Lian Xiao | Shin Jinseo | Lose | W+T | 6.5 | 3511 | -2 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lian Xiao | Park Jinsol | Win | B+R | 6.5 | 3513 | -40 | 
 | 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Yang Dingxin | Lian Xiao | Lose | B+R | 7.5 | 3553 | -54 | 

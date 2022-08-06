@@ -20,9 +20,9 @@
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Lose | W+R | 7.5 | 3191 | 3 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Wang Shiyi | Lose | B+R | 7.5 | 3188 | 10 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Hao | Wang Shiyi | Win | W+R | 7.5 | 3178 | 82 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Lose | B+R | 7.5 | 3096 | 39 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Chen Zijian | Lose | W+R | 7.5 | 3057 | -27 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Na Hyun | Lose | W+R | 7.5 | 3084 | -40 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Lose | B+R | 7.5 | 3096 | 40 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Chen Zijian | Lose | W+R | 7.5 | 3056 | -27 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Na Hyun | Lose | W+R | 7.5 | 3083 | -41 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | Lose | B+R | 7.5 | 3124 | -13 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Sun Tengyu | Lose | W+R | 7.5 | 3137 | -11 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Shi Yue | Lose | W+R | 7.5 | 3148 | -55 | 

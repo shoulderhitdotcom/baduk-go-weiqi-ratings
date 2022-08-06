@@ -8,9 +8,9 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | W+R | 7.5 | 3254 | -128 | 
-| 2022-02-15 | 第36期中国囲碁天元戦予選 | Tao Xinran | Zhou Ruiyang | Lose | B+R | 7.5 | 3382 | -29 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3411 | 28 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3383 | 27 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Tao Xinran | Zhou Ruiyang | Lose | B+R | 7.5 | 3382 | -28 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3410 | 28 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3382 | 26 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Lose | W+R | 7.5 | 3356 | -16 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3372 | -16 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Lose | W+R | 7.5 | 3388 | -17 | 
@@ -35,16 +35,16 @@
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3199 | -1 | 
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Huang Yunsong | Zhou Ruiyang | Lose | B+5¾ | 7.5 | 3200 | 32 | 
 | 2021-01-28 | 第35期中国囲碁天元戦1回戦 | Zhou Ruiyang | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3168 | -7 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | Lose | B+R | 7.5 | 3175 | 33 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | Lose | W+R | 7.5 | 3142 | -21 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3163 | -3 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Lose | W+¼ | 7.5 | 3166 | -18 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | Lose | B+R | 7.5 | 3175 | 34 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | Lose | W+R | 7.5 | 3141 | -21 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3162 | -3 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Lose | W+¼ | 7.5 | 3165 | -19 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Tang Weixing | Lose | W+R | 7.5 | 3184 | 17 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 | 3167 | 42 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Zijian | Win | B+¾ | 7.5 | 3125 | 18 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Lose | B+R | 7.5 | 3107 | -38 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5 | 3145 | -3 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3148 | -124 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5 | 3145 | -2 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3147 | -125 | 
 | 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3272 | -11 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Meng Tailing | Win | B+R | 7.5 | 3283 | 0 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Peng Liyao | Zhou Ruiyang | Win | W+¼ | 7.5 | 3283 | 87 | 

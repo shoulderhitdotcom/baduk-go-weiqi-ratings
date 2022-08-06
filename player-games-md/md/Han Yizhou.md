@@ -37,9 +37,9 @@
 | 2021-03-15 | 第35期中国囲碁天元戦1回戦 | Mi Yuting | Han Yizhou | Lose | B+R | 7.5 | 3261 | -15 | 
 | 2021-03-09 | 第35期中国囲碁天元戦予選 | Han Yizhou | Wang Xinghao | Win | B+1¾ | 7.5 | 3276 | 73 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Han Yizhou | Win | W+1¼ | 7.5 | 3203 | 49 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Xingwen | Han Yizhou | Win | W+R | 7.5 | 3154 | 87 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Han Yizhou | Huang Jingyuan | Lose | W+¼ | 7.5 | 3067 | -48 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Han Yizhou | Shen Peiran | Win | B+1¾ | 7.5 | 3115 | -27 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Xingwen | Han Yizhou | Win | W+R | 7.5 | 3154 | 88 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Han Yizhou | Huang Jingyuan | Lose | W+¼ | 7.5 | 3066 | -48 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Han Yizhou | Shen Peiran | Win | B+1¾ | 7.5 | 3114 | -28 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Han Yizhou | Lose | B+R | 7.5 | 3142 | -17 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Han Yizhou | Chen Yaoye | Lose | W+R | 7.5 | 3159 | 6 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Han Yizhou | Lose | B+R | 7.5 | 3153 | -36 | 

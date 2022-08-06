@@ -12,9 +12,9 @@
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Jiang Qirun | Win | W+R | 7.5 | 3293 | -54 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 7.5 | 3347 | -50 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Chengsen | Win | B+R | 7.5 | 3397 | 24 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Win | B+R | 7.5 | 3373 | 35 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Lose | W+R | 7.5 | 3338 | -8 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+¾ | 7.5 | 3346 | -65 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Win | B+R | 7.5 | 3373 | 36 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Lose | W+R | 7.5 | 3337 | -8 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+¾ | 7.5 | 3345 | -66 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Lose | W+R | 7.5 | 3411 | -10 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jiang Qirun | Lose | B+R | 7.5 | 3421 | -20 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Win | B+R | 7.5 | 3441 | 25 | 
@@ -34,13 +34,13 @@
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Lose | W+R | 7.5 | 3321 | -4 | 
 | 2021-03-10 | 第35期中国囲碁天元戦予選 | Jiang Qirun | Sun Tengyu | Lose | W+R | 7.5 | 3325 | 12 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Jingyuan | Win | B+R | 7.5 | 3313 | 14 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Win | B+R | 7.5 | 3299 | 56 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Lose | B+R | 7.5 | 3243 | -21 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Win | W+R | 7.5 | 3264 | 21 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+R | 7.5 | 3243 | -20 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Hu Yaoyu | Win | B+¾ | 7.5 | 3263 | 16 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Jiang Qirun | Win | W+1¼ | 7.5 | 3247 | 38 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Hu Yaoyu | Lose | W+R | 7.5 | 3209 | -58 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Win | B+R | 7.5 | 3299 | 57 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Lose | B+R | 7.5 | 3242 | -21 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Win | W+R | 7.5 | 3263 | 21 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+R | 7.5 | 3242 | -20 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Hu Yaoyu | Win | B+¾ | 7.5 | 3262 | 16 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Jiang Qirun | Win | W+1¼ | 7.5 | 3246 | 38 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Hu Yaoyu | Lose | W+R | 7.5 | 3208 | -59 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Shin Jinseo | Lose | W+R | 7.5 | 3267 | 14 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Jiang Qirun |  | Win | B+R | 7.5 | 3253 | 18 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Tu Xiaoyu | Win | B+R | 7.5 | 3235 | 46 | 

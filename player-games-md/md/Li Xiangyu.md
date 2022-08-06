@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhang Tao | Li Xiangyu | Lose | B+R | 7.5 | 3115 | -11 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Yaoye | Lose | W+R | 7.5 | 3126 | -12 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Chengsen | Li Xiangyu | Win | W+R | 7.5 | 3138 | -89 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Win | B+R | 7.5 | 3227 | -99 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Chengsen | Li Xiangyu | Win | W+R | 7.5 | 3138 | -88 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Win | B+R | 7.5 | 3226 | -100 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Lose | W+¾ | 7.5 | 3326 | -5 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Lose | B+R | 7.5 | 3331 | -28 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Lose | B+R | 7.5 | 3359 | -38 | 
@@ -26,13 +26,13 @@
 | 2021-04-25 | 第20回西南棋王戦2回戦 | Li Xiangyu | Tang Weixing | Lose | W+R | 7.5 | 3282 | 0 | 
 | 2021-04-25 | 第20回西南棋王戦1回戦 | Li Xiangyu | Chang Hao | Win | B+R | 7.5 | 3282 | 30 | 
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | Lose | W+R | 7.5 | 3252 | 16 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Mi Yuting | Lose | W+R | 7.5 | 3236 | 15 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Lose | B+R | 7.5 | 3221 | -39 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Peng Liyao | Win | B+R | 7.5 | 3260 | 36 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3224 | -20 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xiangyu | Lose | B+R | 7.5 | 3244 | -26 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | Win | B+R | 7.5 | 3270 | 70 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Win | W+¼ | 7.5 | 3200 | 62 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Mi Yuting | Lose | W+R | 7.5 | 3236 | 16 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Lose | B+R | 7.5 | 3220 | -39 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Peng Liyao | Win | B+R | 7.5 | 3259 | 36 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3223 | -20 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xiangyu | Lose | B+R | 7.5 | 3243 | -26 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | Win | B+R | 7.5 | 3269 | 70 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Win | W+¼ | 7.5 | 3199 | 61 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Hu Yaoyu | Win | B+1¾ | 7.5 | 3138 | 120 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Lee Donghoon | Lose | W+R | 7.5 | 3018 | -35 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | Lose | B+R | 7.5 | 3053 | -72 | 

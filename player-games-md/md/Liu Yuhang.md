@@ -33,9 +33,9 @@
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Liao Yuanhe | Lose | W+R | 7.5 | 3268 | -46 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Lyu Liyan | Win | B+R | 7.5 | 3314 | 3 | 
 | 2021-04-25 | 第20回西南棋王戦2回戦 | Ke Jie | Liu Yuhang | Lose | B+R | 7.5 | 3311 | 0 | 
-| 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Yuhang | Shi Yue | Win | B+R | 7.5 | 3311 | 86 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | Win | W+R | 7.5 | 3225 | -13 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Seol Hyunjun | Liu Yuhang | Lose | B+2¾ | 7.5 | 3238 | -211 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Yuhang | Shi Yue | Win | B+R | 7.5 | 3311 | 87 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | Win | W+R | 7.5 | 3224 | -13 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Seol Hyunjun | Liu Yuhang | Lose | B+2¾ | 7.5 | 3237 | -212 | 
 | 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Lose | B+¾ | 7.5 | 3449 | -30 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Liu Yuhang | Liao Yuanhe | Win | B+1¾ | 7.5 | 3479 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | Liu Yuhang | Gu Li | Win | B+R | 7.5 | 3479 | missing |

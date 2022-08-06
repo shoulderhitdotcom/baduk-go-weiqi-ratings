@@ -20,8 +20,8 @@
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Xie Erhao | Tong Mengcheng | Lose | W+R | 7.5 | 3434 | 0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3434 | -72 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | Lose | B+1¾ | 7.5 | 3506 | -6 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Win | W+1¼ | 7.5 | 3512 | -15 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3527 | 10 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Win | W+1¼ | 7.5 | 3512 | -14 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3526 | 9 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Lose | W+R | 7.5 | 3517 | -10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | Win | B+¾ | 7.5 | 3527 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xie Erhao | Ke Jie | Lose | W+¼ | 7.5 | 3523 | -14 | 
@@ -30,8 +30,8 @@
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3563 | 20 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Lose | B+R | 7.5 | 3543 | -42 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3585 | 22 | 
-| 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3563 | 7 | 
-| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3556 | 18 | 
+| 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3563 | 8 | 
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3555 | 17 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Win | B+1¾ | 7.5 | 3538 | 5 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | Lose | W+R | 6.5 | 3533 | 14 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3519 | 1 | 
@@ -51,18 +51,18 @@
 | 2021-03-23 | 第35期中国囲碁天元戦3回戦 | Ke Jie | Xie Erhao | Lose | B+R | 7.5 | 3533 | -6 | 
 | 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Xie Erhao | Tang Weixing | Win | B+R | 7.5 | 3539 | 11 | 
 | 2021-03-12 | 第35期中国囲碁天元戦1回戦 | Xie Erhao | Chen Xian | Win | B+R | 7.5 | 3528 | 48 | 
-| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Mi Yuting | Xie Erhao | Lose | B+¾ | 7.5 | 3480 | 25 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tan Xiao | Win | B+¾ | 7.5 | 3455 | 8 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Xie Erhao | Win | W+R | 7.5 | 3447 | 15 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Xie Erhao | Win | W+R | 7.5 | 3432 | -4 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3436 | 7 | 
+| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Mi Yuting | Xie Erhao | Lose | B+¾ | 7.5 | 3480 | 26 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tan Xiao | Win | B+¾ | 7.5 | 3454 | 8 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Xie Erhao | Win | W+R | 7.5 | 3446 | 15 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Xie Erhao | Win | W+R | 7.5 | 3431 | -4 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3435 | 6 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | Win | B+R | 7.5 | 3429 | 19 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Li Weiqing | Xie Erhao | Win | W+R | 7.5 | 3410 | 42 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Erhao | Lian Xiao | Win | B+R | 7.5 | 3368 | 17 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Lose | B+R | 7.5 | 3351 | -33 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Lose | W+R | 7.5 | 3384 | -26 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Yang Dingxin | Xie Erhao | Lose | B+¾ | 7.5 | 3410 | 7 | 
-| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3403 | -4 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Lose | W+R | 7.5 | 3384 | -25 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Yang Dingxin | Xie Erhao | Lose | B+¾ | 7.5 | 3409 | 7 | 
+| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3402 | -5 | 
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦  | Xie Erhao | Ichiriki Ryo | Win | B+R | 6.5 | 3407 | 30 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Xie Erhao | Xu Haohong | Win | B+R | 6.5 | 3377 | 23 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Park Junghwan | Win | B+0.5 | 6.5 | 3354 | -42 | 

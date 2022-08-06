@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Xie Ke | Ding Shixiong | Lose | B+R | 7.5 | 3041 | -204 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Hu Yuhan | Lose | W+R | 7.5 | 3245 | 3 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Lose | W+R | 7.5 | 3242 | -14 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Lose | B+R | 7.5 | 3256 | -51 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Lose | W+R | 7.5 | 3242 | -13 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Lose | B+R | 7.5 | 3255 | -52 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Lose | W+R | 7.5 | 3307 | -25 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Lose | B+R | 7.5 | 3332 | -41 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Win | W+1¼ | 7.5 | 3373 | 28 | 
@@ -25,8 +25,8 @@
 | 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Ding Shixiong | Jiang Zhujiu | Win | B+R | 7.5 | 3033 | -1 | 
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Ding Shixiong | Rong Yi | Lose | W+R | 7.5 | 3034 | 22 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Yichun | Win | B+R | 7.5 | 3012 | 80 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Xu Haohong | Lose | W+¼ | 7.5 | 2932 | 25 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Ding Shixiong | Rong Yi | Lose | W+R | 7.5 | 2907 | 5 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Xu Haohong | Lose | W+¼ | 7.5 | 2932 | 26 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Ding Shixiong | Rong Yi | Lose | W+R | 7.5 | 2906 | 4 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Ding Shixiong | Lose | B+R | 7.5 | 2902 | -63 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Lose | B+R | 7.5 | 2965 | -39 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Ding Shixiong | Yi Lingtao | Win | B+R | 7.5 | 3004 | 217 | 

@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Win | B+¾ | 7.5 | 3370 | 99 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Chen Zhengxun | Win | W+R | 7.5 | 3271 | -99 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3370 | -25 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3395 | 27 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3370 | -24 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3394 | 26 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3368 | -23 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3391 | 34 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3357 | 12 | 
@@ -20,10 +20,10 @@
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Peng Liyao | Lose | W+R | 7.5 | 3192 | 9 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Zhengxun | Win | W+1¼ | 7.5 | 3183 | 46 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | Win | B+R | 7.5 | 3137 | 83 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Shi Yulai | Chen Zhengxun | Win | W+R | 7.5 | 3054 | 69 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 2985 | -19 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Zhang Tao | Lose | W+R | 7.5 | 3004 | 6 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 2998 | -31 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Shi Yulai | Chen Zhengxun | Win | W+R | 7.5 | 3054 | 70 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 2984 | -19 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Zhang Tao | Lose | W+R | 7.5 | 3003 | 6 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 2997 | -32 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Lose | B+R | 7.5 | 3029 | -11 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Zhengxun |  | Win | B+R | 7.5 | 3040 | 15 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Win | W+R | 7.5 | 3025 | 101 | 

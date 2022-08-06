@@ -22,9 +22,9 @@
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Gu Lingyi | Lose | B+2¾ | 7.5 | 3156 | -4 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Li Qincheng | Gu Lingyi | Lose | B+R | 7.5 | 3160 | -27 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Gu Lingyi | Yi Lingtao | Lose | W+R | 7.5 | 3187 | -21 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ  | Gu Lingyi | Shibano Toramaru | Win | B+R | 7.5 | 3208 | 69 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Rong Yi | Gu Lingyi | Win | W+1¼ | 7.5 | 3139 | 61 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Chen Xian | Lose | W+R | 7.5 | 3078 | -6 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ  | Gu Lingyi | Shibano Toramaru | Win | B+R | 7.5 | 3208 | 70 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Rong Yi | Gu Lingyi | Win | W+1¼ | 7.5 | 3138 | 61 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Chen Xian | Lose | W+R | 7.5 | 3077 | -7 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Lingyi | Win | W+R | 7.5 | 3084 | 197 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Zhou Ruiyang | Lose | W+R | 7.5 | 2887 | 3 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Gu Lingyi | Lose | B+R | 7.5 | 2884 | 6 | 

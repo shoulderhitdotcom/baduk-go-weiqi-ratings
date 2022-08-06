@@ -20,9 +20,9 @@
 | 2021-08-30 | 第12期中国竜星戦予選 | Wang Shuo | Shen Peiran | Win | B+R | 7.5 | 2937 | 71 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Wang Shuo | Win | W+1¼ | 7.5 | 2866 | 46 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Zhou Hongyu | Wang Shuo | Lose | B+R | 7.5 | 2820 | -75 | 
-| 2021-04-12 | 2021博思軟件杯中国囲碁新秀争覇戦予選 | Wang Shuo | Wu Yiming | Win | B+2¾ | 7.5 | 2895 | 167 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Shuo | Win | W+R | 7.5 | 2728 | 259 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Lin Shixun | Wang Shuo | Lose | B+R | 7.5 | 2469 | -491 | 
+| 2021-04-12 | 2021博思軟件杯中国囲碁新秀争覇戦予選 | Wang Shuo | Wu Yiming | Win | B+2¾ | 7.5 | 2895 | 168 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Chen Qirui | Wang Shuo | Win | W+R | 7.5 | 2727 | 259 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Lin Shixun | Wang Shuo | Lose | B+R | 7.5 | 2468 | -492 | 
 | 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Wang Shuo | Chen Haoxin | Lose | W+R | 7.5 | 2960 | -16 | 
 | 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 | Fang Ruoxi | Wang Shuo | Win | W+R | 7.5 | 2976 | 49 | 
 | 2020-05-11 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Zhao Yifei | Wang Shuo | Win | W+R | 7.5 | 2927 | missing |

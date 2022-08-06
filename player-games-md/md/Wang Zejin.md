@@ -33,11 +33,11 @@
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Wang Zejin | Lose | B+¾ | 7.5 | 3353 | -33 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Zejin | Chen Xian | Win | B+R | 7.5 | 3386 | 43 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xie Ke | Lose | W+R | 7.5 | 3343 | 19 | 
-| 2021-01-25 | 第35期中国囲碁天元戦1回戦 | Wang Zejin | Tang Weixing | Lose | W+R | 7.5 | 3324 | 6 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Win | B+R | 7.5 | 3318 | 31 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Lose | W+R | 7.5 | 3287 | -43 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Wang Zejin | Win | W+¼ | 7.5 | 3330 | 61 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Zejin | Kang Dongyun | Lose | W+R | 7.5 | 3269 | -60 | 
+| 2021-01-25 | 第35期中国囲碁天元戦1回戦 | Wang Zejin | Tang Weixing | Lose | W+R | 7.5 | 3324 | 7 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Win | B+R | 7.5 | 3317 | 31 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Lose | W+R | 7.5 | 3286 | -43 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Wang Zejin | Win | W+¼ | 7.5 | 3329 | 61 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Zejin | Kang Dongyun | Lose | W+R | 7.5 | 3268 | -61 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Wang Zejin | Yi Lingtao | Win | B+R | 7.5 | 3329 | 95 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Wang Zejin | Wang Xinghao | Win | B+¾ | 7.5 | 3234 | 100 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Ke | Wang Zejin | Lose | B+R | 7.5 | 3134 | -3 | 

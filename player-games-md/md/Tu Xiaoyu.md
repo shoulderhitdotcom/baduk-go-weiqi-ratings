@@ -67,13 +67,13 @@
 | 2021-04-13 | 2021博思軟件杯中国囲碁新秀争覇戦1回戦 |  | Tu Xiaoyu | Win | W+R | 7.5 | 3414 | 6 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Tu Xiaoyu | Win | W+¼ | 7.5 | 3408 | 14 | 
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tu Xiaoyu | Yang Dingxin | Lose | W+R | 7.5 | 3394 | -18 | 
-| 2021-03-08 | 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | Lose | B+R | 7.5 | 3412 | 51 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Liao Xingwen | Win | B+R | 7.5 | 3361 | -21 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | Lose | B+R | 7.5 | 3382 | -29 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Rong Yi | Tu Xiaoyu | Win | W+R | 7.5 | 3411 | 20 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Lose | B+R | 7.5 | 3391 | -22 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Lian Xiao | Tu Xiaoyu | Win | W+R | 7.5 | 3413 | 25 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Byun Sangil | Tu Xiaoyu | Win | W+R | 7.5 | 3388 | 14 | 
+| 2021-03-08 | 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | Lose | B+R | 7.5 | 3412 | 52 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Liao Xingwen | Win | B+R | 7.5 | 3360 | -21 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | Lose | B+R | 7.5 | 3381 | -29 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Rong Yi | Tu Xiaoyu | Win | W+R | 7.5 | 3410 | 20 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Lose | B+R | 7.5 | 3390 | -22 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Lian Xiao | Tu Xiaoyu | Win | W+R | 7.5 | 3412 | 25 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Byun Sangil | Tu Xiaoyu | Win | W+R | 7.5 | 3387 | 13 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Wu Guangya | Tu Xiaoyu | Win | W+¼ | 7.5 | 3374 | 41 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Jingyuan | Win | B+2¾ | 7.5 | 3333 | 25 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Tu Xiaoyu | Lose | B+R | 7.5 | 3308 | -46 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Xie Erhao** | **Shin Minjun Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Xie Erhao | Shin Minjun | W+R | 7.5 | 3:4 | 1 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | W+R | 7.5 | 2:4 | 0 | 2 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shin Minjun | Xie Erhao | W+R | 7.5 | 2:3 | 0 | 1 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節天津-深圳 | Shin Minjun | Xie Erhao | B+R | 7.5 | 2:2 | 1 | 0 | 

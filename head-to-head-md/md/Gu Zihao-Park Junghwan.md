@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Park Junghwan** | **Gu Zihao Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Gu Zihao | Park Junghwan | W+R | 7.5 | 2:8 | 0 | 3 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Park Junghwan | Gu Zihao | B+R | 7.5 | 2:7 | 0 | 2 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Park Junghwan | Gu Zihao | B+R | 7.5 | 2:6 | 0 | 1 | 
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Park Junghwan | Gu Zihao | W+R | 7.5 | 2:5 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Shin Minjun** | **Dang Yifei streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Shin Minjun** | **Dang Yifei Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | W+R | 7.5 | 3:0 | 3 | 0 | 

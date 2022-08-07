@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Shin Minjun** | **Ke Jie Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ke Jie | Shin Minjun | W+R | 7.5 | 6:5 | 0 | 1 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Shin Minjun | B+R | 6.5 | 6:4 | 1 | 0 | 
 | 2021-02-04 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Ke Jie | Shin Minjun | W+3.5 | 6.5 | 5:4 | 0 | 2 | 
 | 2021-02-03 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ke Jie | Shin Minjun | W+R | 6.5 | 5:3 | 0 | 1 | 

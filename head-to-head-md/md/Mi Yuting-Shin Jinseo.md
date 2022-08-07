@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Shin Jinseo** | **Mi Yuting Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Mi Yuting | W+R | 7.5 | 4:7 | 1 | 0 | 
 | 2022-02-23 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦（再対局）  | Mi Yuting | Shin Jinseo | W+R | 6.5 | 3:7 | 0 | 3 | 
 | 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Void | 6.5 | 3:6 | 0 | 2 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Jinseo | W+R | 7.5 | 3:5 | 0 | 1 | 

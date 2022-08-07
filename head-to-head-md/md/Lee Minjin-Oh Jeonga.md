@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Minjin Vs Oh Jeonga** | **Lee Minjin Streak** | **Oh Jeonga Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-06 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Minjin | B+5.5 | 6.5 | 3:5 | 0 | 3 | 
 | 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | W+R | 7.5 | 3:4 | 0 | 2 | 
 | 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第3局 | Oh Jeonga | Lee Minjin | B+3.5 | 6.5 | 3:3 | 0 | 1 | 
 | 2019-07-16 | 第5回韓国女子囲碁リーグ第9節第2試合第3局 | Lee Minjin | Oh Jeonga | B+R | 6.5 | 3:2 | 1 | 0 | 

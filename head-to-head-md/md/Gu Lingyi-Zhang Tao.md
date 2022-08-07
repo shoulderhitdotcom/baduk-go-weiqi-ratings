@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Lingyi Vs Zhang Tao** | **Gu Lingyi Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Gu Lingyi | Zhang Tao | W+R | 7.5 | 3:5 | 0 | 3 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Gu Lingyi | Zhang Tao | W+R | 7.5 | 3:4 | 0 | 2 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節浙江-成都 | Zhang Tao | Gu Lingyi | B+¾ | 7.5 | 3:3 | 0 | 1 | 
 | 2017-02-22 | 第14期中国倡棋杯復戦2回戦 | Zhang Tao | Gu Lingyi | W+R | 7.5 | 3:2 | 1 | 0 | 

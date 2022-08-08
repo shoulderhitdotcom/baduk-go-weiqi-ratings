@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-07 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin | Kim Beomseo | Win | B+R | 6.5 | 2953 | 125 | 
 | 2022-08-06 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+3.5 | 6.5 | 2828 | -8 | 
 | 2022-07-28 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Lee Yeon | Gueon Hyojin | Lose | B+2.5 | 6.5 | 2836 | -18 | 
 | 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2854 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dayoung Vs Oh Jeonga** | **Kim Dayoung Streak** | **Oh Jeonga Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-09 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Kim Dayoung | B+R | 7.5 | 4:5 | 0 | 4 | 
 | 2022-04-07 | 第5回呉清源杯韓国予選 | Kim Dayoung | Oh Jeonga | W+R | 7.5 | 4:4 | 0 | 3 | 
 | 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第1局 | Oh Jeonga | Kim Dayoung | B+R | 6.5 | 4:3 | 0 | 2 | 
 | 2018-08-20 | 第9回穹窿山兵聖杯韓国選抜戦1回戦 | Oh Jeonga | Kim Dayoung | B+R | 6.5 | 4:2 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cao Youyin vs Yu Zhiying** | **Cao Youyin streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Youyin Vs Yu Zhiying** | **Cao Youyin Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-22 | 第6回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Yu Zhiying | W+R | 7.5 | 2:8 | 0 | 8 | 
 | 2017-11-18 | 第5回中国女子囲碁甲級リーグ戦16回戦 | Cao Youyin | Yu Zhiying | W+R | 7.5 | 2:7 | 0 | 7 | 

@@ -13,7 +13,8 @@
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Ding Hao | Win | W+R | 7.5 | 3557 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3557 | 4 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Lose | B+R | 7.5 | 3553 | -24 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+R | 7.5 | 3577 | -11 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+R | 7.5 | 3577 | 15 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3562 | -26 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Ding Hao | Ke Jie | Lose | W+R | 6.5 | 3588 | -30 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Ding Hao | Win | W+R | 6.5 | 3618 | 3 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3615 | 4 | 

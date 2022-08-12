@@ -13,7 +13,8 @@
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yunong | Lose | W+¼ | 7.5 | 3555 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | Lose | W+R | 7.5 | 3555 | 4 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | Lose | W+R | 7.5 | 3551 | -19 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Mi Yuting | Win | W+R | 7.5 | 3570 | -11 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Mi Yuting | Win | W+R | 7.5 | 3570 | 9 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | Win | B+R | 7.5 | 3561 | -20 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Mi Yuting | Gu Zihao | Lose | W+R | 6.5 | 3581 | -8 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Tang Weixing | Mi Yuting | Lose | B+¾ | 7.5 | 3589 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Tu Xiaoyu | Mi Yuting | Win | W+R | 7.5 | 3589 | -13 | 

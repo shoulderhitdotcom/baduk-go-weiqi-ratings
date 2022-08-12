@@ -13,7 +13,8 @@
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Ke Jie | Wang Zejin | Win | B+R | 7.5 | 3642 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Ke Jie | Win | W+R | 7.5 | 3642 | 3 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Han Yizhou | Ke Jie | Win | W+R | 7.5 | 3639 | -9 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ke Jie | Shin Minjun | Lose | W+R | 7.5 | 3648 | 1 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ke Jie | Shin Minjun | Lose | W+R | 7.5 | 3648 | 9 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Dang Yifei | Ke Jie | Lose | B+R | 7.5 | 3639 | -8 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Ding Hao | Ke Jie | Win | W+R | 6.5 | 3647 | 1 | 
 | 2022-06-19 | 第21回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3646 | 0 | 
 | 2022-06-19 | 第21回西南棋王戦決勝 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3646 | 6 | 

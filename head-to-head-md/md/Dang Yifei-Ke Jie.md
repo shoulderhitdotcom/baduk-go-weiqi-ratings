@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Ke Jie** | **Dang Yifei Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Dang Yifei | Ke Jie | B+R | 7.5 | 2:6 | 1 | 0 | 
 | 2021-12-05 | 2021CCTV杯中国囲棋電視快棋戦決勝 | Dang Yifei | Ke Jie | W+R | 7.5 | 1:6 | 0 | 3 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Dang Yifei | Ke Jie | W+2¼ | 7.5 | 1:5 | 0 | 2 | 
 | 2019-06-25 | 第12回春蘭杯世界囲碁選手権三位決定戦 | Ke Jie | Dang Yifei | B+R | 7.5 | 1:4 | 0 | 1 | 

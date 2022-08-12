@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Seto Taiki** | **Fujisawa Rina streak** | **Seto Taiki streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Seto Taiki** | **Fujisawa Rina Streak** | **Seto Taiki Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-11-23 | 第43期碁聖戦本戦1回戦 | Seto Taiki | Fujisawa Rina | B+R | 6.5 | 0:1 | 0 | 1 |
 

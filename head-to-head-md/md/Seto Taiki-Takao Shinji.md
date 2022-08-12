@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seto Taiki vs Takao Shinji** | **Seto Taiki streak** | **Takao Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seto Taiki Vs Takao Shinji** | **Seto Taiki Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-24 | 第58期十段戦2回戦 | Takao Shinji | Seto Taiki | B+R | 6.5 | 3:4 | 0 | 1 | 
 | 2016-02-18 | 第41期碁聖戦本戦2回戦 | Seto Taiki | Takao Shinji | B+R | 6.5 | 3:3 | 1 | 0 | 

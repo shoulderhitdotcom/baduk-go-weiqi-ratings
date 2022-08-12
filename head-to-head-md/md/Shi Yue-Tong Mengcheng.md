@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tong Mengcheng** | **Shi Yue Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Shi Yue | W+R | 7.5 | 3:4 | 1 | 0 | 
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Tong Mengcheng | Shi Yue | B+R | 7.5 | 2:4 | 0 | 3 | 
 | 2019-05-08 | 嫘祖杯第32期中国囲棋名人戦32強戦 | Tong Mengcheng | Shi Yue | B+R | 7.5 | 2:3 | 0 | 2 | 
 | 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦A3 | Shi Yue | Tong Mengcheng | W+R | 6.5 | 2:2 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Jiang Qirun** | **Han Yizhou Streak** | **Jiang Qirun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Han Yizhou | B+R | 7.5 | 4:2 | 0 | 1 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Jiang Qirun | Han Yizhou | W+R | 7.5 | 4:1 | 4 | 0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Han Yizhou | Jiang Qirun | B+R | 7.5 | 3:1 | 3 | 0 | 
 | 2018-09-16 | 2018年全国囲棋個人戦男子組第3戦 | Han Yizhou | Jiang Qirun | B+R | 7.5 | 2:1 | 2 | 0 | 

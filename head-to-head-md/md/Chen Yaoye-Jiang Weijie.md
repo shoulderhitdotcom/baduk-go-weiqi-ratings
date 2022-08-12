@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Jiang Weijie** | **Chen Yaoye Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Chen Yaoye | B+R | 7.5 | 11:8 | 0 | 3 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Jiang Weijie | Chen Yaoye | B+¾ | 7.5 | 11:7 | 0 | 2 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Jiang Weijie | Chen Yaoye | B+¾ | 7.5 | 11:6 | 0 | 1 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Yaoye | Jiang Weijie | B+R | 7.5 | 11:5 | 1 | 0 | 

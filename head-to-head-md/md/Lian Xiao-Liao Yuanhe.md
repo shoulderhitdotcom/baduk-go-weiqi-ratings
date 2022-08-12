@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Liao Yuanhe** | **Lian Xiao Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Lian Xiao | Liao Yuanhe | W+R | 7.5 | 5:1 | 0 | 1 | 
 | 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | W+R | 7.5 | 5:0 | 5 | 0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Lian Xiao | W+R | 7.5 | 4:0 | 4 | 0 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Lian Xiao | Liao Yuanhe | B+R | 7.5 | 3:0 | 3 | 0 | 

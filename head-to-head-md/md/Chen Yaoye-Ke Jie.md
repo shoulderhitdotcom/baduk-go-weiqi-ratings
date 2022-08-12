@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Ke Jie** | **Chen Yaoye Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Ke Jie | B+R | 7.5 | 10:17 | 2 | 0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | W+R | 7.5 | 9:17 | 1 | 0 | 
 | 2019-10-28 | 第24回LG杯朝鮮日報棋王戦3回戦 | Chen Yaoye | Ke Jie | W+5.5 | 6.5 | 8:17 | 0 | 6 | 
 | 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Chen Yaoye | Ke Jie | W+R | 7.5 | 8:16 | 0 | 5 | 

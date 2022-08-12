@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Lian Xiao** | **Jiang Weijie Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Jiang Weijie | B+R | 7.5 | 3:10 | 0 | 5 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Jiang Weijie | Lian Xiao | W+R | 6.5 | 3:9 | 0 | 4 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Jiang Weijie | Lian Xiao | W+R | 7.5 | 3:8 | 0 | 3 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Jiang Weijie | Lian Xiao | W+R | 7.5 | 3:7 | 0 | 2 | 

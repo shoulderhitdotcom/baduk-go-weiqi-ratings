@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tang Weixing** | **Peng Liyao Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tang Weixing | Peng Liyao | W+R | 7.5 | 7:5 | 3 | 0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tang Weixing | Peng Liyao | W+R | 7.5 | 6:5 | 2 | 0 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | B+R | 7.5 | 5:5 | 1 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Tang Weixing | Peng Liyao | B+R | 7.5 | 4:5 | 0 | 3 | 

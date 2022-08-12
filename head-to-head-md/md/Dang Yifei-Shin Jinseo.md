@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Shin Jinseo** | **Dang Yifei Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Dang Yifei | Shin Jinseo | W+R | 7.5 | 5:7 | 0 | 2 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shin Jinseo | W+1¼ | 7.5 | 5:6 | 0 | 1 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Shin Jinseo | Dang Yifei | W+R | 7.5 | 5:5 | 1 | 0 | 
 | 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Shin Jinseo | Dang Yifei | B+R | 7.5 | 4:5 | 0 | 2 | 

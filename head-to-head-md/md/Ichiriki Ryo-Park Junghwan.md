@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Park Junghwan** | **Ichiriki Ryo Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Park Junghwan | Ichiriki Ryo | B+R | 6.5 | 0:5 | 0 | 5 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Park Junghwan | Ichiriki Ryo | B+R | 7.5 | 0:3 | 0 | 3 | 
 | 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Park Junghwan | Ichiriki Ryo | B+R | 6.5 | 0:2 | 0 | 2 | 

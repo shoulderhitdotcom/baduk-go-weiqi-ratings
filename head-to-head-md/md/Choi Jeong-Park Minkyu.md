@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Park Minkyu** | **Choi Jeong streak** | **Park Minkyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Park Minkyu** | **Choi Jeong Streak** | **Park Minkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-05-07 | 第37回KBS杯囲碁王戦32強戦 | Choi Jeong | Park Minkyu | W+R | 6.5 | 0:1 | 0 | 1 |
 

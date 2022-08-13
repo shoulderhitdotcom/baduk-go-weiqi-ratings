@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Shin Jinseo** | **Kim Jiseok Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Jinseo | Kim Jiseok | B+R | 6.5 | 5:14 | 0 | 2 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | B+R | 6.5 | 5:13 | 0 | 1 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第3局 | Shin Jinseo | Kim Jiseok | W+R | 6.5 | 5:12 | 1 | 0 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | W+R | 6.5 | 4:12 | 0 | 9 | 

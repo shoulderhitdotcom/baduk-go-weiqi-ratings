@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dongyun vs Park Minkyu** | **Kang Dongyun streak** | **Park Minkyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Park Minkyu** | **Kang Dongyun Streak** | **Park Minkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-06-18 | 2015年韓国囲碁リーグ | Kang Dongyun | Park Minkyu | B+R | 6.5 | 1:0 | 1 | 0 |
 

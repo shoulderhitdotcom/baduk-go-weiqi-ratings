@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Yuanjun vs Zhao Chenyu** | **Wang Yuanjun streak** | **Zhao Chenyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Zhao Chenyu** | **Wang Yuanjun Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Wang Yuanjun | Zhao Chenyu | W+2.5 | 7.5 | 0:1 | 0 | 1 |
 

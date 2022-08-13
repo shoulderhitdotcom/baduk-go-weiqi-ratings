@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Park Minkyu** | **Kim Jiseok streak** | **Park Minkyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Park Minkyu** | **Kim Jiseok Streak** | **Park Minkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Kim Jiseok | Park Minkyu | B+R | 6.5 | 3:1 | 3 | 0 | 
 | 2018-08-12 | 2018年韓国囲碁リーグ第7節 | Park Minkyu | Kim Jiseok | W+R | 6.5 | 2:1 | 2 | 0 | 

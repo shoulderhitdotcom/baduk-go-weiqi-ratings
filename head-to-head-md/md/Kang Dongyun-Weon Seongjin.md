@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Weon Seongjin** | **Kang Dongyun Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Weon Seongjin | Kang Dongyun | B+R | 6.5 | 15:20 | 0 | 2 | 
 | 2022-06-10 | 第8回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Kang Dongyun | B+R | 6.5 | 15:19 | 0 | 1 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kang Dongyun | W+2.5 | 7.5 | 15:18 | 2 | 0 | 
 | 2022-04-04 | 2022YK建機杯リーグ | Kang Dongyun | Weon Seongjin | B+R | 6.5 | 14:18 | 1 | 0 | 

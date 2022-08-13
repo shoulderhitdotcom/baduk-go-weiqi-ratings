@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ  |  | Nyu Eiko | Win | W+R | 7.5 | 2756 | -13 | 
 | 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2769 | -108 | 
 | 2022-08-10 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Nyu Eiko | Lose | B+R | 7.5 | 2877 | 0 | 
 | 2022-08-09 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Choi Jeong | Lose | W+R | 7.5 | 2877 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Ding Hao | Byun Sangil | Lose | W+R | 6.5 | 3586 | -26 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Ke Jie | Win | B+R | 7.5 | 3612 | 55 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Ding Hao | Lose | B+R | 7.5 | 3557 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Fan Tingyu | Win | B+R | 7.5 | 3557 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第6回中国女子囲碁甲級リーグ第17節浙江-上海 | Fan Weijing | Rui Naiwei | W+R | 2018-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ipRLRLE4qtHSwQhR4eW9JQ%3D%3D) | 
 | 第16回建橋杯女子囲碁オープン戦32強戦 | Fan Weijing | Rui Naiwei | W+R | 2018-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jvwTAnjXlKZLLMBZv5UgkA%3D%3D) | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Minjun | Byun Sangil | Lose | W+R | 6.5 | 3434 | 0 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Shin Minjun | Hsu Chiayuan | Win | B+R | 6.5 | 3434 | -2 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Xie Ke | Shin Minjun | Lose | B+R | 7.5 | 3436 | 22 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Shin Minjun | Li Zerui | Win | B+R | 7.5 | 3414 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Shin Minjun | Lose | B+R | 7.5 | 3414 | 0 | 

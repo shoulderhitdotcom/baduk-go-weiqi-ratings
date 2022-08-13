@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ  |  | Nakamura Sumire | Win | W+R | 7.5 | 2751 | -11 | 
 | 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Cao Youyin | Lose | W+R | 7.5 | 2762 | -12 | 
 | 2022-08-10 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Nyu Eiko | Win | B+R | 7.5 | 2774 | 0 | 
 | 2022-08-09 | 2021中国女子囲碁乙級リーグ  |  | Nakamura Sumire | Win | W+1¼ | 7.5 | 2774 | 0 | 

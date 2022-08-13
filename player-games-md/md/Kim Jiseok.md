@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3405 | 0 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Kim Jiseok | Iyama Yuta | Win | B+0.5 | 6.5 | 3405 | 1 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Li Xiangyu | Lose | W+¼ | 7.5 | 3404 | -4 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Kim Jiseok | Win | W+R | 7.5 | 3408 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Kim Jiseok | Lose | B+R | 7.5 | 3408 | 0 | 

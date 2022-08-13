@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ | Bai Xinhui | Fan Weijing | Lose | W+R | 7.5 | 2361 | -23 | 
 | 2022-08-12 | 2021中国女子囲碁乙級リーグ | Li Xiaoxi | Bai Xinhui | Lose | B+R | 7.5 | 2384 | -27 | 
 | 2022-08-10 | 2021中国女子囲碁乙級リーグ | Bai Xinhui |  | Win | B+R | 7.5 | 2411 | 0 | 
 | 2022-08-09 | 2021中国女子囲碁乙級リーグ | Wang Pan | Bai Xinhui | Win | W+R | 7.5 | 2411 | 0 | 

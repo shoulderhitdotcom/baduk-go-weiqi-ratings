@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Zhao Chenyu | Park Junghwan | Win | W+R | 6.5 | 3598 | 0 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Park Junghwan | Ichiriki Ryo | Win | B+R | 6.5 | 3598 | 2 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Li Xinchen | Park Junghwan | Win | W+R | 7.5 | 3596 | 17 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhang Tao | Park Junghwan | Win | W+2¼ | 7.5 | 3579 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Shen Peiran | Park Junghwan | Win | W+R | 7.5 | 3579 | 0 | 

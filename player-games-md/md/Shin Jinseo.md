@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Jinseo | Kim Jiseok | Win | B+R | 6.5 | 3756 | 0 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Mi Yuting | Shin Jinseo | Win | W+R | 6.5 | 3756 | 0 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Shin Jinseo | Win | W+R | 7.5 | 3756 | 0 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Dang Yifei | Shin Jinseo | Win | W+R | 7.5 | 3756 | 0 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Li Xiangyu | Win | B+R | 7.5 | 3756 | 0 | 

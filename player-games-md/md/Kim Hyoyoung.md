@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Kim Eunji | Win | B+R | 6.5 | 2897 | 30 | 
 | 2022-08-12 | 2022Dr.G女子最高棋士決定戦予選 | Kim Hyoyoung |  | Win | B+R | 6.5 | 2867 | 33 | 
 | 2022-08-07 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Hyoyoung | Win | W+R | 6.5 | 2834 | 37 | 
 | 2022-07-28 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Oh Jeonga | Win | B+R | 6.5 | 2797 | 29 | 

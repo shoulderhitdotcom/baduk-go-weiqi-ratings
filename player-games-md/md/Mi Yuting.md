@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3574 | -6 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Mi Yuting | Wang Shiyi | Win | B+R | 7.5 | 3580 | 25 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Mi Yuting | Lose | B+R | 7.5 | 3555 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Mi Yuting | Win | W+R | 7.5 | 3555 | 0 | 

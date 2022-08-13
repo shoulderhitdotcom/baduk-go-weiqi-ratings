@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Minjun | Byun Sangil | Win | W+R | 6.5 | 3556 | 0 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Ding Hao | Byun Sangil | Win | W+R | 6.5 | 3556 | 6 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Shi Yue | Byun Sangil | Win | W+R | 7.5 | 3550 | 13 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Byun Sangil | Zhou Ruiyang | Win | B+R | 7.5 | 3537 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | Lose | B+R | 7.5 | 3537 | 0 | 

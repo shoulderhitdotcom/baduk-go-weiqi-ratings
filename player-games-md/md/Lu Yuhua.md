@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ  | Choi Jeong | Lu Yuhua | Lose | B+R | 7.5 | 2653 | -23 | 
 | 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Lu Yuhua | Oh Jeonga | Lose | W+R | 7.5 | 2676 | -51 | 
 | 2022-08-10 | 2021中国女子囲碁乙級リーグ |  | Lu Yuhua | Lose | B+R | 7.5 | 2727 | 0 | 
 | 2022-08-09 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Cao Youyin | Lose | W+R | 7.5 | 2727 | 0 | 

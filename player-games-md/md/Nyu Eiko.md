@@ -7,66 +7,67 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-13 | 2021中国女子囲碁乙級リーグ  |  | Nyu Eiko | Win | W+R | 7.5 | 2756 | -13 | 
-| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2769 | -108 | 
-| 2022-08-10 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Nyu Eiko | Lose | B+R | 7.5 | 2877 | 0 | 
-| 2022-08-09 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Choi Jeong | Lose | W+R | 7.5 | 2877 | 0 | 
-| 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦  | Wu Yiming | Nyu Eiko | Lose | B+3¾ | 7.5 | 2877 | -48 | 
-| 2022-07-17 | 第7回扇興杯女流最強戦決勝  | Nakamura Sumire | Nyu Eiko | Win | W+2.5 | 6.5 | 2925 | 18 | 
-| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2907 | 61 | 
-| 2022-07-11 | 第41期女流本因坊戦3回戦 | Nyu Eiko | Kato Chie | Lose | W+R | 6.5 | 2846 | -34 | 
-| 2022-06-23 | 第7回扇興杯女流最強戦2回戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2880 | 49 | 
-| 2022-06-13 | 第41期女流本因坊戦2回戦  | Nyu Eiko | Koyama Mitsuru | Win | B+R | 6.5 | 2831 | 2 | 
-| 2022-06-09 | 第7回扇興杯女流最強戦1回戦 | Sakakibara Fumiko | Nyu Eiko | Win | W+R | 6.5 | 2829 | 54 | 
-| 2022-05-16 | 第41期女流本因坊戦1回戦 | Tsukuda Akiko | Nyu Eiko | Win | W+R | 6.5 | 2775 | -2 | 
-| 2022-05-12 | 第47期新人王戦2回戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2777 | 29 | 
-| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Lose | B+R | 6.5 | 2748 | -22 | 
-| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Win | B+R | 6.5 | 2770 | 11 | 
-| 2022-04-14 | 第47期新人王戦1回戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2759 | 3 | 
-| 2022-03-24 | 第41期女流本因坊戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2756 | 0 | 
-| 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | Lose | W+R | 6.5 | 2756 | -28 | 
-| 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2784 | -15 | 
-| 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2799 | 82 | 
-| 2022-02-17 | 第33期女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2717 | 26 | 
-| 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | Win | W+1.5 | 6.5 | 2691 | -8 | 
-| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Lose | B+R | 6.5 | 2699 | 71 | 
-| 2021-11-15 | 第47期碁聖戦予選 | Nyu Eiko | Kobayashi Satoru | Win | B+R | 6.5 | 2628 | -3 | 
-| 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | Lose | B+2.5 | 6.5 | 2631 | -12 | 
-| 2021-08-12 | 第70期王座戦予選 | Nyu Eiko | Ishida Yoshio | Win | B+R | 6.5 | 2643 | 173 | 
-| 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2470 | -4 | 
-| 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Win | B+6.5 | 6.5 | 2474 | 132 | 
-| 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Lose | W+1.5 | 6.5 | 2342 | 9 | 
-| 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Win | W+2.5 | 6.5 | 2333 | 51 | 
-| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Lose | B+2.5 | 6.5 | 2282 | -26 | 
-| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | Lose | B+0.5 | 6.5 | 2308 | 18 | 
-| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2290 | 22 | 
-| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | Lose | W+R | 6.5 | 2268 | -13 | 
-| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2281 | 16 | 
-| 2021-02-08 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Kato Chie | Win | B+7.5 | 6.5 | 2265 | 13 | 
-| 2021-02-01 | 第46期新人王戦1回戦 |  | Nyu Eiko | Win | W+1.5 | 6.5 | 2252 | 12 | 
-| 2021-01-21 | 第32期博多・カマチ杯女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Win | W+3.5 | 6.5 | 2240 | -232 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2472 | -29 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2501 | 38 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2463 | -34 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Eunji | Nyu Eiko | Lose | B+R | 7.5 | 2497 | -21 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2518 | -24 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Nyu Eiko | Park Jiyeon | Win | B+R | 7.5 | 2542 | 69 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2473 | -131 | 
-| 2020-10-09 | 第1回博多・カマチ杯女流オープン戦三位決定戦  | Mukai Chiaki | Nyu Eiko | Lose | B+0.5 | 6.5 | 2604 | -13 | 
-| 2020-10-08 | 第1回博多・カマチ杯女流オープン戦準決勝  | Nyu Eiko | Fujisawa Rina | Lose | W+R | 6.5 | 2617 | -77 | 
-| 2020-06-25 | 第39期女流本因坊戦2回戦 | Tobita Saki | Nyu Eiko | Lose | B+R | 6.5 | 2694 | -5 | 
-| 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Nyu Eiko |  | Lose | W+0.5 | 6.5 | 2699 | -46 | 
-| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Lose | B+4.5 | 6.5 | 2745 | -47 | 
-| 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Win | W+R | 6.5 | 2792 | 20 | 
-| 2020-03-26 | 第47期天元戦予選 | Kin En | Nyu Eiko | Win | W+7.5 | 6.5 | 2772 | 4 | 
-| 2020-03-05 | 第39期女流本因坊戦1回戦 | Nishiyama Shizuka | Nyu Eiko | Win | W+4.5 | 6.5 | 2768 | -12 | 
-| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Lose | B+R | 6.5 | 2780 | -37 | 
-| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Nyu Eiko | Hei Jiajia | Win | B+0.5 | 6.5 | 2817 | 34 | 
-| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Nyu Eiko | Akane Tatsumi | Win | B+R | 6.5 | 2783 | -7 | 
-| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Lose | B+3.5 | 6.5 | 2790 | -14 | 
-| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko | Yang Zixuan | Win | B+R | 6.5 | 2804 | -43 | 
-| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko | Lin Yuting | Win | B+R | 6.5 | 2847 | 31 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Nyu Eiko | Niu Shite | Win | B+R | 6.5 | 2816 | missing |
+| 2022-08-14 | 2021中国女子囲碁乙級リーグ  |  | Nyu Eiko | Win | W+R | 7.5 | 2838 | 9 | 
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ  |  | Nyu Eiko | Win | W+R | 7.5 | 2829 | -13 | 
+| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2842 | -108 | 
+| 2022-08-10 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Nyu Eiko | Lose | B+R | 7.5 | 2950 | 0 | 
+| 2022-08-09 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Choi Jeong | Lose | W+R | 7.5 | 2950 | 0 | 
+| 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦  | Wu Yiming | Nyu Eiko | Lose | B+3¾ | 7.5 | 2950 | -48 | 
+| 2022-07-17 | 第7回扇興杯女流最強戦決勝  | Nakamura Sumire | Nyu Eiko | Win | W+2.5 | 6.5 | 2998 | 18 | 
+| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2980 | 61 | 
+| 2022-07-11 | 第41期女流本因坊戦3回戦 | Nyu Eiko | Kato Chie | Lose | W+R | 6.5 | 2919 | -34 | 
+| 2022-06-23 | 第7回扇興杯女流最強戦2回戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2953 | 49 | 
+| 2022-06-13 | 第41期女流本因坊戦2回戦  | Nyu Eiko | Koyama Mitsuru | Win | B+R | 6.5 | 2904 | 2 | 
+| 2022-06-09 | 第7回扇興杯女流最強戦1回戦 | Sakakibara Fumiko | Nyu Eiko | Win | W+R | 6.5 | 2902 | 54 | 
+| 2022-05-16 | 第41期女流本因坊戦1回戦 | Tsukuda Akiko | Nyu Eiko | Win | W+R | 6.5 | 2848 | -2 | 
+| 2022-05-12 | 第47期新人王戦2回戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2850 | 30 | 
+| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Lose | B+R | 6.5 | 2820 | -22 | 
+| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Win | B+R | 6.5 | 2842 | 11 | 
+| 2022-04-14 | 第47期新人王戦1回戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2831 | 3 | 
+| 2022-03-24 | 第41期女流本因坊戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2828 | 0 | 
+| 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | Lose | W+R | 6.5 | 2828 | -28 | 
+| 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2856 | -15 | 
+| 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2871 | 82 | 
+| 2022-02-17 | 第33期女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2789 | 26 | 
+| 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | Win | W+1.5 | 6.5 | 2763 | -8 | 
+| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Lose | B+R | 6.5 | 2771 | 72 | 
+| 2021-11-15 | 第47期碁聖戦予選 | Nyu Eiko | Kobayashi Satoru | Win | B+R | 6.5 | 2699 | -3 | 
+| 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | Lose | B+2.5 | 6.5 | 2702 | -11 | 
+| 2021-08-12 | 第70期王座戦予選 | Nyu Eiko | Ishida Yoshio | Win | B+R | 6.5 | 2713 | 172 | 
+| 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2541 | -4 | 
+| 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Win | B+6.5 | 6.5 | 2545 | 133 | 
+| 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Lose | W+1.5 | 6.5 | 2412 | 9 | 
+| 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Win | W+2.5 | 6.5 | 2403 | 51 | 
+| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Lose | B+2.5 | 6.5 | 2352 | -26 | 
+| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | Lose | B+0.5 | 6.5 | 2378 | 18 | 
+| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2360 | 22 | 
+| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | Lose | W+R | 6.5 | 2338 | -13 | 
+| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2351 | 16 | 
+| 2021-02-08 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Kato Chie | Win | B+7.5 | 6.5 | 2335 | 13 | 
+| 2021-02-01 | 第46期新人王戦1回戦 |  | Nyu Eiko | Win | W+1.5 | 6.5 | 2322 | 12 | 
+| 2021-01-21 | 第32期博多・カマチ杯女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Win | W+3.5 | 6.5 | 2310 | -231 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2541 | -29 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2570 | 38 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2532 | -34 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Eunji | Nyu Eiko | Lose | B+R | 7.5 | 2566 | -21 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2587 | -24 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Nyu Eiko | Park Jiyeon | Win | B+R | 7.5 | 2611 | 69 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2542 | -132 | 
+| 2020-10-09 | 第1回博多・カマチ杯女流オープン戦三位決定戦  | Mukai Chiaki | Nyu Eiko | Lose | B+0.5 | 6.5 | 2674 | -13 | 
+| 2020-10-08 | 第1回博多・カマチ杯女流オープン戦準決勝  | Nyu Eiko | Fujisawa Rina | Lose | W+R | 6.5 | 2687 | -76 | 
+| 2020-06-25 | 第39期女流本因坊戦2回戦 | Tobita Saki | Nyu Eiko | Lose | B+R | 6.5 | 2763 | -5 | 
+| 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Nyu Eiko |  | Lose | W+0.5 | 6.5 | 2768 | -46 | 
+| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Lose | B+4.5 | 6.5 | 2814 | -47 | 
+| 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Win | W+R | 6.5 | 2861 | 21 | 
+| 2020-03-26 | 第47期天元戦予選 | Kin En | Nyu Eiko | Win | W+7.5 | 6.5 | 2840 | 3 | 
+| 2020-03-05 | 第39期女流本因坊戦1回戦 | Nishiyama Shizuka | Nyu Eiko | Win | W+4.5 | 6.5 | 2837 | -12 | 
+| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Lose | B+R | 6.5 | 2849 | -36 | 
+| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Nyu Eiko | Hei Jiajia | Win | B+0.5 | 6.5 | 2885 | 34 | 
+| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Nyu Eiko | Akane Tatsumi | Win | B+R | 6.5 | 2851 | -8 | 
+| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Lose | B+3.5 | 6.5 | 2859 | -14 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko | Yang Zixuan | Win | B+R | 6.5 | 2873 | -43 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko | Lin Yuting | Win | B+R | 6.5 | 2916 | 31 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Nyu Eiko | Niu Shite | Win | B+R | 6.5 | 2885 | missing |
 
 
 

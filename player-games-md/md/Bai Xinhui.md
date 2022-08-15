@@ -43,32 +43,32 @@
 | 2021-04-07 | 第26回LG杯台湾予選 | Cai Chengwei | Bai Xinhui | Win | W+R | 6.5 | 2511 | 43 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Bai Xinhui | Jian Jingting | Win | B+R | 6.5 | 2468 | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Shuyang | Bai Xinhui | Win | W+R | 6.5 | 2468 | 90 | 
-| 2021-03-29 | 第11期友士杯十段戦予選 |  | Bai Xinhui | Win | W+R | 6.5 | 2378 | -26 | 
-| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Lose | B+R | 6.5 | 2404 | -41 | 
-| 2021-03-19 | 第17期国手戦（台湾） |  | Bai Xinhui | Win | W+5.5 | 6.5 | 2445 | -5 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 |  | Bai Xinhui | Win | W+R | 6.5 | 2378 | -27 | 
+| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Lose | B+R | 6.5 | 2405 | -41 | 
+| 2021-03-19 | 第17期国手戦（台湾） |  | Bai Xinhui | Win | W+5.5 | 6.5 | 2446 | -4 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Bai Xinhui | Lu Yiquan | Lose | W+R | 6.5 | 2450 | 161 | 
 | 2021-01-08 | 第20期天元戦（台湾）予選 | Bai Xinhui | Zhang Zhehao | Lose | W+3.5 | 6.5 | 2289 | -6 | 
-| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Yanchen | Lose | W+R | 6.5 | 2295 | 67 | 
-| 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 | Bai Xinhui |  | Win | B+R | 6.5 | 2228 | -14 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Huang Ziping | Bai Xinhui | Win | W+R | 7.5 | 2242 | -26 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Bai Xinhui | Lose | B+R | 7.5 | 2268 | -55 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Yuan Tingyu | Bai Xinhui | Win | W+3¼ | 7.5 | 2323 | -12 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2335 | -12 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2347 | -33 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2380 | 22 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Bai Xinhui | Win | W+R | 7.5 | 2358 | -15 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Yanchen | Lose | W+R | 6.5 | 2295 | 66 | 
+| 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 | Bai Xinhui |  | Win | B+R | 6.5 | 2229 | -14 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Huang Ziping | Bai Xinhui | Win | W+R | 7.5 | 2243 | -26 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Bai Xinhui | Lose | B+R | 7.5 | 2269 | -55 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Yuan Tingyu | Bai Xinhui | Win | W+3¼ | 7.5 | 2324 | -12 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2336 | -12 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2348 | -33 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Bai Xinhui |  | Lose | W+R | 7.5 | 2381 | 22 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Bai Xinhui | Win | W+R | 7.5 | 2359 | -14 | 
 | 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Bai Xinhui | Zhang Zhehao | Lose | W+R | 6.5 | 2373 | -59 | 
 | 2020-09-24 | 第13期棋王戦（台湾）予選 | Bai Xinhui | Chen Weiting | Lose | W+R | 6.5 | 2432 | -18 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Bai Xinhui | Chen Qirui | Lose | W+R | 6.5 | 2450 | 49 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Liu Chuanting | Bai Xinhui | Win | W+R | 6.5 | 2401 | 19 | 
 | 2020-09-10 | 第8期中環碁聖戦2回戦 | Bai Xinhui | Xu Yuqi | Lose | W+R | 6.5 | 2382 | -1 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Bai Xinhui | Xiao Zhenghao | Lose | W+R | 6.5 | 2383 | 3 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Bai Xinhui |  | Win | B+R | 6.5 | 2380 | 51 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Bai Xinhui | Yang Zixuan | Lose | W+R | 6.5 | 2329 | -16 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Bai Xinhui |  | Win | B+R | 6.5 | 2380 | 50 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Bai Xinhui | Yang Zixuan | Lose | W+R | 6.5 | 2330 | -15 | 
 | 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Bai Xinhui | Lin Yuting | Win | B+1.5 | 6.5 | 2345 | -7 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Bai Xinhui | Lose | B+R | 7.5 | 2352 | 0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Yu Lijun | Bai Xinhui | Win | W+R | 6.5 | 2352 | 20 | 
-| 2020-03-01 | 第7回グロービス杯台湾予選 |  | Bai Xinhui | Lose | B+R | 6.5 | 2332 | -55 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Bai Xinhui | Lose | B+R | 7.5 | 2352 | -1 | 
+| 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Yu Lijun | Bai Xinhui | Win | W+R | 6.5 | 2353 | 20 | 
+| 2020-03-01 | 第7回グロービス杯台湾予選 |  | Bai Xinhui | Lose | B+R | 6.5 | 2333 | -54 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Bai Xinhui | Huang Xiangren | Lose | W+R | 6.5 | 2387 | 3 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Jian Jingting | Bai Xinhui | Lose | B+R | 6.5 | 2384 | 0 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Bai Xinhui | Lu Yiquan | Win | B+R | 6.5 | 2384 | -1 | 

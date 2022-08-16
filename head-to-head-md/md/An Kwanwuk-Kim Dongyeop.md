@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Kwanwuk vs Kim Dongyeop** | **An Kwanwuk streak** | **Kim Dongyeop streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Kim Dongyeop** | **An Kwanwuk Streak** | **Kim Dongyeop Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | An Kwanwuk | B+R | 6.5 | 2:4 | 0 | 1 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第2局 | Kim Dongyeop | An Kwanwuk | W+7.5 | 6.5 | 2:3 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Daehyeon vs Yoo Changhyuk** | **Cho Daehyeon streak** | **Yoo Changhyuk streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Daehyeon Vs Yoo Changhyuk** | **Cho Daehyeon Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2002-12-13 | 第37期覇王戦本戦第11局 | Yoo Changhyuk | Cho Daehyeon | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2001-12-12 | 第36期覇王戦本戦第10局 | Yoo Changhyuk | Cho Daehyeon | B+R | 6.5 | 0:2 | 0 | 2 | 

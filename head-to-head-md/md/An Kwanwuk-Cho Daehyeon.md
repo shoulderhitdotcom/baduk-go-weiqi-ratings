@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Kwanwuk vs Cho Daehyeon** | **An Kwanwuk streak** | **Cho Daehyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Cho Daehyeon** | **An Kwanwuk Streak** | **Cho Daehyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-07-14 | 2020NHシニア囲碁リーグ第1節第2試合第2局 | An Kwanwuk | Cho Daehyeon | B+R | 6.5 | 3:2 | 3 | 0 | 
 | 2019-10-24 | 2019NHシニア囲碁リーグ第4節第4試合第1局 | An Kwanwuk | Cho Daehyeon | B+7.5 | 6.5 | 2:2 | 2 | 0 | 

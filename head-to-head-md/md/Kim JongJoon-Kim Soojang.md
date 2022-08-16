@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim JongJoon vs Kim Soojang** | **Kim JongJoon streak** | **Kim Soojang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim JongJoon Vs Kim Soojang** | **Kim JongJoon Streak** | **Kim Soojang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-12 | 2019NHシニア囲碁リーグ第8節第2試合第2局 | Kim JongJoon | Kim Soojang | W+6.5 | 6.5 | 0:4 | 0 | 4 | 
 | 2019-10-09 | 2019NHシニア囲碁リーグ第1節第3試合第1局 | Kim JongJoon | Kim Soojang | W+17.5 | 6.5 | 0:3 | 0 | 3 | 

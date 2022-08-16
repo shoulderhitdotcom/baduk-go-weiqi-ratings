@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Soojang vs Park Seungmun** | **Kim Soojang streak** | **Park Seungmun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Soojang Vs Park Seungmun** | **Kim Soojang Streak** | **Park Seungmun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第3局 | Kim Soojang | Park Seungmun | B+13.5 | 6.5 | 4:0 | 4 | 0 | 
 | 2019-10-31 | 2019NHシニア囲碁リーグ第5節第1試合第3局 | Park Seungmun | Kim Soojang | W+8.5 | 6.5 | 3:0 | 3 | 0 | 

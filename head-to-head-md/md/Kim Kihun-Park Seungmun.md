@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Kihun vs Park Seungmun** | **Kim Kihun streak** | **Park Seungmun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Kihun Vs Park Seungmun** | **Kim Kihun Streak** | **Park Seungmun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Park Seungmun | Kim Kihun | B+R | 6.5 | 3:3 | 0 | 1 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第2局 | Kim Kihun | Park Seungmun | B+R | 6.5 | 3:2 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第4回大舟杯プロシニア最強者戦1回戦 | Seo Nungwuk | Jeong Suhyeon | B+R | 2013-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90nrOJM74y2pazgxciGyQQ%3D%3D) | 
 | 第18回三星火災杯統合予選シニア枠決勝 | Komatsu Hideki | Jeong Suhyeon | B+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMQ6S9dWQSlzUQGjJDQGHg%3D%3D) | 

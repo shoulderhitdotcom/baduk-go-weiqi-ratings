@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-17 | 第3期利鵬杯新鋭最高位戦準決勝 | Heo Youngrak | Oh Byungwoo | Win | B+R | 6.5 | 3395 | 8 | 
 | 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 |  | Heo Youngrak | Win | W+R | 6.5 | 3387 | -1 | 
 | 2022-08-04 | 第3期利鵬杯新鋭最高位戦3回戦 | Heo Youngrak |  | Win | B+R | 6.5 | 3388 | -5 | 
 | 2022-04-27 | 第3期ソパルコサノル最高棋士決定戦リーグ | Heo Youngrak | Park Junghwan | Lose | W+R | 6.5 | 3393 | -6 | 

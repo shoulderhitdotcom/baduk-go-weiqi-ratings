@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-17 | 第3期利鵬杯新鋭最高位戦準決勝 | Han Woojin |  | Win | B+R | 6.5 | 3175 | 21 | 
 | 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 | Han Woojin |  | Win | B+R | 6.5 | 3154 | 12 | 
 | 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Lose | W+¼ | 7.5 | 3142 | 0 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Hyun Yoobin | Han Woojin | Win | W+R | 7.5 | 3142 | 0 | 

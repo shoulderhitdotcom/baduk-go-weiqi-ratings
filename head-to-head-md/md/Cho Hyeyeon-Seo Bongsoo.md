@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Seo Bongsoo** | **Cho Hyeyeon streak** | **Seo Bongsoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hyeyeon Vs Seo Bongsoo** | **Cho Hyeyeon Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | W+1.5 | 6.5 | 4:2 | 2 | 0 | 
 | 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | W+1.5 | 6.5 | 3:2 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-18 | 2022Dr.G女子最高棋士決定戦予選 |  | Jeong Yujin | Lose | B+R | 6.5 | 2860 | -21 | 
 | 2022-08-17 | 2022Dr.G女子最高棋士決定戦予選 | Jeong Yujin | Cho Hyeyeon | Win | B+R | 6.5 | 2881 | -22 | 
 | 2022-08-14 | 第8回韓国女子囲碁リーグ | Kim Miri | Jeong Yujin | Lose | B+R | 6.5 | 2903 | 29 | 
 | 2022-08-04 | 第8回韓国女子囲碁リーグ | Jeong Yujin | Lee Youngjoo | Win | B+R | 6.5 | 2874 | 9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2862 | -15 | 
 | 2022-08-16 | 2021中国女子囲碁乙級リーグ  | Kim Dayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2877 | 12 | 
 | 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Choi Jeong | Lose | W+R | 7.5 | 2865 | 7 | 
 | 2022-08-14 | 2021中国女子囲碁乙級リーグ  | Oh Jeonga | Nakamura Sumire | Win | W+¼ | 7.5 | 2858 | 26 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Shin Jinseo** | **Byun Sangil Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-18 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:21 | 0 | 4 | 
 | 2022-08-15 | 第8回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | W+T | 6.5 | 7:20 | 0 | 3 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:19 | 0 | 2 | 
 | 2022-02-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:18 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-19 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3837 | 0 | 
 | 2022-08-18 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3837 | 0 | 
 | 2022-08-15 | 第8回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | Win | W+T | 6.5 | 3837 | 0 | 
 | 2022-08-14 | 第8回国手山脈世界プロ最強戦準決勝 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3837 | 0 | 

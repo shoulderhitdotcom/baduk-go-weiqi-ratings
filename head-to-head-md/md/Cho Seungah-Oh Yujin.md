@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Oh Yujin** | **Cho Seungah Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-18 | 第8回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | W+R | 6.5 | 5:6 | 1 | 0 | 
 | 2022-01-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Oh Yujin | W+R | 6.5 | 4:6 | 0 | 1 | 
 | 2021-07-17 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | W+0.5 | 6.5 | 4:5 | 3 | 0 | 
 | 2021-05-28 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | W+1.5 | 6.5 | 3:5 | 2 | 0 | 

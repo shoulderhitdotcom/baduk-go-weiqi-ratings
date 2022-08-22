@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第47期碁聖戦予選 | Hong Seokui | Konno Tameto | B+1.5 | 2021-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hVSm04lMtHMgOBQzEtO0AA%3D%3D) | 
 | 2017年日本囲碁リーグ2nd第3節古都-浪速主将戦 | Sato Yuta | Konno Tameto | B+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LcmRlsNO8P%2BajU%2FaFcchOw%3D%3D) | 

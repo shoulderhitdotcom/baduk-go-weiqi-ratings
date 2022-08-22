@@ -7,21 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tong Mengcheng | Chen Yunong | Win | W+R | 7.5 | 3426 | 18 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Chen Yunong | Lose | B+R | 7.5 | 3408 | 330 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Chen Yunong | Wang Xinghao | Win | B+R | 7.5 | 3078 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Peng Liyao | Chen Yunong | Win | W+1¼ | 7.5 | 3078 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yunong | Win | W+¼ | 7.5 | 3078 | 0 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3078 | 8 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Lose | W+R | 7.5 | 3070 | -391 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3461 | 14 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3447 | -1 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3448 | 21 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3427 | 9 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3418 | -15 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3433 | -10 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3443 | -13 | 
-| 2021-08-25 | 第12期中国竜星戦予選 | Chen Yunong |  | Win | B+1¾ | 7.5 | 3456 | 52 | 
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fan Yin | Chen Yunong | Lose | B+R | 7.5 | 3415 | -16 | 
+| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tong Mengcheng | Chen Yunong | Win | W+R | 7.5 | 3431 | 18 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Chen Yunong | Lose | B+R | 7.5 | 3413 | 330 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Chen Yunong | Wang Xinghao | Win | B+R | 7.5 | 3083 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Peng Liyao | Chen Yunong | Win | W+1¼ | 7.5 | 3083 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yunong | Win | W+¼ | 7.5 | 3083 | 0 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3083 | 8 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Lose | W+R | 7.5 | 3075 | -388 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3463 | 14 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3449 | -1 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3450 | 21 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3429 | 9 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3420 | -15 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3435 | -9 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3444 | -13 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Chen Yunong |  | Win | B+1¾ | 7.5 | 3457 | 53 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Lose | B+R | 7.5 | 3404 | -22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Lose | B+¾ | 7.5 | 3426 | -40 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3466 | -17 | 

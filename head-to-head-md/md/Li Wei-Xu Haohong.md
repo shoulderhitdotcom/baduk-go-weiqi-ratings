@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Xu Haohong** | **Li Wei Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Xu Haohong | W+R | 6.5 | 2:4 | 0 | 3 | 
 | 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Xu Haohong | W+R | 6.5 | 2:3 | 0 | 2 | 
 | 2019-03-12 | 第18期天元戦（台湾）敗部4回戦 | Xu Haohong | Li Wei | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Li Wei | Xu Haohong | B+R | 6.5 | 2:1 | 2 | 0 | 

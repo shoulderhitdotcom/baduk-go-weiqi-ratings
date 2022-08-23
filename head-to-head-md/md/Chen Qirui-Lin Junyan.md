@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Lin Junyan** | **Chen Qirui Streak** | **Lin Junyan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lin Junyan | W+R | 6.5 | 9:9 | 0 | 2 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | W+R | 6.5 | 9:8 | 0 | 1 | 
 | 2021-04-21 | 第26回LG杯台湾予選 | Chen Qirui | Lin Junyan | B+R | 6.5 | 9:7 | 1 | 0 | 
 | 2021-03-09 | 第20期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | W+R | 6.5 | 8:7 | 0 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lin Junyan** | **Lai Junfu Streak** | **Lin Junyan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lin Junyan | W+R | 6.5 | 6:8 | 0 | 1 | 
 | 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Junyan | Lai Junfu | W+R | 6.5 | 6:7 | 4 | 0 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | W+R | 6.5 | 5:7 | 3 | 0 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lai Junfu | Lin Junyan | B+R | 6.5 | 4:7 | 2 | 0 | 

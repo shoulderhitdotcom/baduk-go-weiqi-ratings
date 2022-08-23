@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lai Junfu** | **Chen Shiyuan Streak** | **Lai Junfu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Lai Junfu | W+R | 6.5 | 5:6 | 0 | 2 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Chen Shiyuan | Lai Junfu | W+1.5 | 6.5 | 5:5 | 0 | 1 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Chen Shiyuan | Lai Junfu | B+R | 7.5 | 5:4 | 1 | 0 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Lai Junfu | W+R | 6.5 | 4:4 | 0 | 2 | 

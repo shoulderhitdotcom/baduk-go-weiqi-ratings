@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Eunseon** | **Choi Jeong Streak** | **Kim Eunseon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-23 | 第27期女流国手戦1回戦 | Kim Eunseon | Choi Jeong | W+R | 6.5 | 6:0 | 6 | 0 | 
 | 2021-12-22 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Choi Jeong | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2020-07-10 | 第6回韓国女子囲碁リーグ第8節第2試合第2局 | Kim Eunseon | Choi Jeong | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2019-07-25 | 第5回韓国女子囲碁リーグ第10節第4試合第1局 | Kim Eunseon | Choi Jeong | W+R | 6.5 | 3:0 | 3 | 0 | 

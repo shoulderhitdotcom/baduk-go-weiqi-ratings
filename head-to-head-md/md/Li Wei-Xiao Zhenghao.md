@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Xiao Zhenghao** | **Li Wei Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Xiao Zhenghao | B+R | 6.5 | 1:8 | 1 | 0 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Li Wei | Xiao Zhenghao | W+3.5 | 6.5 | 0:8 | 0 | 8 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Li Wei | Xiao Zhenghao | W+R | 6.5 | 0:7 | 0 | 7 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | B+R | 6.5 | 0:6 | 0 | 6 | 

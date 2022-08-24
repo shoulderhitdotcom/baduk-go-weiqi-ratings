@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-24 | 第15期棋王戦（台湾）予選  | Chen Qirui | Xiao Zhenghao | Lose | W+R | 6.5 | 3124 | -15 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Jingen | Lose | W+R | 6.5 | 3139 | -82 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Qirui | Xu Jingen | Lose | W+R | 6.5 | 3221 | 0 | 
 | 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3221 | -17 | 

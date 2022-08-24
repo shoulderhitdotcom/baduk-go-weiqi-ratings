@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-24 | 第15期棋王戦（台湾）予選  | Chen Qirui | Xiao Zhenghao | Win | W+R | 6.5 | 3092 | 29 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Xiao Zhenghao | Lose | B+R | 6.5 | 3063 | -77 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Zhou Yinnan | Xiao Zhenghao | Win | W+R | 6.5 | 3140 | 0 | 
 | 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Xiao Zhenghao | Lose | B+R | 6.5 | 3140 | -14 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Xiao Zhenghao** | **Chen Qirui Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-24 | 第15期棋王戦（台湾）予選  | Chen Qirui | Xiao Zhenghao | W+R | 6.5 | 9:8 | 0 | 1 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | W+R | 6.5 | 9:7 | 8 | 0 | 
 | 2022-02-15 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | W+R | 6.5 | 8:7 | 7 | 0 | 
 | 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | W+R | 6.5 | 7:7 | 6 | 0 | 

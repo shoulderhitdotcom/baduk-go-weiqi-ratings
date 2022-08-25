@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Zhao Chenyu** | **Tu Xiaoyu Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Zhao Chenyu | B+R | 7.5 | 4:4 | 2 | 0 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tu Xiaoyu | Zhao Chenyu | B+1¾ | 7.5 | 3:4 | 1 | 0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Tu Xiaoyu | Zhao Chenyu | W+R | 7.5 | 2:4 | 0 | 3 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Tu Xiaoyu | Zhao Chenyu | W+R | 7.5 | 2:3 | 0 | 2 | 

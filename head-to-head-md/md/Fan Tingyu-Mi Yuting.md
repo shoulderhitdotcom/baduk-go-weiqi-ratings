@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Mi Yuting** | **Fan Tingyu Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | W+R | 7.5 | 7:5 | 0 | 1 | 
 | 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Fan Tingyu | Mi Yuting | B+R | 7.5 | 7:4 | 5 | 0 | 
 | 2022-04-18 | 2022年アジア競技大会中国予選 | Fan Tingyu | Mi Yuting | B+R | 7.5 | 6:4 | 4 | 0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | B+R | 7.5 | 5:4 | 3 | 0 | 

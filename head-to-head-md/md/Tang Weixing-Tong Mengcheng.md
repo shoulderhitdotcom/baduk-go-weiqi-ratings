@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Tong Mengcheng** | **Tang Weixing Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Tang Weixing | W+R | 7.5 | 9:3 | 3 | 0 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Tang Weixing | Tong Mengcheng | B+1.5 | 6.5 | 8:3 | 2 | 0 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Tang Weixing | W+R | 7.5 | 7:3 | 1 | 0 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Tang Weixing | Tong Mengcheng | W+R | 7.5 | 6:3 | 0 | 1 | 

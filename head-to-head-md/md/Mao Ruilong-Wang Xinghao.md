@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mao Ruilong Vs Wang Xinghao** | **Mao Ruilong Streak** | **Wang Xinghao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Wang Xinghao | Mao Ruilong | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

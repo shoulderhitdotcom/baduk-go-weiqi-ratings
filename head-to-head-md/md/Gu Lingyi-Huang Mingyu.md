@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Lingyi Vs Huang Mingyu** | **Gu Lingyi Streak** | **Huang Mingyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Gu Lingyi | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

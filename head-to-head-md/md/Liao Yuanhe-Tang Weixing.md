@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liao Yuanhe Vs Tang Weixing** | **Liao Yuanhe Streak** | **Tang Weixing Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-09-02 | 第24回三星火災杯世界囲碁マスターズ準決勝 | Liao Yuanhe | Tang Weixing | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

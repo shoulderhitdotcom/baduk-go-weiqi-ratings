@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Huang Mingyu** | **Chen Zijian Streak** | **Huang Mingyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Zijian | Huang Mingyu | W+1¼ | 7.5 | 0:1 | 0 | 1 |
 
 
 

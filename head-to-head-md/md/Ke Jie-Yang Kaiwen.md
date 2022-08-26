@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Yang Kaiwen** | **Ke Jie Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Ke Jie | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

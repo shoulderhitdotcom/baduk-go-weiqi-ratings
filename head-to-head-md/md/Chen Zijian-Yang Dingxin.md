@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Yang Dingxin** | **Chen Zijian Streak** | **Yang Dingxin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Dingxin | Chen Zijian | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

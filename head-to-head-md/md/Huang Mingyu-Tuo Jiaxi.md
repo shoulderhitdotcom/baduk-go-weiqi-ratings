@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Mingyu Vs Tuo Jiaxi** | **Huang Mingyu Streak** | **Tuo Jiaxi Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

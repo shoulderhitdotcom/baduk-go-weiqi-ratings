@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Wang Shiyi** | **Chen Yaoye Streak** | **Wang Shiyi Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Shiyi | Chen Yaoye | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

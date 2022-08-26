@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tu Xiaoyu** | **Li Qincheng Streak** | **Tu Xiaoyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tu Xiaoyu | B+R | 7.5 | 2:0 | 2 | 0 | 
+| 2021-03-08 | 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

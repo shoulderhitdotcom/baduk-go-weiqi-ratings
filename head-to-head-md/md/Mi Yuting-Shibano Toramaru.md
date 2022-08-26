@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Shibano Toramaru** | **Mi Yuting Streak** | **Shibano Toramaru Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Mi Yuting | Shibano Toramaru | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

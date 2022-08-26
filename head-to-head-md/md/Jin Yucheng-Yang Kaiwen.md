@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Yucheng Vs Yang Kaiwen** | **Jin Yucheng Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Jin Yucheng | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

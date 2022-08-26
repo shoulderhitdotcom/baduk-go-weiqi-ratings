@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Xu Jiayang** | **He Yuhan Streak** | **Xu Jiayang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | He Yuhan | Xu Jiayang | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

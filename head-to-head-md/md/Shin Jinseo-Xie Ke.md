@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Xie Ke** | **Shin Jinseo Streak** | **Xie Ke Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Shin Jinseo | Xie Ke | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

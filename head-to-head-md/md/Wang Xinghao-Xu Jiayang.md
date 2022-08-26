@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Xinghao Vs Xu Jiayang** | **Wang Xinghao Streak** | **Xu Jiayang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Xu Jiayang | Wang Xinghao | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

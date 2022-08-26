@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Xu Jiayang** | **Cao Xiaoyang Streak** | **Xu Jiayang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Cao Xiaoyang | Xu Jiayang | W+¼ | 7.5 | 0:1 | 0 | 1 |
 
 
 

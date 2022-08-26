@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Tu Xiaoyu** | **Tong Mengcheng Streak** | **Tu Xiaoyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Tong Mengcheng | Tu Xiaoyu | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

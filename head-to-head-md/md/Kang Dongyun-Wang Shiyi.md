@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Wang Shiyi** | **Kang Dongyun Streak** | **Wang Shiyi Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Wang Shiyi | Kang Dongyun | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Liu Yuhang** | **Dang Yifei Streak** | **Liu Yuhang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-18 | 第21回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | B+¾ | 7.5 | 0:1 | 0 | 1 |
 
 
 

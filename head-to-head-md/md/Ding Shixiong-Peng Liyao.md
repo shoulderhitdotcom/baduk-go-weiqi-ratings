@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Peng Liyao** | **Ding Shixiong Streak** | **Peng Liyao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Peng Liyao | Ding Shixiong | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

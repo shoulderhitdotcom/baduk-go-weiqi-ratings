@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Mi Yuting** | **Kim Myounghoon Streak** | **Mi Yuting Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

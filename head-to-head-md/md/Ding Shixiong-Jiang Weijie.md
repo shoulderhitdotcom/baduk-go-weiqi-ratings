@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Jiang Weijie** | **Ding Shixiong Streak** | **Jiang Weijie Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節衢州-山東 | Jiang Weijie | Ding Shixiong | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

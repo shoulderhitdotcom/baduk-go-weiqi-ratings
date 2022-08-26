@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Tan Xiao** | **Fan Yin Streak** | **Tan Xiao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Fan Yin | Tan Xiao | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

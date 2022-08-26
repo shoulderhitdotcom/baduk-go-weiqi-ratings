@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Yang Kaiwen** | **Xie Erhao Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Xie Erhao | Yang Kaiwen | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

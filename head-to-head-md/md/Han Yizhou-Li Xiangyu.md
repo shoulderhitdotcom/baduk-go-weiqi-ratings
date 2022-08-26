@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Li Xiangyu** | **Han Yizhou Streak** | **Li Xiangyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Li Xiangyu | Han Yizhou | W+R | 7.5 | 1:1 | 1 | 0 | 
+| 2012-05-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Han Yizhou | Li Xiangyu | W+2.5 | 7.5 | 0:1 | 0 | 1 |
 
 
 

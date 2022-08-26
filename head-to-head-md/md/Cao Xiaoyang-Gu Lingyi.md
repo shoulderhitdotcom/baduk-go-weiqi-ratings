@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Gu Lingyi** | **Cao Xiaoyang Streak** | **Gu Lingyi Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2008-01-06 | 第8期リコー杯囲碁戦1回戦 | Cao Xiaoyang | Gu Lingyi | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

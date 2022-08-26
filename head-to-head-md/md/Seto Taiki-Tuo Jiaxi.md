@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seto Taiki Vs Tuo Jiaxi** | **Seto Taiki Streak** | **Tuo Jiaxi Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2009-11-30 | 2009年国際新鋭囲碁対抗戦第1戦 | Tuo Jiaxi | Seto Taiki | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shen Peiran Vs Yi Lingtao** | **Shen Peiran Streak** | **Yi Lingtao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shen Peiran | Yi Lingtao | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

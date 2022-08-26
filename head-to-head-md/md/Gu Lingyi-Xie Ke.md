@@ -5,9 +5,11 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Lingyi Vs Xie Ke** | **Gu Lingyi Streak** | **Xie Ke Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Xie Ke | Gu Lingyi | B+R | 7.5 | 1:2 | 0 | 2 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Gu Lingyi | Xie Ke | W+R | 7.5 | 1:1 | 0 | 1 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節成都-蘇泊爾 | Gu Lingyi | Xie Ke | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

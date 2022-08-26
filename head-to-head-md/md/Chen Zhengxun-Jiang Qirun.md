@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Jiang Qirun** | **Chen Zhengxun Streak** | **Jiang Qirun Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

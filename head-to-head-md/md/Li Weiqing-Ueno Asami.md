@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Ueno Asami** | **Li Weiqing Streak** | **Ueno Asami Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | W+R | 6.5 | 1:0 | 1 | 0 |
 
 
 

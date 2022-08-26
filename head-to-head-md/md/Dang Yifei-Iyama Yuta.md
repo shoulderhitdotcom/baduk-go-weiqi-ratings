@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Iyama Yuta** | **Dang Yifei Streak** | **Iyama Yuta Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第24回中国囲碁甲級リーグ  | Iyama Yuta | Dang Yifei | W+R | 7.5 | 2:0 | 2 | 0 | 
+| 2018-02-26 | 第19回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Dang Yifei | W+R | 6.5 | 1:0 | 1 | 0 |
 
 
 

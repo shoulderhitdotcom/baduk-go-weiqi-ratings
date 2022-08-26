@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Yang Kaiwen** | **He Yuhan Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Kaiwen | He Yuhan | W+R | 7.5 | 2:0 | 2 | 0 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Yang Kaiwen | He Yuhan | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

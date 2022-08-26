@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Xu Jiayang** | **Shibano Toramaru Streak** | **Xu Jiayang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Shibano Toramaru | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

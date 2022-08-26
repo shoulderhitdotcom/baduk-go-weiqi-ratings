@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Wang Shuo** | **Tong Mengcheng Streak** | **Wang Shuo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Tong Mengcheng | Wang Shuo | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

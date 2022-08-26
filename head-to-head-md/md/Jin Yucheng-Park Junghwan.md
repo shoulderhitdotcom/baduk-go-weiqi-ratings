@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Yucheng Vs Park Junghwan** | **Jin Yucheng Streak** | **Park Junghwan Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | B+¾ | 7.5 | 1:0 | 1 | 0 |
 
 
 

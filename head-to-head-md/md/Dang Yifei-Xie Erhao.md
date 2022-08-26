@@ -5,9 +5,12 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Xie Erhao** | **Dang Yifei Streak** | **Xie Erhao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Dang Yifei | Xie Erhao | W+R | 7.5 | 0:4 | 0 | 4 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Dang Yifei | Xie Erhao | W+R | 7.5 | 0:3 | 0 | 3 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Dang Yifei | Xie Erhao | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2013-03-28 | 第20期建橋杯中国囲碁新人王戦1回戦 | Dang Yifei | Xie Erhao | W+T | 7.5 | 0:1 | 0 | 1 |
 
 
 

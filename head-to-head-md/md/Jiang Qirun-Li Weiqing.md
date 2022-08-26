@@ -5,9 +5,12 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Li Weiqing** | **Jiang Qirun Streak** | **Li Weiqing Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Li Weiqing | Jiang Qirun | B+R | 7.5 | 0:4 | 0 | 4 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | W+R | 7.5 | 0:3 | 0 | 3 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Li Weiqing | Jiang Qirun | B+R | 7.5 | 0:2 | 0 | 2 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節浙江-上海 | Li Weiqing | Jiang Qirun | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

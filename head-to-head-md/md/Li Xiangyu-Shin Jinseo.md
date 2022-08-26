@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Shin Jinseo** | **Li Xiangyu Streak** | **Shin Jinseo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Li Xiangyu | B+R | 7.5 | 0:2 | 0 | 2 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦H2 | Shin Jinseo | Li Xiangyu | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

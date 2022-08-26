@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Wang Zejin** | **Kim Myounghoon Streak** | **Wang Zejin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節天津-中信 | Kim Myounghoon | Wang Zejin | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

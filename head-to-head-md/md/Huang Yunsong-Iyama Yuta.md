@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Iyama Yuta** | **Huang Yunsong Streak** | **Iyama Yuta Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2015-12-25 | 第17回阿含・桐山杯日中決戦 | Huang Yunsong | Iyama Yuta | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

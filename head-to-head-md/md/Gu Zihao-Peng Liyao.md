@@ -5,9 +5,11 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Peng Liyao** | **Gu Zihao Streak** | **Peng Liyao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-04-19 | 第15期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Peng Liyao | Gu Zihao | W+R | 7.5 | 2:1 | 1 | 0 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Peng Liyao | Gu Zihao | B+R | 7.5 | 1:1 | 0 | 1 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Peng Liyao | Gu Zihao | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

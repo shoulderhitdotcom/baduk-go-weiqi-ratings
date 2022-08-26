@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Mao Ruilong** | **Fan Yin Streak** | **Mao Ruilong Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Fan Yin | Mao Ruilong | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

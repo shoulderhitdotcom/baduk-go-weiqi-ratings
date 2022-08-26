@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Zhang Tao** | **Gu Zihao Streak** | **Zhang Tao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014-06-26 | 第6期中国竜星戦予選 | Zhang Tao | Gu Zihao | W+0.5 | 7.5 | 1:0 | 1 | 0 |
 
 
 

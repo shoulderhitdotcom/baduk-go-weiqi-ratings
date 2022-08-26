@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Shi Yue** | **Li Xiangyu Streak** | **Shi Yue Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Shi Yue | Li Xiangyu | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

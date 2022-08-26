@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Mingyu Vs Xie Erhao** | **Huang Mingyu Streak** | **Xie Erhao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

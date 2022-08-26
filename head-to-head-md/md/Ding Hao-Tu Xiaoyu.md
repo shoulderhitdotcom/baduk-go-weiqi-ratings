@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Tu Xiaoyu** | **Ding Hao Streak** | **Tu Xiaoyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-12-19 | 第11期中国竜星戦Bブロック2回戦 | Ding Hao | Tu Xiaoyu | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

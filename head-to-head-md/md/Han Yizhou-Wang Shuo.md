@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Wang Shuo** | **Han Yizhou Streak** | **Wang Shuo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 | Wang Shuo | Han Yizhou | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

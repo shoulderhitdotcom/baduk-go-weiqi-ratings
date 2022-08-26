@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hu Zihao Vs Tu Xiaoyu** | **Hu Zihao Streak** | **Tu Xiaoyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

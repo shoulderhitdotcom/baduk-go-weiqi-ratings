@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Liu Yuhang Vs Tan Xiao** | **Liu Yuhang Streak** | **Tan Xiao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Tan Xiao | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

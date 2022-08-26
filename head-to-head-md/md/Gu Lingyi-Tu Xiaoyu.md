@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Lingyi Vs Tu Xiaoyu** | **Gu Lingyi Streak** | **Tu Xiaoyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Tu Xiaoyu | Gu Lingyi | B+1¾ | 7.5 | 0:1 | 0 | 1 |
 
 
 

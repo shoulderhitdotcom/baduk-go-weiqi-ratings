@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Liu Yuhang** | **Han Yizhou Streak** | **Liu Yuhang Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

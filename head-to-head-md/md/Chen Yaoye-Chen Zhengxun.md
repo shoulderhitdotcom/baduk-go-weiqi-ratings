@@ -5,9 +5,12 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Chen Zhengxun** | **Chen Yaoye Streak** | **Chen Zhengxun Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | W+R | 7.5 | 4:0 | 4 | 0 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | W+R | 7.5 | 3:0 | 3 | 0 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Chen Yaoye | Chen Zhengxun | B+R | 7.5 | 2:0 | 2 | 0 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Chen Zhengxun | Chen Yaoye | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

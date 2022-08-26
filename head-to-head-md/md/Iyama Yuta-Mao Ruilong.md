@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Mao Ruilong** | **Iyama Yuta Streak** | **Mao Ruilong Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Mao Ruilong | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

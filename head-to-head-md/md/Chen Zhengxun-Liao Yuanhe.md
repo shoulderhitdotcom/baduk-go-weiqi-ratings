@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Liao Yuanhe** | **Chen Zhengxun Streak** | **Liao Yuanhe Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Chen Zhengxun | W+R | 7.5 | 2:0 | 2 | 0 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Liao Yuanhe | Chen Zhengxun | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

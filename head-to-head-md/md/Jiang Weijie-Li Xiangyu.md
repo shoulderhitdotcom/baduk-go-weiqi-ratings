@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Li Xiangyu** | **Jiang Weijie Streak** | **Li Xiangyu Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-03-07 | 第10期中国竜星戦予選 | Jiang Weijie | Li Xiangyu | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Yang Dingxin** | **Shibano Toramaru Streak** | **Yang Dingxin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shibano Toramaru | Yang Dingxin | W+5 | 7.5 | 0:1 | 0 | 1 |
 
 
 

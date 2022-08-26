@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Wang Chunhui** | **Chen Zhengxun Streak** | **Wang Chunhui Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Zhengxun | W+1¼ | 7.5 | 1:0 | 1 | 0 |
 
 
 

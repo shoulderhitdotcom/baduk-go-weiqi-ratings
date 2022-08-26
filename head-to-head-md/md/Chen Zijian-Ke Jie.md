@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Ke Jie** | **Chen Zijian Streak** | **Ke Jie Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Ke Jie | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

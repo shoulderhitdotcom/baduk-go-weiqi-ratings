@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Wang Zejin** | **Li Qincheng Streak** | **Wang Zejin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Li Qincheng | Wang Zejin | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

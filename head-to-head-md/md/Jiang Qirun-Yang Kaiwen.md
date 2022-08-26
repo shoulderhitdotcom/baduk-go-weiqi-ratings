@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Yang Kaiwen** | **Jiang Qirun Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Yang Kaiwen | Jiang Qirun | W+8.5 | 7.5 | 1:0 | 1 | 0 |
 
 
 

@@ -5,9 +5,10 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Yang Kaiwen** | **Tan Xiao Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

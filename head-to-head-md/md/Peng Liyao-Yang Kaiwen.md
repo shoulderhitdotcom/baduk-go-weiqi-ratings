@@ -5,9 +5,12 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Yang Kaiwen** | **Peng Liyao Streak** | **Yang Kaiwen Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Yang Kaiwen | Peng Liyao | B+R | 7.5 | 2:2 | 0 | 2 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Peng Liyao | B+R | 7.5 | 2:1 | 0 | 1 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Peng Liyao | W+R | 7.5 | 2:0 | 2 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Peng Liyao | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

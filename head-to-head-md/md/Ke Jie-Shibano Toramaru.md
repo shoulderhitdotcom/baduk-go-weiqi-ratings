@@ -5,9 +5,11 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Shibano Toramaru** | **Ke Jie Streak** | **Shibano Toramaru Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-01-21 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第2戦 | Shibano Toramaru | Ke Jie | W+R | 7.5 | 2:1 | 1 | 0 | 
+| 2018-04-29 | 第4回日中竜星戦 | Ke Jie | Shibano Toramaru | W+R | 7.5 | 1:1 | 0 | 1 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Shibano Toramaru | Ke Jie | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

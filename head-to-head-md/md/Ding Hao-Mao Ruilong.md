@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Mao Ruilong** | **Ding Hao Streak** | **Mao Ruilong Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017-02-22 | 第14期中国倡棋杯復戦2回戦 | Ding Hao | Mao Ruilong | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

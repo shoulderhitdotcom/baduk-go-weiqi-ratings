@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Shin Jinseo** | **Fan Yin Streak** | **Shin Jinseo Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Fan Yin | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

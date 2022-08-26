@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Xinghao Vs Wang Zejin** | **Wang Xinghao Streak** | **Wang Zejin Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Wang Zejin | Wang Xinghao | B+¾ | 7.5 | 0:1 | 0 | 1 |
 
 
 

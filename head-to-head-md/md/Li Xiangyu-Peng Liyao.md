@@ -5,9 +5,9 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Peng Liyao** | **Li Xiangyu Streak** | **Peng Liyao Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Peng Liyao | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Li Xiangyu** | **Cao Xiaoyang Streak** | **Li Xiangyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cao Xiaoyang | Li Xiangyu | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Tan Xiao** | **Cao Xiaoyang Streak** | **Tan Xiao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Cao Xiaoyang | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

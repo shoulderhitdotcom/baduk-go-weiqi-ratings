@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Kim Myounghoon** | **Huang Yunsong Streak** | **Kim Myounghoon Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節中信-江蘇 | Kim Myounghoon | Huang Yunsong | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

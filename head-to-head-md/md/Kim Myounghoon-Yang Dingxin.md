@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Yang Dingxin** | **Kim Myounghoon Streak** | **Yang Dingxin Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Yang Dingxin | W+R | 7.5 | 0:3 | 0 | 3 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節重慶-中信 | Kim Myounghoon | Yang Dingxin | W+R | 7.5 | 0:2 | 0 | 2 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kim Myounghoon | Yang Dingxin | W+R | 6.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

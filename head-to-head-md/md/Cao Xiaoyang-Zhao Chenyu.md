@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cao Xiaoyang Vs Zhao Chenyu** | **Cao Xiaoyang Streak** | **Zhao Chenyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Cao Xiaoyang | Zhao Chenyu | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

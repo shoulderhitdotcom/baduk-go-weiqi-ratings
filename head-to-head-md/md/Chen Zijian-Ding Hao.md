@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Ding Hao** | **Chen Zijian Streak** | **Ding Hao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Chen Zijian | Ding Hao | B+R | 7.5 | 1:2 | 1 | 0 | 
-| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Chen Zijian | Ding Hao | W+R | 7.5 | 0:2 | 0 | 2 | 
-| 2015-02-07 | 第22期建橋杯中国囲碁新人王戦3回戦 | Ding Hao | Chen Zijian | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

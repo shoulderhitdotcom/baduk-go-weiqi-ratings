@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ye Changxin Vs Yi Lingtao** | **Ye Changxin Streak** | **Yi Lingtao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Ye Changxin | W+1¼ | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

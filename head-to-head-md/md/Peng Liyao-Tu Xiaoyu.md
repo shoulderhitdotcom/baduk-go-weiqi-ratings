@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tu Xiaoyu** | **Peng Liyao Streak** | **Tu Xiaoyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tu Xiaoyu | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

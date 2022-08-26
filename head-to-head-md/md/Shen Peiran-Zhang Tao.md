@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shen Peiran Vs Zhang Tao** | **Shen Peiran Streak** | **Zhang Tao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節民生-浙江 | Shen Peiran | Zhang Tao | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

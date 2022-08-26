@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Xia Chenkun** | **Shin Jinseo Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Shin Jinseo | B+R | 6.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

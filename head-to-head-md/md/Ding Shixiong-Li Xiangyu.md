@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Li Xiangyu** | **Ding Shixiong Streak** | **Li Xiangyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

@@ -5,17 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Xie Ke** | **Fan Yin Streak** | **Xie Ke Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Fan Yin | Xie Ke | W+R | 7.5 | 6:3 | 0 | 1 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | W+R | 7.5 | 6:2 | 3 | 0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Yin | Xie Ke | B+¾ | 7.5 | 5:2 | 2 | 0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Xie Ke | Fan Yin | W+R | 7.5 | 4:2 | 1 | 0 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Fan Yin | Xie Ke | W+R | 7.5 | 3:2 | 0 | 1 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Xie Ke | Fan Yin | W+R | 7.5 | 3:1 | 2 | 0 | 
-| 2017-09-22 | 2017年全国囲棋個人戦男子組第8戦 | Fan Yin | Xie Ke | B+R | 7.5 | 2:1 | 1 | 0 | 
-| 2016-10-25 | 第8期中国竜星戦予選 | Fan Yin | Xie Ke | W+R | 7.5 | 1:1 | 0 | 1 | 
-| 2014-03-20 | 第27期中国囲碁名人戦予選 | Xie Ke | Fan Yin | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

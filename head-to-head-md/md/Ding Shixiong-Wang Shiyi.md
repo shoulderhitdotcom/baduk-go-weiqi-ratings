@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Wang Shiyi** | **Ding Shixiong Streak** | **Wang Shiyi Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Wang Shiyi | Ding Shixiong | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

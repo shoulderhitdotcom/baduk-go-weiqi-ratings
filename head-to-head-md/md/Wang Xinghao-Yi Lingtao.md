@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Xinghao Vs Yi Lingtao** | **Wang Xinghao Streak** | **Yi Lingtao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

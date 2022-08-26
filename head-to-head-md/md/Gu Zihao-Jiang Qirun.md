@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Jiang Qirun** | **Gu Zihao Streak** | **Jiang Qirun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節江西-浙江 | Jiang Qirun | Gu Zihao | W+R | 7.5 | 2:0 | 2 | 0 | 
-| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Gu Zihao | Jiang Qirun | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

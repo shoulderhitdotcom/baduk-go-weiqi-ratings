@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Tao Xinran** | **Fan Yin Streak** | **Tao Xinran Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Tao Xinran | Fan Yin | W+1¼ | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

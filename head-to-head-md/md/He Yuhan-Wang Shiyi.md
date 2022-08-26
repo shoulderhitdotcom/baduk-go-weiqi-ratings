@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Wang Shiyi** | **He Yuhan Streak** | **Wang Shiyi Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-09-18 | 2019年全国囲棋個人戦男子組第2戦 | Wang Shiyi | He Yuhan | B+R | 7.5 | 1:1 | 0 | 1 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | He Yuhan | Wang Shiyi | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

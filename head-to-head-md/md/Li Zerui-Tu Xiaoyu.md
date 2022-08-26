@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Zerui Vs Tu Xiaoyu** | **Li Zerui Streak** | **Tu Xiaoyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-04-14 | 2021博思軟件杯中国囲碁新秀争覇戦2回戦 | Tu Xiaoyu | Li Zerui | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

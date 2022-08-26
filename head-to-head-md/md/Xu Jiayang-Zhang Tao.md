@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xu Jiayang Vs Zhang Tao** | **Xu Jiayang Streak** | **Zhang Tao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節江西-浙江 | Xu Jiayang | Zhang Tao | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

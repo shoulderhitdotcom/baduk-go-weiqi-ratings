@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tang Weixing Vs Tu Xiaoyu** | **Tang Weixing Streak** | **Tu Xiaoyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Tang Weixing | B+R | 7.5 | 2:1 | 0 | 1 | 
-| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tu Xiaoyu | Tang Weixing | W+¼ | 7.5 | 2:0 | 2 | 0 | 
-| 2021-04-25 | 第20回西南棋王戦1回戦 | Tu Xiaoyu | Tang Weixing | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

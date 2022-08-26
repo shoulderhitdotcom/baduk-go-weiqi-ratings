@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Tong Mengcheng** | **Kang Dongyun Streak** | **Tong Mengcheng Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Tong Mengcheng | Kang Dongyun | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

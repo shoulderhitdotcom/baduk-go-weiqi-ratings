@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Xu Jiayang** | **Tu Xiaoyu Streak** | **Xu Jiayang Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-11-03 | 2017呉清源杯中国新秀戦16強戦 | Xu Jiayang | Tu Xiaoyu | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

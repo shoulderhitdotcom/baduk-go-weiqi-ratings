@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Park Junghwan** | **Li Xuanhao Streak** | **Park Junghwan Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Park Junghwan | Li Xuanhao | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

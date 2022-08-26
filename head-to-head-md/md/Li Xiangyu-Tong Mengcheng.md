@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Tong Mengcheng** | **Li Xiangyu Streak** | **Tong Mengcheng Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Xiangyu | Tong Mengcheng | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

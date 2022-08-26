@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Xia Chenkun** | **Ding Hao Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Ding Hao | Xia Chenkun | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

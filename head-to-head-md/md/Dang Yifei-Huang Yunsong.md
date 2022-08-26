@@ -5,13 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Huang Yunsong** | **Dang Yifei Streak** | **Huang Yunsong Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Dang Yifei | W+R | 7.5 | 2:3 | 2 | 0 | 
-| 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | W+R | 6.5 | 1:3 | 1 | 0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | W+¼ | 7.5 | 0:3 | 0 | 3 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Huang Yunsong | Dang Yifei | B+R | 7.5 | 0:2 | 0 | 2 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Huang Yunsong | Dang Yifei | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Yang Dingxin** | **Ding Shixiong Streak** | **Yang Dingxin Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Ding Shixiong | Yang Dingxin | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

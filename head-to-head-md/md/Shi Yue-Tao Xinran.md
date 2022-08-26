@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Tao Xinran** | **Shi Yue Streak** | **Tao Xinran Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2016-03-07 | 第15回西南棋王戦1回戦 | Tao Xinran | Shi Yue | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

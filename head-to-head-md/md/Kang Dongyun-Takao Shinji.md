@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Takao Shinji** | **Kang Dongyun Streak** | **Takao Shinji Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦D2 | Takao Shinji | Kang Dongyun | W+R | 6.5 | 1:1 | 1 | 0 | 
-| 2008-11-29 | 第10回農心辛ラーメン杯世界囲碁最強戦第10戦 | Takao Shinji | Kang Dongyun | B+R | 6.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

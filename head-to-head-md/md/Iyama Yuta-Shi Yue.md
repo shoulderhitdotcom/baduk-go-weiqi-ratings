@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Shi Yue** | **Iyama Yuta Streak** | **Shi Yue Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-08-14 | 第9回世界囲棋巓峰対決8強戦 | Shi Yue | Iyama Yuta | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

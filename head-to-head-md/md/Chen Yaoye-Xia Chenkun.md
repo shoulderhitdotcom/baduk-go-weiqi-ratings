@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Xia Chenkun** | **Chen Yaoye Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Xia Chenkun | Chen Yaoye | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

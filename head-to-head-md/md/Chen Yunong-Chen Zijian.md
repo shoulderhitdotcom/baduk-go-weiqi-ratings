@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yunong Vs Chen Zijian** | **Chen Yunong Streak** | **Chen Zijian Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

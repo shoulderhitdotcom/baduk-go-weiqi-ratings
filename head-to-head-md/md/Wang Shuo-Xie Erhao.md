@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Shuo Vs Xie Erhao** | **Wang Shuo Streak** | **Xie Erhao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Xie Erhao | Wang Shuo | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

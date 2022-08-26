@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shen Peiran Vs Xia Chenkun** | **Shen Peiran Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Shen Peiran | Xia Chenkun | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

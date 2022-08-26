@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Zhao Chenyu** | **Iyama Yuta Streak** | **Zhao Chenyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Iyama Yuta | Zhao Chenyu | W+R | 6.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

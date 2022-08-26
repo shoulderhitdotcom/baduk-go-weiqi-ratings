@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Zejin Vs Yang Dingxin** | **Wang Zejin Streak** | **Yang Dingxin Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Wang Zejin | B+R | 7.5 | 1:2 | 0 | 1 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Yang Dingxin | Wang Zejin | W+R | 7.5 | 1:1 | 1 | 0 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wang Zejin | Yang Dingxin | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

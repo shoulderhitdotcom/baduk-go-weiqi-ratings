@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Shixiong Vs Yang Kaiwen** | **Ding Shixiong Streak** | **Yang Kaiwen Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-09-19 | 2017年全国囲棋個人戦男子組第5戦 | Yang Kaiwen | Ding Shixiong | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

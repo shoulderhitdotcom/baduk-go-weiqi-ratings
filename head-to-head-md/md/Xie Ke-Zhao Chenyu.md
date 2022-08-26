@@ -5,14 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Ke Vs Zhao Chenyu** | **Xie Ke Streak** | **Zhao Chenyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Xie Ke | W+R | 7.5 | 6:0 | 6 | 0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhao Chenyu | B+R | 7.5 | 5:0 | 5 | 0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Xie Ke | Zhao Chenyu | B+R | 7.5 | 4:0 | 4 | 0 | 
-| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Zhao Chenyu | Xie Ke | W+R | 7.5 | 3:0 | 3 | 0 | 
-| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Zhao Chenyu | Xie Ke | W+R | 7.5 | 2:0 | 2 | 0 | 
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Xie Ke | Zhao Chenyu | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

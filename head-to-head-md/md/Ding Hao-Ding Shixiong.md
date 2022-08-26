@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Ding Shixiong** | **Ding Hao Streak** | **Ding Shixiong Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-03-09 | 第10期中国竜星戦Bブロック2回戦 | Ding Hao | Ding Shixiong | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

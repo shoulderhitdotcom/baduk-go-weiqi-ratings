@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Yang Kaiwen** | **Shibano Toramaru Streak** | **Yang Kaiwen Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

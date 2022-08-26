@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Xia Chenkun** | **Jiang Weijie Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節山東-杭州 | Jiang Weijie | Xia Chenkun | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

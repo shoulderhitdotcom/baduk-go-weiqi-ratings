@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Yucheng Vs Tu Xiaoyu** | **Jin Yucheng Streak** | **Tu Xiaoyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | W+¼ | 7.5 | 1:2 | 1 | 0 | 
-| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | B+R | 7.5 | 0:2 | 0 | 2 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

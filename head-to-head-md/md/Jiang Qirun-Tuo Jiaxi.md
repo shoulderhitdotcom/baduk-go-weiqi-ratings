@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Qirun Vs Tuo Jiaxi** | **Jiang Qirun Streak** | **Tuo Jiaxi Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Jiang Qirun | Tuo Jiaxi | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

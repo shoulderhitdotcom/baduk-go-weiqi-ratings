@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Tu Xiaoyu** | **Chen Zhengxun Streak** | **Tu Xiaoyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Tu Xiaoyu | Chen Zhengxun | B+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

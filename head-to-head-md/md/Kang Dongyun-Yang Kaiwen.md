@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Yang Kaiwen** | **Kang Dongyun Streak** | **Yang Kaiwen Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | W+R | 6.5 | 1:1 | 0 | 1 | 
-| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Yang Kaiwen | Kang Dongyun | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

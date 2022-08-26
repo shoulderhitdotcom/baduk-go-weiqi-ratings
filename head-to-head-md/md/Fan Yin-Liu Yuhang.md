@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Yin Vs Liu Yuhang** | **Fan Yin Streak** | **Liu Yuhang Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

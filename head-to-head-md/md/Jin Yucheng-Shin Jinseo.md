@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Yucheng Vs Shin Jinseo** | **Jin Yucheng Streak** | **Shin Jinseo Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | W+1¼ | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

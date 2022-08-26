@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Xia Chenkun** | **He Yuhan Streak** | **Xia Chenkun Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | B+R | 7.5 | 2:1 | 1 | 0 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | W+R | 7.5 | 1:1 | 0 | 1 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Xia Chenkun | He Yuhan | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

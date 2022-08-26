@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Peng Liyao** | **Chen Xian Streak** | **Peng Liyao Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Chen Xian | Peng Liyao | W+R | 7.5 | 0:3 | 0 | 3 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Peng Liyao | Chen Xian | B+R | 7.5 | 0:2 | 0 | 2 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Chen Xian | Peng Liyao | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

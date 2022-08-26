@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Xu Jiayang** | **Park Junghwan Streak** | **Xu Jiayang Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Xu Jiayang | Park Junghwan | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Han Yizhou** | **Gu Zihao Streak** | **Han Yizhou Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | W+R | 7.5 | 3:0 | 3 | 0 | 
-| 2015-10-06 | 第17回中国囲碁甲級リーグ第14節 | Han Yizhou | Gu Zihao | W+R | 7.5 | 2:0 | 2 | 0 | 
-| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Han Yizhou | Gu Zihao | W+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Shibano Toramaru** | **Chen Yaoye Streak** | **Shibano Toramaru Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節  | Chen Yaoye | Shibano Toramaru | B+R | 7.5 | 2:1 | 1 | 0 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Shibano Toramaru | W+3.5 | 6.5 | 1:1 | 0 | 1 | 
-| 2018-07-26 | 第4回百霊杯世界オープン戦2回戦 | Chen Yaoye | Shibano Toramaru | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

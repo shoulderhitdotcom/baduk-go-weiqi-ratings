@@ -5,10 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Chen Zijian** | **Chen Yaoye Streak** | **Chen Zijian Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Chen Yaoye | Chen Zijian | B+1¾ | 7.5 | 2:0 | 2 | 0 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Chen Zijian | Chen Yaoye | W+0.5 | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

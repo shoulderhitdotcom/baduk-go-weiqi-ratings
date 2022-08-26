@@ -5,13 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Tong Mengcheng** | **Chen Xian Streak** | **Tong Mengcheng Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Xian | Tong Mengcheng | W+R | 7.5 | 3:2 | 0 | 2 | 
-| 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Chen Xian | Tong Mengcheng | W+R | 7.5 | 3:1 | 0 | 1 | 
-| 2015-01-26 | 第29期中国囲碁天元戦予選 | Tong Mengcheng | Chen Xian | W+R | 7.5 | 3:0 | 3 | 0 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Chen Xian | Tong Mengcheng | B+R | 7.5 | 2:0 | 2 | 0 | 
-| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Chen Xian | Tong Mengcheng | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

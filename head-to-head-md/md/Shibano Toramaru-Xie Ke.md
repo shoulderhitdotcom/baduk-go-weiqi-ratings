@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Xie Ke** | **Shibano Toramaru Streak** | **Xie Ke Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Shibano Toramaru | Xie Ke | B+R | 6.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

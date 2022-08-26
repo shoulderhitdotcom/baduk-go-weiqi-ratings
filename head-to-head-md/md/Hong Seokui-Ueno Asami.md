@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hong Seokui Vs Ueno Asami** | **Hong Seokui Streak** | **Ueno Asami Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-06-04 | 第45期棋聖戦Cリーグ | Hong Seokui | Ueno Asami | B+R | 6.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

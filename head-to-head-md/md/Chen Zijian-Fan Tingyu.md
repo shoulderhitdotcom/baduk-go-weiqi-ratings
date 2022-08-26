@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zijian Vs Fan Tingyu** | **Chen Zijian Streak** | **Fan Tingyu Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Chen Zijian | Fan Tingyu | B+R | 7.5 | 1:0 | 1 | 0 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

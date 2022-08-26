@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative He Yuhan Vs Mi Yuting** | **He Yuhan Streak** | **Mi Yuting Streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-06-14 | 第19回西南棋王戦1回戦 | He Yuhan | Mi Yuting | W+R | 7.5 | 0:1 | 0 | 1 |
+Error: LoadError: UndefVarError: @c not defined
+in expression starting at c:\weiqi\simulation\utils.jl:780
+in expression starting at c:\weiqi\simulation\utils.jl:770
 
 
 

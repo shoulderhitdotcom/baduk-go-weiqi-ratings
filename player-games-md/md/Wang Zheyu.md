@@ -5,9 +5,18 @@
 
 
 
-Error: LoadError: UndefVarError: @c not defined
-in expression starting at c:\weiqi\simulation\utils.jl:780
-in expression starting at c:\weiqi\simulation\utils.jl:770
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Ding Hao | Lose | W+R | 7.5 | 2814 | -39 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tan Xiao | Wang Zheyu | Lose | B+R | 7.5 | 2853 | -16 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Yaoye | Lose | W+R | 7.5 | 2869 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Zhengxun | Lose | W+R | 7.5 | 2869 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Gu Zihao | Wang Zheyu | Lose | B+R | 7.5 | 2869 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Ke Jie | Lose | W+R | 7.5 | 2869 | 9 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Ma Yichao | Wang Zheyu | Lose | B+¾ | 7.5 | 2860 | -57 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Wang Zheyu | Lose | B+R | 7.5 | 2917 | -91 | 
+| 2022-07-17 | 2021中国囲碁乙級リーグ | Wang Zheyu | Park Sangjin | Lose | W+R | 7.5 | 3008 | 0 | 
+| 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Zheyu | Chen Qirui | Win | B+¾ | 7.5 | 3008 | missing |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xiao Zhenghao Vs Xu Haohong** | **Xiao Zhenghao Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Xu Haohong | W+R | 6.5 | 4:11 | 0 | 3 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Xu Haohong | Xiao Zhenghao | B+R | 6.5 | 4:10 | 0 | 2 | 
 | 2022-01-25 | 第21期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Xu Haohong | W+R | 6.5 | 4:9 | 0 | 1 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | W+R | 6.5 | 4:8 | 1 | 0 | 

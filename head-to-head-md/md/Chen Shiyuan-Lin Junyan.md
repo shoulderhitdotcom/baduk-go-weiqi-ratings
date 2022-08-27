@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lin Junyan** | **Chen Shiyuan Streak** | **Lin Junyan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Lin Junyan | Chen Shiyuan | W+R | 6.5 | 7:9 | 1 | 0 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | B+R | 6.5 | 6:9 | 0 | 1 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | W+1.5 | 6.5 | 6:8 | 2 | 0 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Junyan | Chen Shiyuan | W+R | 6.5 | 5:8 | 1 | 0 | 

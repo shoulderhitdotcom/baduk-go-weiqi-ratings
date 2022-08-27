@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Wang Xinghao | Lai Junfu | Lose | B+R | 7.5 | 3201 | -2 | 
 | 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Lai Junfu | Win | W+R | 6.5 | 3203 | 16 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lin Junyan | Lose | W+R | 6.5 | 3187 | -51 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 | Lin Yuting | Lai Junfu | Win | W+R | 7.5 | 3238 | 0 | 

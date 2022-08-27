@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Zheng Zaixiang | Xu Jingen | Lose | B+R | 7.5 | 3036 | -13 | 
 | 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Lai Junfu | Lose | W+R | 6.5 | 3049 | 20 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3029 | 12 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 3017 | 0 | 

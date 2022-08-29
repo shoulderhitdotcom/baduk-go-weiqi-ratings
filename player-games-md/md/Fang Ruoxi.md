@@ -8,8 +8,8 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Lose | W+6.5 | 6.5 | 3040 | 20 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fang Ruoxi | Ding Shixiong | Lose | W+R | 7.5 | 3020 | -28 | 
-| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Win | W+1.5 | 6.5 | 3048 | 10 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fang Ruoxi | Ding Shixiong | Lose | W+R | 7.5 | 3020 | -29 | 
+| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Win | W+1.5 | 6.5 | 3049 | 11 | 
 | 2022-07-02 | 第2回天台山杯全国女子囲碁オープン戦 | Li He | Fang Ruoxi | Win | W+R | 7.5 | 3038 | 0 | 
 | 2022-07-02 | 第2回天台山杯全国女子囲碁オープン戦 | Fang Ruoxi |  | Win | B+R | 7.5 | 3038 | 42 | 
 | 2022-07-01 | 第2回天台山杯全国女子囲碁オープン戦 | Fang Ruoxi |  | Win | B+R | 7.5 | 2996 | 0 | 
@@ -17,13 +17,13 @@
 | 2022-06-30 | 第2回天台山杯全国女子囲碁オープン戦 |  | Fang Ruoxi | Win | W+R | 7.5 | 3002 | 0 | 
 | 2022-06-30 | 第2回天台山杯全国女子囲碁オープン戦 | Fang Ruoxi |  | Win | B+R | 7.5 | 3002 | -29 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Zhou Hongyu | Fang Ruoxi | Lose | B+R | 7.5 | 3031 | -11 | 
-| 2022-03-22 | 第5回呉清源杯中国予選 | Fang Ruoxi | Li He | Win | B+¾ | 7.5 | 3042 | 23 | 
-| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Fu Jianheng | Fang Ruoxi | Lose | B+2¾ | 7.5 | 3019 | -5 | 
+| 2022-03-22 | 第5回呉清源杯中国予選 | Fang Ruoxi | Li He | Win | B+¾ | 7.5 | 3042 | 22 | 
+| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Fu Jianheng | Fang Ruoxi | Lose | B+2¾ | 7.5 | 3020 | -4 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Fang Ruoxi | Win | W+R | 7.5 | 3024 | 12 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ |  | Fang Ruoxi | Win | W+R | 7.5 | 3012 | 3 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Fang Ruoxi | Win | W+1¼ | 7.5 | 3009 | 3 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Lose | W+¼ | 7.5 | 3006 | 12 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fang Ruoxi | Li Xinchen | Win | B+R | 7.5 | 2994 | 31 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Lose | W+¼ | 7.5 | 3006 | 11 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fang Ruoxi | Li Xinchen | Win | B+R | 7.5 | 2995 | 32 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Fang Ruoxi | Hu Zihao | Lose | W+¼ | 7.5 | 2963 | -7 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Choi Jeong | Fang Ruoxi | Lose | B+R | 7.5 | 2970 | 3 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Wang Chuxuan | Fang Ruoxi | Lose | B+R | 7.5 | 2967 | 0 | 
@@ -73,9 +73,9 @@
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Li Xiaoxi | Fang Ruoxi | Win | W+R | 7.5 | 2733 | 2 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Wang Chenxing | Lose | W+R | 7.5 | 2731 | 17 | 
 | 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Chen Yiming | Win | B+1¾ | 7.5 | 2714 | -54 | 
-| 2020-09-11 | 第3回呉清源杯中国予選 | Gao Xing | Fang Ruoxi | Win | W+R | 7.5 | 2768 | 17 | 
-| 2020-09-10 | 第3回呉清源杯中国予選 | Fang Ruoxi | Chen Yiming | Lose | W+R | 7.5 | 2751 | -22 | 
-| 2020-09-09 | 第3回呉清源杯中国予選 | Li He | Fang Ruoxi | Win | W+R | 7.5 | 2773 | 20 | 
+| 2020-09-11 | 第3回呉清源杯中国予選 | Gao Xing | Fang Ruoxi | Win | W+R | 7.5 | 2768 | 16 | 
+| 2020-09-10 | 第3回呉清源杯中国予選 | Fang Ruoxi | Chen Yiming | Lose | W+R | 7.5 | 2752 | -22 | 
+| 2020-09-09 | 第3回呉清源杯中国予選 | Li He | Fang Ruoxi | Win | W+R | 7.5 | 2774 | 21 | 
 | 2020-09-08 | 第3回呉清源杯中国予選 | Fang Ruoxi | Tang Jiawen | Lose | W+R | 7.5 | 2753 | -21 | 
 | 2020-09-07 | 第3回呉清源杯中国予選 | Fang Ruoxi | Wang Shuang | Lose | W+R | 7.5 | 2774 | -41 | 
 | 2020-09-05 | 第3回呉清源杯中国予選 | Pan Yang | Fang Ruoxi | Lose | B+R | 7.5 | 2815 | -27 | 

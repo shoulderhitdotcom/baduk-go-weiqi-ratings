@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-29 | 第70期王座戦挑戦者決定戦  | Yu Zhengqi | Shibano Toramaru | Win | B+R | 6.5 | 3413 | -42 | 
-| 2022-08-11 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Lose | W+R | 6.5 | 3455 | -34 | 
+| 2022-08-29 | 第70期王座戦挑戦者決定戦  | Yu Zhengqi | Shibano Toramaru | Win | B+R | 6.5 | 3413 | -43 | 
+| 2022-08-11 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Lose | W+R | 6.5 | 3456 | -33 | 
 | 2022-08-04 | 第70期王座戦準決勝 | Yu Zhengqi | Anzai Nobuaki | Win | B+R | 6.5 | 3489 | -6 | 
 | 2022-07-21 | 第47期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3495 | 9 | 
 | 2022-07-07 | 第47期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3486 | 11 | 
@@ -27,8 +27,8 @@
 | 2022-04-04 | 第77期本因坊戦挑戦者決定プレーオフ  | Yu Zhengqi | Ichiriki Ryo | Lose | W+R | 6.5 | 3437 | 6 | 
 | 2022-03-31 | 第77期本因坊戦リーグ  | Shibano Toramaru | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3431 | -35 | 
 | 2022-03-23 | 第60期十段戦挑戦手合五番勝負第2局  | Yu Zhengqi | Hsu Chiayuan | Lose | W+R | 6.5 | 3466 | 23 | 
-| 2022-03-14 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3443 | 22 | 
-| 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | Win | B+R | 6.5 | 3421 | -12 | 
+| 2022-03-14 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3443 | 21 | 
+| 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | Win | B+R | 6.5 | 3422 | -11 | 
 | 2022-03-01 | 第60期十段戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3433 | -6 | 
 | 2022-02-24 | 第23回農心辛ラーメン杯世界囲碁最強戦第12戦  | Yu Zhengqi | Shin Jinseo | Lose | W+R | 6.5 | 3439 | 1 | 
 | 2022-02-15 | 第47期名人戦リーグ  | Yu Zhengqi | Ichiriki Ryo | Win | B+R | 6.5 | 3438 | 7 | 
@@ -39,8 +39,8 @@
 | 2022-01-10 | 第77期本因坊戦リーグ | Sada Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3405 | 41 | 
 | 2022-01-06 | 第60期十段戦3回戦 | So Yokoku | Yu Zhengqi | Win | W+R | 6.5 | 3364 | 2 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Win | W+R | 6.5 | 3362 | 23 | 
-| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3339 | -23 | 
-| 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3362 | 28 | 
+| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3339 | -24 | 
+| 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3363 | 29 | 
 | 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Win | B+R | 6.5 | 3334 | 0 | 
 | 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Win | B+R | 6.5 | 3334 | 32 | 
 | 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Win | B+R | 6.5 | 3302 | -9 | 

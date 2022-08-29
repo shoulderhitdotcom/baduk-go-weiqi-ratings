@@ -23,17 +23,17 @@
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+R | 7.5 | 3219 | -7 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | B+R | 7.5 | 3226 | -36 | 
 | 2022-03-11 | 第26期馬橋杯中国囲碁新人王戦準決勝 | Zhou Hongyu |  | Win | B+R | 7.5 | 3262 | 19 | 
-| 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Tang Jiawen | Zhou Hongyu | Win | W+R | 7.5 | 3243 | 11 | 
-| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Xu Yidi | Zhou Hongyu | Win | W+R | 7.5 | 3232 | 3 | 
-| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3229 | 15 | 
-| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Win | W+R | 6.5 | 3214 | 3 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3211 | -23 | 
+| 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Tang Jiawen | Zhou Hongyu | Win | W+R | 7.5 | 3243 | 10 | 
+| 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Xu Yidi | Zhou Hongyu | Win | W+R | 7.5 | 3233 | 3 | 
+| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3230 | 15 | 
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Win | W+R | 6.5 | 3215 | 3 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3212 | -22 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Win | W+6.5 | 6.5 | 3234 | 8 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3226 | 11 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Zhan Ying | Win | B+R | 7.5 | 3215 | 3 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3212 | 9 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3203 | 12 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3191 | -4 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3203 | 11 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3192 | -3 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Zhou Hongyu |  | Win | B+1¾ | 7.5 | 3195 | -8 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3203 | -11 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3214 | 17 | 

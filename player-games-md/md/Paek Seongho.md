@@ -11,8 +11,8 @@
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Paek Seongho | Win | W+R | 6.5 | 2504 | 73 | 
 | 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Seo Bongsoo | Paek Seongho | Lose | B+3.5 | 6.5 | 2431 | -24 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Paek Seongho | Jeong Daesang | Win | B+R | 6.5 | 2455 | 11 | 
-| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Lose | B+8.5 | 6.5 | 2444 | 35 | 
-| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Lose | W+R | 6.5 | 2409 | 5 | 
+| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Lose | B+8.5 | 6.5 | 2444 | 34 | 
+| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Lose | W+R | 6.5 | 2410 | 6 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | Jimmy Cha | Lose | W+4.5 | 6.5 | 2404 | -32 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | Lose | B+15.5 | 6.5 | 2436 | 114 | 
 | 2021-11-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Kim Dongmyeon | Win | B+R | 6.5 | 2322 | -124 | 
@@ -32,8 +32,8 @@
 | 2020-10-12 | 2020NHシニア囲碁リーグ第12節第1試合第1局 | Paek Seongho | Kim Chongsu | Lose | W+4.5 | 6.5 | 2152 | -28 | 
 | 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第3局 | Paek Seongho | Kim Kihun | Lose | W+0.5 | 6.5 | 2180 | -6 | 
 | 2020-09-23 | 2020NHシニア囲碁リーグ第10節第3試合第3局 | Chang Suyeong | Paek Seongho | Lose | B+15.5 | 6.5 | 2186 | 17 | 
-| 2020-09-15 | 2020NHシニア囲碁リーグ第9節第2試合第2局 | Kim Ilhwan | Paek Seongho | Lose | B+9.5 | 6.5 | 2169 | 3 | 
-| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第2試合第2局 | Paek Seongho | Seo Nungwuk | Lose | W+0.5 | 6.5 | 2166 | -32 | 
+| 2020-09-15 | 2020NHシニア囲碁リーグ第9節第2試合第2局 | Kim Ilhwan | Paek Seongho | Lose | B+9.5 | 6.5 | 2169 | 2 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第2試合第2局 | Paek Seongho | Seo Nungwuk | Lose | W+0.5 | 6.5 | 2167 | -31 | 
 | 2020-08-24 | 2020NHシニア囲碁リーグ第7節第1試合第2局 | An Kwanwuk | Paek Seongho | Win | W+4.5 | 6.5 | 2198 | 23 | 
 | 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第2局 | Paek Seongho | Cho Daehyeon | Win | B+R | 6.5 | 2175 | 9 | 
 | 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第2局 | Kang Hun | Paek Seongho | Lose | B+R | 6.5 | 2166 | 25 | 

@@ -15,8 +15,8 @@
 | 2022-04-02 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seungjun | Lose | B+R | 6.5 | 2720 | 0 | 
 | 2022-03-26 | 2021-2022フューチャーズリーグ | Kim Seungjun |  | Win | B+R | 6.5 | 2720 | 127 | 
 | 2022-03-23 | 2021-2022フューチャーズリーグ | Kim Seongji | Kim Seungjun | Lose | B+R | 6.5 | 2593 | -23 | 
-| 2022-03-13 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Changhoon | Lose | W+8.5 | 6.5 | 2616 | 13 | 
-| 2022-03-05 | 2021-2022フューチャーズリーグ | Kim Seungjun | Wi Taewoong | Lose | W+R | 6.5 | 2603 | -6 | 
+| 2022-03-13 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Changhoon | Lose | W+8.5 | 6.5 | 2616 | 12 | 
+| 2022-03-05 | 2021-2022フューチャーズリーグ | Kim Seungjun | Wi Taewoong | Lose | W+R | 6.5 | 2604 | -5 | 
 | 2022-03-01 | 2021-2022フューチャーズリーグ | Kim Seungjun | Hyun Yoobin | Lose | W+R | 6.5 | 2609 | 0 | 
 | 2022-02-28 | 2022YK建機杯予選 | Lee Jihyun | Kim Seungjun | Lose | B+3.5 | 6.5 | 2609 | -36 | 
 | 2022-02-27 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seungjun | Lose | B+3.5 | 6.5 | 2645 | -21 | 

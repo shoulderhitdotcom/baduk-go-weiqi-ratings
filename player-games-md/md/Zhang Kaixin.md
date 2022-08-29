@@ -42,8 +42,8 @@
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Lin Yuxiang | Zhang Kaixin | Win | W+R | 6.5 | 2341 | 63 | 
 | 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Zhang Kaixin | Lose | B+R | 6.5 | 2278 | -12 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Xiao Ailin | Zhang Kaixin | Win | W+R | 6.5 | 2290 | -238 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Zhang Kaixin |  | Win | B+6.5 | 6.5 | 2528 | 36 | 
-| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhang Kaixin | Lin Junyan | Lose | W+R | 6.5 | 2492 | 39 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Zhang Kaixin |  | Win | B+6.5 | 6.5 | 2528 | 35 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhang Kaixin | Lin Junyan | Lose | W+R | 6.5 | 2493 | 40 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Su Shengfang | Zhang Kaixin | Win | W+R | 6.5 | 2453 | -66 | 
 | 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Gao Yun | Zhang Kaixin | Win | W+4.5 | 6.5 | 2519 | 0 | 
 | 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Kaixin | Wang Yuanjun | Lose | W+R | 6.5 | 2519 | 0 | 

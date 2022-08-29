@@ -46,8 +46,8 @@
 | 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Lose | B+R | 6.5 | 3257 | -56 | 
 | 2020-07-30 | 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | Win | W+R | 6.5 | 3313 | 7 | 
 | 2020-07-13 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Onishi Ryuhei | Win | W+1.5 | 6.5 | 3306 | 26 | 
-| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3280 | 13 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 3267 | 63 | 
+| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3280 | 12 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 3268 | 64 | 
 | 2020-04-17 | 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | Win | W+0.5 | 6.5 | 3204 | 0 | 
 | 2020-04-17 | 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | Lose | W+0.5 | 6.5 | 3204 | -9 | 
 | 2020-04-07 | 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | Win | B+1.5 | 6.5 | 3213 | 18 | 

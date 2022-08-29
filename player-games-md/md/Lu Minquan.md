@@ -18,8 +18,8 @@
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Chen Yiming | Win | B+R | 7.5 | 3114 | 13 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Lu Minquan | Win | W+R | 7.5 | 3101 | 7 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Lose | W+R | 7.5 | 3094 | -11 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3105 | 10 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan | Hu Zihao | Lose | W+R | 7.5 | 3095 | 5 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3105 | 9 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan | Hu Zihao | Lose | W+R | 7.5 | 3096 | 6 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Wang Chuxuan | Lu Minquan | Win | W+R | 7.5 | 3090 | 22 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Fu Jianheng | Lu Minquan | Lose | B+¾ | 7.5 | 3068 | -3 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 |  | Lu Minquan | Win | W+R | 7.5 | 3071 | 18 | 
@@ -67,9 +67,9 @@
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Yu Zhiying | Lose | W+R | 7.5 | 2961 | 1 | 
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Hei Jiajia | Win | B+R | 7.5 | 2960 | 61 | 
 | 2020-09-17 | 第25回三星火災杯中国女子枠予選 | Lu Minquan | Zhou Hongyu | Lose | W+3.5 | 6.5 | 2899 | -4 | 
-| 2020-09-11 | 第3回呉清源杯中国予選 | Lu Minquan | Pan Yang | Win | B+R | 7.5 | 2903 | 10 | 
-| 2020-09-10 | 第3回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Win | W+R | 7.5 | 2893 | 9 | 
-| 2020-09-09 | 第3回呉清源杯中国予選 | Gao Xing | Lu Minquan | Win | W+R | 7.5 | 2884 | 10 | 
+| 2020-09-11 | 第3回呉清源杯中国予選 | Lu Minquan | Pan Yang | Win | B+R | 7.5 | 2903 | 9 | 
+| 2020-09-10 | 第3回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Win | W+R | 7.5 | 2894 | 9 | 
+| 2020-09-09 | 第3回呉清源杯中国予選 | Gao Xing | Lu Minquan | Win | W+R | 7.5 | 2885 | 11 | 
 | 2020-09-08 | 第3回呉清源杯中国予選 | Lu Minquan | Chen Yiming | Win | B+R | 7.5 | 2874 | 4 | 
 | 2020-09-07 | 第3回呉清源杯中国予選 | Li He | Lu Minquan | Win | W+R | 7.5 | 2870 | -9 | 
 | 2020-09-05 | 第3回呉清源杯中国予選 | Lu Minquan | Tang Jiawen | Win | B+R | 7.5 | 2879 | 16 | 

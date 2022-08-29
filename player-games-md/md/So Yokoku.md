@@ -13,8 +13,8 @@
 | 2022-06-13 | 第47期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | Lose | B+R | 6.5 | 3365 | 46 | 
 | 2022-06-02 | 第78期本因坊戦予選 | Takao Shinji | So Yokoku | Win | W+R | 6.5 | 3319 | 103 | 
 | 2022-05-26 | 第47期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | Win | W+0.5 | 6.5 | 3216 | 4 | 
-| 2022-04-28 | 第47期棋聖戦Aリーグ | So Yokoku | Hong Seokui | Win | B+R | 6.5 | 3212 | 73 | 
-| 2022-03-07 | 第47期棋聖戦Aリーグ | So Yokoku | Kono Rin | Lose | W+R | 6.5 | 3139 | -76 | 
+| 2022-04-28 | 第47期棋聖戦Aリーグ | So Yokoku | Hong Seokui | Win | B+R | 6.5 | 3212 | 72 | 
+| 2022-03-07 | 第47期棋聖戦Aリーグ | So Yokoku | Kono Rin | Lose | W+R | 6.5 | 3140 | -75 | 
 | 2022-02-24 | 第47期棋聖戦Aリーグ | Hane Naoki | So Yokoku | Win | W+R | 6.5 | 3215 | 124 | 
 | 2022-01-06 | 第60期十段戦3回戦 | So Yokoku | Yu Zhengqi | Lose | W+R | 6.5 | 3091 | 31 | 
 | 2021-11-04 | 第60期十段戦2回戦 | So Yokoku | Murakawa Daisuke | Win | B+1.5 | 6.5 | 3060 | 405 | 

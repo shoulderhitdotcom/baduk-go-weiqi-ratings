@@ -15,8 +15,8 @@
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Lose | B+R | 6.5 | 3473 | -8 | 
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Han Seungjoo | Lose | B+R | 6.5 | 3481 | -24 | 
 | 2022-03-19 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+5.5 | 6.5 | 3505 | 13 | 
-| 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Han Seungjoo | Win | W+R | 6.5 | 3492 | 24 | 
-| 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Lose | B+R | 6.5 | 3468 | -1 | 
+| 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Han Seungjoo | Win | W+R | 6.5 | 3492 | 23 | 
+| 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Lose | B+R | 6.5 | 3469 | 0 | 
 | 2022-02-24 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Win | B+R | 6.5 | 3469 | -4 | 
 | 2022-02-12 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Kim Jiseok | Han Seungjoo | Lose | B+R | 6.5 | 3473 | -17 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Lose | W+R | 6.5 | 3490 | 15 | 
@@ -33,9 +33,9 @@
 | 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Han Seungjoo | Win | W+R | 6.5 | 3407 | 16 | 
 | 2021-12-30 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Taehyun | Win | B+R | 6.5 | 3391 | 31 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Kim Jinhyu | Win | B+R | 6.5 | 3360 | 0 | 
-| 2021-12-19 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Win | B+R | 6.5 | 3360 | -7 | 
-| 2021-12-16 | 第5回クラウン・ヘテ杯1回戦 | Han Woojin | Han Seungjoo | Win | W+R | 6.5 | 3367 | 31 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Lose | B+R | 6.5 | 3336 | -31 | 
+| 2021-12-19 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Win | B+R | 6.5 | 3360 | -8 | 
+| 2021-12-16 | 第5回クラウン・ヘテ杯1回戦 | Han Woojin | Han Seungjoo | Win | W+R | 6.5 | 3368 | 31 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Lose | B+R | 6.5 | 3337 | -30 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Lose | B+R | 6.5 | 3367 | 35 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Win | B+R | 6.5 | 3332 | 0 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Win | W+2.5 | 6.5 | 3332 | -1 | 
@@ -62,8 +62,8 @@
 | 2021-03-06 | 第44期名人戦（韓国）1回戦 | Lee Changseok | Han Seungjoo | Lose | B+1.5 | 6.5 | 3238 | 9 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | Lose | B+R | 6.5 | 3229 | -31 | 
 | 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Yeonghun | Han Seungjoo | Win | W+R | 6.5 | 3260 | 15 | 
-| 2021-02-20 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Kang Seungmin | Win | B+R | 6.5 | 3245 | 72 | 
-| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Lose | B+R | 6.5 | 3173 | -10 | 
+| 2021-02-20 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Kang Seungmin | Win | B+R | 6.5 | 3245 | 71 | 
+| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Lose | B+R | 6.5 | 3174 | -9 | 
 | 2021-02-07 | 2020-2021韓国囲碁リーグ | Park Geunho | Han Seungjoo | Lose | B+R | 6.5 | 3183 | -60 | 
 | 2021-01-31 | 2020-2021韓国囲碁リーグ | Baek Chanhee | Han Seungjoo | Lose | B+2.5 | 6.5 | 3243 | -24 | 
 | 2021-01-21 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Wen Rubin | Win | B+R | 6.5 | 3267 | -46 | 

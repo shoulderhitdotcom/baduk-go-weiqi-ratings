@@ -8,8 +8,8 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-08-29 | 2022韓国シニア囲碁リーグ | Paek Seongho | Jimmy Cha | Lose | B+19.5 | 6.5 | 2590 | -14 | 
-| 2022-08-18 | 2022韓国シニア囲碁リーグ | Kang Hun | Jimmy Cha | Lose | B+1.5 | 6.5 | 2604 | 61 | 
-| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Win | W+3.5 | 6.5 | 2543 | 30 | 
+| 2022-08-18 | 2022韓国シニア囲碁リーグ | Kang Hun | Jimmy Cha | Lose | B+1.5 | 6.5 | 2604 | 60 | 
+| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Win | W+3.5 | 6.5 | 2544 | 31 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | Jimmy Cha | Win | W+4.5 | 6.5 | 2513 | 12 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Lose | B+9.5 | 6.5 | 2501 | -29 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Chuljung | Jimmy Cha | Win | W+3.5 | 6.5 | 2530 | 119 | 
@@ -32,8 +32,8 @@
 | 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第3局 | Cho Daehyeon | Jimmy Cha | Lose | B+1.5 | 6.5 | 2325 | -10 | 
 | 2020-10-06 | 2020NHシニア囲碁リーグ第11節第2試合第1局 | Jimmy Cha | Yoo Changhyuk | Lose | W+7.5 | 6.5 | 2335 | 13 | 
 | 2020-09-23 | 2020NHシニア囲碁リーグ第10節第3試合第1局 | Jimmy Cha |  | Win | B+0.5 | 6.5 | 2322 | 20 | 
-| 2020-09-17 | 2020NHシニア囲碁リーグ第9節第4試合第3局 | Jimmy Cha | Seo Nungwuk | Lose | W+R | 6.5 | 2302 | 25 | 
-| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第2局 | Kang Hun | Jimmy Cha | Win | W+0.5 | 6.5 | 2277 | 17 | 
+| 2020-09-17 | 2020NHシニア囲碁リーグ第9節第4試合第3局 | Jimmy Cha | Seo Nungwuk | Lose | W+R | 6.5 | 2302 | 24 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第2局 | Kang Hun | Jimmy Cha | Win | W+0.5 | 6.5 | 2278 | 18 | 
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第1局 | Kim Soojang | Jimmy Cha | Win | W+4.5 | 6.5 | 2260 | 20 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | Lose | B+R | 6.5 | 2240 | -9 | 
 | 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Lose | B+5.5 | 6.5 | 2249 | -23 | 

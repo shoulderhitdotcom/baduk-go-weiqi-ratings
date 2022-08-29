@@ -26,8 +26,8 @@
 | 2022-04-28 | 第47期棋聖戦Sリーグ | Takao Shinji | Iyama Yuta | Lose | B+R | 6.5 | 3528 | -52 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Kim Jiseok | Lose | W+R | 7.5 | 3580 | -7 | 
 | 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3587 | 3 | 
-| 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3584 | 4 | 
-| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3580 | 16 | 
+| 2022-03-11 | 第46期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3584 | 3 | 
+| 2022-03-04 | 第46期棋聖戦挑戦手合七番勝負第5局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3581 | 17 | 
 | 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Lose | W+R | 6.5 | 3564 | -15 | 
 | 2022-02-19 | 第46期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3579 | -2 | 
 | 2022-02-05 | 第46期棋聖戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3581 | -16 | 
@@ -59,8 +59,8 @@
 | 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3496 | 10 | 
 | 2021-08-20 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Adachi Toshimasa | Win | B+R | 6.5 | 3486 | 6 | 
 | 2021-08-17 | 第46期碁聖戦挑戦手合五番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3480 | -2 | 
-| 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3482 | 20 | 
-| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3462 | 15 | 
+| 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3482 | 19 | 
+| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3463 | 16 | 
 | 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3447 | -15 | 
 | 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3462 | -10 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3472 | 19 | 

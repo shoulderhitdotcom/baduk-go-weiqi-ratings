@@ -18,8 +18,8 @@
 | 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3377 | 9 | 
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3368 | -7 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Win | B+R | 6.5 | 3375 | 13 | 
-| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3362 | 77 | 
-| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Win | B+R | 6.5 | 3285 | 34 | 
+| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3362 | 76 | 
+| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Win | B+R | 6.5 | 3286 | 35 | 
 | 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Lose | W+R | 6.5 | 3251 | 2 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | Win | B+R | 6.5 | 3249 | 61 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Park Geunho | Lose | W+R | 6.5 | 3188 | -17 | 

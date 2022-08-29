@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-29 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Gueon Hyojin | Lose | B+R | 6.5 | 3000 | -31 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Tu Xiaoyu | Gueon Hyojin | Lose | B+R | 7.5 | 3031 | -45 | 
 | 2022-08-25 | 第27回三星火災杯韓国予選 | Choi Jeong | Gueon Hyojin | Lose | B+R | 6.5 | 3076 | 3 | 
 | 2022-08-24 | 第27回三星火災杯韓国予選 | Gueon Hyojin |  | Win | B+R | 6.5 | 3073 | 16 | 

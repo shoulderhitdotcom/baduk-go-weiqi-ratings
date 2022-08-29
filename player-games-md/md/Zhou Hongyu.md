@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-29 | 第27回三星火災杯中国予選 | Zhou Hongyu | Rui Naiwei | Lose | W+4.5 | 6.5 | 3241 | -24 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 |  | Zhou Hongyu | Lose | B+¾ | 7.5 | 3265 | 0 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Zhou Hongyu |  | Win | B+R | 7.5 | 3265 | 19 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Ueno Asami | Zhou Hongyu | Lose | B+R | 7.5 | 3246 | -24 | 

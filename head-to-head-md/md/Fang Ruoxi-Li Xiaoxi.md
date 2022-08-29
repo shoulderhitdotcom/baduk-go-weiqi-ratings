@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fang Ruoxi Vs Li Xiaoxi** | **Fang Ruoxi Streak** | **Li Xiaoxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | W+6.5 | 6.5 | 3:2 | 0 | 1 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Li Xiaoxi | B+R | 7.5 | 3:1 | 3 | 0 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Fang Ruoxi | Li Xiaoxi | B+R | 7.5 | 2:1 | 2 | 0 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Li Xiaoxi | Fang Ruoxi | W+R | 7.5 | 1:1 | 1 | 0 | 

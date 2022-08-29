@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Rui Naiwei Vs Zhou Hongyu** | **Rui Naiwei Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-29 | 第27回三星火災杯中国予選 | Zhou Hongyu | Rui Naiwei | W+4.5 | 6.5 | 6:2 | 1 | 0 | 
 | 2020-11-30 | 第3回呉清源杯世界女子囲碁選手権準決勝 | Zhou Hongyu | Rui Naiwei | B+R | 7.5 | 5:2 | 0 | 1 | 
 | 2019-11-11 | 第4回全国智力運動会プロ女子個人戦第5戦 | Zhou Hongyu | Rui Naiwei | W+R | 7.5 | 5:1 | 5 | 0 | 
 | 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Rui Naiwei | Zhou Hongyu | B+R | 7.5 | 4:1 | 4 | 0 | 

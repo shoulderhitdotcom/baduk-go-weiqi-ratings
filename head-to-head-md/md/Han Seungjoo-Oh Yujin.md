@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Seungjoo vs Oh Yujin** | **Han Seungjoo streak** | **Oh Yujin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Seungjoo Vs Oh Yujin** | **Han Seungjoo Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-11-10 | 2013年楽スターリーグ | Han Seungjoo | Oh Yujin | B+0.5 | 6.5 | 1:0 | 1 | 0 |
 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Myounghoon | Baek Hyeonwoo | Win | B+R | 6.5 | 3509 | 0 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Shi Yue | Kim Myounghoon | Lose | B+2¾ | 7.5 | 3509 | -1 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Kang Yootaek | Kim Myounghoon | Win | W+R | 6.5 | 3510 | 1 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Kim Myounghoon |  | Win | B+1¾ | 7.5 | 3509 | -19 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Zhao Chenyu | Kim Myounghoon | Lose | B+R | 6.5 | 3528 | -10 | 

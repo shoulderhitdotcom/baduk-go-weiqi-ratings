@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Han Seungjoo | Yoo Ohseong | Lose | W+4.5 | 6.5 | 3481 | -11 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Han Seungjoo | Kim Junghyun | Win | B+0.5 | 6.5 | 3492 | -26 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Han Seungjoo | Park Yeonghun | Win | B+R | 6.5 | 3518 | 36 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Han Seungjoo | Lose | B+R | 6.5 | 3482 | -11 | 

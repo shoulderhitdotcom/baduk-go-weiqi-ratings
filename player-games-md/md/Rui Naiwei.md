@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯中国予選 | Rui Naiwei | Li Xiaoxi | Win | B+0.5 | 6.5 | 2847 | 25 | 
 | 2022-08-29 | 第27回三星火災杯中国予選 | Zhou Hongyu | Rui Naiwei | Win | W+4.5 | 6.5 | 2822 | -12 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Rui Naiwei | Hei Jiajia | Lose | W+R | 7.5 | 2834 | -27 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Lose | B+R | 7.5 | 2861 | -7 | 

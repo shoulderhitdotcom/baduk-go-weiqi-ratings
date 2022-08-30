@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | W+R | 6.5 | 3067 | 27 | 
 | 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Lose | W+6.5 | 6.5 | 3040 | 20 | 
 | 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fang Ruoxi | Ding Shixiong | Lose | W+R | 7.5 | 3020 | -29 | 
 | 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Win | W+1.5 | 6.5 | 3049 | 11 | 

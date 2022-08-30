@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Seungjun | Lee Changho | Lose | W+R | 6.5 | 2821 | 12 | 
 | 2022-08-29 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Gueon Hyojin | Win | B+R | 6.5 | 2809 | 53 | 
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Kim Seungjun | Win | W+0.5 | 6.5 | 2756 | 20 | 
 | 2022-07-20 | 第45期名人戦（韓国）敗者組1回戦 | Kim Seungjun | Cho Wankyu | Lose | W+3.5 | 6.5 | 2736 | -20 | 

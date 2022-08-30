@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Eunji | Choi Jeong | Win | W+R | 6.5 | 3308 | 14 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Ko Yoonseo | Choi Jeong | Win | W+R | 6.5 | 3294 | -6 | 
 | 2022-08-26 | 第27回三星火災杯韓国予選 | Choi Jeong |  | Win | B+7.5 | 6.5 | 3300 | 1 | 
 | 2022-08-25 | 第27回三星火災杯韓国予選 | Choi Jeong | Gueon Hyojin | Win | B+R | 6.5 | 3299 | 11 | 

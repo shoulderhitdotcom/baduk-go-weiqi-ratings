@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Eunji | Choi Jeong | Lose | W+R | 6.5 | 3128 | 9 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Kim Eunji | Oh Yujin | Win | B+R | 6.5 | 3119 | 6 | 
 | 2022-08-26 | 第27回三星火災杯韓国予選 | Kim Eunji | Cho Hyeyeon | Win | B+R | 6.5 | 3113 | 8 | 
 | 2022-08-22 | 第27期女流国手戦1回戦 |  | Kim Eunji | Win | W+R | 6.5 | 3105 | -8 | 

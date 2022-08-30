@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Xiao Zhenghao** | **Lee Changseok streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Xiao Zhenghao** | **Lee Changseok Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Lee Changseok | Xiao Zhenghao | B+2.5 | 6.5 | 1:0 | 1 | 0 |
 

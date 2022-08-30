@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Lee Changho** | **Han Yizhou streak** | **Lee Changho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Lee Changho** | **Han Yizhou Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-18 | 金立杯2018中韓リーグ優勝チーム対抗戦第1戦 | Han Yizhou | Lee Changho | W+R | 7.5 | 0:1 | 0 | 1 |
 

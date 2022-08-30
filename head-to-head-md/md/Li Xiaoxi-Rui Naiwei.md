@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiaoxi Vs Rui Naiwei** | **Li Xiaoxi Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第27回三星火災杯中国予選 | Rui Naiwei | Li Xiaoxi | B+0.5 | 6.5 | 2:7 | 0 | 1 | 
 | 2022-03-25 | 第5回呉清源杯中国予選 | Li Xiaoxi | Rui Naiwei | B+1¾ | 7.5 | 2:6 | 1 | 0 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Li Xiaoxi | B+9¾ | 7.5 | 1:6 | 0 | 4 | 
 | 2021-08-17 | 第26回三星火災杯中国予選 | Li Xiaoxi | Rui Naiwei | W+3.5 | 6.5 | 1:5 | 0 | 3 | 

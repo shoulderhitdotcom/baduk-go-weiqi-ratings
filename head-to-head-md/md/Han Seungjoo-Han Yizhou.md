@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Seungjoo vs Han Yizhou** | **Han Seungjoo streak** | **Han Yizhou streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Seungjoo Vs Han Yizhou** | **Han Seungjoo Streak** | **Han Yizhou Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Han Seungjoo | Han Yizhou | W+R | 7.5 | 0:1 | 0 | 1 |
 

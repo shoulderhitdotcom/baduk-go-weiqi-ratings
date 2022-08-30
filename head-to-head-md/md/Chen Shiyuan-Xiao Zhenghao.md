@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Xiao Zhenghao** | **Chen Shiyuan Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | B+R | 6.5 | 44:23 | 1 | 0 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | B+R | 6.5 | 43:23 | 0 | 3 | 
 | 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | W+R | 6.5 | 43:22 | 0 | 2 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | W+R | 6.5 | 43:21 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Weon Seongjin vs Zhou Ruiyang** | **Weon Seongjin streak** | **Zhou Ruiyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Weon Seongjin Vs Zhou Ruiyang** | **Weon Seongjin Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Weon Seongjin | Zhou Ruiyang | B+R | 6.5 | 1:0 | 1 | 0 |
 

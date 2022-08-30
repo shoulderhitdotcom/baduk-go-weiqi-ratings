@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Rui Naiwei** | **Ke Jie streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Rui Naiwei** | **Ke Jie Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦E1 | Rui Naiwei | Ke Jie | W+R | 6.5 | 1:0 | 1 | 0 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Junyan vs Xia Chenkun** | **Lin Junyan streak** | **Xia Chenkun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Xia Chenkun** | **Lin Junyan Streak** | **Xia Chenkun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Xia Chenkun | Lin Junyan | B+8.5 | 6.5 | 0:1 | 0 | 1 |
 

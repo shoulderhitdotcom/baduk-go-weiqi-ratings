@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Xiao Zhenghao** | **Ke Jie streak** | **Xiao Zhenghao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Xiao Zhenghao** | **Ke Jie Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Ke Jie | Xiao Zhenghao | B+R | 6.5 | 1:0 | 1 | 0 |
 

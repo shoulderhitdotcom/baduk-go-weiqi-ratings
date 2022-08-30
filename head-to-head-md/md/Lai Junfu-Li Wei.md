@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Li Wei** | **Lai Junfu Streak** | **Li Wei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Li Wei | B+R | 6.5 | 5:2 | 2 | 0 | 
 | 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Lai Junfu | W+R | 6.5 | 4:2 | 1 | 0 | 
 | 2020-04-23 | 第10期友士杯十段戦敗部準決勝  | Lai Junfu | Li Wei | W+R | 6.5 | 3:2 | 0 | 2 | 
 | 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Li Wei | Lai Junfu | B+R | 7.5 | 3:1 | 0 | 1 | 

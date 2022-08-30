@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Tang Weixing** | **Byun Sangil Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Byun Sangil | Tang Weixing | B+2¾ | 7.5 | 2:0 | 2 | 0 | 
 | 2018-09-12 | 第20回中国囲碁甲級リーグ第16節天津-江西 | Tang Weixing | Byun Sangil | W+R | 7.5 | 1:0 | 1 | 0 |
 
 

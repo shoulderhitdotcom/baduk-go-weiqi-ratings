@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Junyan vs Wang Zejin** | **Lin Junyan streak** | **Wang Zejin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Wang Zejin** | **Lin Junyan Streak** | **Wang Zejin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Lin Junyan | Wang Zejin | W+R | 7.5 | 0:1 | 0 | 1 |
 

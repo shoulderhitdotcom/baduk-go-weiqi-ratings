@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Mi Yuting** | **Jiang Weijie Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | B+R | 7.5 | 7:9 | 0 | 3 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Mi Yuting | Jiang Weijie | B+R | 7.5 | 7:8 | 0 | 2 | 
 | 2021-10-12 | 第12期中国竜星戦Bブロック9回戦 | Jiang Weijie | Mi Yuting | W+R | 7.5 | 7:7 | 0 | 1 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Mi Yuting | Jiang Weijie | W+R | 7.5 | 7:6 | 4 | 0 | 

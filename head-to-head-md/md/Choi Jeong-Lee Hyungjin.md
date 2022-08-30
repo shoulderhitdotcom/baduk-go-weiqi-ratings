@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Lee Hyungjin** | **Choi Jeong streak** | **Lee Hyungjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Lee Hyungjin** | **Choi Jeong Streak** | **Lee Hyungjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2014-09-06 | 2014年フューチャーズリーグ | Lee Hyungjin | Choi Jeong | W+R | 6.5 | 1:0 | 1 | 0 |
 

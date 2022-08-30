@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jin Siyoung vs Shin Minjun** | **Jin Siyoung streak** | **Shin Minjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Siyoung Vs Shin Minjun** | **Jin Siyoung Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2017-07-06 | 2017年韓国囲碁リーグ | Shin Minjun | Jin Siyoung | B+R | 6.5 | 0:1 | 0 | 1 |
 
 

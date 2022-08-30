@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jin Siyoung vs Lee Jihyun** | **Jin Siyoung streak** | **Lee Jihyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Siyoung Vs Lee Jihyun** | **Jin Siyoung Streak** | **Lee Jihyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第4局 | Jin Siyoung | Lee Jihyun | W+R | 6.5 | 0:3 | 0 | 3 | 
 | 2014-08-31 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Jihyun | W+R | 6.5 | 0:2 | 0 | 2 | 

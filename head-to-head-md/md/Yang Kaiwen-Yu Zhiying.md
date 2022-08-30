@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yang Kaiwen vs Yu Zhiying** | **Yang Kaiwen streak** | **Yu Zhiying streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yang Kaiwen Vs Yu Zhiying** | **Yang Kaiwen Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | W+R | 7.5 | 2:1 | 1 | 0 | 
 | 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | W+0.5 | 7.5 | 1:1 | 0 | 1 | 

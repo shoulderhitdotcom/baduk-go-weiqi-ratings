@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第65期関西棋院第一位決定戦本戦1回戦 | Hoshikawa Koyo | Son Hideyo | B+R | 2020-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dg2Nk9EJxOYoKHkaV8wQNw%3D%3D) | 
 | 第45期名人戦予選B | Honda Kunihisa | Son Hideyo | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkoDh8hU9YM9o0WoxVekjQ%3D%3D) | 

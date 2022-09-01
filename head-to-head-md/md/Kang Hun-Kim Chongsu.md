@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Hun vs Kim Chongsu** | **Kang Hun streak** | **Kim Chongsu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Hun Vs Kim Chongsu** | **Kang Hun Streak** | **Kim Chongsu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-11-18 | 2019NHシニア囲碁リーグ第9節第1試合第3局 | Kim Chongsu | Kang Hun | B+4.5 | 6.5 | 2:3 | 0 | 1 | 
 | 2018-08-14 | 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Kim Chongsu | Kang Hun | W+3.5 | 6.5 | 2:2 | 1 | 0 | 

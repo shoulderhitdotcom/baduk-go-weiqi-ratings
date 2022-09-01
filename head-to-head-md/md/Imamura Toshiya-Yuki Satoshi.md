@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Imamura Toshiya Vs Yuki Satoshi** | **Imamura Toshiya Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-01 | 第48期名人戦予選 | Imamura Toshiya | Yuki Satoshi | B+R | 6.5 | 3:6 | 1 | 0 | 
 | 2015-08-27 | 第41期名人戦予選 | Yuki Satoshi | Imamura Toshiya | B+R | 6.5 | 2:6 | 0 | 5 | 
 | 2014-09-04 | 第58期関西棋院第一位決定戦本戦準決勝 | Yuki Satoshi | Imamura Toshiya | B+0.5 | 6.5 | 2:5 | 0 | 4 | 
 | 2012-10-04 | 第68期本因坊戦リーグ | Imamura Toshiya | Yuki Satoshi | W+R | 6.5 | 2:4 | 0 | 3 | 

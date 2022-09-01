@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kang Seungmin** | **Byun Sangil Streak** | **Kang Seungmin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-01 | 第45期名人戦（韓国）敗者組2回戦 | Byun Sangil | Kang Seungmin | B+R | 6.5 | 5:5 | 1 | 0 | 
 | 2022-02-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Byun Sangil | Kang Seungmin | W+R | 6.5 | 4:5 | 0 | 1 | 
 | 2021-04-06 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Seungmin | B+7.5 | 6.5 | 4:4 | 1 | 0 | 
 | 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第1局 | Kang Seungmin | Byun Sangil | B+R | 6.5 | 3:4 | 0 | 1 | 

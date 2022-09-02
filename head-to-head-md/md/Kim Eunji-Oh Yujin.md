@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunji Vs Oh Yujin** | **Kim Eunji Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-01 | 第8回韓国女子囲碁リーグ | Kim Eunji | Oh Yujin | B+R | 6.5 | 2:2 | 2 | 0 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Kim Eunji | Oh Yujin | B+R | 6.5 | 1:2 | 1 | 0 | 
 | 2020-08-08 | 第6回韓国女子囲碁リーグ第12節第3試合第3局 | Kim Eunji | Oh Yujin | W+R | 6.5 | 0:2 | 0 | 2 | 
 | 2020-06-19 | 第6回韓国女子囲碁リーグ第5節第2試合第3局 | Oh Yujin | Kim Eunji | B+R | 6.5 | 0:1 | 0 | 1 |

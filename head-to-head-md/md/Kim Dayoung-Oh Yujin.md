@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dayoung Vs Oh Yujin** | **Kim Dayoung Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第27期女流国手戦1回戦 | Oh Yujin | Kim Dayoung | W+0.5 | 6.5 | 5:8 | 1 | 0 | 
 | 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | W+R | 6.5 | 4:8 | 0 | 1 | 
 | 2022-02-16 | 第5期韓国竜星戦予選 | Oh Yujin | Kim Dayoung | W+0.5 | 6.5 | 4:7 | 1 | 0 | 
 | 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | W+R | 6.5 | 3:7 | 0 | 5 | 

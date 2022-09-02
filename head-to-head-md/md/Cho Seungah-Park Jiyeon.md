@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Seungah Vs Park Jiyeon** | **Cho Seungah Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-10 | 第27期女流国手戦1回戦 | Cho Seungah | Park Jiyeon | B+R | 6.5 | 8:2 | 2 | 0 | 
 | 2022-06-03 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Seungah | W+R | 6.5 | 7:2 | 1 | 0 | 
 | 2022-05-03 | 2022年アジア競技大会韓国予選 | Cho Seungah | Park Jiyeon | W+R | 7.5 | 6:2 | 0 | 1 | 
 | 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | W+R | 7.5 | 6:1 | 4 | 0 | 

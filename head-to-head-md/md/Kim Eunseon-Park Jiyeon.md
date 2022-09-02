@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Eunseon vs Park Jiyeon** | **Kim Eunseon streak** | **Park Jiyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Eunseon Vs Park Jiyeon** | **Kim Eunseon Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-04-27 | 3期韓国女子連戦13回戦京畿湖畔-扶安 | Park Jiyeon | Kim Eunseon | W+R | 6.5 | 3:3 | 1 | 0 | 
 | 2016-04-22 | 第2回韓国女子囲碁リーグ第11節 | Kim Eunseon | Park Jiyeon | W+R | 6.5 | 2:3 | 0 | 1 | 

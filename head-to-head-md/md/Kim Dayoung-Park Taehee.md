@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Dayoung vs Park Taehee** | **Kim Dayoung streak** | **Park Taehee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dayoung Vs Park Taehee** | **Kim Dayoung Streak** | **Park Taehee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-24 | 第25期女流国手戦16強戦 | Kim Dayoung | Park Taehee | B+R | 6.5 | 3:3 | 1 | 0 | 
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第3試合第2局 | Park Taehee | Kim Dayoung | B+3.5 | 6.5 | 2:3 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-02 | 第27回三星火災杯中国予選 | Wu Yiming | Li Xiaoxi | Win | B+R | 6.5 | 3032 | 13 | 
 | 2022-09-01 | 第27回三星火災杯中国予選 | Tang Jiawen | Wu Yiming | Win | W+R | 6.5 | 3019 | 12 | 
 | 2022-08-30 | 第27回三星火災杯中国予選 | Wu Yiming | Yu Zhiying | Lose | W+R | 6.5 | 3007 | 2 | 
 | 2022-08-29 | 第27回三星火災杯中国予選 | Lu Minquan | Wu Yiming | Win | W+R | 6.5 | 3005 | 36 | 

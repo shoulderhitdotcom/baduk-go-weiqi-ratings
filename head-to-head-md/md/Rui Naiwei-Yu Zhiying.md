@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Rui Naiwei Vs Yu Zhiying** | **Rui Naiwei Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-02 | 第27回三星火災杯中国予選 | Rui Naiwei | Yu Zhiying | W+8.5 | 6.5 | 8:8 | 0 | 4 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | B+R | 7.5 | 8:7 | 0 | 3 | 
 | 2019-11-27 | 第7回中国女子囲碁甲級リーグ第18節 | Rui Naiwei | Yu Zhiying | W+R | 7.5 | 8:6 | 0 | 2 | 
 | 2019-11-15 | 第4回全国智力運動会女子団体戦第3戦 | Yu Zhiying | Rui Naiwei | B+R | 7.5 | 8:5 | 0 | 1 | 

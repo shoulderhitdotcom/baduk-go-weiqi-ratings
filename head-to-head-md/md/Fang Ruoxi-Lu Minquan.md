@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fang Ruoxi Vs Lu Minquan** | **Fang Ruoxi Streak** | **Lu Minquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-02 | 第27回三星火災杯中国予選 | Lu Minquan | Fang Ruoxi | B+R | 6.5 | 2:5 | 0 | 3 | 
 | 2020-09-04 | 第3回呉清源杯中国予選 | Fang Ruoxi | Lu Minquan | W+R | 7.5 | 2:4 | 0 | 2 | 
 | 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Fang Ruoxi | Lu Minquan | W+R | 7.5 | 2:3 | 0 | 1 | 
 | 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 | Lu Minquan | Fang Ruoxi | W+R | 7.5 | 2:2 | 2 | 0 | 

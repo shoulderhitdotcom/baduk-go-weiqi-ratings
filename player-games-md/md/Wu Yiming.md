@@ -26,11 +26,11 @@
 | 2022-05-25 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第4戦 | Wu Yiming | Heo Seohyun | Win | B+R | 6.5 | 2852 | 23 | 
 | 2022-05-24 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第3戦  | Wu Yiming | Suzuki Ayumi | Win | B+11.5 | 6.5 | 2829 | 14 | 
 | 2022-05-23 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第2戦 | Wu Yiming | Lee Suljoo | Win | B+R | 6.5 | 2815 | 13 | 
-| 2022-05-22 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第1戦  | Nakamura Sumire | Wu Yiming | Win | W+R | 6.5 | 2802 | 14 | 
-| 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Win | W+R | 7.5 | 2788 | 31 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Li He | Lose | W+R | 7.5 | 2757 | 0 | 
-| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Lose | W+R | 7.5 | 2757 | -14 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Wu Yiming | Lu Minquan | Lose | W+R | 7.5 | 2771 | 7 | 
+| 2022-05-22 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第1戦  | Nakamura Sumire | Wu Yiming | Win | W+R | 6.5 | 2802 | 13 | 
+| 2022-04-22 | 2022年アジア競技大会中国予選 | Lu Minquan | Wu Yiming | Win | W+R | 7.5 | 2789 | 31 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Li He | Lose | W+R | 7.5 | 2758 | 0 | 
+| 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Lose | W+R | 7.5 | 2758 | -14 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Wu Yiming | Lu Minquan | Lose | W+R | 7.5 | 2772 | 8 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Chen Yiming | Wu Yiming | Win | W+R | 7.5 | 2764 | 0 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Wu Yiming | Wang Chenxing | Win | B+R | 7.5 | 2764 | -28 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Wang Chenxing | Wu Yiming | Win | W+R | 7.5 | 2792 | -13 | 
@@ -52,14 +52,14 @@
 | 2021-08-25 | 第12期中国竜星戦予選 | Wu Yiming | Yin Qu | Lose | W+R | 7.5 | 2803 | -17 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 | Li Xiaoxi | Wu Yiming | Lose | B+R | 6.5 | 2820 | -3 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Wang Chenxing | Wu Yiming | Win | W+R | 6.5 | 2823 | -41 | 
-| 2021-06-10 | 第4回呉清源杯中国予選 | Chen Yiming | Wu Yiming | Lose | B+R | 7.5 | 2864 | -8 | 
-| 2021-06-04 | 第4回呉清源杯中国予選 | Wu Yiming | Tang Jiawen | Lose | W+¼ | 7.5 | 2872 | -7 | 
-| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Lose | B+¾ | 7.5 | 2879 | -25 | 
-| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Wu Yiming | Lose | B+R | 7.5 | 2904 | -24 | 
-| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Cai Bihan | Wu Yiming | Win | W+¼ | 7.5 | 2928 | 11 | 
-| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wu Yiming | Rui Naiwei | Lose | W+R | 7.5 | 2917 | -2 | 
-| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Li Xinyi | Wu Yiming | Lose | B+R | 7.5 | 2919 | -17 | 
-| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wu Yiming | Zhang Zhihan | Win | B+R | 7.5 | 2936 | 109 | 
+| 2021-06-10 | 第4回呉清源杯中国予選 | Chen Yiming | Wu Yiming | Lose | B+R | 7.5 | 2864 | -9 | 
+| 2021-06-04 | 第4回呉清源杯中国予選 | Wu Yiming | Tang Jiawen | Lose | W+¼ | 7.5 | 2873 | -6 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Lose | B+¾ | 7.5 | 2879 | -26 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Wu Yiming | Lose | B+R | 7.5 | 2905 | -24 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Cai Bihan | Wu Yiming | Win | W+¼ | 7.5 | 2929 | 11 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wu Yiming | Rui Naiwei | Lose | W+R | 7.5 | 2918 | -2 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Li Xinyi | Wu Yiming | Lose | B+R | 7.5 | 2920 | -17 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wu Yiming | Zhang Zhihan | Win | B+R | 7.5 | 2937 | 110 | 
 | 2021-04-12 | 2021博思軟件杯中国囲碁新秀争覇戦予選 | Wang Shuo | Wu Yiming | Lose | B+2¾ | 7.5 | 2827 | -6 | 
 | 2021-04-05 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Wu Yiming |  | Lose | W+R | 7.5 | 2833 | -1 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Li Xiaoxi | Wu Yiming | Lose | B+1¾ | 7.5 | 2834 | -29 | 
@@ -69,9 +69,9 @@
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Wu Yiming | Cai Bihan | Lose | W+R | 7.5 | 2861 | -3 | 
 | 2021-03-28 | 第8回中国女子囲碁甲級リーグ | Tang Jiawen | Wu Yiming | Win | W+R | 7.5 | 2864 | 31 | 
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Wang Yubo | Wu Yiming | Lose | B+¾ | 7.5 | 2833 | -34 | 
-| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Lu Jia | Wu Yiming | Win | W+1¼ | 7.5 | 2867 | 140 | 
-| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Wu Yiming | Jeong Yujin | Lose | W+R | 7.5 | 2727 | -97 | 
-| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  |  | Wu Yiming | Win | W+R | 7.5 | 2824 | -12 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Lu Jia | Wu Yiming | Win | W+1¼ | 7.5 | 2867 | 139 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Wu Yiming | Jeong Yujin | Lose | W+R | 7.5 | 2728 | -97 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  |  | Wu Yiming | Win | W+R | 7.5 | 2825 | -11 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Wu Yiming | Li Xiaoxi | Lose | W+R | 7.5 | 2836 | -18 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ |  | Wu Yiming | Win | W+¼ | 7.5 | 2854 | 33 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Wu Yiming | Zhou Hongyu | Lose | W+R | 7.5 | 2821 | 26 | 

@@ -10,10 +10,10 @@
 | 2022-09-02 | 第8回健喬杯女子囲碁最強戦勝部決勝  | Lu Yuhua | Yang Zixuan | Win | W+R | 6.5 | 2689 | -33 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Yang Zixuan | Li Wei | Lose | W+R | 6.5 | 2722 | 30 | 
 | 2022-06-20 | 2022新人王戦（台湾）1回戦 | Yu Binghuang | Yang Zixuan | Win | W+5¼ | 7.5 | 2692 | 8 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Lose | B+R | 6.5 | 2684 | -3 | 
-| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 7.5 | 2687 | 4 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Chen Weiting | Yang Zixuan | Win | W+R | 6.5 | 2683 | 9 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Yang Zixuan |  | Lose | W+R | 6.5 | 2674 | 59 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Lose | B+R | 6.5 | 2684 | -4 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 7.5 | 2688 | 4 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Chen Weiting | Yang Zixuan | Win | W+R | 6.5 | 2684 | 9 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Yang Zixuan |  | Lose | W+R | 6.5 | 2675 | 60 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Jian Jingting | Yang Zixuan | Lose | B+R | 6.5 | 2615 | 1 | 
 | 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2614 | 40 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Hei Jiajia | Yang Zixuan | Win | W+R | 6.5 | 2574 | -16 | 
@@ -45,8 +45,8 @@
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan |  | Win | B+T | 6.5 | 2714 | -30 | 
 | 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 | Yang Zixuan | Su Shengfang | Lose | W+R | 6.5 | 2744 | -11 | 
 | 2021-05-28 | 第4回呉清源杯台湾予選 | Yang Zixuan | Lu Yuhua | Lose | W+R | 7.5 | 2755 | 0 | 
-| 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Win | W+R | 7.5 | 2755 | -11 | 
-| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2766 | 9 | 
+| 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Win | W+R | 7.5 | 2755 | -12 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2767 | 10 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan |  | Win | B+R | 6.5 | 2757 | 18 | 
 | 2021-05-05 | 第8回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | 2739 | -10 | 
 | 2021-04-28 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Haohong | Win | B+R | 6.5 | 2749 | 0 | 
@@ -89,9 +89,9 @@
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Yang Zixuan | Yu Lijun | Win | B+R | 7.5 | 2725 | 5 | 
 | 2020-03-16 | 第10期友士杯十段戦予選敗部1回戦 | Huang Xiangren | Yang Zixuan | Win | W+0.5 | 6.5 | 2720 | 0 | 
 | 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Yang Zixuan | Yang Bowei | Lose | W+R | 6.5 | 2720 | 8 | 
-| 2020-03-01 | 第7回グロービス杯台湾予選 | Chen Weiting | Yang Zixuan | Lose | B+R | 6.5 | 2712 | -53 | 
-| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Gao Yun | Yang Zixuan | Win | W+R | 6.5 | 2765 | 9 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Yang Zixuan | Lose | B+0.5 | 6.5 | 2756 | -32 | 
+| 2020-03-01 | 第7回グロービス杯台湾予選 | Chen Weiting | Yang Zixuan | Lose | B+R | 6.5 | 2712 | -54 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Gao Yun | Yang Zixuan | Win | W+R | 6.5 | 2766 | 9 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Yang Zixuan | Lose | B+0.5 | 6.5 | 2757 | -31 | 
 | 2020-01-30 | 第17期倡棋杯台湾代表選抜戦 | Yang Zixuan | Lin Jiehan | Lose | W+R | 7.5 | 2788 | -17 | 
 | 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 |  | Yang Zixuan | Win | W+R | 7.5 | 2805 | 20 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 |  | Yang Zixuan | Win | W+R | 6.5 | 2785 | 0 | 

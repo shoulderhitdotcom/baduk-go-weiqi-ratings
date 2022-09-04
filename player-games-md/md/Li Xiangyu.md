@@ -7,19 +7,20 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Li Xiangyu | Lose | B+R | 7.5 | 3298 | 16 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Xiangyu | Win | W+¼ | 7.5 | 3282 | -10 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Li Xiangyu | He Yuhan | Win | B+¾ | 7.5 | 3339 | 40 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Li Xiangyu | Lose | B+R | 7.5 | 3299 | 16 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Xiangyu | Win | W+¼ | 7.5 | 3283 | -9 | 
 | 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Li Xiangyu | Chen Xian | Win | B+R | 7.5 | 3292 | 59 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Li Xiangyu | Win | W+¼ | 7.5 | 3233 | 99 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Haoxin | Lose | W+R | 7.5 | 3134 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Li Xiangyu | Lose | B+R | 7.5 | 3134 | 0 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhang Tao | Li Xiangyu | Lose | B+R | 7.5 | 3134 | -11 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Yaoye | Lose | W+R | 7.5 | 3145 | -12 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Chengsen | Li Xiangyu | Win | W+R | 7.5 | 3157 | -81 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Win | B+R | 7.5 | 3238 | -96 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Lose | W+¾ | 7.5 | 3334 | -5 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Lose | B+R | 7.5 | 3339 | -28 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Lose | B+R | 7.5 | 3367 | -38 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Li Xiangyu | Win | W+¼ | 7.5 | 3233 | 98 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Haoxin | Lose | W+R | 7.5 | 3135 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Li Xiangyu | Lose | B+R | 7.5 | 3135 | 0 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhang Tao | Li Xiangyu | Lose | B+R | 7.5 | 3135 | -11 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Yaoye | Lose | W+R | 7.5 | 3146 | -12 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Chengsen | Li Xiangyu | Win | W+R | 7.5 | 3158 | -80 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Win | B+R | 7.5 | 3238 | -97 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Lose | W+¾ | 7.5 | 3335 | -5 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Lose | B+R | 7.5 | 3340 | -28 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Lose | B+R | 7.5 | 3368 | -37 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Lose | B+R | 7.5 | 3405 | 14 | 
 | 2021-08-25 | 第12期中国竜星戦予選 |  | Li Xiangyu | Win | W+¼ | 7.5 | 3391 | 85 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Jin Yucheng | Lose | W+R | 7.5 | 3306 | -6 | 

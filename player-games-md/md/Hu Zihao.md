@@ -7,17 +7,19 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Hu Zihao | Park Junghwan | Lose | W+R | 7.5 | 3344 | 22 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Hu Zihao | Yi Lingtao | Win | B+R | 7.5 | 3322 | 51 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Win | W+R | 7.5 | 3271 | 62 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Weiqing | Hu Zihao | Lose | B+R | 7.5 | 3209 | 0 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Lose | B+R | 7.5 | 3209 | -24 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Haotong | Hu Zihao | Lose | B+R | 7.5 | 3233 | -138 | 
-| 2022-07-15 | 2021中国囲碁乙級リーグ | Hu Zihao | Kang Seungmin | Win | B+R | 7.5 | 3371 | 114 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Huang Mingyu | Hu Zihao | Lose | B+R | 7.5 | 3315 | 0 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Hu Zihao |  | Lose | W+R | 7.5 | 3315 | -30 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Hu Zihao | Park Junghwan | Lose | W+R | 7.5 | 3345 | 22 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Hu Zihao | Yi Lingtao | Win | B+R | 7.5 | 3323 | 52 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Win | W+R | 7.5 | 3271 | 61 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Weiqing | Hu Zihao | Lose | B+R | 7.5 | 3210 | 0 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Lose | B+R | 7.5 | 3210 | -24 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Haotong | Hu Zihao | Lose | B+R | 7.5 | 3234 | -138 | 
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Hu Zihao | Kang Seungmin | Win | B+R | 7.5 | 3372 | 115 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Hu Zihao | Tang Jiawen | Lose | W+R | 7.5 | 3257 | -55 | 
 | 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Hu Zihao | Win | W+R | 7.5 | 3312 | 33 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan | Hu Zihao | Win | W+R | 7.5 | 3279 | 33 | 
-| 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Fang Ruoxi | Hu Zihao | Win | W+¼ | 7.5 | 3246 | 25 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan | Hu Zihao | Win | W+R | 7.5 | 3279 | 32 | 
+| 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Fang Ruoxi | Hu Zihao | Win | W+¼ | 7.5 | 3247 | 26 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Li He | Hu Zihao | Win | W+¼ | 7.5 | 3221 | 22 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Hu Zihao | Tang Jiawen | Win | B+R | 7.5 | 3199 | 46 | 
 | 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Hu Zihao | Yu Zhiying | Win | B+R | 7.5 | 3153 | 111 | 

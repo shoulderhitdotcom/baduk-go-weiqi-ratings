@@ -7,23 +7,25 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Ke Jie | Lose | W+R | 7.5 | 3333 | -77 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Chen Haoxin | Lose | B+R | 7.5 | 3410 | -3 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Chen Haoxin | Lose | B+R | 7.5 | 3413 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Haoxin | Win | W+R | 7.5 | 3413 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ |  | Chen Haoxin | Win | W+R | 7.5 | 3413 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Shixiong | Chen Haoxin | Win | W+R | 7.5 | 3413 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Chen Xian | Lose | W+R | 7.5 | 3410 | -84 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin |  | Win | B+¾ | 7.5 | 3312 | 0 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Li Zerui | Chen Haoxin | Win | W+¼ | 7.5 | 3312 | -22 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Ke Jie | Lose | W+R | 7.5 | 3334 | -76 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Chen Haoxin | Lose | B+R | 7.5 | 3410 | -4 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Chen Haoxin | Lose | B+R | 7.5 | 3414 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Chen Haoxin | Win | W+R | 7.5 | 3414 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ |  | Chen Haoxin | Win | W+R | 7.5 | 3414 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Shixiong | Chen Haoxin | Win | W+R | 7.5 | 3414 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Chen Xian | Lose | W+R | 7.5 | 3411 | -83 | 
 | 2022-07-28 | 2022博思軟件杯中国囲碁新秀争覇戦2回戦 | Chen Haoxin |  | Win | B+R | 7.5 | 3494 | 0 | 
 | 2022-07-27 | 2022博思軟件杯中国囲碁新秀争覇戦1回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3494 | 87 | 
 | 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Fu Jianheng | Chen Haoxin | Lose | B+¾ | 7.5 | 3407 | -30 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3437 | 2 | 
-| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3435 | -21 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Chen Haoxin | Liu Qifeng | Lose | W+R | 7.5 | 3456 | -47 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Lose | W+R | 7.5 | 3503 | -27 | 
+| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3435 | -22 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Chen Haoxin | Liu Qifeng | Lose | W+R | 7.5 | 3457 | -47 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Lose | W+R | 7.5 | 3504 | -26 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Haoxin | Chen Xian | Win | B+R | 7.5 | 3530 | 98 | 
-| 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Lose | W+R | 7.5 | 3432 | -15 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Win | W+¼ | 7.5 | 3447 | 24 | 
+| 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Lose | W+R | 7.5 | 3432 | -16 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Win | W+¼ | 7.5 | 3448 | 25 | 
 | 2021-09-15 | 第12期中国竜星戦Bブロック5回戦 | Chen Haoxin | Zhang Tao | Lose | W+R | 7.5 | 3423 | -30 | 
 | 2021-09-14 | 第12期中国竜星戦Bブロック4回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3453 | 0 | 
 | 2021-09-14 | 第12期中国竜星戦Bブロック3回戦 | Zhou Hongyu | Chen Haoxin | Win | W+R | 7.5 | 3453 | 47 | 

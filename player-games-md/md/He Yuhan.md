@@ -7,22 +7,23 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | He Yuhan | Peng Liyao | Lose | W+R | 7.5 | 3321 | 20 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | He Yuhan | Win | W+R | 7.5 | 3301 | 36 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Li Xiangyu | He Yuhan | Lose | B+¾ | 7.5 | 3290 | -32 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | He Yuhan | Peng Liyao | Lose | W+R | 7.5 | 3322 | 20 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | He Yuhan | Win | W+R | 7.5 | 3302 | 37 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Tang Weixing | Lose | W+R | 7.5 | 3265 | -20 | 
 | 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Fan Tingyu | Win | B+R | 7.5 | 3285 | 70 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Win | W+R | 7.5 | 3215 | 126 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Lose | B+R | 7.5 | 3089 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Lose | W+R | 7.5 | 3089 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | He Yuhan | Lian Xiao | Lose | W+¼ | 7.5 | 3089 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | B+R | 7.5 | 3089 | -10 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Lose | W+¼ | 7.5 | 3099 | -10 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Lose | B+R | 7.5 | 3109 | -216 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Win | W+R | 7.5 | 3215 | 125 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Lose | B+R | 7.5 | 3090 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Lose | W+R | 7.5 | 3090 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | He Yuhan | Lian Xiao | Lose | W+¼ | 7.5 | 3090 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | B+R | 7.5 | 3090 | -10 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Lose | W+¼ | 7.5 | 3100 | -10 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Lose | B+R | 7.5 | 3110 | -215 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | He Yuhan | Kim Jiseok | Lose | W+R | 7.5 | 3325 | 31 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Chunhui | He Yuhan | Win | W+R | 7.5 | 3294 | 10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Zheng Xu | He Yuhan | Win | W+R | 7.5 | 3284 | 2 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Win | W+R | 7.5 | 3282 | 29 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Lose | W+1¼ | 7.5 | 3253 | -95 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Win | W+R | 7.5 | 3282 | 28 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Lose | W+1¼ | 7.5 | 3254 | -94 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Lose | B+R | 7.5 | 3348 | 17 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Lose | W+¼ | 7.5 | 3331 | -5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Lose | W+R | 7.5 | 3336 | -5 | 

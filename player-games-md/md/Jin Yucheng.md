@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3361 | -6 | 
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Jin Yucheng |  | Win | B+3¾ | 7.5 | 3367 | -43 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Zejin | Jin Yucheng | Lose | B+1¾ | 7.5 | 3410 | -20 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 | Jin Yucheng | Wang Xinghao | Lose | W+R | 7.5 | 3430 | 0 | 

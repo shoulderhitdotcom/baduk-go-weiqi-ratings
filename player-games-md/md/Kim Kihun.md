@@ -7,24 +7,25 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-30 | 2022韓国シニア囲碁リーグ | Jeong Suhyeon | Kim Kihun | Win | W+R | 6.5 | 2531 | 43 | 
+| 2022-09-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Win | B+0.5 | 6.5 | 2585 | 53 | 
+| 2022-08-30 | 2022韓国シニア囲碁リーグ | Jeong Suhyeon | Kim Kihun | Win | W+R | 6.5 | 2532 | 44 | 
 | 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Kihun | Kim JongJoon | Lose | W+8.5 | 6.5 | 2488 | 8 | 
-| 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Choi Kyubyeong | Kim Kihun | Lose | B+R | 6.5 | 2480 | -86 | 
-| 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Lose | W+4.5 | 6.5 | 2566 | 39 | 
-| 2021-11-24 | 2021韓国シニア囲碁リーグ | Kim Kihun |  | Win | B+0.5 | 6.5 | 2527 | 11 | 
-| 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Lose | W+0.5 | 6.5 | 2516 | -37 | 
+| 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Choi Kyubyeong | Kim Kihun | Lose | B+R | 6.5 | 2480 | -87 | 
+| 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Lose | W+4.5 | 6.5 | 2567 | 40 | 
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Kim Kihun |  | Win | B+0.5 | 6.5 | 2527 | 10 | 
+| 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Lose | W+0.5 | 6.5 | 2517 | -36 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Win | B+5.5 | 6.5 | 2553 | 38 | 
 | 2021-10-28 | 2021韓国シニア囲碁リーグ | Kim Kihun | Park Yeongchan | Win | B+2.5 | 6.5 | 2515 | -67 | 
 | 2021-10-21 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Kihun | Lose | B+7.5 | 6.5 | 2582 | 13 | 
 | 2021-10-11 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Lose | W+8.5 | 6.5 | 2569 | -36 | 
-| 2021-10-04 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chuljung | Win | B+9.5 | 6.5 | 2605 | 4 | 
-| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Kihun | Seo Nungwuk | Lose | W+R | 6.5 | 2601 | -24 | 
-| 2021-09-14 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Kihun | Lose | B+2.5 | 6.5 | 2625 | -41 | 
-| 2021-09-09 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Win | B+6.5 | 6.5 | 2666 | 86 | 
+| 2021-10-04 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chuljung | Win | B+9.5 | 6.5 | 2605 | 3 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Kihun | Seo Nungwuk | Lose | W+R | 6.5 | 2602 | -23 | 
+| 2021-09-14 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Kihun | Lose | B+2.5 | 6.5 | 2625 | -42 | 
+| 2021-09-09 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Win | B+6.5 | 6.5 | 2667 | 87 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chongsu | Lose | W+6.5 | 6.5 | 2580 | -14 | 
-| 2021-08-16 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Soojang | Win | B+15.5 | 6.5 | 2594 | 23 | 
-| 2021-08-12 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Lose | W+8.5 | 6.5 | 2571 | 23 | 
-| 2021-08-05 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Kihun | Lose | B+R | 6.5 | 2548 | -80 | 
+| 2021-08-16 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Soojang | Win | B+15.5 | 6.5 | 2594 | 22 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Lose | W+8.5 | 6.5 | 2572 | 23 | 
+| 2021-08-05 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Kihun | Lose | B+R | 6.5 | 2549 | -79 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第3戦 | Kim Kihun | Kang Dajeong | Lose | W+R | 6.5 | 2628 | 0 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Kim Kihun |  | Win | B+F | 6.5 | 2628 | 35 | 
 | 2021-03-06 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Kim Kihun | Kang Dajeong | Win | B+5.5 | 6.5 | 2593 | 199 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Chen Yunong | Lose | W+R | 7.5 | 3342 | 0 | 
+| 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Jin Yucheng | Chen Haoxin | Win | W+R | 7.5 | 3342 | 30 | 
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin |  | Win | B+¾ | 7.5 | 3312 | 0 | 
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Li Zerui | Chen Haoxin | Win | W+¼ | 7.5 | 3312 | -22 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Ke Jie | Lose | W+R | 7.5 | 3334 | -76 | 

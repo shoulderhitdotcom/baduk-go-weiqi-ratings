@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Shin Minjun** | **Byun Sangil Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-05 | 第45期名人戦（韓国）敗者組3回戦 | Shin Minjun | Byun Sangil | B+R | 6.5 | 10:4 | 0 | 1 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Minjun | Byun Sangil | W+R | 6.5 | 10:3 | 1 | 0 | 
 | 2022-03-17 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Shin Minjun | W+R | 6.5 | 9:3 | 0 | 1 | 
 | 2021-06-15 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Shin Minjun | B+R | 6.5 | 9:2 | 4 | 0 | 

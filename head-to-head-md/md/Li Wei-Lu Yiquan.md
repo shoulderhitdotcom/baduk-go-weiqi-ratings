@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Lu Yiquan** | **Li Wei Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Li Wei | Lu Yiquan | B+R | 6.5 | 5:3 | 1 | 0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Lu Yiquan | Li Wei | B+R | 7.5 | 4:3 | 0 | 3 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Li Wei | Lu Yiquan | W+R | 6.5 | 4:2 | 0 | 2 | 
 | 2021-08-13 | 第2期聯電杯プロ囲碁戦敗部4回戦 | Li Wei | Lu Yiquan | W+R | 6.5 | 4:1 | 0 | 1 | 

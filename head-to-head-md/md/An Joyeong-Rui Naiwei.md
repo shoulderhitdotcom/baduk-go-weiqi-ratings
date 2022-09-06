@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Joyeong vs Rui Naiwei** | **An Joyeong streak** | **Rui Naiwei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Joyeong Vs Rui Naiwei** | **An Joyeong Streak** | **Rui Naiwei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-10-20 | 第12回マキシムコーヒー杯入神最強戦予選 | An Joyeong | Rui Naiwei | W+R | 6.5 | 3:2 | 0 | 1 | 
 | 2007-09-19 | 第9回マキシムコーヒー杯入神最強戦2回戦 | Rui Naiwei | An Joyeong | W+R | 6.5 | 3:1 | 3 | 0 | 

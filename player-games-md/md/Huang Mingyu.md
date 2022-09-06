@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Huang Mingyu | Win | W+1¼ | 7.5 | 3385 | 25 | 
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Huang Mingyu | Hu Zihao | Win | B+R | 7.5 | 3360 | 59 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Li Xiangyu | Lose | W+¼ | 7.5 | 3301 | -40 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Huang Mingyu | Lose | B+R | 7.5 | 3341 | 14 | 

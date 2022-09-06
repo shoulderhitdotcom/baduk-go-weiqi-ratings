@@ -7,23 +7,24 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-08-29 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Chanwu | Lose | W+R | 6.5 | 2552 | 7 | 
+| 2022-09-06 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Ilhwan | Lose | W+R | 6.5 | 2538 | -15 | 
+| 2022-08-29 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Chanwu | Lose | W+R | 6.5 | 2553 | 8 | 
 | 2022-08-18 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Chang Suyeong | Win | B+R | 6.5 | 2545 | 171 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Paek Seongho | Jeong Daesang | Lose | B+R | 6.5 | 2374 | -54 | 
 | 2022-03-13 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Jeong Daesang | Kim Eunseon | Lose | W+R | 6.5 | 2428 | -22 | 
 | 2022-03-12 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Jeong Daesang | Kim Eunseon | Lose | W+10.5 | 6.5 | 2450 | 226 | 
-| 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Win | B+R | 6.5 | 2224 | -11 | 
-| 2021-11-17 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Win | B+R | 6.5 | 2235 | 135 | 
+| 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Win | B+R | 6.5 | 2224 | -12 | 
+| 2021-11-17 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Win | B+R | 6.5 | 2236 | 136 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Jeong Daesang | Lose | B+R | 6.5 | 2100 | -44 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jeong Daesang | An Kwanwuk | Win | B+R | 6.5 | 2144 | 257 | 
 | 2021-10-19 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim JongJoon | Win | B+15.5 | 6.5 | 1887 | -122 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ |  | Jeong Daesang | Win | W+6.5 | 6.5 | 2009 | -34 | 
-| 2021-10-07 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Lose | W+5.5 | 6.5 | 2043 | 300 | 
-| 2021-09-27 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chuljung | Win | B+R | 6.5 | 1743 | -349 | 
+| 2021-10-07 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Lose | W+5.5 | 6.5 | 2043 | 299 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chuljung | Win | B+R | 6.5 | 1744 | -348 | 
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Lose | W+7.5 | 6.5 | 2092 | 6 | 
 | 2021-09-06 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Hwang Weonjun | Lose | W+13.5 | 6.5 | 2086 | -37 | 
-| 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Lose | W+R | 6.5 | 2123 | -129 | 
-| 2021-08-10 | 2021韓国シニア囲碁リーグ | Jeong Daesang |  | Lose | W+R | 6.5 | 2252 | -52 | 
+| 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Lose | W+R | 6.5 | 2123 | -130 | 
+| 2021-08-10 | 2021韓国シニア囲碁リーグ | Jeong Daesang |  | Lose | W+R | 6.5 | 2253 | -51 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jeong Daesang | Lose | B+R | 6.5 | 2304 | -116 | 
 | 2021-07-05 | 第15回GGオークション杯予選 | Jeong Daesang | Choi Kyubyeong | Lose | W+R | 6.5 | 2420 | 284 | 
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第1局 | Park Yeongchan | Jeong Daesang | Lose | B+10.5 | 6.5 | 2136 | -24 | 

@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-02 | 第27回三星火災杯中国予選 | Wu Yiming | Li Xiaoxi | Lose | B+R | 6.5 | 2776 | -10 | 
-| 2022-08-30 | 第27回三星火災杯中国予選 | Rui Naiwei | Li Xiaoxi | Lose | B+0.5 | 6.5 | 2786 | -7 | 
-| 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Win | W+6.5 | 6.5 | 2793 | 54 | 
+| 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Rui Naiwei | Li Xiaoxi | Lose | B+R | 7.5 | 2760 | -17 | 
+| 2022-09-02 | 第27回三星火災杯中国予選 | Wu Yiming | Li Xiaoxi | Lose | B+R | 6.5 | 2777 | -10 | 
+| 2022-08-30 | 第27回三星火災杯中国予選 | Rui Naiwei | Li Xiaoxi | Lose | B+0.5 | 6.5 | 2787 | -7 | 
+| 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Win | W+6.5 | 6.5 | 2794 | 55 | 
 | 2022-08-16 | 2021中国女子囲碁乙級リーグ | Fan Weijing | Li Xiaoxi | Win | W+R | 7.5 | 2739 | 16 | 
 | 2022-08-14 | 2021中国女子囲碁乙級リーグ |  | Li Xiaoxi | Win | W+R | 7.5 | 2723 | -6 | 
 | 2022-08-12 | 2021中国女子囲碁乙級リーグ | Li Xiaoxi | Bai Xinhui | Win | B+R | 7.5 | 2729 | 19 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Chen Yunong | Jiang Qirun | Lose | W+¼ | 7.5 | 3445 | -29 | 
 | 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Chen Yunong | Win | W+R | 7.5 | 3474 | 21 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Yunong | Gu Lingyi | Win | B+R | 7.5 | 3453 | 31 | 
 | 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fan Yin | Chen Yunong | Lose | B+R | 7.5 | 3422 | -16 | 

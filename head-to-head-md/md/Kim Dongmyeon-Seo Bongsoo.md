@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Dongmyeon vs Seo Bongsoo** | **Kim Dongmyeon streak** | **Seo Bongsoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dongmyeon Vs Seo Bongsoo** | **Kim Dongmyeon Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-09 | 2019NHシニア囲碁リーグ第13節第1試合第3局 | Kim Dongmyeon | Seo Bongsoo | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2018-06-26 | 第3回韓国シニア囲碁リーグ第4節霊岩-尚州 | Seo Bongsoo | Kim Dongmyeon | B+R | 6.5 | 0:4 | 0 | 4 | 

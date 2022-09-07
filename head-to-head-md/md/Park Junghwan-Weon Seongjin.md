@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Weon Seongjin** | **Park Junghwan Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第45期名人戦（韓国）3回戦 | Weon Seongjin | Park Junghwan | W+R | 6.5 | 12:6 | 4 | 0 | 
 | 2022-06-13 | 2022YK建機杯リーグ | Park Junghwan | Weon Seongjin | B+R | 6.5 | 11:6 | 3 | 0 | 
 | 2022-05-12 | 2021-2022韓国囲碁リーグ優勝決定戦第4戦 | Weon Seongjin | Park Junghwan | W+R | 6.5 | 10:6 | 2 | 0 | 
 | 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | W+R | 6.5 | 9:6 | 1 | 0 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Li Wei | Xiao Zhenghao | Win | W+R | 6.5 | 3051 | -6 | 
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xiao Zhenghao | Lose | B+R | 6.5 | 3057 | 19 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Xiao Zhenghao | Ding Shaojie | Win | B+R | 6.5 | 3038 | 1 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Win | B+R | 6.5 | 3037 | -19 | 
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | B+R | 6.5 | 3056 | -51 | 

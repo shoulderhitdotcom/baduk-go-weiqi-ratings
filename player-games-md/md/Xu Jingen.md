@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Lai Junfu | Xu Jingen | Win | W+R | 6.5 | 3059 | 15 | 
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Xu Jingen | Win | W+R | 6.5 | 3044 | 14 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 3030 | 0 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Xu Jingen | Lin Shuyang | Win | B+R | 6.5 | 3030 | -2 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Chen Shiyuan | Win | B+R | 6.5 | 3032 | -4 | 

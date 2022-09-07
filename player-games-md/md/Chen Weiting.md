@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 |  | Chen Weiting | Lose | B+R | 6.5 | 2765 | -19 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Yang Zixuan | Chen Weiting | Win | W+R | 6.5 | 2784 | -3 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Chen Weiting | Zhang Zhehao | Lose | W+2.5 | 6.5 | 2787 | -14 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Lu Yuhua | Chen Weiting | Win | W+R | 6.5 | 2801 | 3 | 

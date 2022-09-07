@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Dongmyeon | Lose | W+4.5 | 6.5 | 3325 | -23 | 
 | 2022-09-06 | 第45期名人戦（韓国）敗者組3回戦 | Lee Jihyun | An Joyeong | Win | B+R | 6.5 | 3348 | 13 | 
 | 2022-09-02 | 第45期名人戦（韓国）敗者組2回戦 | Shen Zaiyi | Lee Jihyun | Win | W+R | 6.5 | 3335 | 18 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Lee Jihyun |  | Win | B+1¾ | 7.5 | 3317 | -5 | 

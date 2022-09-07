@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 徐奉洙の熱血挑戦第1局 | Kim Jiseok | Seo Bongsoo | Lose | B+R | 6.5 | 2902 | 25 | 
 | 2022-09-06 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Gueon Hyojin | Win | B+3.5 | 6.5 | 2877 | 31 | 
 | 2022-08-31 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | Lose | B+R | 6.5 | 2846 | 5 | 
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Kim Seungjun | Lose | W+0.5 | 6.5 | 2841 | 0 | 

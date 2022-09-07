@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Shen Peiran | Lose | W+R | 7.5 | 3314 | 0 | 
+| 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Liu Yuhang | Chen Haoxin | Win | W+R | 7.5 | 3314 | 5 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Huang Mingyu | Lose | W+1¼ | 7.5 | 3309 | 0 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Jiang Qirun | Chen Haoxin | Lose | B+2¼ | 7.5 | 3309 | -33 | 
 | 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Chen Yunong | Lose | W+R | 7.5 | 3342 | 0 | 

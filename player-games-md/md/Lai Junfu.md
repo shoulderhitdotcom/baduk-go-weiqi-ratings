@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Lai Junfu | Xu Jingen | Lose | W+R | 6.5 | 3181 | -10 | 
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xiao Zhenghao | Win | B+R | 6.5 | 3191 | -8 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 |  | Lai Junfu | Win | W+4.5 | 6.5 | 3199 | -1 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xu Haohong | Lose | W+R | 6.5 | 3200 | -14 | 
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Li Wei | Win | B+R | 6.5 | 3214 | 11 | 

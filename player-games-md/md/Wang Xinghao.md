@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3627 | -23 | 
 | 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3650 | 25 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Liu Zhaozhe | Win | B+R | 7.5 | 3625 | 4 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 | Jin Yucheng | Wang Xinghao | Win | W+R | 7.5 | 3621 | 0 | 

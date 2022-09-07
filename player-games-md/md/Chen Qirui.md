@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Chen Qirui | Huang Shiyuan | Win | B+R | 6.5 | 3119 | -10 | 
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Chen Qirui | Lose | B+R | 6.5 | 3129 | -12 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Chen Qirui | Cai Chengwei | Win | B+R | 6.5 | 3141 | -1 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Lose | B+R | 6.5 | 3142 | -7 | 
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3149 | 6 | 

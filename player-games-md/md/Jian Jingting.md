@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Su Shengfang | Jian Jingting | Win | W+T | 6.5 | 2944 | 8 | 
+| 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Win | W+R | 6.5 | 2936 | -7 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Jian Jingting |  | Win | B+R | 6.5 | 2943 | -83 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Xi | Jian Jingting | Win | W+R | 6.5 | 3026 | 0 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Jian Jingting | Xu Jingen | Lose | W+R | 6.5 | 3026 | -5 | 

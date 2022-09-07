@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Chen Qirui | Huang Shiyuan | Lose | B+R | 6.5 | 2775 | -10 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2785 | 20 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2765 | 12 | 
 | 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Huang Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2753 | 3 | 

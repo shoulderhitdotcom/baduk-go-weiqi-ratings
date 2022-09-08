@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Suzuki Shinji** | **Fujisawa Rina streak** | **Suzuki Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Suzuki Shinji** | **Fujisawa Rina Streak** | **Suzuki Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-06-01 | 第42期新人王戦　準々決勝 | Suzuki Shinji | Fujisawa Rina | W+R | 6.5 | 2:1 | 2 | 0 | 
 | 2013-03-07 | 第69期本因坊戦予選 | Fujisawa Rina | Suzuki Shinji | B+R | 6.5 | 1:1 | 1 | 0 | 

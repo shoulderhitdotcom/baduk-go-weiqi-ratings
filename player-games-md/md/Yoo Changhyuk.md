@@ -7,14 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-08 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Seungjun | Lose | W+4.5 | 6.5 | 2989 | -31 | 
 | 2022-08-31 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | Win | B+R | 6.5 | 3020 | 14 | 
 | 2022-08-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Yoo Changhyuk | Win | W+R | 6.5 | 3006 | -17 | 
 | 2022-07-26 | 第16回GGオークション杯女流対シニア連勝対抗戦第14局 | Yoo Changhyuk | Kim Eunji | Lose | W+7.5 | 6.5 | 3023 | -14 | 
-| 2022-07-25 | 第16回GGオークション杯女流対シニア連勝対抗戦第13局 | Cho Seungah | Yoo Changhyuk | Win | W+R | 6.5 | 3037 | 37 | 
-| 2022-06-22 | 2022年1004島新安国際シニア囲碁大会準決勝 |  | Yoo Changhyuk | Win | W+R | 6.5 | 3000 | 0 | 
-| 2022-06-22 | 2022年1004島新安国際シニア囲碁大会決勝  | O Meien | Yoo Changhyuk | Win | W+R | 6.5 | 3000 | 51 | 
-| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Yoo Changhyuk | Win | W+3.5 | 6.5 | 2949 | 0 | 
-| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Yoo Changhyuk | O Rissei | Win | B+11.5 | 6.5 | 2949 | 134 | 
+| 2022-07-25 | 第16回GGオークション杯女流対シニア連勝対抗戦第13局 | Cho Seungah | Yoo Changhyuk | Win | W+R | 6.5 | 3037 | 36 | 
+| 2022-06-22 | 2022年1004島新安国際シニア囲碁大会準決勝 |  | Yoo Changhyuk | Win | W+R | 6.5 | 3001 | 0 | 
+| 2022-06-22 | 2022年1004島新安国際シニア囲碁大会決勝  | O Meien | Yoo Changhyuk | Win | W+R | 6.5 | 3001 | 51 | 
+| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Yoo Changhyuk | Win | W+3.5 | 6.5 | 2950 | 0 | 
+| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Yoo Changhyuk | O Rissei | Win | B+11.5 | 6.5 | 2950 | 135 | 
 | 2022-05-17 | 第16回GGオークション杯予選 | Lee Yongchan | Yoo Changhyuk | Win | W+R | 6.5 | 2815 | -70 | 
 | 2022-03-04 | 第9回大舟杯プロシニア最強者戦1回戦 | Yoo Changhyuk | Park Jiyeon | Lose | W+0.5 | 6.5 | 2885 | -52 | 
 | 2022-03-02 | 第5期韓国竜星戦1回戦 | Kim Myounghoon | Yoo Changhyuk | Lose | B+R | 6.5 | 2937 | 8 | 
@@ -42,8 +43,8 @@
 | 2021-08-12 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Win | W+8.5 | 6.5 | 2988 | 12 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Win | W+R | 6.5 | 2976 | -30 | 
 | 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Lose | W+R | 6.5 | 3006 | -72 | 
-| 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Lose | B+2.5 | 6.5 | 3078 | 78 | 
-| 2021-04-07 | 第8回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Yoo Changhyuk | Win | W+R | 6.5 | 3000 | 60 | 
+| 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Lose | B+2.5 | 6.5 | 3078 | 77 | 
+| 2021-04-07 | 第8回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Yoo Changhyuk | Win | W+R | 6.5 | 3001 | 61 | 
 | 2021-03-24 | 第8回大舟杯プロシニア最強者戦2回戦 | Gueon Hyojin | Yoo Changhyuk | Win | W+R | 6.5 | 2940 | 63 | 
 | 2021-03-04 | 第8回大舟杯プロシニア最強者戦1回戦 | Kim Miri | Yoo Changhyuk | Win | W+R | 6.5 | 2877 | 121 | 
 | 2021-01-25 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Yoo Changhyuk | Na Hyun | Lose | W+R | 6.5 | 2756 | 20 | 
@@ -64,8 +65,8 @@
 | 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第1局 | Kim Soojang | Yoo Changhyuk | Win | W+R | 6.5 | 2668 | 38 | 
 | 2020-07-23 | 2020NHシニア囲碁リーグ第2節第4試合第1局 | Kim Chongsu | Yoo Changhyuk | Win | W+R | 6.5 | 2630 | -221 | 
 | 2020-07-14 | 2020NHシニア囲碁リーグ第1節第2試合第1局 | Seo Bongsoo | Yoo Changhyuk | Win | W+R | 6.5 | 2851 | -245 | 
-| 2020-04-13 | 第25回LG杯韓国予選 | Yoo Changhyuk |  | Lose | W+R | 6.5 | 3096 | 6 | 
-| 2020-03-26 | 第7回大舟杯プロシニア最強者戦準決勝 | Cho Hyeyeon | Yoo Changhyuk | Lose | B+R | 6.5 | 3090 | -11 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Yoo Changhyuk |  | Lose | W+R | 6.5 | 3096 | 5 | 
+| 2020-03-26 | 第7回大舟杯プロシニア最強者戦準決勝 | Cho Hyeyeon | Yoo Changhyuk | Lose | B+R | 6.5 | 3091 | -10 | 
 | 2020-03-13 | 第7回大舟杯プロシニア最強者戦8強戦 | Choi Kyubyeong | Yoo Changhyuk | Win | W+1.5 | 6.5 | 3101 | 41 | 
 | 2020-02-21 | 第7回大舟杯プロシニア最強者戦16強戦 | Yoo Changhyuk | Yang Jaeho | Win | B+R | 6.5 | 3060 | -11 | 
 | 2020-02-03 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Park Jinsol | Yoo Changhyuk | Lose | B+R | 6.5 | 3071 | missing |

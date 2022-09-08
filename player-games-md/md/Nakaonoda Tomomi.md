@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第76期本因坊戦予選 | Nakaonoda Tomomi | Ueno Asami | W+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4fWjAinemDhZXISBpbFkuA%3D%3D) | 
 | 第45期棋聖戦ファーストトーナメント予選 | missing | Nakaonoda Tomomi | W+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3C8plnmXBULq4hbS6Z7nig%3D%3D) | 

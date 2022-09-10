@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Shi Yue** | **Chen Xian Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Xian | Shi Yue | W+R | 7.5 | 1:6 | 0 | 3 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | W+R | 7.5 | 1:5 | 0 | 2 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | W+R | 7.5 | 1:4 | 0 | 1 | 
 | 2021-03-11 | 第35期中国囲碁天元戦予選 | Chen Xian | Shi Yue | B+R | 7.5 | 1:3 | 1 | 0 | 

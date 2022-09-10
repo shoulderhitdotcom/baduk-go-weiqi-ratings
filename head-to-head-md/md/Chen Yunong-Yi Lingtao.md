@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yunong Vs Yi Lingtao** | **Chen Yunong Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yunong | Yi Lingtao | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yi Lingtao | Chen Yunong | B+1¾ | 7.5 | 0:2 | 0 | 2 | 
 | 2015-07-25 | 2015年中国段位戦 | Yi Lingtao | Chen Yunong | B+R | 7.5 | 0:1 | 0 | 1 |
 

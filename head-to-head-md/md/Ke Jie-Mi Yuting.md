@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Mi Yuting** | **Ke Jie Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Ke Jie | Mi Yuting | B+R | 7.5 | 10:7 | 1 | 0 | 
 | 2022-03-02 | 第36期中国囲碁天元戦決勝 | Ke Jie | Mi Yuting | W+R | 7.5 | 9:7 | 0 | 2 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Ke Jie | B+R | 7.5 | 9:6 | 0 | 1 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Ke Jie | W+R | 7.5 | 9:5 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Peng Liyao Vs Tong Mengcheng** | **Peng Liyao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Peng Liyao | B+R | 7.5 | 4:6 | 0 | 3 | 
 | 2022-02-14 | 第36期中国囲碁天元戦予選 | Tong Mengcheng | Peng Liyao | B+1¾ | 7.5 | 4:5 | 0 | 2 | 
 | 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Peng Liyao | Tong Mengcheng | W+R | 7.5 | 4:4 | 0 | 1 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Tong Mengcheng | Peng Liyao | W+R | 7.5 | 4:3 | 1 | 0 | 

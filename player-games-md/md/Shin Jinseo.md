@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Xie Erhao | Shin Jinseo | Lose | B+R | 7.5 | 3850 | 0 | 
 | 2022-09-08 | 第45期名人戦（韓国）3回戦 | Shin Jinseo | Kim Jiseok | Win | B+R | 6.5 | 3850 | 0 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Win | W+R | 7.5 | 3850 | 0 | 
 | 2022-08-22 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3850 | 0 | 

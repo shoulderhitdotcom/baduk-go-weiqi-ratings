@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Li Weiqing** | **Jiang Weijie Streak** | **Li Weiqing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Jiang Weijie | W+R | 7.5 | 3:3 | 1 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Li Weiqing | W+R | 7.5 | 2:3 | 0 | 1 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Li Weiqing | B+R | 7.5 | 2:2 | 1 | 0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節（再対局） | Jiang Weijie | Li Weiqing | W+R | 7.5 | 1:2 | 0 | 2 | 

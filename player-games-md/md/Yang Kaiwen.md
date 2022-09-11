@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Gu Lingyi | Win | B+R | 7.5 | 3518 | 9 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Win | W+R | 7.5 | 3509 | 40 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3469 | 4 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Yang Kaiwen | Lose | B+R | 7.5 | 3465 | -60 | 

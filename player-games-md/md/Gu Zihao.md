@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Gu Zihao | Win | W+R | 7.5 | 3626 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Lose | W+R | 7.5 | 3619 | 7 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Gu Zihao | Lose | B+R | 7.5 | 3612 | -6 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Gu Zihao | Chen Yaoye | Win | B+R | 7.5 | 3618 | -18 | 

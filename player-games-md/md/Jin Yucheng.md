@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Tao | Jin Yucheng | Lose | B+¾ | 7.5 | 3373 | -8 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Xu Haohong | Win | B+¾ | 7.5 | 3381 | 18 | 
 | 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3363 | -6 | 
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Jin Yucheng |  | Win | B+3¾ | 7.5 | 3369 | -43 | 

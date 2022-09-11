@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Xian | Win | W+R | 7.5 | 3434 | -16 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3450 | 25 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Win | W+R | 7.5 | 3425 | -7 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Xian | Liao Yuanhe | Win | B+R | 7.5 | 3432 | -8 | 

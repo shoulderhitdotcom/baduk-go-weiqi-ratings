@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Mi Yuting | Wang Shuo | Win | B+R | 7.5 | 3674 | 5 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Ke Jie | Mi Yuting | Lose | B+R | 7.5 | 3669 | 10 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | Win | B+R | 7.5 | 3659 | 0 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Win | W+R | 7.5 | 3659 | -10 | 

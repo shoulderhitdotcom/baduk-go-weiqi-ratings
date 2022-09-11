@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Tao | Jin Yucheng | Win | B+¾ | 7.5 | 3521 | 8 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Lose | W+R | 7.5 | 3513 | -34 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Win | B+R | 7.5 | 3547 | -22 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Zhang Tao | Win | W+R | 7.5 | 3569 | 29 | 

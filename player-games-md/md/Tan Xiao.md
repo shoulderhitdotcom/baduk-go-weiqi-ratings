@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Tan Xiao | Xia Chenkun | Lose | W+R | 7.5 | 3499 | -7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Han Yizhou | Tan Xiao | Win | W+R | 7.5 | 3506 | 24 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zejin | Tan Xiao | Lose | B+¾ | 7.5 | 3482 | -19 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tan Xiao | Wang Shuo | Win | B+R | 7.5 | 3501 | 24 | 

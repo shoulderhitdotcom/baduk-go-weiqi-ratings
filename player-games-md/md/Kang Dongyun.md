@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Li Qincheng | Win | B+R | 7.5 | 3538 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xia Chenkun | Lose | W+R | 7.5 | 3531 | 3 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Lose | B+R | 7.5 | 3528 | -21 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Weon Seongjin | Kang Dongyun | Lose | B+R | 6.5 | 3549 | 0 | 

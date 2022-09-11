@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Han Yizhou | Win | W+R | 7.5 | 3356 | 25 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Han Yizhou | Tan Xiao | Lose | W+R | 7.5 | 3331 | 39 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Lose | W+R | 7.5 | 3292 | -26 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Shen Peiran | Han Yizhou | Win | W+R | 7.5 | 3318 | -54 | 

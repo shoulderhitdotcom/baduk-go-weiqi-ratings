@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Gu Zihao | Lose | W+R | 7.5 | 3205 | -7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Liu Zhaozhe | Lose | B+R | 7.5 | 3212 | -53 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Liu Zhaozhe | Lose | B+R | 7.5 | 3265 | 24 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Tuo Jiaxi | Lose | W+R | 7.5 | 3241 | -66 | 

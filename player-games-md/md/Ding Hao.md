@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Xu Jiayang | Lose | W+R | 7.5 | 3667 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Mao Ruilong | Win | B+R | 7.5 | 3660 | 15 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Lose | W+R | 7.5 | 3645 | -16 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Ding Hao | Win | W+R | 7.5 | 3661 | -20 | 

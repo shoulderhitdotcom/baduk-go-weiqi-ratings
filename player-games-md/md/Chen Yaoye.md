@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Chen Yaoye | Win | W+R | 7.5 | 3536 | 24 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Byun Sangil | Lose | W+R | 7.5 | 3512 | 7 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Gu Zihao | Chen Yaoye | Lose | B+R | 7.5 | 3505 | -30 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Win | W+R | 7.5 | 3535 | 92 | 

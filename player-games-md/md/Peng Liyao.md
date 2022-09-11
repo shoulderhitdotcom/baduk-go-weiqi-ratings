@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Peng Liyao | Wang Shiyi | Win | B+R | 7.5 | 3568 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Peng Liyao | Lose | B+R | 7.5 | 3561 | 2 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | He Yuhan | Peng Liyao | Win | W+R | 7.5 | 3559 | 3 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Win | B+R | 7.5 | 3556 | -35 | 

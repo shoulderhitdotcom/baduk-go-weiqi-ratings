@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Chen Yaoye | Lose | W+R | 7.5 | 3527 | -11 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Zejin | Win | B+R | 7.5 | 3538 | 26 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Chunhui | Win | B+R | 7.5 | 3512 | -4 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Lian Xiao | Shi Yue | Win | B+R | 7.5 | 3516 | 11 | 

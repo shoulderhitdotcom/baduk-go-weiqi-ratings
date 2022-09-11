@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Peng Liyao | Wang Shiyi | Lose | B+R | 7.5 | 3144 | -6 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Yang Dingxin | Lose | W+R | 7.5 | 3150 | 10 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Li Weiqing | Wang Shiyi | Lose | B+R | 7.5 | 3140 | -31 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Jiang Qirun | Lose | W+R | 7.5 | 3171 | -7 | 

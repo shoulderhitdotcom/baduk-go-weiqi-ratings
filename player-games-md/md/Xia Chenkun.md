@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Tan Xiao | Xia Chenkun | Win | W+R | 7.5 | 3392 | 24 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xia Chenkun | Win | W+R | 7.5 | 3368 | 35 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Huang Xin | Xia Chenkun | Win | W+R | 7.5 | 3333 | 13 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Xia Chenkun | Lose | B+1¾ | 7.5 | 3320 | -19 | 

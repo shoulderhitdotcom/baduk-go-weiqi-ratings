@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Xu Jiayang | Win | W+R | 7.5 | 3553 | 21 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Win | W+R | 7.5 | 3532 | 38 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Xie Erhao | Xu Jiayang | Win | W+¾ | 7.5 | 3494 | 5 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xu Jiayang | Jiang Weijie | Lose | W+R | 7.5 | 3489 | -19 | 

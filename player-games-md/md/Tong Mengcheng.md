@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Byun Sangil | Tong Mengcheng | Lose | B+R | 7.5 | 3448 | -17 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Peng Liyao | Win | B+R | 7.5 | 3465 | 61 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Tang Weixing | Lose | W+R | 7.5 | 3404 | -28 | 
 | 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tong Mengcheng | Chen Yunong | Lose | W+R | 7.5 | 3432 | -4 | 

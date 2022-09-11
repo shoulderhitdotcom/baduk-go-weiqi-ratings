@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Li Qincheng | Lose | B+R | 7.5 | 3558 | -18 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Win | B+R | 7.5 | 3576 | 24 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Ye Changxin | Li Qincheng | Lose | B+R | 7.5 | 3552 | -6 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Li Qincheng | Park Junghwan | Win | B+3¼ | 7.5 | 3558 | 6 | 

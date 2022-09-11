@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Jiang Weijie | Win | W+R | 7.5 | 3438 | 27 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Ding Shixiong | Win | B+¾ | 7.5 | 3411 | 0 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | Lose | B+R | 7.5 | 3411 | -11 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Fan Yin | Win | B+R | 7.5 | 3422 | 21 | 

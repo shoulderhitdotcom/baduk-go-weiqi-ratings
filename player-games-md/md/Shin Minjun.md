@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Lose | B+R | 7.5 | 3526 | -1 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Shin Minjun | Tuo Jiaxi | Lose | W+R | 7.5 | 3527 | -1 | 
 | 2022-09-05 | 第45期名人戦（韓国）敗者組3回戦 | Shin Minjun | Byun Sangil | Win | B+R | 6.5 | 3528 | 9 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Shin Minjun | Huang Yunsong | Win | B+R | 7.5 | 3519 | -8 | 

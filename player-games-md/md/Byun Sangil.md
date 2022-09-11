@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Byun Sangil | Tong Mengcheng | Win | B+R | 7.5 | 3643 | 5 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Byun Sangil | Win | W+R | 7.5 | 3638 | 5 | 
 | 2022-09-05 | 第45期名人戦（韓国）敗者組3回戦 | Shin Minjun | Byun Sangil | Lose | B+R | 6.5 | 3633 | -5 | 
 | 2022-09-01 | 第45期名人戦（韓国）敗者組2回戦 | Byun Sangil | Kang Seungmin | Win | B+R | 6.5 | 3638 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Gu Lingyi | Lose | B+R | 7.5 | 3327 | -25 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Gu Lingyi | Lose | B+R | 7.5 | 3352 | -63 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Gu Lingyi | Wang Chuxuan | Win | B+R | 7.5 | 3415 | 27 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Yunong | Gu Lingyi | Lose | B+R | 7.5 | 3388 | -55 | 

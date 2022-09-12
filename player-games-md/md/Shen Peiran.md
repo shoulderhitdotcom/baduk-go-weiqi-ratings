@@ -7,36 +7,36 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Haotong | Shen Peiran | Win | W+R | 7.5 | 3401 | 28 | 
-| 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Shen Peiran | Win | W+R | 7.5 | 3373 | 59 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Shen Peiran | Han Yizhou | Lose | W+R | 7.5 | 3314 | -25 | 
-| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Shen Peiran | Tao Xinran | Lose | W+R | 7.5 | 3339 | -36 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Zejin | Shen Peiran | Lose | B+R | 7.5 | 3375 | -19 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Shen Peiran | Park Junghwan | Lose | W+R | 7.5 | 3394 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shen Peiran | Yi Lingtao | Lose | W+R | 7.5 | 3394 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Shen Peiran | Win | W+R | 7.5 | 3394 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shen Peiran | Lee Jihyun | Win | B+R | 7.5 | 3391 | 33 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | 3358 | 68 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Shen Peiran | Win | W+R | 7.5 | 3290 | 88 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Win | W+R | 7.5 | 3202 | 262 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 2940 | -20 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Lose | W+R | 7.5 | 2960 | -20 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Win | B+R | 7.5 | 2980 | 384 | 
-| 2021-08-30 | 第12期中国竜星戦予選 | Wang Shuo | Shen Peiran | Lose | B+R | 7.5 | 2596 | 178 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Lose | W+1¼ | 7.5 | 2418 | 0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Lose | W+R | 7.5 | 2418 | -706 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | 3124 | 0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Shin Minjun | Shen Peiran | Lose | B+1¾ | 7.5 | 3124 | 0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shen Peiran | Lose | B+R | 7.5 | 3124 | 0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shen Peiran | Xu Yidi | Win | B+R | 7.5 | 3124 | 0 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Lose | W+R | 7.5 | 3124 | 0 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Lose | B+R | 7.5 | 3124 | 0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Han Yizhou | Shen Peiran | Lose | B+1¾ | 7.5 | 3124 | 0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Lose | W+R | 7.5 | 3124 | 0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Shen Peiran | Zhao Chenyu | Lose | W+R | 7.5 | 3124 | 0 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 3124 | -3 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Shen Peiran | Jiang Weijie | Lose | W+R | 7.5 | 3127 | -263 | 
-| 2020-05-11 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Shen Peiran | Tu Xiaoyu | Lose | W+R | 7.5 | 3390 | missing |
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Haotong | Shen Peiran | Win | W+R | 7.5 | 3390 | 28 | 
+| 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Chen Haoxin | Shen Peiran | Win | W+R | 7.5 | 3362 | 59 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Shen Peiran | Han Yizhou | Lose | W+R | 7.5 | 3303 | -25 | 
+| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Shen Peiran | Tao Xinran | Lose | W+R | 7.5 | 3328 | -37 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Zejin | Shen Peiran | Lose | B+R | 7.5 | 3365 | -19 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Shen Peiran | Park Junghwan | Lose | W+R | 7.5 | 3384 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Shen Peiran | Yi Lingtao | Lose | W+R | 7.5 | 3384 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Shen Peiran | Win | W+R | 7.5 | 3384 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shen Peiran | Lee Jihyun | Win | B+R | 7.5 | 3381 | 33 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | 3348 | 64 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Shen Peiran | Win | W+R | 7.5 | 3284 | 88 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Win | W+R | 7.5 | 3196 | 260 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 2936 | -20 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Lose | W+R | 7.5 | 2956 | -20 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Win | B+R | 7.5 | 2976 | 384 | 
+| 2021-08-30 | 第12期中国竜星戦予選 | Wang Shuo | Shen Peiran | Lose | B+R | 7.5 | 2592 | 177 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Lose | W+1¼ | 7.5 | 2415 | 0 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Lose | W+R | 7.5 | 2415 | -708 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | 3123 | 0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Shin Minjun | Shen Peiran | Lose | B+1¾ | 7.5 | 3123 | 0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shen Peiran | Lose | B+R | 7.5 | 3123 | 0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shen Peiran | Xu Yidi | Win | B+R | 7.5 | 3123 | 0 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Lose | W+R | 7.5 | 3123 | 0 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Lose | B+R | 7.5 | 3123 | 0 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Han Yizhou | Shen Peiran | Lose | B+1¾ | 7.5 | 3123 | 0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Lose | W+R | 7.5 | 3123 | 0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Shen Peiran | Zhao Chenyu | Lose | W+R | 7.5 | 3123 | 0 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 3123 | -3 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Shen Peiran | Jiang Weijie | Lose | W+R | 7.5 | 3126 | -263 | 
+| 2020-05-11 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Shen Peiran | Tu Xiaoyu | Lose | W+R | 7.5 | 3389 | missing |
 
 
 

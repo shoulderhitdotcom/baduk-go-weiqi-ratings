@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Suyeong vs Cho Daehyeon** | **Chang Suyeong streak** | **Cho Daehyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Suyeong Vs Cho Daehyeon** | **Chang Suyeong Streak** | **Cho Daehyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第2局 | Chang Suyeong | Cho Daehyeon | W+R | 6.5 | 6:1 | 0 | 1 | 
 | 2019-12-27 | 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第3局 | Cho Daehyeon | Chang Suyeong | W+6.5 | 6.5 | 6:0 | 6 | 0 | 

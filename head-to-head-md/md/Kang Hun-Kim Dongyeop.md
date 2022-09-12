@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Hun vs Kim Dongyeop** | **Kang Hun streak** | **Kim Dongyeop streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Hun Vs Kim Dongyeop** | **Kang Hun Streak** | **Kim Dongyeop Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-06 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | W+5.5 | 6.5 | 3:1 | 3 | 0 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第2局 | Kang Hun | Kim Dongyeop | B+3.5 | 6.5 | 2:1 | 2 | 0 | 

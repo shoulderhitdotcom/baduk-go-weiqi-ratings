@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Kyubyeong Vs Yoo Changhyuk** | **Choi Kyubyeong Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-12 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Choi Kyubyeong | B+R | 6.5 | 2:6 | 0 | 3 | 
 | 2020-08-24 | 2020NHシニア囲碁リーグ第7節第1試合第1局 | Choi Kyubyeong | Yoo Changhyuk | W+R | 6.5 | 2:5 | 0 | 2 | 
 | 2020-03-13 | 第7回大舟杯プロシニア最強者戦8強戦 | Choi Kyubyeong | Yoo Changhyuk | W+1.5 | 6.5 | 2:4 | 0 | 1 | 
 | 2019-04-08 | 第6回大舟杯プロシニア最強者戦8強戦 | Choi Kyubyeong | Yoo Changhyuk | B+R | 6.5 | 2:3 | 1 | 0 | 

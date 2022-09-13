@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3523 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3523 | 13 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Tao | Jin Yucheng | Win | B+¾ | 7.5 | 3510 | 8 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Lose | W+R | 7.5 | 3502 | -34 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Win | B+R | 7.5 | 3536 | -23 | 

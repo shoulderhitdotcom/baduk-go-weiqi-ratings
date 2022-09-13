@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 第45期名人戦（韓国）敗者組4回戦 | Weon Seongjin | Lee Jihyun | Lose | B+R | 6.5 | 3313 | -2 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Han Yizhou | Lose | W+R | 7.5 | 3315 | -4 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Li Xuanhao | Lose | W+R | 7.5 | 3319 | 3 | 
 | 2022-09-07 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Dongmyeon | Lose | W+4.5 | 6.5 | 3316 | -23 | 

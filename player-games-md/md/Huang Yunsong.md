@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Li Qincheng | Lose | W+R | 7.5 | 3583 | -3 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Ye Changxin | Huang Yunsong | Win | W+R | 7.5 | 3586 | -3 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tao Xinran | Win | B+R | 7.5 | 3589 | 11 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Shin Minjun | Huang Yunsong | Lose | B+R | 7.5 | 3578 | -10 | 

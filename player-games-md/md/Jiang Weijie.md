@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Mi Yuting | Lose | W+R | 7.5 | 3426 | -1 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Jiang Weijie | Win | W+R | 7.5 | 3427 | 27 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Ding Shixiong | Win | B+¾ | 7.5 | 3400 | 0 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | Lose | B+R | 7.5 | 3400 | -11 | 

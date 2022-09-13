@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Tu Xiaoyu | Lose | W+R | 7.5 | 3485 | -3 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Tan Xiao | Xia Chenkun | Lose | W+R | 7.5 | 3488 | -7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Han Yizhou | Tan Xiao | Win | W+R | 7.5 | 3495 | 24 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zejin | Tan Xiao | Lose | B+¾ | 7.5 | 3471 | -19 | 

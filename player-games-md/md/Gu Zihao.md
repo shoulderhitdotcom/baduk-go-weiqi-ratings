@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Lose | W+R | 7.5 | 3604 | -11 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Gu Zihao | Win | W+R | 7.5 | 3615 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Lose | W+R | 7.5 | 3608 | 7 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Gu Zihao | Lose | B+R | 7.5 | 3601 | -6 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Liao Yuanhe | Lian Xiao | Lose | B+R | 7.5 | 3526 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Dang Yifei | Win | B+R | 7.5 | 3526 | 10 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Chen Yaoye | Lose | W+R | 7.5 | 3516 | -11 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Zejin | Win | B+R | 7.5 | 3527 | 26 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Chunhui | Win | B+R | 7.5 | 3501 | -4 | 

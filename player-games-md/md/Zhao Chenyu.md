@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Zhao Chenyu | Lose | B+R | 7.5 | 3547 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhao Chenyu | Yang Kaiwen | Win | B+R | 7.5 | 3547 | 5 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Cheng Jiaye | Win | B+R | 7.5 | 3542 | -7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | Win | W+R | 7.5 | 3549 | 21 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Win | B+¾ | 7.5 | 3528 | 28 | 

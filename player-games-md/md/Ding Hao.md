@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Ding Hao | Lose | B+¾ | 7.5 | 3646 | -10 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Xu Jiayang | Lose | W+R | 7.5 | 3656 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Mao Ruilong | Win | B+R | 7.5 | 3649 | 15 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Lose | W+R | 7.5 | 3634 | -16 | 

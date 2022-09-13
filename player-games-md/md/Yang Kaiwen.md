@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhao Chenyu | Yang Kaiwen | Lose | B+R | 7.5 | 3509 | 2 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Gu Lingyi | Win | B+R | 7.5 | 3507 | 9 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Win | W+R | 7.5 | 3498 | 40 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3458 | 4 | 

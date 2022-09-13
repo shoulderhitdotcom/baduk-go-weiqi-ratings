@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Mi Yuting | Lose | B+R | 7.5 | 3658 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Mi Yuting | Win | W+R | 7.5 | 3658 | -5 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Mi Yuting | Wang Shuo | Win | B+R | 7.5 | 3663 | 5 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Ke Jie | Mi Yuting | Lose | B+R | 7.5 | 3658 | 10 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | Win | B+R | 7.5 | 3648 | 0 | 

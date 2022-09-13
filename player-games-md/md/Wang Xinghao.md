@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Wang Xinghao | Lose | B+R | 7.5 | 3624 | -13 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Win | B+R | 7.5 | 3637 | 19 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3618 | -23 | 
 | 2022-09-05 | 2022中国国家囲棋隊選抜戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3641 | 25 | 

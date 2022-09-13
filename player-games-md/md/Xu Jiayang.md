@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Xu Jiayang | Lose | B+¾ | 7.5 | 3531 | -11 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Xu Jiayang | Win | W+R | 7.5 | 3542 | 21 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Win | W+R | 7.5 | 3521 | 38 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Xie Erhao | Xu Jiayang | Win | W+¾ | 7.5 | 3483 | 5 | 

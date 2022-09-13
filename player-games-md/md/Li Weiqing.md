@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Li Xuanhao | Li Weiqing | Lose | B+R | 7.5 | 3638 | -6 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Jiang Weijie | Lose | W+R | 7.5 | 3644 | 38 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Li Weiqing | Wang Shiyi | Win | B+R | 7.5 | 3606 | -15 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Li Weiqing | Lose | B+R | 7.5 | 3621 | -15 | 

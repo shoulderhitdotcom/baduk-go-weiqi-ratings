@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Chen Xian | Ke Jie | Win | B+R | 7.5 | 3469 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Chen Yaoye | Win | B+R | 7.5 | 3469 | 46 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Xian | Win | W+R | 7.5 | 3423 | -16 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3439 | 25 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Win | W+R | 7.5 | 3414 | -7 | 

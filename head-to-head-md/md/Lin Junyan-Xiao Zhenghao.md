@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Xiao Zhenghao** | **Lin Junyan Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lin Junyan | Xiao Zhenghao | B+R | 6.5 | 11:10 | 2 | 0 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | B+R | 6.5 | 10:10 | 1 | 0 | 
 | 2021-03-02 | 第20期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | W+R | 6.5 | 9:10 | 0 | 2 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Xiao Zhenghao | Lin Junyan | B+R | 6.5 | 9:9 | 0 | 1 | 

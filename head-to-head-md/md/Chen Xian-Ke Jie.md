@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Ke Jie** | **Chen Xian Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Chen Xian | Ke Jie | B+R | 7.5 | 1:4 | 1 | 0 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Ke Jie | W+R | 7.5 | 0:4 | 0 | 4 | 
 | 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Ke Jie | Chen Xian | B+R | 7.5 | 0:3 | 0 | 3 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Chen Xian | B+R | 7.5 | 0:2 | 0 | 2 | 

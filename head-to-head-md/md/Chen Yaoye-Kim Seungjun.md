@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Kim Seungjun** | **Chen Yaoye streak** | **Kim Seungjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Kim Seungjun** | **Chen Yaoye Streak** | **Kim Seungjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Kim Seungjun | Chen Yaoye | W+R | 7.5 | 3:0 | 3 | 0 | 
 | 2004-05-13 | 第6回中国囲碁甲級リーグ第4節 | Chen Yaoye | Kim Seungjun | B+R | 7.5 | 2:0 | 2 | 0 | 

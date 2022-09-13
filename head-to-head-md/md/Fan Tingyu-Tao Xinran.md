@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Tao Xinran** | **Fan Tingyu Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Fan Tingyu | B+R | 7.5 | 5:3 | 0 | 1 | 
 | 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Tao Xinran | B+R | 7.5 | 5:2 | 2 | 0 | 
 | 2019-06-17 | 嫘祖杯第32期中国囲棋名人戦8強戦 | Tao Xinran | Fan Tingyu | W+R | 7.5 | 4:2 | 1 | 0 | 
 | 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Fan Tingyu | Tao Xinran | W+R | 7.5 | 3:2 | 0 | 1 | 

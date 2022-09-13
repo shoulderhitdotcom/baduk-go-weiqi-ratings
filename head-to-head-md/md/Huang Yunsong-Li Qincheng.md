@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Li Qincheng** | **Huang Yunsong Streak** | **Li Qincheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Li Qincheng | W+R | 7.5 | 4:4 | 0 | 1 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | W+R | 7.5 | 4:3 | 2 | 0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | B+1¾ | 7.5 | 3:3 | 1 | 0 | 
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Huang Yunsong | Li Qincheng | W+R | 7.5 | 2:3 | 0 | 1 | 

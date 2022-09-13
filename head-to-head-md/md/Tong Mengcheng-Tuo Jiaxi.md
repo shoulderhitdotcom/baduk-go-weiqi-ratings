@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tong Mengcheng Vs Tuo Jiaxi** | **Tong Mengcheng Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tong Mengcheng | W+R | 7.5 | 5:7 | 1 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | W+R | 7.5 | 4:7 | 0 | 1 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tuo Jiaxi | Tong Mengcheng | W+R | 6.5 | 4:6 | 1 | 0 | 
 | 2019-12-16 | 第11期中国竜星戦予選 | Tong Mengcheng | Tuo Jiaxi | W+R | 7.5 | 3:6 | 0 | 3 | 

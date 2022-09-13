@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Yang Dingxin** | **Xie Erhao Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Yang Dingxin | B+¾ | 7.5 | 6:7 | 2 | 0 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | W+R | 7.5 | 5:7 | 1 | 0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Xie Erhao | Yang Dingxin | W+R | 7.5 | 4:7 | 0 | 3 | 
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Xie Erhao | Yang Dingxin | W+R | 7.5 | 4:6 | 0 | 2 | 

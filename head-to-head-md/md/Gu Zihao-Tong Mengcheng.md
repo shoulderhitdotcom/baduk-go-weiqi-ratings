@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Tong Mengcheng** | **Gu Zihao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第27回三星火災杯中国予選 | Gu Zihao | Tong Mengcheng | B+R | 6.5 | 8:6 | 2 | 0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tong Mengcheng | Gu Zihao | W+R | 7.5 | 7:6 | 1 | 0 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tong Mengcheng | Gu Zihao | B+R | 7.5 | 6:6 | 0 | 1 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Gu Zihao | W+R | 7.5 | 6:5 | 3 | 0 | 

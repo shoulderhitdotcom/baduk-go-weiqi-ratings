@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jeong Daesang vs Kim Dongmyeon** | **Jeong Daesang streak** | **Kim Dongmyeon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jeong Daesang Vs Kim Dongmyeon** | **Jeong Daesang Streak** | **Kim Dongmyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jeong Daesang | B+R | 6.5 | 3:3 | 0 | 2 | 
 | 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第1局 | Kim Dongmyeon | Jeong Daesang | B+R | 6.5 | 3:2 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第27回三星火災杯中国予選 | Peng Liyao | Yi Lingtao | Lose | B+R | 6.5 | 3312 | -10 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Lose | B+R | 7.5 | 3322 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Win | W+R | 7.5 | 3322 | 33 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Yi Lingtao |  | Lose | W+R | 7.5 | 3289 | -20 | 

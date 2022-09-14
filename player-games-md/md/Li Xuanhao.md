@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第27回三星火災杯中国予選 | Li Xuanhao | Chen Yaoye | Win | B+2.5 | 6.5 | 3795 | 4 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Li Xuanhao | Shi Yue | Lose | W+R | 7.5 | 3791 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Li Xuanhao | Li Weiqing | Win | B+R | 7.5 | 3791 | 10 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Li Xuanhao | Win | W+R | 7.5 | 3781 | 29 | 

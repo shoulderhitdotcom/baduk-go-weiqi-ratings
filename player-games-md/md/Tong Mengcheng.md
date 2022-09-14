@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第27回三星火災杯中国予選 | Gu Zihao | Tong Mengcheng | Lose | B+R | 6.5 | 3443 | -7 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Tong Mengcheng | Lose | B+R | 7.5 | 3450 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tong Mengcheng | Win | W+R | 7.5 | 3450 | 14 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Byun Sangil | Tong Mengcheng | Lose | B+R | 7.5 | 3436 | -17 | 

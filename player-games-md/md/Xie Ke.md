@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Xie Ke | Li Qincheng | Lose | W+R | 7.5 | 3550 | -7 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Xie Ke | Win | W+R | 7.5 | 3557 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Peng Liyao | Win | B+¾ | 7.5 | 3557 | 29 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Xie Ke | Win | W+R | 7.5 | 3528 | 3 | 

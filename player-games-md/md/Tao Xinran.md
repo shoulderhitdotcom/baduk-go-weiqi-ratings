@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Shi Yue | Tao Xinran | Lose | B+R | 7.5 | 3488 | -14 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Tong Mengcheng | Win | B+R | 7.5 | 3502 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Fan Tingyu | Win | B+R | 7.5 | 3502 | 51 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tao Xinran | Lose | B+R | 7.5 | 3451 | -4 | 

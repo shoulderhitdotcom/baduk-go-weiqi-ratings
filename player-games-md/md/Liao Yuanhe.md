@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Liao Yuanhe | Tu Xiaoyu | Win | B+R | 7.5 | 3458 | 14 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Liao Yuanhe | Lian Xiao | Win | B+R | 7.5 | 3444 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Xu Jiayang | Win | B+¾ | 7.5 | 3444 | -5 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Xian | Liao Yuanhe | Lose | B+R | 7.5 | 3449 | -34 | 

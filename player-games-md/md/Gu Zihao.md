@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第27回三星火災杯中国予選 | Gu Zihao | Tong Mengcheng | Win | B+R | 6.5 | 3607 | 4 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Lose | W+R | 7.5 | 3603 | -11 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Gu Zihao | Win | W+R | 7.5 | 3614 | 7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Lose | W+R | 7.5 | 3607 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Chen Xian | Xie Erhao | Win | W+R | 7.5 | 3554 | 9 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Zhao Chenyu | Win | B+R | 7.5 | 3545 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Yang Dingxin | Win | B+¾ | 7.5 | 3545 | 59 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Xie Erhao | Shin Jinseo | Win | B+R | 7.5 | 3486 | 36 | 

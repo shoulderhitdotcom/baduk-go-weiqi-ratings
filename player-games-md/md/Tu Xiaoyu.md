@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Liao Yuanhe | Tu Xiaoyu | Lose | B+R | 7.5 | 3523 | -15 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Win | B+R | 7.5 | 3538 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Tu Xiaoyu | Win | W+R | 7.5 | 3538 | 33 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Tu Xiaoyu | Wang Xinghao | Win | B+R | 7.5 | 3505 | 32 | 

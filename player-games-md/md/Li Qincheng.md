@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Xie Ke | Li Qincheng | Win | W+R | 7.5 | 3583 | 8 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Mi Yuting | Win | B+R | 7.5 | 3575 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Li Qincheng | Win | W+R | 7.5 | 3575 | 29 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Li Qincheng | Lose | B+R | 7.5 | 3546 | -18 | 

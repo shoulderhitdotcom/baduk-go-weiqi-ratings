@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Shin Jinseo** | **Park Junghwan Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-15 | 第45期名人戦（韓国）勝者組決勝 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 21:29 | 0 | 2 | 
 | 2022-08-14 | 第8回国手山脈世界プロ最強戦準決勝 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 21:28 | 0 | 1 | 
 | 2022-07-12 | 2022YK建機杯リーグ | Park Junghwan | Shin Jinseo | B+R | 6.5 | 21:27 | 1 | 0 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+R | 6.5 | 20:27 | 0 | 1 | 

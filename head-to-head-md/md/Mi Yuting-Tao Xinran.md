@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tao Xinran** | **Mi Yuting Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-15 | 第27回三星火災杯中国予選 | Tao Xinran | Mi Yuting | W+R | 6.5 | 7:1 | 6 | 0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Tao Xinran | B+R | 7.5 | 6:1 | 5 | 0 | 
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Mi Yuting | Tao Xinran | B+R | 7.5 | 5:1 | 4 | 0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Tao Xinran | Mi Yuting | W+R | 7.5 | 4:1 | 3 | 0 | 

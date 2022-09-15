@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第46期天元戦予選 | Matsuoka Hideki | Hane Naoki | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AEZl%2FT39oxB0QXODeIG2dQ%3D%3D) | 
 | 第1回SGW杯中庸戦予選決勝 | Matsuoka Hideki | Anzai Nobuaki | W+R | 2018-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1KqRl4x4xmkmsi594cCHA%3D%3D) | 

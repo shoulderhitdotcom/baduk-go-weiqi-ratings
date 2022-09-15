@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Xu Haohong** | **Jian Jingting Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-15 | 第15期棋王戦（台湾）リーグ | Jian Jingting | Xu Haohong | W+R | 6.5 | 3:13 | 0 | 6 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | B+R | 6.5 | 3:12 | 0 | 5 | 
 | 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | W+R | 6.5 | 3:11 | 0 | 4 | 
 | 2021-12-28 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Jian Jingting | Xu Haohong | W+R | 6.5 | 3:10 | 0 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-16 | 2022CCTV杯中国囲棋電視快棋戦決勝 | Xie Erhao | Shi Yue | Win | W+R | 7.5 | 3576 | 9 | 
 | 2022-09-15 | 2022CCTV杯中国囲棋電視快棋戦準決勝 | Liao Yuanhe | Shi Yue | Win | W+R | 7.5 | 3567 | 4 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Shi Yue | Tao Xinran | Win | B+R | 7.5 | 3563 | 8 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Li Xuanhao | Shi Yue | Win | W+R | 7.5 | 3555 | 0 | 

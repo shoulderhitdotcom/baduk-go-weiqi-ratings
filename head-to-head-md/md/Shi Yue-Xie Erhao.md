@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Xie Erhao** | **Shi Yue Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-16 | 2022CCTV杯中国囲棋電視快棋戦決勝 | Xie Erhao | Shi Yue | W+R | 7.5 | 5:3 | 1 | 0 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xie Erhao | Shi Yue | B+R | 7.5 | 4:3 | 0 | 1 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Shi Yue | Xie Erhao | B+¾ | 7.5 | 4:2 | 2 | 0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Shi Yue | Xie Erhao | B+R | 7.5 | 3:2 | 1 | 0 | 

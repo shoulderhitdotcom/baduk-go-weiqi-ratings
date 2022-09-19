@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Xu Jiayang** | **Shin Jinseo Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | W+R | 7.5 | 8:1 | 4 | 0 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | W+R | 6.5 | 7:1 | 3 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | W+R | 7.5 | 6:1 | 2 | 0 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | B+R | 7.5 | 5:1 | 1 | 0 | 

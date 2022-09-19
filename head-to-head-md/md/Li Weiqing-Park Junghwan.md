@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Park Junghwan** | **Li Weiqing Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Park Junghwan | Li Weiqing | W+R | 7.5 | 3:5 | 2 | 0 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | B+¾ | 7.5 | 2:5 | 1 | 0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | W+R | 6.5 | 1:5 | 0 | 4 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Li Weiqing | Park Junghwan | W+R | 7.5 | 1:4 | 0 | 3 | 

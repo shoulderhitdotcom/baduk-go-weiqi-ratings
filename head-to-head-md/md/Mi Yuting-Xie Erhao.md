@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Xie Erhao** | **Mi Yuting Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Xie Erhao | Mi Yuting | B+R | 7.5 | 6:1 | 0 | 1 | 
 | 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Mi Yuting | Xie Erhao | B+¾ | 7.5 | 6:0 | 6 | 0 | 
 | 2019-11-28 | 第15期威孚房開杯棋王戦8強戦 | Mi Yuting | Xie Erhao | B+R | 7.5 | 5:0 | 5 | 0 | 
 | 2018-10-14 | 第14期威孚房開杯棋王戦16強戦 | Mi Yuting | Xie Erhao | B+R | 7.5 | 4:0 | 4 | 0 | 

@@ -2,6 +2,8 @@
 
 The ratings are based on 4749 games from 2021-09-19 to 2022-09-18.
 
+[A list of go teachers](go-teachers.md)
+
 ### Quicklinks
 
 [Top 100](#top-100)

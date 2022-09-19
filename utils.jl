@@ -1,7 +1,6 @@
 using RCall
 using Missings: disallowmissing, skipmissing
 using BadukGoWeiqiTools: load_namesdb
-using DataFrameMacros
 
 const NAMESDB = load_namesdb("NAMESDB")
 
@@ -114,20 +113,16 @@ function estimate_rating(from_date, to_date = from_date + Day(364); tbl)
 
     @rget strengths
 
-    # println(strengths)
-    # println(players)
-    strengths[!, :name] =  vcat(players, ["error if seen", "error if seen"])
-
     pings = @chain strengths[1:end-2, :] begin
-        # @transform :name = @bycol players
+        @transform :name = @c players
         leftjoin(games_played, on =:name)
         @transform :estimate = coalesce(:estimate, 0.0)
-        @transform :estimate = @bycol disallowmissing(:estimate)
+        @transform :estimate = @c disallowmissing(:estimate)
         @aside mean_std = mean(_.std_error |> skipmissing)
-        @transform :std_error = @bycol disallowmissing(@.(coalesce(:std_error, mean_std)))
+        @transform :std_error = @c disallowmissing(@.(coalesce(:std_error, mean_std)))
         @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
         sort!(:estimate_for_ranking, rev=true)
-        @transform :Rank = @bycol 1:length(:estimate_for_ranking)
+        @transform :Rank = @c 1:length(:estimate_for_ranking)
     end
 
     pings, tbl_1yr, strengths.estimate[end-1], strengths.estimate[end], abnormal_players

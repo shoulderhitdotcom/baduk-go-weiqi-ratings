@@ -19,7 +19,7 @@ do_for_all = false
 df = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     JDF.load()
     DataFrame()
-    @transform :komi_fixed = @bycol replace(
+    @transform :komi_fixed = @c replace(
         :komi,
         6.4 => 6.5,
         8.0 => 7.5,
@@ -37,7 +37,7 @@ end
 
 
 
-df_for_names = @subset(df, @bycol do_for_all .| (:date .== maximum(:date)))
+df_for_names = @subset(df, @c do_for_all .| (:date .== maximum(:date)))
 
 names_to_update = @chain vcat(df_for_names.black, df_for_names.white) begin
     unique
@@ -71,7 +71,7 @@ end
 # for each player create the players's page
 # println("dont forget to turn this off")
 # names_to_update = @chain pings_hist begin
-#     @subset @bycol :date .== maximum(:date)
+#     @subset @c :date .== maximum(:date)
 #     sort!(:Rating, rev = true)
 #     @subset(:eng_name_old != "")
 #     _[1:100, :eng_name_old]
@@ -116,7 +116,7 @@ for d in day_range_days
                 model = lm(@formula(Rating ~ x), df)
                 coef(model)[2]
             end, nrow)
-        @subset @bycol :nrow .== maximum(:nrow)
+        @subset @c :nrow .== maximum(:nrow)
         # @transform :x2 = ifelse(abs(:drop) > abs(:rise), :drop, :rise)
         # @transform :x1 = :rise + :drop
         leftjoin(ngames_last_year, on = :name => :value)
@@ -184,7 +184,7 @@ for name in names_to_update
                 )
                 leftjoin(ratings_to_merge_on, on = :Date => :date)
                 sort(:Date)
-                @transform :Rating = @bycol locf(:Rating)
+                @transform :Rating = @c locf(:Rating)
             end
 
             if nrow(tmp) == 0
@@ -200,7 +200,7 @@ for name in names_to_update
                 @subset(!ismissing(:Rating))
                 unique([:Date, :Comp, :Black, :White, :Result, Symbol("Game result"), :Komi])
                 sort!(:Date, rev = true)
-                @transform :Rating_diff = @bycol vcat(
+                @transform :Rating_diff = @c vcat(
                     diff(
                         coalesce.(:Rating, 0) |> reverse
                     ) |> reverse,

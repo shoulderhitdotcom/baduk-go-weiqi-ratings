@@ -26,7 +26,7 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     JDF.load()
     DataFrame()
     @transform :date = parse(Date, :date)
-    @transform :komi_fixed = @bycol replace(
+    @transform :komi_fixed = @c replace(
         :komi,
         6.4 => 6.5,
         8.0 => 7.5,
@@ -155,8 +155,8 @@ end
 #     end
 
 #     m = @chain TBL_1YR begin
-#         @transform :windex = @bycol indexin(:white, players_involved)
-#         @transform :bindex = @bycol indexin(:black, players_involved)
+#         @transform :windex = @c indexin(:white, players_involved)
+#         @transform :bindex = @c indexin(:black, players_involved)
 #         @transform :dummy = 1
 #         meh()
 #     end
@@ -210,7 +210,7 @@ end
 
 function turn_records_into_md(pings)
     @chain pings begin
-        @transform :name = @bycol Vector{String}(:name) # avoid weird SentinelArray Bug
+        @transform :name = @c Vector{String}(:name) # avoid weird SentinelArray Bug
         @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
         @transform :estimate_for_ranking = :estimate - P99 * :std_error
@@ -220,7 +220,7 @@ function turn_records_into_md(pings)
         @transform :Rating = round(Int, :estimate_for_ranking * 400 / log(10) + pings_for_alignment.diff)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         sort!(:Rating, rev=true)
-        # @transform :Rank = @bycol 1:length(:Rating)
+        # @transform :Rank = @c 1:length(:Rating)
     end
 end
 
@@ -319,7 +319,7 @@ games_played_hist = @chain tbl begin
         if nrow(df) >= 366
             return @chain df begin
                 sort(:date)
-                @transform :n = @bycol ma365(:n)
+                @transform :n = @c ma365(:n)
             end
         else
             return DataFrame()
@@ -335,7 +335,7 @@ end
 #     groupby(:date)
 #     @combine(:mean_lr = mean(log.(:Rating)))
 #     sort!(:date)
-#     @transform :clr = @bycol accumulate(+, :mean_lr) ./ (1:length(:mean_lr))
+#     @transform :clr = @c accumulate(+, :mean_lr) ./ (1:length(:mean_lr))
 # end
 
 # const LATEST_LOG_R = pings_hist_smoothed.clr[end]
@@ -360,9 +360,9 @@ end
 
 # determine rank ranges
 rank_ranges = @chain pings_hist begin
-    @subset @bycol maximum(:date) - Day(364) .<= :date
+    @subset @c maximum(:date) - Day(364) .<= :date
     @aside counts = @chain tbl begin
-        @subset @bycol maximum(:date) - Day(364) .<= :date
+        @subset @c maximum(:date) - Day(364) .<= :date
         stack([:black, :white])
         groupby(:value)
         combine(nrow => :ngames)
@@ -404,7 +404,7 @@ sjs_ratings1 = @chain sjs_ratings begin
     rightjoin(sjs_ratings_missing_dates, on=:date)
     select(:date, :rating)
     sort!(:date)
-    @transform :rating = @bycol begin
+    @transform :rating = @c begin
         tmp = copy(:rating)
         for i in 2:length(tmp)
             if tmp[i] |> ismissing
@@ -423,7 +423,7 @@ sjs_ratings2 = @chain pings_hist begin
     unique(:date)
     rightjoin(sjs_ratings1, on=:date)
     sort!(:date)
-    @transform :Rating = @bycol begin
+    @transform :Rating = @c begin
         tmp = copy(:Rating)
         for i in 2:length(tmp)
             if tmp[i] |> ismissing
@@ -491,7 +491,7 @@ function meh(days)
         groupby([:name, :eng_name_old])
         @combine(:mean_rating = mean(:Rating))
         sort(:mean_rating, rev=true)
-        @transform :rank = @bycol 1:length(:mean_rating)
+        @transform :rank = @c 1:length(:mean_rating)
         @subset :eng_name_old in ("Ke Jie", "Weon Seongjin")
         # _[2:2, :eng_name_old]
     end
@@ -512,23 +512,18 @@ end
 using BadukGoWeiqiTools: create_player_info_tbl
 players_info = create_player_info_tbl()
 
-countmap(players_info.affiliation)
-
 pings_for_md2 = @chain pings_for_md1 begin
     leftjoin(players_info, on=:eng_name_old => :name)
-    @transform :date_of_birth = @passmissing Date(:date_of_birth)
-    #@transform :age = @passmissing round((today() - :date_of_birth)/ 365, ndigits=2)
-    @transform :age = @passmissing round(getproperty(today() - :date_of_birth, Symbol("value")) / 365, digits=1)
+    @transform :date_of_birth = @m Date(:date_of_birth)
+    #@transform :age = @m round((today() - :date_of_birth)/ 365, ndigits=2)
+    @transform :age = @m round(getproperty(today() - :date_of_birth, Symbol("value"))/365, digits=1)
     # leftjoin(rank_ranges, on=:name)
     # leftjoin(mean_ratings, on=:name)
     sort(:Rating, rev=true)
-    # @transform :Rank = @bycol 1:length(:mean_rating)
+    # @transform :Rank = @c 1:length(:mean_rating)
     # @transform :Class = round(Int, :mean_rating)
-    # @transform :Form = round(Int, :Rating - :Class)w
-    @transform :age = @passmissing :age > 2000 ? missing : :age
-    @transform :region = @passmissing ifelse(:affiliation in ("Nihon Kiin", "Kansai Kiin"), "JPN", :nationality)
-    @transform :region = @passmissing ifelse(:affiliation == "Hanguk Kiwon", "KOR", :nationality)
-    @transform :region = @passmissing ifelse(:affiliation == "Taiwan Go Association", "TWN", :nationality)
+    # @transform :Form = round(Int, :Rating - :Class)
+    # select(:age)
 end
 
 
@@ -541,30 +536,28 @@ pings_for_md_tmp = select(
     :Rank,
     :age,
     :sex,
-    :region,
+    :nationality,
+    :affiliation,
     :eng_name => "Name",
     # :Class,
     :Rating,
     # :Form,
     # :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
-    :n,
     # :median_rank => "Median Rank",
     # :form_range => "Form Rank Range",
     :name => "Hanzi (汉字) Name")
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
-    @subset :n < NGAME_THRESHOLD
+    @subset $"Games Played" < NGAME_THRESHOLD
     sort!(:Rating, rev=true)
-    @transform :Rank = @bycol 1:length(:Rating)
-    select(Not(:n))
+    @transform :Rank = @c 1:length(:Rating)
 end
 
 pings_for_md = @chain pings_for_md_tmp begin
-    @subset :n >= NGAME_THRESHOLD
+    @subset $"Games Played" >= NGAME_THRESHOLD
     sort!(:Rating, rev=true)
-    @transform :Rank = @bycol 1:length(:Rating)
-    select(Not(:n))
+    @transform :Rank = @c 1:length(:Rating)
 end
 
 JDF.save("pings_for_md.jdf", pings_for_md)

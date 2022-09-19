@@ -37,7 +37,7 @@ tbl = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     @transform :who_win = uppercase(strip(:who_win))
     @subset :who_win != "VOID"
     @transform :date = parse(Date, :date)
-    @transform :komi_fixed = @c replace(
+    @transform :komi_fixed = @bycol replace(
         :komi,
         6.4 => 6.5,
         8.0 => 7.5,
@@ -51,10 +51,10 @@ tbl = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     @subset !in(:white, AI)
     @transform :black = replace(:black, " "=>"")
     @transform :white = replace(:white, " "=>"")
-    @transform :black = @c replace(:black, "郭信驛"=>"郭信駅")
-    @transform :black = @c replace(:black, "陳梓建"=>"陳梓健")
-    @transform :white = @c replace(:white, "郭信驛"=>"郭信駅")
-    @transform :white = @c replace(:white, "陳梓建"=>"陳梓健")
+    @transform :black = @bycol replace(:black, "郭信驛"=>"郭信駅")
+    @transform :black = @bycol replace(:black, "陳梓建"=>"陳梓健")
+    @transform :white = @bycol replace(:white, "郭信驛"=>"郭信駅")
+    @transform :white = @bycol replace(:white, "陳梓建"=>"陳梓健")
     @transform :black = uppercase(:black)
     @transform :white = uppercase(:white)
     @subset !in(:black, AI)
@@ -87,8 +87,8 @@ function subset_closed_group(tbl, names)
     end
 
     @chain tbl begin
-        @transform :blackidx = @c indexin(:black, all_names)
-        @transform :whiteidx = @c indexin(:white, all_names)
+        @transform :blackidx = @bycol indexin(:black, all_names)
+        @transform :whiteidx = @bycol indexin(:white, all_names)
         @aside for (i,j) in zip(_.blackidx, _.whiteidx)
             m[i, j] = 1
             m[j, i] = 1

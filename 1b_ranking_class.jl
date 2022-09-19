@@ -39,7 +39,7 @@ end
 using DataFrameMacros
 sjs_first_appeared_date=@chain pings_hist begin
     @subset :eng_name_old == "Shin Jinseo"
-    @subset @c :date .==  minimum(:date)
+    @subset @bycol :date .==  minimum(:date)
     minimum(_.date)
 end
 

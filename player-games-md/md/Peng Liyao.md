@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Peng Liyao | Win | W+R | 7.5 | 3552 | 4 | 
 | 2022-09-15 | 第27回三星火災杯中国予選 | Peng Liyao | Fan Tingyu | Lose | W+R | 6.5 | 3548 | -8 | 
 | 2022-09-14 | 第27回三星火災杯中国予選 | Peng Liyao | Yi Lingtao | Win | B+R | 6.5 | 3556 | 3 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Peng Liyao | Lose | B+¾ | 7.5 | 3553 | -7 | 
@@ -14,14 +15,14 @@
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Peng Liyao | Lose | B+R | 7.5 | 3553 | 2 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | He Yuhan | Peng Liyao | Win | W+R | 7.5 | 3551 | 3 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Win | B+R | 7.5 | 3548 | -36 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Peng Liyao | Win | W+¼ | 7.5 | 3584 | 33 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tang Weixing | Peng Liyao | Win | W+R | 7.5 | 3551 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Peng Liyao | Chen Yunong | Lose | W+1¼ | 7.5 | 3551 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Shuo | Peng Liyao | Win | W+R | 7.5 | 3551 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Peng Liyao | Huang Yunsong | Lose | W+R | 7.5 | 3551 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tao Xinran | Peng Liyao | Lose | B+R | 7.5 | 3548 | -34 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Lose | W+R | 7.5 | 3582 | -2 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Win | W+R | 7.5 | 3584 | 28 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Peng Liyao | Win | W+¼ | 7.5 | 3584 | 34 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tang Weixing | Peng Liyao | Win | W+R | 7.5 | 3550 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Peng Liyao | Chen Yunong | Lose | W+1¼ | 7.5 | 3550 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Shuo | Peng Liyao | Win | W+R | 7.5 | 3550 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Peng Liyao | Huang Yunsong | Lose | W+R | 7.5 | 3550 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tao Xinran | Peng Liyao | Lose | B+R | 7.5 | 3547 | -34 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Lose | W+R | 7.5 | 3581 | -2 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Win | W+R | 7.5 | 3583 | 27 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Peng Liyao | Li Xuanhao | Lose | W+R | 7.5 | 3556 | -11 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tu Xiaoyu | Win | B+R | 7.5 | 3567 | 1 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Mi Yuting | Peng Liyao | Lose | B+R | 7.5 | 3566 | 0 | 
@@ -29,9 +30,9 @@
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Peng Liyao | Dang Yifei | Win | B+R | 7.5 | 3559 | -1 | 
 | 2022-02-14 | 第36期中国囲碁天元戦予選 | Tong Mengcheng | Peng Liyao | Lose | B+1¾ | 7.5 | 3560 | -20 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Peng Liyao | Fan Yin | Win | B+¾ | 7.5 | 3580 | 0 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Win | W+R | 7.5 | 3580 | -3 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Lose | W+R | 7.5 | 3583 | -6 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Peng Liyao | Win | W+R | 7.5 | 3589 | 15 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Win | W+R | 7.5 | 3580 | -2 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Lose | W+R | 7.5 | 3582 | -6 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Peng Liyao | Win | W+R | 7.5 | 3588 | 14 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Peng Liyao | Li Qincheng | Lose | W+R | 7.5 | 3574 | -4 | 
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Lose | W+R | 7.5 | 3578 | -6 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Li Xuanhao | Peng Liyao | Win | W+R | 7.5 | 3584 | 12 | 
@@ -53,8 +54,8 @@
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Lose | B+R | 7.5 | 3430 | 27 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Win | W+R | 6.5 | 3403 | 26 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Win | W+R | 6.5 | 3377 | 24 | 
-| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3353 | 32 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Win | W+R | 7.5 | 3321 | 47 | 
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3353 | 33 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Win | W+R | 7.5 | 3320 | 46 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Tang Weixing | Lose | W+R | 7.5 | 3274 | 5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shi Yulai | Win | B+R | 7.5 | 3269 | 21 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Peng Liyao | Xia Chenkun | Win | B+R | 7.5 | 3248 | 7 | 

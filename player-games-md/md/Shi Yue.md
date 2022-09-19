@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-18 | 第24回中国囲碁甲級リーグ |  | Shi Yue | Win | W+R | 7.5 | 3578 | 2 | 
 | 2022-09-16 | 2022CCTV杯中国囲棋電視快棋戦決勝 | Xie Erhao | Shi Yue | Win | W+R | 7.5 | 3576 | 9 | 
 | 2022-09-15 | 2022CCTV杯中国囲棋電視快棋戦準決勝 | Liao Yuanhe | Shi Yue | Win | W+R | 7.5 | 3567 | 4 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Shi Yue | Tao Xinran | Win | B+R | 7.5 | 3563 | 8 | 
@@ -16,13 +17,13 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Shi Yue | Kim Myounghoon | Win | B+2¾ | 7.5 | 3478 | 17 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Lian Xiao | Shi Yue | Lose | B+R | 7.5 | 3461 | -9 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xie Erhao | Shi Yue | Lose | B+R | 7.5 | 3470 | -32 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Shi Yue | Byun Sangil | Lose | W+R | 7.5 | 3502 | 64 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Shi Yue | Win | W+R | 7.5 | 3438 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ  | Shi Yue | Xu Haohong | Win | B+R | 7.5 | 3438 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Meng Tailing | Shi Yue | Win | W+R | 7.5 | 3438 | 0 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Lose | W+R | 7.5 | 3438 | -19 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Win | W+R | 7.5 | 3457 | 21 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Ma Yichao | Shi Yue | Win | W+R | 7.5 | 3436 | -37 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Shi Yue | Byun Sangil | Lose | W+R | 7.5 | 3502 | 65 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Shi Yue | Win | W+R | 7.5 | 3437 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ  | Shi Yue | Xu Haohong | Win | B+R | 7.5 | 3437 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Meng Tailing | Shi Yue | Win | W+R | 7.5 | 3437 | 0 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Lose | W+R | 7.5 | 3437 | -19 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Win | W+R | 7.5 | 3456 | 21 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Ma Yichao | Shi Yue | Win | W+R | 7.5 | 3435 | -38 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Shi Yue | Liu Yuhang | Lose | W+R | 7.5 | 3473 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦1回戦 | Shi Yue | Chang Hao | Win | B+R | 7.5 | 3473 | -7 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Shin Minjun | Lose | W+R | 6.5 | 3480 | -77 | 
@@ -31,19 +32,19 @@
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Mi Yuting | Shi Yue | Win | W+R | 7.5 | 3544 | 24 | 
 | 2022-04-10 | 2022年アジア競技大会中国予選 | Shi Yue | Xie Ke | Lose | W+R | 7.5 | 3520 | -14 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Kim Myounghoon | Shi Yue | Lose | B+R | 7.5 | 3534 | 25 | 
-| 2022-02-27 | 第36期中国囲碁天元戦3回戦 | Shi Yue | Xie Ke | Lose | W+R | 7.5 | 3509 | -6 | 
-| 2022-02-23 | 第14回春蘭杯中国予選 | Shi Yue | Lian Xiao | Win | B+R | 7.5 | 3515 | 14 | 
-| 2022-02-21 | 第14回春蘭杯中国予選 | Xie Ke | Shi Yue | Win | W+R | 7.5 | 3501 | 8 | 
+| 2022-02-27 | 第36期中国囲碁天元戦3回戦 | Shi Yue | Xie Ke | Lose | W+R | 7.5 | 3509 | -5 | 
+| 2022-02-23 | 第14回春蘭杯中国予選 | Shi Yue | Lian Xiao | Win | B+R | 7.5 | 3514 | 14 | 
+| 2022-02-21 | 第14回春蘭杯中国予選 | Xie Ke | Shi Yue | Win | W+R | 7.5 | 3500 | 7 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Wang Haoyang | Shi Yue | Win | W+R | 7.5 | 3493 | 6 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xu Jiayang | Shi Yue | Win | W+R | 7.5 | 3487 | 0 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Shi Yue | Liao Yuanhe | Win | B+¾ | 7.5 | 3487 | -11 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Lose | B+R | 7.5 | 3498 | -4 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Lose | W+R | 7.5 | 3502 | 7 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Shi Yue | Liao Yuanhe | Win | B+¾ | 7.5 | 3487 | -10 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Lose | B+R | 7.5 | 3497 | -4 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Lose | W+R | 7.5 | 3501 | 6 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Shi Yue | Mi Yuting | Lose | W+¼ | 7.5 | 3495 | -1 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3496 | 18 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Lose | B+R | 7.5 | 3478 | -3 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Lose | B+R | 7.5 | 3481 | -13 | 
-| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Win | W+R | 7.5 | 3494 | 10 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3496 | 19 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Lose | B+R | 7.5 | 3477 | -4 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Lose | B+R | 7.5 | 3481 | -12 | 
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Win | W+R | 7.5 | 3493 | 9 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Win | W+R | 7.5 | 3484 | 14 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Win | B+R | 7.5 | 3470 | 9 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Shi Yue | Lose | B+R | 7.5 | 3461 | -27 | 
@@ -53,8 +54,8 @@
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Ma Yichao | Shi Yue | Lose | B+R | 7.5 | 3496 | 23 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Shi Yue | Chen Bisen | Lose | W+1¼ | 7.5 | 3473 | -3 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Shi Yue | Lian Xiao | Lose | W+R | 6.5 | 3476 | 0 | 
-| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Ding Hao | Shi Yue | Lose | B+R | 7.5 | 3476 | 8 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3468 | 13 | 
+| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Ding Hao | Shi Yue | Lose | B+R | 7.5 | 3476 | 9 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3467 | 12 | 
 | 2021-07-07 | 第5期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局 | Shi Yue | Ke Jie | Lose | W+R | 7.5 | 3455 | -7 | 
 | 2021-07-05 | 第5期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Ke Jie | Shi Yue | Lose | B+R | 7.5 | 3462 | 16 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Shi Yue | Lose | B+1¾ | 7.5 | 3446 | -8 | 
@@ -71,9 +72,9 @@
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Shi Yue | He Yuhan | Win | B+R | 7.5 | 3389 | 10 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhao Chenyu | Win | B+¾ | 7.5 | 3379 | 24 | 
 | 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Yuhang | Shi Yue | Lose | B+R | 7.5 | 3355 | -5 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Han Yizhou | Shi Yue | Lose | B+¾ | 7.5 | 3360 | 4 | 
-| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Yang Dingxin | Shi Yue | Lose | B+R | 7.5 | 3356 | -5 | 
-| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Zheng Zaixiang | Shi Yue | Win | W+R | 7.5 | 3361 | -11 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Han Yizhou | Shi Yue | Lose | B+¾ | 7.5 | 3360 | 5 | 
+| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Yang Dingxin | Shi Yue | Lose | B+R | 7.5 | 3355 | -5 | 
+| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Zheng Zaixiang | Shi Yue | Win | W+R | 7.5 | 3360 | -12 | 
 | 2021-03-11 | 第35期中国囲碁天元戦予選 | Chen Xian | Shi Yue | Lose | B+R | 7.5 | 3372 | 50 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Shi Yue | Win | W+¼ | 7.5 | 3322 | 14 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Shi Yue | Fan Yin | Lose | W+R | 7.5 | 3308 | -9 | 

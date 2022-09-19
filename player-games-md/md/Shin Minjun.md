@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-19 | 第45期名人戦（韓国）敗者組5回戦 | Shin Minjun | Weon Seongjin | Win | B+3.5 | 6.5 | 3520 | 3 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Shin Minjun | Li Xuanhao | Lose | W+R | 7.5 | 3517 | -10 | 
 | 2022-09-14 | 第45期名人戦（韓国）敗者組4回戦 | Shin Minjun | Kim Jiseok | Win | B+R | 6.5 | 3527 | 9 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Lose | B+R | 7.5 | 3518 | -1 | 

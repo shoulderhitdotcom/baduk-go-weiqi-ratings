@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Wang Yuanjun** | **Chen Qirui Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Chen Qirui | B+R | 6.5 | 7:9 | 0 | 3 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Wang Yuanjun | W+R | 6.5 | 7:8 | 0 | 2 | 
 | 2021-11-21 | 第9期中環碁聖戦決勝三番勝負第3局 | Chen Qirui | Wang Yuanjun | W+R | 6.5 | 7:7 | 0 | 1 | 
 | 2021-11-07 | 第9期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Qirui | W+R | 6.5 | 7:6 | 1 | 0 | 

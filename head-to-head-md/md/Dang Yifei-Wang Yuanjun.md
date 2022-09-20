@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Wang Yuanjun** | **Dang Yifei streak** | **Wang Yuanjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Wang Yuanjun** | **Dang Yifei Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Dang Yifei | Wang Yuanjun | B+R | 7.5 | 1:0 | 1 | 0 |
 

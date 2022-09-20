@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Daehyeon vs Kim Chongsu** | **Cho Daehyeon streak** | **Kim Chongsu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Daehyeon Vs Kim Chongsu** | **Cho Daehyeon Streak** | **Kim Chongsu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chongsu | W+R | 6.5 | 1:5 | 0 | 3 | 
 | 2019-12-02 | 2019NHシニア囲碁リーグ第12節第1試合第3局 | Kim Chongsu | Cho Daehyeon | B+8.5 | 6.5 | 1:4 | 0 | 2 | 
 | 2018-08-06 | 第3回韓国シニア囲碁リーグ第9節霊岩-三陟 | Cho Daehyeon | Kim Chongsu | W+3.5 | 6.5 | 1:3 | 0 | 1 | 
 | 2017-09-13 | 2回韓国元老連戦8回戦三陟-霊岩 | Kim Chongsu | Cho Daehyeon | W+0.5 | 6.5 | 1:2 | 1 | 0 | 

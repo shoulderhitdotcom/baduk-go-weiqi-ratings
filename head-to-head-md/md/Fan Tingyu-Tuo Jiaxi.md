@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Tuo Jiaxi** | **Fan Tingyu Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | B+¾ | 7.5 | 11:5 | 0 | 1 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Fan Tingyu | W+¼ | 7.5 | 11:4 | 4 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | W+R | 7.5 | 10:4 | 3 | 0 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | W+R | 7.5 | 9:4 | 2 | 0 | 

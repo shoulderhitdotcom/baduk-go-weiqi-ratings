@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Lose | B+R | 7.5 | 3451 | -28 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Chen Yunong | Wang Zheyu | Win | B+R | 7.5 | 3479 | 14 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yunong | Yi Lingtao | Win | B+R | 7.5 | 3465 | 26 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Chen Yunong | Jiang Qirun | Lose | W+¼ | 7.5 | 3439 | -29 | 

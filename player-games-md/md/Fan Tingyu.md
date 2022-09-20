@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | Lose | B+¾ | 7.5 | 3670 | -21 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Lingyi | Win | B+1¾ | 7.5 | 3691 | 1 | 
 | 2022-09-15 | 第27回三星火災杯中国予選 | Peng Liyao | Fan Tingyu | Win | W+R | 6.5 | 3690 | 3 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Fan Tingyu | Lose | B+R | 7.5 | 3687 | 10 | 

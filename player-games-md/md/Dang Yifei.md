@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+R | 7.5 | 3629 | -4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Dang Yifei | Win | W+R | 7.5 | 3633 | -2 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Dang Yifei | Lose | B+R | 7.5 | 3635 | 23 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Dang Yifei | Win | W+R | 7.5 | 3612 | -12 | 

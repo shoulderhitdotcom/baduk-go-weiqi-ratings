@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | Win | B+¾ | 7.5 | 3592 | -1 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ye Changxin | Tuo Jiaxi | Win | W+R | 7.5 | 3593 | 1 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 7.5 | 3592 | -10 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Shin Minjun | Tuo Jiaxi | Win | W+R | 7.5 | 3602 | 28 | 

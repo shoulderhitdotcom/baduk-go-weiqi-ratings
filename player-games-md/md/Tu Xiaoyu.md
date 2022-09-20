@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Tu Xiaoyu | Win | W+2¼ | 7.5 | 3523 | -4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Shiyi | Win | B+R | 7.5 | 3527 | 0 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Liao Yuanhe | Tu Xiaoyu | Lose | B+R | 7.5 | 3527 | -15 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Win | B+R | 7.5 | 3542 | 0 | 

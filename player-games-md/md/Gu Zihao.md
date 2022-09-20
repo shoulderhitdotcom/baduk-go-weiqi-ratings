@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第36期中国囲碁天元戦挑戦手合三番勝負第1局 | Mi Yuting | Gu Zihao | Lose | B+R | 7.5 | 3581 | -19 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Gu Zihao | Byun Sangil | Lose | W+R | 7.5 | 3600 | -11 | 
 | 2022-09-14 | 第27回三星火災杯中国予選 | Gu Zihao | Tong Mengcheng | Win | B+R | 6.5 | 3611 | 4 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Lose | W+R | 7.5 | 3607 | -11 | 

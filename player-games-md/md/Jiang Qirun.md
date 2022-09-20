@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Jiang Qirun | Lose | B+1¾ | 7.5 | 3354 | -31 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Wang Chunhui | Win | B+R | 7.5 | 3385 | 8 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Jiang Qirun |  | Win | B+R | 7.5 | 3377 | 21 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Chen Yunong | Jiang Qirun | Win | W+¼ | 7.5 | 3356 | 0 | 

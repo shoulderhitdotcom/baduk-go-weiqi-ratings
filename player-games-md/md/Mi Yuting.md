@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第36期中国囲碁天元戦挑戦手合三番勝負第1局 | Mi Yuting | Gu Zihao | Win | B+R | 7.5 | 3646 | -8 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xie Erhao | Mi Yuting | Lose | B+R | 7.5 | 3654 | -8 | 
 | 2022-09-15 | 第27回三星火災杯中国予選 | Tao Xinran | Mi Yuting | Win | W+R | 6.5 | 3662 | 1 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Mi Yuting | Lose | B+R | 7.5 | 3661 | 0 | 

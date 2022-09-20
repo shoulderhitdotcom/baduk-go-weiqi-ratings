@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-20 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Jiang Qirun | Win | B+1¾ | 7.5 | 3435 | 0 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Liao Yuanhe | Win | W+R | 7.5 | 3435 | -13 | 
 | 2022-09-15 | 2022CCTV杯中国囲棋電視快棋戦準決勝 | Liao Yuanhe | Shi Yue | Lose | W+R | 7.5 | 3448 | -14 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Liao Yuanhe | Tu Xiaoyu | Win | B+R | 7.5 | 3462 | 14 | 

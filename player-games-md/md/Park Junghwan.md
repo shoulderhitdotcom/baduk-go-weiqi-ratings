@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-21 | 第45期名人戦（韓国）敗者組決勝 | Shin Minjun | Park Junghwan | Lose | B+R | 6.5 | 3638 | -12 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Park Junghwan | Li Weiqing | Lose | W+R | 7.5 | 3650 | -6 | 
 | 2022-09-15 | 第45期名人戦（韓国）勝者組決勝 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3656 | 4 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | Lose | W+R | 7.5 | 3652 | -7 | 

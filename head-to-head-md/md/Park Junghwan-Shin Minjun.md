@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Shin Minjun** | **Park Junghwan Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-21 | 第45期名人戦（韓国）敗者組決勝 | Shin Minjun | Park Junghwan | B+R | 6.5 | 8:7 | 0 | 2 | 
 | 2022-05-02 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | B+R | 6.5 | 8:6 | 0 | 1 | 
 | 2022-04-04 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Park Junghwan | W+R | 6.5 | 8:5 | 3 | 0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | B+R | 6.5 | 7:5 | 2 | 0 | 

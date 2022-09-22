@@ -106,7 +106,7 @@ The ratings are based on 4769 games from 2021-09-22 to 2022-09-21.
 | 80 | [Yi Lingtao](./player-games-md/md/Yi Lingtao.md) | 3299 | 29 | CHN | Male | 22.3 | 伊淩濤 | 
 | 81 | [Lee Jihyun](./player-games-md/md/Lee Jihyun.md) | 3299 | 43 | KOR | Female | 43.4 | 李志賢 | 
 | 82 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3297 | 16 | KOR | Male | 34.3 | 李賢虎 | 
-| 83 | [Hong Seongji](./player-games-md/md/Hong Seongji.md) | 3296 | 23 | KOR | Male | 35.1 | 洪性志 | 
+| 83 | [Hong Seongji](./player-games-md/md/Hong Seongji.md) | 3296 | 23 | KOR | Male | 35.2 | 洪性志 | 
 | 84 | [Heo Youngrak](./player-games-md/md/Heo Youngrak.md) | 3296 | 19 | KOR | Male | 26.6 | 許栄珞 | 
 | 85 | [Hu Zihao](./player-games-md/md/Hu Zihao.md) | 3292 | 22 | missing | missing | missing | 胡子豪 | 
 | 86 | [Han Woojin](./player-games-md/md/Han Woojin.md) | 3291 | 22 | missing | missing | missing | 韓友賑 | 

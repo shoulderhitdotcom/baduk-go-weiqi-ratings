@@ -56,11 +56,11 @@ for (name1, name2) in head_to_head_sets
     head_to_head = @chain df begin
         @subset ((:black .== name1) .& (:white .== name2)) .| ((:black .== name2) .& (:white .== name1))
         @transform :name1win = ifelse((:who_win == "W") & (:white == name1) | (:who_win == "B") & (:black == name1), 1, 0)
-        @transform :name1win_cum = @c reverse(accumulate(+, reverse(:name1win)))
-        @transform :name2win_cum = @c reverse(accumulate(+, 1 .- reverse(:name1win)))
+        @transform :name1win_cum = @bycol reverse(accumulate(+, reverse(:name1win)))
+        @transform :name2win_cum = @bycol reverse(accumulate(+, 1 .- reverse(:name1win)))
         @transform :cum = string(:name1win_cum) * ":" * string(:name2win_cum)
-        @transform :name1win_streak = @c accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(:name1win)) |> reverse
-        @transform :name2win_streak = @c accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(1 .- :name1win)) |> reverse
+        @transform :name1win_streak = @bycol accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(:name1win)) |> reverse
+        @transform :name2win_streak = @bycol accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(1 .- :name1win)) |> reverse
         select!(
             :date=>:Date,
             :comp=>:Comp,

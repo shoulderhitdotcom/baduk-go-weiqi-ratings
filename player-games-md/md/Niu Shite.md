@@ -7,15 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shuyang | Niu Shite | Lose | B+R | 6.5 | 2823 | -98 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 | Niu Shite | Li Wei | Lose | W+R | 6.5 | 2921 | -44 | 
-| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | Lose | W+R | 6.5 | 2965 | 13 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Win | B+R | 6.5 | 2952 | 7 | 
-| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Niu Shite | Win | W+R | 7.5 | 2945 | 5 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Li Wei | Niu Shite | Lose | B+R | 6.5 | 2940 | -42 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | Lose | B+R | 6.5 | 2982 | 0 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Niu Shite |  | Win | B+R | 6.5 | 2982 | 59 | 
-| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Cai Chengwei | Win | B+R | 6.5 | 2923 | missing |
+| 2022-09-25 | 第10期中環碁聖戦 | Zhang Kaixin | Niu Shite | Win | W+R | 6.5 | 2723 | -49 | 
+| 2022-09-22 | 第15期棋王戦（台湾）リーグ | Niu Shite | Wang Yuanjun | Lose | W+R | 6.5 | 2772 | 0 | 
+| 2022-09-15 | 第15期棋王戦（台湾）リーグ | Li Wei | Niu Shite | Lose | B+R | 6.5 | 2772 | -47 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shuyang | Niu Shite | Lose | B+R | 6.5 | 2819 | -98 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 | Niu Shite | Li Wei | Lose | W+R | 6.5 | 2917 | -45 | 
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | Lose | W+R | 6.5 | 2962 | 13 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Win | B+R | 6.5 | 2949 | 7 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Niu Shite | Win | W+R | 7.5 | 2942 | 5 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Li Wei | Niu Shite | Lose | B+R | 6.5 | 2937 | -42 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | Lose | B+R | 6.5 | 2979 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Niu Shite |  | Win | B+R | 6.5 | 2979 | 59 | 
+| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Cai Chengwei | Win | B+R | 6.5 | 2920 | missing |
 
 
 

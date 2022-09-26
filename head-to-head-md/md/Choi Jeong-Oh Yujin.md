@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Oh Yujin** | **Choi Jeong Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-25 | 第5回呉清源杯世界女子囲碁選手権準決勝 | Choi Jeong | Oh Yujin | W+R | 7.5 | 24:7 | 0 | 1 | 
 | 2022-07-30 | 第8回韓国女子囲碁リーグ | Oh Yujin | Choi Jeong | W+R | 6.5 | 24:6 | 2 | 0 | 
 | 2022-01-28 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第4局 | Choi Jeong | Oh Yujin | B+R | 6.5 | 23:6 | 1 | 0 | 
 | 2022-01-21 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第3局 | Oh Yujin | Choi Jeong | B+R | 6.5 | 22:6 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Qincheng vs Motoki Katsuya** | **Li Qincheng streak** | **Motoki Katsuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Motoki Katsuya** | **Li Qincheng Streak** | **Motoki Katsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Motoki Katsuya | B+R | 6.5 | 1:0 | 1 | 0 |
 

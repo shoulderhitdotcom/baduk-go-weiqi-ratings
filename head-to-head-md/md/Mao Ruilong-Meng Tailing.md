@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mao Ruilong vs Meng Tailing** | **Mao Ruilong streak** | **Meng Tailing streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mao Ruilong Vs Meng Tailing** | **Mao Ruilong Streak** | **Meng Tailing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-22 | 第32期中国囲碁天元戦予選 | Meng Tailing | Mao Ruilong | W+R | 7.5 | 4:1 | 3 | 0 | 
 | 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Meng Tailing | Mao Ruilong | W+R | 7.5 | 3:1 | 2 | 0 | 

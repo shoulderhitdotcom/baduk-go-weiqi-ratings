@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mao Ruilong Vs Zhou Ruiyang** | **Mao Ruilong Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Zhou Ruiyang | Mao Ruilong | B+1¾ | 7.5 | 2:6 | 0 | 2 | 
 | 2017-01-18 | 第31期中国囲碁天元戦3回戦 | Zhou Ruiyang | Mao Ruilong | B+R | 7.5 | 2:5 | 0 | 1 | 
 | 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Mao Ruilong | W+R | 7.5 | 2:4 | 1 | 0 | 
 | 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Mao Ruilong | B+R | 7.5 | 1:4 | 0 | 1 | 

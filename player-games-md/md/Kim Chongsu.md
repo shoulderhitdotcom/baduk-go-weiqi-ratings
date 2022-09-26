@@ -7,20 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-20 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Kim Dongyeop | Win | B+0.5 | 6.5 | 2660 | 11 | 
-| 2022-09-14 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Win | W+R | 6.5 | 2649 | 12 | 
-| 2022-09-07 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Win | B+2.5 | 6.5 | 2637 | 94 | 
-| 2022-09-01 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Chongsu | Win | W+2.5 | 6.5 | 2543 | -20 | 
-| 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Park Seungmun | Win | B+6.5 | 6.5 | 2563 | 9 | 
-| 2022-07-04 | 第24回農心杯韓国予選 | Kim Chongsu | Kim Soojang | Lose | W+R | 6.5 | 2554 | 44 | 
+| 2022-09-26 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Chongsu | Win | W+R | 6.5 | 2632 | -29 | 
+| 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Kim Chongsu | Lose | B+3.5 | 6.5 | 2661 | 0 | 
+| 2022-09-20 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Kim Dongyeop | Win | B+0.5 | 6.5 | 2661 | 11 | 
+| 2022-09-14 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Win | W+R | 6.5 | 2650 | 11 | 
+| 2022-09-07 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Win | B+2.5 | 6.5 | 2639 | 94 | 
+| 2022-09-01 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Chongsu | Win | W+2.5 | 6.5 | 2545 | -19 | 
+| 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Park Seungmun | Win | B+6.5 | 6.5 | 2564 | 9 | 
+| 2022-07-04 | 第24回農心杯韓国予選 | Kim Chongsu | Kim Soojang | Lose | W+R | 6.5 | 2555 | 45 | 
 | 2022-03-04 | 第9回大舟杯プロシニア最強者戦1回戦 | Cho Hyeyeon | Kim Chongsu | Lose | B+15.5 | 6.5 | 2510 | 30 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yoda Norimoto | Kim Chongsu | Lose | B+4.5 | 6.5 | 2480 | 85 | 
 | 2021-11-22 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Lose | W+R | 6.5 | 2395 | -25 | 
-| 2021-11-16 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Chuljung | Win | B+13.5 | 6.5 | 2420 | 27 | 
-| 2021-11-03 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Lose | W+4.5 | 6.5 | 2393 | 7 | 
-| 2021-10-28 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chongsu | Win | W+R | 6.5 | 2386 | -91 | 
-| 2021-10-18 | 2021韓国シニア囲碁リーグ | Kim Chongsu |  | Win | B+R | 6.5 | 2477 | -11 | 
-| 2021-10-12 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim Chongsu | Lose | B+0.5 | 6.5 | 2488 | -67 | 
+| 2021-11-16 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Chuljung | Win | B+13.5 | 6.5 | 2420 | 26 | 
+| 2021-11-03 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Lose | W+4.5 | 6.5 | 2394 | 8 | 
+| 2021-10-28 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chongsu | Win | W+R | 6.5 | 2386 | -92 | 
+| 2021-10-18 | 2021韓国シニア囲碁リーグ | Kim Chongsu |  | Win | B+R | 6.5 | 2478 | -11 | 
+| 2021-10-12 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim Chongsu | Lose | B+0.5 | 6.5 | 2489 | -66 | 
 | 2021-10-07 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Win | W+5.5 | 6.5 | 2555 | -15 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Lose | W+1.5 | 6.5 | 2570 | -38 | 
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Chongsu | Lose | B+5.5 | 6.5 | 2608 | 27 | 

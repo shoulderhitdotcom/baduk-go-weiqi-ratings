@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-18 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Zhou Ruiyang | Lose | B+1¾ | 7.5 | 3259 | -95 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3354 | -34 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Shin Jinseo | Lose | W+R | 7.5 | 3388 | 117 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Byun Sangil | Zhou Ruiyang | Lose | B+R | 7.5 | 3271 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Kang Dongyun | Win | B+R | 7.5 | 3271 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhou Ruiyang | Win | W+1¼ | 7.5 | 3271 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | W+R | 7.5 | 3268 | -123 | 
-| 2022-02-15 | 第36期中国囲碁天元戦予選 | Tao Xinran | Zhou Ruiyang | Lose | B+R | 7.5 | 3391 | -28 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3419 | 28 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3391 | 28 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Zhou Ruiyang | Mao Ruilong | Win | B+1¾ | 7.5 | 3324 | 64 | 
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Zhou Ruiyang | Lose | B+1¾ | 7.5 | 3260 | -96 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3356 | -33 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Shin Jinseo | Lose | W+R | 7.5 | 3389 | 116 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Byun Sangil | Zhou Ruiyang | Lose | B+R | 7.5 | 3273 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Kang Dongyun | Win | B+R | 7.5 | 3273 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhou Ruiyang | Win | W+1¼ | 7.5 | 3273 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | W+R | 7.5 | 3270 | -122 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Tao Xinran | Zhou Ruiyang | Lose | B+R | 7.5 | 3392 | -28 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3420 | 28 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3392 | 29 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Lose | W+R | 7.5 | 3363 | -16 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3379 | -16 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Lose | W+R | 7.5 | 3395 | -17 | 

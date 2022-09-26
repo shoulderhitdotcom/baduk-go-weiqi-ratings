@@ -7,20 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-18 | 第24回中国囲碁甲級リーグ | He Yuhan | Chen Zijian | Win | W+R | 7.5 | 3527 | 19 | 
-| 2022-09-11 | 第24回中国囲碁甲級リーグ | Chen Zijian | Huang Mingyu | Win | B+R | 7.5 | 3508 | 61 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Lose | B+¾ | 7.5 | 3447 | 9 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Zijian | Liu Yuhang | Win | B+R | 7.5 | 3438 | 47 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Tong Mengcheng | Lose | W+R | 7.5 | 3391 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Chen Zijian | Win | W+R | 7.5 | 3391 | 0 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Lose | W+R | 7.5 | 3391 | -4 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Lose | W+R | 7.5 | 3395 | -29 | 
-| 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | Lose | W+R | 7.5 | 3424 | 0 | 
-| 2022-06-18 | 第21回西南棋王戦1回戦 | Chen Zijian | Liao Yuanhe | Win | B+1¾ | 7.5 | 3424 | 9 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Jiang Weijie | Chen Zijian | Lose | B+R | 7.5 | 3415 | -24 | 
-| 2022-02-15 | 第36期中国囲碁天元戦予選 | Li Xuanhao | Chen Zijian | Win | W+R | 7.5 | 3439 | -7 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Win | W+R | 7.5 | 3446 | 23 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Win | W+R | 7.5 | 3423 | 44 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Chen Zijian | Xie Ke | Lose | W+R | 7.5 | 3492 | -36 | 
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | He Yuhan | Chen Zijian | Win | W+R | 7.5 | 3528 | 19 | 
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Chen Zijian | Huang Mingyu | Win | B+R | 7.5 | 3509 | 60 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Lose | B+¾ | 7.5 | 3449 | 9 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Zijian | Liu Yuhang | Win | B+R | 7.5 | 3440 | 47 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Tong Mengcheng | Lose | W+R | 7.5 | 3393 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Chen Zijian | Win | W+R | 7.5 | 3393 | 0 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Lose | W+R | 7.5 | 3393 | -4 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Zijian | Peng Liyao | Lose | W+R | 7.5 | 3397 | -28 | 
+| 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | Lose | W+R | 7.5 | 3425 | 0 | 
+| 2022-06-18 | 第21回西南棋王戦1回戦 | Chen Zijian | Liao Yuanhe | Win | B+1¾ | 7.5 | 3425 | 9 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Jiang Weijie | Chen Zijian | Lose | B+R | 7.5 | 3416 | -24 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Li Xuanhao | Chen Zijian | Win | W+R | 7.5 | 3440 | -7 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Win | W+R | 7.5 | 3447 | 23 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Win | W+R | 7.5 | 3424 | 45 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Xin | Chen Zijian | Win | W+R | 7.5 | 3379 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Zijian | Win | W+2¼ | 7.5 | 3375 | 14 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Tan Xiao | Chen Zijian | Win | W+R | 7.5 | 3361 | 15 | 

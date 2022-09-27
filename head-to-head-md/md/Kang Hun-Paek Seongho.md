@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Hun vs Paek Seongho** | **Kang Hun streak** | **Paek Seongho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Hun Vs Paek Seongho** | **Kang Hun Streak** | **Paek Seongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-27 | 2022韓国シニア囲碁リーグ | Paek Seongho | Kang Hun | W+0.5 | 6.5 | 4:2 | 2 | 0 | 
 | 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第2局 | Kang Hun | Paek Seongho | B+R | 6.5 | 3:2 | 1 | 0 | 
 | 2017-09-04 | 2回韓国元老連戦7回戦尚州-浦項 | Paek Seongho | Kang Hun | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2016-06-20 | 第1回韓国シニア囲碁リーグ | Kang Hun | Paek Seongho | B+R | 6.5 | 2:1 | 1 | 0 | 

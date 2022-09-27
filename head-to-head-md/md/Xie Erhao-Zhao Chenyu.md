@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Xie Erhao Vs Zhao Chenyu** | **Xie Erhao Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Zhao Chenyu | Xie Erhao | W+R | 7.5 | 5:3 | 2 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Zhao Chenyu | B+R | 7.5 | 4:3 | 1 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xie Erhao | B+R | 7.5 | 3:3 | 0 | 1 | 
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Zhao Chenyu | B+R | 6.5 | 3:2 | 2 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mimura Tomoyasu vs Yoda Norimoto** | **Mimura Tomoyasu streak** | **Yoda Norimoto streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mimura Tomoyasu Vs Yoda Norimoto** | **Mimura Tomoyasu Streak** | **Yoda Norimoto Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-25 | 第78期本因坊戦予選 | Mimura Tomoyasu | Yoda Norimoto | B+R | 6.5 | 4:6 | 1 | 0 | 
 | 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | B+2.5 | 6.5 | 3:6 | 0 | 3 | 

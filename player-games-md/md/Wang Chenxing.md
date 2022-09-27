@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-27 | 第5回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Oh Yujin | Wang Chenxing | Lose | B+R | 7.5 | 3028 | -29 | 
 | 2022-09-25 | 第5回呉清源杯世界女子囲碁選手権準決勝 | Kim Cheayoung | Wang Chenxing | Win | W+R | 7.5 | 3057 | 87 | 
 | 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Wang Chenxing | Lu Yuhua | Win | B+R | 7.5 | 2970 | 5 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Wang Chenxing | Win | W+R | 7.5 | 2965 | 16 | 
@@ -19,9 +20,9 @@
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Chu Keer | Lose | W+R | 7.5 | 3060 | -5 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Cai Bihan | Win | B+R | 7.5 | 3065 | 8 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Wang Chenxing | Lose | B+R | 7.5 | 3057 | -16 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Win | B+R | 7.5 | 3073 | 22 | 
-| 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 3051 | 6 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 3045 | -3 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Win | B+R | 7.5 | 3073 | 23 | 
+| 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 3050 | 6 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 3044 | -4 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Wang Chenxing | Xu Yidi | Win | B+R | 7.5 | 3048 | 15 | 
 | 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Win | W+1¼ | 7.5 | 3033 | 20 | 
 | 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Li Xinchen | Wang Chenxing | Lose | B+R | 7.5 | 3013 | -2 | 
@@ -61,9 +62,9 @@
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing |  | Lose | W+R | 7.5 | 2953 | -13 | 
 | 2021-03-28 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Li Xiaoxi | Win | B+¾ | 7.5 | 2966 | 6 | 
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 2960 | 8 | 
-| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | 2952 | 138 | 
-| 2020-11-30 | 第3回呉清源杯世界女子囲碁選手権準決勝 | Wang Chenxing | Yu Zhiying | Lose | W+R | 7.5 | 2814 | -112 | 
-| 2020-11-24 | 第8回中国女子囲碁甲級リーグ |  | Wang Chenxing | Win | W+R | 7.5 | 2926 | -23 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | 2952 | 139 | 
+| 2020-11-30 | 第3回呉清源杯世界女子囲碁選手権準決勝 | Wang Chenxing | Yu Zhiying | Lose | W+R | 7.5 | 2813 | -112 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ |  | Wang Chenxing | Win | W+R | 7.5 | 2925 | -24 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Cai Bihan | Lose | W+R | 7.5 | 2949 | -6 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Tang Yi | Lose | W+R | 7.5 | 2955 | -49 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Wang Shuang | Win | B+R | 7.5 | 3004 | 45 | 

@@ -7,24 +7,25 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-18 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhao Chenyu | Win | B+R | 7.5 | 3493 | 26 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Zejin | Lose | B+R | 7.5 | 3467 | 3 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Zejin | Jin Yucheng | Win | B+1¾ | 7.5 | 3464 | -7 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zejin | Tan Xiao | Win | B+¾ | 7.5 | 3471 | 24 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Zejin | Shen Peiran | Win | B+R | 7.5 | 3447 | 23 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zejin | Yang Kaiwen | Lose | W+¼ | 7.5 | 3424 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Zejin | Ye Changxin | Win | B+R | 7.5 | 3424 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Ke Jie | Wang Zejin | Lose | B+R | 7.5 | 3424 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhou Ruiyang | Lose | W+1¼ | 7.5 | 3424 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Wang Zejin | Liao Yuanhe | Win | B+R | 7.5 | 3420 | 20 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Wang Zejin | Win | W+R | 7.5 | 3400 | 17 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Win | B+R | 7.5 | 3383 | 48 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | Lose | B+R | 7.5 | 3335 | -25 | 
-| 2022-02-15 | 第36期中国囲碁天元戦予選 | Wang Zejin |  | Win | B+R | 7.5 | 3360 | -14 | 
+| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Han Yizhou | Wang Zejin | Lose | B+R | 7.5 | 3472 | -22 | 
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhao Chenyu | Win | B+R | 7.5 | 3494 | 26 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Lian Xiao | Wang Zejin | Lose | B+R | 7.5 | 3468 | 3 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Zejin | Jin Yucheng | Win | B+1¾ | 7.5 | 3465 | -7 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Zejin | Tan Xiao | Win | B+¾ | 7.5 | 3472 | 24 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Wang Zejin | Shen Peiran | Win | B+R | 7.5 | 3448 | 22 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zejin | Yang Kaiwen | Lose | W+¼ | 7.5 | 3426 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Zejin | Ye Changxin | Win | B+R | 7.5 | 3426 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Ke Jie | Wang Zejin | Lose | B+R | 7.5 | 3426 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Zejin | Zhou Ruiyang | Lose | W+1¼ | 7.5 | 3426 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Wang Zejin | Liao Yuanhe | Win | B+R | 7.5 | 3422 | 20 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Wang Zejin | Win | W+R | 7.5 | 3402 | 17 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Win | B+R | 7.5 | 3385 | 49 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | Lose | B+R | 7.5 | 3336 | -25 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Wang Zejin |  | Win | B+R | 7.5 | 3361 | -13 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Guo Xinyi | Win | B+R | 7.5 | 3374 | 18 | 
-| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Han Yizhou | Win | B+R | 7.5 | 3356 | 36 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Zejin | Lose | B+R | 7.5 | 3320 | -6 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Win | B+1¼ | 7.5 | 3326 | -61 | 
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Han Yizhou | Win | B+R | 7.5 | 3356 | 35 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Zejin | Lose | B+R | 7.5 | 3321 | -6 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Win | B+1¼ | 7.5 | 3327 | -60 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Zejin | Lose | B+1¾ | 7.5 | 3387 | -22 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Win | B+R | 7.5 | 3409 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Zejin | Huang Mingyu | Lose | W+R | 7.5 | 3387 | -24 | 

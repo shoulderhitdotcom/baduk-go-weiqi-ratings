@@ -13,10 +13,10 @@
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Chen Xian | Ke Jie | Win | B+R | 7.5 | 3473 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Chen Yaoye | Win | B+R | 7.5 | 3473 | 46 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Xian | Win | W+R | 7.5 | 3427 | -16 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3443 | 24 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Win | W+R | 7.5 | 3419 | -7 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Xian | Liao Yuanhe | Win | B+R | 7.5 | 3426 | -8 | 
-| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Li Xiangyu | Chen Xian | Lose | B+R | 7.5 | 3434 | -36 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3443 | 25 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Win | W+R | 7.5 | 3418 | -7 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Xian | Liao Yuanhe | Win | B+R | 7.5 | 3425 | -8 | 
+| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Li Xiangyu | Chen Xian | Lose | B+R | 7.5 | 3433 | -37 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Chen Xian | Win | W+R | 7.5 | 3470 | 97 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Chen Xian | Yang Dingxin | Win | B+R | 7.5 | 3373 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Chen Xian | Win | W+R | 7.5 | 3373 | 0 | 
@@ -51,8 +51,8 @@
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 |  | Chen Xian | Win | W+R | 7.5 | 3519 | -4 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Hua Chang | Chen Xian | Lose | B+R | 7.5 | 3523 | 6 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Win | W+R | 7.5 | 3517 | 6 | 
-| 2021-08-25 | 第12期中国竜星戦予選 | Chen Xian |  | Win | B+R | 7.5 | 3511 | 16 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3495 | 9 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Chen Xian |  | Win | B+R | 7.5 | 3511 | 17 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3494 | 8 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Kim Jiseok | Win | B+R | 7.5 | 3486 | 19 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Xian | Chen Zijian | Win | B+R | 7.5 | 3467 | 21 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Chen Xian | Win | W+R | 7.5 | 3446 | 3 | 
@@ -62,10 +62,10 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Chen Xian | Win | W+R | 7.5 | 3438 | 15 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Xian | Wang Xinghao | Lose | W+R | 7.5 | 3423 | -15 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Zejin | Chen Xian | Lose | B+R | 7.5 | 3438 | -19 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Xian | Tao Xinran | Lose | W+R | 7.5 | 3457 | -5 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Chen Xian | Lose | B+2¾ | 7.5 | 3462 | -18 | 
-| 2021-03-12 | 第35期中国囲碁天元戦1回戦 | Xie Erhao | Chen Xian | Lose | B+R | 7.5 | 3480 | -18 | 
-| 2021-03-11 | 第35期中国囲碁天元戦予選 | Chen Xian | Shi Yue | Win | B+R | 7.5 | 3498 | 65 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Xian | Tao Xinran | Lose | W+R | 7.5 | 3457 | -4 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Chen Xian | Lose | B+2¾ | 7.5 | 3461 | -18 | 
+| 2021-03-12 | 第35期中国囲碁天元戦1回戦 | Xie Erhao | Chen Xian | Lose | B+R | 7.5 | 3479 | -18 | 
+| 2021-03-11 | 第35期中国囲碁天元戦予選 | Chen Xian | Shi Yue | Win | B+R | 7.5 | 3497 | 64 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Chen Xian | Li Xuanhao | Lose | W+R | 7.5 | 3433 | 14 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Chen Xian | Win | W+R | 7.5 | 3419 | 29 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Chen Xian | Win | W+R | 7.5 | 3390 | 10 | 

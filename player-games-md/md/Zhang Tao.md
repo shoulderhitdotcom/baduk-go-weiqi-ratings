@@ -12,8 +12,8 @@
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Xie Ke | Lose | W+R | 7.5 | 3527 | 0 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3527 | 13 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Tao | Jin Yucheng | Win | B+¾ | 7.5 | 3514 | 8 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Lose | W+R | 7.5 | 3506 | -35 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Win | B+R | 7.5 | 3541 | -22 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Lose | W+R | 7.5 | 3506 | -34 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Win | B+R | 7.5 | 3540 | -23 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Zhang Tao | Win | W+R | 7.5 | 3563 | 29 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhang Tao | Park Junghwan | Lose | W+2¼ | 7.5 | 3534 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3534 | 0 | 
@@ -55,8 +55,8 @@
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Zhang Tao | Lose | B+R | 7.5 | 3382 | -11 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Chen Yaoye | Win | B+R | 7.5 | 3393 | 17 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Win | B+R | 7.5 | 3376 | 41 | 
-| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Zhang Tao | Zhou Hexi | Win | B+R | 7.5 | 3335 | 15 | 
-| 2021-03-15 | 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | Lose | W+1¼ | 7.5 | 3320 | 22 | 
+| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Zhang Tao | Zhou Hexi | Win | B+R | 7.5 | 3335 | 16 | 
+| 2021-03-15 | 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | Lose | W+1¼ | 7.5 | 3319 | 21 | 
 | 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tao Xinran | Zhang Tao | Lose | B+1¾ | 7.5 | 3298 | -9 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Meng Tailing | Lose | W+R | 7.5 | 3307 | -24 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Huang Jingyuan | Zhang Tao | Win | W+R | 7.5 | 3331 | 45 | 

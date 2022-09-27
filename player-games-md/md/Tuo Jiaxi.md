@@ -11,8 +11,8 @@
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | Win | B+¾ | 7.5 | 3593 | -1 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ye Changxin | Tuo Jiaxi | Win | W+R | 7.5 | 3594 | 1 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 7.5 | 3593 | -10 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Shin Minjun | Tuo Jiaxi | Win | W+R | 7.5 | 3603 | 27 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Tuo Jiaxi | Win | W+R | 7.5 | 3576 | -9 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Shin Minjun | Tuo Jiaxi | Win | W+R | 7.5 | 3603 | 28 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Tuo Jiaxi | Win | W+R | 7.5 | 3575 | -10 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Li Xuanhao | Lose | W+R | 7.5 | 3585 | 72 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Weiqing | Tuo Jiaxi | Win | W+R | 7.5 | 3513 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Zihao | Win | B+R | 7.5 | 3513 | 0 | 
@@ -56,8 +56,8 @@
 | 2021-08-27 | 第26回三星火災杯中国予選 | Chen Zijian | Tuo Jiaxi | Win | W+R | 6.5 | 3578 | 25 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3553 | 1 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 6.5 | 3552 | -3 | 
-| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Lose | W+R | 7.5 | 3555 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3554 | 19 | 
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Lose | W+R | 7.5 | 3555 | 2 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3553 | 18 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3535 | 14 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3521 | 17 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Lose | W+R | 7.5 | 3504 | -8 | 
@@ -67,14 +67,14 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Rong Yi | Tuo Jiaxi | Lose | B+R | 7.5 | 3476 | -16 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Gu Zihao | Tuo Jiaxi | Lose | B+¾ | 7.5 | 3492 | 2 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Hu Yuhan | Win | B+R | 7.5 | 3490 | 1 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Tuo Jiaxi | Lose | B+R | 7.5 | 3489 | -3 | 
-| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Tang Weixing | Tuo Jiaxi | Lose | B+R | 7.5 | 3492 | -9 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Win | W+4¼ | 7.5 | 3501 | 26 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Tuo Jiaxi | Lose | B+R | 7.5 | 3489 | -2 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Tang Weixing | Tuo Jiaxi | Lose | B+R | 7.5 | 3491 | -9 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Win | W+4¼ | 7.5 | 3500 | 25 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Liao Yuanhe | Tuo Jiaxi | Win | W+R | 7.5 | 3475 | 8 | 
 | 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tuo Jiaxi | Yang Dingxin | Lose | W+R | 7.5 | 3467 | -12 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Tuo Jiaxi | Lose | B+R | 7.5 | 3479 | -17 | 
-| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Xuanhao | Lose | W+R | 7.5 | 3496 | -12 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Win | W+R | 7.5 | 3508 | 106 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Tuo Jiaxi | Lose | B+R | 7.5 | 3479 | -16 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Xuanhao | Lose | W+R | 7.5 | 3495 | -12 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Win | W+R | 7.5 | 3507 | 105 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | Win | W+R | 7.5 | 3402 | -1 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Win | W+R | 7.5 | 3403 | 9 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | Lose | B+R | 7.5 | 3394 | -24 | 
@@ -99,9 +99,9 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Ding Hao | Tuo Jiaxi | Lose | B+R | 7.5 | 3491 | -35 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Zhang Tao | Tuo Jiaxi | Win | W+R | 7.5 | 3526 | -82 | 
 | 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Win | B+¾ | 7.5 | 3608 | 0 | 
-| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Lose | B+3¾ | 7.5 | 3608 | -3 | 
-| 2020-06-14 | 第19回西南棋王戦2回戦 | Shi Yue | Tuo Jiaxi | Win | W+R | 7.5 | 3611 | 0 | 
-| 2020-06-14 | 第19回西南棋王戦1回戦 | Ma Yichao | Tuo Jiaxi | Win | W+R | 7.5 | 3611 | -11 | 
+| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Lose | B+3¾ | 7.5 | 3608 | -2 | 
+| 2020-06-14 | 第19回西南棋王戦2回戦 | Shi Yue | Tuo Jiaxi | Win | W+R | 7.5 | 3610 | 0 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Ma Yichao | Tuo Jiaxi | Win | W+R | 7.5 | 3610 | -12 | 
 | 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | Lose | B+R | 7.5 | 3622 | -18 | 
 | 2020-04-16 | 第25回LG杯中国予選 | Tuo Jiaxi | Ding Hao | Lose | W+R | 6.5 | 3640 | -55 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Lose | W+R | 7.5 | 3695 | -7 | 

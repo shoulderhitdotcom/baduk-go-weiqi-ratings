@@ -9,9 +9,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Chen Zijian | Xie Ke | Lose | W+R | 7.5 | 3492 | -36 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | He Yuhan | Chen Zijian | Win | W+R | 7.5 | 3528 | 19 | 
-| 2022-09-11 | 第24回中国囲碁甲級リーグ | Chen Zijian | Huang Mingyu | Win | B+R | 7.5 | 3509 | 60 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Lose | B+¾ | 7.5 | 3449 | 9 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Zijian | Liu Yuhang | Win | B+R | 7.5 | 3440 | 47 | 
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Chen Zijian | Huang Mingyu | Win | B+R | 7.5 | 3509 | 61 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Lose | B+¾ | 7.5 | 3448 | 9 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Zijian | Liu Yuhang | Win | B+R | 7.5 | 3439 | 46 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Tong Mengcheng | Lose | W+R | 7.5 | 3393 | 0 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Chen Zijian | Win | W+R | 7.5 | 3393 | 0 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Zijian | Shi Yue | Lose | W+R | 7.5 | 3393 | -4 | 
@@ -44,9 +44,9 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Erhao | Lose | W+R | 7.5 | 3313 | -8 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zijian | Rong Yi | Win | B+R | 7.5 | 3321 | 41 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Zhou Hexi | Lose | W+R | 7.5 | 3280 | -11 | 
-| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | Lose | B+R | 7.5 | 3291 | -25 | 
-| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Chen Zijian | Li Xuanhao | Lose | W+R | 7.5 | 3316 | -4 | 
-| 2021-03-16 | 第35期中国囲碁天元戦予選 | Fan Yin | Chen Zijian | Win | W+R | 7.5 | 3320 | 79 | 
+| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | Lose | B+R | 7.5 | 3291 | -24 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Chen Zijian | Li Xuanhao | Lose | W+R | 7.5 | 3315 | -4 | 
+| 2021-03-16 | 第35期中国囲碁天元戦予選 | Fan Yin | Chen Zijian | Win | W+R | 7.5 | 3319 | 78 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Chen Zijian | Win | W+R | 7.5 | 3241 | 30 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zijian | Na Hyun | Win | B+R | 7.5 | 3211 | 81 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Chen Zijian | Win | W+R | 7.5 | 3130 | 32 | 

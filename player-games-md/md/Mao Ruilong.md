@@ -8,8 +8,8 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Zhou Ruiyang | Mao Ruilong | Lose | B+1¾ | 7.5 | 3268 | 19 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Mao Ruilong | Lose | B+R | 7.5 | 3249 | -66 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Yang Kaiwen | Win | B+R | 7.5 | 3315 | 63 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Mao Ruilong | Lose | B+R | 7.5 | 3249 | -65 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Yang Kaiwen | Win | B+R | 7.5 | 3314 | 62 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Tang Weixing | Lose | W+R | 7.5 | 3252 | 36 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Wang Chunhui | Win | B+R | 7.5 | 3216 | 0 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Chen Zijian | Lose | W+R | 7.5 | 3216 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Liao Yuanhe** | **Chen Yaoye Streak** | **Liao Yuanhe Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Liao Yuanhe | Chen Yaoye | B+¾ | 7.5 | 6:1 | 0 | 1 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Chen Yaoye | W+1¼ | 7.5 | 6:0 | 6 | 0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Chen Yaoye | W+3¼ | 7.5 | 5:0 | 5 | 0 | 
 | 2019-08-05 | 第6回国手山脈国際囲碁大会世界プロ最強戦決勝 | Liao Yuanhe | Chen Yaoye | W+R | 6.5 | 4:0 | 4 | 0 | 

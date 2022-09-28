@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Meng Tailing Vs Tuo Jiaxi** | **Meng Tailing Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Meng Tailing | Tuo Jiaxi | W+R | 7.5 | 5:9 | 0 | 4 | 
 | 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | W+R | 7.5 | 5:8 | 0 | 3 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節天津-中信 | Meng Tailing | Tuo Jiaxi | W+R | 7.5 | 5:7 | 0 | 2 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Tuo Jiaxi | Meng Tailing | B+R | 7.5 | 5:6 | 0 | 1 | 

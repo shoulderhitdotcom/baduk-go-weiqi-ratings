@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Zhou Ruiyang** | **Li Qincheng Streak** | **Zhou Ruiyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Li Qincheng | Zhou Ruiyang | B+R | 7.5 | 6:4 | 2 | 0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | W+R | 7.5 | 5:4 | 1 | 0 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | W+R | 7.5 | 4:4 | 0 | 1 | 
 | 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Qincheng | Zhou Ruiyang | B+R | 7.5 | 4:3 | 2 | 0 | 

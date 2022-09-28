@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Meng Tailing vs Tu Xiaoyu** | **Meng Tailing streak** | **Tu Xiaoyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Meng Tailing Vs Tu Xiaoyu** | **Meng Tailing Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | B+R | 7.5 | 0:1 | 0 | 1 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Miri vs Kim Seungjun** | **Kim Miri streak** | **Kim Seungjun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Miri Vs Kim Seungjun** | **Kim Miri Streak** | **Kim Seungjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Miri | B+0.5 | 6.5 | 0:1 | 0 | 1 |
 

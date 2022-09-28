@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Dang Yifei | Tong Mengcheng | Win | W+R | 7.5 | 3446 | 17 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Tong Mengcheng | Lian Xiao | Win | B+¾ | 7.5 | 3429 | -11 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Lian Xiao | Lose | W+R | 7.5 | 3440 | -8 | 
 | 2022-09-14 | 第27回三星火災杯中国予選 | Gu Zihao | Tong Mengcheng | Lose | B+R | 6.5 | 3448 | -7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Jiang Weijie | Tu Xiaoyu | Win | B+¾ | 7.5 | 3462 | 23 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Wang Xinghao | Jiang Weijie | Win | W+R | 7.5 | 3439 | 19 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Yang Dingxin | Lose | W+R | 7.5 | 3420 | -10 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Mi Yuting | Lose | W+R | 7.5 | 3430 | -1 | 

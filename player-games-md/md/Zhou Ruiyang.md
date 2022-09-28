@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Zhou Ruiyang | Mao Ruilong | Win | B+1¾ | 7.5 | 3324 | 64 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Li Qincheng | Zhou Ruiyang | Lose | B+R | 7.5 | 3322 | -2 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Zhou Ruiyang | Mao Ruilong | Win | B+1¾ | 7.5 | 3324 | 64 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Zhou Ruiyang | Lose | B+1¾ | 7.5 | 3260 | -95 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3355 | -34 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Shin Jinseo | Lose | W+R | 7.5 | 3389 | 116 | 

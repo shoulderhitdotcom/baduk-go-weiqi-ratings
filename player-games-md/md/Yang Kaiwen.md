@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3523 | -4 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Ke | Yang Kaiwen | Win | W+1¼ | 7.5 | 3551 | 28 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3523 | -4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Kaiwen | Win | W+R | 7.5 | 3527 | 14 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Zhao Chenyu | Yang Kaiwen | Lose | B+R | 7.5 | 3513 | 2 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Gu Lingyi | Win | B+R | 7.5 | 3511 | 9 | 

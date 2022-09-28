@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第5回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Wang Chenxing | Oh Yujin | Lose | W+R | 7.5 | 3013 | -15 | 
 | 2022-09-27 | 第5回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Oh Yujin | Wang Chenxing | Lose | B+R | 7.5 | 3028 | -29 | 
 | 2022-09-25 | 第5回呉清源杯世界女子囲碁選手権準決勝 | Kim Cheayoung | Wang Chenxing | Win | W+R | 7.5 | 3057 | 87 | 
 | 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Wang Chenxing | Lu Yuhua | Win | B+R | 7.5 | 2970 | 5 | 

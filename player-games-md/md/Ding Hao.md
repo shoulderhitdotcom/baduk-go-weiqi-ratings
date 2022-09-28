@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Ding Hao | Peng Liyao | Win | B+R | 7.5 | 3644 | -5 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Shi Yue | Ding Hao | Lose | B+R | 7.5 | 3639 | -5 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Ding Hao | Peng Liyao | Win | B+R | 7.5 | 3644 | -5 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Kaiwen | Lose | W+R | 7.5 | 3649 | -1 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Ding Hao | Lose | B+¾ | 7.5 | 3650 | -10 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Xu Jiayang | Lose | W+R | 7.5 | 3660 | 7 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Tan Xiao | Li Qincheng | Win | W+R | 7.5 | 3579 | -6 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Li Qincheng | Zhou Ruiyang | Win | B+R | 7.5 | 3593 | 14 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Tan Xiao | Li Qincheng | Win | W+R | 7.5 | 3579 | -6 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Win | B+R | 7.5 | 3585 | 8 | 
 | 2022-09-15 | 2022CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Xie Erhao | Lose | W+R | 7.5 | 3577 | -11 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Xie Ke | Li Qincheng | Win | W+R | 7.5 | 3588 | 8 | 

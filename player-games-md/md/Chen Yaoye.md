@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Liao Yuanhe | Chen Yaoye | Lose | B+¾ | 7.5 | 3487 | -38 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Li Weiqing | Chen Yaoye | Win | W+R | 7.5 | 3525 | 7 | 
 | 2022-09-14 | 第27回三星火災杯中国予選 | Li Xuanhao | Chen Yaoye | Lose | B+2.5 | 6.5 | 3518 | -4 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Chen Yaoye | Lose | B+R | 7.5 | 3522 | -7 | 

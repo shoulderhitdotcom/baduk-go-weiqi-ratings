@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Dang Yifei | Tong Mengcheng | Lose | W+R | 7.5 | 3630 | 3 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Win | W+R | 7.5 | 3627 | -3 | 
 | 2022-09-22 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Dang Yifei | Lose | B+R | 7.5 | 3630 | 0 | 
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+R | 7.5 | 3630 | -4 | 

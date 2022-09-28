@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Erhao | Han Yizhou | Win | B+R | 7.5 | 3610 | 31 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Zhao Chenyu | Xie Erhao | Win | W+R | 7.5 | 3579 | 7 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xie Erhao | Mi Yuting | Win | B+R | 7.5 | 3572 | 12 | 
 | 2022-09-16 | 2022CCTV杯中国囲棋電視快棋戦決勝 | Xie Erhao | Shi Yue | Lose | W+R | 7.5 | 3560 | -9 | 

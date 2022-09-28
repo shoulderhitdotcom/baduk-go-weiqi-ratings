@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Liao Yuanhe | Chen Yaoye | Win | B+¾ | 7.5 | 3473 | 6 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Fan Yin | Liao Yuanhe | Win | W+¼ | 7.5 | 3467 | 31 | 
 | 2022-09-22 | 第24回中国囲碁甲級リーグ |  | Liao Yuanhe | Win | W+R | 7.5 | 3436 | 0 | 
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Jiang Qirun | Win | B+1¾ | 7.5 | 3436 | 0 | 

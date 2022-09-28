@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Tao Xinran | Meng Tailing | Win | W+R | 7.5 | 3448 | -60 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Meng Tailing | Tuo Jiaxi | Lose | W+R | 7.5 | 3395 | -53 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Tao Xinran | Meng Tailing | Win | W+R | 7.5 | 3448 | -60 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Meng Tailing | Shi Yue | Lose | W+R | 7.5 | 3508 | 0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3508 | 26 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Win | W+R | 7.5 | 3482 | 60 | 

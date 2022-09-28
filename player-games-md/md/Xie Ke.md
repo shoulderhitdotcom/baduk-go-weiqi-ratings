@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3546 | 3 | 
+| 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Ke | Yang Kaiwen | Lose | W+1¼ | 7.5 | 3547 | 1 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3546 | 3 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xie Ke | Tan Xiao | Lose | W+R | 7.5 | 3543 | -12 | 
 | 2022-09-14 | 2022CCTV杯中国囲棋電視快棋戦3回戦 | Xie Ke | Li Qincheng | Lose | W+R | 7.5 | 3555 | -7 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Xie Ke | Win | W+R | 7.5 | 3562 | 0 | 

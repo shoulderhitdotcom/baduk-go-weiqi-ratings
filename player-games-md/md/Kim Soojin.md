@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-18 | 第8回韓国女子囲碁リーグプレーオフ第2戦 | Oh Yujin | Kim Soojin | Lose | B+R | 6.5 | 2742 | 33 | 
-| 2022-08-16 | 2022Dr.G女子最高棋士決定戦予選 | Kim Eunji | Kim Soojin | Lose | B+R | 6.5 | 2709 | -65 | 
-| 2022-08-07 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Hyoyoung | Lose | W+R | 6.5 | 2774 | -64 | 
-| 2022-07-31 | 第8回韓国女子囲碁リーグ | Lee Minjin | Kim Soojin | Lose | B+R | 6.5 | 2838 | 127 | 
-| 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Win | B+R | 6.5 | 2711 | -94 | 
-| 2022-07-14 | 第8回韓国女子囲碁リーグ |  | Kim Soojin | Lose | B+2.5 | 6.5 | 2805 | 8 | 
-| 2022-06-26 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Soojin | Lose | B+6.5 | 6.5 | 2797 | 299 | 
-| 2022-06-16 | 第8回韓国女子囲碁リーグ | Kim Soojin |  | Win | B+R | 6.5 | 2498 | -7 | 
-| 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | W+R | 6.5 | 2505 | 383 | 
-| 2022-05-29 | 第8回韓国女子囲碁リーグ | Kim Soojin | Choi Jeong | Win | B+0.5 | 6.5 | 2122 | 100 | 
+| 2022-09-27 | 第6期女子棋聖戦（韓国）1回戦 | Kim Soojin | Kim Miri | Lose | W+R | 6.5 | 2732 | -11 | 
+| 2022-09-18 | 第8回韓国女子囲碁リーグプレーオフ第2戦 | Oh Yujin | Kim Soojin | Lose | B+R | 6.5 | 2743 | 33 | 
+| 2022-08-16 | 2022Dr.G女子最高棋士決定戦予選 | Kim Eunji | Kim Soojin | Lose | B+R | 6.5 | 2710 | -66 | 
+| 2022-08-07 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Hyoyoung | Lose | W+R | 6.5 | 2776 | -64 | 
+| 2022-07-31 | 第8回韓国女子囲碁リーグ | Lee Minjin | Kim Soojin | Lose | B+R | 6.5 | 2840 | 128 | 
+| 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Win | B+R | 6.5 | 2712 | -94 | 
+| 2022-07-14 | 第8回韓国女子囲碁リーグ |  | Kim Soojin | Lose | B+2.5 | 6.5 | 2806 | 8 | 
+| 2022-06-26 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Soojin | Lose | B+6.5 | 6.5 | 2798 | 299 | 
+| 2022-06-16 | 第8回韓国女子囲碁リーグ | Kim Soojin |  | Win | B+R | 6.5 | 2499 | -7 | 
+| 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | W+R | 6.5 | 2506 | 383 | 
+| 2022-05-29 | 第8回韓国女子囲碁リーグ | Kim Soojin | Choi Jeong | Win | B+0.5 | 6.5 | 2123 | 101 | 
 | 2022-03-13 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Kim Soojin | Choi Kyubyeong | Lose | W+R | 6.5 | 2022 | 33 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Heo Seohyun | Kim Soojin | Lose | B+5.5 | 6.5 | 1989 | -544 | 
 | 2021-08-15 | 第7回韓国女子囲碁リーグ |  | Kim Soojin | Win | W+2.5 | 6.5 | 2533 | 0 | 

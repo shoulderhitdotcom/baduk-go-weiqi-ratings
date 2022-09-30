@@ -7,32 +7,34 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Soojang | Gueon Hyojin | Lose | W+3.5 | 6.5 | 2769 | -3 | 
-| 2022-09-13 | 2022韓国シニア囲碁リーグ | Kim Soojang | Kim Seungjun | Lose | W+R | 6.5 | 2772 | 5 | 
-| 2022-09-05 | 2022韓国シニア囲碁リーグ | Kim Soojang | Choi Kyubyeong | Lose | W+4.5 | 6.5 | 2767 | -36 | 
-| 2022-08-30 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Win | W+4.5 | 6.5 | 2803 | 27 | 
-| 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Soojang |  | Lose | W+R | 6.5 | 2776 | 51 | 
-| 2022-07-04 | 第24回農心杯韓国予選 | Kim Chongsu | Kim Soojang | Win | W+R | 6.5 | 2725 | -5 | 
-| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Chang Hao | Kim Soojang | Lose | B+4.5 | 6.5 | 2730 | 76 | 
-| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Win | B+8.5 | 6.5 | 2654 | 15 | 
-| 2022-01-17 | 第9回大舟杯プロシニア最強者戦予選 | Kim Soojang | Kang Hun | Win | B+R | 6.5 | 2639 | 95 | 
-| 2021-11-22 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+R | 6.5 | 2544 | 4 | 
-| 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Win | W+R | 6.5 | 2540 | 81 | 
-| 2021-11-02 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Soojang | Win | W+R | 6.5 | 2459 | -30 | 
-| 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+5.5 | 6.5 | 2489 | 15 | 
-| 2021-10-21 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Kihun | Win | B+7.5 | 6.5 | 2474 | -30 | 
-| 2021-10-13 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Win | W+R | 6.5 | 2504 | 50 | 
-| 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Lose | W+4.5 | 6.5 | 2454 | -5 | 
-| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+1.5 | 6.5 | 2459 | -72 | 
-| 2021-09-16 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | Win | B+2.5 | 6.5 | 2531 | 34 | 
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+13.5 | 6.5 | 2782 | 11 | 
+| 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Soojang | Seo Bongsoo | Lose | W+R | 6.5 | 2771 | 0 | 
+| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Soojang | Gueon Hyojin | Lose | W+3.5 | 6.5 | 2771 | -3 | 
+| 2022-09-13 | 2022韓国シニア囲碁リーグ | Kim Soojang | Kim Seungjun | Lose | W+R | 6.5 | 2774 | 5 | 
+| 2022-09-05 | 2022韓国シニア囲碁リーグ | Kim Soojang | Choi Kyubyeong | Lose | W+4.5 | 6.5 | 2769 | -36 | 
+| 2022-08-30 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Win | W+4.5 | 6.5 | 2805 | 27 | 
+| 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Soojang |  | Lose | W+R | 6.5 | 2778 | 52 | 
+| 2022-07-04 | 第24回農心杯韓国予選 | Kim Chongsu | Kim Soojang | Win | W+R | 6.5 | 2726 | -5 | 
+| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Chang Hao | Kim Soojang | Lose | B+4.5 | 6.5 | 2731 | 76 | 
+| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Win | B+8.5 | 6.5 | 2655 | 16 | 
+| 2022-01-17 | 第9回大舟杯プロシニア最強者戦予選 | Kim Soojang | Kang Hun | Win | B+R | 6.5 | 2639 | 94 | 
+| 2021-11-22 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+R | 6.5 | 2545 | 5 | 
+| 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Win | W+R | 6.5 | 2540 | 80 | 
+| 2021-11-02 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Soojang | Win | W+R | 6.5 | 2460 | -30 | 
+| 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+5.5 | 6.5 | 2490 | 16 | 
+| 2021-10-21 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Kihun | Win | B+7.5 | 6.5 | 2474 | -31 | 
+| 2021-10-13 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Win | W+R | 6.5 | 2505 | 50 | 
+| 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Lose | W+4.5 | 6.5 | 2455 | -4 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+1.5 | 6.5 | 2459 | -73 | 
+| 2021-09-16 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | Win | B+2.5 | 6.5 | 2532 | 35 | 
 | 2021-09-08 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Lose | B+R | 6.5 | 2497 | -10 | 
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+R | 6.5 | 2507 | -29 | 
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Soojang | Lose | B+15.5 | 6.5 | 2536 | -30 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Lose | B+6.5 | 6.5 | 2566 | -53 | 
-| 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2619 | -56 | 
-| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Lose | W+R | 6.5 | 2675 | -42 | 
-| 2021-06-26 | 2021韓国シニア囲碁大会準決勝 |  | Kim Soojang | Win | W+13.5 | 6.5 | 2717 | 0 | 
-| 2021-06-26 | 2021韓国シニア囲碁大会決勝 | Kim Soojang | Kim Dongyeop | Lose | W+5.5 | 6.5 | 2717 | 62 | 
+| 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2619 | -57 | 
+| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Lose | W+R | 6.5 | 2676 | -42 | 
+| 2021-06-26 | 2021韓国シニア囲碁大会準決勝 |  | Kim Soojang | Win | W+13.5 | 6.5 | 2718 | 0 | 
+| 2021-06-26 | 2021韓国シニア囲碁大会決勝 | Kim Soojang | Kim Dongyeop | Lose | W+5.5 | 6.5 | 2718 | 63 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第3戦 | Choi Jeong | Kim Soojang | Lose | B+R | 6.5 | 2655 | 0 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Kim Soojang |  | Win | B+R | 6.5 | 2655 | 69 | 
 | 2021-03-06 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Jeong | Kim Soojang | Lose | B+R | 6.5 | 2586 | 28 | 
@@ -55,9 +57,9 @@
 | 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第1局 | Seo Nungwuk | Kim Soojang | Lose | B+1.5 | 6.5 | 2493 | 2 | 
 | 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第1局 | Choi Kyubyeong | Kim Soojang | Win | W+3.5 | 6.5 | 2491 | -18 | 
 | 2020-08-04 | 第14回GGオークション杯女流対シニア連勝対抗戦第2局 | Kim Soojang | Kim Soojin | Win | B+R | 6.5 | 2509 | 40 | 
-| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第1局 | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2469 | -14 | 
-| 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | Win | B+R | 6.5 | 2483 | -59 | 
-| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Lose | B+7.5 | 6.5 | 2542 | -261 | 
+| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第1局 | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2469 | -15 | 
+| 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | Win | B+R | 6.5 | 2484 | -59 | 
+| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Lose | B+7.5 | 6.5 | 2543 | -260 | 
 | 2020-02-07 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Soojang | Park Shiun | Lose | W+1.5 | 6.5 | 2803 | missing |
 
 

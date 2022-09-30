@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Dongyeop vs Park Seungmun** | **Kim Dongyeop streak** | **Park Seungmun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dongyeop Vs Park Seungmun** | **Kim Dongyeop Streak** | **Park Seungmun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-29 | 2022韓国シニア囲碁リーグ | Park Seungmun | Kim Dongyeop | W+4.5 | 6.5 | 3:3 | 1 | 0 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Park Seungmun | W+R | 6.5 | 2:3 | 0 | 2 | 
 | 2020-09-21 | 2020NHシニア囲碁リーグ第10節第1試合第3局 | Kim Dongyeop | Park Seungmun | W+1.5 | 6.5 | 2:2 | 0 | 1 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第2局 | Park Seungmun | Kim Dongyeop | W+1.5 | 6.5 | 2:1 | 1 | 0 | 

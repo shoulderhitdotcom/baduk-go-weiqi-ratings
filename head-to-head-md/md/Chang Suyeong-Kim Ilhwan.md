@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Suyeong vs Kim Ilhwan** | **Chang Suyeong streak** | **Kim Ilhwan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Suyeong Vs Kim Ilhwan** | **Chang Suyeong Streak** | **Kim Ilhwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-22 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Ilhwan | W+2.5 | 6.5 | 4:4 | 0 | 3 | 
 | 2019-10-31 | 2019NHシニア囲碁リーグ第5節第2試合第2局 | Kim Ilhwan | Chang Suyeong | B+T | 6.5 | 4:3 | 0 | 2 | 
 | 2018-06-27 | 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Chang Suyeong | Kim Ilhwan | W+R | 6.5 | 4:2 | 0 | 1 | 
 | 2017-07-31 | 2回韓国元老連戦2回戦富川-釜山 | Kim Ilhwan | Chang Suyeong | W+3.5 | 6.5 | 4:1 | 3 | 0 | 

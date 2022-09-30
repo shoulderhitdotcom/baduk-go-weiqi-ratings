@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Dongyeop vs Kim Kihun** | **Kim Dongyeop streak** | **Kim Kihun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Dongyeop Vs Kim Kihun** | **Kim Dongyeop Streak** | **Kim Kihun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第2局 | Kim Kihun | Kim Dongyeop | W+3.5 | 6.5 | 3:1 | 1 | 0 | 
 | 2019-10-14 | 2019NHシニア囲碁リーグ第2節第1試合第1局 | Kim Kihun | Kim Dongyeop | B+0.5 | 6.5 | 2:1 | 0 | 1 | 

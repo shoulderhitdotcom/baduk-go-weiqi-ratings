@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Chongsu Vs Kim Soojang** | **Kim Chongsu Streak** | **Kim Soojang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | W+13.5 | 6.5 | 2:7 | 0 | 4 | 
 | 2022-07-04 | 第24回農心杯韓国予選 | Kim Chongsu | Kim Soojang | W+R | 6.5 | 2:6 | 0 | 3 | 
 | 2021-11-22 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | W+R | 6.5 | 2:5 | 0 | 2 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | W+1.5 | 6.5 | 2:4 | 0 | 1 | 

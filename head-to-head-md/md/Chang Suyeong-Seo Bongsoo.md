@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Suyeong vs Seo Bongsoo** | **Chang Suyeong streak** | **Seo Bongsoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Suyeong Vs Seo Bongsoo** | **Chang Suyeong Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | W+7.5 | 6.5 | 1:7 | 0 | 7 | 
 | 2019-12-18 | 2019NHシニア囲碁リーグ第14節第4試合第1局 | Chang Suyeong | Seo Bongsoo | W+R | 6.5 | 1:6 | 0 | 6 | 

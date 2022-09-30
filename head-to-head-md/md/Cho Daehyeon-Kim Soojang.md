@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Daehyeon vs Kim Soojang** | **Cho Daehyeon streak** | **Kim Soojang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Daehyeon Vs Kim Soojang** | **Cho Daehyeon Streak** | **Kim Soojang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-25 | 2019NHシニア囲碁リーグプレーオフ第3戦第1局 | Cho Daehyeon | Kim Soojang | B+R | 6.5 | 3:1 | 2 | 0 | 
 | 2019-12-24 | 2019NHシニア囲碁リーグプレーオフ第2戦第2局 | Kim Soojang | Cho Daehyeon | W+0.5 | 6.5 | 2:1 | 1 | 0 | 

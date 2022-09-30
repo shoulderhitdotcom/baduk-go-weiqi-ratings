@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seo Nungwuk Vs Yoo Changhyuk** | **Seo Nungwuk Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Nungwuk | B+46.5 | 6.5 | 4:7 | 0 | 1 | 
 | 2021-09-13 | 2021韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Nungwuk | W+R | 6.5 | 4:6 | 1 | 0 | 
 | 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第2局 | Seo Nungwuk | Yoo Changhyuk | W+12.5 | 6.5 | 3:6 | 0 | 2 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第1局 | Yoo Changhyuk | Seo Nungwuk | B+8.5 | 6.5 | 3:5 | 0 | 1 | 

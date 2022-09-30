@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Ilhwan vs Kim Soojang** | **Kim Ilhwan streak** | **Kim Soojang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Ilhwan Vs Kim Soojang** | **Kim Ilhwan Streak** | **Kim Soojang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | B+2.5 | 6.5 | 3:4 | 0 | 2 | 
 | 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | B+6.5 | 6.5 | 3:3 | 0 | 1 | 

@@ -1,4 +1,4 @@
-## Mimura Tomoyasu Games
+## Hashimoto Kan vs Seto Taiki Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Mimura Tomoyasu.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Hashimoto Kan-Seto Taiki.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

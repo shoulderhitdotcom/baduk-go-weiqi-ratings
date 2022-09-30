@@ -1,4 +1,4 @@
-## Mimura Tomoyasu Games
+## Chen Shoulian vs Lai Junfu Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Mimura Tomoyasu.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Chen Shoulian-Lai Junfu.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

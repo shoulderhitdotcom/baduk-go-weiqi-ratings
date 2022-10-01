@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Yuanjun Vs Xu Haohong** | **Wang Yuanjun Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-30 | 第3期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Wang Yuanjun | Xu Haohong | B+R | 6.5 | 13:25 | 1 | 0 | 
 | 2022-09-27 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Xu Haohong | W+R | 6.5 | 12:25 | 0 | 5 | 
 | 2022-09-23 | 第3期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Xu Haohong | Wang Yuanjun | B+R | 6.5 | 12:24 | 0 | 4 | 
 | 2022-06-07 | 第21期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Xu Haohong | W+1.5 | 6.5 | 12:23 | 0 | 3 | 

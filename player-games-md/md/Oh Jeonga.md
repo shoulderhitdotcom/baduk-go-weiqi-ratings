@@ -7,47 +7,48 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-01 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Oh Jeonga | Win | W+R | 6.5 | 2937 | 16 | 
-| 2022-08-23 | 第27期女流国手戦1回戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2921 | 2 | 
-| 2022-08-21 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Kim Nokyeong | Win | B+R | 6.5 | 2919 | -5 | 
-| 2022-08-16 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Choi Jeong | Lose | W+R | 7.5 | 2924 | -4 | 
-| 2022-08-15 | 2021中国女子囲碁乙級リーグ |  | Oh Jeonga | Lose | B+R | 7.5 | 2928 | -11 | 
-| 2022-08-14 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Heo Seohyun | Win | B+R | 6.5 | 2939 | 0 | 
-| 2022-08-14 | 2021中国女子囲碁乙級リーグ  | Oh Jeonga | Nakamura Sumire | Lose | W+¼ | 7.5 | 2939 | -26 | 
-| 2022-08-13 | 2021中国女子囲碁乙級リーグ |  | Oh Jeonga | Win | W+R | 7.5 | 2965 | 4 | 
-| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Lu Yuhua | Oh Jeonga | Win | W+R | 7.5 | 2961 | 59 | 
-| 2022-08-10 | 2021中国女子囲碁乙級リーグ | Oh Jeonga |  | Lose | W+R | 7.5 | 2902 | 0 | 
-| 2022-08-09 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Kim Dayoung | Win | B+R | 7.5 | 2902 | 0 | 
-| 2022-08-06 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Minjin | Win | B+5.5 | 6.5 | 2902 | -30 | 
-| 2022-07-28 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Oh Jeonga | Lose | B+R | 6.5 | 2932 | -22 | 
-| 2022-07-24 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | Win | B+3.5 | 6.5 | 2954 | 35 | 
-| 2022-07-15 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2919 | 38 | 
-| 2022-07-08 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Kim Eunseon | Win | B+7.5 | 6.5 | 2881 | -33 | 
-| 2022-06-30 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Suljoo | Win | B+R | 6.5 | 2914 | -39 | 
-| 2022-06-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Oh Jeonga | Lose | B+4.5 | 6.5 | 2953 | 5 | 
-| 2022-06-21 | 第45期名人戦（韓国）予選 | Park Jinsol | Oh Jeonga | Lose | B+R | 6.5 | 2948 | -12 | 
-| 2022-06-17 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Jeonga | Lose | B+R | 6.5 | 2960 | 22 | 
-| 2022-06-12 | 第8回韓国女子囲碁リーグ | Oh Jeonga |  | Win | B+2.5 | 6.5 | 2938 | 0 | 
-| 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Lee Youngjoo | Oh Jeonga | Lose | B+R | 6.5 | 2938 | -17 | 
-| 2022-06-02 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2955 | -26 | 
-| 2022-05-28 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Youngjoo | Lose | W+R | 6.5 | 2981 | 11 | 
-| 2022-05-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Oh Jeonga | Win | W+¼ | 7.5 | 2970 | 18 | 
-| 2022-05-03 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2952 | -8 | 
-| 2022-05-02 | 2022年アジア競技大会韓国予選 | Cho Seungah | Oh Jeonga | Lose | B+R | 7.5 | 2960 | -24 | 
-| 2022-04-29 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Park Jiyeon | Win | B+R | 7.5 | 2984 | 21 | 
-| 2022-04-28 | 2022年アジア競技大会韓国予選 | Kim Eunji | Oh Jeonga | Lose | B+R | 7.5 | 2963 | -26 | 
-| 2022-04-27 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Cho Seungah | Lose | W+R | 7.5 | 2989 | -3 | 
-| 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2992 | -37 | 
-| 2022-04-11 | 第5回呉清源杯韓国予選 | Kim Yoonyoung | Oh Jeonga | Win | W+2¼ | 7.5 | 3029 | 14 | 
-| 2022-04-07 | 第5回呉清源杯韓国予選 | Kim Dayoung | Oh Jeonga | Win | W+R | 7.5 | 3015 | 18 | 
-| 2022-04-05 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Jeonga | Kang Dajeong | Win | B+5.5 | 6.5 | 2997 | 6 | 
-| 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | Win | W+R | 7.5 | 2991 | 61 | 
-| 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Lose | B+R | 6.5 | 2930 | -5 | 
-| 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2935 | 43 | 
-| 2021-08-04 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Kim Eunseon | Oh Jeonga | Win | W+0.5 | 6.5 | 2892 | -74 | 
-| 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Lose | W+R | 6.5 | 2966 | 16 | 
-| 2021-07-07 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Oh Yujin | Oh Jeonga | Win | W+R | 6.5 | 2950 | -5 | 
-| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Lose | B+R | 6.5 | 2955 | 5 | 
+| 2022-10-01 | 第27期女流国手戦2回戦 | Oh Jeonga | Heo Seohyun | Win | B+R | 6.5 | 2960 | 26 | 
+| 2022-09-01 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Oh Jeonga | Win | W+R | 6.5 | 2934 | 16 | 
+| 2022-08-23 | 第27期女流国手戦1回戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2918 | 2 | 
+| 2022-08-21 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Kim Nokyeong | Win | B+R | 6.5 | 2916 | -5 | 
+| 2022-08-16 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Choi Jeong | Lose | W+R | 7.5 | 2921 | -4 | 
+| 2022-08-15 | 2021中国女子囲碁乙級リーグ |  | Oh Jeonga | Lose | B+R | 7.5 | 2925 | -11 | 
+| 2022-08-14 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Heo Seohyun | Win | B+R | 6.5 | 2936 | 0 | 
+| 2022-08-14 | 2021中国女子囲碁乙級リーグ  | Oh Jeonga | Nakamura Sumire | Lose | W+¼ | 7.5 | 2936 | -26 | 
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ |  | Oh Jeonga | Win | W+R | 7.5 | 2962 | 5 | 
+| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Lu Yuhua | Oh Jeonga | Win | W+R | 7.5 | 2957 | 58 | 
+| 2022-08-10 | 2021中国女子囲碁乙級リーグ | Oh Jeonga |  | Lose | W+R | 7.5 | 2899 | 0 | 
+| 2022-08-09 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Kim Dayoung | Win | B+R | 7.5 | 2899 | 0 | 
+| 2022-08-06 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Minjin | Win | B+5.5 | 6.5 | 2899 | -30 | 
+| 2022-07-28 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Oh Jeonga | Lose | B+R | 6.5 | 2929 | -22 | 
+| 2022-07-24 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | Win | B+3.5 | 6.5 | 2951 | 34 | 
+| 2022-07-15 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2917 | 39 | 
+| 2022-07-08 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Kim Eunseon | Win | B+7.5 | 6.5 | 2878 | -33 | 
+| 2022-06-30 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Suljoo | Win | B+R | 6.5 | 2911 | -39 | 
+| 2022-06-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Oh Jeonga | Lose | B+4.5 | 6.5 | 2950 | 5 | 
+| 2022-06-21 | 第45期名人戦（韓国）予選 | Park Jinsol | Oh Jeonga | Lose | B+R | 6.5 | 2945 | -12 | 
+| 2022-06-17 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Oh Jeonga | Lose | B+R | 6.5 | 2957 | 21 | 
+| 2022-06-12 | 第8回韓国女子囲碁リーグ | Oh Jeonga |  | Win | B+2.5 | 6.5 | 2936 | 0 | 
+| 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Lee Youngjoo | Oh Jeonga | Lose | B+R | 6.5 | 2936 | -17 | 
+| 2022-06-02 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2953 | -26 | 
+| 2022-05-28 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Lee Youngjoo | Lose | W+R | 6.5 | 2979 | 11 | 
+| 2022-05-04 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Oh Jeonga | Win | W+¼ | 7.5 | 2968 | 18 | 
+| 2022-05-03 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2950 | -8 | 
+| 2022-05-02 | 2022年アジア競技大会韓国予選 | Cho Seungah | Oh Jeonga | Lose | B+R | 7.5 | 2958 | -24 | 
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Park Jiyeon | Win | B+R | 7.5 | 2982 | 21 | 
+| 2022-04-28 | 2022年アジア競技大会韓国予選 | Kim Eunji | Oh Jeonga | Lose | B+R | 7.5 | 2961 | -26 | 
+| 2022-04-27 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Cho Seungah | Lose | W+R | 7.5 | 2987 | -3 | 
+| 2022-04-12 | 第5回呉清源杯韓国予選 | Oh Jeonga | Kim Eunji | Lose | W+R | 7.5 | 2990 | -37 | 
+| 2022-04-11 | 第5回呉清源杯韓国予選 | Kim Yoonyoung | Oh Jeonga | Win | W+2¼ | 7.5 | 3027 | 14 | 
+| 2022-04-07 | 第5回呉清源杯韓国予選 | Kim Dayoung | Oh Jeonga | Win | W+R | 7.5 | 3013 | 18 | 
+| 2022-04-05 | 2022湖畔杯世界女子覇王戦韓国予選 | Oh Jeonga | Kang Dajeong | Win | B+5.5 | 6.5 | 2995 | 6 | 
+| 2022-04-04 | 2022年アジア競技大会韓国予選 | Lee Minjin | Oh Jeonga | Win | W+R | 7.5 | 2989 | 60 | 
+| 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Lose | B+R | 6.5 | 2929 | -5 | 
+| 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2934 | 43 | 
+| 2021-08-04 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Kim Eunseon | Oh Jeonga | Win | W+0.5 | 6.5 | 2891 | -74 | 
+| 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Lose | W+R | 6.5 | 2965 | 16 | 
+| 2021-07-07 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Oh Yujin | Oh Jeonga | Win | W+R | 6.5 | 2949 | -5 | 
+| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Lose | B+R | 6.5 | 2954 | 4 | 
 | 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Yun Youngmin | Oh Jeonga | Win | W+R | 6.5 | 2950 | 35 | 
 | 2021-05-26 | 第4回呉清源杯韓国予選 | Cho Seungah | Oh Jeonga | Lose | B+R | 7.5 | 2915 | -10 | 
 | 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 7.5 | 2925 | 53 | 
@@ -62,39 +63,39 @@
 | 2021-02-03 | 2020-2021フューチャーズリーグ | Lee Wondo | Oh Jeonga | Lose | B+R | 6.5 | 2849 | 17 | 
 | 2021-01-23 | 2020-2021フューチャーズリーグ | Oh Jeonga | Lee Chungyu | Lose | W+R | 6.5 | 2832 | -19 | 
 | 2021-01-16 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | Win | W+R | 6.5 | 2851 | 31 | 
-| 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Jeonga | Park Jaekeun | Lose | W+R | 6.5 | 2820 | 28 | 
-| 2021-01-02 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Lose | B+R | 6.5 | 2792 | -11 | 
-| 2020-12-30 | 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | Lose | W+2.5 | 6.5 | 2803 | 12 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Jeonga | Park Jaekeun | Lose | W+R | 6.5 | 2820 | 27 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Lose | B+R | 6.5 | 2793 | -11 | 
+| 2020-12-30 | 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | Lose | W+2.5 | 6.5 | 2804 | 13 | 
 | 2020-12-19 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Oh Jeonga | Lose | B+R | 6.5 | 2791 | -27 | 
 | 2020-12-12 | 2020-2021フューチャーズリーグ |  | Oh Jeonga | Win | W+1.5 | 6.5 | 2818 | 34 | 
-| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Lee Chungyu | Oh Jeonga | Lose | B+R | 6.5 | 2784 | 31 | 
-| 2020-12-02 | 2020-2021フューチャーズリーグ | Kim Minho | Oh Jeonga | Win | W+R | 6.5 | 2753 | -25 | 
+| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Lee Chungyu | Oh Jeonga | Lose | B+R | 6.5 | 2784 | 30 | 
+| 2020-12-02 | 2020-2021フューチャーズリーグ | Kim Minho | Oh Jeonga | Win | W+R | 6.5 | 2754 | -24 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Oh Jeonga | Win | W+R | 7.5 | 2778 | 16 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Pan Yang | Oh Jeonga | Win | W+R | 7.5 | 2762 | 39 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Gao Xing | Lose | W+R | 7.5 | 2723 | -15 | 
-| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Oh Jeonga | Win | W+R | 7.5 | 2738 | -56 | 
-| 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2794 | 39 | 
-| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Wang Chenxing | Oh Jeonga | Lose | B+3¾ | 7.5 | 2755 | 14 | 
-| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 |  | Oh Jeonga | Win | W+R | 7.5 | 2741 | 10 | 
-| 2020-09-14 | 第14回GGオークション杯女流対シニア連勝対抗戦第13局 | An Joyeong | Oh Jeonga | Lose | B+R | 6.5 | 2731 | -14 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Oh Jeonga | Win | W+R | 7.5 | 2738 | -57 | 
+| 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2795 | 39 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Wang Chenxing | Oh Jeonga | Lose | B+3¾ | 7.5 | 2756 | 14 | 
+| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 |  | Oh Jeonga | Win | W+R | 7.5 | 2742 | 10 | 
+| 2020-09-14 | 第14回GGオークション杯女流対シニア連勝対抗戦第13局 | An Joyeong | Oh Jeonga | Lose | B+R | 6.5 | 2732 | -13 | 
 | 2020-08-27 | 第25期女流国手戦16強戦 | Oh Jeonga | Kim Hyeoimin | Lose | W+5.5 | 6.5 | 2745 | -47 | 
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第2局 | Kim Miri | Oh Jeonga | Win | W+R | 6.5 | 2792 | 1 | 
-| 2020-08-14 | 第6回韓国女子囲碁リーグ第13節第2試合第1局 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2791 | -3 | 
-| 2020-08-07 | 第6回韓国女子囲碁リーグ第12節第2試合第3局 | Oh Jeonga | Lee Youngjoo | Lose | W+R | 6.5 | 2794 | -162 | 
-| 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第3局 | Oh Jeonga | Lee Minjin | Win | B+3.5 | 6.5 | 2956 | 33 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Oh Jeonga | Zhou Hongyu | Win | B+R | 7.5 | 2923 | 20 | 
-| 2020-07-25 | 第6回韓国女子囲碁リーグ第10節第3試合第3局 | Oh Jeonga |  | Win | B+R | 6.5 | 2903 | 41 | 
-| 2020-07-19 | 第6回韓国女子囲碁リーグ第9節第4試合第1局 | Park Taehee | Oh Jeonga | Win | W+R | 6.5 | 2862 | 2 | 
-| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第1局 | Oh Jeonga | Kim Dayoung | Win | B+R | 6.5 | 2860 | 10 | 
-| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | Lose | W+R | 6.5 | 2850 | -24 | 
-| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第2局 | Oh Jeonga | Heo Seohyun | Lose | W+R | 6.5 | 2874 | -34 | 
-| 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第2局 | Kim Hyeoimin | Oh Jeonga | Lose | B+R | 6.5 | 2908 | -6 | 
-| 2020-06-13 | 第6回韓国女子囲碁リーグ第4節第3試合第1局 | Cho Hyeyeon | Oh Jeonga | Win | W+R | 6.5 | 2914 | 51 | 
-| 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | Lose | B+3.5 | 6.5 | 2863 | -45 | 
-| 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第3局 | Park Taehee | Oh Jeonga | Lose | B+R | 6.5 | 2908 | -21 | 
-| 2020-05-24 | 第6回韓国女子囲碁リーグ第1節第4試合第3局 |  | Oh Jeonga | Win | W+R | 6.5 | 2929 | -4 | 
-| 2020-04-14 | 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | Lose | B+R | 6.5 | 2933 | -59 | 
-| 2020-01-21 | 第13回GGオークション杯女流対シニア連勝対抗戦第13局 | Oh Jeonga | Han Chongjin | Lose | W+R | 6.5 | 2992 | missing |
+| 2020-08-14 | 第6回韓国女子囲碁リーグ第13節第2試合第1局 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2791 | -4 | 
+| 2020-08-07 | 第6回韓国女子囲碁リーグ第12節第2試合第3局 | Oh Jeonga | Lee Youngjoo | Lose | W+R | 6.5 | 2795 | -162 | 
+| 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第3局 | Oh Jeonga | Lee Minjin | Win | B+3.5 | 6.5 | 2957 | 34 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Oh Jeonga | Zhou Hongyu | Win | B+R | 7.5 | 2923 | 19 | 
+| 2020-07-25 | 第6回韓国女子囲碁リーグ第10節第3試合第3局 | Oh Jeonga |  | Win | B+R | 6.5 | 2904 | 41 | 
+| 2020-07-19 | 第6回韓国女子囲碁リーグ第9節第4試合第1局 | Park Taehee | Oh Jeonga | Win | W+R | 6.5 | 2863 | 2 | 
+| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第1局 | Oh Jeonga | Kim Dayoung | Win | B+R | 6.5 | 2861 | 10 | 
+| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | Lose | W+R | 6.5 | 2851 | -24 | 
+| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第2局 | Oh Jeonga | Heo Seohyun | Lose | W+R | 6.5 | 2875 | -33 | 
+| 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第2局 | Kim Hyeoimin | Oh Jeonga | Lose | B+R | 6.5 | 2908 | -7 | 
+| 2020-06-13 | 第6回韓国女子囲碁リーグ第4節第3試合第1局 | Cho Hyeyeon | Oh Jeonga | Win | W+R | 6.5 | 2915 | 51 | 
+| 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | Lose | B+3.5 | 6.5 | 2864 | -44 | 
+| 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第3局 | Park Taehee | Oh Jeonga | Lose | B+R | 6.5 | 2908 | -22 | 
+| 2020-05-24 | 第6回韓国女子囲碁リーグ第1節第4試合第3局 |  | Oh Jeonga | Win | W+R | 6.5 | 2930 | -4 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | Lose | B+R | 6.5 | 2934 | -59 | 
+| 2020-01-21 | 第13回GGオークション杯女流対シニア連勝対抗戦第13局 | Oh Jeonga | Han Chongjin | Lose | W+R | 6.5 | 2993 | missing |
 
 
 

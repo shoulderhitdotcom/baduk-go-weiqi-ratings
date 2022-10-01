@@ -19,8 +19,8 @@
 | 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim JongJoon |  | Win | B+55.5 | 6.5 | 2209 | 110 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim JongJoon | Lose | B+18.5 | 6.5 | 2099 | -225 | 
 | 2021-09-07 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Kim JongJoon | Lose | B+7.5 | 6.5 | 2324 | -16 | 
-| 2021-09-01 | 2021韓国シニア囲碁リーグ | Lee Kisup | Kim JongJoon | Win | W+12.5 | 6.5 | 2340 | 128 | 
-| 2021-08-12 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim JongJoon | Win | W+R | 6.5 | 2212 | 64 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Lee Kisup | Kim JongJoon | Win | W+12.5 | 6.5 | 2340 | 127 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim JongJoon | Win | W+R | 6.5 | 2213 | 65 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ |  | Kim JongJoon | Win | W+10.5 | 6.5 | 2148 | 152 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第3試合第3局 | Kim Chongsu | Kim JongJoon | Lose | B+2.5 | 6.5 | 1996 | -35 | 
 | 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第1局 | An Kwanwuk | Kim JongJoon | Lose | B+R | 6.5 | 2031 | -116 | 
@@ -31,8 +31,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第2試合第1局 | Kim JongJoon | Choi Kyubyeong | Lose | W+5.5 | 6.5 | 2082 | -6 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第3局 | Kim JongJoon | Kim Dongmyeon | Lose | W+R | 6.5 | 2088 | -39 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第3局 | Jeong Daesang | Kim JongJoon | Lose | B+R | 6.5 | 2127 | -22 | 
-| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第3局 | Kim JongJoon | Park Yeongchan | Lose | W+R | 6.5 | 2149 | -24 | 
-| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第3局 | No Yeongha | Kim JongJoon | Win | W+R | 6.5 | 2173 | 28 | 
+| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第3局 | Kim JongJoon | Park Yeongchan | Lose | W+R | 6.5 | 2149 | -25 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第3局 | No Yeongha | Kim JongJoon | Win | W+R | 6.5 | 2174 | 29 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第3局 | Kim JongJoon | Kim Chuljung | Lose | W+18.5 | 6.5 | 2145 | -32 | 
 | 2020-07-20 | 2020NHシニア囲碁リーグ第2節第1試合第3局 | Kim JongJoon | Oh Kyuchul | Lose | W+R | 6.5 | 2177 | -105 | 
 | 2020-07-15 | 2020NHシニア囲碁リーグ第1節第3試合第3局 | Kim JongJoon |  | Lose | W+20.5 | 6.5 | 2282 | missing |

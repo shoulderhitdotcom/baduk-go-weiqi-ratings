@@ -42,8 +42,8 @@
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Lu Yuhua | Li Wei | Win | B+R | 7.5 | 2844 | 22 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2822 | 16 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 | Liu Chuanting | Lu Yuhua | Win | W+0.5 | 6.5 | 2806 | -1 | 
-| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lu Yuhua | Lin Lixiang | Lose | W+R | 6.5 | 2807 | 23 | 
-| 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Lu Yuhua |  | Win | B+R | 6.5 | 2784 | 81 | 
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lu Yuhua | Lin Lixiang | Lose | W+R | 6.5 | 2807 | 22 | 
+| 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Lu Yuhua |  | Win | B+R | 6.5 | 2785 | 82 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Lu Yuhua | Lin Jiehan | Lose | W+R | 6.5 | 2703 | -34 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lu Yuhua | Chen Qirui | Lose | W+R | 6.5 | 2737 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Bai Xinhui | Lu Yuhua | Win | W+R | 6.5 | 2737 | -17 | 
@@ -75,8 +75,8 @@
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 6.5 | 2585 | 24 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao | Lu Yuhua | Lose | B+R | 6.5 | 2561 | 0 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Cai Chengwei | Lose | W+4.5 | 6.5 | 2561 | -65 | 
-| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2626 | 50 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2576 | 3 | 
+| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2626 | 49 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2577 | 4 | 
 | 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Lu Yuhua | Lin Jiehan | Lose | W+R | 7.5 | 2573 | 44 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lu Yuhua |  | Lose | W+3.5 | 6.5 | 2529 | -71 | 
 | 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lu Yuhua | Jian Jingting | Lose | W+R | 6.5 | 2600 | 170 | 

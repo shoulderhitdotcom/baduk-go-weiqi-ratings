@@ -15,11 +15,11 @@
 | 2022-09-07 | 2022韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Lose | B+2.5 | 6.5 | 2737 | 0 | 
 | 2022-08-30 | 2022韓国シニア囲碁リーグ | Park Yeongchan | Seo Nungwuk | Win | W+24.5 | 6.5 | 2737 | -11 | 
 | 2022-08-15 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | Seo Nungwuk | Lose | B+16.5 | 6.5 | 2748 | -55 | 
-| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Seo Nungwuk | Park Sangjin | Lose | W+R | 6.5 | 2803 | 107 | 
-| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Kim Chanwu | Seo Nungwuk | Lose | B+R | 6.5 | 2696 | -68 | 
+| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Seo Nungwuk | Park Sangjin | Lose | W+R | 6.5 | 2803 | 106 | 
+| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Kim Chanwu | Seo Nungwuk | Lose | B+R | 6.5 | 2697 | -67 | 
 | 2022-04-01 | 第9回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Lee Minjin | Lose | W+5.5 | 6.5 | 2764 | -2 | 
-| 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Yoonyoung | Seo Nungwuk | Win | W+7.5 | 6.5 | 2766 | 19 | 
-| 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Win | W+4.5 | 6.5 | 2747 | 26 | 
+| 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Yoonyoung | Seo Nungwuk | Win | W+7.5 | 6.5 | 2766 | 18 | 
+| 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Win | W+4.5 | 6.5 | 2748 | 27 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yu Bin | Seo Nungwuk | Lose | B+R | 6.5 | 2721 | 32 | 
 | 2021-11-24 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Park Seungmun | Win | B+R | 6.5 | 2689 | 73 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Jeong Daesang | Win | B+R | 6.5 | 2616 | 30 | 
@@ -46,8 +46,8 @@
 | 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Choi Kyubyeong | Seo Nungwuk | Lose | B+7.5 | 6.5 | 2325 | -44 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第1局 | Seo Nungwuk | Kim Chongsu | Lose | W+6.5 | 6.5 | 2369 | -34 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第1局 | Yoo Changhyuk | Seo Nungwuk | Lose | B+8.5 | 6.5 | 2403 | -13 | 
-| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第1局 | Seo Nungwuk | Kim Soojang | Win | B+1.5 | 6.5 | 2416 | 13 | 
-| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | Win | W+R | 6.5 | 2403 | 52 | 
+| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第1局 | Seo Nungwuk | Kim Soojang | Win | B+1.5 | 6.5 | 2416 | 12 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | Win | W+R | 6.5 | 2404 | 53 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第1局 | Seo Nungwuk | Kim Ilhwan | Lose | W+16.5 | 6.5 | 2351 | -46 | 
 | 2020-07-20 | 2020NHシニア囲碁リーグ第2節第1試合第1局 | Seo Nungwuk | Jimmy Cha | Win | B+R | 6.5 | 2397 | 21 | 
 | 2020-07-18 | 仲邑菫初段のオロチャレンジ第2回第3局 | Nakamura Sumire | Seo Nungwuk | Win | W+R | 6.5 | 2376 | 0 | 

@@ -18,8 +18,8 @@
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Lose | B+9.5 | 6.5 | 2500 | -29 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Chuljung | Jimmy Cha | Win | W+3.5 | 6.5 | 2529 | 119 | 
 | 2021-11-15 | 2021韓国シニア囲碁リーグ |  | Jimmy Cha | Win | W+R | 6.5 | 2410 | -52 | 
-| 2021-11-01 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Lose | B+12.5 | 6.5 | 2462 | -86 | 
-| 2021-10-25 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Choi Kyubyeong | Lose | W+R | 6.5 | 2548 | -9 | 
+| 2021-11-01 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Lose | B+12.5 | 6.5 | 2462 | -87 | 
+| 2021-10-25 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Choi Kyubyeong | Lose | W+R | 6.5 | 2549 | -8 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Chang Suyeong | Win | B+3.5 | 6.5 | 2557 | 211 | 
 | 2021-10-12 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim Chongsu | Win | B+0.5 | 6.5 | 2346 | -60 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Jimmy Cha | Win | W+15.5 | 6.5 | 2406 | 248 | 
@@ -28,8 +28,8 @@
 | 2021-09-14 | 第15回GGオークション杯女流対シニア連勝対抗戦第16局 | Jimmy Cha | Oh Yujin | Lose | W+R | 6.5 | 2367 | -72 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Win | W+6.5 | 6.5 | 2439 | 129 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Win | W+R | 6.5 | 2310 | -72 | 
-| 2021-08-17 | 2021韓国シニア囲碁リーグ | Lee Kisup | Jimmy Cha | Win | W+10.5 | 6.5 | 2382 | 47 | 
-| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Lose | B+4.5 | 6.5 | 2335 | -11 | 
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | Lee Kisup | Jimmy Cha | Win | W+10.5 | 6.5 | 2382 | 46 | 
+| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Lose | B+4.5 | 6.5 | 2336 | -10 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Jimmy Cha |  | Win | B+6.5 | 6.5 | 2346 | 107 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第1局 | Kim Soojang | Jimmy Cha | Win | W+22.5 | 6.5 | 2239 | 24 | 
 | 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Jimmy Cha | Lose | B+8.5 | 6.5 | 2215 | -110 | 
@@ -40,8 +40,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第2局 | Kang Hun | Jimmy Cha | Win | W+0.5 | 6.5 | 2278 | 18 | 
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第1局 | Kim Soojang | Jimmy Cha | Win | W+4.5 | 6.5 | 2260 | 20 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | Lose | B+R | 6.5 | 2240 | -9 | 
-| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Lose | B+5.5 | 6.5 | 2249 | -23 | 
-| 2020-08-05 | 2020NHシニア囲碁リーグ第4節第3試合第1局 | Yoo Changhyuk | Jimmy Cha | Lose | B+R | 6.5 | 2272 | -26 | 
+| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Lose | B+5.5 | 6.5 | 2249 | -24 | 
+| 2020-08-05 | 2020NHシニア囲碁リーグ第4節第3試合第1局 | Yoo Changhyuk | Jimmy Cha | Lose | B+R | 6.5 | 2273 | -25 | 
 | 2020-07-28 | 2020NHシニア囲碁リーグ第3節第2試合第1局 | Jimmy Cha | Choi Kyubyeong | Lose | W+3.5 | 6.5 | 2298 | -23 | 
 | 2020-07-20 | 2020NHシニア囲碁リーグ第2節第1試合第1局 | Seo Nungwuk | Jimmy Cha | Lose | B+R | 6.5 | 2321 | -76 | 
 | 2020-07-16 | 2020NHシニア囲碁リーグ第1節第4試合第1局 | Jimmy Cha | Kim Chongsu | Lose | W+7.5 | 6.5 | 2397 | missing |

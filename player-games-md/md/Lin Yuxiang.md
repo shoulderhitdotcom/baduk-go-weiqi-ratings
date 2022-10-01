@@ -10,14 +10,14 @@
 | 2022-09-30 | 第10期中環碁聖戦 | Lin Yuxiang | Lu Yuhua | Lose | W+R | 6.5 | 2566 | -124 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Lin Yuxiang |  | Lose | W+R | 6.5 | 2690 | 24 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Lin Yuxiang | Yang Bowei | Lose | W+R | 6.5 | 2666 | -6 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Yuxiang | Liu Yaowen | Win | B+3.5 | 6.5 | 2672 | 116 | 
-| 2022-05-25 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Chen Shiyuan | Lin Yuxiang | Lose | B+6.5 | 6.5 | 2556 | -4 | 
-| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Lin Yuxiang | Win | W+R | 6.5 | 2560 | 137 | 
-| 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Bai Xinhui | Win | B+0.5 | 6.5 | 2423 | -59 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Yuxiang | Liu Yaowen | Win | B+3.5 | 6.5 | 2672 | 115 | 
+| 2022-05-25 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Chen Shiyuan | Lin Yuxiang | Lose | B+6.5 | 6.5 | 2557 | -4 | 
+| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Lin Yuxiang | Win | W+R | 6.5 | 2561 | 137 | 
+| 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Bai Xinhui | Win | B+0.5 | 6.5 | 2424 | -58 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Zhou Pingqiang | Lin Yuxiang | Win | W+R | 6.5 | 2482 | -120 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 | Lin Yuxiang |  | Lose | W+R | 6.5 | 2602 | -1 | 
-| 2022-01-11 | 第21期天元戦（台湾）予選 | Niu Shite | Lin Yuxiang | Lose | B+R | 6.5 | 2603 | 96 | 
-| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Yuxiang | Lai Junfu | Lose | W+R | 6.5 | 2507 | 6 | 
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Niu Shite | Lin Yuxiang | Lose | B+R | 6.5 | 2603 | 95 | 
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Yuxiang | Lai Junfu | Lose | W+R | 6.5 | 2508 | 7 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang | Lin Yuxiang | Win | W+5.5 | 6.5 | 2501 | -87 | 
 | 2021-09-24 | 第9期中環碁聖戦 | Chen Shoulian | Lin Yuxiang | Lose | B+R | 6.5 | 2588 | 28 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Yuxiang | Lu Yiquan | Lose | W+R | 6.5 | 2560 | 24 | 

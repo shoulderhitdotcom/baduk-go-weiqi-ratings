@@ -25,8 +25,8 @@
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Park Seungmun | Kang Hun | Lose | W+R | 6.5 | 2484 | -12 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Lose | B+8.5 | 6.5 | 2496 | 13 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Park Seungmun | Win | W+11.5 | 6.5 | 2483 | 49 | 
-| 2021-08-16 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Seungmun | Win | W+4.5 | 6.5 | 2434 | 36 | 
-| 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | 2398 | 42 | 
+| 2021-08-16 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Seungmun | Win | W+4.5 | 6.5 | 2434 | 35 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | 2399 | 43 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Lose | W+5.5 | 6.5 | 2356 | 0 | 
 | 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Park Seungmun | Kim Kihun | Win | B+R | 6.5 | 2356 | 41 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第3局 | Park Seungmun | Cho Daehyeon | Win | B+T | 6.5 | 2315 | 48 | 
@@ -38,8 +38,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第3局 | Kim Soojang | Park Seungmun | Lose | B+13.5 | 6.5 | 2318 | -7 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第2局 | Park Seungmun | Cho Daehyeon | Win | B+5.5 | 6.5 | 2325 | -11 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第2局 | Chang Suyeong | Park Seungmun | Win | W+1.5 | 6.5 | 2336 | 24 | 
-| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第2局 | Park Seungmun | An Kwanwuk | Win | B+14.5 | 6.5 | 2312 | 30 | 
-| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第2局 | Park Seungmun | Kang Hun | Win | B+6.5 | 6.5 | 2282 | 27 | 
+| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第2局 | Park Seungmun | An Kwanwuk | Win | B+14.5 | 6.5 | 2312 | 29 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第2局 | Park Seungmun | Kang Hun | Win | B+6.5 | 6.5 | 2283 | 28 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第2局 | Park Seungmun | Kim Dongyeop | Lose | W+1.5 | 6.5 | 2255 | -66 | 
 | 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第2局 | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | 2321 | -40 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第2局 | Kim Kihun | Park Seungmun | Lose | B+R | 6.5 | 2361 | missing |

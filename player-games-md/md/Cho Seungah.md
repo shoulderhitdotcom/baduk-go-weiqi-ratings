@@ -13,18 +13,18 @@
 | 2022-09-21 | 第8回韓国女子囲碁リーグ優勝決定戦第1戦 | Lee Youngjoo | Cho Seungah | Lose | B+R | 6.5 | 3042 | -15 | 
 | 2022-09-01 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Cho Seungah | Win | W+R | 6.5 | 3057 | -7 | 
 | 2022-08-18 | 第8回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | Win | W+R | 6.5 | 3064 | -26 | 
-| 2022-08-12 | 第8回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+R | 6.5 | 3090 | 27 | 
+| 2022-08-12 | 第8回韓国女子囲碁リーグ | Kim Kyeongeun | Cho Seungah | Win | W+R | 6.5 | 3090 | 27 | 
 | 2022-08-10 | 第27期女流国手戦1回戦 | Cho Seungah | Park Jiyeon | Win | B+R | 6.5 | 3063 | 0 | 
 | 2022-08-06 | 第8回韓国女子囲碁リーグ | Cho Seungah | Kim Miri | Win | B+R | 6.5 | 3063 | 4 | 
 | 2022-07-31 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+1.5 | 6.5 | 3059 | 0 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Wang Chenxing | Lose | W+R | 7.5 | 3059 | -13 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Cho Seungah | Yin Mingming | Win | B+R | 7.5 | 3072 | -4 | 
 | 2022-07-25 | 第16回GGオークション杯女流対シニア連勝対抗戦第13局 | Cho Seungah | Yoo Changhyuk | Lose | W+R | 6.5 | 3076 | -1 | 
-| 2022-07-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Cho Seungah | Win | W+0.5 | 6.5 | 3077 | -12 | 
-| 2022-07-20 | 第2回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Park Taehee | Lose | W+R | 6.5 | 3089 | 0 | 
-| 2022-07-19 | 第16回GGオークション杯女流対シニア連勝対抗戦第12局 | Yang Keon | Cho Seungah | Win | W+R | 6.5 | 3089 | -10 | 
-| 2022-07-18 | 第16回GGオークション杯女流対シニア連勝対抗戦第11局 | Lee Hyeonwuk | Cho Seungah | Win | W+R | 6.5 | 3099 | -1 | 
-| 2022-07-16 | 第8回韓国女子囲碁リーグ | Lee Suljoo | Cho Seungah | Win | W+2.5 | 6.5 | 3100 | 21 | 
+| 2022-07-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Cho Seungah | Win | W+0.5 | 6.5 | 3077 | -13 | 
+| 2022-07-20 | 第2回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Park Taehee | Lose | W+R | 6.5 | 3090 | 0 | 
+| 2022-07-19 | 第16回GGオークション杯女流対シニア連勝対抗戦第12局 | Yang Keon | Cho Seungah | Win | W+R | 6.5 | 3090 | -10 | 
+| 2022-07-18 | 第16回GGオークション杯女流対シニア連勝対抗戦第11局 | Lee Hyeonwuk | Cho Seungah | Win | W+R | 6.5 | 3100 | -1 | 
+| 2022-07-16 | 第8回韓国女子囲碁リーグ | Lee Suljoo | Cho Seungah | Win | W+2.5 | 6.5 | 3101 | 22 | 
 | 2022-07-12 | 第16回GGオークション杯女流対シニア連勝対抗戦第10局 | Seo Joonghui | Cho Seungah | Win | W+R | 6.5 | 3079 | 9 | 
 | 2022-07-10 | 第8回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+7.5 | 6.5 | 3070 | 7 | 
 | 2022-07-07 | 第24回農心杯韓国予選 | Kim Cheayoung | Cho Seungah | Lose | B+R | 6.5 | 3063 | -10 | 
@@ -35,23 +35,23 @@
 | 2022-06-17 | 第8回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3121 | 4 | 
 | 2022-06-09 | 第8回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3117 | 5 | 
 | 2022-06-08 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Eunseon | Cho Seungah | Win | W+3.5 | 6.5 | 3112 | 15 | 
-| 2022-06-03 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3097 | -6 | 
-| 2022-05-27 | 第8回韓国女子囲碁リーグ | Kim Eunji | Cho Seungah | Lose | B+R | 6.5 | 3103 | 6 | 
-| 2022-05-04 | 2022年アジア競技大会韓国予選 | Kim Eunji | Cho Seungah | Lose | B+R | 7.5 | 3097 | -2 | 
-| 2022-05-03 | 2022年アジア競技大会韓国予選 | Cho Seungah | Park Jiyeon | Lose | W+R | 7.5 | 3099 | -12 | 
-| 2022-05-02 | 2022年アジア競技大会韓国予選 | Cho Seungah | Oh Jeonga | Win | B+R | 7.5 | 3111 | 3 | 
-| 2022-04-29 | 2022年アジア競技大会韓国予選 | Cho Seungah | Kim Eunji | Lose | W+R | 7.5 | 3108 | -7 | 
-| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 7.5 | 3115 | -2 | 
-| 2022-04-27 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Cho Seungah | Win | W+R | 7.5 | 3117 | 8 | 
+| 2022-06-03 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3097 | -7 | 
+| 2022-05-27 | 第8回韓国女子囲碁リーグ | Kim Eunji | Cho Seungah | Lose | B+R | 6.5 | 3104 | 6 | 
+| 2022-05-04 | 2022年アジア競技大会韓国予選 | Kim Eunji | Cho Seungah | Lose | B+R | 7.5 | 3098 | -2 | 
+| 2022-05-03 | 2022年アジア競技大会韓国予選 | Cho Seungah | Park Jiyeon | Lose | W+R | 7.5 | 3100 | -12 | 
+| 2022-05-02 | 2022年アジア競技大会韓国予選 | Cho Seungah | Oh Jeonga | Win | B+R | 7.5 | 3112 | 3 | 
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Cho Seungah | Kim Eunji | Lose | W+R | 7.5 | 3109 | -7 | 
+| 2022-04-28 | 2022年アジア競技大会韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 7.5 | 3116 | -2 | 
+| 2022-04-27 | 2022年アジア競技大会韓国予選 | Oh Jeonga | Cho Seungah | Win | W+R | 7.5 | 3118 | 9 | 
 | 2022-04-06 | 2022湖畔杯世界女子覇王戦韓国予選 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3109 | 9 | 
 | 2022-02-17 | 第5期韓国竜星戦予選 | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3100 | 2 | 
 | 2022-02-07 | 2022YK建機杯予選 | Cho Seungah | Choi Kyeongho | Lose | W+R | 6.5 | 3098 | -66 | 
 | 2022-01-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Oh Yujin | Lose | W+R | 6.5 | 3164 | -8 | 
 | 2022-01-06 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Cheayoung | Cho Seungah | Lose | B+3.5 | 6.5 | 3172 | -9 | 
-| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Lose | W+R | 6.5 | 3181 | -4 | 
-| 2021-12-31 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Cho Seungah | Win | W+16.5 | 6.5 | 3185 | -1 | 
-| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Li He | Lose | W+1¼ | 7.5 | 3186 | -8 | 
-| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Li Xiaoxi | Cho Seungah | Win | W+R | 7.5 | 3194 | 10 | 
+| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Lose | W+R | 6.5 | 3181 | -5 | 
+| 2021-12-31 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Cho Seungah | Win | W+16.5 | 6.5 | 3186 | -1 | 
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Li He | Lose | W+1¼ | 7.5 | 3187 | -8 | 
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Li Xiaoxi | Cho Seungah | Win | W+R | 7.5 | 3195 | 11 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Cho Seungah |  | Win | B+R | 7.5 | 3184 | -3 | 
 | 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Cho Seungah | Win | W+R | 6.5 | 3187 | 11 | 
 | 2021-12-19 | 2021蘭雪軒杯全国女子囲碁大会決勝 | Jeong Yujin | Cho Seungah | Win | W+R | 6.5 | 3176 | 6 | 
@@ -65,8 +65,8 @@
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Cho Seungah |  | Win | B+R | 7.5 | 3173 | 0 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | Win | W+¼ | 7.5 | 3173 | 1 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Li He | Lose | W+R | 7.5 | 3172 | -23 | 
-| 2021-10-01 | 第26期女流国手戦2回戦 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3195 | -7 | 
-| 2021-09-28 | 第15回GGオークション杯女流対シニア連勝対抗戦第20局 | Cho Seungah | Lee Changho | Lose | W+R | 6.5 | 3202 | -12 | 
+| 2021-10-01 | 第26期女流国手戦2回戦 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3195 | -8 | 
+| 2021-09-28 | 第15回GGオークション杯女流対シニア連勝対抗戦第20局 | Cho Seungah | Lee Changho | Lose | W+R | 6.5 | 3203 | -11 | 
 | 2021-09-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Seungah | Choi Myeonghun | Win | B+R | 6.5 | 3214 | 2 | 
 | 2021-09-21 | 第15回GGオークション杯女流対シニア連勝対抗戦第18局 | Cho Seungah | An Joyeong | Win | B+R | 6.5 | 3212 | 0 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第5局 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3212 | 13 | 
@@ -80,11 +80,11 @@
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Cho Seungah | Choi Jeong | Win | B+R | 6.5 | 3198 | 23 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+T | 6.5 | 3175 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3175 | 36 | 
-| 2021-08-21 | 第26回三星火災杯韓国予選 |  | Cho Seungah | Win | W+R | 6.5 | 3139 | -10 | 
-| 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3149 | -1 | 
-| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3150 | 1 | 
-| 2021-08-10 | 第26期女流国手戦1回戦 | Jeong Yujin | Cho Seungah | Win | W+R | 6.5 | 3149 | -1 | 
-| 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3150 | -4 | 
+| 2021-08-21 | 第26回三星火災杯韓国予選 | Kim Kyeongeun | Cho Seungah | Win | W+R | 6.5 | 3139 | -10 | 
+| 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3149 | -2 | 
+| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3151 | 1 | 
+| 2021-08-10 | 第26期女流国手戦1回戦 | Jeong Yujin | Cho Seungah | Win | W+R | 6.5 | 3150 | -1 | 
+| 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3151 | -3 | 
 | 2021-07-29 | 第7回韓国女子囲碁リーグ | Jeong Yujin | Cho Seungah | Win | W+R | 6.5 | 3154 | 27 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3127 | 25 | 
 | 2021-07-21 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Cho Hyeyeon | Cho Seungah | Win | W+3.5 | 6.5 | 3102 | 0 | 
@@ -126,9 +126,9 @@
 | 2020-09-16 | 第3回呉清源杯韓国予選 | Park Jiyeon | Cho Seungah | Lose | B+0.5 | 7.5 | 2850 | 1 | 
 | 2020-09-15 | 第14回GGオークション杯女流対シニア連勝対抗戦第14局 | An Joyeong | Cho Seungah | Lose | B+R | 6.5 | 2849 | -39 | 
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第3試合第3局 |  | Cho Seungah | Lose | B+R | 6.5 | 2888 | -23 | 
-| 2020-08-16 | 第6回韓国女子囲碁リーグ第13節第4試合第3局 | Kim Eunji | Cho Seungah | Win | W+1.5 | 6.5 | 2911 | 6 | 
-| 2020-08-09 | 第6回韓国女子囲碁リーグ第12節第4試合第2局 | Cho Seungah | Kim Miri | Win | B+R | 6.5 | 2905 | -23 | 
-| 2020-08-01 | 第6回韓国女子囲碁リーグ第11節第3試合第1局 | Cho Seungah | Kim Hyeoimin | Lose | W+R | 6.5 | 2928 | -20 | 
+| 2020-08-16 | 第6回韓国女子囲碁リーグ第13節第4試合第3局 | Kim Eunji | Cho Seungah | Win | W+1.5 | 6.5 | 2911 | 5 | 
+| 2020-08-09 | 第6回韓国女子囲碁リーグ第12節第4試合第2局 | Cho Seungah | Kim Miri | Win | B+R | 6.5 | 2906 | -23 | 
+| 2020-08-01 | 第6回韓国女子囲碁リーグ第11節第3試合第1局 | Cho Seungah | Kim Hyeoimin | Lose | W+R | 6.5 | 2929 | -19 | 
 | 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Cai Bihan | Cho Seungah | Win | W+R | 7.5 | 2948 | 13 | 
 | 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Cho Seungah | Pan Yang | Lose | W+¼ | 7.5 | 2935 | -26 | 
 | 2020-07-23 | 第6回韓国女子囲碁リーグ第10節第1試合第2局 | Oh Yujin | Cho Seungah | Lose | B+R | 6.5 | 2961 | -1 | 

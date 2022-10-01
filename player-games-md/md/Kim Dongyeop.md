@@ -40,8 +40,8 @@
 | 2020-08-31 | 第14回GGオークション杯女流対シニア連勝対抗戦第9局 | Kim Dongyeop | Lee Youngjoo | Win | B+R | 6.5 | 2297 | 29 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第2局 | Kang Hun | Kim Dongyeop | Lose | B+3.5 | 6.5 | 2268 | -30 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第2局 | Kim Dongyeop | An Kwanwuk | Lose | W+7.5 | 6.5 | 2298 | -22 | 
-| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第2局 | Kim Kihun | Kim Dongyeop | Win | W+3.5 | 6.5 | 2320 | 21 | 
-| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第2局 | Kim Dongyeop | Cho Daehyeon | Win | B+1.5 | 6.5 | 2299 | 25 | 
+| 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第2局 | Kim Kihun | Kim Dongyeop | Win | W+3.5 | 6.5 | 2320 | 20 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第2局 | Kim Dongyeop | Cho Daehyeon | Win | B+1.5 | 6.5 | 2300 | 26 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第2局 | Park Seungmun | Kim Dongyeop | Win | W+1.5 | 6.5 | 2274 | 3 | 
 | 2020-07-20 | 2020NHシニア囲碁リーグ第2節第1試合第2局 | Chang Suyeong | Kim Dongyeop | Win | W+R | 6.5 | 2271 | -49 | 
 | 2020-07-15 | 2020NHシニア囲碁リーグ第1節第3試合第2局 | Paek Seongho | Kim Dongyeop | Win | W+0.5 | 6.5 | 2320 | missing |

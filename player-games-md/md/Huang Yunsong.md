@@ -29,8 +29,8 @@
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Huang Yunsong | Li Xuanhao | Lose | W+R | 7.5 | 3576 | -23 | 
 | 2022-02-14 | 第36期中国囲碁天元戦予選 | Huang Yunsong | Zhang Tao | Lose | W+¼ | 7.5 | 3599 | -13 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Liao Yuanhe | Huang Yunsong | Lose | B+R | 7.5 | 3612 | -15 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3627 | -12 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3639 | 6 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3627 | -13 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3640 | 7 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | Win | B+1¾ | 7.5 | 3633 | 10 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Fan Yin | Huang Yunsong | Win | W+R | 7.5 | 3623 | 10 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Fan Yin | Lose | W+R | 7.5 | 3613 | -13 | 
@@ -49,9 +49,9 @@
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3554 | 9 | 
 | 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | Lose | B+R | 7.5 | 3545 | -8 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3553 | -5 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Huang Yunsong | Lose | B+R | 7.5 | 3558 | -19 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Lose | B+R | 7.5 | 3577 | -19 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3596 | -3 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Huang Yunsong | Lose | B+R | 7.5 | 3558 | -20 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Lose | B+R | 7.5 | 3578 | -19 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3597 | -2 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | Win | B+R | 7.5 | 3599 | 9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3590 | 24 | 
 | 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Win | B+¾ | 7.5 | 3566 | 11 | 
@@ -68,8 +68,8 @@
 | 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Lose | W+R | 6.5 | 3471 | -5 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | Lose | W+R | 6.5 | 3476 | -9 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | Lose | B+R | 6.5 | 3485 | -7 | 
-| 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Win | W+R | 6.5 | 3492 | 15 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3477 | 22 | 
+| 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Win | W+R | 6.5 | 3492 | 14 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3478 | 23 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3455 | -7 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3462 | -9 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3471 | 15 | 

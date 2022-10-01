@@ -26,8 +26,8 @@
 | 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Ilhwan | Kim Chuljung | Win | B+R | 6.5 | 2511 | -1 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | Kim Ilhwan | Lose | B+R | 6.5 | 2512 | 35 | 
 | 2021-11-15 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Oh Kyuchul | Win | B+1.5 | 6.5 | 2477 | 20 | 
-| 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Lose | B+5.5 | 6.5 | 2457 | 7 | 
-| 2021-10-25 | 2021韓国シニア囲碁リーグ | Kang Hun | Kim Ilhwan | Win | W+R | 6.5 | 2450 | 49 | 
+| 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Lose | B+5.5 | 6.5 | 2457 | 6 | 
+| 2021-10-25 | 2021韓国シニア囲碁リーグ | Kang Hun | Kim Ilhwan | Win | W+R | 6.5 | 2451 | 50 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Ilhwan | Lose | B+7.5 | 6.5 | 2401 | -22 | 
 | 2021-10-12 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Kim Dongmyeon | Win | B+R | 6.5 | 2423 | 32 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | Win | W+17.5 | 6.5 | 2391 | 368 | 
@@ -35,8 +35,8 @@
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2293 | -142 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Lose | B+6.5 | 6.5 | 2435 | 75 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | Lose | B+R | 6.5 | 2360 | -101 | 
-| 2021-08-17 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Win | W+2.5 | 6.5 | 2461 | 122 | 
-| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2339 | 6 | 
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Win | W+2.5 | 6.5 | 2461 | 121 | 
+| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2340 | 7 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Lose | W+28.5 | 6.5 | 2333 | -318 | 
 | 2021-07-14 | 第23回農心杯韓国予選 | Kim Ilhwan | Paek Hongseok | Lose | W+R | 6.5 | 2651 | -310 | 
 | 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 | Lee Yeon | Kim Ilhwan | Lose | B+R | 6.5 | 2961 | 42 | 
@@ -51,8 +51,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | Lose | B+1.5 | 6.5 | 2877 | -25 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Lose | B+14.5 | 6.5 | 2902 | -46 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | Win | B+R | 6.5 | 2948 | -48 | 
-| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2996 | 6 | 
-| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Win | W+18.5 | 6.5 | 2990 | 54 | 
+| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2996 | 5 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Win | W+18.5 | 6.5 | 2991 | 55 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第1局 | Seo Nungwuk | Kim Ilhwan | Win | W+16.5 | 6.5 | 2936 | -12 | 
 | 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | Win | B+3.5 | 6.5 | 2948 | -18 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Win | B+7.5 | 6.5 | 2966 | 11 | 

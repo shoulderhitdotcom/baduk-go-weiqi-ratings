@@ -29,8 +29,8 @@
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Chongsu | Lose | B+5.5 | 6.5 | 2609 | 28 | 
 | 2021-09-07 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Lose | W+R | 6.5 | 2581 | -56 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chongsu | Win | W+6.5 | 6.5 | 2637 | 18 | 
-| 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Lose | W+R | 6.5 | 2619 | 3 | 
-| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Win | B+2.5 | 6.5 | 2616 | -16 | 
+| 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Lose | W+R | 6.5 | 2619 | 2 | 
+| 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Win | B+2.5 | 6.5 | 2617 | -15 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Choi Kyubyeong | Lose | W+13.5 | 6.5 | 2632 | -89 | 
 | 2021-06-26 | 2021韓国シニア囲碁大会準決勝 | Kim Chongsu | Kim Dongyeop | Lose | W+11.5 | 6.5 | 2721 | 196 | 
 | 2020-11-06 | 2020NHシニア囲碁リーグプレーオフ第2戦第1局 | Kim Chongsu | Kim Soojang | Win | B+R | 6.5 | 2525 | 23 | 
@@ -45,8 +45,8 @@
 | 2020-09-07 | 第14回GGオークション杯女流対シニア連勝対抗戦第11局 | Kim Chongsu | Kim Miri | Lose | W+R | 6.5 | 2376 | 11 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第1局 | Seo Nungwuk | Kim Chongsu | Win | W+6.5 | 6.5 | 2365 | 4 | 
 | 2020-08-18 | 2020NHシニア囲碁リーグ第6節第2試合第1局 | Kim Soojang | Kim Chongsu | Lose | B+9.5 | 6.5 | 2361 | -19 | 
-| 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第1局 | Choi Kyubyeong | Kim Chongsu | Win | W+R | 6.5 | 2380 | 55 | 
-| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Lose | W+18.5 | 6.5 | 2325 | -60 | 
+| 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第1局 | Choi Kyubyeong | Kim Chongsu | Win | W+R | 6.5 | 2380 | 54 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Lose | W+18.5 | 6.5 | 2326 | -59 | 
 | 2020-07-27 | 2020NHシニア囲碁リーグ第3節第1試合第1局 | Seo Bongsoo | Kim Chongsu | Lose | B+R | 6.5 | 2385 | -34 | 
 | 2020-07-23 | 2020NHシニア囲碁リーグ第2節第4試合第1局 | Kim Chongsu | Yoo Changhyuk | Lose | W+R | 6.5 | 2419 | -42 | 
 | 2020-07-16 | 2020NHシニア囲碁リーグ第1節第4試合第1局 | Jimmy Cha | Kim Chongsu | Win | W+7.5 | 6.5 | 2461 | missing |

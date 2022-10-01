@@ -31,8 +31,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第2局 | Kim Chuljung | Park Yeongchan | Win | B+R | 6.5 | 2125 | 31 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第3局 | No Yeongha | Kim Chuljung | Win | W+R | 6.5 | 2094 | -9 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第3局 | Kim Chuljung | Oh Kyuchul | Lose | W+R | 6.5 | 2103 | -22 | 
-| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第3局 | Lee Kisup | Kim Chuljung | Lose | B+R | 6.5 | 2125 | -12 | 
-| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第3局 | Kim Dongmyeon | Kim Chuljung | Lose | B+R | 6.5 | 2137 | -49 | 
+| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第3局 | Lee Kisup | Kim Chuljung | Lose | B+R | 6.5 | 2125 | -13 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第3局 | Kim Dongmyeon | Kim Chuljung | Lose | B+R | 6.5 | 2138 | -48 | 
 | 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第3局 | Kim JongJoon | Kim Chuljung | Win | W+18.5 | 6.5 | 2186 | -18 | 
 | 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第3局 | Kim Chuljung |  | Win | B+2.5 | 6.5 | 2204 | -50 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第3局 | Kim Chuljung | Park Yeongchan | Lose | W+R | 6.5 | 2254 | missing |

@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-30 | 第47期新人王戦決勝三番勝負第2局  | Otake Yu |  | Lose | W+1.5 | 6.5 | 3181 | 11 | 
+| 2022-09-30 | 第47期新人王戦決勝三番勝負第2局  | Otake Yu | Sakai Yuki | Lose | W+1.5 | 6.5 | 3181 | 11 | 
 | 2022-09-26 | 第61期十段戦予選 | Motoki Katsuya | Otake Yu | Lose | B+1.5 | 6.5 | 3170 | -80 | 
-| 2022-09-22 | 第47期新人王戦決勝三番勝負第1局  |  | Otake Yu | Lose | B+R | 6.5 | 3250 | 0 | 
+| 2022-09-22 | 第47期新人王戦決勝三番勝負第1局  | Sakai Yuki | Otake Yu | Lose | B+R | 6.5 | 3250 | 0 | 
 | 2022-09-15 | 第47期棋聖戦Cリーグ | Otake Yu |  | Win | B+0.5 | 6.5 | 3250 | 10 | 
 | 2022-09-08 | 第78期本因坊戦予選  | Fujisawa Rina | Otake Yu | Win | W+R | 6.5 | 3240 | -13 | 
 | 2022-08-08 | 第47期新人王戦準決勝 | Ueno Asami | Otake Yu | Win | W+3.5 | 6.5 | 3253 | 0 | 
@@ -18,8 +18,8 @@
 | 2022-06-16 | 第47期新人王戦3回戦 | Otake Yu |  | Win | B+0.5 | 6.5 | 3289 | 113 | 
 | 2022-04-25 | 第47期新人王戦2回戦 | Yao Zhiteng | Otake Yu | Win | W+2.5 | 6.5 | 3176 | 39 | 
 | 2022-02-17 | 第70期王座戦予選 | Otake Yu | Ogata Masaki | Win | B+R | 6.5 | 3137 | -11 | 
-| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Win | B+6.5 | 6.5 | 3148 | 75 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Onishi Kenya | Win | B+2.5 | 6.5 | 3073 | 12 | 
+| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Win | B+6.5 | 6.5 | 3148 | 74 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Onishi Kenya | Win | B+2.5 | 6.5 | 3074 | 13 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Otake Yu | Lose | B+1.5 | 6.5 | 3061 | -12 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Tsuruta Kazushi | Lose | W+R | 6.5 | 3073 | -41 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Lose | B+R | 6.5 | 3114 | -23 | 

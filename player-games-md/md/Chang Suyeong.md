@@ -39,8 +39,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第3局 | Chang Suyeong | Kim Dongmyeon | Lose | W+T | 6.5 | 2052 | -35 | 
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第2局 | Chang Suyeong | Kim Kihun | Lose | W+0.5 | 6.5 | 2087 | -18 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第2局 | Chang Suyeong | Park Seungmun | Lose | W+1.5 | 6.5 | 2105 | -4 | 
-| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第2局 | Chang Suyeong | Cho Daehyeon | Lose | W+R | 6.5 | 2109 | -46 | 
-| 2020-08-05 | 2020NHシニア囲碁リーグ第4節第3試合第2局 | Chang Suyeong | An Kwanwuk | Lose | W+R | 6.5 | 2155 | -23 | 
+| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第2局 | Chang Suyeong | Cho Daehyeon | Lose | W+R | 6.5 | 2109 | -47 | 
+| 2020-08-05 | 2020NHシニア囲碁リーグ第4節第3試合第2局 | Chang Suyeong | An Kwanwuk | Lose | W+R | 6.5 | 2156 | -22 | 
 | 2020-07-28 | 2020NHシニア囲碁リーグ第3節第2試合第2局 | Paek Seongho | Chang Suyeong | Win | W+0.5 | 6.5 | 2178 | 13 | 
 | 2020-07-20 | 2020NHシニア囲碁リーグ第2節第1試合第2局 | Chang Suyeong | Kim Dongyeop | Lose | W+R | 6.5 | 2165 | -73 | 
 | 2020-07-16 | 2020NHシニア囲碁リーグ第1節第4試合第2局 | Kang Hun | Chang Suyeong | Lose | B+R | 6.5 | 2238 | -145 | 

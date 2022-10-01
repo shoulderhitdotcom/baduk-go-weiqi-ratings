@@ -24,8 +24,8 @@
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Win | W+7.5 | 6.5 | 2339 | 44 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Lose | W+6.5 | 6.5 | 2295 | 35 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongmyeon | Win | B+R | 6.5 | 2260 | 173 | 
-| 2021-08-16 | 2021韓国シニア囲碁リーグ | Cho Daehyeon |  | Win | B+16.5 | 6.5 | 2087 | 62 | 
-| 2021-08-12 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim JongJoon | Lose | W+R | 6.5 | 2025 | -112 | 
+| 2021-08-16 | 2021韓国シニア囲碁リーグ | Cho Daehyeon |  | Win | B+16.5 | 6.5 | 2087 | 61 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim JongJoon | Lose | W+R | 6.5 | 2026 | -111 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Cho Daehyeon | Lose | B+3.5 | 6.5 | 2137 | 61 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第3局 | Park Seungmun | Cho Daehyeon | Lose | B+T | 6.5 | 2076 | -48 | 
 | 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第3局 | Choi Kyubyeong | Cho Daehyeon | Lose | B+6.5 | 6.5 | 2124 | -24 | 
@@ -36,8 +36,8 @@
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第3局 | Cho Daehyeon | Jeong Daesang | Lose | W+R | 6.5 | 2060 | -19 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第2局 | Park Seungmun | Cho Daehyeon | Lose | B+5.5 | 6.5 | 2079 | -29 | 
 | 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第2局 | Paek Seongho | Cho Daehyeon | Lose | B+R | 6.5 | 2108 | -6 | 
-| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第2局 | Chang Suyeong | Cho Daehyeon | Win | W+R | 6.5 | 2114 | -5 | 
-| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第2局 | Kim Dongyeop | Cho Daehyeon | Lose | B+1.5 | 6.5 | 2119 | -19 | 
+| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第2局 | Chang Suyeong | Cho Daehyeon | Win | W+R | 6.5 | 2114 | -6 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第2局 | Kim Dongyeop | Cho Daehyeon | Lose | B+1.5 | 6.5 | 2120 | -18 | 
 | 2020-07-27 | 2020NHシニア囲碁リーグ第3節第1試合第2局 | Kang Hun | Cho Daehyeon | Lose | B+0.5 | 6.5 | 2138 | -16 | 
 | 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第2局 | Cho Daehyeon | Kim Kihun | Lose | W+R | 6.5 | 2154 | -73 | 
 | 2020-07-14 | 2020NHシニア囲碁リーグ第1節第2試合第2局 | An Kwanwuk | Cho Daehyeon | Lose | B+R | 6.5 | 2227 | missing |

@@ -18,8 +18,8 @@
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Kim Seungjun | Lose | W+0.5 | 6.5 | 2838 | 1 | 
 | 2022-07-06 | 第24回農心杯韓国予選 | Seo Bongsoo | Kim Cheayoung | Lose | W+5.5 | 6.5 | 2837 | -36 | 
 | 2022-06-21 | 2022年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Yoo Changhyuk | Lose | W+3.5 | 6.5 | 2873 | 0 | 
-| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Takao Shinji | Seo Bongsoo | Win | W+0.5 | 6.5 | 2873 | 148 | 
-| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Seo Bongsoo | Paek Seongho | Win | B+3.5 | 6.5 | 2725 | -87 | 
+| 2022-06-21 | 2022年1004島新安国際シニア囲碁大会1回戦 | Takao Shinji | Seo Bongsoo | Win | W+0.5 | 6.5 | 2873 | 147 | 
+| 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Seo Bongsoo | Paek Seongho | Win | B+3.5 | 6.5 | 2726 | -86 | 
 | 2022-02-11 | 第9回大舟杯プロシニア最強者戦1回戦 | Kim Hyeoimin | Seo Bongsoo | Lose | B+0.5 | 6.5 | 2812 | -62 | 
 | 2021-12-22 | 2021年1004島新安国際シニア囲碁大会準決勝 | Seo Bongsoo | O Meien | Lose | W+T | 6.5 | 2874 | 11 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Nie Weiping | Win | B+R | 6.5 | 2863 | 0 | 
@@ -58,8 +58,8 @@
 | 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | Lose | W+R | 6.5 | 2465 | -47 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Win | B+14.5 | 6.5 | 2512 | -6 | 
 | 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | Win | B+8.5 | 6.5 | 2518 | 21 | 
-| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Win | B+5.5 | 6.5 | 2497 | -12 | 
-| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | Lose | W+R | 6.5 | 2509 | -39 | 
+| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Win | B+5.5 | 6.5 | 2497 | -13 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | Lose | W+R | 6.5 | 2510 | -38 | 
 | 2020-07-27 | 2020NHシニア囲碁リーグ第3節第1試合第1局 | Seo Bongsoo | Kim Chongsu | Win | B+R | 6.5 | 2548 | 4 | 
 | 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第3局 | Seo Bongsoo | Nakamura Sumire | Win | B+R | 6.5 | 2544 | 0 | 
 | 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第2局 | Nakamura Sumire | Seo Bongsoo | Win | W+R | 6.5 | 2544 | 13 | 

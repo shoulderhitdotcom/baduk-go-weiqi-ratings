@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-02 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Ko Miso | Lose | W+4.5 | 6.5 | 2889 | -10 | 
 | 2022-10-01 | 第27期女流国手戦2回戦 | Oh Jeonga | Heo Seohyun | Lose | B+R | 6.5 | 2899 | 12 | 
 | 2022-09-23 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Choi Jeong | Lose | W+R | 6.5 | 2887 | 0 | 
 | 2022-09-01 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Kyeongeun | Win | B+2.5 | 6.5 | 2887 | -8 | 

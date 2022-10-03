@@ -16,8 +16,8 @@
 | 2022-06-26 | 第45期名人戦（韓国）予選 | Kang Seungmin | Lee Wonyoung | Lose | B+R | 6.5 | 3279 | -5 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Wonyoung | Lee Jihyun | Lose | W+R | 6.5 | 3284 | 2 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Lee Wonyoung | Kim Jiseok | Lose | W+R | 6.5 | 3282 | -21 | 
-| 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Kang Seungmin | Lee Wonyoung | Lose | B+R | 6.5 | 3303 | 1 | 
-| 2022-04-02 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Yun Chanhee | Win | B+R | 6.5 | 3302 | 5 | 
+| 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Kang Seungmin | Lee Wonyoung | Lose | B+R | 6.5 | 3303 | 0 | 
+| 2022-04-02 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Yun Chanhee | Win | B+R | 6.5 | 3303 | 6 | 
 | 2022-03-26 | 2021-2022韓国囲碁リーグ | Byun Sangil | Lee Wonyoung | Lose | B+R | 6.5 | 3297 | -16 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Song Gyusang | Lee Wonyoung | Win | W+R | 6.5 | 3313 | 45 | 
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kang Jihoon | Win | B+R | 6.5 | 3268 | 20 | 

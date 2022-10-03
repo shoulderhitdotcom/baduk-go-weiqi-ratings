@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦1回戦 | Choi Jeong | Kim Junghyun | Win | W+R | 6.5 | 3225 | 25 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Han Seungjoo | Kim Junghyun | Lose | B+0.5 | 6.5 | 3200 | -38 | 
-| 2022-04-20 | 第27回LG杯韓国予選 | Ahn Kukhyun | Kim Junghyun | Win | W+R | 6.5 | 3238 | 16 | 
-| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Han Sangcho | Win | B+R | 6.5 | 3222 | 30 | 
+| 2022-04-20 | 第27回LG杯韓国予選 | Ahn Kukhyun | Kim Junghyun | Win | W+R | 6.5 | 3238 | 15 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Han Sangcho | Win | B+R | 6.5 | 3223 | 31 | 
 | 2022-03-24 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Choi Jaeyoung | Win | B+R | 6.5 | 3192 | -5 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Minkyu | Lose | W+R | 6.5 | 3197 | 4 | 
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kang Seungmin | Lose | W+R | 6.5 | 3193 | -9 | 
@@ -20,8 +20,8 @@
 | 2022-02-11 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+1.5 | 6.5 | 3254 | -7 | 
 | 2022-02-09 | 2022YK建機杯予選 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3261 | -17 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | W+R | 6.5 | 3278 | 22 | 
-| 2022-01-22 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+5.5 | 6.5 | 3256 | -18 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Lose | W+R | 6.5 | 3274 | -16 | 
+| 2022-01-22 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+5.5 | 6.5 | 3256 | -19 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Lose | W+R | 6.5 | 3275 | -15 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Lose | B+R | 6.5 | 3290 | -33 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Lose | W+R | 6.5 | 3323 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Win | B+R | 6.5 | 3323 | 0 | 

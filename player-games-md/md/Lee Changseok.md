@@ -45,8 +45,8 @@
 | 2022-02-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Byun Sangil | Lose | W+R | 6.5 | 3515 | -32 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Win | B+R | 6.5 | 3547 | 1 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Lose | B+R | 6.5 | 3546 | 2 | 
-| 2022-01-07 | 2021-2022韓国囲碁リーグ | Cho Wankyu | Lee Changseok | Win | W+R | 6.5 | 3544 | 5 | 
-| 2022-01-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Lee Changseok | Win | W+R | 6.5 | 3539 | -1 | 
+| 2022-01-07 | 2021-2022韓国囲碁リーグ | Cho Wankyu | Lee Changseok | Win | W+R | 6.5 | 3544 | 4 | 
+| 2022-01-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Lee Changseok | Win | W+R | 6.5 | 3540 | 0 | 
 | 2022-01-01 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Lee Changseok | Win | W+R | 6.5 | 3540 | 5 | 
 | 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Lee Changseok | Song Gyusang | Lose | W+0.5 | 6.5 | 3535 | -13 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3548 | -6 | 

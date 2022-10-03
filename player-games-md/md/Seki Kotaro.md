@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-03 | 第48期天元戦挑戦手合五番勝負第1局  | Seki Kotaro | Ida Atsushi | Win | B+R | 6.5 | 3205 | 53 | 
 | 2022-09-28 | 第27回三星火災杯日本予選 | Sada Atsushi | Seki Kotaro | Lose | B+R | 6.5 | 3152 | -41 | 
 | 2022-08-29 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Seki Kotaro | Lose | B+R | 6.5 | 3193 | -36 | 
-| 2022-07-14 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seki Kotaro | Win | W+R | 6.5 | 3229 | 55 | 
-| 2022-06-13 | 第48期名人戦予選 | Ohashi Hirofumi | Seki Kotaro | Lose | B+R | 6.5 | 3174 | -27 | 
-| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Win | B+R | 6.5 | 3201 | 49 | 
+| 2022-07-14 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seki Kotaro | Win | W+R | 6.5 | 3229 | 54 | 
+| 2022-06-13 | 第48期名人戦予選 | Ohashi Hirofumi | Seki Kotaro | Lose | B+R | 6.5 | 3175 | -27 | 
+| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Win | B+R | 6.5 | 3202 | 50 | 
 | 2022-05-23 | 第48期名人戦予選  | Seki Kotaro | Ito Masashi | Win | B+R | 6.5 | 3152 | 6 | 
 | 2022-05-12 | 第61期十段戦予選 | Lee Ishu | Seki Kotaro | Lose | B+6.5 | 6.5 | 3146 | -41 | 
 | 2022-05-02 | 第78期本因坊戦予選 | Rin Kanketsu | Seki Kotaro | Lose | B+1.5 | 6.5 | 3187 | -30 | 
@@ -46,11 +47,11 @@
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Liao Yuanhe | Seki Kotaro | Lose | B+R | 6.5 | 2962 | 6 | 
 | 2020-07-09 | 第45期新人王戦3回戦 | Tsuruta Kazushi | Seki Kotaro | Win | W+R | 6.5 | 2956 | 21 | 
 | 2020-06-22 | 第45期新人王戦2回戦 | Seki Kotaro | Nishi Takenobu | Win | B+R | 6.5 | 2935 | -90 | 
-| 2020-01-30 | 第76期本因坊戦予選 | Xie Yimin | Seki Kotaro | Lose | B+5.5 | 6.5 | 3025 | -30 | 
-| 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Win | W+R | 6.5 | 3055 | 0 | 
-| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | Win | B+1.5 | 6.5 | 3055 | 90 | 
-| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Seki Kotaro | Lai Junfu | Lose | W+R | 6.5 | 2965 | 3 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Seki Kotaro | Li Wei | Lose | W+5.5 | 6.5 | 2962 | -69 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Xie Yimin | Seki Kotaro | Lose | B+5.5 | 6.5 | 3025 | -31 | 
+| 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Win | W+R | 6.5 | 3056 | 0 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | Win | B+1.5 | 6.5 | 3056 | 90 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Seki Kotaro | Lai Junfu | Lose | W+R | 6.5 | 2966 | 3 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Seki Kotaro | Li Wei | Lose | W+5.5 | 6.5 | 2963 | -68 | 
 | 2020-01-09 | 第45期新人王戦1回戦 |  | Seki Kotaro | Win | W+R | 6.5 | 3031 | missing |
 
 

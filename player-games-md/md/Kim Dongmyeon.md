@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-03 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Chang Suyeong | Win | B+12.5 | 6.5 | 2512 | 158 | 
 | 2022-09-26 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Oh Kyuchul | Lose | W+2.5 | 6.5 | 2354 | 45 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Paek Seongho | Win | B+R | 6.5 | 2309 | 0 | 
 | 2022-09-20 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongmyeon | Lose | B+10.5 | 6.5 | 2309 | -33 | 
@@ -33,8 +34,8 @@
 | 2020-10-12 | 2020NHシニア囲碁リーグ第12節第1試合第3局 |  | Kim Dongmyeon | Lose | B+R | 6.5 | 2181 | -40 | 
 | 2020-10-08 | 2020NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Kim Dongmyeon | Win | W+1.5 | 6.5 | 2221 | 60 | 
 | 2020-09-24 | 2020NHシニア囲碁リーグ第10節第4試合第3局 | No Yeongha | Kim Dongmyeon | Win | W+14.5 | 6.5 | 2161 | 54 | 
-| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第1局 | Kim Dongmyeon | Jeong Daesang | Win | B+R | 6.5 | 2107 | 39 | 
-| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第3局 | Chang Suyeong | Kim Dongmyeon | Win | W+T | 6.5 | 2068 | 25 | 
+| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第1局 | Kim Dongmyeon | Jeong Daesang | Win | B+R | 6.5 | 2107 | 38 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第3局 | Chang Suyeong | Kim Dongmyeon | Win | W+T | 6.5 | 2069 | 26 | 
 | 2020-08-25 | 2020NHシニア囲碁リーグ第7節第2試合第3局 | Kim JongJoon | Kim Dongmyeon | Win | W+R | 6.5 | 2043 | 21 | 
 | 2020-08-18 | 2020NHシニア囲碁リーグ第6節第2試合第3局 | Park Yeongchan | Kim Dongmyeon | Lose | B+2.5 | 6.5 | 2022 | -18 | 
 | 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第3局 |  | Kim Dongmyeon | Win | W+12.5 | 6.5 | 2040 | 59 | 

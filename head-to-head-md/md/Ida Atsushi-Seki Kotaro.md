@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ida Atsushi vs Seki Kotaro** | **Ida Atsushi streak** | **Seki Kotaro streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ida Atsushi Vs Seki Kotaro** | **Ida Atsushi Streak** | **Seki Kotaro Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-03 | 第48期天元戦挑戦手合五番勝負第1局  | Seki Kotaro | Ida Atsushi | B+R | 6.5 | 1:1 | 0 | 1 | 
 | 2019-05-11 | ナショナルチーム研究会 | Ida Atsushi | Seki Kotaro | B+1.5 | 6.5 | 1:0 | 1 | 0 |
 
 

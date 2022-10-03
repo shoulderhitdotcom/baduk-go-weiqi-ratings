@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Shiyuan Vs Lin Shixun** | **Huang Shiyuan Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-03 | 第3回早碁争覇戦1回戦 | Huang Shiyuan | Lin Shixun | W+R | 6.5 | 2:6 | 0 | 1 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | B+R | 6.5 | 2:5 | 1 | 0 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | B+2.5 | 6.5 | 1:5 | 0 | 1 | 
 | 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Lin Shixun | Huang Shiyuan | W+0.5(W+0.5) | 6.5 | 1:4 | 1 | 0 | 

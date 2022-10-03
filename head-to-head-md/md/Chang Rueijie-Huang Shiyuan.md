@@ -5,11 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Rueijie vs Huang Shiyuan** | **Chang Rueijie streak** | **Huang Shiyuan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Rueijie Vs Huang Shiyuan** | **Chang Rueijie Streak** | **Huang Shiyuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Huang Shiyuan | Chang Rueijie | B+R | 6.5 | 1:1 | 0 | 1 | 
-| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Huang Shiyuan | Chang Rueijie | W+R | 6.5 | 1:0 | 1 | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Huang Shiyuan | Chang Rueijie | B+R | 6.5 | 1:2 | 0 | 2 |
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Huang Shiyuan | Chang Rueijie | B+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局 | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3132 | 2 | 
+| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3132 | 2 | 
 | 2022-09-29 | 第48期碁聖戦予選 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3130 | 5 | 
 | 2022-09-01 | 第41期女流本因坊戦挑戦者決定戦  | Kato Chie | Ueno Asami | Win | W+R | 6.5 | 3125 | 9 | 
 | 2022-08-25 | 第61期十段戦予選  | Takao Shinji | Ueno Asami | Lose | B+R | 6.5 | 3116 | -6 | 

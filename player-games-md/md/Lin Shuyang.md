@@ -7,9 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-25 | 第10期中環碁聖戦 | Lin Shuyang |  | Win | B+R | 6.5 | 2786 | -44 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shuyang | Niu Shite | Win | B+R | 6.5 | 2830 | 0 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Xu Jingen | Lin Shuyang | Lose | B+R | 6.5 | 2830 | 2 | 
+| 2022-10-04 | 第18期国手戦（台湾） |  | Lin Shuyang | Lose | B+R | 6.5 | 2857 | 33 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Lin Shuyang | Yang Bowei | Win | B+2.5 | 6.5 | 2824 | 38 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Lin Shuyang |  | Win | B+R | 6.5 | 2786 | -43 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shuyang | Niu Shite | Win | B+R | 6.5 | 2829 | 0 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Xu Jingen | Lin Shuyang | Lose | B+R | 6.5 | 2829 | 1 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Zhang Zhehao | Lin Shuyang | Win | W+2.5 | 6.5 | 2828 | 0 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Cai Chengwei | Lin Shuyang | Win | W+R | 6.5 | 2828 | 7 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Zeng Pinjie | Lin Shuyang | Win | W+R | 6.5 | 2821 | 21 | 

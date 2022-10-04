@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第18期国手戦（台湾） |  | Zhou Keping | Win | W+R | 6.5 | 2284 | -46 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Zhou Keping | Bai Xinhui | Lose | W+R | 6.5 | 2330 | 99 | 
 | 2022-09-26 | 第3回早碁争覇戦予選 | Ding Shaojie | Zhou Keping | Win | W+R | 6.5 | 2231 | -2 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Zhou Keping | Lin Shixun | Lose | W+R | 6.5 | 2233 | 49 | 

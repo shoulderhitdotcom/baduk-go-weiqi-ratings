@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第18期国手戦（台湾） | Zhou Pingqiang | Zhou Yinnan | Win | W+R | 6.5 | 2613 | 25 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 |  | Zhou Yinnan | Win | W+R | 6.5 | 2588 | 64 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Zhou Yinnan | Li Wei | Lose | W+0.5 | 6.5 | 2524 | -83 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Zhou Yinnan | Xiao Zhenghao | Lose | W+R | 6.5 | 2607 | 0 | 

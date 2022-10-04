@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第18期国手戦（台湾） | Lin Shixun |  | Win | B+R | 6.5 | 3004 | 4 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Huang Shiyuan | Lin Shixun | Win | W+R | 6.5 | 3000 | -5 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Lin Shixun | Chen Weiting | Lose | W+R | 6.5 | 3005 | 31 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Zhou Keping | Lin Shixun | Win | W+R | 6.5 | 2974 | -22 | 

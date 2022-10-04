@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局 | Fujisawa Rina | Ueno Asami | Win | B+R | 6.5 | 3108 | 33 | 
+| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+R | 6.5 | 3108 | 33 | 
 | 2022-09-29 | 第48期名人戦予選 | Fujisawa Rina | Adachi Toshimasa | Lose | W+R | 6.5 | 3075 | -43 | 
 | 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 3118 | 40 | 
 | 2022-09-12 | 第61期十段戦予選  | Fujisawa Rina | Anzai Nobuaki | Win | B+R | 6.5 | 3078 | -10 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kim Dongyeop | Lose | W+R | 6.5 | 2529 | 63 | 
 | 2022-09-26 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Oh Kyuchul | Win | W+2.5 | 6.5 | 2466 | 10 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Kihun | Oh Kyuchul | Win | W+R | 6.5 | 2456 | 0 | 
 | 2022-09-22 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Lose | W+R | 6.5 | 2456 | 0 | 
@@ -30,8 +31,8 @@
 | 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第1局 | No Yeongha | Oh Kyuchul | Win | W+R | 6.5 | 2183 | 6 | 
 | 2020-10-06 | 2020NHシニア囲碁リーグ第11節第2試合第2局 | Jeong Daesang | Oh Kyuchul | Win | W+R | 6.5 | 2177 | 25 | 
 | 2020-09-23 | 2020NHシニア囲碁リーグ第10節第3試合第2局 | Choi Kyubyeong | Oh Kyuchul | Win | W+R | 6.5 | 2152 | 49 | 
-| 2020-09-17 | 2020NHシニア囲碁リーグ第9節第4試合第2局 | Kim Dongyeop | Oh Kyuchul | Lose | B+5.5 | 6.5 | 2103 | 34 | 
-| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第1局 | Oh Kyuchul | Kim Chongsu | Lose | W+3.5 | 6.5 | 2069 | -22 | 
+| 2020-09-17 | 2020NHシニア囲碁リーグ第9節第4試合第2局 | Kim Dongyeop | Oh Kyuchul | Lose | B+5.5 | 6.5 | 2103 | 33 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第1局 | Oh Kyuchul | Kim Chongsu | Lose | W+3.5 | 6.5 | 2070 | -21 | 
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第3局 | Park Yeongchan | Oh Kyuchul | Win | W+3.5 | 6.5 | 2091 | 26 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第3局 | Kim Chuljung | Oh Kyuchul | Win | W+R | 6.5 | 2065 | 55 | 
 | 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第3局 | No Yeongha | Oh Kyuchul | Lose | B+3.5 | 6.5 | 2010 | -66 | 

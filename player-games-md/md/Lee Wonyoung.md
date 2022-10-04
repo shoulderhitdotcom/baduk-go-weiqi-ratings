@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第4回安東白岩杯囲碁オープン最強戦準決勝 | Lee Wonyoung | Lee Changseok | Win | B+R | 6.5 | 3310 | 0 | 
+| 2022-10-04 | 第4回安東白岩杯囲碁オープン最強戦決勝 | Gang Woohyeok | Lee Wonyoung | Lose | B+2.5 | 6.5 | 3310 | -4 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦2回戦 | Park Hamin | Lee Wonyoung | Win | W+1.5 | 6.5 | 3314 | 14 | 
 | 2022-08-24 | 第27回三星火災杯韓国予選 | Lee Wonyoung | Moon Minjong | Win | B+R | 6.5 | 3300 | 11 | 
 | 2022-08-15 | 第8回国手山脈韓国国内トーナメント決勝 | Lee Wonyoung | Hong Seongji | Win | B+7.5 | 6.5 | 3289 | 42 | 

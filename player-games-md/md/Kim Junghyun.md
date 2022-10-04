@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第4回安東白岩杯囲碁オープン最強戦準決勝 | Kim Junghyun | Gang Woohyeok | Lose | W+R | 6.5 | 3205 | -20 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦1回戦 | Choi Jeong | Kim Junghyun | Win | W+R | 6.5 | 3225 | 25 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Han Seungjoo | Kim Junghyun | Lose | B+0.5 | 6.5 | 3200 | -38 | 
 | 2022-04-20 | 第27回LG杯韓国予選 | Ahn Kukhyun | Kim Junghyun | Win | W+R | 6.5 | 3238 | 15 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 第4回安東白岩杯囲碁オープン最強戦準決勝 | Lee Wonyoung | Lee Changseok | Lose | B+R | 6.5 | 3410 | -13 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦2回戦 | Lee Changseok | Hong Seongji | Win | B+R | 6.5 | 3423 | 0 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Gon Jiwoo | Lee Changseok | Lose | B+R | 6.5 | 3423 | -42 | 
 | 2022-08-13 | 第8回国手山脈韓国国内トーナメント1回戦 | Yun Junsang | Lee Changseok | Win | W+R | 6.5 | 3465 | -12 | 

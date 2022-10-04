@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Yang Bowei** | **Lin Shuyang Streak** | **Yang Bowei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-02 | 第10期中環碁聖戦 | Lin Shuyang | Yang Bowei | B+2.5 | 6.5 | 4:6 | 1 | 0 | 
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yang Bowei | Lin Shuyang | B+R | 6.5 | 3:6 | 0 | 1 | 
 | 2018-09-30 | 第6期中環碁聖戦3回戦 | Yang Bowei | Lin Shuyang | W+R | 6.5 | 3:5 | 1 | 0 | 
 | 2018-03-13 | 第十六回天元戦複戦敗部第二回戦 | Yang Bowei | Lin Shuyang | B+6.5 | 6.5 | 2:5 | 0 | 3 | 

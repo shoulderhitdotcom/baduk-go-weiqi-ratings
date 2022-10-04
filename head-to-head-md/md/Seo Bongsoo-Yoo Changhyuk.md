@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seo Bongsoo Vs Yoo Changhyuk** | **Seo Bongsoo Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | W+0.5 | 6.5 | 7:10 | 0 | 3 | 
 | 2022-08-31 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | B+R | 6.5 | 7:9 | 0 | 2 | 
 | 2022-06-21 | 2022年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Yoo Changhyuk | W+3.5 | 6.5 | 7:8 | 0 | 1 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第7局 | Seo Bongsoo | Yoo Changhyuk | B+R | 6.5 | 7:7 | 1 | 0 | 

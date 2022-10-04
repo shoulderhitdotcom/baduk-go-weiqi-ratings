@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Kyuchul vs Yoo Changhyuk** | **Oh Kyuchul streak** | **Yoo Changhyuk streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Kyuchul Vs Yoo Changhyuk** | **Oh Kyuchul Streak** | **Yoo Changhyuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-06 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Yoo Changhyuk | W+R | 6.5 | 0:1 | 0 | 1 |
 

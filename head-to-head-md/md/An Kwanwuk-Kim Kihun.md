@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Kim Kihun** | **An Kwanwuk Streak** | **Kim Kihun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | An Kwanwuk | W+4.5 | 6.5 | 1:5 | 1 | 0 | 
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第3局 | Kim Kihun | An Kwanwuk | B+6.5 | 6.5 | 0:5 | 0 | 5 | 
 | 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第2局 | Kim Kihun | An Kwanwuk | B+2.5 | 6.5 | 0:4 | 0 | 4 | 
 | 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第2局 | An Kwanwuk | Kim Kihun | W+2.5 | 6.5 | 0:3 | 0 | 3 | 

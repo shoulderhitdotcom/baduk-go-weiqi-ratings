@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Soojang Vs Seo Nungwuk** | **Kim Soojang Streak** | **Seo Nungwuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 2022韓国シニア囲碁リーグ | Seo Nungwuk | Kim Soojang | W+35.5 | 6.5 | 5:8 | 1 | 0 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | W+5.5 | 6.5 | 4:8 | 0 | 3 | 
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | W+R | 6.5 | 4:7 | 0 | 2 | 
 | 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第1局 | Seo Nungwuk | Kim Soojang | B+1.5 | 6.5 | 4:6 | 0 | 1 | 

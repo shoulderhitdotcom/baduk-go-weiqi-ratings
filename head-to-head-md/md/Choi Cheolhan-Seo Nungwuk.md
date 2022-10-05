@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Seo Nungwuk** | **Choi Cheolhan streak** | **Seo Nungwuk streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Seo Nungwuk** | **Choi Cheolhan Streak** | **Seo Nungwuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2002-02-05 | 第1期KT杯マスターズプロ棋戦準決勝 | Seo Nungwuk | Choi Cheolhan | W+R | 6.5 | 1:0 | 1 | 0 |
 

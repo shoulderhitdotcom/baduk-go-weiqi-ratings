@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第2期韓国棋院選手権戦予選 | Hong Seongji | Han Sangcho | Lose | W+12.5 | 6.5 | 3283 | -18 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦2回戦 | Lee Changseok | Hong Seongji | Lose | B+R | 6.5 | 3301 | -29 | 
 | 2022-08-15 | 第8回国手山脈韓国国内トーナメント決勝 | Lee Wonyoung | Hong Seongji | Lose | B+7.5 | 6.5 | 3330 | -5 | 
 | 2022-08-14 | 第8回国手山脈韓国国内トーナメント準決勝 | Hong Seongji | Baek Hyeonwoo | Win | B+R | 6.5 | 3335 | 0 | 

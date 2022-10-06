@@ -22,12 +22,12 @@
 | 2021-01-24 | 2020-2021フューチャーズリーグ | Baek Chanhee |  | Win | B+2.5 | 6.5 | 3210 | 18 | 
 | 2021-01-17 | 2020-2021フューチャーズリーグ | Baek Chanhee | Ju Hyeongwuk | Win | B+0.5 | 6.5 | 3192 | 7 | 
 | 2021-01-13 | 2020-2021フューチャーズリーグ | Oh Byungwoo | Baek Chanhee | Win | W+0.5 | 6.5 | 3185 | 10 | 
-| 2021-01-06 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Baek Chanhee | Win | W+R | 6.5 | 3175 | 46 | 
-| 2020-12-27 | 2020-2021フューチャーズリーグ | Baek Chanhee | Kim Minho | Win | B+R | 6.5 | 3129 | 10 | 
+| 2021-01-06 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Baek Chanhee | Win | W+R | 6.5 | 3175 | 45 | 
+| 2020-12-27 | 2020-2021フューチャーズリーグ | Baek Chanhee | Kim Minho | Win | B+R | 6.5 | 3130 | 11 | 
 | 2020-12-19 | 2020-2021フューチャーズリーグ | Baek Chanhee | Park Jaekeun | Lose | W+R | 6.5 | 3119 | -68 | 
 | 2020-12-12 | 2020-2021フューチャーズリーグ | Oh Yujin | Baek Chanhee | Win | W+R | 6.5 | 3187 | 117 | 
-| 2020-12-05 | 2020-2021フューチャーズリーグ | Kim Sonjin | Baek Chanhee | Win | W+3.5 | 6.5 | 3070 | 91 | 
-| 2020-11-28 | 2020-2021フューチャーズリーグ | Baek Chanhee | Ju Hyeongwuk | Win | B+R | 6.5 | 2979 | -37 | 
+| 2020-12-05 | 2020-2021フューチャーズリーグ | Kim Sonjin | Baek Chanhee | Win | W+3.5 | 6.5 | 3070 | 90 | 
+| 2020-11-28 | 2020-2021フューチャーズリーグ | Baek Chanhee | Ju Hyeongwuk | Win | B+R | 6.5 | 2980 | -36 | 
 | 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Park Sangjin | Baek Chanhee | Lose | B+R | 6.5 | 3016 | -88 | 
 | 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Seunghwa | Baek Chanhee | Lose | B+0.5 | 6.5 | 3104 | -19 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Baek Chanhee | Paek Hongseok | Win | B+R | 6.5 | 3123 | 282 | 

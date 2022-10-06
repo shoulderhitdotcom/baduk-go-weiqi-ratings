@@ -7,20 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lai Junfu | Niu Shite | Win | B+R | 7.5 | 3189 | 19 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Lai Junfu | Dai Jiashen | Win | B+R | 6.5 | 3170 | 15 | 
-| 2022-09-25 | 第10期中環碁聖戦 |  | Lai Junfu | Win | W+R | 6.5 | 3155 | -31 | 
-| 2022-09-22 | 第15期棋王戦（台湾）リーグ | Li Wei | Lai Junfu | Win | W+R | 6.5 | 3186 | 0 | 
-| 2022-09-15 | 第15期棋王戦（台湾）リーグ | Lin Lixiang | Lai Junfu | Lose | B+R | 6.5 | 3186 | -1 | 
-| 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | Win | B+R | 6.5 | 3187 | 11 | 
-| 2022-09-07 | 第27回三星火災杯台湾予選 | Lai Junfu | Xu Jingen | Lose | W+R | 6.5 | 3176 | -10 | 
-| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xiao Zhenghao | Win | B+R | 6.5 | 3186 | -8 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 |  | Lai Junfu | Win | W+4.5 | 6.5 | 3194 | -1 | 
-| 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xu Haohong | Lose | W+R | 6.5 | 3195 | -14 | 
-| 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Li Wei | Win | B+R | 6.5 | 3209 | 11 | 
-| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Wang Xinghao | Lai Junfu | Lose | B+R | 7.5 | 3198 | -2 | 
-| 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Lai Junfu | Win | W+R | 6.5 | 3200 | 16 | 
-| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lin Junyan | Lose | W+R | 6.5 | 3184 | -52 | 
+| 2022-10-06 | 第15期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | Win | B+R | 6.5 | 3198 | 8 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lai Junfu | Niu Shite | Win | B+R | 7.5 | 3190 | 19 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Lai Junfu | Dai Jiashen | Win | B+R | 6.5 | 3171 | 15 | 
+| 2022-09-25 | 第10期中環碁聖戦 |  | Lai Junfu | Win | W+R | 6.5 | 3156 | -31 | 
+| 2022-09-22 | 第15期棋王戦（台湾）リーグ | Li Wei | Lai Junfu | Win | W+R | 6.5 | 3187 | 0 | 
+| 2022-09-15 | 第15期棋王戦（台湾）リーグ | Lin Lixiang | Lai Junfu | Lose | B+R | 6.5 | 3187 | 0 | 
+| 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | Win | B+R | 6.5 | 3187 | 10 | 
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Lai Junfu | Xu Jingen | Lose | W+R | 6.5 | 3177 | -10 | 
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xiao Zhenghao | Win | B+R | 6.5 | 3187 | -8 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 |  | Lai Junfu | Win | W+4.5 | 6.5 | 3195 | -1 | 
+| 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xu Haohong | Lose | W+R | 6.5 | 3196 | -14 | 
+| 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Li Wei | Win | B+R | 6.5 | 3210 | 11 | 
+| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Wang Xinghao | Lai Junfu | Lose | B+R | 7.5 | 3199 | -2 | 
+| 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Lai Junfu | Win | W+R | 6.5 | 3201 | 16 | 
+| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lin Junyan | Lose | W+R | 6.5 | 3185 | -51 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 | Lin Yuting | Lai Junfu | Win | W+R | 7.5 | 3236 | 0 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 |  | Lai Junfu | Win | W+R | 7.5 | 3236 | 0 | 
 | 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Lai Junfu | Win | W+R | 6.5 | 3236 | -52 | 
@@ -40,8 +41,8 @@
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Xu Haohong | Lai Junfu | Lose | B+R | 6.5 | 3250 | -11 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Lose | B+R | 6.5 | 3261 | -3 | 
 | 2022-03-16 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Haohong | Lose | W+R | 7.5 | 3264 | -4 | 
-| 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Win | B+R | 6.5 | 3268 | 9 | 
-| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3259 | -1 | 
+| 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Win | B+R | 6.5 | 3268 | 8 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3260 | 0 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | Win | W+1 | 7.5 | 3260 | -5 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Win | W+R | 6.5 | 3265 | 25 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Tu Xiaoyu | Lai Junfu | Lose | B+R | 6.5 | 3240 | -8 | 
@@ -71,9 +72,9 @@
 | 2021-09-28 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第4局 | Lai Junfu | Wang Yuanjun | Lose | W+2.5 | 6.5 | 3164 | -15 | 
 | 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Win | W+R | 6.5 | 3179 | 14 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Niu Shite | Lai Junfu | Win | W+R | 6.5 | 3165 | 2 | 
-| 2021-09-22 | 第9期中環碁聖戦 |  | Lai Junfu | Win | W+R | 6.5 | 3163 | 16 | 
-| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3147 | 3 | 
-| 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3144 | -6 | 
+| 2021-09-22 | 第9期中環碁聖戦 |  | Lai Junfu | Win | W+R | 6.5 | 3163 | 15 | 
+| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3148 | 3 | 
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3145 | -5 | 
 | 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Lose | B+1.5 | 6.5 | 3150 | 7 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3143 | -17 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lai Junfu | Lin Shixun | Win | B+R | 6.5 | 3160 | -35 | 
@@ -138,8 +139,8 @@
 | 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Lai Junfu | Win | W+R | 6.5 | 3160 | -12 | 
 | 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3172 | 14 | 
 | 2020-06-19 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3158 | 36 | 
-| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Chen Qirui | Lai Junfu | Win | W+4.5 | 6.5 | 3122 | 15 | 
-| 2020-06-11 | 2020新人王戦（台湾）リーグB |  | Lai Junfu | Win | W+R | 7.5 | 3107 | 3 | 
+| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Chen Qirui | Lai Junfu | Win | W+4.5 | 6.5 | 3122 | 14 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグB |  | Lai Junfu | Win | W+R | 7.5 | 3108 | 4 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lai Junfu | Yang Zixuan | Win | B+R | 6.5 | 3104 | 6 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Lai Junfu | Lin Shimin | Lose | W+R | 7.5 | 3098 | -35 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lai Junfu |  | Win | B+R | 6.5 | 3133 | 15 | 
@@ -153,16 +154,16 @@
 | 2020-04-17 | 日台交流戦第1戦 | Lai Junfu | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 3190 | 13 | 
 | 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Cai Chengwei | Lai Junfu | Win | W+R | 6.5 | 3177 | 4 | 
 | 2020-04-14 | 第19期天元戦（台湾）リーグ | Lai Junfu | Chen Qirui | Win | B+R | 6.5 | 3173 | 4 | 
-| 2020-04-07 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lai Junfu | Lose | B+R | 6.5 | 3169 | -1 | 
-| 2020-03-31 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3170 | 5 | 
-| 2020-03-30 | 第12回海峰杯プロ囲碁戦決勝三番勝負第2局  | Lai Junfu | Lin Junyan | Win | B+4.5 | 6.5 | 3165 | 18 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lai Junfu | Lose | B+R | 6.5 | 3169 | -2 | 
+| 2020-03-31 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3171 | 5 | 
+| 2020-03-30 | 第12回海峰杯プロ囲碁戦決勝三番勝負第2局  | Lai Junfu | Lin Junyan | Win | B+4.5 | 6.5 | 3166 | 19 | 
 | 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Wang Yuanjun | Lose | W+R | 7.5 | 3147 | -10 | 
 | 2020-03-26 | 第12回海峰杯プロ囲碁戦決勝三番勝負第1局  | Lin Junyan | Lai Junfu | Win | W+R | 6.5 | 3157 | 26 | 
 | 2020-03-24 | 第19期天元戦（台湾）リーグ | Lai Junfu | Xu Haohong | Lose | W+R | 6.5 | 3131 | 5 | 
 | 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Lin Jiehan | Win | B+R | 7.5 | 3126 | -2 | 
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Zeng Pinjie | Lai Junfu | Win | W+R | 7.5 | 3128 | -2 | 
-| 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Win | W+R | 6.5 | 3130 | 8 | 
-| 2020-03-13 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Haohong | Win | B+R | 6.5 | 3122 | 50 | 
+| 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Win | W+R | 6.5 | 3130 | 7 | 
+| 2020-03-13 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Haohong | Win | B+R | 6.5 | 3123 | 51 | 
 | 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu | Zeng Pinjie | Win | B+R | 6.5 | 3072 | 0 | 
 | 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Win | B+R | 6.5 | 3072 | 12 | 
 | 2020-03-01 | 第7回グロービス杯台湾予選 | Huang Shiyuan | Lai Junfu | Win | W+R | 6.5 | 3060 | -6 | 

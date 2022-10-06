@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-06 | 第48期碁聖戦予選 | Motoki Katsuya | Nakamura Sumire | Win | B+R | 6.5 | 3103 | 37 | 
-| 2022-09-26 | 第61期十段戦予選 | Motoki Katsuya | Otake Yu | Win | B+1.5 | 6.5 | 3066 | -121 | 
+| 2022-10-06 | 第48期碁聖戦予選 | Motoki Katsuya | Nakamura Sumire | Win | B+R | 6.5 | 3104 | 37 | 
+| 2022-09-26 | 第61期十段戦予選 | Motoki Katsuya | Otake Yu | Win | B+1.5 | 6.5 | 3067 | -120 | 
 | 2022-07-14 | 第47期棋聖戦Bリーグ | Yoda Norimoto | Motoki Katsuya | Lose | B+R | 6.5 | 3187 | -28 | 
 | 2022-07-07 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦  | Iyama Yuta | Motoki Katsuya | Lose | B+R | 6.5 | 3215 | -52 | 
 | 2022-06-30 | 第47期名人戦リーグ  | Yamashita Keigo | Motoki Katsuya | Lose | B+1.5 | 6.5 | 3267 | 7 | 
@@ -16,8 +16,8 @@
 | 2022-06-13 | 第47期名人戦リーグ  | Hsu Chiayuan | Motoki Katsuya | Win | W+1.5 | 6.5 | 3227 | 41 | 
 | 2022-05-19 | 第47期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3186 | 19 | 
 | 2022-04-18 | 第70期王座戦予選 | Motoki Katsuya | Ohba Junya | Lose | W+R | 6.5 | 3167 | -29 | 
-| 2022-04-07 | 第47期名人戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | B+R | 6.5 | 3196 | 22 | 
-| 2022-03-31 | 第77期本因坊戦リーグ | Motoki Katsuya | Tsuruyama Atsushi | Win | B+R | 6.5 | 3174 | 20 | 
+| 2022-04-07 | 第47期名人戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | B+R | 6.5 | 3196 | 21 | 
+| 2022-03-31 | 第77期本因坊戦リーグ | Motoki Katsuya | Tsuruyama Atsushi | Win | B+R | 6.5 | 3175 | 21 | 
 | 2022-03-14 | 第77期本因坊戦リーグ | Motoki Katsuya | Sada Atsushi | Lose | W+R | 6.5 | 3154 | 3 | 
 | 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | Lose | B+R | 6.5 | 3151 | -18 | 
 | 2022-02-17 | 第47期名人戦リーグ  | Ida Atsushi | Motoki Katsuya | Lose | B+4.5 | 6.5 | 3169 | -25 | 
@@ -51,9 +51,9 @@
 | 2020-08-17 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Motoki Katsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 3055 | -32 | 
 | 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Win | B+R | 6.5 | 3087 | 12 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Motoki Katsuya | Lose | B+R | 7.5 | 3075 | 2 | 
-| 2020-07-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yu Zhengqi | Lose | W+R | 6.5 | 3073 | -21 | 
-| 2020-07-16 | 第76期本因坊戦予選 | Kono Rin | Motoki Katsuya | Lose | B+R | 6.5 | 3094 | -24 | 
-| 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | Motoki Katsuya | Win | W+R | 6.5 | 3118 | 35 | 
+| 2020-07-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yu Zhengqi | Lose | W+R | 6.5 | 3073 | -22 | 
+| 2020-07-16 | 第76期本因坊戦予選 | Kono Rin | Motoki Katsuya | Lose | B+R | 6.5 | 3095 | -24 | 
+| 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | Motoki Katsuya | Win | W+R | 6.5 | 3119 | 36 | 
 | 2020-07-02 | 第45期棋聖戦Aリーグ | Shida Tatsuya | Motoki Katsuya | Win | W+0.5 | 6.5 | 3083 | 42 | 
 | 2020-06-25 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Sada Atsushi | Win | B+1.5 | 6.5 | 3041 | 17 | 
 | 2020-04-17 | 日台交流戦第2戦 | Chen Qirui | Motoki Katsuya | Lose | B+R | 6.5 | 3024 | 0 | 

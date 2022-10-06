@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Chanwu | Lose | W+R | 6.5 | 3044 | 4 | 
 | 2022-10-03 | 第6期女子棋聖戦（韓国）1回戦 | Gueon Hyojin | Oh Jeonga | Win | B+0.5 | 6.5 | 3040 | 3 | 
 | 2022-09-30 | 2022韓国シニア囲碁リーグ | Kang Hun | Gueon Hyojin | Win | W+R | 6.5 | 3037 | 23 | 
 | 2022-09-28 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Gueon Hyojin | Win | W+R | 6.5 | 3014 | 14 | 
@@ -27,8 +28,8 @@
 | 2022-08-07 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin | Kim Beomseo | Win | B+R | 6.5 | 2979 | 125 | 
 | 2022-08-06 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+3.5 | 6.5 | 2854 | -8 | 
 | 2022-07-28 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Lee Yeon | Gueon Hyojin | Lose | B+2.5 | 6.5 | 2862 | -17 | 
-| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2879 | 3 | 
-| 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Lose | W+R | 6.5 | 2876 | 3 | 
+| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2879 | 2 | 
+| 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Lose | W+R | 6.5 | 2877 | 4 | 
 | 2022-07-20 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Kim Beomseo | Gueon Hyojin | Lose | B+R | 6.5 | 2873 | -94 | 
 | 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Win | W+R | 6.5 | 2967 | 104 | 
 | 2022-06-26 | 2022韓国ルーキー囲碁リーグ |  | Gueon Hyojin | Lose | B+4.5 | 6.5 | 2863 | 30 | 

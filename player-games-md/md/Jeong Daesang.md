@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Jeong Daesang | Lose | B+R | 6.5 | 2509 | 77 | 
 | 2022-09-28 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Seo Nungwuk | Lose | W+R | 6.5 | 2432 | -93 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Dongyeop | Lose | W+9.5 | 6.5 | 2525 | 0 | 
 | 2022-09-21 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Park Seungmun | Lose | W+R | 6.5 | 2525 | -45 | 
@@ -38,8 +39,8 @@
 | 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第2局 | Jeong Daesang | Kim Ilhwan | Win | B+10.5 | 6.5 | 2176 | 35 | 
 | 2020-10-06 | 2020NHシニア囲碁リーグ第11節第2試合第2局 | Jeong Daesang | Oh Kyuchul | Lose | W+R | 6.5 | 2141 | -16 | 
 | 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第1局 | Jeong Daesang | Park Yeongchan | Win | B+R | 6.5 | 2157 | 74 | 
-| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第1局 | Kim Dongmyeon | Jeong Daesang | Lose | B+R | 6.5 | 2083 | -7 | 
-| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第3局 | Cho Daehyeon | Jeong Daesang | Win | W+R | 6.5 | 2090 | 9 | 
+| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第1局 | Kim Dongmyeon | Jeong Daesang | Lose | B+R | 6.5 | 2083 | -8 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第3局 | Cho Daehyeon | Jeong Daesang | Win | W+R | 6.5 | 2091 | 10 | 
 | 2020-08-24 | 2020NHシニア囲碁リーグ第7節第1試合第3局 |  | Jeong Daesang | Win | W+25.5 | 6.5 | 2081 | 26 | 
 | 2020-08-17 | 2020NHシニア囲碁リーグ第6節第1試合第3局 | Jeong Daesang | Kim JongJoon | Win | B+R | 6.5 | 2055 | 51 | 
 | 2020-08-05 | 2020NHシニア囲碁リーグ第4節第3試合第3局 | Jeong Daesang | Oh Kyuchul | Lose | W+R | 6.5 | 2004 | -18 | 

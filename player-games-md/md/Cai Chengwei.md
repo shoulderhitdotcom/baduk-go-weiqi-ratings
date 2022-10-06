@@ -7,9 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-25 | 第10期中環碁聖戦 | Cai Chengwei |  | Win | B+R | 6.5 | 2631 | -82 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2713 | 0 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2713 | -44 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 |  | Cai Chengwei | Win | W+R | 7.5 | 2687 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Yanchen | Cai Chengwei | Lose | B+R | 7.5 | 2687 | 56 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Cai Chengwei |  | Win | B+R | 6.5 | 2631 | -81 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2712 | 0 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2712 | -45 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Cai Chengwei | Lin Shuyang | Lose | W+R | 6.5 | 2757 | -20 | 
 | 2022-07-28 | 第15期棋王戦（台湾）予選 | Cai Chengwei |  | Lose | W+3.5 | 6.5 | 2777 | -20 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2797 | 41 | 

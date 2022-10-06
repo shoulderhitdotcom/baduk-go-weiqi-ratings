@@ -7,10 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-25 | 第10期中環碁聖戦 | Lu Yiquan | Liu Yaowen | Win | B+R | 6.5 | 2786 | -41 | 
-| 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 2827 | -10 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Yanchen | Lu Yiquan | Win | W+R | 6.5 | 2837 | 0 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Li Wei | Lu Yiquan | Lose | B+R | 6.5 | 2837 | -100 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yiquan | Win | W+¼ | 7.5 | 2831 | 22 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 2809 | 23 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Lu Yiquan | Liu Yaowen | Win | B+R | 6.5 | 2786 | -40 | 
+| 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 2826 | -10 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Yanchen | Lu Yiquan | Win | W+R | 6.5 | 2836 | 0 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Li Wei | Lu Yiquan | Lose | B+R | 6.5 | 2836 | -101 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Lu Yiquan | Win | W+R | 6.5 | 2937 | -10 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Win | W+2.5 | 6.5 | 2947 | -25 | 
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 | Lu Yiquan |  | Lose | W+R | 7.5 | 2972 | -5 | 

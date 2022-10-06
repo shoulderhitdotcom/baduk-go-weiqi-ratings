@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Yuqi | Jian Jingting | Lose | W+R | 7.5 | 2727 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Zeng Pinjie | Xu Yuqi | Win | W+R | 7.5 | 2727 | 37 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Xu Yuqi | Su Shengfang | Win | B+R | 6.5 | 2690 | 42 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Xu Yuqi |  | Win | B+R | 6.5 | 2648 | -214 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Xu Yuqi |  | Lose | W+2.5 | 6.5 | 2862 | 0 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Zhou Pingqiang | Xu Yuqi | Win | W+R | 6.5 | 2862 | 0 | 

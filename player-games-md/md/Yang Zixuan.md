@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Yang Zixuan | Niu Shite | Lose | W+R | 7.5 | 2704 | 15 | 
 | 2022-10-04 | 第18期国手戦（台湾） | Yang Zixuan | Liu Yifang | Win | B+R | 6.5 | 2689 | 59 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Yang Zixuan | Yang Bowei | Lose | W+R | 6.5 | 2630 | -73 | 
 | 2022-09-08 | 第8回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yang Zixuan | Win | W+R | 6.5 | 2703 | 13 | 

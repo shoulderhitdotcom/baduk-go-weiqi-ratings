@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Bai Xinhui | Liu Yifang | Lose | B+R | 7.5 | 1812 | -19 | 
 | 2022-10-04 | 第18期国手戦（台湾） | Yang Zixuan | Liu Yifang | Lose | B+R | 6.5 | 1831 | -23 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Liu Yifang |  | Lose | W+R | 6.5 | 1854 | -298 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Liu Yifang | Lin Yanchen | Lose | W+R | 6.5 | 2152 | 155 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Chen Qirui | Lin Shixun | Win | W+R | 7.5 | 3013 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shixun |  | Win | B+R | 7.5 | 3013 | 9 | 
 | 2022-10-04 | 第18期国手戦（台湾） | Lin Shixun |  | Win | B+R | 6.5 | 3004 | 4 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Huang Shiyuan | Lin Shixun | Win | W+R | 6.5 | 3000 | -5 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Lin Shixun | Chen Weiting | Lose | W+R | 6.5 | 3005 | 31 | 
@@ -123,8 +125,8 @@
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lin Shuyang | Lin Shixun | Lose | B+R | 6.5 | 3103 | -2 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | Lose | B+R | 7.5 | 3105 | -15 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | Win | B+2.5 | 6.5 | 3120 | 3 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shengyi | Lin Shixun | Win | W+R | 6.5 | 3117 | -14 | 
-| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Win | W+R | 6.5 | 3131 | 16 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shengyi | Lin Shixun | Win | W+R | 6.5 | 3117 | -15 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Win | W+R | 6.5 | 3132 | 17 | 
 | 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Qirui | Lin Shixun | Lose | B+R | 6.5 | 3115 | -17 | 
 | 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Lin Shixun | Jian Jingting | Lose | W+1.5 | 6.5 | 3132 | -14 | 
 | 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3146 | -17 | 

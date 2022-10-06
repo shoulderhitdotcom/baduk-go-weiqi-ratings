@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Li Wei | Xu Jingen | Win | W+R | 7.5 | 3092 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 |  | Xu Jingen | Win | W+R | 7.5 | 3092 | 17 | 
 | 2022-10-04 | 第18期国手戦（台湾） |  | Xu Jingen | Win | W+R | 6.5 | 3075 | 1 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Xu Haohong | Xu Jingen | Lose | B+R | 6.5 | 3074 | 15 | 
 | 2022-09-29 | 第15期棋王戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 3059 | 18 | 

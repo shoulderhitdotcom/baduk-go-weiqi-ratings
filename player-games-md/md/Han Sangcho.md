@@ -30,8 +30,8 @@
 | 2020-12-28 | 第2期ソパルコサノル最高棋士決定戦予選 | Han Sangcho | Kang Dongyun | Lose | W+R | 6.5 | 3227 | 18 | 
 | 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Sangcho | Lose | B+R | 6.5 | 3209 | -99 | 
 | 2020-10-05 | 第2期ソパルコサノル最高棋士決定戦予選 | Han Sangcho | Kang Dongyun | Win | B+0.5 | 6.5 | 3308 | 177 | 
-| 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Sonjin | Han Sangcho | Win | W+R | 6.5 | 3131 | 65 | 
-| 2020-04-27 | 第25回LG杯韓国予選 | An Jungki | Han Sangcho | Lose | B+R | 6.5 | 3066 | missing |
+| 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Sonjin | Han Sangcho | Win | W+R | 6.5 | 3131 | 64 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | An Jungki | Han Sangcho | Lose | B+R | 6.5 | 3067 | missing |
 
 
 

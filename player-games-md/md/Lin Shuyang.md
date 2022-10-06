@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yuhua | Win | B+R | 7.5 | 2840 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yiquan | Lose | W+¼ | 7.5 | 2840 | -17 | 
 | 2022-10-04 | 第18期国手戦（台湾） |  | Lin Shuyang | Lose | B+R | 6.5 | 2857 | 33 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Lin Shuyang | Yang Bowei | Win | B+2.5 | 6.5 | 2824 | 38 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Lin Shuyang |  | Win | B+R | 6.5 | 2786 | -43 | 

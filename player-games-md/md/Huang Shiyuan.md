@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Huang Shiyuan |  | Lose | W+R | 7.5 | 2800 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2800 | 14 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Huang Shiyuan | Lin Shixun | Lose | W+R | 6.5 | 2786 | 26 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Huang Shiyuan |  | Win | B+1.5 | 6.5 | 2760 | 36 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Huang Shiyuan |  | Win | B+13.5 | 6.5 | 2724 | -46 | 

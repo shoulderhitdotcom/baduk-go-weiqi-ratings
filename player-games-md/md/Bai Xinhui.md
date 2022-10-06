@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Bai Xinhui | Liu Yifang | Win | B+R | 7.5 | 2412 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Bai Xinhui | Lose | B+R | 7.5 | 2412 | 68 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Zhou Keping | Bai Xinhui | Win | W+R | 6.5 | 2344 | 30 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Gao Yun | Bai Xinhui | Lose | B+R | 6.5 | 2314 | -67 | 
 | 2022-08-21 | 第8回健喬杯女子囲碁最強戦予選 | Bai Xinhui |  | Lose | W+4.5 | 6.5 | 2381 | -18 | 

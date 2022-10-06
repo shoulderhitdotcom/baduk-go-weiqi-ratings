@@ -32,8 +32,8 @@
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+R | 6.5 | 2507 | -29 | 
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Soojang | Lose | B+15.5 | 6.5 | 2536 | -30 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Lose | B+6.5 | 6.5 | 2566 | -53 | 
-| 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2619 | -56 | 
-| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Lose | W+R | 6.5 | 2675 | -42 | 
+| 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2619 | -57 | 
+| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Lose | W+R | 6.5 | 2676 | -41 | 
 | 2021-06-26 | 2021韓国シニア囲碁大会準決勝 |  | Kim Soojang | Win | W+13.5 | 6.5 | 2717 | 0 | 
 | 2021-06-26 | 2021韓国シニア囲碁大会決勝 | Kim Soojang | Kim Dongyeop | Lose | W+5.5 | 6.5 | 2717 | 62 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第3戦 | Choi Jeong | Kim Soojang | Lose | B+R | 6.5 | 2655 | 0 | 

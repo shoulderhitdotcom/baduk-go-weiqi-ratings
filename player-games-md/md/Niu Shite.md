@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lai Junfu | Niu Shite | Lose | B+R | 7.5 | 2827 | 0 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Yang Zixuan | Niu Shite | Win | W+R | 7.5 | 2827 | 29 | 
 | 2022-10-04 | 第18期国手戦（台湾） |  | Niu Shite | Win | W+R | 6.5 | 2798 | 56 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Wang Yuanjun | Niu Shite | Win | W+R | 6.5 | 2742 | 1 | 
 | 2022-09-29 | 第15期棋王戦（台湾）リーグ | Niu Shite | Jian Jingting | Lose | W+R | 6.5 | 2741 | 18 | 

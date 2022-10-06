@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yuhua | Lose | B+R | 7.5 | 2762 | -6 | 
 | 2022-10-04 | 第10期中環碁聖戦 | Lu Yuhua | Lin Shimin | Lose | W+0.5 | 6.5 | 2768 | 7 | 
 | 2022-09-30 | 第10期中環碁聖戦 | Lin Yuxiang | Lu Yuhua | Win | W+R | 6.5 | 2761 | 21 | 
 | 2022-09-08 | 第8回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yang Zixuan | Lose | W+R | 6.5 | 2740 | -25 | 

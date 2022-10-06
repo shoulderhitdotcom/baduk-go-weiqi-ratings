@@ -29,8 +29,8 @@
 | 2022-08-02 | 第45期名人戦（韓国）2回戦 | Shen Zaiyi | Shin Jinseo | Win | W+R | 6.5 | 3845 | 0 | 
 | 2022-07-28 | 第5期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Kang Dongyun | Win | B+R | 6.5 | 3845 | 0 | 
 | 2022-07-26 | 第5期韓国竜星戦決勝三番勝負第1局 | Kang Dongyun | Shin Jinseo | Win | W+R | 6.5 | 3845 | 0 | 
-| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Shin Jinseo | Kim Beomseo | Win | B+R | 6.5 | 3845 | 1 | 
-| 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
+| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Shin Jinseo | Kim Beomseo | Win | B+R | 6.5 | 3845 | 0 | 
+| 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | Win | W+R | 6.5 | 3845 | 1 | 
 | 2022-07-13 | 第45期名人戦（韓国）1回戦 | Shin Jinseo | Kim Sedong | Win | B+R | 6.5 | 3844 | 0 | 
 | 2022-07-12 | 2022YK建機杯リーグ | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3844 | 0 | 
 | 2022-07-08 | 第27回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
@@ -39,9 +39,9 @@
 | 2022-06-23 | 第5期韓国竜星戦準決勝 | Shin Jinseo | Kim Myounghoon | Win | B+R | 6.5 | 3844 | 0 | 
 | 2022-06-16 | 第27回GSカルテックス杯プロ棋戦2回戦 | Han Sanghoon | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
 | 2022-06-14 | 2022YK建機杯リーグ | Kim Sedong | Shin Jinseo | Win | W+R | 6.5 | 3844 | 0 | 
-| 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3844 | 1 | 
-| 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | Lose | B+R | 6.5 | 3843 | 0 | 
-| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3843 | 0 | 
+| 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3844 | 0 | 
+| 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | Lose | B+R | 6.5 | 3844 | 0 | 
+| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3844 | 1 | 
 | 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3843 | 0 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦  | Shin Jinseo | Yu Zhengqi | Win | B+R | 6.5 | 3843 | 0 | 
 | 2022-05-19 | 第5期韓国竜星戦3回戦 | Shen Zaiyi | Shin Jinseo | Win | W+R | 6.5 | 3843 | 0 | 
@@ -130,8 +130,8 @@
 | 2021-08-05 | 第44期名人戦（韓国）決勝三番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3833 | 0 | 
 | 2021-08-02 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3833 | 0 | 
 | 2021-07-30 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Byun Sangil | Shin Jinseo | Lose | B+R | 6.5 | 3833 | 0 | 
-| 2021-07-29 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3833 | 1 | 
-| 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3832 | 0 | 
+| 2021-07-29 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3833 | 0 | 
+| 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3833 | 1 | 
 | 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3832 | 0 | 
 | 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3832 | 0 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Win | W+R | 6.5 | 3832 | 0 | 
@@ -243,8 +243,8 @@
 | 2020-05-11 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Jinseo | Win | W+R | 6.5 | 3821 | 1 | 
 | 2020-05-08 | 第25期GSカルテックス杯プロ棋戦16強戦 | Hyun Yoobin | Shin Jinseo | Win | W+R | 6.5 | 3820 | 0 | 
 | 2020-05-03 | 韓国囲碁リーグオールスター戦第9局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3820 | 1 | 
-| 2020-05-02 | 韓国囲碁リーグオールスター戦第8局 | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3819 | 1 | 
-| 2020-04-26 | 韓国囲碁リーグオールスター戦第7局 | Park Yeonghun | Shin Jinseo | Win | W+R | 6.5 | 3818 | 2 | 
+| 2020-05-02 | 韓国囲碁リーグオールスター戦第8局 | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3819 | 0 | 
+| 2020-04-26 | 韓国囲碁リーグオールスター戦第7局 | Park Yeonghun | Shin Jinseo | Win | W+R | 6.5 | 3819 | 3 | 
 | 2020-04-07 | 第1期ソパルコサノル最高棋士決定戦リーグ | Shin Jinseo | Kim Jiseok | Win | B+R | 6.5 | 3816 | 2 | 
 | 2020-03-30 | 第21回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Shin Jinseo | Lose | B+R | 6.5 | 3814 | 0 | 
 | 2020-03-23 | 第1期ソパルコサノル最高棋士決定戦リーグ | Shin Jinseo | Lee Donghoon | Win | B+R | 6.5 | 3814 | 1 | 

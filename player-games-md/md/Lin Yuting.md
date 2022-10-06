@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Ding Shaojie | Lin Yuting | Win | W+R | 7.5 | 2048 | 10 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 |  | Lin Yuting | Win | W+R | 6.5 | 2038 | 36 | 
 | 2022-09-26 | 第3回早碁争覇戦予選 |  | Lin Yuting | Win | W+R | 6.5 | 2002 | -28 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Zhou Pingqiang | Lin Yuting | Lose | B+R | 6.5 | 2030 | -221 | 

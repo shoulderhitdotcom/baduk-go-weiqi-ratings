@@ -30,9 +30,9 @@
 | 2022-07-13 | 第24回農心杯韓国予選 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3534 | 12 | 
 | 2022-07-06 | 第45期名人戦（韓国）1回戦 | Shin Minjun | Lee Jihyun | Win | B+R | 6.5 | 3522 | -5 | 
 | 2022-06-23 | 第27回GSカルテックス杯プロ棋戦2回戦 | Shin Minjun | Park Jinsol | Lose | W+R | 6.5 | 3527 | 5 | 
-| 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3522 | -19 | 
-| 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | Win | B+R | 6.5 | 3541 | 20 | 
-| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3521 | -4 | 
+| 2022-06-07 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3522 | -20 | 
+| 2022-06-06 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Shin Minjun | Shin Jinseo | Win | B+R | 6.5 | 3542 | 20 | 
+| 2022-06-03 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3522 | -3 | 
 | 2022-06-02 | 第3期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3525 | -3 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Shin Minjun | Lose | B+R | 6.5 | 3528 | -6 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Shin Minjun | Win | W+R | 6.5 | 3534 | -9 | 
@@ -96,8 +96,8 @@
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Lose | B+R | 7.5 | 3550 | -7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Lose | W+R | 7.5 | 3557 | -5 | 
 | 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3562 | 16 | 
-| 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Lose | B+R | 6.5 | 3546 | 10 | 
-| 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3536 | 14 | 
+| 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Lose | B+R | 6.5 | 3546 | 9 | 
+| 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3537 | 15 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Win | B+R | 6.5 | 3522 | 4 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Win | W+R | 6.5 | 3518 | 10 | 
 | 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Win | B+R | 6.5 | 3508 | -1 | 

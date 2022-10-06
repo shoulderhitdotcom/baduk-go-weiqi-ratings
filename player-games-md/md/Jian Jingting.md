@@ -7,12 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Yuqi | Jian Jingting | Win | W+R | 7.5 | 2963 | 51 | 
+| 2022-09-29 | 第15期棋王戦（台湾）リーグ | Niu Shite | Jian Jingting | Win | W+R | 6.5 | 2912 | -3 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Jian Jingting | Chen Shoulian | Lose | W+0.5 | 6.5 | 2915 | -13 | 
 | 2022-09-15 | 第15期棋王戦（台湾）リーグ | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2928 | -8 | 
-| 2022-09-14 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 2936 | -4 | 
-| 2022-09-07 | 第27回三星火災杯台湾予選 | Su Shengfang | Jian Jingting | Win | W+T | 6.5 | 2940 | 8 | 
-| 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Win | W+R | 6.5 | 2932 | -7 | 
-| 2022-09-04 | 第27回三星火災杯台湾予選 | Jian Jingting |  | Win | B+R | 6.5 | 2939 | -83 | 
+| 2022-09-14 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 2936 | -3 | 
+| 2022-09-07 | 第27回三星火災杯台湾予選 | Su Shengfang | Jian Jingting | Win | W+T | 6.5 | 2939 | 8 | 
+| 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Win | W+R | 6.5 | 2931 | -7 | 
+| 2022-09-04 | 第27回三星火災杯台湾予選 | Jian Jingting |  | Win | B+R | 6.5 | 2938 | -84 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Xi | Jian Jingting | Win | W+R | 6.5 | 3022 | 0 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Jian Jingting | Xu Jingen | Lose | W+R | 6.5 | 3022 | -6 | 
 | 2022-07-28 | 第15期棋王戦（台湾）予選 | Yang Bowei | Jian Jingting | Win | W+R | 6.5 | 3028 | -22 | 
@@ -29,8 +31,8 @@
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3104 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Yang Mengyun | Jian Jingting | Win | W+R | 6.5 | 3104 | -2 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3106 | 0 | 
-| 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | B+R | 6.5 | 3106 | 0 | 
-| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 3106 | -3 | 
+| 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | B+R | 6.5 | 3106 | 1 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 3105 | -4 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3109 | -35 | 
 | 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3144 | 0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Shuyang | Jian Jingting | Win | W+0.5 | 6.5 | 3144 | -14 | 
@@ -113,8 +115,8 @@
 | 2020-06-08 | 2020新人王戦（台湾）リーグA | Lin Yanchen | Jian Jingting | Win | W+R | 7.5 | 3155 | 22 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグA | Chen Weiting | Jian Jingting | Win | W+R | 7.5 | 3133 | 0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | Lose | W+R | 7.5 | 3133 | 0 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lu Yiquan | Jian Jingting | Lose | B+R | 6.5 | 3133 | -27 | 
-| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Lose | W+R | 6.5 | 3160 | 1 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lu Yiquan | Jian Jingting | Lose | B+R | 6.5 | 3133 | -28 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Lose | W+R | 6.5 | 3161 | 2 | 
 | 2020-04-21 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | Lose | W+4.5 | 6.5 | 3159 | -20 | 
 | 2020-04-20 | 第10期友士杯十段戦敗部3回戦 | Jian Jingting | Lai Junfu | Lose | W+R | 6.5 | 3179 | -25 | 
 | 2020-04-17 | 日台交流戦第2戦 | Ida Atsushi | Jian Jingting | Win | W+R | 6.5 | 3204 | 0 | 

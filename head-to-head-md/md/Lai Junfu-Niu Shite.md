@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Niu Shite** | **Lai Junfu Streak** | **Niu Shite Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lai Junfu | Niu Shite | B+R | 7.5 | 9:0 | 9 | 0 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Niu Shite | Lai Junfu | W+R | 6.5 | 8:0 | 8 | 0 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Niu Shite | Lai Junfu | W+R | 6.5 | 7:0 | 7 | 0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Niu Shite | Lai Junfu | W+R | 6.5 | 6:0 | 6 | 0 | 

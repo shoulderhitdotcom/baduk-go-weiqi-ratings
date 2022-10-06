@@ -7,21 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 第2期韓国棋院選手権戦予選 | Choi Jeong | Kim Soojin | Lose | B+R | 6.5 | 2726 | -6 | 
 | 2022-09-27 | 第6期女子棋聖戦（韓国）1回戦 | Kim Soojin | Kim Miri | Lose | W+R | 6.5 | 2732 | -11 | 
 | 2022-09-18 | 第8回韓国女子囲碁リーグプレーオフ第2戦 | Oh Yujin | Kim Soojin | Lose | B+R | 6.5 | 2743 | 33 | 
 | 2022-08-16 | 2022Dr.G女子最高棋士決定戦予選 | Kim Eunji | Kim Soojin | Lose | B+R | 6.5 | 2710 | -66 | 
 | 2022-08-07 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Hyoyoung | Lose | W+R | 6.5 | 2776 | -64 | 
-| 2022-07-31 | 第8回韓国女子囲碁リーグ | Lee Minjin | Kim Soojin | Lose | B+R | 6.5 | 2840 | 128 | 
-| 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Win | B+R | 6.5 | 2712 | -94 | 
-| 2022-07-14 | 第8回韓国女子囲碁リーグ |  | Kim Soojin | Lose | B+2.5 | 6.5 | 2806 | 8 | 
+| 2022-07-31 | 第8回韓国女子囲碁リーグ | Lee Minjin | Kim Soojin | Lose | B+R | 6.5 | 2840 | 127 | 
+| 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Win | B+R | 6.5 | 2713 | -93 | 
+| 2022-07-14 | 第8回韓国女子囲碁リーグ | Kim Kyeongeun | Kim Soojin | Lose | B+2.5 | 6.5 | 2806 | 8 | 
 | 2022-06-26 | 第8回韓国女子囲碁リーグ | Oh Yujin | Kim Soojin | Lose | B+6.5 | 6.5 | 2798 | 299 | 
-| 2022-06-16 | 第8回韓国女子囲碁リーグ | Kim Soojin |  | Win | B+R | 6.5 | 2499 | -7 | 
-| 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | W+R | 6.5 | 2506 | 383 | 
+| 2022-06-16 | 第8回韓国女子囲碁リーグ | Kim Soojin |  | Win | B+R | 6.5 | 2499 | -8 | 
+| 2022-06-05 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | W+R | 6.5 | 2507 | 384 | 
 | 2022-05-29 | 第8回韓国女子囲碁リーグ | Kim Soojin | Choi Jeong | Win | B+0.5 | 6.5 | 2123 | 101 | 
 | 2022-03-13 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Kim Soojin | Choi Kyubyeong | Lose | W+R | 6.5 | 2022 | 33 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Heo Seohyun | Kim Soojin | Lose | B+5.5 | 6.5 | 1989 | -544 | 
 | 2021-08-15 | 第7回韓国女子囲碁リーグ |  | Kim Soojin | Win | W+2.5 | 6.5 | 2533 | 0 | 
-| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kim Soojin |  | Lose | W+5.5 | 6.5 | 2533 | -36 | 
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kim Soojin | Kim Kyeongeun | Lose | W+5.5 | 6.5 | 2533 | -36 | 
 | 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Soojin |  | Lose | W+R | 6.5 | 2569 | 132 | 
 | 2020-08-14 | 第6回韓国女子囲碁リーグ第13節第2試合第3局 | Kim Soojin |  | Lose | W+R | 6.5 | 2437 | 1 | 
 | 2020-08-07 | 第6回韓国女子囲碁リーグ第12節第2試合第2局 |  | Kim Soojin | Win | W+R | 6.5 | 2436 | 57 | 
@@ -32,7 +33,7 @@
 | 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第3局 | Kim Soojin | Park Shiun | Lose | W+R | 6.5 | 2430 | -40 | 
 | 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第2局 | Kim Miri | Kim Soojin | Win | W+0.5 | 6.5 | 2470 | -19 | 
 | 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第1局 | Kim Soojin |  | Lose | W+0.5 | 6.5 | 2489 | -143 | 
-| 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第3局 |  | Kim Soojin | Lose | B+R | 6.5 | 2632 | -110 | 
+| 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第3局 | Kim Kyeongeun | Kim Soojin | Lose | B+R | 6.5 | 2632 | -110 | 
 | 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第2局 | Kim Soojin |  | Win | B+3.5 | 6.5 | 2742 | -46 | 
 | 2020-04-14 | 第25回LG杯韓国予選 | Kang Changbae | Kim Soojin | Lose | B+R | 6.5 | 2788 | missing |
 

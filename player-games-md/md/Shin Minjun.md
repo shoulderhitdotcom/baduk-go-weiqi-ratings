@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 第45期名人戦（韓国）決勝三番勝負第2局 | Shin Jinseo | Shin Minjun | Win | W+R | 6.5 | 3555 | -1 | 
 | 2022-10-05 | 第45期名人戦（韓国）決勝三番勝負第1局 | Shin Minjun | Shin Jinseo | Win | B+R | 6.5 | 3556 | 42 | 
 | 2022-09-21 | 第45期名人戦（韓国）敗者組決勝 | Shin Minjun | Park Junghwan | Win | B+R | 6.5 | 3514 | -7 | 
 | 2022-09-19 | 第45期名人戦（韓国）敗者組5回戦 | Shin Minjun | Weon Seongjin | Win | B+3.5 | 6.5 | 3521 | 3 | 

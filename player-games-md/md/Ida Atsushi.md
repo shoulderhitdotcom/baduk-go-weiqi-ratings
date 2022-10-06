@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 第61期十段戦1回戦 | Sakai Yuki | Ida Atsushi | Lose | B+R | 6.5 | 3247 | 9 | 
 | 2022-10-03 | 第48期天元戦挑戦手合五番勝負第1局  | Seki Kotaro | Ida Atsushi | Lose | B+R | 6.5 | 3238 | -44 | 
 | 2022-09-29 | 第48期碁聖戦予選 | Ida Atsushi | Ohashi Naruya | Win | B+R | 6.5 | 3282 | -48 | 
 | 2022-08-04 | 第48期天元戦挑戦者決定戦  | Ichiriki Ryo | Ida Atsushi | Win | W+R | 6.5 | 3330 | 9 | 
-| 2022-07-25 | 第78期本因坊戦予選 | Kono Rin | Ida Atsushi | Win | W+5.5 | 6.5 | 3321 | 53 | 
-| 2022-07-21 | 第47期名人戦リーグ | Ida Atsushi | Shida Tatsuya | Win | B+1.5 | 6.5 | 3268 | -83 | 
+| 2022-07-25 | 第78期本因坊戦予選 | Kono Rin | Ida Atsushi | Win | W+5.5 | 6.5 | 3321 | 52 | 
+| 2022-07-21 | 第47期名人戦リーグ | Ida Atsushi | Shida Tatsuya | Win | B+1.5 | 6.5 | 3269 | -82 | 
 | 2022-07-07 | 第47期名人戦リーグ  | Ida Atsushi | Hane Naoki | Lose | W+R | 6.5 | 3351 | 2 | 
 | 2022-06-16 | 第47期名人戦リーグ  | Shibano Toramaru | Ida Atsushi | Lose | B+R | 6.5 | 3349 | -13 | 
 | 2022-05-09 | 第47期名人戦リーグ  | Yamashita Keigo | Ida Atsushi | Lose | B+R | 6.5 | 3362 | 25 | 

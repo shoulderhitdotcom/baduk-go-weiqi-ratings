@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 第45期名人戦（韓国）決勝三番勝負第2局 | Shin Jinseo | Shin Minjun | Lose | W+R | 6.5 | 3845 | 0 | 
 | 2022-10-05 | 第45期名人戦（韓国）決勝三番勝負第1局 | Shin Minjun | Shin Jinseo | Lose | B+R | 6.5 | 3845 | 0 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Win | W+R | 7.5 | 3845 | 0 | 
 | 2022-09-15 | 第45期名人戦（韓国）勝者組決勝 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3845 | 0 | 

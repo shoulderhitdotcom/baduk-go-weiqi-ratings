@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-06 | 第2期韓国棋院選手権戦予選 | Choi Jeong | Kim Soojin | Win | B+R | 6.5 | 3270 | 5 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦1回戦 | Choi Jeong | Kim Junghyun | Lose | W+R | 6.5 | 3265 | 0 | 
 | 2022-09-25 | 第5回呉清源杯世界女子囲碁選手権準決勝 | Choi Jeong | Oh Yujin | Lose | W+R | 7.5 | 3265 | -41 | 
 | 2022-09-23 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Choi Jeong | Win | W+R | 6.5 | 3306 | 0 | 
@@ -124,9 +125,9 @@
 | 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong | Lee Suljoo | Win | B+R | 6.5 | 3325 | 1 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3324 | -5 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3329 | -4 | 
-| 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Win | B+R | 6.5 | 3333 | 29 | 
-| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 3304 | 5 | 
-| 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Lose | B+R | 6.5 | 3299 | -4 | 
+| 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Win | B+R | 6.5 | 3333 | 28 | 
+| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 3305 | 5 | 
+| 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Lose | B+R | 6.5 | 3300 | -3 | 
 | 2021-07-22 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3303 | 9 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Gueon Hyojin | Choi Jeong | Win | W+R | 6.5 | 3294 | 5 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Win | B+R | 7.5 | 3289 | 9 | 
@@ -218,8 +219,8 @@
 | 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | Win | B+3.5 | 6.5 | 3338 | -6 | 
 | 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Lose | B+R | 6.5 | 3344 | -20 | 
 | 2020-05-30 | 第6回韓国女子囲碁リーグ第2節第3試合第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3364 | 11 | 
-| 2020-05-23 | 第6回韓国女子囲碁リーグ第1節第3試合第2局 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3353 | -20 | 
-| 2020-04-27 | 第25回LG杯韓国予選 | Choi Jeong | Park Sangjin | Lose | W+R | 6.5 | 3373 | -5 | 
+| 2020-05-23 | 第6回韓国女子囲碁リーグ第1節第3試合第2局 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3353 | -21 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Choi Jeong | Park Sangjin | Lose | W+R | 6.5 | 3374 | -4 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Choi Jeong | Kang Jihoon | Win | B+R | 6.5 | 3378 | 0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Jeong |  | Win | B+R | 6.5 | 3378 | -20 | 
 | 2020-04-17 | 第25回LG杯韓国予選 |  | Choi Jeong | Win | W+R | 6.5 | 3398 | 10 | 

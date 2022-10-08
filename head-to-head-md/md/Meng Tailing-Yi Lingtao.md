@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Meng Tailing vs Yi Lingtao** | **Meng Tailing streak** | **Yi Lingtao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Meng Tailing Vs Yi Lingtao** | **Meng Tailing Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | W+R | 7.5 | 1:0 | 1 | 0 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Meng Tailing Vs Xu Jiayang** | **Meng Tailing Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Meng Tailing | Xu Jiayang | W+R | 7.5 | 1:5 | 0 | 4 | 
 | 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Meng Tailing | Xu Jiayang | W+R | 7.5 | 1:4 | 0 | 3 | 
 | 2019-03-12 | 第10期中国竜星戦Bブロック5回戦 | Meng Tailing | Xu Jiayang | W+R | 7.5 | 1:3 | 0 | 2 | 
 | 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Meng Tailing | Xu Jiayang | W+2.5 | 7.5 | 1:2 | 0 | 1 | 

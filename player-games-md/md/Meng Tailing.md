@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Meng Tailing | Xu Jiayang | Lose | W+R | 7.5 | 3396 | 1 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Meng Tailing | Tuo Jiaxi | Lose | W+R | 7.5 | 3395 | -53 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Tao Xinran | Meng Tailing | Win | W+R | 7.5 | 3448 | -60 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Meng Tailing | Shi Yue | Lose | W+R | 7.5 | 3508 | 0 | 
@@ -21,12 +22,12 @@
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Meng Tailing | Li Qincheng | Lose | W+¼ | 7.5 | 3287 | -21 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | Lose | B+R | 7.5 | 3308 | -12 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Fan Yin | Win | B+R | 7.5 | 3320 | 56 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Lose | W+R | 7.5 | 3264 | 8 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Lose | W+R | 7.5 | 3256 | -8 | 
-| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Win | W+R | 7.5 | 3264 | 77 | 
-| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Meng Tailing | Xu Jiayang | Lose | W+R | 7.5 | 3187 | -12 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Meng Tailing | Win | W+R | 7.5 | 3199 | 50 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Meng Tailing | Tong Mengcheng | Lose | W+R | 7.5 | 3149 | 6 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Lose | W+R | 7.5 | 3264 | 7 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Meng Tailing | Tuo Jiaxi | Lose | W+R | 7.5 | 3257 | -8 | 
+| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Win | W+R | 7.5 | 3265 | 78 | 
+| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Meng Tailing | Xu Jiayang | Lose | W+R | 7.5 | 3187 | -13 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Meng Tailing | Win | W+R | 7.5 | 3200 | 50 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Meng Tailing | Tong Mengcheng | Lose | W+R | 7.5 | 3150 | 7 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Meng Tailing | Li Zhe | Win | B+2¾ | 7.5 | 3143 | -8 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Meng Tailing | Win | W+R | 7.5 | 3151 | 39 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Meng Tailing | Gu Zihao | Lose | W+R | 7.5 | 3112 | -5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Li Qincheng | Win | B+R | 7.5 | 3374 | 69 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Lose | W+R | 7.5 | 3305 | -12 | 
 | 2022-09-14 | 第27回三星火災杯中国予選 | Peng Liyao | Yi Lingtao | Lose | B+R | 6.5 | 3317 | -10 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Lose | B+R | 7.5 | 3327 | 0 | 
@@ -53,13 +54,13 @@
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Yaoye | Lose | W+R | 7.5 | 3375 | -7 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Li Zerui | Yi Lingtao | Win | W+R | 7.5 | 3382 | 15 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3367 | 24 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3343 | -25 | 
-| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Lose | W+R | 7.5 | 3368 | 28 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3343 | -26 | 
+| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Lose | W+R | 7.5 | 3369 | 29 | 
 | 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3340 | -8 | 
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Xu Jiayang | Lose | W+R | 7.5 | 3348 | 2 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yi Lingtao | Lose | B+R | 7.5 | 3346 | -14 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Gu Lingyi | Yi Lingtao | Win | W+R | 7.5 | 3360 | 10 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Dang Yifei | Lose | W+R | 7.5 | 3350 | 21 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Xu Jiayang | Lose | W+R | 7.5 | 3348 | 1 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yi Lingtao | Lose | B+R | 7.5 | 3347 | -14 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Gu Lingyi | Yi Lingtao | Win | W+R | 7.5 | 3361 | 10 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Dang Yifei | Lose | W+R | 7.5 | 3351 | 22 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Yi Lingtao | Win | W+R | 7.5 | 3329 | 20 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Yi Lingtao | Lose | B+2¾ | 7.5 | 3309 | -20 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Jiang Qirun | Lose | W+1¼ | 7.5 | 3329 | -24 | 

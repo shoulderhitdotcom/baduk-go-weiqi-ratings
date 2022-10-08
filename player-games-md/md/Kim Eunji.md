@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第27期女流国手戦2回戦 | Kim Hyeoimin | Kim Eunji | Lose | B+R | 6.5 | 3151 | -7 | 
 | 2022-10-07 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Park Jiyeon | Lose | W+R | 6.5 | 3158 | 12 | 
 | 2022-10-01 | 2022Dr.G女子最高棋士決定戦リーグ | Oh Yujin | Kim Eunji | Win | W+R | 6.5 | 3146 | 22 | 
 | 2022-09-01 | 第8回韓国女子囲碁リーグ | Kim Eunji | Oh Yujin | Win | B+R | 6.5 | 3124 | 0 | 

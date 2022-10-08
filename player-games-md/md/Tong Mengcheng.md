@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Dingxin | Tong Mengcheng | Lose | B+R | 7.5 | 3468 | 22 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Dang Yifei | Tong Mengcheng | Win | W+R | 7.5 | 3446 | 17 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Tong Mengcheng | Lian Xiao | Win | B+¾ | 7.5 | 3429 | -11 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Lian Xiao | Lose | W+R | 7.5 | 3440 | -8 | 
@@ -68,12 +69,12 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Gu Zihao | Lose | W+R | 7.5 | 3404 | -6 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Tong Mengcheng | Win | W+R | 7.5 | 3410 | 14 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Han Yizhou | Win | B+R | 7.5 | 3396 | 7 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tong Mengcheng | Lose | B+R | 7.5 | 3389 | 3 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Xie Erhao | Tong Mengcheng | Lose | B+¾ | 7.5 | 3386 | 12 | 
-| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tong Mengcheng | Gu Zihao | Lose | W+R | 7.5 | 3374 | -7 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | Win | W+R | 7.5 | 3381 | 30 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Li Chengsen | Tong Mengcheng | Win | W+R | 7.5 | 3351 | 13 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Meng Tailing | Tong Mengcheng | Win | W+R | 7.5 | 3338 | 41 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tong Mengcheng | Lose | B+R | 7.5 | 3389 | 2 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Xie Erhao | Tong Mengcheng | Lose | B+¾ | 7.5 | 3387 | 12 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Tong Mengcheng | Gu Zihao | Lose | W+R | 7.5 | 3375 | -7 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | Win | W+R | 7.5 | 3382 | 30 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Li Chengsen | Tong Mengcheng | Win | W+R | 7.5 | 3352 | 13 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Meng Tailing | Tong Mengcheng | Win | W+R | 7.5 | 3339 | 42 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Tang Weixing | Lose | W+R | 7.5 | 3297 | -11 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Xie Erhao | Lose | W+R | 7.5 | 3308 | -5 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Hu Yaoyu | Tong Mengcheng | Win | W+R | 7.5 | 3313 | 19 | 

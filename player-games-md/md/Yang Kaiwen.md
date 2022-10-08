@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Kaiwen | Li Weiqing | Win | B+R | 7.5 | 3614 | 63 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Ke | Yang Kaiwen | Win | W+1¼ | 7.5 | 3551 | 28 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3523 | -4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Kaiwen | Win | W+R | 7.5 | 3527 | 14 | 
@@ -54,18 +55,18 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Win | B+R | 7.5 | 3436 | 12 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Lose | B+R | 7.5 | 3424 | -8 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yichun | Win | B+R | 7.5 | 3432 | -1 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Win | W+R | 7.5 | 3433 | 22 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Lose | W+4¼ | 7.5 | 3411 | -7 | 
-| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Win | W+R | 7.5 | 3418 | 19 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Win | W+R | 7.5 | 3399 | -4 | 
-| 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3403 | -11 | 
-| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3414 | 29 | 
-| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | Win | B+R | 7.5 | 3385 | 51 | 
-| 2021-03-10 | 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | Win | W+R | 7.5 | 3334 | 62 | 
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Win | B+R | 7.5 | 3272 | 31 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3241 | -17 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3258 | -20 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3278 | 83 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Win | W+R | 7.5 | 3433 | 21 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Lose | W+4¼ | 7.5 | 3412 | -7 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Win | W+R | 7.5 | 3419 | 20 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Win | W+R | 7.5 | 3399 | -5 | 
+| 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3404 | -11 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3415 | 29 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | Win | B+R | 7.5 | 3386 | 51 | 
+| 2021-03-10 | 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | Win | W+R | 7.5 | 3335 | 63 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Win | B+R | 7.5 | 3272 | 30 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3242 | -17 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3259 | -20 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3279 | 84 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3195 | 106 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Lose | B+¾ | 7.5 | 3089 | -49 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Lose | W+1¼ | 7.5 | 3138 | -219 | 

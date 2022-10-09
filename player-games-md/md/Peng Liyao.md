@@ -75,8 +75,8 @@
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Sun Tengyu | Peng Liyao | Win | W+R | 7.5 | 3288 | 7 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Peng Liyao | Li Chengsen | Lose | W+¼ | 7.5 | 3281 | -28 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Peng Liyao | Shin Minjun | Win | B+R | 7.5 | 3309 | 80 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Lose | W+R | 7.5 | 3229 | -27 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Peng Liyao | Lose | B+R | 7.5 | 3256 | -24 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Lose | W+R | 7.5 | 3229 | -26 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Peng Liyao | Lose | B+R | 7.5 | 3255 | -25 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tao Xinran | Lose | W+R | 7.5 | 3280 | -131 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Peng Liyao | Zhou Ruiyang | Lose | W+¼ | 7.5 | 3411 | -34 | 
 | 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Peng Liyao | Tan Xiao | Win | B+R | 6.5 | 3445 | 14 | 

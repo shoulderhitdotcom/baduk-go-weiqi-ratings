@@ -31,8 +31,8 @@
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | Lose | W+R | 7.5 | 3409 | -17 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Xia Chenkun | Chen Xian | Win | W+R | 7.5 | 3426 | 3 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Chen Xian | Dang Yifei | Lose | W+1¼ | 7.5 | 3423 | -15 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Park Junghwan | Chen Xian | Lose | B+2¾ | 7.5 | 3438 | -13 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Lose | B+R | 7.5 | 3451 | -11 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Park Junghwan | Chen Xian | Lose | B+2¾ | 7.5 | 3438 | -14 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Lose | B+R | 7.5 | 3452 | -10 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Lose | B+R | 7.5 | 3462 | -8 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Haoxin | Chen Xian | Lose | B+R | 7.5 | 3470 | -5 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Liu Yuhang | Chen Xian | Win | W+R | 7.5 | 3475 | 15 | 
@@ -77,8 +77,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Zhe | Chen Xian | Win | W+R | 7.5 | 3344 | 19 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Xian | Xu Haohong | Lose | W+1¼ | 7.5 | 3325 | -2 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Win | B+¾ | 7.5 | 3327 | -23 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Yao Xiaotong | Chen Xian | Win | W+R | 7.5 | 3350 | 4 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Chen Xian | Tao Xinran | Lose | W+R | 7.5 | 3346 | -12 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Yao Xiaotong | Chen Xian | Win | W+R | 7.5 | 3350 | 5 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Chen Xian | Tao Xinran | Lose | W+R | 7.5 | 3345 | -13 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tang Weixing | Chen Xian | Lose | B+R | 7.5 | 3358 | -8 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Ke Jie | Lose | W+R | 7.5 | 3366 | -29 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Xian | Fan Yin | Win | B+R | 7.5 | 3395 | 19 | 

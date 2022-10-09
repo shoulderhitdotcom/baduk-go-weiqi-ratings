@@ -97,8 +97,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | Lose | B+R | 7.5 | 3447 | -10 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Park Junghwan | Lose | W+R | 7.5 | 3457 | 18 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Fan Tingyu | Win | W+¼ | 7.5 | 3439 | -3 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | Lose | W+¼ | 7.5 | 3442 | -28 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3470 | -23 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | Lose | W+¼ | 7.5 | 3442 | -27 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3469 | -24 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Lose | W+R | 7.5 | 3493 | -19 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | Win | B+R | 7.5 | 3512 | -22 | 
 | 2020-10-13 | 第22回農心辛ラーメン杯世界囲碁最強戦第1戦 | Hong Kipyo | Fan Tingyu | Lose | B+R | 6.5 | 3534 | -32 | 
@@ -129,9 +129,9 @@
 | 2020-05-19 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Fan Tingyu | Xie Erhao | Lose | W+R | 7.5 | 3647 | -16 | 
 | 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Lose | B+5.5 | 6.5 | 3663 | -45 | 
 | 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Lose | B+¾ | 7.5 | 3708 | -6 | 
-| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | Win | W+¼ | 7.5 | 3714 | 4 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3710 | 14 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3696 | missing |
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | Win | W+¼ | 7.5 | 3714 | 5 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3709 | 14 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3695 | missing |
 
 
 

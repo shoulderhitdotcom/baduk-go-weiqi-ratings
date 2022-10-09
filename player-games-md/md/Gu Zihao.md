@@ -97,8 +97,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Meng Tailing | Gu Zihao | Win | W+R | 7.5 | 3472 | 5 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Shi Yue | Gu Zihao | Lose | B+R | 7.5 | 3467 | 9 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Gu Zihao | Mi Yuting | Lose | W+R | 7.5 | 3458 | -22 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Zihao | Lose | B+R | 7.5 | 3480 | -25 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Lose | W+R | 7.5 | 3505 | -37 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Zihao | Lose | B+R | 7.5 | 3480 | -24 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Lose | W+R | 7.5 | 3504 | -38 | 
 | 2020-11-21 | 第22回農心辛ラーメン杯世界囲碁最強戦第6戦 | Gu Zihao | Shin Minjun | Lose | W+0.5 | 6.5 | 3542 | -17 | 
 | 2020-11-20 | 第22回農心辛ラーメン杯世界囲碁最強戦第5戦  | Murakawa Daisuke | Gu Zihao | Win | W+R | 6.5 | 3559 | 3 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tang Weixing | Gu Zihao | Lose | B+R | 7.5 | 3556 | -21 | 
@@ -130,8 +130,8 @@
 | 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Win | B+R | 7.5 | 3672 | 42 | 
 | 2020-05-20 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Gu Zihao | Chen Yaoye | Lose | W+¼ | 7.5 | 3630 | -59 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Win | W+R | 6.5 | 3689 | 13 | 
-| 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Win | W+R | 6.5 | 3676 | 8 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Xie Ke | Gu Zihao | Lose | B+R | 7.5 | 3668 | missing |
+| 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Win | W+R | 6.5 | 3676 | 9 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Xie Ke | Gu Zihao | Lose | B+R | 7.5 | 3667 | missing |
 
 
 

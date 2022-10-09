@@ -88,8 +88,8 @@
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3028 | -15 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Nokyeong | Win | B+R | 6.5 | 3043 | -9 | 
 | 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Cheayoung | Win | W+R | 6.5 | 3052 | 1 | 
-| 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Win | W+2.5 | 6.5 | 3051 | -17 | 
-| 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 3068 | 61 | 
+| 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Win | W+2.5 | 6.5 | 3051 | -16 | 
+| 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 3067 | 60 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ |  | Kim Cheayoung | Win | W+R | 7.5 | 3007 | 5 | 
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | Lose | W+R | 7.5 | 3002 | -24 | 
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Lose | W+¼ | 7.5 | 3026 | -9 | 
@@ -117,9 +117,9 @@
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第1局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2964 | -62 | 
 | 2020-08-15 | 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | Win | B+4.5 | 6.5 | 3026 | -6 | 
 | 2020-08-09 | 第6回韓国女子囲碁リーグ第12節第4試合第1局 | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 3032 | -25 | 
-| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Kim Cheayoung | Pan Yang | Win | B+2¾ | 7.5 | 3057 | 6 | 
-| 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Win | B+1.5 | 6.5 | 3051 | 36 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Kim Cheayoung | Wu Yiming | Lose | W+¼ | 7.5 | 3015 | -31 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Kim Cheayoung | Pan Yang | Win | B+2¾ | 7.5 | 3057 | 7 | 
+| 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Win | B+1.5 | 6.5 | 3050 | 36 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Kim Cheayoung | Wu Yiming | Lose | W+¼ | 7.5 | 3014 | -32 | 
 | 2020-07-24 | 第6回韓国女子囲碁リーグ第10節第2試合第3局 | Kim Eunji | Kim Cheayoung | Lose | B+R | 6.5 | 3046 | -38 | 
 | 2020-07-18 | 第6回韓国女子囲碁リーグ第9節第3試合第1局 | Kim Cheayoung |  | Lose | W+R | 6.5 | 3084 | -28 | 
 | 2020-07-12 | 第6回韓国女子囲碁リーグ第8節第4試合第3局 |  | Kim Cheayoung | Win | W+R | 6.5 | 3112 | 1 | 
@@ -135,8 +135,8 @@
 | 2020-06-06 | 第6回韓国女子囲碁リーグ第3節第3試合第2局 | Kim Eunji | Kim Cheayoung | Win | W+R | 6.5 | 3054 | -5 | 
 | 2020-05-29 | 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 3059 | 36 | 
 | 2020-05-21 | 第6回韓国女子囲碁リーグ第1節第1試合第3局 | Kim Cheayoung | Oh Yujin | Win | B+0.5 | 6.5 | 3023 | -52 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Lose | B+R | 6.5 | 3075 | -36 | 
-| 2020-02-03 | 第13回GGオークション杯女流対シニア連勝対抗戦第16局 | Han Chongjin | Kim Cheayoung | Lose | B+R | 6.5 | 3111 | missing |
+| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Lose | B+R | 6.5 | 3075 | -35 | 
+| 2020-02-03 | 第13回GGオークション杯女流対シニア連勝対抗戦第16局 | Han Chongjin | Kim Cheayoung | Lose | B+R | 6.5 | 3110 | missing |
 
 
 

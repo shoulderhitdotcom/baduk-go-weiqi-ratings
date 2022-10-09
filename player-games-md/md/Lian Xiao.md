@@ -38,8 +38,8 @@
 | 2022-02-23 | 第14回春蘭杯中国予選 | Shi Yue | Lian Xiao | Lose | B+R | 7.5 | 3530 | -11 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Lian Xiao | Han Yizhou | Lose | W+¼ | 7.5 | 3541 | -32 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Xia Chenkun | Win | B+R | 7.5 | 3573 | 0 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Win | B+R | 7.5 | 3573 | -11 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Win | B+R | 7.5 | 3584 | 2 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Win | B+R | 7.5 | 3573 | -12 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Win | B+R | 7.5 | 3585 | 3 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Win | B+R | 7.5 | 3582 | 18 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Lian Xiao | Rong Yi | Lose | W+¼ | 7.5 | 3564 | -7 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Win | W+R | 7.5 | 3571 | 20 | 
@@ -102,8 +102,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Lian Xiao | Win | W+R | 7.5 | 3493 | 16 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3477 | 34 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Erhao | Lian Xiao | Lose | B+R | 7.5 | 3443 | -13 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lian Xiao | Park Junghwan | Lose | W+R | 7.5 | 3456 | -17 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3473 | -9 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lian Xiao | Park Junghwan | Lose | W+R | 7.5 | 3456 | -16 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3472 | -10 | 
 | 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | Lose | W+R | 7.5 | 3482 | -10 | 
 | 2020-12-02 | 第34期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Lian Xiao | Lose | B+R | 7.5 | 3492 | -16 | 
 | 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Win | B+R | 7.5 | 3508 | -27 | 
@@ -129,8 +129,8 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yi Lingtao | Lian Xiao | Lose | B+R | 7.5 | 3609 | -43 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Lian Xiao | Wang Xinghao | Win | B+R | 7.5 | 3652 | -47 | 
 | 2020-08-03 | 第11期中国竜星戦Bブロック10回戦 | Lian Xiao | Yang Dingxin | Win | B+R | 7.5 | 3699 | -16 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Junghwan | Lian Xiao | Win | W+R | 7.5 | 3715 | 10 | 
-| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Shibano Toramaru | Lian Xiao | Win | W+R | 7.5 | 3705 | 50 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Junghwan | Lian Xiao | Win | W+R | 7.5 | 3715 | 11 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Shibano Toramaru | Lian Xiao | Win | W+R | 7.5 | 3704 | 49 | 
 | 2020-06-10 | 第11期中国竜星戦Bブロック9回戦 | Lian Xiao | Fan Tingyu | Win | B+R | 7.5 | 3655 | 15 | 
 | 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Lee Taehyun | Lian Xiao | Lose | B+R | 6.5 | 3640 | -4 | 
 | 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lian Xiao | Lee Yeongkyu | Win | B+R | 6.5 | 3644 | 16 | 

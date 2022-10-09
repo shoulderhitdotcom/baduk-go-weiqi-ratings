@@ -44,8 +44,8 @@
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tu Xiaoyu | Zhao Chenyu | Win | B+1¾ | 7.5 | 3527 | 0 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Wu Guangya | Tu Xiaoyu | Win | W+R | 7.5 | 3527 | -6 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Tu Xiaoyu | Zhao Chenyu | Lose | W+R | 7.5 | 3533 | -21 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Win | W+R | 7.5 | 3554 | 6 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | Win | B+R | 7.5 | 3548 | 7 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Win | W+R | 7.5 | 3554 | 5 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | Win | B+R | 7.5 | 3549 | 8 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Tu Xiaoyu | Win | W+R | 7.5 | 3541 | 57 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Tu Xiaoyu | Moon Minjong | Win | B+R | 7.5 | 3484 | 5 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Lose | W+¼ | 7.5 | 3479 | -16 | 
@@ -96,8 +96,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Wu Guangya | Tu Xiaoyu | Win | W+¼ | 7.5 | 3374 | 41 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Jingyuan | Win | B+2¾ | 7.5 | 3333 | 25 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Tu Xiaoyu | Lose | B+R | 7.5 | 3308 | -46 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tu Xiaoyu | Tao Xinran | Win | B+R | 7.5 | 3354 | 37 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tu Xiaoyu | Lose | B+¾ | 7.5 | 3317 | -88 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tu Xiaoyu | Tao Xinran | Win | B+R | 7.5 | 3354 | 38 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tu Xiaoyu | Lose | B+¾ | 7.5 | 3316 | -89 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Tu Xiaoyu | Zhao Chenyu | Lose | W+R | 7.5 | 3405 | -29 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 |  | Tu Xiaoyu | Win | W+R | 7.5 | 3434 | 15 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Dang Yifei | Tu Xiaoyu | Win | W+R | 7.5 | 3419 | 15 | 

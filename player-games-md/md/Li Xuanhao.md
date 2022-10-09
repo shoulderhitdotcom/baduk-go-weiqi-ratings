@@ -107,8 +107,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Li Xuanhao | Lose | B+R | 7.5 | 3389 | -9 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3398 | 10 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ |  | Li Xuanhao | Win | W+R | 7.5 | 3388 | -5 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Win | B+1¾ | 7.5 | 3393 | 25 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Chen Haoxin | Li Xuanhao | Win | W+R | 7.5 | 3368 | 30 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Win | B+1¾ | 7.5 | 3393 | 26 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Chen Haoxin | Li Xuanhao | Win | W+R | 7.5 | 3367 | 29 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3338 | -8 | 
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Li Xuanhao | Lose | B+R | 6.5 | 3346 | 4 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Li Xuanhao | Win | W+9.5 | 6.5 | 3342 | 24 | 

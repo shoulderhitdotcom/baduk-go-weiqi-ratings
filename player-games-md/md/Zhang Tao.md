@@ -70,8 +70,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Win | W+R | 7.5 | 3328 | 43 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wu Guangya | Lose | W+¼ | 7.5 | 3285 | 1 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhang Tao | Fan Yin | Win | B+R | 7.5 | 3284 | 29 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Lose | B+1¾ | 7.5 | 3255 | -38 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wang Zejin | Lose | W+¼ | 7.5 | 3293 | -59 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Lose | B+1¾ | 7.5 | 3255 | -37 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wang Zejin | Lose | W+¼ | 7.5 | 3292 | -60 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Win | W+R | 7.5 | 3352 | 85 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhang Tao | Xie Ke | Win | B+R | 7.5 | 3267 | -76 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Zhang Tao | Lose | B+R | 7.5 | 3343 | -37 | 

@@ -72,8 +72,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Win | B+R | 7.5 | 3419 | 4 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Jiang Weijie | Lose | B+R | 7.5 | 3415 | 10 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Han Yizhou | Win | B+R | 7.5 | 3405 | 1 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cao Xiaoyang | Jiang Weijie | Win | W+R | 7.5 | 3404 | 2 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Peng Liyao | Win | B+R | 7.5 | 3402 | -1 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cao Xiaoyang | Jiang Weijie | Win | W+R | 7.5 | 3404 | 3 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Peng Liyao | Win | B+R | 7.5 | 3401 | -2 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Jiang Weijie | Fan Yin | Lose | W+R | 7.5 | 3403 | -2 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Jiang Weijie | Shi Yue | Win | B+R | 7.5 | 3405 | -115 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Jiang Weijie | Fan Tingyu | Lose | W+R | 7.5 | 3520 | 0 | 
@@ -96,10 +96,10 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Weijie | Ding Hao | Win | B+R | 7.5 | 3614 | -27 | 
 | 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | Win | B+R | 7.5 | 3641 | -4 | 
 | 2020-04-21 | 第25回LG杯中国予選決勝 | Ding Hao | Jiang Weijie | Lose | B+R | 6.5 | 3645 | -43 | 
-| 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Win | W+R | 6.5 | 3688 | -12 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Shi Yue | Jiang Weijie | Lose | B+R | 7.5 | 3700 | -7 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Win | W+R | 7.5 | 3707 | 5 | 
-| 2020-01-04 | 第11期中国竜星戦Aブロック7回戦 | Fan Yin | Jiang Weijie | Lose | B+R | 7.5 | 3702 | missing |
+| 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Win | W+R | 6.5 | 3688 | -11 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Shi Yue | Jiang Weijie | Lose | B+R | 7.5 | 3699 | -7 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Win | W+R | 7.5 | 3706 | 5 | 
+| 2020-01-04 | 第11期中国竜星戦Aブロック7回戦 | Fan Yin | Jiang Weijie | Lose | B+R | 7.5 | 3701 | missing |
 
 
 

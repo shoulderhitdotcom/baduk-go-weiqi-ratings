@@ -84,8 +84,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Ke | Tan Xiao | Lose | B+¾ | 7.5 | 3314 | -10 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Tan Xiao | Win | W+R | 7.5 | 3324 | 55 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Sun Tengyu | Tan Xiao | Win | W+R | 7.5 | 3269 | -11 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | Win | B+R | 7.5 | 3280 | 2 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Win | W+R | 7.5 | 3278 | -25 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | Win | B+R | 7.5 | 3280 | 3 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Win | W+R | 7.5 | 3277 | -26 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xu Jiayang | Tan Xiao | Lose | B+R | 7.5 | 3303 | -9 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Li Xuanhao | Win | B+R | 7.5 | 3312 | -78 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao | Tan Xiao | Lose | B+R | 7.5 | 3390 | 0 | 
@@ -100,8 +100,8 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Chen Xian | Tan Xiao | Lose | B+R | 7.5 | 3428 | -28 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Hao | Tan Xiao | Lose | B+¾ | 7.5 | 3456 | -103 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Lose | W+R | 6.5 | 3559 | 20 | 
-| 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Win | W+R | 6.5 | 3539 | -55 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Tan Xiao | Tang Weixing | Win | B+R | 7.5 | 3594 | missing |
+| 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Win | W+R | 6.5 | 3539 | -54 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Tan Xiao | Tang Weixing | Win | B+R | 7.5 | 3593 | missing |
 
 
 

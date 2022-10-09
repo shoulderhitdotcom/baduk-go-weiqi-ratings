@@ -31,8 +31,8 @@
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Win | W+R | 7.5 | 3357 | -48 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Lose | B+R | 7.5 | 3405 | -20 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Li Xuanhao | Xie Erhao | Lose | B+R | 7.5 | 3425 | -32 | 
-| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xie Erhao | Wang Haoyang | Lose | W+R | 7.5 | 3457 | -30 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | Win | W+1¼ | 7.5 | 3487 | 8 | 
+| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xie Erhao | Wang Haoyang | Lose | W+R | 7.5 | 3457 | -31 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | Win | W+1¼ | 7.5 | 3488 | 9 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Guo Xinyi | Xie Erhao | Win | W+R | 7.5 | 3479 | 5 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tong Mengcheng | Win | B+R | 7.5 | 3474 | 19 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tan Xiao | Xie Erhao | Win | W+R | 7.5 | 3455 | 22 | 
@@ -78,8 +78,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | Win | B+R | 7.5 | 3429 | 19 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Li Weiqing | Xie Erhao | Win | W+R | 7.5 | 3410 | 42 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xie Erhao | Lian Xiao | Win | B+R | 7.5 | 3368 | 17 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Lose | B+R | 7.5 | 3351 | -34 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Lose | W+R | 7.5 | 3385 | -25 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Lose | B+R | 7.5 | 3351 | -33 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Erhao | Tan Xiao | Lose | W+R | 7.5 | 3384 | -26 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Yang Dingxin | Xie Erhao | Lose | B+¾ | 7.5 | 3410 | 7 | 
 | 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3403 | -4 | 
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦  | Xie Erhao | Ichiriki Ryo | Win | B+R | 6.5 | 3407 | 30 | 

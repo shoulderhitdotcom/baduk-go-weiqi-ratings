@@ -66,9 +66,9 @@
 | 2022-01-28 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第4局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3316 | 4 | 
 | 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Park Junghwan | Choi Jeong | Lose | B+R | 6.5 | 3312 | 2 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Choi Jeong | Kim Hyeongwoo | Lose | W+0.5 | 6.5 | 3310 | -8 | 
-| 2022-01-21 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第3局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3318 | -33 | 
-| 2022-01-18 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3351 | 3 | 
-| 2022-01-17 | 2021女子最高棋士決定戦（韓国）決勝五番勝負第1局 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 3348 | -9 | 
+| 2022-01-21 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第3局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3318 | -34 | 
+| 2022-01-18 | 2021湖畔杯女子最高棋士決定戦決勝五番勝負第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3352 | 3 | 
+| 2022-01-17 | 2021女子最高棋士決定戦（韓国）決勝五番勝負第1局 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 3349 | -8 | 
 | 2022-01-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Weon Seongjin | Lose | W+0.5 | 6.5 | 3357 | -7 | 
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Choi Jeong | Yoo Ohseong | Win | B+2.5 | 6.5 | 3364 | -2 | 
 | 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Choi Jeong | Chang Hao | Win | B+R | 6.5 | 3366 | 10 | 
@@ -145,8 +145,8 @@
 | 2021-06-06 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3286 | -18 | 
 | 2021-05-29 | 第7回韓国女子囲碁リーグ | Choi Jeong | Jeong Yujin | Win | B+R | 6.5 | 3304 | 11 | 
 | 2021-05-28 | 第44期名人戦（韓国）敗者復活戦2回戦 | Choi Jeong | Hyun Yoobin | Lose | W+1.5 | 6.5 | 3293 | -38 | 
-| 2021-05-22 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Choi Jeong | Win | W+R | 6.5 | 3331 | 17 | 
-| 2021-05-20 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3314 | -6 | 
+| 2021-05-22 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Choi Jeong | Win | W+R | 6.5 | 3331 | 18 | 
+| 2021-05-20 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3313 | -7 | 
 | 2021-05-15 | 第44期名人戦（韓国）2回戦 | Choi Jeong | An Jungki | Lose | W+0.5 | 6.5 | 3320 | 24 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Choi Jeong | Yun Junsang | Lose | W+R | 6.5 | 3296 | -8 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Choi Jeong | Lee Taehyun | Win | B+R | 6.5 | 3304 | 7 | 
@@ -180,8 +180,8 @@
 | 2020-12-15 | 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3185 | 6 | 
 | 2020-12-14 | 第4期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3179 | 15 | 
 | 2020-12-10 | 2020-2021韓国囲碁リーグ | Park Sangjin | Choi Jeong | Win | W+R | 6.5 | 3164 | 34 | 
-| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Lose | B+R | 6.5 | 3130 | -11 | 
-| 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | Lose | B+R | 6.5 | 3141 | -14 | 
+| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Lose | B+R | 6.5 | 3130 | -10 | 
+| 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | Lose | B+R | 6.5 | 3140 | -15 | 
 | 2020-12-01 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Dayoung | Choi Jeong | Win | W+R | 6.5 | 3155 | -7 | 
 | 2020-11-29 | 2020-2021韓国囲碁リーグ | Choi Jeong | Shin Minjun | Lose | W+R | 6.5 | 3162 | -40 | 
 | 2020-11-23 | 第4期韓国製紙女子棋聖戦2回戦 | Choi Jeong | Lee Minjin | Win | B+R | 6.5 | 3202 | 14 | 
@@ -195,20 +195,20 @@
 | 2020-11-13 | 第4回クラウン・ヘテ杯予選 |  | Choi Jeong | Win | W+R | 6.5 | 3193 | -37 | 
 | 2020-11-06 | 第25期女流国手戦決勝三番勝負第2局 | Kim Hyeoimin | Choi Jeong | Win | W+2.5 | 6.5 | 3230 | 4 | 
 | 2020-11-05 | 第25期女流国手戦決勝三番勝負第1局 | Choi Jeong | Kim Hyeoimin | Win | B+R | 6.5 | 3226 | 1 | 
-| 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3225 | 27 | 
-| 2020-10-23 | 第25期女流国手戦準決勝 |  | Choi Jeong | Win | W+R | 6.5 | 3198 | -23 | 
+| 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3225 | 28 | 
+| 2020-10-23 | 第25期女流国手戦準決勝 |  | Choi Jeong | Win | W+R | 6.5 | 3197 | -24 | 
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Choi Jeong | Ueno Asami | Lose | W+¼ | 7.5 | 3221 | 0 | 
 | 2020-09-25 | 第25期女流国手戦8強戦 | Kim Dayoung | Choi Jeong | Win | W+R | 6.5 | 3221 | -4 | 
 | 2020-09-22 | 第22回農心杯韓国選抜戦 | Park Hamin | Choi Jeong | Lose | B+R | 6.5 | 3225 | 11 | 
 | 2020-09-12 | 第6回韓国女子囲碁リーグ優勝決定戦第2戦第2局 | Choi Jeong |  | Win | B+R | 6.5 | 3214 | 1 | 
-| 2020-09-10 | 第6回韓国女子囲碁リーグ優勝決定戦第1戦第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3213 | -31 | 
-| 2020-09-07 | 第25期女流国手戦16強戦 | Choi Jeong | Kim Eunji | Win | B+R | 6.5 | 3244 | 15 | 
+| 2020-09-10 | 第6回韓国女子囲碁リーグ優勝決定戦第1戦第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3213 | -30 | 
+| 2020-09-07 | 第25期女流国手戦16強戦 | Choi Jeong | Kim Eunji | Win | B+R | 6.5 | 3243 | 14 | 
 | 2020-08-29 | 第25回三星火災杯韓国女子枠予選 | Choi Jeong | Kim Cheayoung | Lose | W+R | 6.5 | 3229 | -46 | 
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第4試合第2局 | Choi Jeong | Kim Eunji | Win | B+R | 6.5 | 3275 | -7 | 
 | 2020-08-13 | 第6回韓国女子囲碁リーグ第13節第1試合第3局 | Choi Jeong |  | Win | B+R | 6.5 | 3282 | 0 | 
 | 2020-08-11 | 第2期ソパルコサノル最高棋士決定戦予選 | Choi Jeong | Hong Kipyo | Lose | W+R | 6.5 | 3282 | -1 | 
-| 2020-08-06 | 第6回韓国女子囲碁リーグ第12節第1試合第3局 | Park Shiun | Choi Jeong | Win | W+R | 6.5 | 3283 | -25 | 
-| 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Lose | B+1.5 | 6.5 | 3308 | -13 | 
+| 2020-08-06 | 第6回韓国女子囲碁リーグ第12節第1試合第3局 | Park Shiun | Choi Jeong | Win | W+R | 6.5 | 3283 | -24 | 
+| 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Lose | B+1.5 | 6.5 | 3307 | -14 | 
 | 2020-07-25 | 第6回韓国女子囲碁リーグ第10節第3試合第1局 |  | Choi Jeong | Win | W+R | 6.5 | 3321 | 2 | 
 | 2020-07-21 | 2020陜川歴代英才vs女性頂上連勝対抗戦第8局 | Park Joonhoon | Choi Jeong | Lose | B+R | 6.5 | 3319 | -14 | 
 | 2020-07-17 | 第6回韓国女子囲碁リーグ第9節第2試合第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3333 | -5 | 
@@ -221,31 +221,31 @@
 | 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | Win | B+3.5 | 6.5 | 3336 | -6 | 
 | 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Lose | B+R | 6.5 | 3342 | -20 | 
 | 2020-05-30 | 第6回韓国女子囲碁リーグ第2節第3試合第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3362 | 11 | 
-| 2020-05-23 | 第6回韓国女子囲碁リーグ第1節第3試合第2局 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3351 | -21 | 
-| 2020-04-27 | 第25回LG杯韓国予選 | Choi Jeong | Park Sangjin | Lose | W+R | 6.5 | 3372 | -4 | 
+| 2020-05-23 | 第6回韓国女子囲碁リーグ第1節第3試合第2局 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3351 | -20 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Choi Jeong | Park Sangjin | Lose | W+R | 6.5 | 3371 | -5 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Choi Jeong | Kang Jihoon | Win | B+R | 6.5 | 3376 | 0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Jeong |  | Win | B+R | 6.5 | 3376 | -20 | 
 | 2020-04-17 | 第25回LG杯韓国予選 |  | Choi Jeong | Win | W+R | 6.5 | 3396 | 10 | 
 | 2020-04-10 | 韓国囲碁リーグオールスター戦第1局 | Choi Jeong | Yun Junsang | Lose | W+R | 6.5 | 3386 | -37 | 
 | 2020-03-10 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Lee Jihyun | Choi Jeong | Lose | B+R | 6.5 | 3423 | -3 | 
 | 2020-03-08 | 2019-2020韓国囲碁リーグ優勝決定戦第3戦第2局 | Park Hamin | Choi Jeong | Lose | B+R | 6.5 | 3426 | 3 | 
-| 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第4局 | Heo Yongho | Choi Jeong | Win | W+R | 6.5 | 3423 | 5 | 
-| 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第1局 | Heo Yongho | Choi Jeong | Lose | B+R | 6.5 | 3418 | -12 | 
+| 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第4局 | Heo Yongho | Choi Jeong | Win | W+R | 6.5 | 3423 | 6 | 
+| 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第1局 | Heo Yongho | Choi Jeong | Lose | B+R | 6.5 | 3417 | -13 | 
 | 2020-03-02 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Choi Jeong | Cho Hanseung | Win | B+2.5 | 6.5 | 3430 | 10 | 
 | 2020-02-29 | 2019-2020韓国囲碁リーグプレーオフ第2戦第2局 |  | Choi Jeong | Win | W+R | 6.5 | 3420 | 3 | 
 | 2020-02-27 | 第3期韓国竜星戦16強戦 | Choi Jeong | Han Seungjoo | Lose | W+R | 6.5 | 3417 | -10 | 
 | 2020-02-18 | 第13回GGオークション杯女流対シニア連勝対抗戦第20局 | Choi Jeong | Choi Myeonghun | Lose | W+R | 6.5 | 3427 | 2 | 
 | 2020-02-17 | 第13回GGオークション杯女流対シニア連勝対抗戦第19局 | Kim Myeongwan | Choi Jeong | Win | W+R | 6.5 | 3425 | -3 | 
-| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第3局 | Choi Jeong | Byun Sangil | Lose | W+R | 6.5 | 3428 | -7 | 
-| 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第1局 | Park Geunho | Choi Jeong | Lose | B+R | 6.5 | 3435 | -22 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第3局 | Choi Jeong | Song Taekon | Lose | W+R | 6.5 | 3457 | -6 | 
+| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第3局 | Choi Jeong | Byun Sangil | Lose | W+R | 6.5 | 3428 | -6 | 
+| 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第1局 | Park Geunho | Choi Jeong | Lose | B+R | 6.5 | 3434 | -22 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第3局 | Choi Jeong | Song Taekon | Lose | W+R | 6.5 | 3456 | -7 | 
 | 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第4局 | Park Sangjin | Choi Jeong | Win | W+R | 6.5 | 3463 | 9 | 
 | 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Na Hyun | Choi Jeong | Lose | B+R | 7.5 | 3454 | -4 | 
 | 2020-01-17 | 第3期韓国竜星戦32強戦 | Lee Wondo | Choi Jeong | Win | W+0.5 | 6.5 | 3458 | -3 | 
 | 2020-01-15 | 第3期韓国竜星戦32強戦 | Shin Jinseo | Choi Jeong | Lose | B+R | 6.5 | 3461 | -12 | 
 | 2020-01-13 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Song Taekon | Choi Jeong | Win | W+2.5 | 6.5 | 3473 | 6 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第1局 | Choi Jeong | Park Hamin | Win | B+R | 6.5 | 3467 | 13 | 
-| 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第3局 | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3454 | missing |
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第1局 | Choi Jeong | Park Hamin | Win | B+R | 6.5 | 3467 | 14 | 
+| 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第3局 | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3453 | missing |
 
 
 

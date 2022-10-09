@@ -27,8 +27,8 @@
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Sada Atsushi | Tang Weixing | Win | W+R | 7.5 | 3467 | 6 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Tang Weixing | Tuo Jiaxi | Lose | W+R | 7.5 | 3461 | -1 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tu Xiaoyu | Tang Weixing | Win | W+¼ | 7.5 | 3462 | 10 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tang Weixing | Yang Kaiwen | Win | B+R | 7.5 | 3452 | -49 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Zheng Xu | Win | B+R | 7.5 | 3501 | 1 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tang Weixing | Yang Kaiwen | Win | B+R | 7.5 | 3452 | -50 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Zheng Xu | Win | B+R | 7.5 | 3502 | 2 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Zheng Xu | Tang Weixing | Lose | B+R | 7.5 | 3500 | -14 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | Lose | W+R | 7.5 | 3514 | -5 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Lose | B+R | 7.5 | 3519 | 7 | 
@@ -83,8 +83,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Tang Weixing | Win | W+R | 7.5 | 3393 | 12 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Tang Weixing | Win | W+R | 7.5 | 3381 | 30 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Tang Weixing | Shin Jinseo | Lose | W+R | 7.5 | 3351 | -12 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Tang Weixing | Lose | B+R | 7.5 | 3363 | -13 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Tang Weixing | Tong Mengcheng | Lose | W+R | 7.5 | 3376 | -26 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Tang Weixing | Lose | B+R | 7.5 | 3363 | -12 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Tang Weixing | Tong Mengcheng | Lose | W+R | 7.5 | 3375 | -27 | 
 | 2020-11-24 | 第22回農心辛ラーメン杯世界囲碁最強戦第9戦 | Tang Weixing | Shin Jinseo | Lose | W+4.5 | 6.5 | 3402 | -30 | 
 | 2020-11-23 | 第22回農心辛ラーメン杯世界囲碁最強戦第8戦  | Tang Weixing | Shibano Toramaru | Win | B+R | 6.5 | 3432 | 15 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tang Weixing | Gu Zihao | Win | B+R | 7.5 | 3417 | 39 | 
@@ -105,8 +105,8 @@
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Mi Yuting | Tang Weixing | Lose | B+¾ | 7.5 | 3531 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 |  | Tang Weixing | Win | W+R | 7.5 | 3531 | 0 | 
 | 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Tang Weixing | Kang Dongyun | Lose | W+R | 6.5 | 3531 | -17 | 
-| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Kim Jiseok | Win | B+R | 6.5 | 3548 | 63 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Tan Xiao | Tang Weixing | Lose | B+R | 7.5 | 3485 | missing |
+| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Kim Jiseok | Win | B+R | 6.5 | 3548 | 64 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Tan Xiao | Tang Weixing | Lose | B+R | 7.5 | 3484 | missing |
 
 
 

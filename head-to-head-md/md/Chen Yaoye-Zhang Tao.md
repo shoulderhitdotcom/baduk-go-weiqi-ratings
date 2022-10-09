@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Zhang Tao** | **Chen Yaoye Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Chen Yaoye | W+¼ | 7.5 | 5:2 | 1 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Chen Yaoye | B+R | 7.5 | 4:2 | 0 | 1 | 
 | 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Chen Yaoye | Zhang Tao | B+1¾ | 7.5 | 4:1 | 2 | 0 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節中信-浙江 | Zhang Tao | Chen Yaoye | W+R | 7.5 | 3:1 | 1 | 0 | 

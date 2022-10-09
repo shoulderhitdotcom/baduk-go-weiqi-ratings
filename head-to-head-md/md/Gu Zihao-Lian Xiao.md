@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Lian Xiao** | **Gu Zihao Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Lian Xiao | B+R | 7.5 | 7:3 | 5 | 0 | 
 | 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Gu Zihao | Lian Xiao | B+R | 7.5 | 6:3 | 4 | 0 | 
 | 2020-09-24 | 2020CCTV杯中国囲棋電視快棋戦決勝 | Lian Xiao | Gu Zihao | W+R | 7.5 | 5:3 | 3 | 0 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Lian Xiao | Gu Zihao | W+R | 7.5 | 4:3 | 2 | 0 | 

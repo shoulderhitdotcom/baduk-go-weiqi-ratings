@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Mi Yuting** | **Gu Zihao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-23 | 第36期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Zihao | Mi Yuting | W+R | 7.5 | 12:15 | 0 | 1 | 
+| 2022-09-22 | 第36期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Zihao | Mi Yuting | B+¾ | 7.5 | 12:14 | 1 | 0 | 
 | 2022-09-20 | 第36期中国囲碁天元戦挑戦手合三番勝負第1局 | Mi Yuting | Gu Zihao | B+R | 7.5 | 11:14 | 0 | 1 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | W+R | 7.5 | 11:13 | 2 | 0 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Mi Yuting | Gu Zihao | W+R | 6.5 | 10:13 | 1 | 0 | 

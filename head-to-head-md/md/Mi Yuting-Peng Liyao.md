@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Peng Liyao** | **Mi Yuting Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Peng Liyao | B+R | 7.5 | 10:3 | 6 | 0 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Mi Yuting | Peng Liyao | B+R | 7.5 | 9:3 | 5 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Peng Liyao | Mi Yuting | W+R | 7.5 | 8:3 | 4 | 0 | 
 | 2019-12-11 | 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Peng Liyao | Mi Yuting | W+R | 7.5 | 7:3 | 3 | 0 | 

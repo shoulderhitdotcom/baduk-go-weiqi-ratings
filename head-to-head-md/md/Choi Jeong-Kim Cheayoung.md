@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Cheayoung** | **Choi Jeong Streak** | **Kim Cheayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-09 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Cheayoung | Choi Jeong | B+R | 6.5 | 16:5 | 0 | 1 | 
 | 2022-07-14 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | B+R | 6.5 | 16:4 | 7 | 0 | 
 | 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | B+R | 6.5 | 15:4 | 6 | 0 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Choi Jeong | W+R | 6.5 | 14:4 | 5 | 0 | 

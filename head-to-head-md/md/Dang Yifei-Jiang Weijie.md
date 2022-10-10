@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Jiang Weijie** | **Dang Yifei Streak** | **Jiang Weijie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Jiang Weijie | Dang Yifei | W+R | 7.5 | 5:7 | 1 | 0 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Dang Yifei | Jiang Weijie | W+R | 7.5 | 4:7 | 0 | 1 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | B+R | 7.5 | 4:6 | 1 | 0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Jiang Weijie | Dang Yifei | B+R | 7.5 | 3:6 | 0 | 4 | 

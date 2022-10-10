@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Tang Weixing** | **Chen Yaoye Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | W+R | 7.5 | 10:3 | 0 | 2 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | B+R | 7.5 | 10:2 | 0 | 1 | 
 | 2018-07-21 | 弈決崆峒世界道教名山戦準決勝 | Tang Weixing | Chen Yaoye | W+R | 7.5 | 10:1 | 7 | 0 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Tang Weixing | Chen Yaoye | W+R | 7.5 | 9:1 | 6 | 0 | 

@@ -9,14 +9,14 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Ke Jie | Yi Lingtao | Lose | B+3¾ | 7.5 | 3361 | 8 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Li Qincheng | Win | B+R | 7.5 | 3353 | 68 | 
-| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Lose | W+R | 7.5 | 3285 | -12 | 
-| 2022-09-14 | 第27回三星火災杯中国予選 | Peng Liyao | Yi Lingtao | Lose | B+R | 6.5 | 3297 | -10 | 
-| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Lose | B+R | 7.5 | 3307 | 0 | 
-| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Win | W+R | 7.5 | 3307 | 33 | 
-| 2022-09-11 | 第24回中国囲碁甲級リーグ | Yi Lingtao |  | Lose | W+R | 7.5 | 3274 | -20 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yunong | Yi Lingtao | Lose | B+R | 7.5 | 3294 | -4 | 
-| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Lyu Liyan | Yi Lingtao | Lose | B+R | 7.5 | 3298 | -39 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Hu Zihao | Yi Lingtao | Lose | B+R | 7.5 | 3337 | -44 | 
+| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Lose | W+R | 7.5 | 3285 | -13 | 
+| 2022-09-14 | 第27回三星火災杯中国予選 | Peng Liyao | Yi Lingtao | Lose | B+R | 6.5 | 3298 | -10 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦2回戦 | Tu Xiaoyu | Yi Lingtao | Lose | B+R | 7.5 | 3308 | 0 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Yi Lingtao | Win | W+R | 7.5 | 3308 | 33 | 
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Yi Lingtao |  | Lose | W+R | 7.5 | 3275 | -20 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yunong | Yi Lingtao | Lose | B+R | 7.5 | 3295 | -4 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Lyu Liyan | Yi Lingtao | Lose | B+R | 7.5 | 3299 | -39 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Hu Zihao | Yi Lingtao | Lose | B+R | 7.5 | 3338 | -43 | 
 | 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Yi Lingtao | Wang Chunhui | Win | B+R | 7.5 | 3381 | -52 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Li Qincheng | Lose | W+R | 7.5 | 3433 | 122 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Yi Lingtao | Win | W+R | 7.5 | 3311 | 0 | 
@@ -25,11 +25,11 @@
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Tang Weixing | Win | B+R | 7.5 | 3311 | 3 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Ye Changxin | Lose | W+1¼ | 7.5 | 3308 | -40 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Rong Yi | Win | B+R | 7.5 | 3348 | 42 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Yang Kaiwen | Win | B+R | 7.5 | 3306 | -146 | 
-| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Ke Jie | Yi Lingtao | Lose | B+R | 7.5 | 3452 | -17 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | Win | B+R | 7.5 | 3469 | 3 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3466 | -10 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3476 | -4 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Yang Kaiwen | Win | B+R | 7.5 | 3306 | -147 | 
+| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Ke Jie | Yi Lingtao | Lose | B+R | 7.5 | 3453 | -17 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yi Lingtao | Wang Xinghao | Win | B+R | 7.5 | 3470 | 3 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3467 | -10 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3477 | -3 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Lose | W+R | 7.5 | 3480 | -3 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3483 | 18 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3465 | -10 | 
@@ -54,10 +54,10 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Yi Lingtao | Win | W+R | 7.5 | 3370 | 1 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Yaoye | Lose | W+R | 7.5 | 3369 | -7 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Li Zerui | Yi Lingtao | Win | W+R | 7.5 | 3376 | 15 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3361 | 23 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3338 | -26 | 
-| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Lose | W+R | 7.5 | 3364 | 28 | 
-| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3336 | -9 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3361 | 22 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3339 | -25 | 
+| 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Lose | W+R | 7.5 | 3364 | 27 | 
+| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3337 | -8 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Xu Jiayang | Lose | W+R | 7.5 | 3345 | 2 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yi Lingtao | Lose | B+R | 7.5 | 3343 | -14 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Gu Lingyi | Yi Lingtao | Win | W+R | 7.5 | 3357 | 10 | 
@@ -67,9 +67,9 @@
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Jiang Qirun | Lose | W+1¼ | 7.5 | 3325 | -24 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Win | W+R | 7.5 | 3349 | 4 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Wang Zejin | Yi Lingtao | Lose | B+R | 7.5 | 3345 | 5 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Ding Shixiong | Yi Lingtao | Lose | B+R | 7.5 | 3340 | -43 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Liao Xingwen | Win | B+2¾ | 7.5 | 3383 | 19 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Win | W+1¼ | 7.5 | 3364 | -5 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Ding Shixiong | Yi Lingtao | Lose | B+R | 7.5 | 3340 | -44 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Liao Xingwen | Win | B+2¾ | 7.5 | 3384 | 19 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Win | W+1¼ | 7.5 | 3365 | -4 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yi Lingtao | Win | W+R | 7.5 | 3369 | 49 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Liao Yuanhe | Yi Lingtao | Win | W+R | 7.5 | 3320 | -58 | 
 | 2020-09-29 | 第25回三星火災杯中国一般枠予選 | Shi Yue | Yi Lingtao | Lose | B+R | 6.5 | 3378 | -9 | 

@@ -69,7 +69,7 @@ The ratings are based on 4683 games from 2021-10-11 to 2022-10-10.
 | 43 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3467 | 41 | TWN | Male | 24.8 | 許家元 | 
 | 44 | [Shibano Toramaru](./player-games-md/md/Shibano Toramaru.md) | 3463 | 47 | JPN | Male | 22.9 | 芝野虎丸 | 
 | 45 | [Chen Zijian](./player-games-md/md/Chen Zijian.md) | 3458 | 15 | CHN | Male | missing | 陳梓健 | 
-| 46 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3454 | 75 | KOR | Male | 33.3 | 金志錫 | 
+| 46 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3454 | 75 | KOR | Male | 33.4 | 金志錫 | 
 | 47 | [Li Xiangyu](./player-games-md/md/Li Xiangyu.md) | 3452 | 13 | CHN | Male | missing | 李翔宇 | 
 | 48 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3451 | 37 | KOR | Male | 24.3 | 朴鍵昊 | 
 | 49 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3450 | 49 | KOR | Male | 24.7 | 朴河旼 | 
@@ -155,7 +155,7 @@ Note that players with fewer than 13 games are not in the list
 | 114 | [Kwak Wonkeun](./player-games-md/md/Kwak Wonkeun.md) | 3220 | 18 | missing | missing | missing | 郭圓根 | 
 | 115 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 3217 | 26 | KOR | Male | 56.5 | 劉昌赫 | 
 | 116 | [Shin Jaeweon](./player-games-md/md/Shin Jaeweon.md) | 3216 | 22 | missing | missing | missing | 申載元 | 
-| 117 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3212 | 25 | KOR | Male | 24.0 | 宋圭相 | 
+| 117 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3212 | 25 | KOR | Male | 24.1 | 宋圭相 | 
 | 118 | [Kim Junghyun](./player-games-md/md/Kim Junghyun.md) | 3209 | 25 | KOR | Male | 31.5 | 金庭賢 | 
 | 119 | [Lai Junfu](./player-games-md/md/Lai Junfu.md) | 3206 | 57 | TWN | Male | 20.5 | 賴均輔 | 
 | 120 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3206 | 15 | JPN | Male | 31.9 | 志田達哉 | 
@@ -171,7 +171,7 @@ Note that players with fewer than 13 games are not in the list
 | 130 | [Yu Zhiying](./player-games-md/md/Yu Zhiying.md) | 3172 | 40 | CHN | Female | 24.9 | 於之瑩 | 
 | 131 | [Kono Rin](./player-games-md/md/Kono Rin.md) | 3171 | 15 | JPN | Male | 41.8 | 河野臨 | 
 | 132 | [Choi Kyeongho](./player-games-md/md/Choi Kyeongho.md) | 3171 | 24 | missing | missing | missing | 崔光戸 | 
-| 133 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3169 | 62 | KOR | Female | 24.3 | 呉侑珍 | 
+| 133 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3169 | 62 | KOR | Female | 24.4 | 呉侑珍 | 
 | 134 | [Park Seunghwa](./player-games-md/md/Park Seunghwa.md) | 3168 | 13 | KOR | Male | 33.7 | 朴承華 | 
 | 135 | [Lee Taehyun](./player-games-md/md/Lee Taehyun.md) | 3162 | 14 | KOR | Male | 32.8 | 李泰賢 | 
 | 136 | [Liu Yuhang](./player-games-md/md/Liu Yuhang.md) | 3156 | 15 | CHN | Male | 21.2 | 劉宇航 | 
@@ -263,7 +263,7 @@ Note that players with fewer than 13 games are not in the list
 | 222 | [Huang Shiyuan](./player-games-md/md/Huang Shiyuan.md) | 2792 | 28 | TWN | Male | missing | 黄世元 | 
 | 223 | [Kim Miri](./player-games-md/md/Kim Miri.md) | 2788 | 35 | KOR | Female | 31.6 | 金美里 | 
 | 224 | [An Kwanwuk](./player-games-md/md/An Kwanwuk.md) | 2788 | 24 | KOR | Male | 61.0 | 安官旭 | 
-| 225 | [Abe Yoshiki](./player-games-md/md/Abe Yoshiki.md) | 2788 | 17 | JPN | Male | 26.2 | 阿部良希 | 
+| 225 | [Abe Yoshiki](./player-games-md/md/Abe Yoshiki.md) | 2788 | 17 | JPN | Male | 26.3 | 阿部良希 | 
 | 226 | [Li Xiaoxi](./player-games-md/md/Li Xiaoxi.md) | 2781 | 28 | CHN | Female | missing | 李小渓 | 
 | 227 | [Xie Yimin](./player-games-md/md/Xie Yimin.md) | 2780 | 13 | JPN | Female | 32.9 | 謝依旻 | 
 | 228 | [Lin Xinwei](./player-games-md/md/Lin Xinwei.md) | 2771 | 20 | TWN | Male | missing | 林新為 | 
@@ -462,10 +462,10 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Lee Yeongkyu | 175 | 24 | 李映九 | 
 | Yamashita Keigo | 171 | 22 | 山下敬吾 | 
 | Sada Atsushi | 170 | 44 | 佐田篤史 | 
-| Kim Seongjae | 168 | 18 | 金昇宰 | 
+| Kim Seongjae | 169 | 18 | 金昇宰 | 
 | Kim Myounghoon | 164 | 54 | 金明訓 | 
 | Park Hamin | 158 | 52 | 朴河旼 | 
-| Park Jinsol | 135 | 28 | 朴進率 | 
+| Park Jinsol | 136 | 28 | 朴進率 | 
 | Fan Tingyu | 134 | 51 | 范廷鈺 | 
 | Yu Zhengqi | 127 | 43 | 余正麒 | 
 | Hong Seongji | 126 | 26 | 洪性志 | 
@@ -496,39 +496,39 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Shin Jinseo | -4 | 103 | 申眞諝 | 
 | An Sungjoon | -8 | 43 | 安成浚 | 
 | Xu Haohong | -10 | 69 | 許皓鋐 | 
-| Shin Minjun | -11 | 84 | 申旻埈 | 
+| Shin Minjun | -10 | 84 | 申旻埈 | 
 | Lee Wonyoung | -15 | 32 | 李元栄 | 
-| Lee Donghoon | -20 | 39 | 李東勲 | 
+| Lee Donghoon | -19 | 39 | 李東勲 | 
 | Chen Zhengxun | -21 | 13 | 陳正勲 | 
 | Mi Yuting | -23 | 75 | 芈昱廷 | 
 | Huang Yunsong | -38 | 42 | 黄雲嵩 | 
 | Yang Kaiwen | -44 | 31 | 楊楷文 | 
 | Park Sangjin | -47 | 39 | 朴常鎭 | 
 | Tu Xiaoyu | -47 | 43 | 屠暁宇 | 
-| Tan Xiao | -48 | 32 | 檀嘯 | 
+| Tan Xiao | -47 | 32 | 檀嘯 | 
 | Xie Erhao | -50 | 34 | 謝爾豪 | 
 | Han Sanghoon | -53 | 31 | 韓尚勲 | 
 | Choi Jeong | -55 | 92 | 崔精 | 
 | Tong Mengcheng | -63 | 33 | 童夢成 | 
 | Xie Ke | -65 | 45 | 謝科 | 
 | Park Minkyu | -68 | 23 | 朴珉奎 | 
-| Chen Yaoye | -72 | 25 | 陳耀燁 | 
+| Chen Yaoye | -71 | 25 | 陳耀燁 | 
 | Lian Xiao | -75 | 44 | 連笑 | 
 | Ichiriki Ryo | -76 | 54 | 一力遼 | 
 | Li Xiangyu | -76 | 13 | 李翔宇 | 
 | Choi Jaeyoung | -79 | 23 | 崔宰栄 | 
-| Han Yizhou | -88 | 17 | 韓一洲 | 
+| Han Yizhou | -87 | 17 | 韓一洲 | 
 | Tang Weixing | -89 | 32 | 唐韋星 | 
-| Ding Hao | -95 | 51 | 丁浩 | 
+| Ding Hao | -94 | 51 | 丁浩 | 
 | Li Qincheng | -108 | 40 | 李欽誠 | 
-| Cho Hanseung | -109 | 47 | 趙漢乗 | 
+| Cho Hanseung | -108 | 47 | 趙漢乗 | 
 | Jiang Qirun | -116 | 21 | 蒋其潤 | 
-| Park Junghwan | -117 | 97 | 朴廷桓 | 
+| Park Junghwan | -116 | 97 | 朴廷桓 | 
 | Byun Sangil | -119 | 84 | 卞相壹 | 
 | He Yuhan | -119 | 15 | 何語涵 | 
 | Tao Xinran | -131 | 25 | 陶欣然 | 
 | Lee Jihyun | -133 | 48 | 李志賢 | 
-| Xu Jiayang | -134 | 33 | 許嘉陽 | 
+| Xu Jiayang | -133 | 33 | 許嘉陽 | 
 | Yang Dingxin | -139 | 52 | 楊鼎新 | 
 | Kim Jiseok | -139 | 77 | 金志錫 | 
 | Chen Xian | -150 | 36 | 陳賢 | 
@@ -538,7 +538,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Yi Lingtao | -169 | 26 | 伊淩濤 | 
 | Yun Chanhee | -177 | 34 | 尹燦熙 | 
 | Chen Yunong | -187 | 17 | 陳玉儂 | 
-| Xia Chenkun | -246 | 21 | 夏晨琨 | 
+| Xia Chenkun | -245 | 21 | 夏晨琨 | 
 | Weon Seongjin | -261 | 80 | 元晟溱 | 
 | Jiang Weijie | -285 | 32 | 江維傑 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | Lose | W+R | 7.5 | 3491 | -15 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Chen Yaoye | Win | W+¼ | 7.5 | 3506 | 39 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Liao Yuanhe | Chen Yaoye | Lose | B+¾ | 7.5 | 3467 | -38 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Li Weiqing | Chen Yaoye | Win | W+R | 7.5 | 3505 | 7 | 

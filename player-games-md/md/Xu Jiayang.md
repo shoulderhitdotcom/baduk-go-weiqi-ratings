@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Xu Jiayang | Wang Xinghao | Lose | W+R | 7.5 | 3513 | -6 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Meng Tailing | Xu Jiayang | Win | W+R | 7.5 | 3519 | 24 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Xu Jiayang | Yang Kaiwen | Lose | W+R | 7.5 | 3495 | -25 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3520 | 5 | 
@@ -78,8 +79,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Jingyuan | Xu Jiayang | Win | W+R | 7.5 | 3315 | 10 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Tao Xinran | Lose | W+R | 7.5 | 3305 | 10 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3295 | -11 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Yaoye | Xu Jiayang | Win | W+R | 7.5 | 3306 | 23 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | B+R | 7.5 | 3283 | -47 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Yaoye | Xu Jiayang | Win | W+R | 7.5 | 3306 | 24 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | B+R | 7.5 | 3282 | -48 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xu Jiayang | Tan Xiao | Win | B+R | 7.5 | 3330 | -12 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Win | W+R | 7.5 | 3342 | -117 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3459 | -36 | 
@@ -92,8 +93,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xu Jiayang | Chen Zhengxun | Win | B+R | 7.5 | 3477 | -4 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Ma Yichao | Xu Jiayang | Win | W+R | 7.5 | 3481 | -63 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3544 | -7 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3551 | -8 | 
-| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kim Jiseok | Xu Jiayang | Win | W+R | 7.5 | 3559 | -10 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3551 | -7 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kim Jiseok | Xu Jiayang | Win | W+R | 7.5 | 3558 | -11 | 
 | 2020-04-14 | 第25回LG杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+1.5 | 6.5 | 3569 | missing |
 
 

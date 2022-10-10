@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Tan Xiao | Zhao Chenyu | Lose | W+R | 7.5 | 3505 | -11 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Tan Xiao | Huang Yunsong | Win | B+R | 7.5 | 3516 | 33 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Tan Xiao | Li Qincheng | Lose | W+R | 7.5 | 3483 | 4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Xie Ke | Tan Xiao | Win | W+R | 7.5 | 3479 | 10 | 

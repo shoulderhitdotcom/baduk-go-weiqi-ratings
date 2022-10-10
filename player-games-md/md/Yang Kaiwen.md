@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Yang Kaiwen | Yang Dingxin | Win | B+R | 7.5 | 3624 | 31 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Kaiwen | Li Weiqing | Win | B+R | 7.5 | 3593 | 62 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Ke | Yang Kaiwen | Win | W+1¼ | 7.5 | 3531 | 28 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3503 | -4 | 
@@ -68,8 +69,8 @@
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3255 | -20 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3275 | 84 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3191 | 106 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Lose | B+¾ | 7.5 | 3085 | -50 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Lose | W+1¼ | 7.5 | 3135 | -219 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Lose | B+¾ | 7.5 | 3085 | -49 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Lose | W+1¼ | 7.5 | 3134 | -220 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Huang Mingyu | Win | B+R | 7.5 | 3354 | 34 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3320 | -78 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Xia Chenkun | Win | B+R | 7.5 | 3398 | 81 | 

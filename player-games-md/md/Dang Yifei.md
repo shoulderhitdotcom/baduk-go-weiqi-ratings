@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Jiang Weijie | Dang Yifei | Win | W+R | 7.5 | 3648 | 6 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Shi Yue | Dang Yifei | Win | W+2¼ | 7.5 | 3642 | 32 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Dang Yifei | Tong Mengcheng | Lose | W+R | 7.5 | 3610 | 3 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Win | W+R | 7.5 | 3607 | -3 | 
@@ -31,8 +32,8 @@
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhao Chenyu | Dang Yifei | Win | W+¼ | 7.5 | 3565 | -1 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Peng Liyao | Dang Yifei | Lose | B+R | 7.5 | 3566 | -32 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Chen Xian | Dang Yifei | Win | W+1¼ | 7.5 | 3598 | -2 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 3600 | 6 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Dang Yifei | Win | W+R | 7.5 | 3594 | 8 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 3600 | 5 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Dang Yifei | Win | W+R | 7.5 | 3595 | 9 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Dang Yifei | Lee Donghoon | Lose | W+1¼ | 7.5 | 3586 | 8 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Dang Yifei | Ding Hao | Lose | W+R | 7.5 | 3578 | -2 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Win | W+R | 7.5 | 3580 | -28 | 
@@ -88,8 +89,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Dang Yifei | Kang Dongyun | Win | B+R | 7.5 | 3320 | 16 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ  | Shibano Toramaru | Dang Yifei | Win | W+R | 7.5 | 3304 | 36 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Dang Yifei | Hu Yaoyu | Win | B+R | 7.5 | 3268 | 11 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3257 | 42 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | Win | W+R | 7.5 | 3215 | 2 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3257 | 43 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | Win | W+R | 7.5 | 3214 | 1 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tong Mengcheng | Dang Yifei | Win | W+R | 7.5 | 3213 | 36 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | Win | W+R | 7.5 | 3177 | -56 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Dang Yifei | Lose | B+R | 7.5 | 3233 | -24 | 

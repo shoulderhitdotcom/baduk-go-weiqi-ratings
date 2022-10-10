@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Xie Ke | Mi Yuting | Lose | W+R | 7.5 | 3544 | -5 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Xie Erhao | Xie Ke | Win | W+R | 7.5 | 3549 | 22 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Ke | Yang Kaiwen | Lose | W+1¼ | 7.5 | 3527 | 1 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3526 | 3 | 

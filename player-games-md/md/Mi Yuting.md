@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Xie Ke | Mi Yuting | Win | W+R | 7.5 | 3686 | 4 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Peng Liyao | Win | B+R | 7.5 | 3682 | 55 | 
 | 2022-09-23 | 第36期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Zihao | Mi Yuting | Win | W+R | 7.5 | 3627 | 0 | 
 | 2022-09-22 | 第36期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Zihao | Mi Yuting | Lose | B+¾ | 7.5 | 3627 | 0 | 

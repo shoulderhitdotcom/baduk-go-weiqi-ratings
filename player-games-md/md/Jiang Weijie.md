@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Jiang Weijie | Dang Yifei | Lose | W+R | 7.5 | 3510 | -7 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Jiang Weijie | Win | W+¼ | 7.5 | 3517 | 58 | 
 | 2022-09-30 | 第23期阿含・桐山杯中国早碁戦2回戦 | Jiang Weijie | Huang Yunsong | Lose | W+R | 7.5 | 3459 | -10 | 
 | 2022-09-29 | 第23期阿含・桐山杯中国早碁戦1回戦 | Fan Tingyu | Jiang Weijie | Win | W+¼ | 7.5 | 3469 | 27 | 

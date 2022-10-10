@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Yang Kaiwen | Yang Dingxin | Lose | B+R | 7.5 | 3594 | -5 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Dingxin | Tong Mengcheng | Win | B+R | 7.5 | 3599 | 31 | 
 | 2022-09-30 | 第23期阿含・桐山杯中国早碁戦1回戦 | Li Qincheng | Yang Dingxin | Lose | B+R | 7.5 | 3568 | -15 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Yang Dingxin | Win | W+R | 7.5 | 3583 | 2 | 
@@ -109,8 +110,8 @@
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Lose | W+R | 7.5 | 3481 | -9 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Win | W+R | 7.5 | 3490 | 45 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Ding Hao | Lose | W+R | 7.5 | 3445 | -17 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 3462 | -26 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3488 | 18 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 3462 | -25 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3487 | 17 | 
 | 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | Win | W+R | 7.5 | 3470 | 12 | 
 | 2020-12-02 | 第34期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 3458 | 8 | 
 | 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3450 | -71 | 
@@ -142,8 +143,8 @@
 | 2020-05-25 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Peng Liyao | Yang Dingxin | Lose | B+R | 7.5 | 3707 | -35 | 
 | 2020-01-14 | 第34期中国囲碁天元戦挑戦者決定戦 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 3742 | 6 | 
 | 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Win | B+¾ | 7.5 | 3736 | 8 | 
-| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 3728 | 10 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Win | W+R | 7.5 | 3718 | missing |
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 3728 | 11 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Win | W+R | 7.5 | 3717 | missing |
 
 
 

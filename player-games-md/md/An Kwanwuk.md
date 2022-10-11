@@ -12,8 +12,8 @@
 | 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | An Kwanwuk | Win | W+9.5 | 6.5 | 2752 | 43 | 
 | 2022-09-28 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Gueon Hyojin | Lose | W+R | 6.5 | 2709 | -32 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Choi Kyubyeong | Win | B+T | 6.5 | 2741 | 0 | 
-| 2022-09-19 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Seungjun | Lose | W+R | 6.5 | 2741 | 9 | 
-| 2022-09-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Win | B+2.5 | 6.5 | 2732 | 11 | 
+| 2022-09-19 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Seungjun | Lose | W+R | 6.5 | 2741 | 8 | 
+| 2022-09-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Win | B+2.5 | 6.5 | 2733 | 12 | 
 | 2022-09-07 | 2022韓国シニア囲碁リーグ | An Kwanwuk |  | Lose | W+R | 6.5 | 2721 | -6 | 
 | 2022-08-30 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Lose | W+4.5 | 6.5 | 2727 | -25 | 
 | 2022-08-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Yoo Changhyuk | Lose | W+R | 6.5 | 2752 | 104 | 
@@ -31,14 +31,14 @@
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Win | B+R | 6.5 | 2361 | -47 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jeong Daesang | An Kwanwuk | Lose | B+R | 6.5 | 2408 | -78 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Lose | W+0.5 | 6.5 | 2486 | 17 | 
-| 2021-10-12 | 2021韓国シニア囲碁リーグ | Park Yeongchan | An Kwanwuk | Win | W+R | 6.5 | 2469 | -7 | 
-| 2021-10-05 | 2021韓国シニア囲碁リーグ | An Kwanwuk |  | Win | B+R | 6.5 | 2476 | 37 | 
+| 2021-10-12 | 2021韓国シニア囲碁リーグ | Park Yeongchan | An Kwanwuk | Win | W+R | 6.5 | 2469 | -8 | 
+| 2021-10-05 | 2021韓国シニア囲碁リーグ | An Kwanwuk |  | Win | B+R | 6.5 | 2477 | 38 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | Win | W+4.5 | 6.5 | 2439 | -24 | 
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Oh Kyuchul | Lose | W+2.5 | 6.5 | 2463 | -9 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Win | B+8.5 | 6.5 | 2472 | 124 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kang Hun | Win | B+0.5 | 6.5 | 2348 | 32 | 
-| 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Win | B+3.5 | 6.5 | 2316 | 22 | 
-| 2021-08-11 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Yeongchan | Win | B+0.5 | 6.5 | 2294 | 120 | 
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Win | B+3.5 | 6.5 | 2316 | 21 | 
+| 2021-08-11 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Yeongchan | Win | B+0.5 | 6.5 | 2295 | 121 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | An Kwanwuk | Lose | B+R | 6.5 | 2174 | 20 | 
 | 2021-01-21 | 第8回大舟杯プロシニア最強者戦予選 | Gueon Hyojin | An Kwanwuk | Lose | B+R | 6.5 | 2154 | -66 | 
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第3局 | Kim Kihun | An Kwanwuk | Lose | B+6.5 | 6.5 | 2220 | -29 | 

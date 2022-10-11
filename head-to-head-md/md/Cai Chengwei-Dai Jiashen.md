@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cai Chengwei vs Dai Jiashen** | **Cai Chengwei streak** | **Dai Jiashen streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cai Chengwei Vs Dai Jiashen** | **Cai Chengwei Streak** | **Dai Jiashen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Dai Jiashen | Cai Chengwei | W+R | 6.5 | 1:0 | 1 | 0 |
 

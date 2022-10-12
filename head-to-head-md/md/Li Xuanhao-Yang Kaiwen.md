@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Yang Kaiwen** | **Li Xuanhao Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-12 | 第23期阿含・桐山杯中国早碁戦1回戦 | Yang Kaiwen | Li Xuanhao | B+R | 7.5 | 5:2 | 0 | 1 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Yang Kaiwen | Li Xuanhao | W+2¼ | 7.5 | 5:1 | 5 | 0 | 
 | 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Yang Kaiwen | Li Xuanhao | W+0.5 | 7.5 | 4:1 | 4 | 0 | 
 | 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Li Xuanhao | W+R | 7.5 | 3:1 | 3 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-12 | 第24回農心辛ラーメン杯世界囲碁最強戦第2戦 | Shin Minjun | Fan Tingyu | Win | W+R | 6.5 | 3668 | 5 | 
 | 2022-10-11 | 第24回農心辛ラーメン杯世界囲碁最強戦第1戦  | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3663 | 4 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Fan Tingyu | Tang Weixing | Lose | W+R | 7.5 | 3659 | 9 | 
 | 2022-09-29 | 第23期阿含・桐山杯中国早碁戦1回戦 | Fan Tingyu | Jiang Weijie | Lose | W+¼ | 7.5 | 3650 | -1 | 

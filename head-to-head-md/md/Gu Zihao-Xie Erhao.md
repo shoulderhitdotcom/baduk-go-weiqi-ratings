@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Xie Erhao** | **Gu Zihao Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-13 | 第23期阿含・桐山杯中国早碁戦2回戦 | Xie Erhao | Gu Zihao | B+1¾ | 7.5 | 6:3 | 0 | 1 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | B+R | 7.5 | 6:2 | 4 | 0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | B+R | 7.5 | 5:2 | 3 | 0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | B+R | 7.5 | 4:2 | 2 | 0 | 

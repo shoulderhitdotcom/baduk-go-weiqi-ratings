@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Shi Yue** | **Mi Yuting Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-13 | 第23期阿含・桐山杯中国早碁戦1回戦 | Mi Yuting | Shi Yue | W+R | 7.5 | 13:6 | 0 | 2 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Mi Yuting | Shi Yue | W+R | 7.5 | 13:5 | 0 | 1 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Shi Yue | Mi Yuting | W+¼ | 7.5 | 13:4 | 11 | 0 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | B+R | 7.5 | 12:4 | 10 | 0 | 

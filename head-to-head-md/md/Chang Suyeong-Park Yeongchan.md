@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chang Suyeong vs Park Yeongchan** | **Chang Suyeong streak** | **Park Yeongchan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Suyeong Vs Park Yeongchan** | **Chang Suyeong Streak** | **Park Yeongchan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Chang Suyeong | B+5.5 | 6.5 | 1:3 | 0 | 2 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第2局 | Chang Suyeong | Park Yeongchan | W+0.5 | 6.5 | 1:2 | 0 | 1 | 

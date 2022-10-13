@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chang Suyeong Vs Park Seungmun** | **Chang Suyeong Streak** | **Park Seungmun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-13 | 2022韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | B+6.5 | 6.5 | 3:5 | 0 | 3 | 
 | 2022-09-05 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Park Seungmun | W+0.5 | 6.5 | 3:4 | 0 | 2 | 
 | 2021-10-04 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | B+2.5 | 6.5 | 3:3 | 0 | 1 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | W+5.5 | 6.5 | 3:2 | 1 | 0 | 

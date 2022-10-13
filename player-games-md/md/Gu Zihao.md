@@ -21,13 +21,13 @@
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xu Jiayang | Lose | W+R | 7.5 | 3592 | 6 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Gu Zihao | Lose | B+R | 7.5 | 3586 | -6 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Gu Zihao | Chen Yaoye | Win | B+R | 7.5 | 3592 | -20 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Gu Zihao | Lose | B+R | 7.5 | 3612 | 22 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3590 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Zihao | Lose | B+R | 7.5 | 3590 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Gu Zihao | Wang Zheyu | Win | B+R | 7.5 | 3590 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | Win | W+R | 7.5 | 3590 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Gu Zihao | Park Junghwan | Lose | W+R | 7.5 | 3586 | -12 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Win | W+R | 7.5 | 3598 | 16 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Li Weiqing | Gu Zihao | Lose | B+R | 7.5 | 3612 | 23 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3589 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Gu Zihao | Lose | B+R | 7.5 | 3589 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Gu Zihao | Wang Zheyu | Win | B+R | 7.5 | 3589 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | Win | W+R | 7.5 | 3589 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Gu Zihao | Park Junghwan | Lose | W+R | 7.5 | 3585 | -12 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Win | W+R | 7.5 | 3597 | 15 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | Win | B+R | 7.5 | 3582 | 10 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Mi Yuting | Gu Zihao | Win | W+R | 6.5 | 3572 | -10 | 
 | 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Gu Zihao | Kim Jiseok | Lose | W+R | 6.5 | 3582 | -10 | 
@@ -133,8 +133,8 @@
 | 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Win | B+R | 7.5 | 3672 | 42 | 
 | 2020-05-20 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Gu Zihao | Chen Yaoye | Lose | W+¼ | 7.5 | 3630 | -59 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Win | W+R | 6.5 | 3689 | 13 | 
-| 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Win | W+R | 6.5 | 3676 | 9 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Xie Ke | Gu Zihao | Lose | B+R | 7.5 | 3667 | missing |
+| 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Win | W+R | 6.5 | 3676 | 8 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Xie Ke | Gu Zihao | Lose | B+R | 7.5 | 3668 | missing |
 
 
 

@@ -46,9 +46,9 @@
 | 2021-07-05 | 第15回GGオークション杯予選 | Jeong Daesang | Choi Kyubyeong | Win | W+R | 6.5 | 2584 | 170 | 
 | 2021-02-08 | 第4期韓国竜星戦1回戦 | Choi Kyubyeong | Cho Seungah | Lose | W+T | 6.5 | 2414 | 69 | 
 | 2021-01-20 | 第8回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Park Shiun | Lose | W+1.5 | 6.5 | 2345 | -36 | 
-| 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Heo Yongho | Lose | W+R | 6.5 | 2381 | 66 | 
-| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第2局 | An Kwanwuk | Choi Kyubyeong | Win | W+1.5 | 6.5 | 2315 | -36 | 
-| 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第3局 | Choi Kyubyeong | Cho Daehyeon | Win | B+6.5 | 6.5 | 2351 | 6 | 
+| 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Heo Yongho | Lose | W+R | 6.5 | 2381 | 65 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第2局 | An Kwanwuk | Choi Kyubyeong | Win | W+1.5 | 6.5 | 2316 | -36 | 
+| 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第3局 | Choi Kyubyeong | Cho Daehyeon | Win | B+6.5 | 6.5 | 2352 | 7 | 
 | 2020-10-12 | 2020NHシニア囲碁リーグ第12節第1試合第2局 | Kang Hun | Choi Kyubyeong | Win | W+1.5 | 6.5 | 2345 | 50 | 
 | 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第1局 | Choi Kyubyeong | Kim Soojang | Lose | W+R | 6.5 | 2295 | -12 | 
 | 2020-09-23 | 2020NHシニア囲碁リーグ第10節第3試合第2局 | Choi Kyubyeong | Oh Kyuchul | Lose | W+R | 6.5 | 2307 | -14 | 
@@ -59,8 +59,8 @@
 | 2020-08-24 | 2020NHシニア囲碁リーグ第7節第1試合第1局 | Choi Kyubyeong | Yoo Changhyuk | Lose | W+R | 6.5 | 2195 | -7 | 
 | 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | Lose | B+8.5 | 6.5 | 2202 | -35 | 
 | 2020-08-13 | 2020NHシニア囲碁リーグ第5節第4試合第1局 | Choi Kyubyeong | Kim Chongsu | Lose | W+R | 6.5 | 2237 | -16 | 
-| 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第1局 | Choi Kyubyeong | Kim Soojang | Lose | W+3.5 | 6.5 | 2253 | -56 | 
-| 2020-07-28 | 2020NHシニア囲碁リーグ第3節第2試合第1局 | Jimmy Cha | Choi Kyubyeong | Win | W+3.5 | 6.5 | 2309 | 101 | 
+| 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第1局 | Choi Kyubyeong | Kim Soojang | Lose | W+3.5 | 6.5 | 2253 | -57 | 
+| 2020-07-28 | 2020NHシニア囲碁リーグ第3節第2試合第1局 | Jimmy Cha | Choi Kyubyeong | Win | W+3.5 | 6.5 | 2310 | 102 | 
 | 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | Lose | B+3.5 | 6.5 | 2208 | -193 | 
 | 2020-07-15 | 2020NHシニア囲碁リーグ第1節第3試合第1局 | Seo Nungwuk | Choi Kyubyeong | Win | W+11.5 | 6.5 | 2401 | -453 | 
 | 2020-04-16 | 第25回LG杯韓国予選 | An Jungki | Choi Kyubyeong | Lose | B+7.5 | 6.5 | 2854 | -139 | 

@@ -30,9 +30,9 @@
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Seungmun | Win | W+4.5 | 6.5 | 2427 | 36 | 
 | 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | 2391 | 42 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Lose | W+5.5 | 6.5 | 2349 | -3 | 
-| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Park Seungmun | Kim Kihun | Win | B+R | 6.5 | 2352 | 41 | 
-| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第3局 | Park Seungmun | Cho Daehyeon | Win | B+T | 6.5 | 2311 | 48 | 
-| 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第2局 | Oh Kyuchul | Park Seungmun | Lose | B+25.5 | 6.5 | 2263 | -104 | 
+| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Park Seungmun | Kim Kihun | Win | B+R | 6.5 | 2352 | 40 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第3局 | Park Seungmun | Cho Daehyeon | Win | B+T | 6.5 | 2312 | 48 | 
+| 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第2局 | Oh Kyuchul | Park Seungmun | Lose | B+25.5 | 6.5 | 2264 | -103 | 
 | 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第1局 | Park Seungmun | An Kwanwuk | Win | B+R | 6.5 | 2367 | 5 | 
 | 2020-10-08 | 2020NHシニア囲碁リーグ第11節第4試合第1局 | Kim Chongsu | Park Seungmun | Lose | B+1.5 | 6.5 | 2362 | 9 | 
 | 2020-09-21 | 2020NHシニア囲碁リーグ第10節第1試合第3局 | Kim Dongyeop | Park Seungmun | Win | W+1.5 | 6.5 | 2353 | 52 | 
@@ -41,8 +41,8 @@
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第2局 | Park Seungmun | Cho Daehyeon | Win | B+5.5 | 6.5 | 2322 | -11 | 
 | 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第2局 | Chang Suyeong | Park Seungmun | Win | W+1.5 | 6.5 | 2333 | 24 | 
 | 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第2局 | Park Seungmun | An Kwanwuk | Win | B+14.5 | 6.5 | 2309 | 29 | 
-| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第2局 | Park Seungmun | Kang Hun | Win | B+6.5 | 6.5 | 2280 | 28 | 
-| 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第2局 | Park Seungmun | Kim Dongyeop | Lose | W+1.5 | 6.5 | 2252 | -66 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第2局 | Park Seungmun | Kang Hun | Win | B+6.5 | 6.5 | 2280 | 27 | 
+| 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第2局 | Park Seungmun | Kim Dongyeop | Lose | W+1.5 | 6.5 | 2253 | -65 | 
 | 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第2局 | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | 2318 | -40 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第2局 | Kim Kihun | Park Seungmun | Lose | B+R | 6.5 | 2358 | missing |
 

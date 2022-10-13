@@ -22,13 +22,13 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Mi Yuting | Jiang Weijie | Win | B+R | 7.5 | 3633 | 0 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Win | W+R | 7.5 | 3633 | -12 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3645 | -6 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Mi Yuting | Wang Shiyi | Win | B+R | 7.5 | 3651 | 25 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Mi Yuting | Lose | B+R | 7.5 | 3626 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Mi Yuting | Win | W+R | 7.5 | 3626 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yunong | Lose | W+¼ | 7.5 | 3626 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | Lose | W+R | 7.5 | 3626 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | Lose | W+R | 7.5 | 3622 | -19 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Mi Yuting | Win | W+R | 7.5 | 3641 | 9 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Mi Yuting | Wang Shiyi | Win | B+R | 7.5 | 3651 | 26 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Mi Yuting | Lose | B+R | 7.5 | 3625 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Mi Yuting | Win | W+R | 7.5 | 3625 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yunong | Lose | W+¼ | 7.5 | 3625 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Gu Zihao | Lose | W+R | 7.5 | 3625 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | Lose | W+R | 7.5 | 3621 | -19 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Shin Jinseo | Mi Yuting | Win | W+R | 7.5 | 3640 | 8 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | Win | B+R | 7.5 | 3632 | -20 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Mi Yuting | Gu Zihao | Lose | W+R | 6.5 | 3652 | -8 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Tang Weixing | Mi Yuting | Lose | B+¾ | 7.5 | 3660 | 0 | 
@@ -97,8 +97,8 @@
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3533 | -7 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3540 | -17 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Win | B+R | 7.5 | 3557 | 28 | 
-| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Mi Yuting | Lee Donghoon | Win | B+R | 6.5 | 3529 | 6 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Win | B+R | 6.5 | 3523 | 5 | 
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Mi Yuting | Lee Donghoon | Win | B+R | 6.5 | 3529 | 5 | 
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Win | B+R | 6.5 | 3524 | 6 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Mi Yuting | Liao Yuanhe | Lose | W+R | 7.5 | 3518 | 10 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 3508 | -7 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Weiqing | Mi Yuting | Win | W+R | 7.5 | 3515 | 14 | 
@@ -147,8 +147,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xia Chenkun | Mi Yuting | Win | W+R | 7.5 | 3655 | 6 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Jiang Qirun | Mi Yuting | Lose | B+R | 7.5 | 3649 | -53 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Lose | W+R | 7.5 | 3702 | -33 | 
-| 2020-08-19 | 第21回農心辛ラーメン杯世界囲碁最強戦第11戦 | Park Junghwan | Mi Yuting | Lose | B+R | 6.5 | 3735 | -53 | 
-| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 3788 | 39 | 
+| 2020-08-19 | 第21回農心辛ラーメン杯世界囲碁最強戦第11戦 | Park Junghwan | Mi Yuting | Lose | B+R | 6.5 | 3735 | -54 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 3789 | 40 | 
 | 2020-06-15 | 第19回西南棋王戦準決勝 | Li Xuanhao | Mi Yuting | Win | W+R | 7.5 | 3749 | 0 | 
 | 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Win | B+3¾ | 7.5 | 3749 | 7 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Mi Yuting | Tang Weixing | Win | B+¾ | 7.5 | 3742 | 0 | 
@@ -156,8 +156,8 @@
 | 2020-06-11 | 第11期中国竜星戦Aブロック10回戦 | Mi Yuting | Ke Jie | Lose | W+R | 7.5 | 3737 | -8 | 
 | 2020-06-10 | 第11期中国竜星戦Aブロック9回戦 | Gu Zihao | Mi Yuting | Win | W+R | 7.5 | 3745 | 37 | 
 | 2020-05-18 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3708 | -40 | 
-| 2020-04-13 | 第25回LG杯中国予選 | Liao Yuanhe | Mi Yuting | Lose | B+R | 6.5 | 3748 | 18 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Chen Yaoye | Mi Yuting | Lose | B+R | 7.5 | 3730 | missing |
+| 2020-04-13 | 第25回LG杯中国予選 | Liao Yuanhe | Mi Yuting | Lose | B+R | 6.5 | 3748 | 17 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Chen Yaoye | Mi Yuting | Lose | B+R | 7.5 | 3731 | missing |
 
 
 

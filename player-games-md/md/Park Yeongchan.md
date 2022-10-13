@@ -31,9 +31,9 @@
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第1局 | Park Yeongchan | Jeong Daesang | Win | B+10.5 | 6.5 | 2290 | -17 | 
 | 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第3局 | Jeong Daesang | Park Yeongchan | Win | W+T | 6.5 | 2307 | 38 | 
 | 2020-11-06 | 2020NHシニア囲碁リーグプレーオフ第2戦第3局 | Kim Dongmyeon | Park Yeongchan | Win | W+0.5 | 6.5 | 2269 | 53 | 
-| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第3局 | Park Yeongchan |  | Win | B+21.5 | 6.5 | 2216 | 24 | 
-| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第2局 | Chang Suyeong | Park Yeongchan | Win | W+0.5 | 6.5 | 2192 | 18 | 
-| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第3局 | Kim Chongsu | Park Yeongchan | Lose | B+8.5 | 6.5 | 2174 | -101 | 
+| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第3局 | Park Yeongchan |  | Win | B+21.5 | 6.5 | 2216 | 23 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第2局 | Chang Suyeong | Park Yeongchan | Win | W+0.5 | 6.5 | 2193 | 18 | 
+| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第3局 | Kim Chongsu | Park Yeongchan | Lose | B+8.5 | 6.5 | 2175 | -100 | 
 | 2020-10-15 | 2020NHシニア囲碁リーグ第12節第4試合第2局 | Park Yeongchan | Kim JongJoon | Win | B+R | 6.5 | 2275 | 17 | 
 | 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第2局 | Park Yeongchan |  | Win | B+3.5 | 6.5 | 2258 | 17 | 
 | 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第1局 | Jeong Daesang | Park Yeongchan | Lose | B+R | 6.5 | 2241 | -19 | 
@@ -42,8 +42,8 @@
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第3局 | Park Yeongchan | Oh Kyuchul | Lose | W+3.5 | 6.5 | 2232 | -39 | 
 | 2020-08-18 | 2020NHシニア囲碁リーグ第6節第2試合第3局 | Park Yeongchan | Kim Dongmyeon | Win | B+2.5 | 6.5 | 2271 | 13 | 
 | 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第3局 | Kim JongJoon | Park Yeongchan | Win | W+R | 6.5 | 2258 | 55 | 
-| 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第3局 |  | Park Yeongchan | Win | W+2.5 | 6.5 | 2203 | -16 | 
-| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第3局 | Park Yeongchan | Jeong Daesang | Lose | W+R | 6.5 | 2219 | -83 | 
+| 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第3局 |  | Park Yeongchan | Win | W+2.5 | 6.5 | 2203 | -17 | 
+| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第3局 | Park Yeongchan | Jeong Daesang | Lose | W+R | 6.5 | 2220 | -82 | 
 | 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第3局 | Park Yeongchan | No Yeongha | Win | B+R | 6.5 | 2302 | -66 | 
 | 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第3局 | Kim Chuljung | Park Yeongchan | Win | W+R | 6.5 | 2368 | missing |
 

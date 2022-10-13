@@ -32,20 +32,20 @@
 | 2021-11-08 | 第60期十段戦2回戦 | Cho U | Otake Yu | Win | W+3.5 | 6.5 | 3030 | 148 | 
 | 2021-09-23 | 第60期十段戦予選 | Otake Yu | Yuki Satoshi | Win | B+R | 6.5 | 2882 | 53 | 
 | 2021-08-19 | 第47期名人戦予選 | Yamada Kimio | Otake Yu | Win | W+R | 6.5 | 2829 | -29 | 
-| 2021-08-05 | 第46期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Lose | W+0.5 | 6.5 | 2858 | 160 | 
-| 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Win | W+R | 6.5 | 2698 | 36 | 
+| 2021-08-05 | 第46期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Lose | W+0.5 | 6.5 | 2858 | 159 | 
+| 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Win | W+R | 6.5 | 2699 | 37 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Otake Yu | Tu Xiaoyu | Lose | W+1.5 | 6.5 | 2662 | -11 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Win | W+R | 6.5 | 2673 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Otake Yu |  | Win | B+R | 6.5 | 2673 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2673 | 229 | 
-| 2021-05-31 | 第46期棋聖戦Cリーグ | Otake Yu |  | Win | B+0.5 | 6.5 | 2444 | 18 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2673 | 228 | 
+| 2021-05-31 | 第46期棋聖戦Cリーグ | Otake Yu |  | Win | B+0.5 | 6.5 | 2445 | 19 | 
 | 2021-03-08 | 第46期新人王戦1回戦 | Otake Yu | Ueno Asami | Lose | W+R | 6.5 | 2426 | -289 | 
 | 2020-11-26 | 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Lose | B+R | 6.5 | 2715 | -269 | 
 | 2020-08-31 | 第45期棋聖戦Bリーグ | Hane Naoki | Otake Yu | Lose | B+R | 6.5 | 2984 | -130 | 
 | 2020-03-26 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Otake Yu | Win | W+R | 6.5 | 3114 | 48 | 
 | 2020-03-09 | 第45期新人王戦2回戦 | Otake Yu | Sada Atsushi | Lose | W+1.5 | 6.5 | 3066 | 24 | 
-| 2020-03-05 | 第59期十段戦予選 | Otake Yu | Yamada Kimio | Lose | W+R | 6.5 | 3042 | -90 | 
-| 2020-01-30 | 第68期王座戦予選 | Otake Yu | Ryu Shikun | Lose | W+R | 6.5 | 3132 | -35 | 
+| 2020-03-05 | 第59期十段戦予選 | Otake Yu | Yamada Kimio | Lose | W+R | 6.5 | 3042 | -91 | 
+| 2020-01-30 | 第68期王座戦予選 | Otake Yu | Ryu Shikun | Lose | W+R | 6.5 | 3133 | -34 | 
 | 2020-01-23 | 第45期新人王戦1回戦 | Otake Yu |  | Win | B+R | 6.5 | 3167 | 79 | 
 | 2020-01-16 | 第45期棋聖戦Bリーグ | Akiyama Jiro | Otake Yu | Win | W+1.5 | 6.5 | 3088 | missing |
 

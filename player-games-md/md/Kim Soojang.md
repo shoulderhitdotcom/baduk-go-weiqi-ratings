@@ -45,9 +45,9 @@
 | 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第1局 | Yoo Changhyuk | Kim Soojang | Lose | B+7.5 | 6.5 | 2470 | -15 | 
 | 2020-11-06 | 2020NHシニア囲碁リーグプレーオフ第2戦第1局 | Kim Chongsu | Kim Soojang | Lose | B+R | 6.5 | 2485 | -11 | 
 | 2020-11-05 | 2020NHシニア囲碁リーグプレーオフ第1戦第1局 | Kim Soojang | Kim Chongsu | Win | B+R | 6.5 | 2496 | 54 | 
-| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | Win | B+6.5 | 6.5 | 2442 | 40 | 
-| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第1局 | Kim Soojang | Jimmy Cha | Lose | W+22.5 | 6.5 | 2402 | -4 | 
-| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第2局 | Kim Soojang | Kim Dongmyeon | Win | B+5.5 | 6.5 | 2406 | -85 | 
+| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | Win | B+6.5 | 6.5 | 2442 | 39 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第1局 | Kim Soojang | Jimmy Cha | Lose | W+22.5 | 6.5 | 2403 | -4 | 
+| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第2局 | Kim Soojang | Kim Dongmyeon | Win | B+5.5 | 6.5 | 2407 | -84 | 
 | 2020-10-15 | 2020NHシニア囲碁リーグ第12節第4試合第3局 | Kim Dongyeop | Kim Soojang | Lose | B+0.5 | 6.5 | 2491 | -35 | 
 | 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第1局 | Choi Kyubyeong | Kim Soojang | Win | W+R | 6.5 | 2526 | 17 | 
 | 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第3局 | An Kwanwuk | Kim Soojang | Win | W+R | 6.5 | 2509 | 16 | 
@@ -58,11 +58,11 @@
 | 2020-08-10 | 第14回GGオークション杯女流対シニア連勝対抗戦第3局 | Kim Soojang | Park Jiyeon | Lose | W+R | 6.5 | 2490 | 0 | 
 | 2020-08-10 | 2020NHシニア囲碁リーグ第5節第1試合第1局 | Seo Nungwuk | Kim Soojang | Lose | B+1.5 | 6.5 | 2490 | 1 | 
 | 2020-08-06 | 2020NHシニア囲碁リーグ第4節第4試合第1局 | Choi Kyubyeong | Kim Soojang | Win | W+3.5 | 6.5 | 2489 | -18 | 
-| 2020-08-04 | 第14回GGオークション杯女流対シニア連勝対抗戦第2局 | Kim Soojang | Kim Soojin | Win | B+R | 6.5 | 2507 | 41 | 
-| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第1局 | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2466 | -15 | 
+| 2020-08-04 | 第14回GGオークション杯女流対シニア連勝対抗戦第2局 | Kim Soojang | Kim Soojin | Win | B+R | 6.5 | 2507 | 40 | 
+| 2020-07-29 | 2020NHシニア囲碁リーグ第3節第3試合第1局 | Kim Soojang | Yoo Changhyuk | Lose | W+R | 6.5 | 2467 | -14 | 
 | 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | Win | B+R | 6.5 | 2481 | -59 | 
-| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Lose | B+7.5 | 6.5 | 2540 | -261 | 
-| 2020-02-07 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Soojang | Park Shiun | Lose | W+1.5 | 6.5 | 2801 | missing |
+| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Lose | B+7.5 | 6.5 | 2540 | -262 | 
+| 2020-02-07 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Soojang | Park Shiun | Lose | W+1.5 | 6.5 | 2802 | missing |
 
 
 

@@ -50,9 +50,9 @@
 | 2020-10-12 | 第46期名人戦予選 | Motoki Katsuya | Sun Zhe | Win | B+R | 6.5 | 3003 | 23 | 
 | 2020-08-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yoda Norimoto | Lose | W+4.5 | 6.5 | 2980 | -72 | 
 | 2020-08-17 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Motoki Katsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 3052 | -33 | 
-| 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Win | B+R | 6.5 | 3085 | 13 | 
-| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Motoki Katsuya | Lose | B+R | 7.5 | 3072 | 2 | 
-| 2020-07-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yu Zhengqi | Lose | W+R | 6.5 | 3070 | -22 | 
+| 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Win | B+R | 6.5 | 3085 | 12 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Motoki Katsuya | Lose | B+R | 7.5 | 3073 | 2 | 
+| 2020-07-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yu Zhengqi | Lose | W+R | 6.5 | 3071 | -21 | 
 | 2020-07-16 | 第76期本因坊戦予選 | Kono Rin | Motoki Katsuya | Lose | B+R | 6.5 | 3092 | -24 | 
 | 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | Motoki Katsuya | Win | W+R | 6.5 | 3116 | 35 | 
 | 2020-07-02 | 第45期棋聖戦Aリーグ | Shida Tatsuya | Motoki Katsuya | Win | W+0.5 | 6.5 | 3081 | 42 | 
@@ -61,8 +61,8 @@
 | 2020-04-17 | 日台交流戦第1戦 | Motoki Katsuya | Jian Jingting | Lose | W+R | 6.5 | 3022 | -60 | 
 | 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3082 | -24 | 
 | 2020-02-27 | 第76期本因坊戦予選 | Motoki Katsuya | Yao Zhiteng | Win | B+R | 6.5 | 3106 | -4 | 
-| 2020-02-13 | 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | Lose | B+R | 6.5 | 3110 | -30 | 
-| 2020-01-30 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Motoki Katsuya | Win | W+5.5 | 6.5 | 3140 | 31 | 
+| 2020-02-13 | 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | Lose | B+R | 6.5 | 3110 | -31 | 
+| 2020-01-30 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Motoki Katsuya | Win | W+5.5 | 6.5 | 3141 | 32 | 
 | 2020-01-23 | 第76期本因坊戦予選 | Matsumoto Takehisa | Motoki Katsuya | Win | W+R | 6.5 | 3109 | -8 | 
 | 2020-01-09 | 第68期王座戦予選 | Ohba Junya | Motoki Katsuya | Lose | B+R | 6.5 | 3117 | missing |
 

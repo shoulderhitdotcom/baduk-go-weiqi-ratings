@@ -12,8 +12,8 @@
 | 2022-07-21 | 第47期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Lose | W+R | 6.5 | 3197 | 1 | 
 | 2022-07-14 | 第78期本因坊戦予選 | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 3196 | 5 | 
 | 2022-07-11 | 第47期棋聖戦Aリーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3191 | -49 | 
-| 2022-07-07 | 第47期名人戦リーグ  | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 3240 | 16 | 
-| 2022-06-23 | 第70期王座戦1回戦 | Hane Naoki | Yoda Norimoto | Win | B+0.5 | 6.5 | 3224 | -23 | 
+| 2022-07-07 | 第47期名人戦リーグ  | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 3240 | 17 | 
+| 2022-06-23 | 第70期王座戦1回戦 | Hane Naoki | Yoda Norimoto | Win | B+0.5 | 6.5 | 3223 | -24 | 
 | 2022-06-16 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Hane Naoki | Lose | B+R | 6.5 | 3247 | -38 | 
 | 2022-06-09 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Lose | B+R | 6.5 | 3285 | 50 | 
 | 2022-05-05 | 第47期名人戦リーグ  | Hane Naoki | Shida Tatsuya | Lose | W+R | 6.5 | 3235 | 37 | 
@@ -37,12 +37,12 @@
 | 2021-09-23 | 第60期十段戦予選 | Hane Naoki | Adachi Toshimasa | Lose | W+R | 6.5 | 3231 | -39 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | B+R | 6.5 | 3270 | 9 | 
 | 2021-07-29 | 第46期棋聖戦Aリーグ | Hane Naoki | Mutsuura Yuta | Lose | W+R | 6.5 | 3261 | -6 | 
-| 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 3267 | 27 | 
-| 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3240 | 39 | 
+| 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 3267 | 26 | 
+| 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3241 | 40 | 
 | 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3201 | 38 | 
 | 2021-06-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3163 | 6 | 
-| 2021-06-03 | 第69期王座戦1回戦 | Hane Naoki | Rin Kanketsu | Win | B+0.5 | 6.5 | 3157 | 17 | 
-| 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3140 | 40 | 
+| 2021-06-03 | 第69期王座戦1回戦 | Hane Naoki | Rin Kanketsu | Win | B+0.5 | 6.5 | 3157 | 16 | 
+| 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3141 | 41 | 
 | 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3100 | -10 | 
 | 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Hane Naoki | Lose | B+R | 6.5 | 3110 | -16 | 
 | 2021-04-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Hane Naoki | Lose | B+R | 6.5 | 3126 | 14 | 
@@ -79,10 +79,10 @@
 | 2020-03-19 | 第45期棋聖戦Bリーグ | Mutsuura Yuta | Hane Naoki | Lose | B+R | 6.5 | 3199 | -40 | 
 | 2020-03-12 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Lose | B+0.5 | 6.5 | 3239 | 2 | 
 | 2020-03-05 | 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | Lose | B+R | 6.5 | 3237 | -29 | 
-| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3266 | 4 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3262 | -33 | 
-| 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 3295 | -46 | 
-| 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3341 | 11 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3266 | 3 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3263 | -32 | 
+| 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 3295 | -47 | 
+| 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3342 | 12 | 
 | 2020-01-16 | 第75期本因坊戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3330 | 14 | 
 | 2020-01-09 | 第45期棋聖戦Bリーグ | Hane Naoki | Shuto Shun | Win | B+R | 6.5 | 3316 | missing |
 

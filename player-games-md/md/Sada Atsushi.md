@@ -12,9 +12,9 @@
 | 2022-09-28 | 第27回三星火災杯日本予選 | Hirose Yuichi | Sada Atsushi | Win | W+R | 6.5 | 3241 | 0 | 
 | 2022-09-28 | 第27回三星火災杯日本予選 | Sada Atsushi | Seki Kotaro | Win | B+R | 6.5 | 3241 | 36 | 
 | 2022-09-21 | 第49期天元戦予選 | Sada Atsushi | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3205 | -26 | 
-| 2022-08-17 | 第66期関西棋院第一位決定戦準決勝 | Murakawa Daisuke | Sada Atsushi | Lose | B+R | 6.5 | 3231 | -51 | 
-| 2022-08-10 | 第48期碁聖戦予選 | Sada Atsushi | Fujiwara Katsuya | Win | B+R | 6.5 | 3282 | 0 | 
-| 2022-08-04 | 第47期棋聖戦Cリーグ | Sada Atsushi |  | Win | B+R | 6.5 | 3282 | -11 | 
+| 2022-08-17 | 第66期関西棋院第一位決定戦準決勝 | Murakawa Daisuke | Sada Atsushi | Lose | B+R | 6.5 | 3231 | -50 | 
+| 2022-08-10 | 第48期碁聖戦予選 | Sada Atsushi | Fujiwara Katsuya | Win | B+R | 6.5 | 3281 | 0 | 
+| 2022-08-04 | 第47期棋聖戦Cリーグ | Sada Atsushi |  | Win | B+R | 6.5 | 3281 | -12 | 
 | 2022-08-01 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦  | Ichiriki Ryo | Sada Atsushi | Lose | B+R | 6.5 | 3293 | -28 | 
 | 2022-07-20 | 第48期名人戦予選 | Sada Atsushi | Ha Youngil | Win | B+R | 6.5 | 3321 | 15 | 
 | 2022-07-14 | 第70期王座戦2回戦  | Anzai Nobuaki | Sada Atsushi | Lose | B+R | 6.5 | 3306 | -29 | 
@@ -60,12 +60,12 @@
 | 2021-08-11 | 第47期名人戦予選 | Fujii Shuya | Sada Atsushi | Win | W+R | 6.5 | 3119 | 6 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Win | B+3.5 | 6.5 | 3113 | 1 | 
 | 2021-07-29 | 第48期天元戦予選 |  | Sada Atsushi | Win | W+R | 6.5 | 3112 | -6 | 
-| 2021-07-15 | 第46期棋聖戦Cリーグ | Yamada Kimio | Sada Atsushi | Lose | B+2.5 | 6.5 | 3118 | -32 | 
-| 2021-07-08 | 第65期関西棋院第一位決定戦挑戦者決定戦 | Sada Atsushi | Watanabe Kandai | Win | B+R | 6.5 | 3150 | 12 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Yamada Kimio | Sada Atsushi | Lose | B+2.5 | 6.5 | 3118 | -33 | 
+| 2021-07-08 | 第65期関西棋院第一位決定戦挑戦者決定戦 | Sada Atsushi | Watanabe Kandai | Win | B+R | 6.5 | 3151 | 13 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Sada Atsushi | Chujo Chihiro | Win | B+R | 6.5 | 3138 | 11 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Ohashi Hirofumi | Sada Atsushi | Win | W+6.5 | 6.5 | 3127 | 31 | 
-| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3096 | 28 | 
-| 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Lose | B+R | 6.5 | 3068 | -18 | 
+| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3096 | 27 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Lose | B+R | 6.5 | 3069 | -17 | 
 | 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Win | W+R | 6.5 | 3086 | 41 | 
 | 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Win | W+R | 6.5 | 3045 | 82 | 
 | 2021-04-02 | 第76期本因坊戦リーグ  | Hsu Chiayuan | Sada Atsushi | Lose | B+R | 6.5 | 2963 | 6 | 
@@ -104,8 +104,8 @@
 | 2020-03-25 | 第76期本因坊戦予選 | Sada Atsushi | Fujii Shuya | Win | B+0.5 | 6.5 | 3204 | 8 | 
 | 2020-03-09 | 第45期新人王戦2回戦 | Otake Yu | Sada Atsushi | Win | W+1.5 | 6.5 | 3196 | 5 | 
 | 2020-03-04 | 第76期本因坊戦予選 | Yokota Shigeaki | Sada Atsushi | Win | W+9.5 | 6.5 | 3191 | 47 | 
-| 2020-02-26 | 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 3144 | -83 | 
-| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Win | B+3.5 | 6.5 | 3227 | -3 | 
+| 2020-02-26 | 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 3144 | -84 | 
+| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Win | B+3.5 | 6.5 | 3228 | -2 | 
 | 2020-01-29 | 第76期本因坊戦予選A | Sada Atsushi | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3230 | 14 | 
 | 2020-01-16 | 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | Win | B+R | 6.5 | 3216 | missing |
 

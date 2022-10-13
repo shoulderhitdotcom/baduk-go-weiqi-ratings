@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Iyama Yuta** | **Hsu Chiayuan Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-22 | 第47期棋聖戦Sリーグ | Hsu Chiayuan | Iyama Yuta | B+R | 6.5 | 8:6 | 3 | 0 | 
 | 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | W+R | 6.5 | 7:6 | 2 | 0 | 
 | 2020-12-24 | 第59期十段戦3回戦 | Hsu Chiayuan | Iyama Yuta | B+R | 6.5 | 6:6 | 1 | 0 | 
 | 2020-06-25 | 第45期名人戦リーグ | Iyama Yuta | Hsu Chiayuan | B+R | 6.5 | 5:6 | 0 | 3 | 

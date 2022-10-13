@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hane Naoki Vs Kono Rin** | **Hane Naoki Streak** | **Kono Rin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-13 | 第48期名人戦予選 | Hane Naoki | Kono Rin | W+R | 6.5 | 10:17 | 0 | 2 | 
 | 2022-07-11 | 第47期棋聖戦Aリーグ | Kono Rin | Hane Naoki | B+R | 6.5 | 10:16 | 0 | 1 | 
 | 2021-01-07 | 第46期名人戦リーグ | Hane Naoki | Kono Rin | B+R | 6.5 | 10:15 | 1 | 0 | 
 | 2020-06-25 | 第45期名人戦リーグ | Kono Rin | Hane Naoki | B+R | 6.5 | 9:15 | 0 | 1 | 

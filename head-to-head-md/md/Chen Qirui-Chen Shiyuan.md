@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Chen Shiyuan** | **Chen Qirui Streak** | **Chen Shiyuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Chen Qirui | B+R | 6.5 | 9:9 | 0 | 2 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | B+0.5 | 6.5 | 9:8 | 0 | 1 | 
 | 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | B+R | 6.5 | 9:7 | 1 | 0 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | W+R | 6.5 | 8:7 | 0 | 2 | 

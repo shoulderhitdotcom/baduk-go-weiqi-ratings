@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Zhang Zhehao** | **Lin Shuyang Streak** | **Zhang Zhehao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-08 | 第15期棋王戦（台湾）予選 | Zhang Zhehao | Lin Shuyang | W+2.5 | 6.5 | 6:1 | 6 | 0 | 
 | 2016-06-01 | 第6期友士杯十段戦予選 | Lin Shuyang | Zhang Zhehao | B+R | 6.5 | 5:1 | 5 | 0 | 
 | 2011-04-19 | 第10期天元戦（台湾）リーグ | Zhang Zhehao | Lin Shuyang | W+2.5 | 6.5 | 4:1 | 4 | 0 | 
 | 2010-06-10 | 第3期棋王戦（台湾）リーグ | Lin Shuyang | Zhang Zhehao | B+R | 6.5 | 3:1 | 3 | 0 | 

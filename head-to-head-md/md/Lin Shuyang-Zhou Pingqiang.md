@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Zhou Pingqiang** | **Lin Shuyang Streak** | **Zhou Pingqiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-13 | 第16期棋王戦（台湾）予選 | Lin Shuyang | Zhou Pingqiang | W+1.5 | 6.5 | 4:5 | 0 | 1 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Lin Shuyang | W+9.5 | 6.5 | 4:4 | 3 | 0 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shuyang | Zhou Pingqiang | B+R | 6.5 | 3:4 | 2 | 0 | 
 | 2010-02-04 | 第3期棋王戦（台湾）予選 | Lin Shuyang | Zhou Pingqiang | B+R | 6.5 | 2:4 | 1 | 0 | 

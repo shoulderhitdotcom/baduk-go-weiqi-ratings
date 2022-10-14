@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Adachi Toshimasa vs Lin Shuyang** | **Adachi Toshimasa streak** | **Lin Shuyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Adachi Toshimasa Vs Lin Shuyang** | **Adachi Toshimasa Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-02-11 | 2015年日台精鋭交流戦第2戦 | Adachi Toshimasa | Lin Shuyang | B+R | 6.5 | 1:0 | 1 | 0 |
 

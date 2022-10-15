@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-14 | 第24回農心辛ラーメン杯世界囲碁最強戦第4戦 | Fan Tingyu | Kang Dongyun | Lose | W+R | 6.5 | 3657 | -6 | 
 | 2022-10-13 | 第24回農心辛ラーメン杯世界囲碁最強戦第3戦  | Fan Tingyu | Hsu Chiayuan | Win | B+R | 6.5 | 3663 | -5 | 
 | 2022-10-12 | 第24回農心辛ラーメン杯世界囲碁最強戦第2戦 | Shin Minjun | Fan Tingyu | Win | W+R | 6.5 | 3668 | 5 | 
 | 2022-10-11 | 第24回農心辛ラーメン杯世界囲碁最強戦第1戦  | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3663 | 4 | 
@@ -17,14 +18,14 @@
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Lingyi | Win | B+1¾ | 7.5 | 3672 | 1 | 
 | 2022-09-15 | 第27回三星火災杯中国予選 | Peng Liyao | Fan Tingyu | Win | W+R | 6.5 | 3671 | 3 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Fan Tingyu | Lose | B+R | 7.5 | 3668 | 9 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Lose | W+R | 7.5 | 3659 | -13 | 
-| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Fan Tingyu | Lose | B+R | 7.5 | 3672 | -30 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fan Yin | Fan Tingyu | Win | W+R | 7.5 | 3702 | 44 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Ke | Win | B+R | 7.5 | 3658 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Fan Tingyu | Lose | B+R | 7.5 | 3658 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xu Jiayang | Win | B+R | 7.5 | 3658 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Fan Tingyu | Win | W+¼ | 7.5 | 3658 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Erhao | Win | B+R | 7.5 | 3654 | 19 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Lose | W+R | 7.5 | 3659 | -14 | 
+| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Fan Tingyu | Lose | B+R | 7.5 | 3673 | -29 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fan Yin | Fan Tingyu | Win | W+R | 7.5 | 3702 | 43 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Ke | Win | B+R | 7.5 | 3659 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Fan Tingyu | Lose | B+R | 7.5 | 3659 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xu Jiayang | Win | B+R | 7.5 | 3659 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Fan Tingyu | Win | W+¼ | 7.5 | 3659 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Erhao | Win | B+R | 7.5 | 3655 | 20 | 
 | 2022-05-27 | 第3回王中王囲棋争覇戦決勝 | Li Xuanhao | Fan Tingyu | Lose | B+R | 7.5 | 3635 | -10 | 
 | 2022-05-26 | 第3回王中王囲棋争覇戦準決勝 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3645 | 11 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Fan Tingyu | Ke Jie | Win | B+0.5 | 7.5 | 3634 | 14 | 
@@ -132,9 +133,9 @@
 | 2020-05-19 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Fan Tingyu | Xie Erhao | Lose | W+R | 7.5 | 3647 | -16 | 
 | 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Lose | B+5.5 | 6.5 | 3663 | -45 | 
 | 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Lose | B+¾ | 7.5 | 3708 | -6 | 
-| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | Win | W+¼ | 7.5 | 3714 | 4 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3710 | 14 | 
-| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3696 | missing |
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | Win | W+¼ | 7.5 | 3714 | 5 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3709 | 14 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3695 | missing |
 
 
 

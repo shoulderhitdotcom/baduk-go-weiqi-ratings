@@ -17,8 +17,8 @@
 | 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Fujisawa Rina | Nakamura Sumire | Lose | W+1.5 | 6.5 | 3145 | -11 | 
 | 2022-07-11 | 第47期棋聖戦Cリーグ |  | Fujisawa Rina | Lose | B+1.5 | 6.5 | 3156 | -50 | 
 | 2022-07-07 | 第78期本因坊戦予選 | Fujisawa Rina | Nakamura Shinya | Win | B+R | 6.5 | 3206 | 12 | 
-| 2022-06-27 | 第7回扇興杯女流最強戦2回戦  |  | Fujisawa Rina | Win | W+R | 6.5 | 3194 | -1 | 
-| 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3195 | 4 | 
+| 2022-06-27 | 第7回扇興杯女流最強戦2回戦  |  | Fujisawa Rina | Win | W+R | 6.5 | 3194 | 0 | 
+| 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3194 | 3 | 
 | 2022-06-20 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3191 | 9 | 
 | 2022-06-18 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 3182 | -39 | 
 | 2022-06-06 | 第7回扇興杯女流最強戦1回戦 | Fujisawa Rina | Kato Chie | Win | B+5.5 | 6.5 | 3221 | 85 | 
@@ -38,9 +38,9 @@
 | 2021-10-11 | 第25期ドコモ杯女流棋聖戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3179 | -8 | 
 | 2021-10-08 | 第40期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Hoshiai Shiho | Win | B+R | 6.5 | 3187 | 16 | 
 | 2021-09-28 | 第40期女流本因坊戦挑戦手合五番勝負第1局  | Hoshiai Shiho | Fujisawa Rina | Win | W+0.5 | 6.5 | 3171 | -6 | 
-| 2021-09-23 | 第60期十段戦予選  | Fujisawa Rina | Ichiriki Ryo | Win | B+R | 6.5 | 3177 | 41 | 
-| 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3136 | 32 | 
-| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Win | B+R | 6.5 | 3104 | -13 | 
+| 2021-09-23 | 第60期十段戦予選  | Fujisawa Rina | Ichiriki Ryo | Win | B+R | 6.5 | 3177 | 42 | 
+| 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3135 | 32 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Win | B+R | 6.5 | 3103 | -14 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Win | W+R | 6.5 | 3117 | 49 | 
 | 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Win | B+R | 6.5 | 3068 | 11 | 
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3057 | -5 | 
@@ -88,15 +88,15 @@
 | 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina | Win | W+0.5 | 6.5 | 3098 | -18 | 
 | 2020-07-16 | 第46期名人戦予選 | Fujisawa Rina | Yoda Norimoto | Lose | W+9.5 | 6.5 | 3116 | -8 | 
 | 2020-07-13 | 第39期女流本因坊戦3回戦  | Xie Yimin | Fujisawa Rina | Win | W+4.5 | 6.5 | 3124 | 0 | 
-| 2020-07-09 | 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+0.5 | 6.5 | 3124 | 8 | 
-| 2020-07-02 | 第45期新人王戦3回戦 | Fujisawa Rina |  | Win | B+1.5 | 6.5 | 3116 | 4 | 
-| 2020-06-29 | 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | Lose | W+R | 6.5 | 3112 | 7 | 
-| 2020-06-15 | 第45期新人王戦2回戦 | Fujisawa Rina | Abe Yoshiki | Win | B+R | 6.5 | 3105 | 3 | 
-| 2020-04-02 | 第39期女流本因坊戦2回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+1.5 | 6.5 | 3102 | 27 | 
+| 2020-07-09 | 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+0.5 | 6.5 | 3124 | 9 | 
+| 2020-07-02 | 第45期新人王戦3回戦 | Fujisawa Rina |  | Win | B+1.5 | 6.5 | 3115 | 4 | 
+| 2020-06-29 | 第59期十段戦予選 | Fujisawa Rina | Rin Kanketsu | Lose | W+R | 6.5 | 3111 | 6 | 
+| 2020-06-15 | 第45期新人王戦2回戦 | Fujisawa Rina | Abe Yoshiki | Win | B+R | 6.5 | 3105 | 4 | 
+| 2020-04-02 | 第39期女流本因坊戦2回戦 | Fujisawa Rina | Aoki Kikuyo | Win | B+1.5 | 6.5 | 3101 | 26 | 
 | 2020-02-27 | 第76期本因坊戦予選 | Ryu Shikun | Fujisawa Rina | Lose | B+R | 6.5 | 3075 | -12 | 
-| 2020-02-20 | 第45期新人王戦1回戦 | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3087 | 4 | 
-| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3083 | 0 | 
-| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3083 | -3 | 
+| 2020-02-20 | 第45期新人王戦1回戦 | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3087 | 5 | 
+| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3082 | 0 | 
+| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Fujisawa Rina |  | Win | B+R | 6.5 | 3082 | -4 | 
 | 2020-02-06 | 第76期本因坊戦予選 | Numadate Sakiya | Fujisawa Rina | Win | W+0.5 | 6.5 | 3086 | 71 | 
 | 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Fujisawa Rina | Xu Jingen | Lose | W+R | 6.5 | 3015 | missing |
 

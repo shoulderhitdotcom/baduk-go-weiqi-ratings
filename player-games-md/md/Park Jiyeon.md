@@ -10,16 +10,16 @@
 | 2022-10-15 | 2022Dr.G女子最高棋士決定戦リーグ | Park Jiyeon | Kim Kyeongeun | Win | B+R | 6.5 | 2964 | 21 | 
 | 2022-10-07 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Park Jiyeon | Win | W+R | 6.5 | 2943 | 73 | 
 | 2022-09-24 | 2022Dr.G女子最高棋士決定戦リーグ | Park Jiyeon | Kim Cheayoung | Win | B+R | 6.5 | 2870 | 8 | 
-| 2022-09-01 | 第8回韓国女子囲碁リーグ | Choi Jeong | Park Jiyeon | Lose | B+R | 6.5 | 2862 | -17 | 
-| 2022-08-20 | 第8回韓国女子囲碁リーグ | Cho Hyeyeon | Park Jiyeon | Lose | B+R | 6.5 | 2879 | -31 | 
+| 2022-09-01 | 第8回韓国女子囲碁リーグ | Choi Jeong | Park Jiyeon | Lose | B+R | 6.5 | 2862 | -16 | 
+| 2022-08-20 | 第8回韓国女子囲碁リーグ | Cho Hyeyeon | Park Jiyeon | Lose | B+R | 6.5 | 2878 | -32 | 
 | 2022-08-14 | 第8回韓国女子囲碁リーグ | Park Jiyeon |  | Win | B+R | 6.5 | 2910 | 22 | 
 | 2022-08-10 | 第27期女流国手戦1回戦 | Cho Seungah | Park Jiyeon | Lose | B+R | 6.5 | 2888 | 0 | 
 | 2022-08-04 | 第8回韓国女子囲碁リーグ | Oh Yujin | Park Jiyeon | Win | W+R | 6.5 | 2888 | -6 | 
 | 2022-07-23 | 第8回韓国女子囲碁リーグ | Lee Minjin | Park Jiyeon | Lose | B+R | 6.5 | 2894 | -14 | 
 | 2022-07-17 | 第8回韓国女子囲碁リーグ |  | Park Jiyeon | Lose | B+R | 6.5 | 2908 | 29 | 
 | 2022-07-09 | 第8回韓国女子囲碁リーグ |  | Park Jiyeon | Win | W+R | 6.5 | 2879 | 35 | 
-| 2022-07-01 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Win | B+2.5 | 6.5 | 2844 | -33 | 
-| 2022-06-23 | 第8回韓国女子囲碁リーグ | Kim Miri | Park Jiyeon | Lose | B+R | 6.5 | 2877 | 20 | 
+| 2022-07-01 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Win | B+2.5 | 6.5 | 2844 | -32 | 
+| 2022-06-23 | 第8回韓国女子囲碁リーグ | Kim Miri | Park Jiyeon | Lose | B+R | 6.5 | 2876 | 19 | 
 | 2022-06-19 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Oh Yujin | Lose | W+R | 6.5 | 2857 | 2 | 
 | 2022-06-11 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Kim Nokyeong | Win | B+R | 6.5 | 2855 | 28 | 
 | 2022-06-03 | 第8回韓国女子囲碁リーグ | Park Jiyeon | Cho Seungah | Lose | W+R | 6.5 | 2827 | 51 | 
@@ -55,15 +55,15 @@
 | 2021-08-04 | 2021女子最高棋士決定戦（韓国）予選 | Park Jiyeon | Lee Minjin | Lose | W+R | 6.5 | 2818 | -53 | 
 | 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Park Jiyeon | Win | W+R | 6.5 | 2871 | 1 | 
 | 2021-07-24 | 第7回韓国女子囲碁リーグ | Kim Nokyeong | Park Jiyeon | Win | W+5.5 | 6.5 | 2870 | 3 | 
-| 2021-07-16 | 第7回韓国女子囲碁リーグ | Park Jiyeon |  | Win | B+R | 6.5 | 2867 | 5 | 
-| 2021-07-09 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Lose | W+R | 6.5 | 2862 | -7 | 
+| 2021-07-16 | 第7回韓国女子囲碁リーグ | Park Jiyeon |  | Win | B+R | 6.5 | 2867 | 6 | 
+| 2021-07-09 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Lose | W+R | 6.5 | 2861 | -8 | 
 | 2021-07-01 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Win | B+1.5 | 6.5 | 2869 | 33 | 
 | 2021-06-27 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Park Taehee | Lose | W+3.5 | 6.5 | 2836 | -49 | 
 | 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Lose | B+R | 6.5 | 2885 | -31 | 
 | 2021-06-13 | 第7回韓国女子囲碁リーグ |  | Park Jiyeon | Win | W+R | 6.5 | 2916 | 11 | 
-| 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Win | B+R | 6.5 | 2905 | 28 | 
-| 2021-05-29 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Kyeongeun | Lose | W+R | 6.5 | 2877 | -31 | 
-| 2021-05-24 | 第4回呉清源杯韓国予選 | Park Jiyeon | Kim Dayoung | Lose | W+R | 7.5 | 2908 | -15 | 
+| 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Win | B+R | 6.5 | 2905 | 29 | 
+| 2021-05-29 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Kyeongeun | Lose | W+R | 6.5 | 2876 | -31 | 
+| 2021-05-24 | 第4回呉清源杯韓国予選 | Park Jiyeon | Kim Dayoung | Lose | W+R | 7.5 | 2907 | -16 | 
 | 2021-05-22 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Lose | W+R | 6.5 | 2923 | 140 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Park Jiyeon | Win | W+R | 7.5 | 2783 | 7 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Park Jiyeon | Kim Hyeoimin | Lose | W+R | 7.5 | 2776 | -8 | 
@@ -86,9 +86,9 @@
 | 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第2局 | Kim Eunji | Park Jiyeon | Win | W+R | 6.5 | 2739 | 46 | 
 | 2020-07-25 | 第6回韓国女子囲碁リーグ第10節第3試合第2局 | Kim Kyeongeun | Park Jiyeon | Win | W+0.5 | 6.5 | 2693 | 32 | 
 | 2020-07-19 | 第6回韓国女子囲碁リーグ第9節第4試合第2局 | Park Jiyeon | Cho Seungah | Lose | W+R | 6.5 | 2661 | -37 | 
-| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第2局 |  | Park Jiyeon | Lose | B+R | 6.5 | 2698 | -73 | 
-| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第1局 | Park Jiyeon |  | Win | B+R | 6.5 | 2771 | -64 | 
-| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第3局 | Oh Yujin | Park Jiyeon | Win | W+R | 6.5 | 2835 | 87 | 
+| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第2局 |  | Park Jiyeon | Lose | B+R | 6.5 | 2698 | -72 | 
+| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第1局 | Park Jiyeon |  | Win | B+R | 6.5 | 2770 | -64 | 
+| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第3局 | Oh Yujin | Park Jiyeon | Win | W+R | 6.5 | 2834 | 86 | 
 | 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第3局 | Park Jiyeon | Lee Youngjoo | Win | B+4.5 | 6.5 | 2748 | 90 | 
 | 2020-06-13 | 第6回韓国女子囲碁リーグ第4節第3試合第3局 | Kim Eunji | Park Jiyeon | Lose | B+R | 6.5 | 2658 | -74 | 
 | 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第2局 | Park Jiyeon | Kang Dajeong | Win | B+10.5 | 6.5 | 2732 | 1 | 

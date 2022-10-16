@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Oh Yujin** | **Li He Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-16 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第9戦 | Oh Yujin | Li He | W+R | 6.5 | 2:7 | 1 | 0 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Li He | Oh Yujin | W+R | 7.5 | 1:7 | 0 | 3 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li He | Oh Yujin | W+1¼ | 7.5 | 1:6 | 0 | 2 | 
 | 2019-06-10 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第10戦 | Oh Yujin | Li He | B+R | 7.5 | 1:5 | 0 | 1 | 

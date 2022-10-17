@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Kyuchul vs Seo Nungwuk** | **Oh Kyuchul streak** | **Seo Nungwuk streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Oh Kyuchul Vs Seo Nungwuk** | **Oh Kyuchul Streak** | **Seo Nungwuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-10-31 | 2019NHシニア囲碁リーグ第5節第3試合第3局 | Seo Nungwuk | Oh Kyuchul | B+12.5 | 6.5 | 0:4 | 0 | 4 | 
 | 2019-04-26 | 2019年1004島新安国際シニア囲碁大会韓国国内予選決勝 | Oh Kyuchul | Seo Nungwuk | W+R | 6.5 | 0:3 | 0 | 3 | 

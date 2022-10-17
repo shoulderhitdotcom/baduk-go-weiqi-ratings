@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Kwanwuk vs Oh Kyuchul** | **An Kwanwuk streak** | **Oh Kyuchul streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Oh Kyuchul** | **An Kwanwuk Streak** | **Oh Kyuchul Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Oh Kyuchul | W+2.5 | 6.5 | 1:3 | 0 | 3 | 
 | 2018-09-18 | 第3回韓国シニア囲碁リーグ第14節霊岩-富川 | An Kwanwuk | Oh Kyuchul | W+10.5 | 6.5 | 1:2 | 0 | 2 | 

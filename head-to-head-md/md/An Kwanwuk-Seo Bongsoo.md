@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Seo Bongsoo** | **An Kwanwuk Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | An Kwanwuk | W+10.5 | 6.5 | 4:4 | 3 | 0 | 
 | 2022-09-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | B+2.5 | 6.5 | 3:4 | 2 | 0 | 
 | 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | W+R | 6.5 | 2:4 | 1 | 0 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | W+0.5 | 6.5 | 1:4 | 0 | 3 | 

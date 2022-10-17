@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Ilhwan Vs Seo Nungwuk** | **Kim Ilhwan Streak** | **Seo Nungwuk Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | W+9.5 | 6.5 | 8:5 | 1 | 0 | 
 | 2022-09-15 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | W+4.5 | 6.5 | 7:5 | 0 | 1 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | W+17.5 | 6.5 | 7:4 | 1 | 0 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | W+28.5 | 6.5 | 6:4 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Xie Yimin** | **Murakawa Daisuke streak** | **Xie Yimin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Xie Yimin** | **Murakawa Daisuke Streak** | **Xie Yimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-04-14 | 第36期新人王戦2回戦 | Xie Yimin | Murakawa Daisuke | W+R | 6.5 | 1:0 | 1 | 0 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | An Kwanwuk | Lose | W+10.5 | 6.5 | 2844 | -25 | 
 | 2022-10-12 | 2022韓国シニア囲碁リーグ | Jimmy Cha | Seo Bongsoo | Win | W+3.5 | 6.5 | 2869 | 42 | 
 | 2022-10-04 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+0.5 | 6.5 | 2827 | -8 | 
 | 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Seo Bongsoo | Lose | B+R | 6.5 | 2835 | -9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | Win | W+9.5 | 6.5 | 2652 | 35 | 
 | 2022-10-12 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Kim Ilhwan | Lose | B+1.5 | 6.5 | 2617 | 0 | 
 | 2022-10-04 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Ilhwan | Win | W+R | 6.5 | 2617 | 17 | 
 | 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Seungjun | Lose | W+6.5 | 6.5 | 2600 | 25 | 
@@ -67,8 +68,8 @@
 | 2020-04-08 | 第8回河燦錫国手杯英才最強戦8強戦 | Kim Ilhwan | Moon Minjong | Win | B+R | 6.5 | 2516 | 19 | 
 | 2020-03-14 | 第8回河燦錫国手杯英才最強戦16強戦 | Kim Ilhwan | Han Woojin | Win | B+R | 6.5 | 2497 | 0 | 
 | 2020-03-12 | 第7回大舟杯プロシニア最強者戦8強戦 | Cho Hyeyeon | Kim Ilhwan | Lose | B+R | 6.5 | 2497 | 27 | 
-| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2470 | -53 | 
-| 2020-02-14 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2523 | missing |
+| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2470 | -52 | 
+| 2020-02-14 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2522 | missing |
 
 
 

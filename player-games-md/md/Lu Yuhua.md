@@ -7,30 +7,31 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-13 | 第16期棋王戦（台湾）予選 | Zhang Zhehao | Lu Yuhua | Win | W+R | 6.5 | 2750 | 4 | 
-| 2022-10-11 | 第18期国手戦（台湾） | Lu Yuhua | Lin Jiehan | Win | B+R | 6.5 | 2746 | 5 | 
-| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yuhua | Lose | B+R | 7.5 | 2741 | -7 | 
-| 2022-10-04 | 第10期中環碁聖戦 | Lu Yuhua | Lin Shimin | Lose | W+0.5 | 6.5 | 2748 | 7 | 
-| 2022-09-30 | 第10期中環碁聖戦 | Lin Yuxiang | Lu Yuhua | Win | W+R | 6.5 | 2741 | 21 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Lu Yuhua | Lin Shixun | Lose | W+R | 6.5 | 2781 | 32 | 
+| 2022-10-13 | 第16期棋王戦（台湾）予選 | Zhang Zhehao | Lu Yuhua | Win | W+R | 6.5 | 2749 | 4 | 
+| 2022-10-11 | 第18期国手戦（台湾） | Lu Yuhua | Lin Jiehan | Win | B+R | 6.5 | 2745 | 5 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yuhua | Lose | B+R | 7.5 | 2740 | -7 | 
+| 2022-10-04 | 第10期中環碁聖戦 | Lu Yuhua | Lin Shimin | Lose | W+0.5 | 6.5 | 2747 | 7 | 
+| 2022-09-30 | 第10期中環碁聖戦 | Lin Yuxiang | Lu Yuhua | Win | W+R | 6.5 | 2740 | 20 | 
 | 2022-09-08 | 第8回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yang Zixuan | Lose | W+R | 6.5 | 2720 | -26 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Lu Yuhua | Li Wei | Lose | W+R | 6.5 | 2746 | -4 | 
-| 2022-09-02 | 第8回健喬杯女子囲碁最強戦勝部決勝  | Lu Yuhua | Yang Zixuan | Lose | W+R | 6.5 | 2750 | -1 | 
-| 2022-08-16 | 2021中国女子囲碁乙級リーグ | Lu Yuhua |  | Win | B+R | 7.5 | 2751 | 15 | 
-| 2022-08-15 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Kim Dayoung | Lose | W+¼ | 7.5 | 2736 | -7 | 
-| 2022-08-14 | 2021中国女子囲碁乙級リーグ |  | Lu Yuhua | Win | W+R | 7.5 | 2743 | 19 | 
-| 2022-08-13 | 2021中国女子囲碁乙級リーグ  | Choi Jeong | Lu Yuhua | Lose | B+R | 7.5 | 2724 | -23 | 
-| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Lu Yuhua | Oh Jeonga | Lose | W+R | 7.5 | 2747 | -51 | 
-| 2022-08-10 | 2021中国女子囲碁乙級リーグ |  | Lu Yuhua | Lose | B+R | 7.5 | 2798 | 0 | 
-| 2022-08-09 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Cao Youyin | Lose | W+R | 7.5 | 2798 | 0 | 
-| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Wang Chenxing | Lu Yuhua | Lose | B+R | 7.5 | 2798 | -17 | 
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Li He | Lu Yuhua | Win | W+¼ | 7.5 | 2815 | 41 | 
-| 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Wang Yubo | Win | B+R | 7.5 | 2774 | 22 | 
+| 2022-09-02 | 第8回健喬杯女子囲碁最強戦勝部決勝  | Lu Yuhua | Yang Zixuan | Lose | W+R | 6.5 | 2750 | 0 | 
+| 2022-08-16 | 2021中国女子囲碁乙級リーグ | Lu Yuhua |  | Win | B+R | 7.5 | 2750 | 15 | 
+| 2022-08-15 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Kim Dayoung | Lose | W+¼ | 7.5 | 2735 | -7 | 
+| 2022-08-14 | 2021中国女子囲碁乙級リーグ |  | Lu Yuhua | Win | W+R | 7.5 | 2742 | 19 | 
+| 2022-08-13 | 2021中国女子囲碁乙級リーグ  | Choi Jeong | Lu Yuhua | Lose | B+R | 7.5 | 2723 | -23 | 
+| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Lu Yuhua | Oh Jeonga | Lose | W+R | 7.5 | 2746 | -51 | 
+| 2022-08-10 | 2021中国女子囲碁乙級リーグ |  | Lu Yuhua | Lose | B+R | 7.5 | 2797 | 0 | 
+| 2022-08-09 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Cao Youyin | Lose | W+R | 7.5 | 2797 | 0 | 
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Wang Chenxing | Lu Yuhua | Lose | B+R | 7.5 | 2797 | -17 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Li He | Lu Yuhua | Win | W+¼ | 7.5 | 2814 | 41 | 
+| 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Wang Yubo | Win | B+R | 7.5 | 2773 | 21 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Lu Yuhua | Chen Weiting | Lose | W+R | 6.5 | 2752 | -15 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2767 | 25 | 
-| 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2742 | 28 | 
-| 2022-06-13 | 2022新人王戦（台湾）予選 | Lu Yuhua |  | Lose | W+R | 7.5 | 2714 | -16 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Lose | B+R | 6.5 | 2730 | 0 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Lu Yuhua | Win | W+R | 6.5 | 2730 | 28 | 
+| 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2742 | 29 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 | Lu Yuhua |  | Lose | W+R | 7.5 | 2713 | -16 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Lose | B+R | 6.5 | 2729 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Lu Yuhua | Win | W+R | 6.5 | 2729 | 27 | 
 | 2022-05-18 | 第3期聯電杯プロ囲碁戦予選 | Lu Yuhua | Liu Yaowen | Lose | W+R | 6.5 | 2702 | -73 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Chen Weiting | Lu Yuhua | Lose | B+R | 6.5 | 2775 | -16 | 
 | 2022-04-13 | 第5回呉清源杯台湾予選 | Bai Xinhui | Lu Yuhua | Win | W+1¼ | 7.5 | 2791 | 8 | 
@@ -52,13 +53,13 @@
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lu Yuhua | Chen Qirui | Lose | W+R | 6.5 | 2728 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Bai Xinhui | Lu Yuhua | Win | W+R | 6.5 | 2728 | -17 | 
 | 2021-09-30 | 第9期中環碁聖戦 | Lu Yuhua | Jian Jingting | Lose | W+R | 6.5 | 2745 | -33 | 
-| 2021-09-22 | 第9期中環碁聖戦 | Lu Yuhua |  | Win | B+R | 6.5 | 2778 | 21 | 
-| 2021-09-14 | 2021環旭新人王戦予選 | Lu Yuhua |  | Lose | W+R | 7.5 | 2757 | -31 | 
-| 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2788 | -10 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2798 | 36 | 
-| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦  | Zhang Kaixin | Lu Yuhua | Win | W+R | 6.5 | 2762 | -28 | 
-| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Ueno Asami | Lose | W+¼ | 7.5 | 2790 | 29 | 
-| 2021-05-28 | 第4回呉清源杯台湾予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 7.5 | 2761 | -3 | 
+| 2021-09-22 | 第9期中環碁聖戦 | Lu Yuhua |  | Win | B+R | 6.5 | 2778 | 22 | 
+| 2021-09-14 | 2021環旭新人王戦予選 | Lu Yuhua |  | Lose | W+R | 7.5 | 2756 | -31 | 
+| 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2787 | -10 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2797 | 36 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦  | Zhang Kaixin | Lu Yuhua | Win | W+R | 6.5 | 2761 | -28 | 
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Ueno Asami | Lose | W+¼ | 7.5 | 2789 | 29 | 
+| 2021-05-28 | 第4回呉清源杯台湾予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 7.5 | 2760 | -4 | 
 | 2021-05-20 | 第4回呉清源杯台湾予選 | Lu Yuhua | Yu Lijun | Win | B+R | 7.5 | 2764 | 34 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lu Yuhua | Cai Chengwei | Lose | W+1.5 | 6.5 | 2730 | -2 | 
 | 2021-05-12 | 第4回呉清源杯台湾予選 | Liu Yifang | Lu Yuhua | Win | W+R | 6.5 | 2732 | 62 | 
@@ -76,19 +77,19 @@
 | 2021-01-08 | 第20期天元戦（台湾）予選 |  | Lu Yuhua | Win | W+R | 6.5 | 2571 | -36 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Lu Yuhua | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2607 | 17 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Lin Shixun | Lose | W+2.5 | 6.5 | 2590 | 8 | 
-| 2020-09-14 | 第13期棋王戦（台湾）予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 6.5 | 2582 | 24 | 
-| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao | Lu Yuhua | Lose | B+R | 6.5 | 2558 | 0 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Yang Zixuan | Lu Yuhua | Win | W+R | 6.5 | 2582 | 25 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao | Lu Yuhua | Lose | B+R | 6.5 | 2557 | -1 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Lu Yuhua | Cai Chengwei | Lose | W+4.5 | 6.5 | 2558 | -65 | 
-| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2623 | 49 | 
-| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2574 | 3 | 
+| 2020-08-21 | 第6回健喬杯女子囲碁最強戦決勝  | Lu Yuhua | Yu Lijun | Lose | W+R | 6.5 | 2623 | 50 | 
+| 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Lu Yuhua | Su Shengfang | Win | B+R | 6.5 | 2573 | 2 | 
 | 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Lu Yuhua | Lin Jiehan | Lose | W+R | 7.5 | 2571 | 45 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lu Yuhua |  | Lose | W+3.5 | 6.5 | 2526 | -72 | 
 | 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lu Yuhua | Jian Jingting | Lose | W+R | 6.5 | 2598 | 170 | 
 | 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 | Lu Yuhua | Lu Yiquan | Lose | W+R | 6.5 | 2428 | -49 | 
-| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2477 | -5 | 
-| 2020-02-04 | 第19期天元戦（台湾）予選 | Zeng Pinjie | Lu Yuhua | Win | W+R | 6.5 | 2482 | -10 | 
-| 2020-01-14 | 第19期天元戦（台湾）予選 | Ding Shaojie | Lu Yuhua | Win | W+R | 6.5 | 2492 | 46 | 
-| 2020-01-13 | 第19期天元戦（台湾）予選 |  | Lu Yuhua | Win | W+2.5 | 6.5 | 2446 | missing |
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2477 | -4 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Zeng Pinjie | Lu Yuhua | Win | W+R | 6.5 | 2481 | -10 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Ding Shaojie | Lu Yuhua | Win | W+R | 6.5 | 2491 | 46 | 
+| 2020-01-13 | 第19期天元戦（台湾）予選 |  | Lu Yuhua | Win | W+2.5 | 6.5 | 2445 | missing |
 
 
 

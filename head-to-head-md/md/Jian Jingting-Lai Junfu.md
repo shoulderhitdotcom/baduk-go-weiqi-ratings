@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Lai Junfu** | **Jian Jingting Streak** | **Lai Junfu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Jian Jingting | Lai Junfu | W+R | 7.5 | 4:5 | 0 | 2 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | B+R | 6.5 | 4:4 | 0 | 1 | 
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | B+R | 6.5 | 4:3 | 1 | 0 | 
 | 2020-04-21 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | W+4.5 | 6.5 | 3:3 | 0 | 2 | 

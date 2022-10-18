@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shixun | Wang Yuanjun | Win | B+R | 7.5 | 3068 | 28 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lu Yuhua | Lin Shixun | Win | W+R | 6.5 | 3040 | 10 | 
 | 2022-10-13 | 第16期棋王戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 3030 | -5 | 
 | 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 |  | Lin Shixun | Win | W+R | 7.5 | 3035 | 44 | 

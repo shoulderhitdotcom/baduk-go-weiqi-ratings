@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-19 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第12戦  | Lu Minquan | Ueno Asami | Win | W+R | 6.5 | 3162 | 16 | 
 | 2022-10-18 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第11戦  | Choi Jeong | Ueno Asami | Win | W+R | 6.5 | 3146 | 23 | 
 | 2022-10-17 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第10戦  | Ueno Asami | Li He | Win | B+R | 6.5 | 3123 | 12 | 
 | 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3111 | 2 | 

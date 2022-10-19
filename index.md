@@ -49,10 +49,10 @@ The ratings are based on 4618 games from 2021-10-19 to 2022-10-18.
 | 23 | [Kang Dongyun](./player-games-md/md/Kang Dongyun.md) | 3553 | 76 | KOR | Male | 33.8 | 姜東潤 | 
 | 24 | [Wang Zejin](./player-games-md/md/Wang Zejin.md) | 3549 | 17 | CHN | Male | missing | 王沢錦 | 
 | 25 | [Xie Ke](./player-games-md/md/Xie Ke.md) | 3540 | 41 | CHN | Male | 22.8 | 謝科 | 
-| 26 | [Lian Xiao](./player-games-md/md/Lian Xiao.md) | 3531 | 42 | CHN | Male | 28.5 | 連笑 | 
+| 26 | [Lian Xiao](./player-games-md/md/Lian Xiao.md) | 3531 | 42 | CHN | Male | 28.6 | 連笑 | 
 | 27 | [Lee Donghoon](./player-games-md/md/Lee Donghoon.md) | 3530 | 39 | KOR | Male | 24.7 | 李東勲 | 
 | 28 | [Park Yeonghun](./player-games-md/md/Park Yeonghun.md) | 3528 | 31 | KOR | Male | 37.6 | 朴永訓 | 
-| 29 | [Kim Myounghoon](./player-games-md/md/Kim Myounghoon.md) | 3517 | 55 | KOR | Male | 25.5 | 金明訓 | 
+| 29 | [Kim Myounghoon](./player-games-md/md/Kim Myounghoon.md) | 3517 | 55 | KOR | Male | 25.6 | 金明訓 | 
 | 30 | [Xu Jiayang](./player-games-md/md/Xu Jiayang.md) | 3516 | 33 | CHN | Male | missing | 許嘉陽 | 
 | 31 | [Fan Yin](./player-games-md/md/Fan Yin.md) | 3516 | 27 | CHN | Male | missing | 范胤 | 
 | 32 | [Jiang Weijie](./player-games-md/md/Jiang Weijie.md) | 3515 | 31 | CHN | Male | 31.0 | 江維傑 | 
@@ -117,7 +117,7 @@ The ratings are based on 4618 games from 2021-10-19 to 2022-10-18.
 | 91 | [Choi Jaeyoung](./player-games-md/md/Choi Jaeyoung.md) | 3278 | 22 | KOR | Male | 25.5 | 崔宰栄 | 
 | 92 | [Hong Seongji](./player-games-md/md/Hong Seongji.md) | 3277 | 25 | KOR | Male | 35.2 | 洪性志 | 
 | 93 | [Sada Atsushi](./player-games-md/md/Sada Atsushi.md) | 3274 | 41 | JPN | Male | 26.8 | 佐田篤史 | 
-| 94 | [Heo Youngrak](./player-games-md/md/Heo Youngrak.md) | 3271 | 18 | KOR | Male | 26.6 | 許栄珞 | 
+| 94 | [Heo Youngrak](./player-games-md/md/Heo Youngrak.md) | 3271 | 18 | KOR | Male | 26.7 | 許栄珞 | 
 | 95 | [Sakai Yuki](./player-games-md/md/Sakai Yuki.md) | 3271 | 13 | missing | missing | missing | 酒井佑規 | 
 | 96 | [Cho Hanseung](./player-games-md/md/Cho Hanseung.md) | 3254 | 45 | KOR | Male | 39.9 | 趙漢乗 | 
 | 97 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3252 | 87 | KOR | Female | 26.0 | 崔精 | 
@@ -453,7 +453,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Ryu Minhyung | 215 | 40 | 柳珉瀅 | 
 | Shen Zaiyi | 212 | 17 | 沈載益 | 
 | Han Seungjoo | 194 | 41 | 韓昇周 | 
-| Fu Jianheng | 182 | 20 | 傅健恒 | 
+| Fu Jianheng | 183 | 20 | 傅健恒 | 
 | Kim Jinhyu | 177 | 24 | 金眞輝 | 
 | Lee Yeongkyu | 174 | 24 | 李映九 | 
 | Kim Seongjae | 170 | 18 | 金昇宰 | 
@@ -464,7 +464,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Fan Tingyu | 133 | 53 | 范廷鈺 | 
 | Wang Zejin | 130 | 19 | 王沢錦 | 
 | Tuo Jiaxi | 125 | 40 | 柁嘉熹 | 
-| Park Jinsol | 124 | 28 | 朴進率 | 
+| Park Jinsol | 125 | 28 | 朴進率 | 
 | Yu Zhengqi | 115 | 43 | 余正麒 | 
 | Wang Xinghao | 113 | 41 | 王星昊 | 
 | Hong Seongji | 110 | 26 | 洪性志 | 
@@ -477,7 +477,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Hsu Chiayuan | 73 | 40 | 許家元 | 
 | Kang Seungmin | 70 | 44 | 姜昇旼 | 
 | Fan Yin | 69 | 27 | 范胤 | 
-| Chen Zijian | 63 | 15 | 陳梓健 | 
+| Chen Zijian | 64 | 15 | 陳梓健 | 
 | Hong Mujin | 62 | 24 | 洪茂鎭 | 
 | Li Weiqing | 59 | 30 | 李維清 | 
 | Zhao Chenyu | 35 | 44 | 趙晨宇 | 
@@ -518,12 +518,12 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Choi Jaeyoung | -88 | 22 | 崔宰栄 | 
 | Li Qincheng | -99 | 39 | 李欽誠 | 
 | Jiang Qirun | -101 | 21 | 蒋其潤 | 
-| He Yuhan | -103 | 15 | 何語涵 | 
+| He Yuhan | -102 | 15 | 何語涵 | 
 | Ding Hao | -104 | 47 | 丁浩 | 
 | Tao Xinran | -106 | 25 | 陶欣然 | 
 | Cho Hanseung | -111 | 46 | 趙漢乗 | 
 | Lee Jihyun | -116 | 48 | 李志賢 | 
-| Byun Sangil | -120 | 85 | 卞相壹 | 
+| Byun Sangil | -119 | 85 | 卞相壹 | 
 | Xu Jiayang | -124 | 33 | 許嘉陽 | 
 | Park Junghwan | -124 | 96 | 朴廷桓 | 
 | Chen Haoxin | -125 | 23 | 陳豪鑫 | 
@@ -533,8 +533,8 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Lee Changseok | -154 | 57 | 李昌錫 | 
 | Chen Yunong | -159 | 17 | 陳玉儂 | 
 | Gu Zihao | -161 | 50 | 辜梓豪 | 
-| Yi Lingtao | -170 | 26 | 伊淩濤 | 
-| Liao Yuanhe | -171 | 34 | 廖元赫 | 
+| Yi Lingtao | -169 | 26 | 伊淩濤 | 
+| Liao Yuanhe | -170 | 34 | 廖元赫 | 
 | Xia Chenkun | -242 | 21 | 夏晨琨 | 
 | Jiang Weijie | -251 | 31 | 江維傑 | 
 | Weon Seongjin | -251 | 79 | 元晟溱 |

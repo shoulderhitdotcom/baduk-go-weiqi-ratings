@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-20 | 第26期女流棋聖戦1回戦 | Akane Tatsumi | Mukai Chiaki | Lose | W+R | 6.5 | 1810 | 0 | 
 | 2022-05-16 | 第41期女流本因坊戦1回戦 | Akane Tatsumi | Okuda Aya | Lose | W+R | 6.5 | 1810 | 0 | 
 | 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Akane Tatsumi | Suzuki Ayumi | Lose | W+R | 6.5 | 1810 | 0 | 
 | 2022-03-24 | 第41期女流本因坊戦予選 |  | Akane Tatsumi | Win | W+R | 6.5 | 1810 | 0 | 

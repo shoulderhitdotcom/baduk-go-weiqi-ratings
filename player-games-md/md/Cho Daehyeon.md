@@ -16,8 +16,8 @@
 | 2022-09-20 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongmyeon | Win | B+10.5 | 6.5 | 2365 | 24 | 
 | 2022-09-12 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kang Hun | Win | B+9.5 | 6.5 | 2341 | 43 | 
 | 2022-08-31 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chuljung | Lose | W+4.5 | 6.5 | 2298 | -135 | 
-| 2022-08-15 | 2022韓国シニア囲碁リーグ | Jeong Suhyeon | Cho Daehyeon | Lose | B+7.5 | 6.5 | 2433 | 132 | 
-| 2021-11-24 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongyeop | Win | B+3.5 | 6.5 | 2301 | 125 | 
+| 2022-08-15 | 2022韓国シニア囲碁リーグ | Jeong Suhyeon | Cho Daehyeon | Lose | B+7.5 | 6.5 | 2433 | 131 | 
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongyeop | Win | B+3.5 | 6.5 | 2302 | 126 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Lose | B+R | 6.5 | 2176 | 91 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Win | B+12.5 | 6.5 | 2085 | -48 | 
 | 2021-10-28 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chongsu | Lose | W+R | 6.5 | 2133 | 63 | 

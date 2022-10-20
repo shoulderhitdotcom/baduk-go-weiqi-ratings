@@ -17,9 +17,9 @@
 | 2022-09-12 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Dongyeop | Win | B+5.5 | 6.5 | 2302 | 137 | 
 | 2022-09-05 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Park Seungmun | Lose | W+0.5 | 6.5 | 2165 | -37 | 
 | 2022-09-01 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Chongsu | Lose | W+2.5 | 6.5 | 2202 | 23 | 
-| 2022-08-18 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Chang Suyeong | Lose | B+R | 6.5 | 2179 | -47 | 
-| 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | An Kwanwuk | Chang Suyeong | Lose | B+R | 6.5 | 2226 | 4 | 
-| 2021-11-23 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | Lose | W+6.5 | 6.5 | 2222 | 63 | 
+| 2022-08-18 | 2022韓国シニア囲碁リーグ | Jeong Daesang | Chang Suyeong | Lose | B+R | 6.5 | 2179 | -48 | 
+| 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | An Kwanwuk | Chang Suyeong | Lose | B+R | 6.5 | 2227 | 4 | 
+| 2021-11-23 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | Lose | W+6.5 | 6.5 | 2223 | 64 | 
 | 2021-11-16 | 2021韓国シニア囲碁リーグ |  | Chang Suyeong | Win | W+17.5 | 6.5 | 2159 | -4 | 
 | 2021-11-02 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Chang Suyeong | Lose | B+R | 6.5 | 2163 | 4 | 
 | 2021-10-26 | 2021韓国シニア囲碁リーグ | Paek Seongho | Chang Suyeong | Win | W+14.5 | 6.5 | 2159 | -1 | 

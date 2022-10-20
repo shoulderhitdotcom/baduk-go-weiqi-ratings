@@ -26,11 +26,11 @@
 | 2022-03-13 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Kim Soojin | Choi Kyubyeong | Win | W+R | 6.5 | 2699 | -12 | 
 | 2022-03-12 | 2022シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Kyubyeong | Kim Cheayoung | Lose | W+R | 6.5 | 2711 | 26 | 
 | 2022-02-18 | 第9回大舟杯プロシニア最強者戦1回戦 | Lee Youngjoo | Choi Kyubyeong | Win | W+0.5 | 6.5 | 2685 | 34 | 
-| 2022-01-19 | 第9回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Kim Hyeoimin | Lose | W+R | 6.5 | 2651 | -22 | 
-| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Choi Kyubyeong | Nie Weiping | Lose | W+0.5 | 6.5 | 2673 | 1 | 
-| 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+7.5 | 6.5 | 2672 | 11 | 
-| 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+11.5 | 6.5 | 2661 | 15 | 
-| 2021-11-23 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Choi Kyubyeong | Lose | B+0.5 | 6.5 | 2646 | -8 | 
+| 2022-01-19 | 第9回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Kim Hyeoimin | Lose | W+R | 6.5 | 2651 | -23 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Choi Kyubyeong | Nie Weiping | Lose | W+0.5 | 6.5 | 2674 | 1 | 
+| 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+7.5 | 6.5 | 2673 | 11 | 
+| 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+11.5 | 6.5 | 2662 | 15 | 
+| 2021-11-23 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Choi Kyubyeong | Lose | B+0.5 | 6.5 | 2647 | -7 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Park Seungmun | Lose | W+1.5 | 6.5 | 2654 | -5 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Choi Kyubyeong | Win | W+0.5 | 6.5 | 2659 | -53 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Choi Kyubyeong | Win | W+R | 6.5 | 2712 | 25 | 

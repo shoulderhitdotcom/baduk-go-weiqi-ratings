@@ -17,8 +17,8 @@
 | 2022-09-12 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Kim Dongyeop | Lose | B+5.5 | 6.5 | 2417 | -55 | 
 | 2022-09-08 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Kim Dongyeop | Win | W+4.5 | 6.5 | 2472 | 162 | 
 | 2022-08-31 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Dongyeop | Lose | B+9.5 | 6.5 | 2310 | -139 | 
-| 2022-08-15 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | Seo Nungwuk | Win | B+16.5 | 6.5 | 2449 | 15 | 
-| 2021-11-24 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongyeop | Lose | B+3.5 | 6.5 | 2434 | 53 | 
+| 2022-08-15 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | Seo Nungwuk | Win | B+16.5 | 6.5 | 2449 | 14 | 
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongyeop | Lose | B+3.5 | 6.5 | 2435 | 54 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Choi Kyubyeong | Lose | W+0.5 | 6.5 | 2381 | -53 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Dongyeop |  | Win | B+5.5 | 6.5 | 2434 | -78 | 
 | 2021-10-18 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Kim Dongmyeon | Win | B+5.5 | 6.5 | 2512 | -25 | 

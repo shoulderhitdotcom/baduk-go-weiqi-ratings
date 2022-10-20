@@ -12,16 +12,16 @@
 | 2022-08-25 | 第48期碁聖戦予選 | Watanabe Kouki | Hong Seokui | Win | W+R | 6.5 | 3029 | -88 | 
 | 2022-07-11 | 第47期棋聖戦Aリーグ | Hong Seokui | Yamashita Keigo | Lose | W+4.5 | 6.5 | 3117 | -78 | 
 | 2022-06-22 | 第48期碁聖戦予選 | Hong Seokui | Yamazaki Yoshihiro | Win | B+R | 6.5 | 3195 | 23 | 
-| 2022-06-16 | 第61期十段戦予選 | Hong Seokui |  | Win | B+2.5 | 6.5 | 3172 | 79 | 
-| 2022-05-05 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Hong Seokui | Lose | B+R | 6.5 | 3093 | 11 | 
-| 2022-04-28 | 第47期棋聖戦Aリーグ | So Yokoku | Hong Seokui | Lose | B+R | 6.5 | 3082 | -12 | 
-| 2022-03-16 | 第61期十段戦予選 |  | Hong Seokui | Win | W+2.5 | 6.5 | 3094 | 20 | 
+| 2022-06-16 | 第61期十段戦予選 | Hong Seokui |  | Win | B+2.5 | 6.5 | 3172 | 78 | 
+| 2022-05-05 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Hong Seokui | Lose | B+R | 6.5 | 3094 | 12 | 
+| 2022-04-28 | 第47期棋聖戦Aリーグ | So Yokoku | Hong Seokui | Lose | B+R | 6.5 | 3082 | -13 | 
+| 2022-03-16 | 第61期十段戦予選 |  | Hong Seokui | Win | W+2.5 | 6.5 | 3095 | 21 | 
 | 2022-03-03 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Hong Seokui | Lose | B+1.5 | 6.5 | 3074 | 12 | 
 | 2022-02-17 | 第47期棋聖戦Aリーグ | Hong Seokui | Shida Tatsuya | Lose | W+R | 6.5 | 3062 | -48 | 
 | 2022-02-09 | 第70期王座戦予選 | Hong Seokui | Sada Atsushi | Lose | W+R | 6.5 | 3110 | -40 | 
-| 2022-01-27 | 第66期関西棋院第一位決定戦2回戦 | Murakawa Daisuke | Hong Seokui | Lose | B+R | 6.5 | 3150 | 121 | 
-| 2021-12-22 | 第48期天元戦予選 | Hong Seokui | Taniguchi Tooru | Win | B+2.5 | 6.5 | 3029 | -80 | 
-| 2021-12-02 | 第70期王座戦予選 | Watanabe Yuu | Hong Seokui | Win | W+5.5 | 6.5 | 3109 | 65 | 
+| 2022-01-27 | 第66期関西棋院第一位決定戦2回戦 | Murakawa Daisuke | Hong Seokui | Lose | B+R | 6.5 | 3150 | 120 | 
+| 2021-12-22 | 第48期天元戦予選 | Hong Seokui | Taniguchi Tooru | Win | B+2.5 | 6.5 | 3030 | -80 | 
+| 2021-12-02 | 第70期王座戦予選 | Watanabe Yuu | Hong Seokui | Win | W+5.5 | 6.5 | 3110 | 66 | 
 | 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Hong Seokui | Yata Naoki | Win | B+R | 6.5 | 3044 | -2 | 
 | 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Win | B+R | 6.5 | 3046 | 223 | 
 | 2021-09-09 | 第46期棋聖戦Bリーグ | Hong Seokui | Rin Kanketsu | Win | B+R | 6.5 | 2823 | -136 | 

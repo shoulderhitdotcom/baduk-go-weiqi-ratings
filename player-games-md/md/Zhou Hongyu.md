@@ -33,15 +33,15 @@
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Win | W+6.5 | 6.5 | 3220 | 6 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3214 | 11 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Zhan Ying | Win | B+R | 7.5 | 3203 | 3 | 
-| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3200 | 10 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3190 | 11 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3179 | -4 | 
-| 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Zhou Hongyu |  | Win | B+1¾ | 7.5 | 3183 | -9 | 
-| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3192 | -10 | 
-| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3202 | 17 | 
-| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Li Xinchen | Zhou Hongyu | Win | W+R | 7.5 | 3185 | 21 | 
-| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Zhou Hongyu | Hu Zihao | Lose | W+¼ | 7.5 | 3164 | -21 | 
-| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chuxuan | Zhou Hongyu | Win | W+R | 7.5 | 3185 | -20 | 
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3200 | 9 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3191 | 11 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3180 | -4 | 
+| 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Zhou Hongyu |  | Win | B+1¾ | 7.5 | 3184 | -8 | 
+| 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3192 | -11 | 
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3203 | 17 | 
+| 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Li Xinchen | Zhou Hongyu | Win | W+R | 7.5 | 3186 | 21 | 
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Zhou Hongyu | Hu Zihao | Lose | W+¼ | 7.5 | 3165 | -21 | 
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chuxuan | Zhou Hongyu | Win | W+R | 7.5 | 3186 | -19 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhou Hongyu | Win | W+R | 7.5 | 3205 | 3 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Huang Ziping | Win | B+R | 7.5 | 3202 | 2 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Yi | Win | B+R | 7.5 | 3200 | -3 | 

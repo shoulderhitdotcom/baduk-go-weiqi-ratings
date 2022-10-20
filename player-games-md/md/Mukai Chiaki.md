@@ -14,21 +14,21 @@
 | 2022-02-23 | 第33期女流名人戦リーグ | Ueno Asami | Mukai Chiaki | Lose | B+7.5 | 6.5 | 2710 | -64 | 
 | 2022-02-21 | 第41期女流本因坊戦予選 |  | Mukai Chiaki | Lose | B+R | 6.5 | 2774 | -62 | 
 | 2022-02-14 | 第33期女流名人戦リーグ | Xie Yimin | Mukai Chiaki | Lose | B+R | 6.5 | 2836 | 28 | 
-| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Win | B+R | 6.5 | 2808 | 112 | 
-| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2696 | 21 | 
+| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Win | B+R | 6.5 | 2808 | 111 | 
+| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2697 | 22 | 
 | 2021-11-08 | 第25期女流棋聖戦2回戦 | Xie Yimin | Mukai Chiaki | Win | W+2.5 | 6.5 | 2675 | 102 | 
 | 2021-10-14 | 第25期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Win | B+R | 6.5 | 2573 | 38 | 
 | 2021-06-17 | 第40期女流本因坊戦3回戦 | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2535 | 45 | 
 | 2021-05-20 | 第40期女流本因坊戦2回戦 | Yoshida Mika | Mukai Chiaki | Win | W+R | 6.5 | 2490 | 79 | 
 | 2021-04-19 | 第46期棋聖戦予選 | Ishida Yoshio | Mukai Chiaki | Lose | B+R | 6.5 | 2411 | 11 | 
-| 2021-04-05 | 第77期本因坊戦予選 | Mukai Chiaki | Kobayashi Koichi | Lose | W+R | 6.5 | 2400 | -77 | 
-| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦三位決定戦  | Ueno Asami | Mukai Chiaki | Lose | B+R | 6.5 | 2477 | -2 | 
-| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | Lose | B+R | 6.5 | 2479 | 1 | 
-| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Mukai Chiaki | Yu Lijun | Win | B+R | 6.5 | 2478 | -9 | 
+| 2021-04-05 | 第77期本因坊戦予選 | Mukai Chiaki | Kobayashi Koichi | Lose | W+R | 6.5 | 2400 | -78 | 
+| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦三位決定戦  | Ueno Asami | Mukai Chiaki | Lose | B+R | 6.5 | 2478 | -2 | 
+| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | Lose | B+R | 6.5 | 2480 | 1 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Mukai Chiaki | Yu Lijun | Win | B+R | 6.5 | 2479 | -8 | 
 | 2021-03-01 | 第32期博多・カマチ杯女流名人戦リーグ | Xie Yimin | Mukai Chiaki | Lose | B+0.5 | 6.5 | 2487 | -58 | 
 | 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ | Kato Chie | Mukai Chiaki | Win | W+R | 6.5 | 2545 | -10 | 
-| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Mukai Chiaki | Ueno Asami | Lose | W+R | 6.5 | 2555 | -5 | 
-| 2021-02-04 | 第32期博多・カマチ杯女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2560 | 9 | 
+| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Mukai Chiaki | Ueno Asami | Lose | W+R | 6.5 | 2555 | -6 | 
+| 2021-02-04 | 第32期博多・カマチ杯女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2561 | 10 | 
 | 2021-01-28 | 第69期王座戦予選 | Onishi Ryuhei | Mukai Chiaki | Lose | B+R | 6.5 | 2551 | -22 | 
 | 2021-01-21 | 第32期博多・カマチ杯女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Lose | W+3.5 | 6.5 | 2573 | -173 | 
 | 2020-12-17 | 第69期王座戦予選 | Mukai Chiaki | Ryu Shikun | Win | B+R | 6.5 | 2746 | 6 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mukai Chiaki vs Nakamura Sumire** | **Mukai Chiaki streak** | **Nakamura Sumire streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mukai Chiaki Vs Nakamura Sumire** | **Mukai Chiaki Streak** | **Nakamura Sumire Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Mukai Chiaki | B+0.5 | 6.5 | 0:1 | 0 | 1 |
 

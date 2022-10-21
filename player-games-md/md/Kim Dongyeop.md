@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Kim JongJoon | Kim Dongyeop | Lose | B+13.5 | 6.5 | 2610 | 1 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | Lose | W+3.5 | 6.5 | 2609 | 9 | 
 | 2022-10-10 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Kim Dongyeop | Lose | B+20.5 | 6.5 | 2600 | 74 | 
 | 2022-10-04 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kim Dongyeop | Win | W+R | 6.5 | 2526 | 31 | 

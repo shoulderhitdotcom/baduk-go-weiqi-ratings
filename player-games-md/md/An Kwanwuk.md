@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | Lose | B+1.5 | 6.5 | 2829 | 38 | 
 | 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | An Kwanwuk | Win | W+10.5 | 6.5 | 2791 | 26 | 
 | 2022-10-11 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Dongmyeon | Lose | W+R | 6.5 | 2765 | 5 | 
 | 2022-10-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | An Kwanwuk | Win | W+4.5 | 6.5 | 2760 | 9 | 
@@ -27,8 +28,8 @@
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Kim JongJoon | Win | B+R | 6.5 | 2593 | -3 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | Win | B+15.5 | 6.5 | 2596 | 85 | 
 | 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | Win | W+R | 6.5 | 2511 | -2 | 
-| 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | An Kwanwuk | Chang Suyeong | Win | B+R | 6.5 | 2513 | 90 | 
-| 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Lose | W+R | 6.5 | 2423 | 63 | 
+| 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | An Kwanwuk | Chang Suyeong | Win | B+R | 6.5 | 2513 | 91 | 
+| 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Lose | W+R | 6.5 | 2422 | 62 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Win | B+R | 6.5 | 2360 | -47 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jeong Daesang | An Kwanwuk | Lose | B+R | 6.5 | 2407 | -78 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Lose | W+0.5 | 6.5 | 2485 | 17 | 
@@ -45,11 +46,11 @@
 | 2020-11-12 | 2020NHシニア囲碁リーグ優勝決定戦第2戦第3局 | Kim Kihun | An Kwanwuk | Lose | B+6.5 | 6.5 | 2220 | -29 | 
 | 2020-11-10 | 2020NHシニア囲碁リーグ優勝決定戦第1戦第2局 | Kim Kihun | An Kwanwuk | Lose | B+2.5 | 6.5 | 2249 | 73 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第2局 | An Kwanwuk | Choi Kyubyeong | Lose | W+1.5 | 6.5 | 2176 | -11 | 
-| 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第1局 | An Kwanwuk | Kim JongJoon | Win | B+R | 6.5 | 2187 | -72 | 
-| 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第1局 | Park Seungmun | An Kwanwuk | Lose | B+R | 6.5 | 2259 | -26 | 
-| 2020-10-06 | 2020NHシニア囲碁リーグ第11節第2試合第3局 | Chang Suyeong | An Kwanwuk | Win | W+R | 6.5 | 2285 | 65 | 
-| 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第3局 | An Kwanwuk | Kim Soojang | Lose | W+R | 6.5 | 2220 | 15 | 
-| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第2局 | An Kwanwuk | Kim Chongsu | Lose | W+R | 6.5 | 2205 | 4 | 
+| 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第1局 | An Kwanwuk | Kim JongJoon | Win | B+R | 6.5 | 2187 | -71 | 
+| 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第1局 | Park Seungmun | An Kwanwuk | Lose | B+R | 6.5 | 2258 | -26 | 
+| 2020-10-06 | 2020NHシニア囲碁リーグ第11節第2試合第3局 | Chang Suyeong | An Kwanwuk | Win | W+R | 6.5 | 2284 | 65 | 
+| 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第3局 | An Kwanwuk | Kim Soojang | Lose | W+R | 6.5 | 2219 | 15 | 
+| 2020-09-14 | 2020NHシニア囲碁リーグ第9節第1試合第2局 | An Kwanwuk | Kim Chongsu | Lose | W+R | 6.5 | 2204 | 3 | 
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第1局 | Kim Joonyoung | An Kwanwuk | Win | W+1.5 | 6.5 | 2201 | -11 | 
 | 2020-08-24 | 2020NHシニア囲碁リーグ第7節第1試合第2局 | An Kwanwuk | Paek Seongho | Lose | W+4.5 | 6.5 | 2212 | -33 | 
 | 2020-08-18 | 第14回GGオークション杯女流対シニア連勝対抗戦第6局 | An Kwanwuk | Park Jiyeon | Lose | W+2.5 | 6.5 | 2245 | -6 | 

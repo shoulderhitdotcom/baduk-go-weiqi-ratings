@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ |  | Cho Daehyeon | Lose | B+T | 6.5 | 2702 | 73 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Cho Daehyeon | Lose | B+R | 6.5 | 2629 | 77 | 
 | 2022-10-10 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chanwu | Lose | W+R | 6.5 | 2552 | 15 | 
 | 2022-10-04 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Ilhwan | Lose | W+R | 6.5 | 2537 | -20 | 

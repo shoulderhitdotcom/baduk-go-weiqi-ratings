@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Win | B+R | 6.5 | 2898 | 37 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Cho Daehyeon | Win | B+R | 6.5 | 2861 | 26 | 
 | 2022-10-13 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Win | B+R | 6.5 | 2835 | 66 | 
 | 2022-10-03 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Chongsu | Win | B+0.5 | 6.5 | 2769 | 14 | 

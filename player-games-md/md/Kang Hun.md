@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Kang Hun | Kim Chuljung | Win | B+12.5 | 6.5 | 2802 | 63 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | Win | W+3.5 | 6.5 | 2739 | 57 | 
 | 2022-10-13 | 2022韓国シニア囲碁リーグ | Kang Hun | Park Yeongchan | Win | B+7.5 | 6.5 | 2682 | 86 | 
 | 2022-10-03 | 2022韓国シニア囲碁リーグ | Kang Hun |  | Lose | W+R | 6.5 | 2596 | -11 | 

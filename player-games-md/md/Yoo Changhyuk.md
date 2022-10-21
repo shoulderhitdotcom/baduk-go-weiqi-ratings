@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Chongsu | Win | B+R | 6.5 | 3247 | 18 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Yoo Changhyuk | Win | W+14.5 | 6.5 | 3229 | 13 | 
 | 2022-10-10 | 2022韓国シニア囲碁リーグ | Lee Yongshin | Yoo Changhyuk | Win | W+R | 6.5 | 3216 | 30 | 
 | 2022-10-04 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Win | W+0.5 | 6.5 | 3186 | 10 | 

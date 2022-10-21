@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Park Seungmun | Jimmy Cha | Lose | W+3.5 | 6.5 | 2696 | 19 | 
 | 2022-10-19 | 2022韓国シニア囲碁リーグ | Park Seungmun | Kim Chanwu | Lose | W+0.5 | 6.5 | 2677 | 9 | 
 | 2022-10-13 | 2022韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Win | B+6.5 | 6.5 | 2668 | 121 | 
 | 2022-10-05 | 2022韓国シニア囲碁リーグ | Park Seungmun |  | Win | B+R | 6.5 | 2547 | -18 | 

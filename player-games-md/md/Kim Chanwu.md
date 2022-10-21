@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Jeong Suhyeon | Win | B+R | 6.5 | 2842 | 45 | 
 | 2022-10-19 | 2022韓国シニア囲碁リーグ | Park Seungmun | Kim Chanwu | Win | W+0.5 | 6.5 | 2797 | 69 | 
 | 2022-10-10 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chanwu | Win | W+R | 6.5 | 2728 | 40 | 
 | 2022-10-06 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Chanwu | Win | W+R | 6.5 | 2688 | 100 | 

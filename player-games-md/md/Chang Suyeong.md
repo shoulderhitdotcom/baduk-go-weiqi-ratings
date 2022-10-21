@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Chang Suyeong | Win | W+12.5 | 6.5 | 2565 | 98 | 
 | 2022-10-20 | 2022韓国シニア囲碁リーグ | Chang Suyeong | Yoo Changhyuk | Lose | W+14.5 | 6.5 | 2467 | 9 | 
 | 2022-10-13 | 2022韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Lose | B+6.5 | 6.5 | 2458 | 46 | 
 | 2022-10-03 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Chang Suyeong | Lose | B+12.5 | 6.5 | 2412 | -30 | 

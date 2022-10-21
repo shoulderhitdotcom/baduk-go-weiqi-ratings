@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | Win | B+1.5 | 6.5 | 2576 | 123 | 
 | 2022-10-19 | 2022韓国シニア囲碁リーグ | Paek Seongho | Kim Kihun | Lose | W+11.5 | 6.5 | 2453 | -6 | 
 | 2022-10-06 | 2022韓国シニア囲碁リーグ | Jimmy Cha | Paek Seongho | Lose | B+R | 6.5 | 2459 | -66 | 
 | 2022-09-30 | 2022韓国シニア囲碁リーグ | Paek Seongho | Kim Chuljung | Lose | W+R | 6.5 | 2525 | 30 | 
@@ -19,8 +20,8 @@
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Paek Seongho | Win | W+R | 6.5 | 2481 | 68 | 
 | 2022-05-13 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Seo Bongsoo | Paek Seongho | Lose | B+3.5 | 6.5 | 2413 | -24 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Paek Seongho | Jeong Daesang | Win | B+R | 6.5 | 2437 | 7 | 
-| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Lose | B+8.5 | 6.5 | 2430 | 33 | 
-| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Lose | W+R | 6.5 | 2397 | 4 | 
+| 2022-02-18 | 第5期韓国竜星戦予選 | Kim Soojang | Paek Seongho | Lose | B+8.5 | 6.5 | 2430 | 32 | 
+| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Lose | W+R | 6.5 | 2398 | 5 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | Jimmy Cha | Lose | W+4.5 | 6.5 | 2393 | -32 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | Lose | B+15.5 | 6.5 | 2425 | 114 | 
 | 2021-11-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Kim Dongmyeon | Win | B+R | 6.5 | 2311 | -124 | 

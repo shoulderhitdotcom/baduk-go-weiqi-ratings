@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 第70期王座戦挑戦手合五番勝負第1局  | Yu Zhengqi | Iyama Yuta | Lose | W+1.5 | 6.5 | 3421 | 26 | 
 | 2022-10-17 | 第66期関西棋院第一位決定戦挑戦手合三番勝負第2局  | Yu Zhengqi | Murakawa Daisuke | Win | B+R | 6.5 | 3395 | 11 | 
 | 2022-10-03 | 第78期本因坊戦リーグ | Fujita Akihiko | Yu Zhengqi | Win | W+R | 6.5 | 3384 | -13 | 
 | 2022-09-29 | 第66期関西棋院第一位決定戦挑戦手合三番勝負第1局  | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3397 | 35 | 
@@ -14,8 +15,8 @@
 | 2022-09-08 | 第49期天元戦予選 | Yu Zhengqi |  | Win | B+R | 6.5 | 3382 | -8 | 
 | 2022-08-29 | 第70期王座戦挑戦者決定戦  | Yu Zhengqi | Shibano Toramaru | Win | B+R | 6.5 | 3390 | -43 | 
 | 2022-08-11 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Lose | W+R | 6.5 | 3433 | -34 | 
-| 2022-08-04 | 第70期王座戦準決勝 | Yu Zhengqi | Anzai Nobuaki | Win | B+R | 6.5 | 3467 | -7 | 
-| 2022-07-21 | 第47期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3474 | 8 | 
+| 2022-08-04 | 第70期王座戦準決勝 | Yu Zhengqi | Anzai Nobuaki | Win | B+R | 6.5 | 3467 | -6 | 
+| 2022-07-21 | 第47期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3473 | 7 | 
 | 2022-07-07 | 第47期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3466 | 11 | 
 | 2022-06-30 | 第70期王座戦2回戦 | Yu Zhengqi | Onishi Kenya | Win | B+R | 6.5 | 3455 | 13 | 
 | 2022-06-16 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Iyama Yuta | Lose | W+1.5 | 6.5 | 3442 | -1 | 
@@ -47,8 +48,8 @@
 | 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3327 | -24 | 
 | 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3351 | 28 | 
 | 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Win | B+R | 6.5 | 3323 | 0 | 
-| 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Win | B+R | 6.5 | 3323 | 31 | 
-| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Win | B+R | 6.5 | 3292 | -8 | 
+| 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Win | B+R | 6.5 | 3323 | 32 | 
+| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Win | B+R | 6.5 | 3291 | -9 | 
 | 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Lose | W+R | 6.5 | 3300 | -4 | 
 | 2021-10-11 | 第77期本因坊戦リーグ | Yu Zhengqi | Hsu Chiayuan | Win | B+0.5 | 6.5 | 3304 | 9 | 
 | 2021-10-07 | 第47期名人戦予選 | Muramatsu Hiroki | Yu Zhengqi | Win | W+R | 6.5 | 3295 | -12 | 
@@ -59,13 +60,13 @@
 | 2021-08-25 | 第70期王座戦予選 | Nakano Yasuhiro | Yu Zhengqi | Win | W+R | 6.5 | 3316 | 22 | 
 | 2021-08-19 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Sada Atsushi | Win | B+R | 6.5 | 3294 | -12 | 
 | 2021-08-11 | 第47期碁聖戦予選 | Yu Zhengqi | Yahata Naoki | Win | B+6.5 | 6.5 | 3306 | 13 | 
-| 2021-08-02 | 第77期本因坊戦予選 | Tsuneishi Takashi | Yu Zhengqi | Win | W+2.5 | 6.5 | 3293 | 18 | 
-| 2021-07-26 | 第46期棋聖戦Sリーグ  | Yu Zhengqi | Ichiriki Ryo | Lose | W+R | 6.5 | 3275 | 6 | 
+| 2021-08-02 | 第77期本因坊戦予選 | Tsuneishi Takashi | Yu Zhengqi | Win | W+2.5 | 6.5 | 3293 | 19 | 
+| 2021-07-26 | 第46期棋聖戦Sリーグ  | Yu Zhengqi | Ichiriki Ryo | Lose | W+R | 6.5 | 3274 | 5 | 
 | 2021-07-21 | 第70期王座戦予選 | Yu Zhengqi | Hara Masakazu | Win | B+R | 6.5 | 3269 | -7 | 
 | 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3276 | -18 | 
 | 2021-07-05 | 第46期名人戦リーグ | Anzai Nobuaki | Yu Zhengqi | Lose | B+5.5 | 6.5 | 3294 | -6 | 
-| 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Lose | W+3.5 | 6.5 | 3300 | 8 | 
-| 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Win | W+R | 6.5 | 3292 | 10 | 
+| 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Lose | W+3.5 | 6.5 | 3300 | 9 | 
+| 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Win | W+R | 6.5 | 3291 | 9 | 
 | 2021-06-03 | 第77期本因坊戦予選 | Kobayashi Satoru | Yu Zhengqi | Win | W+1.5 | 6.5 | 3282 | 7 | 
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3275 | 5 | 
 | 2021-05-19 | 第47期碁聖戦予選 | Yu Zhengqi | Hara Masakazu | Win | B+7.5 | 6.5 | 3270 | 3 | 
@@ -98,10 +99,10 @@
 | 2020-11-11 | 第1回関西囲碁オープントーナメントトップクラス準決勝 | Yu Zhengqi | Iyama Yuta | Lose | W+R | 6.5 | 3255 | -25 | 
 | 2020-11-08 | 第46期名人戦予選 | Sada Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3280 | 8 | 
 | 2020-11-05 | 第64期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3272 | 68 | 
-| 2020-10-22 | 第47期天元戦予選 |  | Yu Zhengqi | Win | W+R | 6.5 | 3204 | 8 | 
-| 2020-10-05 | 第59期十段戦1回戦 | Anzai Nobuaki | Yu Zhengqi | Win | W+R | 6.5 | 3196 | 17 | 
-| 2020-10-01 | 第64期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Murakawa Daisuke | Win | B+R | 6.5 | 3179 | 8 | 
-| 2020-09-16 | 第46期碁聖戦予選 | Yu Zhengqi | Kiyonari Tetsuya | Win | B+R | 6.5 | 3171 | 8 | 
+| 2020-10-22 | 第47期天元戦予選 |  | Yu Zhengqi | Win | W+R | 6.5 | 3204 | 9 | 
+| 2020-10-05 | 第59期十段戦1回戦 | Anzai Nobuaki | Yu Zhengqi | Win | W+R | 6.5 | 3195 | 17 | 
+| 2020-10-01 | 第64期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Murakawa Daisuke | Win | B+R | 6.5 | 3178 | 8 | 
+| 2020-09-16 | 第46期碁聖戦予選 | Yu Zhengqi | Kiyonari Tetsuya | Win | B+R | 6.5 | 3170 | 7 | 
 | 2020-09-07 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yamashita Keigo | Win | B+R | 6.5 | 3163 | 14 | 
 | 2020-08-31 | 第76期本因坊戦予選 | Yu Zhengqi | Sada Atsushi | Lose | W+R | 6.5 | 3149 | -24 | 
 | 2020-08-27 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yu Zhengqi | Lose | B+R | 6.5 | 3173 | -51 | 
@@ -113,9 +114,9 @@
 | 2020-07-20 | 第46期天元戦3回戦 | Ida Atsushi | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3298 | -25 | 
 | 2020-07-10 | 第46期天元戦2回戦 | Yu Zhengqi | Hsu Chiayuan | Win | B+R | 6.5 | 3323 | 24 | 
 | 2020-06-29 | 第45期棋聖戦Aリーグ | So Yokoku | Yu Zhengqi | Win | W+R | 6.5 | 3299 | 39 | 
-| 2020-06-18 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | Win | B+1.5 | 6.5 | 3260 | 72 | 
-| 2020-04-17 | 日台交流戦第2戦 | Yu Zhengqi | Li Wei | Win | B+R | 6.5 | 3188 | 0 | 
-| 2020-04-17 | 日台交流戦第1戦 | Xu Jingen | Yu Zhengqi | Win | W+R | 6.5 | 3188 | -9 | 
+| 2020-06-18 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | Win | B+1.5 | 6.5 | 3260 | 73 | 
+| 2020-04-17 | 日台交流戦第2戦 | Yu Zhengqi | Li Wei | Win | B+R | 6.5 | 3187 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Xu Jingen | Yu Zhengqi | Win | W+R | 6.5 | 3187 | -10 | 
 | 2020-04-06 | 第25回LG杯国内予選 | Onishi Ryuhei | Yu Zhengqi | Lose | B+R | 6.5 | 3197 | -20 | 
 | 2020-04-01 | 第76期本因坊戦予選 | Nishi Takenobu | Yu Zhengqi | Win | W+R | 6.5 | 3217 | 14 | 
 | 2020-03-18 | 第46期名人戦予選 |  | Yu Zhengqi | Win | W+R | 6.5 | 3203 | 2 | 

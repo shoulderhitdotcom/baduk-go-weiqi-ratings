@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Kyubyeong Vs Seo Bongsoo** | **Choi Kyubyeong Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | B+R | 6.5 | 3:7 | 1 | 0 | 
 | 2022-09-22 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | B+10.5 | 6.5 | 2:7 | 0 | 6 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | W+R | 6.5 | 2:6 | 0 | 5 | 
 | 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | B+8.5 | 6.5 | 2:5 | 0 | 4 | 

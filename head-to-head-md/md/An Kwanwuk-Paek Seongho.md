@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Kwanwuk Vs Paek Seongho** | **An Kwanwuk Streak** | **Paek Seongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | B+1.5 | 6.5 | 7:2 | 0 | 1 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | W+R | 6.5 | 7:1 | 3 | 0 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | B+15.5 | 6.5 | 6:1 | 2 | 0 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | W+4.5 | 6.5 | 5:1 | 1 | 0 | 

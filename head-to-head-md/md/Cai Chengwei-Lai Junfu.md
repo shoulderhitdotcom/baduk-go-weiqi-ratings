@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cai Chengwei Vs Lai Junfu** | **Cai Chengwei Streak** | **Lai Junfu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-16 | 第10期中環碁聖戦16強戦 | Lai Junfu | Cai Chengwei | B+R | 6.5 | 1:11 | 0 | 5 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Cai Chengwei | Lai Junfu | W+R | 6.5 | 1:10 | 0 | 4 | 
 | 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Cai Chengwei | Lai Junfu | W+8.5 | 6.5 | 1:9 | 0 | 3 | 
 | 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Cai Chengwei | Lai Junfu | W+R | 6.5 | 1:8 | 0 | 2 | 

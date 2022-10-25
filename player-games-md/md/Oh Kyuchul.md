@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Jeong Suhyeon | Win | B+1.5 | 6.5 | 2546 | 38 | 
-| 2022-10-04 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kim Dongyeop | Lose | W+R | 6.5 | 2508 | 63 | 
-| 2022-09-26 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Oh Kyuchul | Win | W+2.5 | 6.5 | 2445 | 8 | 
+| 2022-10-24 | 2022韓国シニア囲碁リーグ | Park Seungmun | Oh Kyuchul | Win | W+R | 6.5 | 2650 | 103 | 
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Jeong Suhyeon | Win | B+1.5 | 6.5 | 2547 | 38 | 
+| 2022-10-04 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kim Dongyeop | Lose | W+R | 6.5 | 2509 | 63 | 
+| 2022-09-26 | 2022韓国シニア囲碁リーグ | Kim Dongmyeon | Oh Kyuchul | Win | W+2.5 | 6.5 | 2446 | 9 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Kihun | Oh Kyuchul | Win | W+R | 6.5 | 2437 | 0 | 
 | 2022-09-22 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Lose | W+R | 6.5 | 2437 | 0 | 
 | 2022-08-17 | 2022韓国シニア囲碁リーグ | Oh Kyuchul | Paek Seongho | Lose | W+R | 6.5 | 2437 | 75 | 

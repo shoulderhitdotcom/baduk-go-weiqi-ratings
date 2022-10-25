@@ -7,21 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-21 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Kihun | Win | W+0.5 | 6.5 | 2667 | 128 | 
-| 2022-10-19 | 2022韓国シニア囲碁リーグ | Paek Seongho | Kim Kihun | Win | W+11.5 | 6.5 | 2539 | 84 | 
-| 2022-10-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | An Kwanwuk | Lose | W+4.5 | 6.5 | 2455 | -58 | 
-| 2022-09-30 | 2022韓国シニア囲碁リーグ |  | Kim Kihun | Lose | B+R | 6.5 | 2513 | 43 | 
-| 2022-09-29 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Kihun | Lose | B+R | 6.5 | 2470 | -39 | 
-| 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Kihun | Oh Kyuchul | Lose | W+R | 6.5 | 2509 | 0 | 
-| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Kihun | Jimmy Cha | Win | B+11.5 | 6.5 | 2509 | 28 | 
+| 2022-10-24 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Kihun | Lose | B+R | 6.5 | 2657 | -11 | 
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Kihun | Win | W+0.5 | 6.5 | 2668 | 128 | 
+| 2022-10-19 | 2022韓国シニア囲碁リーグ | Paek Seongho | Kim Kihun | Win | W+11.5 | 6.5 | 2540 | 84 | 
+| 2022-10-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | An Kwanwuk | Lose | W+4.5 | 6.5 | 2456 | -58 | 
+| 2022-09-30 | 2022韓国シニア囲碁リーグ |  | Kim Kihun | Lose | B+R | 6.5 | 2514 | 43 | 
+| 2022-09-29 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Kim Kihun | Lose | B+R | 6.5 | 2471 | -39 | 
+| 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Kihun | Oh Kyuchul | Lose | W+R | 6.5 | 2510 | 0 | 
+| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Kihun | Jimmy Cha | Win | B+11.5 | 6.5 | 2510 | 29 | 
 | 2022-09-13 | 2022韓国シニア囲碁リーグ | Kim Kihun | Paek Seongho | Lose | W+9.5 | 6.5 | 2481 | -80 | 
 | 2022-09-05 | 2022韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Win | B+0.5 | 6.5 | 2561 | 53 | 
 | 2022-08-30 | 2022韓国シニア囲碁リーグ | Jeong Suhyeon | Kim Kihun | Win | W+R | 6.5 | 2508 | 43 | 
 | 2022-08-16 | 2022韓国シニア囲碁リーグ | Kim Kihun | Kim JongJoon | Lose | W+8.5 | 6.5 | 2465 | 3 | 
 | 2022-05-12 | 2022年1004島新安国際シニア囲碁大会韓国予選 | Choi Kyubyeong | Kim Kihun | Lose | B+R | 6.5 | 2462 | -91 | 
 | 2022-01-18 | 第9回大舟杯プロシニア最強者戦予選 | Kim Kihun | Seo Nungwuk | Lose | W+4.5 | 6.5 | 2553 | 37 | 
-| 2021-11-24 | 2021韓国シニア囲碁リーグ | Kim Kihun |  | Win | B+0.5 | 6.5 | 2516 | 11 | 
-| 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Lose | W+0.5 | 6.5 | 2505 | -37 | 
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Kim Kihun |  | Win | B+0.5 | 6.5 | 2516 | 10 | 
+| 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Lose | W+0.5 | 6.5 | 2506 | -36 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Win | B+5.5 | 6.5 | 2542 | 38 | 
 | 2021-10-28 | 2021韓国シニア囲碁リーグ | Kim Kihun | Park Yeongchan | Win | B+2.5 | 6.5 | 2504 | -67 | 
 | 2021-10-21 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Kihun | Lose | B+7.5 | 6.5 | 2571 | 12 | 
@@ -43,11 +44,11 @@
 | 2020-11-05 | 2020NHシニア囲碁リーグプレーオフ第1戦第2局 | Kang Hun | Kim Kihun | Win | W+3.5 | 6.5 | 2356 | 58 | 
 | 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Park Seungmun | Kim Kihun | Lose | B+R | 6.5 | 2298 | 12 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第3局 | Kim Kihun | Oh Kyuchul | Win | B+R | 6.5 | 2286 | 33 | 
-| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第1局 | Kang Hun | Kim Kihun | Lose | B+R | 6.5 | 2253 | -35 | 
-| 2020-10-15 | 2020NHシニア囲碁リーグ第12節第4試合第1局 | Seo Nungwuk | Kim Kihun | Lose | B+15.5 | 6.5 | 2288 | -54 | 
-| 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第3局 | Paek Seongho | Kim Kihun | Win | W+0.5 | 6.5 | 2342 | 22 | 
-| 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第2局 | Kim Kihun | Yoo Changhyuk | Lose | W+16.5 | 6.5 | 2320 | 0 | 
-| 2020-09-16 | 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | Lose | B+R | 6.5 | 2320 | 30 | 
+| 2020-10-21 | 2020NHシニア囲碁リーグ第13節第3試合第1局 | Kang Hun | Kim Kihun | Lose | B+R | 6.5 | 2253 | -36 | 
+| 2020-10-15 | 2020NHシニア囲碁リーグ第12節第4試合第1局 | Seo Nungwuk | Kim Kihun | Lose | B+15.5 | 6.5 | 2289 | -54 | 
+| 2020-10-05 | 2020NHシニア囲碁リーグ第11節第1試合第3局 | Paek Seongho | Kim Kihun | Win | W+0.5 | 6.5 | 2343 | 22 | 
+| 2020-09-22 | 2020NHシニア囲碁リーグ第10節第2試合第2局 | Kim Kihun | Yoo Changhyuk | Lose | W+16.5 | 6.5 | 2321 | 0 | 
+| 2020-09-16 | 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | Lose | B+R | 6.5 | 2321 | 31 | 
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | Win | B+1.5 | 6.5 | 2290 | 5 | 
 | 2020-08-26 | 2020NHシニア囲碁リーグ第7節第3試合第2局 | Chang Suyeong | Kim Kihun | Win | W+0.5 | 6.5 | 2285 | 6 | 
 | 2020-08-18 | 2020NHシニア囲碁リーグ第6節第2試合第2局 | Kang Hun | Kim Kihun | Win | W+9.5 | 6.5 | 2279 | 15 | 

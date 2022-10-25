@@ -7,11 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Jiehan | Chen Shiyuan | Win | W+R | 6.5 | 3004 | -7 | 
-| 2022-10-13 | 第16期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Lose | W+R | 6.5 | 3011 | 35 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2976 | 10 | 
-| 2022-09-27 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 2966 | 10 | 
-| 2022-09-25 | 第10期中環碁聖戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2956 | -4 | 
+| 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 3038 | 9 | 
+| 2022-10-20 | 第16期棋王戦（台湾）予選 | Chen Weiting | Chen Shiyuan | Win | W+3.5 | 6.5 | 3029 | 24 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Jiehan | Chen Shiyuan | Win | W+R | 6.5 | 3005 | -7 | 
+| 2022-10-13 | 第16期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Lose | W+R | 6.5 | 3012 | 35 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2977 | 10 | 
+| 2022-09-27 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 2967 | 10 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2957 | -3 | 
 | 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Chen Qirui | Win | B+R | 6.5 | 2960 | -26 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 2986 | -20 | 
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3006 | 10 | 
@@ -31,10 +33,10 @@
 | 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Yang Bowei | Chen Shiyuan | Win | W+R | 6.5 | 3025 | -13 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 3038 | 0 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Lose | W+0.5 | 6.5 | 3038 | 24 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3014 | 19 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 2995 | -32 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Lin Yanchen | Win | B+R | 6.5 | 3027 | 0 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 3027 | 58 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3014 | 18 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 2996 | -32 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan | Lin Yanchen | Win | B+R | 6.5 | 3028 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Chen Shiyuan | Lose | B+R | 6.5 | 3028 | 59 | 
 | 2022-05-25 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Chen Shiyuan | Lin Yuxiang | Win | B+6.5 | 6.5 | 2969 | -100 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Chen Shiyuan | Lai Junfu | Lose | W+1.5 | 6.5 | 3069 | -7 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3076 | 0 | 

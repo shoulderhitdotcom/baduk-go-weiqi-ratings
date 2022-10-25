@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-21 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Lose | B+R | 6.5 | 2850 | 7 | 
-| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | An Kwanwuk | Lose | W+10.5 | 6.5 | 2843 | -25 | 
-| 2022-10-12 | 2022韓国シニア囲碁リーグ | Jimmy Cha | Seo Bongsoo | Win | W+3.5 | 6.5 | 2868 | 42 | 
-| 2022-10-04 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+0.5 | 6.5 | 2826 | -8 | 
-| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Seo Bongsoo | Lose | B+R | 6.5 | 2834 | -9 | 
-| 2022-09-26 | 2022韓国シニア囲碁リーグ |  | Seo Bongsoo | Win | W+5.5 | 6.5 | 2843 | 23 | 
+| 2022-10-24 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Lose | W+0.5 | 6.5 | 2840 | -11 | 
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Lose | B+R | 6.5 | 2851 | 7 | 
+| 2022-10-17 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | An Kwanwuk | Lose | W+10.5 | 6.5 | 2844 | -25 | 
+| 2022-10-12 | 2022韓国シニア囲碁リーグ | Jimmy Cha | Seo Bongsoo | Win | W+3.5 | 6.5 | 2869 | 42 | 
+| 2022-10-04 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+0.5 | 6.5 | 2827 | -8 | 
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Chanwu | Seo Bongsoo | Lose | B+R | 6.5 | 2835 | -9 | 
+| 2022-09-26 | 2022韓国シニア囲碁リーグ |  | Seo Bongsoo | Win | W+5.5 | 6.5 | 2844 | 24 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Soojang | Seo Bongsoo | Win | W+R | 6.5 | 2820 | 0 | 
 | 2022-09-22 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | Win | B+10.5 | 6.5 | 2820 | 0 | 
 | 2022-09-15 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2820 | -58 | 
@@ -31,8 +32,8 @@
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Lose | B+4.5 | 6.5 | 2784 | -25 | 
 | 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | Lose | W+R | 6.5 | 2809 | -1 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | Kim Ilhwan | Win | B+R | 6.5 | 2810 | -28 | 
-| 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Lose | B+R | 6.5 | 2838 | -11 | 
-| 2021-11-16 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Park Yeongchan | Win | B+16.5 | 6.5 | 2849 | 25 | 
+| 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Lose | B+R | 6.5 | 2838 | -12 | 
+| 2021-11-16 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Park Yeongchan | Win | B+16.5 | 6.5 | 2850 | 26 | 
 | 2021-11-02 | 2021韓国シニア囲碁リーグ | Seo Bongsoo |  | Win | B+11.5 | 6.5 | 2824 | -25 | 
 | 2021-10-26 | 2021韓国シニア囲碁リーグ | Kim JongJoon | Seo Bongsoo | Win | W+R | 6.5 | 2849 | -19 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Win | W+0.5 | 6.5 | 2868 | -13 | 
@@ -49,15 +50,15 @@
 | 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Win | B+2.5 | 6.5 | 3012 | 112 | 
 | 2021-04-08 | 第8回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo |  | Win | B+R | 6.5 | 2900 | 64 | 
 | 2021-03-17 | 第8回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kwon Kapyong | Win | B+R | 6.5 | 2836 | 53 | 
-| 2021-02-24 | 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | Win | W+R | 6.5 | 2783 | 70 | 
-| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 2713 | 70 | 
+| 2021-02-24 | 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | Win | W+R | 6.5 | 2783 | 69 | 
+| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 2714 | 71 | 
 | 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | W+R | 6.5 | 2643 | 54 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | Win | B+11.5 | 6.5 | 2589 | -25 | 
-| 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第1局 |  | Seo Bongsoo | Win | W+1.5 | 6.5 | 2614 | 0 | 
-| 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | Win | W+7.5 | 6.5 | 2614 | 11 | 
-| 2020-10-07 | 2020NHシニア囲碁リーグ第11節第3試合第1局 | Seo Bongsoo | Kim JongJoon | Win | B+R | 6.5 | 2603 | 37 | 
-| 2020-09-24 | 2020NHシニア囲碁リーグ第10節第4試合第1局 | Seo Bongsoo | Kim Chongsu | Win | B+10.5 | 6.5 | 2566 | 12 | 
-| 2020-09-16 | 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 2554 | 49 | 
+| 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第1局 |  | Seo Bongsoo | Win | W+1.5 | 6.5 | 2614 | -1 | 
+| 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | Win | W+7.5 | 6.5 | 2615 | 11 | 
+| 2020-10-07 | 2020NHシニア囲碁リーグ第11節第3試合第1局 | Seo Bongsoo | Kim JongJoon | Win | B+R | 6.5 | 2604 | 37 | 
+| 2020-09-24 | 2020NHシニア囲碁リーグ第10節第4試合第1局 | Seo Bongsoo | Kim Chongsu | Win | B+10.5 | 6.5 | 2567 | 12 | 
+| 2020-09-16 | 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 2555 | 50 | 
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第2局 | Yoo Changhyuk | Seo Bongsoo | Win | W+2.5 | 6.5 | 2505 | 43 | 
 | 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | Lose | W+R | 6.5 | 2462 | -47 | 
 | 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Win | B+14.5 | 6.5 | 2509 | -6 | 

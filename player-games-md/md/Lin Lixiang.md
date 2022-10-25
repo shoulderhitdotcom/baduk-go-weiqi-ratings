@@ -7,12 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Lixiang | Chen Shoulian | Lose | W+R | 6.5 | 3060 | 2 | 
-| 2022-10-16 | 第10期中環碁聖戦16強戦 | Lin Lixiang |  | Win | B+1.5 | 6.5 | 3058 | -16 | 
-| 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Chen Weiting | Lose | W+R | 7.5 | 3074 | 4 | 
-| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Bai Xinhui | Win | B+R | 7.5 | 3070 | 24 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3046 | 22 | 
-| 2022-09-29 | 第15期棋王戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3024 | 9 | 
+| 2022-10-25 | 第18期国手戦（台湾） | Lin Lixiang |  | Win | B+R | 6.5 | 3087 | 26 | 
+| 2022-10-23 | 第10期中環碁聖戦8強戦 | Lu Yiquan | Lin Lixiang | Win | W+R | 6.5 | 3061 | 0 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Lixiang | Chen Shoulian | Lose | W+R | 6.5 | 3061 | 2 | 
+| 2022-10-16 | 第10期中環碁聖戦16強戦 | Lin Lixiang |  | Win | B+1.5 | 6.5 | 3059 | -16 | 
+| 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Chen Weiting | Lose | W+R | 7.5 | 3075 | 4 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Bai Xinhui | Win | B+R | 7.5 | 3071 | 24 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3047 | 22 | 
+| 2022-09-29 | 第15期棋王戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3025 | 10 | 
 | 2022-09-15 | 第15期棋王戦（台湾）リーグ | Lin Lixiang | Lai Junfu | Win | B+R | 6.5 | 3015 | -47 | 
 | 2022-07-20 | 2021中国囲碁乙級リーグ | Wang Yao | Lin Lixiang | Lose | B+R | 7.5 | 3062 | -18 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Lin Lixiang | Tong Yulin | Lose | W+R | 7.5 | 3080 | -2 | 
@@ -24,9 +26,9 @@
 | 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+R | 6.5 | 3125 | -14 | 
 | 2022-06-21 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3139 | 23 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Lose | B+R | 6.5 | 3116 | -14 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Huang Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3130 | 10 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3120 | 0 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3120 | 31 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Huang Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3130 | 9 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3121 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3121 | 32 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Lixiang | Yang Bowei | Lose | W+R | 6.5 | 3089 | 2 | 
 | 2022-05-26 | 第3期聯電杯プロ囲碁戦予選 | Lin Lixiang | Huang Shiyuan | Win | B+R | 6.5 | 3087 | 19 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3068 | -91 | 

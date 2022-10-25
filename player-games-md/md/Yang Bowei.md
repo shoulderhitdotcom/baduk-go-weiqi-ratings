@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 第3回早碁争覇戦2回戦 |  | Yang Bowei | Win | W+7.5 | 6.5 | 2849 | 57 | 
-| 2022-10-04 | 第18期国手戦（台湾） | Yang Bowei |  | Win | B+R | 6.5 | 2792 | -2 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Lin Shuyang | Yang Bowei | Lose | B+2.5 | 6.5 | 2794 | 5 | 
-| 2022-09-18 | 第10期中環碁聖戦 | Yang Zixuan | Yang Bowei | Win | W+R | 6.5 | 2789 | 11 | 
+| 2022-10-25 | 第18期国手戦（台湾） | Yang Bowei |  | Win | B+R | 6.5 | 2893 | 43 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 |  | Yang Bowei | Win | W+7.5 | 6.5 | 2850 | 57 | 
+| 2022-10-04 | 第18期国手戦（台湾） | Yang Bowei |  | Win | B+R | 6.5 | 2793 | -2 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Lin Shuyang | Yang Bowei | Lose | B+2.5 | 6.5 | 2795 | 5 | 
+| 2022-09-18 | 第10期中環碁聖戦 | Yang Zixuan | Yang Bowei | Win | W+R | 6.5 | 2790 | 12 | 
 | 2022-07-28 | 第15期棋王戦（台湾）予選 | Yang Bowei | Jian Jingting | Lose | W+R | 6.5 | 2778 | -36 | 
 | 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Yang Bowei | Chen Shiyuan | Lose | W+R | 6.5 | 2814 | -87 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Yang Bowei |  | Lose | W+0.5 | 6.5 | 2901 | 0 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 |  | Yang Bowei | Lose | B+0.5 | 6.5 | 2901 | 22 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Lin Yuxiang | Yang Bowei | Win | W+R | 6.5 | 2879 | 9 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Yang Bowei | Xu Jingen | Lose | W+R | 6.5 | 2870 | 66 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Lin Yuxiang | Yang Bowei | Win | W+R | 6.5 | 2879 | 8 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Yang Bowei | Xu Jingen | Lose | W+R | 6.5 | 2871 | 67 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Lixiang | Yang Bowei | Win | W+R | 6.5 | 2804 | 0 | 
 | 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Yang Bowei | Zhang Zhehao | Win | B+4.5 | 6.5 | 2804 | 35 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Yang Bowei | Zhou Pingqiang | Win | B+R | 6.5 | 2769 | -185 | 

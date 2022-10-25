@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） | Xu Yuqi | Chen Qirui | Win | W+1.5 | 6.5 | 3100 | -1 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3101 | 15 | 
 | 2022-10-20 | 第16期棋王戦（台湾）予選 |  | Chen Qirui | Win | W+R | 6.5 | 3086 | 8 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Gao Yun | Chen Qirui | Win | W+5.5 | 6.5 | 3078 | -12 | 

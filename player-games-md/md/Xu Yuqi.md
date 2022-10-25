@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） | Xu Yuqi | Chen Qirui | Lose | W+1.5 | 6.5 | 2875 | -2 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Xu Yuqi | Wang Yuanjun | Lose | W+R | 6.5 | 2877 | 32 | 
 | 2022-10-21 | 第10期中環碁聖戦8強戦 | Xu Yuqi | Chen Weiting | Win | B+6.5 | 6.5 | 2845 | 6 | 
 | 2022-10-20 | 第16期棋王戦（台湾）予選 | Lu Yuhua | Xu Yuqi | Win | W+R | 6.5 | 2839 | 52 | 

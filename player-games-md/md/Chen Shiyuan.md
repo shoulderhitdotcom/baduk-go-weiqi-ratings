@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） |  | Chen Shiyuan | Win | W+R | 6.5 | 3037 | -1 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 3038 | 9 | 
 | 2022-10-20 | 第16期棋王戦（台湾）予選 | Chen Weiting | Chen Shiyuan | Win | W+3.5 | 6.5 | 3029 | 24 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Jiehan | Chen Shiyuan | Win | W+R | 6.5 | 3005 | -7 | 

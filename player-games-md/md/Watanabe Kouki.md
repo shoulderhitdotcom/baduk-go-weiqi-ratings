@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-25 | 第48期新人王戦予選 | Watanabe Kouki |  | Win | B+R | 6.5 | 2182 | -162 | 
+| 2022-10-25 | 第48期新人王戦予選 | Watanabe Kouki | Fujita Leo | Win | B+R | 6.5 | 2182 | -162 | 
 | 2022-08-25 | 第48期碁聖戦予選 | Watanabe Kouki | Hong Seokui | Lose | W+R | 6.5 | 2344 | -406 | 
 | 2021-12-16 | 第47期新人王戦予選 | Watanabe Kandai | Watanabe Kouki | Lose | B+5.5 | 6.5 | 2750 | 5 | 
 | 2021-11-03 | 第46期新人王戦予選 | Watanabe Kouki |  | Win | B+R | 6.5 | 2745 | 436 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） | Liu Yaowen | Lai Junfu | Lose | W+R | 6.5 | 2842 | 138 | 
 | 2022-10-13 | 第16期棋王戦（台湾）予選 | Chen Shiyuan | Liu Yaowen | Win | W+R | 6.5 | 2704 | -11 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Liu Yaowen |  | Win | B+R | 6.5 | 2715 | 70 | 
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Liu Yaowen |  | Win | B+R | 6.5 | 2645 | -20 | 
@@ -21,9 +22,9 @@
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Liu Yaowen | Win | W+R | 6.5 | 2739 | 69 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2670 | -1 | 
 | 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2671 | -34 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2705 | 13 | 
-| 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2692 | 78 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2614 | -11 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2705 | 14 | 
+| 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2691 | 78 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2613 | -12 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2625 | 42 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Huang Xiangren | Liu Yaowen | Win | W+R | 6.5 | 2583 | 23 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 |  | Liu Yaowen | Win | W+R | 6.5 | 2560 | 67 | 
@@ -36,11 +37,11 @@
 | 2021-01-10 | 第20期天元戦（台湾）予選 | Liu Yaowen | Niu Shite | Lose | W+R | 6.5 | 2355 | -177 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Liu Yaowen | Yang Bowei | Lose | W+R | 6.5 | 2532 | 10 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Liu Yaowen | Lin Jiehan | Lose | W+R | 6.5 | 2522 | -3 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Yuting | Liu Yaowen | Lose | B+0.5 | 6.5 | 2525 | -40 | 
-| 2020-09-06 | 第8期中環碁聖戦1回戦 | Chen Yida | Liu Yaowen | Win | W+R | 6.5 | 2565 | -52 | 
-| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Chen Feng | Liu Yaowen | Lose | B+4.5 | 6.5 | 2617 | -105 | 
-| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | Lose | W+R | 6.5 | 2722 | -77 | 
-| 2020-01-07 | 第19期天元戦（台湾）予選 | Liu Yaowen | Chen Xi | Lose | W+R | 6.5 | 2799 | missing |
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Yuting | Liu Yaowen | Lose | B+0.5 | 6.5 | 2525 | -39 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Chen Yida | Liu Yaowen | Win | W+R | 6.5 | 2564 | -53 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Chen Feng | Liu Yaowen | Lose | B+4.5 | 6.5 | 2617 | -104 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | Lose | W+R | 6.5 | 2721 | -77 | 
+| 2020-01-07 | 第19期天元戦（台湾）予選 | Liu Yaowen | Chen Xi | Lose | W+R | 6.5 | 2798 | missing |
 
 
 

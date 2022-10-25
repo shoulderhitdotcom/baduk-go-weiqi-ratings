@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 第3回早碁争覇戦2回戦 | Gao Yun | Chen Qirui | Lose | W+5.5 | 6.5 | 2456 | 45 | 
-| 2022-10-11 | 第18期国手戦（台湾） | Huang Daolong | Gao Yun | Win | W+R | 6.5 | 2411 | 51 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Zhou Pingqiang | Gao Yun | Lose | B+R | 6.5 | 2360 | 56 | 
-| 2022-09-26 | 第3回早碁争覇戦予選 | Zhang Kaixin | Gao Yun | Win | W+R | 6.5 | 2304 | 109 | 
-| 2022-09-25 | 第10期中環碁聖戦 | Gao Yun | Bai Xinhui | Win | B+R | 6.5 | 2195 | -311 | 
+| 2022-10-25 | 第18期国手戦（台湾） | Wang Yuanjun | Gao Yun | Lose | B+R | 6.5 | 2498 | 41 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Gao Yun | Chen Qirui | Lose | W+5.5 | 6.5 | 2457 | 45 | 
+| 2022-10-11 | 第18期国手戦（台湾） | Huang Daolong | Gao Yun | Win | W+R | 6.5 | 2412 | 51 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Zhou Pingqiang | Gao Yun | Lose | B+R | 6.5 | 2361 | 56 | 
+| 2022-09-26 | 第3回早碁争覇戦予選 | Zhang Kaixin | Gao Yun | Win | W+R | 6.5 | 2305 | 109 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Gao Yun | Bai Xinhui | Win | B+R | 6.5 | 2196 | -310 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Gao Yun | Yu Binghuang | Lose | W+R | 6.5 | 2506 | 16 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Gao Yun | Lin Jiehan | Lose | W+1.5 | 6.5 | 2490 | -34 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Gao Yun | Chen Xi | Lose | W+R | 6.5 | 2524 | -25 | 

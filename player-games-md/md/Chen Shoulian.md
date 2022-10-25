@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） | Chen Shoulian | Lin Shixun | Lose | W+R | 6.5 | 2869 | -1 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Xiao Zhenghao | Chen Shoulian | Win | W+R | 6.5 | 2870 | 117 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Lixiang | Chen Shoulian | Win | W+R | 6.5 | 2753 | 32 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Lin Shimin | Chen Shoulian | Win | W+R | 6.5 | 2721 | 44 | 

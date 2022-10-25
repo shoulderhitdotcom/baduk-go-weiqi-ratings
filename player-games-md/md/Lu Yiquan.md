@@ -7,14 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-17 | 第3回早碁争覇戦2回戦 | Zhang Zhehao | Lu Yiquan | Win | W+3.5 | 6.5 | 2848 | 2 | 
-| 2022-10-16 | 第10期中環碁聖戦16強戦 | Lin Shimin | Lu Yiquan | Win | W+R | 6.5 | 2846 | -4 | 
-| 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Jingen | Lu Yiquan | Lose | B+R | 7.5 | 2850 | 23 | 
-| 2022-10-11 | 第18期国手戦（台湾） | Lu Yiquan |  | Win | B+R | 6.5 | 2827 | 5 | 
-| 2022-10-06 | 第16期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Lose | W+R | 6.5 | 2822 | 13 | 
-| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yiquan | Win | W+¼ | 7.5 | 2809 | 21 | 
-| 2022-10-02 | 第10期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 2788 | 23 | 
-| 2022-09-25 | 第10期中環碁聖戦 | Lu Yiquan | Liu Yaowen | Win | B+R | 6.5 | 2765 | -42 | 
+| 2022-10-25 | 第18期国手戦（台湾） | Yu Lijun | Lu Yiquan | Win | W+R | 6.5 | 2884 | -6 | 
+| 2022-10-23 | 第10期中環碁聖戦8強戦 | Lu Yiquan | Lin Lixiang | Lose | W+R | 6.5 | 2890 | 0 | 
+| 2022-10-20 | 第16期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Lose | W+R | 6.5 | 2890 | 41 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Zhang Zhehao | Lu Yiquan | Win | W+3.5 | 6.5 | 2849 | 2 | 
+| 2022-10-16 | 第10期中環碁聖戦16強戦 | Lin Shimin | Lu Yiquan | Win | W+R | 6.5 | 2847 | -4 | 
+| 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Jingen | Lu Yiquan | Lose | B+R | 7.5 | 2851 | 23 | 
+| 2022-10-11 | 第18期国手戦（台湾） | Lu Yiquan |  | Win | B+R | 6.5 | 2828 | 5 | 
+| 2022-10-06 | 第16期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Lose | W+R | 6.5 | 2823 | 13 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shuyang | Lu Yiquan | Win | W+¼ | 7.5 | 2810 | 21 | 
+| 2022-10-02 | 第10期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 2789 | 23 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Lu Yiquan | Liu Yaowen | Win | B+R | 6.5 | 2766 | -41 | 
 | 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 2807 | -10 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Yanchen | Lu Yiquan | Win | W+R | 6.5 | 2817 | 0 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Li Wei | Lu Yiquan | Lose | B+R | 6.5 | 2817 | -101 | 
@@ -22,10 +25,10 @@
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Win | W+2.5 | 6.5 | 2930 | -25 | 
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 | Lu Yiquan |  | Lose | W+R | 7.5 | 2955 | -5 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Liu Jianchang | Lu Yiquan | Win | W+R | 6.5 | 2960 | 25 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan |  | Lose | W+R | 6.5 | 2935 | -12 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Lose | B+R | 6.5 | 2947 | -31 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan | Su Shengfang | Win | B+R | 6.5 | 2978 | 3 | 
-| 2022-06-07 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lu Yiquan | Xu Jingen | Lose | W+R | 6.5 | 2975 | -31 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan |  | Lose | W+R | 6.5 | 2935 | -13 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Lose | B+R | 6.5 | 2948 | -31 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan | Su Shengfang | Win | B+R | 6.5 | 2979 | 3 | 
+| 2022-06-07 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lu Yiquan | Xu Jingen | Lose | W+R | 6.5 | 2976 | -30 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Yang Bowei | Lu Yiquan | Win | W+R | 6.5 | 3006 | 8 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lu Yiquan | Lin Shuyang | Lose | W+R | 6.5 | 2998 | 25 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Lu Yiquan | Win | W+5.5 | 6.5 | 2973 | 0 | 

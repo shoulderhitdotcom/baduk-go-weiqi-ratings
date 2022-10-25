@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第18期国手戦（台湾） | Wang Yuanjun | Gao Yun | Win | B+R | 6.5 | 3210 | -1 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Xu Yuqi | Wang Yuanjun | Win | W+R | 6.5 | 3211 | 10 | 
 | 2022-10-21 | 第3期聯電杯プロ囲碁戦挑戦手合七番勝負第5局 | Xu Haohong | Wang Yuanjun | Lose | B+R | 6.5 | 3201 | 7 | 
 | 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shixun | Wang Yuanjun | Lose | B+R | 7.5 | 3194 | -24 | 

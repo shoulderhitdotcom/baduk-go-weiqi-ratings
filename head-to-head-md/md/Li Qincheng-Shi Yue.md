@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Shi Yue** | **Li Qincheng Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-24 | 第23期阿含・桐山杯中国早碁戦2回戦 | Li Qincheng | Shi Yue | B+R | 7.5 | 4:2 | 1 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | B+R | 7.5 | 3:2 | 0 | 2 | 
 | 2018-09-08 | 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Li Qincheng | Shi Yue | W+R | 7.5 | 3:1 | 0 | 1 | 
 | 2015-10-24 | 第7期中国竜星戦2回戦 | Shi Yue | Li Qincheng | W+R | 7.5 | 3:0 | 3 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Soojang Vs Seo Bongsoo** | **Kim Soojang Streak** | **Seo Bongsoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-24 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | W+0.5 | 6.5 | 8:5 | 1 | 0 | 
 | 2022-09-23 | 2022韓国シニア囲碁リーグ | Kim Soojang | Seo Bongsoo | W+R | 6.5 | 7:5 | 0 | 2 | 
 | 2021-09-08 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | B+R | 6.5 | 7:4 | 0 | 1 | 
 | 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | B+R | 6.5 | 7:3 | 4 | 0 | 

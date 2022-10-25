@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Ilhwan Vs Kim Kihun** | **Kim Ilhwan Streak** | **Kim Kihun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-24 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Kihun | B+R | 6.5 | 2:5 | 1 | 0 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | B+5.5 | 6.5 | 1:5 | 0 | 4 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | B+6.5 | 6.5 | 1:4 | 0 | 3 | 
 | 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | B+1.5 | 6.5 | 1:3 | 0 | 2 | 

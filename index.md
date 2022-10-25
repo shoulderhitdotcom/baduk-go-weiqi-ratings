@@ -455,8 +455,8 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Shen Zaiyi | 228 | 17 | 沈載益 | 
 | Lee Wondo | 216 | 28 | 李元道 | 
 | Park Yeonghun | 201 | 33 | 朴永訓 | 
-| Han Seungjoo | 180 | 39 | 韓昇周 | 
-| Lee Yeongkyu | 176 | 24 | 李映九 | 
+| Han Seungjoo | 179 | 39 | 韓昇周 | 
+| Lee Yeongkyu | 175 | 24 | 李映九 | 
 | Kim Seongjae | 172 | 17 | 金昇宰 | 
 | Shida Tatsuya | 170 | 14 | 志田達哉 | 
 | Kim Jinhyu | 168 | 24 | 金眞輝 | 
@@ -468,15 +468,15 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Sada Atsushi | 153 | 45 | 佐田篤史 | 
 | Wang Zejin | 151 | 19 | 王沢錦 | 
 | Tuo Jiaxi | 136 | 40 | 柁嘉熹 | 
-| Fan Tingyu | 135 | 51 | 范廷鈺 | 
+| Fan Tingyu | 134 | 51 | 范廷鈺 | 
 | Wang Xinghao | 118 | 41 | 王星昊 | 
 | Park Jinsol | 117 | 28 | 朴進率 | 
 | Na Hyun | 109 | 21 | 羅玄 | 
 | Yu Zhengqi | 108 | 43 | 余正麒 | 
 | Kang Dongyun | 100 | 76 | 姜東潤 | 
-| Hong Seongji | 98 | 26 | 洪性志 | 
+| Hong Seongji | 97 | 26 | 洪性志 | 
 | Park Geunho | 95 | 39 | 朴鍵昊 | 
-| Peng Liyao | 86 | 37 | 彭立尭 | 
+| Peng Liyao | 85 | 37 | 彭立尭 | 
 | Kang Seungmin | 80 | 44 | 姜昇旼 | 
 | Shibano Toramaru | 79 | 47 | 芝野虎丸 | 
 | Park Joonhoon | 78 | 28 | 朴鐘勲 | 
@@ -496,7 +496,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Chen Zhengxun | 9 | 13 | 陳正勲 | 
 | Shin Minjun | 4 | 84 | 申旻埈 | 
 | An Sungjoon | 1 | 42 | 安成浚 | 
-| Ke Jie | -1 | 52 | 柯潔 | 
+| Ke Jie | -2 | 52 | 柯潔 | 
 | Jin Yucheng | -3 | 25 | 金禹丞 | 
 | Shin Jinseo | -5 | 101 | 申眞諝 | 
 | Choi Cheolhan | -7 | 26 | 崔哲瀚 | 
@@ -507,11 +507,11 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Mi Yuting | -28 | 70 | 芈昱廷 | 
 | Lee Donghoon | -28 | 37 | 李東勲 | 
 | Huang Yunsong | -40 | 40 | 黄雲嵩 | 
-| Park Sangjin | -40 | 38 | 朴常鎭 | 
+| Park Sangjin | -41 | 38 | 朴常鎭 | 
 | Tu Xiaoyu | -45 | 42 | 屠暁宇 | 
 | Xie Ke | -54 | 41 | 謝科 | 
 | Choi Jeong | -56 | 92 | 崔精 | 
-| Han Sanghoon | -56 | 31 | 韓尚勲 | 
+| Han Sanghoon | -57 | 31 | 韓尚勲 | 
 | Chen Yaoye | -58 | 25 | 陳耀燁 | 
 | Tong Mengcheng | -60 | 35 | 童夢成 | 
 | Park Minkyu | -65 | 23 | 朴珉奎 | 
@@ -524,7 +524,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | He Yuhan | -90 | 15 | 何語涵 | 
 | Li Qincheng | -91 | 41 | 李欽誠 | 
 | Choi Jaeyoung | -98 | 22 | 崔宰栄 | 
-| Lee Jihyun | -102 | 49 | 李志賢 | 
+| Lee Jihyun | -103 | 49 | 李志賢 | 
 | Ding Hao | -110 | 47 | 丁浩 | 
 | Cho Hanseung | -112 | 46 | 趙漢乗 | 
 | Xu Jiayang | -116 | 33 | 許嘉陽 | 
@@ -541,7 +541,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Liao Yuanhe | -173 | 34 | 廖元赫 | 
 | Jiang Weijie | -226 | 31 | 江維傑 | 
 | Xia Chenkun | -238 | 21 | 夏晨琨 | 
-| Weon Seongjin | -243 | 78 | 元晟溱 |
+| Weon Seongjin | -244 | 78 | 元晟溱 |
 
 
 

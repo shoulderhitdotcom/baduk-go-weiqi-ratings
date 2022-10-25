@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第23期阿含・桐山杯中国早碁戦準決勝 | Yang Kaiwen | Xie Erhao | Lose | W+R | 7.5 | 3659 | -11 | 
 | 2022-10-24 | 第23期阿含・桐山杯中国早碁戦2回戦 | Yang Kaiwen | Tong Mengcheng | Win | B+R | 7.5 | 3670 | 24 | 
 | 2022-10-12 | 第23期阿含・桐山杯中国早碁戦1回戦 | Yang Kaiwen | Li Xuanhao | Win | B+R | 7.5 | 3646 | 22 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Yang Kaiwen | Yang Dingxin | Win | B+R | 7.5 | 3624 | 31 | 

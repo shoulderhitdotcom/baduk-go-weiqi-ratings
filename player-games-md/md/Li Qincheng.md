@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-25 | 第23期阿含・桐山杯中国早碁戦準決勝 | Huang Yunsong | Li Qincheng | Win | W+R | 7.5 | 3629 | 8 | 
 | 2022-10-24 | 第23期阿含・桐山杯中国早碁戦2回戦 | Li Qincheng | Shi Yue | Win | B+R | 7.5 | 3621 | 28 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Li Qincheng | Lose | B+R | 7.5 | 3593 | -4 | 
 | 2022-09-30 | 第23期阿含・桐山杯中国早碁戦1回戦 | Li Qincheng | Yang Dingxin | Win | B+R | 7.5 | 3597 | 24 | 

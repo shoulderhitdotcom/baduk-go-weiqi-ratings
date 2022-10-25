@@ -12,8 +12,8 @@
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Lixiang | Chen Shoulian | Win | W+R | 6.5 | 2753 | 32 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Lin Shimin | Chen Shoulian | Win | W+R | 6.5 | 2721 | 44 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Lin Xinwei | Chen Shoulian | Lose | B+R | 6.5 | 2677 | 93 | 
-| 2022-09-25 | 第10期中環碁聖戦 | Jian Jingting | Chen Shoulian | Win | W+0.5 | 6.5 | 2584 | -130 | 
-| 2022-07-28 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Zhou Yinnan | Lose | W+R | 6.5 | 2714 | -44 | 
+| 2022-09-25 | 第10期中環碁聖戦 | Jian Jingting | Chen Shoulian | Win | W+0.5 | 6.5 | 2584 | -131 | 
+| 2022-07-28 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Zhou Yinnan | Lose | W+R | 6.5 | 2715 | -43 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Lose | W+2.5 | 6.5 | 2758 | -7 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Zeng Pinjie | Chen Shoulian | Win | W+R | 6.5 | 2765 | -4 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lin Shuyang | Lose | W+1.5 | 6.5 | 2769 | 22 | 

@@ -13,9 +13,9 @@
 | 2022-10-03 | 第3回早碁争覇戦1回戦 |  | Zhou Yinnan | Win | W+R | 6.5 | 2568 | 64 | 
 | 2022-09-25 | 第10期中環碁聖戦 | Zhou Yinnan | Li Wei | Lose | W+0.5 | 6.5 | 2504 | -84 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Zhou Yinnan | Xiao Zhenghao | Lose | W+R | 6.5 | 2588 | 0 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Zhou Yinnan | Win | W+R | 6.5 | 2588 | 53 | 
-| 2022-07-28 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Zhou Yinnan | Win | W+R | 6.5 | 2535 | 167 | 
-| 2022-06-16 | 第15期棋王戦（台湾）予選 | Zhou Yinnan | Chen Weiting | Lose | W+R | 6.5 | 2368 | 93 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Zhou Yinnan | Win | W+R | 6.5 | 2588 | 52 | 
+| 2022-07-28 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Zhou Yinnan | Win | W+R | 6.5 | 2536 | 167 | 
+| 2022-06-16 | 第15期棋王戦（台湾）予選 | Zhou Yinnan | Chen Weiting | Lose | W+R | 6.5 | 2369 | 94 | 
 | 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Zhou Yinnan | Li Wei | Lose | W+R | 6.5 | 2275 | -85 | 
 | 2022-05-06 | 第3期聯電杯プロ囲碁戦予選 | Zhou Yinnan |  | Win | B+1.5 | 6.5 | 2360 | -309 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhou Yinnan |  | Lose | W+R | 6.5 | 2669 | -33 | 

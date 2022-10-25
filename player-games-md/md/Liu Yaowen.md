@@ -22,9 +22,9 @@
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Liu Yaowen | Win | W+R | 6.5 | 2739 | 69 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2670 | -1 | 
 | 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2671 | -34 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2705 | 14 | 
-| 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2691 | 78 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2613 | -12 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2705 | 13 | 
+| 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2692 | 78 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2614 | -11 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2625 | 42 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Huang Xiangren | Liu Yaowen | Win | W+R | 6.5 | 2583 | 23 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 |  | Liu Yaowen | Win | W+R | 6.5 | 2560 | 67 | 

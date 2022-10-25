@@ -13,15 +13,15 @@
 | 2022-10-03 | 第3回早碁争覇戦1回戦 | Zhou Keping | Bai Xinhui | Lose | W+R | 6.5 | 2310 | 99 | 
 | 2022-09-26 | 第3回早碁争覇戦予選 | Ding Shaojie | Zhou Keping | Win | W+R | 6.5 | 2211 | -2 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Zhou Keping | Lin Shixun | Lose | W+R | 6.5 | 2213 | 48 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 | Zhou Keping | Xiao Zhenghao | Lose | W+R | 6.5 | 2165 | 312 | 
-| 2022-06-16 | 第15期棋王戦（台湾）予選 |  | Zhou Keping | Win | W+R | 6.5 | 1853 | 0 | 
-| 2022-06-16 | 第15期棋王戦（台湾）予選 | Yu Lijun | Zhou Keping | Win | W+R | 6.5 | 1853 | -335 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 | Zhou Keping | Xiao Zhenghao | Lose | W+R | 6.5 | 2165 | 311 | 
+| 2022-06-16 | 第15期棋王戦（台湾）予選 |  | Zhou Keping | Win | W+R | 6.5 | 1854 | 0 | 
+| 2022-06-16 | 第15期棋王戦（台湾）予選 | Yu Lijun | Zhou Keping | Win | W+R | 6.5 | 1854 | -334 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Zhou Keping | Cai Chengwei | Lose | W+R | 6.5 | 2188 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Zhou Keping | Cai Chengwei | Lose | W+R | 6.5 | 2188 | 148 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 | Zhou Keping | Chen Feng | Lose | W+R | 6.5 | 2040 | -132 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2172 | 227 | 
-| 2021-09-05 | 第9期中環碁聖戦 |  | Zhou Keping | Lose | B+T | 6.5 | 1945 | -12 | 
-| 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Keping | Lin Yanchen | Lose | W+R | 6.5 | 1957 | -32 | 
+| 2021-09-05 | 第9期中環碁聖戦 |  | Zhou Keping | Lose | B+T | 6.5 | 1945 | -13 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Keping | Lin Yanchen | Lose | W+R | 6.5 | 1958 | -31 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Zhou Keping | Lose | B+R | 6.5 | 1989 | 32 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lu Yiquan | Lose | W+R | 6.5 | 1957 | 0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lin Shimin | Lose | W+8.5 | 6.5 | 1957 | 50 | 
@@ -38,9 +38,9 @@
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | Niu Shite | Lose | W+R | 6.5 | 2477 | 13 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | Lin Yuxiang | Win | B+R | 6.5 | 2464 | 127 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping |  | Win | B+R | 6.5 | 2337 | -16 | 
-| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | Lose | W+R | 6.5 | 2353 | -10 | 
-| 2020-03-12 | 第10期友士杯十段戦予選敗部1回戦 |  | Zhou Keping | Win | W+R | 6.5 | 2363 | 0 | 
-| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Keping | Lin Shengyi | Lose | W+0.5 | 6.5 | 2363 | -196 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | Lose | W+R | 6.5 | 2353 | -11 | 
+| 2020-03-12 | 第10期友士杯十段戦予選敗部1回戦 |  | Zhou Keping | Win | W+R | 6.5 | 2364 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Keping | Lin Shengyi | Lose | W+0.5 | 6.5 | 2364 | -195 | 
 | 2020-01-08 | 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | Lose | B+7.5 | 6.5 | 2559 | missing |
 
 

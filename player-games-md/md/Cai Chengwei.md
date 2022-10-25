@@ -18,10 +18,10 @@
 | 2022-09-25 | 第10期中環碁聖戦 | Cai Chengwei |  | Win | B+R | 6.5 | 2611 | -82 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2693 | 0 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2693 | -45 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 | Cai Chengwei | Lin Shuyang | Lose | W+R | 6.5 | 2738 | -20 | 
-| 2022-07-28 | 第15期棋王戦（台湾）予選 | Cai Chengwei |  | Lose | W+3.5 | 6.5 | 2758 | -22 | 
-| 2022-07-07 | 第15期棋王戦（台湾）予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2780 | 41 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Cai Chengwei | Jian Jingting | Lose | W+R | 6.5 | 2739 | 3 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 | Cai Chengwei | Lin Shuyang | Lose | W+R | 6.5 | 2738 | -21 | 
+| 2022-07-28 | 第15期棋王戦（台湾）予選 | Cai Chengwei |  | Lose | W+3.5 | 6.5 | 2759 | -21 | 
+| 2022-07-07 | 第15期棋王戦（台湾）予選 | Lin Shixun | Cai Chengwei | Win | W+R | 6.5 | 2780 | 40 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Cai Chengwei | Jian Jingting | Lose | W+R | 6.5 | 2740 | 4 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Shuyang | Cai Chengwei | Win | W+R | 6.5 | 2736 | -6 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Lu Yuhua | Lose | W+R | 6.5 | 2742 | 48 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Cai Chengwei | Lose | B+R | 6.5 | 2694 | 3 | 
@@ -43,14 +43,14 @@
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2862 | -42 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Win | W+R | 6.5 | 2904 | -6 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Cai Chengwei | Win | W+R | 6.5 | 2910 | 5 | 
-| 2021-09-22 | 第9期中環碁聖戦 | Cai Chengwei | Xu Yuqi | Lose | W+R | 6.5 | 2905 | -1 | 
-| 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 2906 | -22 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Win | W+R | 6.5 | 2928 | 21 | 
+| 2021-09-22 | 第9期中環碁聖戦 | Cai Chengwei | Xu Yuqi | Lose | W+R | 6.5 | 2905 | -2 | 
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 2907 | -22 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Win | W+R | 6.5 | 2929 | 22 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Chen Shoulian | Cai Chengwei | Win | W+R | 6.5 | 2907 | 27 | 
-| 2021-09-05 | 第9期中環碁聖戦 | Lin Yanchen | Cai Chengwei | Win | W+R | 6.5 | 2880 | -20 | 
-| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2900 | -19 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Cai Chengwei | Niu Shite | Lose | W+R | 6.5 | 2919 | -10 | 
-| 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Win | W+R | 6.5 | 2929 | 11 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Lin Yanchen | Cai Chengwei | Win | W+R | 6.5 | 2880 | -21 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2901 | -19 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Cai Chengwei | Niu Shite | Lose | W+R | 6.5 | 2920 | -10 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Win | W+R | 6.5 | 2930 | 12 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Cai Chengwei | Li Wei | Lose | W+R | 6.5 | 2918 | -4 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Chen Xi | Cai Chengwei | Lose | B+R | 6.5 | 2922 | -1 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zeng Pinjie | Cai Chengwei | Win | W+R | 6.5 | 2923 | 19 | 
@@ -65,8 +65,8 @@
 | 2021-03-26 | 第17期国手戦（台湾） | Cai Chengwei | Zhou Yinnan | Win | B+0.5 | 6.5 | 2928 | -10 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Cai Chengwei | Lu Yiquan | Lose | W+0.5 | 6.5 | 2938 | -3 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Niu Shite | Cai Chengwei | Win | W+R | 6.5 | 2941 | 94 | 
-| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | Lose | W+5.5 | 6.5 | 2847 | -11 | 
-| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Win | W+2.5 | 6.5 | 2858 | 71 | 
+| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | Lose | W+5.5 | 6.5 | 2847 | -12 | 
+| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Win | W+2.5 | 6.5 | 2859 | 72 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Lose | B+5.5 | 6.5 | 2787 | 10 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 | Cai Chengwei | Huang Xiangren | Win | B+R | 6.5 | 2777 | -4 | 
 | 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Cai Chengwei | Lose | B+0.5 | 6.5 | 2781 | -23 | 
@@ -96,15 +96,15 @@
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lin Shimin | Cai Chengwei | Lose | B+R | 6.5 | 2803 | -44 | 
 | 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2847 | 1 | 
 | 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Cai Chengwei | Li Wei | Lose | W+R | 6.5 | 2846 | -12 | 
-| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | Win | W+R | 6.5 | 2858 | 36 | 
-| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Xu Haohong | Lose | W+R | 7.5 | 2822 | -2 | 
-| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Lin Shuyang | Cai Chengwei | Win | W+3.5 | 6.5 | 2824 | 29 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | Win | W+R | 6.5 | 2858 | 35 | 
+| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Xu Haohong | Lose | W+R | 7.5 | 2823 | -2 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Lin Shuyang | Cai Chengwei | Win | W+3.5 | 6.5 | 2825 | 30 | 
 | 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Chuanting | Win | B+R | 7.5 | 2795 | 8 | 
 | 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Lin Ziyuan | Cai Chengwei | Win | W+R | 6.5 | 2787 | 0 | 
 | 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2787 | 10 | 
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Bai Xinhui | Win | B+R | 7.5 | 2777 | 0 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Yifang | Win | B+R | 7.5 | 2777 | -5 | 
-| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Lose | W+4.5 | 6.5 | 2782 | 22 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Yifang | Win | B+R | 7.5 | 2777 | -6 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Lose | W+4.5 | 6.5 | 2783 | 23 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | Win | W+R | 6.5 | 2760 | 11 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2749 | 0 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Li Wei | Cai Chengwei | Win | W+R | 6.5 | 2749 | 14 | 

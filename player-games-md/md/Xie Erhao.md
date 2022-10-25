@@ -42,17 +42,17 @@
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Xie Erhao | Tong Mengcheng | Lose | W+R | 7.5 | 3433 | 0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3433 | -72 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | Lose | B+1¾ | 7.5 | 3505 | -6 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Win | W+1¼ | 7.5 | 3511 | -14 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3525 | 9 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Win | W+1¼ | 7.5 | 3511 | -15 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Lose | W+R | 6.5 | 3526 | 10 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Lose | W+R | 7.5 | 3516 | -10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | Win | B+¾ | 7.5 | 3526 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xie Erhao | Ke Jie | Lose | W+¼ | 7.5 | 3522 | -14 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Lose | B+¾ | 7.5 | 3536 | -19 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Lose | B+¾ | 7.5 | 3555 | -7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3562 | 20 | 
-| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Lose | B+R | 7.5 | 3542 | -42 | 
-| 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3584 | 22 | 
-| 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3562 | 7 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Lose | B+R | 7.5 | 3542 | -43 | 
+| 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3585 | 22 | 
+| 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3563 | 8 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3555 | 17 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Win | B+1¾ | 7.5 | 3538 | 5 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | Lose | W+R | 6.5 | 3533 | 14 | 
@@ -92,8 +92,8 @@
 | 2020-09-29 | 第25回三星火災杯中国一般枠予選 | Xie Erhao | Meng Tailing | Win | B+2.5 | 6.5 | 3458 | 20 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Xie Erhao | Lose | B+R | 7.5 | 3438 | -22 | 
 | 2020-09-17 | 第22回農心杯中国選抜戦 | Jiang Weijie | Xie Erhao | Lose | B+R | 6.5 | 3460 | -26 | 
-| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Xie Erhao | Xie Ke | Win | B+R | 6.5 | 3486 | 14 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Jinseo | Xie Erhao | Lose | B+R | 7.5 | 3472 | -6 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Xie Erhao | Xie Ke | Win | B+R | 6.5 | 3486 | 13 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Jinseo | Xie Erhao | Lose | B+R | 7.5 | 3473 | -5 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xie Erhao | Win | W+R | 7.5 | 3478 | 32 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Xie Erhao | Chen Haoxin | Win | B+R | 7.5 | 3446 | 23 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Xie Erhao | Park Junghwan | Lose | W+R | 7.5 | 3423 | 4 | 

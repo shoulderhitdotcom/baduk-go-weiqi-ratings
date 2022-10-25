@@ -19,8 +19,8 @@
 | 2022-09-15 | 第15期棋王戦（台湾）リーグ | Li Wei | Niu Shite | Lose | B+R | 6.5 | 2752 | -47 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Shuyang | Niu Shite | Lose | B+R | 6.5 | 2799 | -99 | 
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Niu Shite | Li Wei | Lose | W+R | 6.5 | 2898 | -47 | 
-| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | Lose | W+R | 6.5 | 2945 | 13 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Win | B+R | 6.5 | 2932 | 6 | 
+| 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | Lose | W+R | 6.5 | 2945 | 12 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Win | B+R | 6.5 | 2933 | 7 | 
 | 2022-06-13 | 2022新人王戦（台湾）予選 |  | Niu Shite | Win | W+R | 7.5 | 2926 | 5 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Li Wei | Niu Shite | Lose | B+R | 6.5 | 2921 | -42 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | Lose | B+R | 6.5 | 2963 | 0 | 

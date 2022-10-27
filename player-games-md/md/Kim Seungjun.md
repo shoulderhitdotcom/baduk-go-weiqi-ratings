@@ -7,14 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-21 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Seungjun | Win | W+R | 6.5 | 2985 | 42 | 
-| 2022-10-19 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Kim Soojang | Lose | W+2.5 | 6.5 | 2943 | -18 | 
-| 2022-10-10 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Kim Dongyeop | Win | B+20.5 | 6.5 | 2961 | 22 | 
-| 2022-10-06 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Jeong Daesang | Win | B+R | 6.5 | 2939 | 36 | 
-| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Seungjun | Win | W+6.5 | 6.5 | 2903 | 27 | 
-| 2022-09-27 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Choi Kyubyeong | Lose | W+2.5 | 6.5 | 2876 | -20 | 
-| 2022-09-23 | 2022韓国シニア囲碁リーグ |  | Kim Seungjun | Win | W+R | 6.5 | 2896 | 0 | 
-| 2022-09-19 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Seungjun | Win | W+R | 6.5 | 2896 | 17 | 
+| 2022-10-27 | 2022韓国シニア囲碁リーグ | Kim JongJoon | Kim Seungjun | Win | W+R | 6.5 | 2996 | 10 | 
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Seungjun | Win | W+R | 6.5 | 2986 | 42 | 
+| 2022-10-19 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Kim Soojang | Lose | W+2.5 | 6.5 | 2944 | -18 | 
+| 2022-10-10 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Kim Dongyeop | Win | B+20.5 | 6.5 | 2962 | 22 | 
+| 2022-10-06 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Jeong Daesang | Win | B+R | 6.5 | 2940 | 36 | 
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kim Ilhwan | Kim Seungjun | Win | W+6.5 | 6.5 | 2904 | 27 | 
+| 2022-09-27 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Choi Kyubyeong | Lose | W+2.5 | 6.5 | 2877 | -20 | 
+| 2022-09-23 | 2022韓国シニア囲碁リーグ |  | Kim Seungjun | Win | W+R | 6.5 | 2897 | 0 | 
+| 2022-09-19 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Kim Seungjun | Win | W+R | 6.5 | 2897 | 18 | 
 | 2022-09-13 | 2022韓国シニア囲碁リーグ | Kim Soojang | Kim Seungjun | Win | W+R | 6.5 | 2879 | 26 | 
 | 2022-09-08 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Seungjun | Win | W+4.5 | 6.5 | 2853 | 55 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Seungjun | Lee Changho | Lose | W+R | 6.5 | 2798 | 12 | 
@@ -41,8 +42,8 @@
 | 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Seungjun | Lee Changseok | Lose | W+5.5 | 6.5 | 2578 | -11 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Miri | Win | B+0.5 | 6.5 | 2589 | -151 | 
 | 2021-09-07 | 第15回GGオークション杯女流対シニア連勝対抗戦第14局 | Oh Yujin | Kim Seungjun | Lose | B+R | 6.5 | 2740 | 0 | 
-| 2020-04-29 | 第3期韓国竜星戦8強戦 | Park Junghwan | Kim Seungjun | Lose | B+R | 6.5 | 2740 | 41 | 
-| 2020-04-16 | 第25回LG杯韓国予選 | Park Hyunsoo | Kim Seungjun | Lose | B+R | 6.5 | 2699 | -34 | 
+| 2020-04-29 | 第3期韓国竜星戦8強戦 | Park Junghwan | Kim Seungjun | Lose | B+R | 6.5 | 2740 | 40 | 
+| 2020-04-16 | 第25回LG杯韓国予選 | Park Hyunsoo | Kim Seungjun | Lose | B+R | 6.5 | 2700 | -33 | 
 | 2020-03-30 | 第3期韓国竜星戦16強戦 | Kim Seungjun | Han Wonggyu | Win | B+0.5 | 6.5 | 2733 | missing |
 
 

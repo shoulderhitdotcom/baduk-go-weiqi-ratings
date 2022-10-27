@@ -7,13 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-27 | 第61期十段戦2回戦 | Fujisawa Rina | Rin Kanketsu | Win | B+R | 6.5 | 3153 | 84 | 
+| 2022-10-23 | 第41期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3069 | 0 | 
 | 2022-10-15 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第8戦  | Li He | Fujisawa Rina | Lose | B+R | 6.5 | 3069 | -19 | 
 | 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+R | 6.5 | 3088 | 33 | 
 | 2022-09-29 | 第48期名人戦予選 | Fujisawa Rina | Adachi Toshimasa | Lose | W+R | 6.5 | 3055 | -43 | 
 | 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 3098 | 40 | 
 | 2022-09-12 | 第61期十段戦予選  | Fujisawa Rina | Anzai Nobuaki | Win | B+R | 6.5 | 3058 | -10 | 
-| 2022-09-08 | 第78期本因坊戦予選  | Fujisawa Rina | Otake Yu | Lose | W+R | 6.5 | 3068 | -68 | 
-| 2022-08-11 | 第78期本因坊戦予選 | Murakawa Daisuke | Fujisawa Rina | Win | W+R | 6.5 | 3136 | -9 | 
+| 2022-09-08 | 第78期本因坊戦予選  | Fujisawa Rina | Otake Yu | Lose | W+R | 6.5 | 3068 | -67 | 
+| 2022-08-11 | 第78期本因坊戦予選 | Murakawa Daisuke | Fujisawa Rina | Win | W+R | 6.5 | 3135 | -10 | 
 | 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Fujisawa Rina | Nakamura Sumire | Lose | W+1.5 | 6.5 | 3145 | -11 | 
 | 2022-07-11 | 第47期棋聖戦Cリーグ |  | Fujisawa Rina | Lose | B+1.5 | 6.5 | 3156 | -50 | 
 | 2022-07-07 | 第78期本因坊戦予選 | Fujisawa Rina | Nakamura Shinya | Win | B+R | 6.5 | 3206 | 12 | 

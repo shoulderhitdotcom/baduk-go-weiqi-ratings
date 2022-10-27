@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第40期女流本因坊戦予選  | missing | Cho Chien | B+R | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3VLK5hpfyL3kl0ArE5JQvA%3D%3D) | 
 | 第40期女流本因坊戦予選  | Cho Chien | missing | B+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9KgfTKuXmtBNlgIQszwyoA%3D%3D) | 

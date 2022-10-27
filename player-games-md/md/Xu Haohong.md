@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Xu Haohong | Gon Jiwoo | Win | B+1.5 | 6.5 | 3385 | 12 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦  | Xu Haohong | Gon Jiwoo | Win | B+1.5 | 6.5 | 3385 | 12 | 
 | 2022-10-21 | 第3期聯電杯プロ囲碁戦挑戦手合七番勝負第5局 | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3373 | 13 | 
 | 2022-10-20 | 第15期棋王戦（台湾）挑戦者決定プレーオフ  | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3360 | 7 | 
 | 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Haohong | Chen Weiting | Win | B+R | 7.5 | 3353 | -15 | 

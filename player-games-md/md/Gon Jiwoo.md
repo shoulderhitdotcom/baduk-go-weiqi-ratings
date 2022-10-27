@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Xu Haohong | Gon Jiwoo | Lose | B+1.5 | 6.5 | 3046 | 57 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦  | Xu Haohong | Gon Jiwoo | Lose | B+1.5 | 6.5 | 3046 | 57 | 
 | 2022-10-06 | 第2期韓国棋院選手権戦予選 | Gon Jiwoo | Kim Beomseo | Win | B+R | 6.5 | 2989 | -25 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Gon Jiwoo | Lee Changseok | Win | B+R | 6.5 | 3014 | 36 | 
 | 2022-07-29 | 第3期利鵬杯新鋭最高位戦2回戦 | Gon Jiwoo | Oh Byungwoo | Lose | W+R | 6.5 | 2978 | -33 | 

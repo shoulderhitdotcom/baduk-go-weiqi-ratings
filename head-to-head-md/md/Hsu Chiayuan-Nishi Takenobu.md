@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hsu Chiayuan vs Nishi Takenobu** | **Hsu Chiayuan streak** | **Nishi Takenobu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Nishi Takenobu** | **Hsu Chiayuan Streak** | **Nishi Takenobu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-03-22 | 第3回グロービス杯国内予選 | Nishi Takenobu | Hsu Chiayuan | W+R | 6.5 | 1:0 | 1 | 0 |
 

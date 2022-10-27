@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Takao Shinji vs Yamashita Keigo** | **Takao Shinji streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Takao Shinji Vs Yamashita Keigo** | **Takao Shinji Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-27 | 第47期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Takao Shinji | B+R | 6.5 | 17:18 | 0 | 1 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | B+3.5 | 6.5 | 17:17 | 4 | 0 | 
 | 2020-10-30 | 第45期棋聖戦挑戦者決定トーナメント | Takao Shinji | Yamashita Keigo | B+5.5 | 6.5 | 16:17 | 3 | 0 | 
 | 2019-08-22 | 第44期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | B+6.5 | 6.5 | 15:17 | 2 | 0 | 

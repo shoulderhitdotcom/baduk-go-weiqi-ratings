@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-26 | 第10期中環碁聖戦16強戦 | Zhou Pingqiang | Li Wei | Win | W+2.5 | 6.5 | 3042 | 3 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Li Wei |  | Win | B+R | 6.5 | 3039 | 58 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Li Wei | Lin Junyan | Win | B+R | 6.5 | 2981 | 17 | 
 | 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Li Wei | Xu Jingen | Lose | W+R | 7.5 | 2964 | 59 | 

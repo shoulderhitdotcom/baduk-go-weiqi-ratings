@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第47期天元戦予選 | Ushikubo Yoshitaka | Yu Zhengqi | W+R | 2020-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xKHBOZCOxC%2FzdphlzSnpJQ%3D%3D) | 
 | 第42期棋聖戦ファーストトーナメント | Sada Atsushi | Ushikubo Yoshitaka | B+R | 2016-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4blCTlAfyEMJakAMUxeH3A%3D%3D) | 

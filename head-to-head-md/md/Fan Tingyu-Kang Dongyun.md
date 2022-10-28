@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Kang Dongyun** | **Fan Tingyu Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Fan Tingyu | Kang Dongyun | B+R | 6.5 | 3:3 | 1 | 0 | 
 | 2022-10-14 | 第24回農心辛ラーメン杯世界囲碁最強戦第4戦 | Fan Tingyu | Kang Dongyun | W+R | 6.5 | 2:3 | 0 | 1 | 
 | 2016-11-25 | 第18回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kang Dongyun | Fan Tingyu | W+R | 6.5 | 2:2 | 1 | 0 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Tingyu | Kang Dongyun | W+R | 7.5 | 1:2 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Park Junghwan** | **Ke Jie Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Park Junghwan | W+R | 6.5 | 13:13 | 0 | 1 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | W+R | 6.5 | 13:12 | 1 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Park Junghwan | W+R | 7.5 | 12:12 | 0 | 1 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Ke Jie | Park Junghwan | B+R | 7.5 | 12:11 | 2 | 0 | 

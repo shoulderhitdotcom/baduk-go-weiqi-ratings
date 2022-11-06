@@ -461,18 +461,20 @@ top100_movements = @chain pings_hist_adj begin
     groupby(:name)
     combine(df -> begin
         if nrow(df) == 1
-            error("what")
+            # error("what")
+            return DataFrame(rating_change = missing)
+            # DataFrame(rating_change=diff(_.Rating))
         end
         @chain df begin
             sort(:date)
             DataFrame(rating_change=diff(_.Rating))
         end
     end)
-    @subset :rating_change != 0
-    @transform :abs_rating_change = abs(:rating_change)
-    sort(:abs_rating_change, rev=true)
-    @transform :eng_name = get(NAMESDB, :name, "")
-    select(:eng_name => :Name, :abs_rating_change => Symbol("Rating Change"), :name => Symbol("汉字"))
+    # @subset :rating_change != 0
+    # @transform :abs_rating_change = abs(:rating_change)
+    # sort(:abs_rating_change, rev=true)
+    # @transform :eng_name = get(NAMESDB, :name, "")
+    # select(:eng_name => :Name, :abs_rating_change => Symbol("Rating Change"), :name => Symbol("汉字"))
 end
 
 JDF.save("top100_movements.jdf", top100_movements)

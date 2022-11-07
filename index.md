@@ -460,7 +460,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Park Hamin | 167 | 52 | 朴河旼 | 
 | Yamashita Keigo | 162 | 20 | 山下敬吾 | 
 | Han Seungjoo | 158 | 38 | 韓昇周 | 
-| Kim Jinhyu | 157 | 24 | 金眞輝 | 
+| Kim Jinhyu | 156 | 24 | 金眞輝 | 
 | Tuo Jiaxi | 155 | 40 | 柁嘉熹 | 
 | Sada Atsushi | 147 | 44 | 佐田篤史 | 
 | Shida Tatsuya | 147 | 14 | 志田達哉 | 
@@ -474,10 +474,10 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Yu Zhengqi | 100 | 44 | 余正麒 | 
 | Li Weiqing | 97 | 29 | 李維清 | 
 | Park Geunho | 92 | 39 | 朴鍵昊 | 
-| Shibano Toramaru | 86 | 47 | 芝野虎丸 | 
+| Shibano Toramaru | 85 | 47 | 芝野虎丸 | 
 | Ryu Minhyung | 84 | 40 | 柳珉瀅 | 
 | Li Xiangyu | 78 | 13 | 李翔宇 | 
-| Chen Zijian | 76 | 15 | 陳梓健 | 
+| Chen Zijian | 75 | 15 | 陳梓健 | 
 | Fan Yin | 73 | 27 | 范胤 | 
 | Peng Liyao | 73 | 37 | 彭立尭 | 
 | Hong Seongji | 65 | 26 | 洪性志 | 
@@ -489,7 +489,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Lee Wonyoung | 35 | 32 | 李元栄 | 
 | Chen Zhengxun | 31 | 13 | 陳正勲 | 
 | Zhang Tao | 24 | 27 | 張涛 | 
-| Zhao Chenyu | 20 | 40 | 趙晨宇 | 
+| Zhao Chenyu | 19 | 40 | 趙晨宇 | 
 | Shin Minjun | 19 | 84 | 申旻埈 | 
 | Seol Hyunjun | 14 | 52 | 偰玹準 | 
 | Hong Mujin | 13 | 24 | 洪茂鎭 | 
@@ -537,7 +537,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Liao Yuanhe | -175 | 34 | 廖元赫 | 
 | Jiang Weijie | -185 | 31 | 江維傑 | 
 | Yun Chanhee | -196 | 32 | 尹燦熙 | 
-| Weon Seongjin | -225 | 79 | 元晟溱 | 
+| Weon Seongjin | -226 | 79 | 元晟溱 | 
 | Xia Chenkun | -229 | 21 | 夏晨琨 |
 
 

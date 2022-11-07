@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Muramatsu Hiroki vs Yu Zhengqi** | **Muramatsu Hiroki streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Muramatsu Hiroki Vs Yu Zhengqi** | **Muramatsu Hiroki Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-07 | 第47期名人戦予選 | Muramatsu Hiroki | Yu Zhengqi | W+R | 6.5 | 0:1 | 0 | 1 |
 

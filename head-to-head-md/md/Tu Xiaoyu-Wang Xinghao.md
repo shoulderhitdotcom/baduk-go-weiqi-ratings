@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tu Xiaoyu Vs Wang Xinghao** | **Tu Xiaoyu Streak** | **Wang Xinghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-07 | 第4回聶衛平杯囲碁ユースマスターズ決勝 | Wang Xinghao | Tu Xiaoyu | W+R | 7.5 | 8:6 | 2 | 0 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Tu Xiaoyu | Wang Xinghao | B+R | 7.5 | 7:6 | 1 | 0 | 
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Tu Xiaoyu | B+2.5 | 6.5 | 6:6 | 0 | 1 | 
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | B+R | 7.5 | 6:5 | 2 | 0 | 

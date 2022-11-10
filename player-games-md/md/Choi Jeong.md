@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-10 | 第27期女流国手戦準決勝 | Choi Jeong | Oh Jeonga | Win | B+R | 6.5 | 3303 | 3 | 
 | 2022-11-08 | 第27回三星火災杯世界囲碁マスターズ決勝三番勝負第2局  | Choi Jeong | Shin Jinseo | Lose | W+R | 6.5 | 3300 | 0 | 
 | 2022-11-07 | 第27回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Choi Jeong | Lose | B+R | 6.5 | 3300 | 13 | 
 | 2022-11-04 | 第27回三星火災杯世界囲碁マスターズ準決勝 | Choi Jeong | Byun Sangil | Win | B+R | 6.5 | 3287 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Murakawa Daisuke** | **Ichiriki Ryo Streak** | **Murakawa Daisuke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-10 | 第61期十段戦2回戦 | Murakawa Daisuke | Ichiriki Ryo | W+2.5 | 6.5 | 10:3 | 3 | 0 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | W+R | 6.5 | 9:3 | 2 | 0 | 
 | 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦準決勝  | Murakawa Daisuke | Ichiriki Ryo | W+R | 6.5 | 8:3 | 1 | 0 | 
 | 2020-09-14 | 第45期棋聖戦Sリーグ | Ichiriki Ryo | Murakawa Daisuke | W+1.5 | 6.5 | 7:3 | 0 | 1 | 

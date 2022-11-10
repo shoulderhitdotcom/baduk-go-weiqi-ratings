@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Oh Jeonga** | **Choi Jeong Streak** | **Oh Jeonga Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-10 | 第27期女流国手戦準決勝 | Choi Jeong | Oh Jeonga | B+R | 6.5 | 11:5 | 2 | 0 | 
 | 2022-08-16 | 2021中国女子囲碁乙級リーグ | Oh Jeonga | Choi Jeong | W+R | 7.5 | 10:5 | 1 | 0 | 
 | 2022-07-24 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | B+3.5 | 6.5 | 9:5 | 0 | 1 | 
 | 2022-06-02 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Choi Jeong | W+R | 6.5 | 9:4 | 8 | 0 | 

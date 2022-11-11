@@ -13,8 +13,8 @@
 | 2022-09-22 | 第48期名人戦予選 | Fujita Akihiko | Takemiya Masaki | Win | B+R | 6.5 | 3339 | 0 | 
 | 2022-06-30 | 第47期棋聖戦Bリーグ | Fujita Akihiko | Hirose Yuichi | Win | B+4.5 | 6.5 | 3339 | 497 | 
 | 2022-02-14 | 第70期王座戦予選 | Fujita Akihiko | Kono Rin | Lose | W+3.5 | 6.5 | 2842 | 10 | 
-| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Lose | B+R | 6.5 | 2832 | 268 | 
-| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Win | B+R | 6.5 | 2564 | -221 | 
+| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Lose | B+R | 6.5 | 2832 | 267 | 
+| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Win | B+R | 6.5 | 2565 | -220 | 
 | 2021-08-12 | 第46期棋聖戦Bリーグ | Shida Tatsuya | Fujita Akihiko | Win | W+2.5 | 6.5 | 2785 | 334 | 
 | 2021-04-19 | 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | Lose | B+1.5 | 6.5 | 2451 | -74 | 
 | 2021-03-18 | 第69期王座戦予選 | Fujita Akihiko | O Rissei | Lose | W+1.5 | 6.5 | 2525 | -520 | 

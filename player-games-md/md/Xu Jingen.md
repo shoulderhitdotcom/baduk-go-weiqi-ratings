@@ -30,11 +30,11 @@
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Lin Junyan | Xu Jingen | Lose | B+R | 6.5 | 3025 | -2 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Zheng Zaixiang | Xu Jingen | Lose | B+R | 7.5 | 3027 | -13 | 
 | 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Lai Junfu | Lose | W+R | 6.5 | 3040 | 20 | 
-| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3020 | 12 | 
-| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 3008 | 0 | 
-| 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3008 | 0 | 
-| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Xiao Zhenghao | Win | B+R | 6.5 | 3008 | -8 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 | Jian Jingting | Xu Jingen | Win | W+R | 6.5 | 3016 | -8 | 
+| 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3020 | 11 | 
+| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 3009 | 0 | 
+| 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3009 | 0 | 
+| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Xu Jingen | Xiao Zhenghao | Win | B+R | 6.5 | 3009 | -8 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 | Jian Jingting | Xu Jingen | Win | W+R | 6.5 | 3017 | -7 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選  | Xu Jingen | Chen Shiyuan | Win | B+R | 6.5 | 3024 | 7 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Xu Jingen | Win | W+T | 6.5 | 3017 | -1 | 
 | 2022-06-21 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 3018 | 8 | 
@@ -46,11 +46,11 @@
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Zeng Pinjie | Win | B+3.5 | 6.5 | 2913 | 3 | 
 | 2022-06-07 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lu Yiquan | Xu Jingen | Win | W+R | 6.5 | 2910 | 46 | 
 | 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Chen Shoulian | Xu Jingen | Win | W+2.5 | 6.5 | 2864 | 26 | 
-| 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Xu Jingen |  | Win | B+R | 6.5 | 2838 | -1 | 
-| 2022-05-04 | 第9回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 6.5 | 2839 | -42 | 
-| 2022-04-29 | 第9回グロービス杯台湾予選 | Xu Jingen | Yang Zixuan | Win | B+R | 6.5 | 2881 | 0 | 
-| 2022-04-29 | 第9回グロービス杯台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 2881 | -21 | 
-| 2022-04-18 | 第12期友士杯十段戦2回戦 | Xu Jingen | Lin Shixun | Lose | W+R | 6.5 | 2902 | 6 | 
+| 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Xu Jingen |  | Win | B+R | 6.5 | 2838 | -2 | 
+| 2022-05-04 | 第9回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 6.5 | 2840 | -42 | 
+| 2022-04-29 | 第9回グロービス杯台湾予選 | Xu Jingen | Yang Zixuan | Win | B+R | 6.5 | 2882 | 0 | 
+| 2022-04-29 | 第9回グロービス杯台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 2882 | -21 | 
+| 2022-04-18 | 第12期友士杯十段戦2回戦 | Xu Jingen | Lin Shixun | Lose | W+R | 6.5 | 2903 | 7 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Huang Shiyuan | Xu Jingen | Win | W+R | 6.5 | 2896 | 0 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Lose | W+0.5 | 6.5 | 2896 | 9 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Win | W+R | 6.5 | 2887 | -6 | 
@@ -64,8 +64,8 @@
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Xu Jingen | Ding Shaojie | Win | B+R | 7.5 | 2957 | -15 | 
 | 2022-02-16 | 第18回倡棋杯台湾予選 |  | Xu Jingen | Win | W+R | 7.5 | 2972 | 0 | 
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Jingen | Bai Xinhui | Win | B+R | 7.5 | 2972 | 11 | 
-| 2022-01-28 | 2022議政府国際新鋭団体戦台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 2961 | 8 | 
-| 2022-01-11 | 第21期天元戦（台湾）予選 | Xu Jingen | Chen Yida | Lose | W+0.5 | 6.5 | 2953 | 49 | 
+| 2022-01-28 | 2022議政府国際新鋭団体戦台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 2961 | 7 | 
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Xu Jingen | Chen Yida | Lose | W+0.5 | 6.5 | 2954 | 50 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Xu Yuqi | Lose | W+1.5 | 6.5 | 2904 | -40 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 2944 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Ding Shaojie | Win | B+R | 6.5 | 2944 | -1 | 
@@ -111,9 +111,9 @@
 | 2020-09-28 | 第13期棋王戦（台湾）予選 | Chen Xi | Xu Jingen | Win | W+R | 6.5 | 2950 | 33 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Xu Jingen | Xu Yuqi | Lose | W+R | 6.5 | 2917 | 5 | 
 | 2020-09-15 | 第16期国手戦（台湾）1回戦 | Xu Jingen | Su Shengfang | Win | B+R | 6.5 | 2912 | 3 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Xu Jingen | Lin Shengyi | Win | B+5.5 | 6.5 | 2909 | -1 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 | Xu Jingen | Lin Shuyang | Lose | W+R | 6.5 | 2910 | 5 | 
-| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 2905 | -7 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Xu Jingen | Lin Shengyi | Win | B+5.5 | 6.5 | 2909 | -2 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Xu Jingen | Lin Shuyang | Lose | W+R | 6.5 | 2911 | 5 | 
+| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 2906 | -6 | 
 | 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Xu Jingen | Win | W+0.5 | 6.5 | 2912 | 8 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Xu Jingen | Huang Shiyuan | Win | B+R | 6.5 | 2904 | -80 | 
 | 2020-07-20 | 第1期名人冠軍戦2回戦 | Xu Jingen | Chen Xi | Lose | W+R | 6.5 | 2984 | 44 | 

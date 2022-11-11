@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Shibano Toramaru** | **Cho U streak** | **Shibano Toramaru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Shibano Toramaru** | **Cho U Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-06-07 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Cho U | W+R | 6.5 | 3:7 | 1 | 0 | 
 | 2019-10-08 | 第44期名人戦挑戦手合七番勝負第5局  | Cho U | Shibano Toramaru | W+R | 6.5 | 2:7 | 0 | 4 | 

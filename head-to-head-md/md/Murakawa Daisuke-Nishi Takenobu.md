@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Nishi Takenobu** | **Murakawa Daisuke streak** | **Nishi Takenobu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Nishi Takenobu** | **Murakawa Daisuke Streak** | **Nishi Takenobu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-04-07 | 第78期本因坊戦予選 | Murakawa Daisuke | Nishi Takenobu | B+4.5 | 6.5 | 1:0 | 1 | 0 |
 

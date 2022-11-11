@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Murakawa Daisuke** | **Cho U streak** | **Murakawa Daisuke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Murakawa Daisuke** | **Cho U Streak** | **Murakawa Daisuke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-20 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Cho U | W+R | 6.5 | 7:6 | 1 | 0 | 
 | 2020-08-10 | 第76期本因坊戦予選 | Murakawa Daisuke | Cho U | B+R | 6.5 | 6:6 | 0 | 2 | 

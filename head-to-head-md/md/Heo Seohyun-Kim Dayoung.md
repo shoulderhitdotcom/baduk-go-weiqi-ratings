@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Heo Seohyun Vs Kim Dayoung** | **Heo Seohyun Streak** | **Kim Dayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-11 | 第6期女子棋聖戦（韓国）1回戦 | Heo Seohyun | Kim Dayoung | B+R | 6.5 | 5:3 | 3 | 0 | 
 | 2022-07-17 | 第8回韓国女子囲碁リーグ | Kim Dayoung | Heo Seohyun | W+0.5 | 6.5 | 4:3 | 2 | 0 | 
 | 2022-05-26 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Dayoung | B+2.5 | 6.5 | 3:3 | 1 | 0 | 
 | 2022-03-29 | 2022年アジア競技大会韓国予選 | Heo Seohyun | Kim Dayoung | W+R | 7.5 | 2:3 | 0 | 1 | 

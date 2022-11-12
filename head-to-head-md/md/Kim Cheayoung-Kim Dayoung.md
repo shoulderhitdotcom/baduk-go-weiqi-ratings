@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Kim Dayoung** | **Kim Cheayoung Streak** | **Kim Dayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-09-14 | 第8回韓国女子囲碁リーグ準プレーオフ第1戦 | Kim Dayoung | Kim Cheayoung | W+R | 6.5 | 13:3 | 3 | 0 | 
 | 2022-02-08 | 2022YK建機杯予選 | Kim Dayoung | Kim Cheayoung | W+R | 6.5 | 12:3 | 2 | 0 | 
 | 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | W+2.5 | 6.5 | 11:3 | 1 | 0 | 
 | 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | W+R | 6.5 | 10:3 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Park Jiyeon** | **Choi Jeong Streak** | **Park Jiyeon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-12 | 2022Dr.G女子最高棋士決定戦リーグ | Choi Jeong | Park Jiyeon | B+R | 6.5 | 12:5 | 7 | 0 | 
 | 2022-09-01 | 第8回韓国女子囲碁リーグ | Choi Jeong | Park Jiyeon | B+R | 6.5 | 11:5 | 6 | 0 | 
 | 2021-12-06 | 第5期韓国製紙女子棋聖戦準決勝 | Choi Jeong | Park Jiyeon | B+R | 6.5 | 10:5 | 5 | 0 | 
 | 2021-09-09 | 第7回韓国女子囲碁リーグ準プレーオフ第1戦 | Choi Jeong | Park Jiyeon | B+R | 6.5 | 9:5 | 4 | 0 | 

@@ -31,7 +31,7 @@ The ratings are based on 4609 games from 2021-11-15 to 2022-11-14.
 | 5 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3656 | 43 | CHN | Male | 18.8 | 王星昊 | 
 | 6 | [Mi Yuting](./player-games-md/md/Mi Yuting.md) | 3654 | 69 | CHN | Male | 26.9 | 芈昱廷 | 
 | 7 | [Xie Erhao](./player-games-md/md/Xie Erhao.md) | 3651 | 35 | CHN | Male | 24.2 | 謝爾豪 | 
-| 8 | [Byun Sangil](./player-games-md/md/Byun Sangil.md) | 3650 | 85 | KOR | Male | 25.8 | 卞相壹 | 
+| 8 | [Byun Sangil](./player-games-md/md/Byun Sangil.md) | 3650 | 85 | KOR | Male | 25.9 | 卞相壹 | 
 | 9 | [Tuo Jiaxi](./player-games-md/md/Tuo Jiaxi.md) | 3649 | 40 | CHN | Male | 31.9 | 柁嘉熹 | 
 | 10 | [Fan Tingyu](./player-games-md/md/Fan Tingyu.md) | 3647 | 51 | CHN | Male | 26.3 | 范廷鈺 | 
 | 11 | [Dang Yifei](./player-games-md/md/Dang Yifei.md) | 3643 | 36 | CHN | Male | 28.4 | 党毅飛 | 
@@ -50,7 +50,7 @@ The ratings are based on 4609 games from 2021-11-15 to 2022-11-14.
 | 24 | [Wang Zejin](./player-games-md/md/Wang Zejin.md) | 3542 | 17 | CHN | Male | missing | 王沢錦 | 
 | 25 | [Huang Yunsong](./player-games-md/md/Huang Yunsong.md) | 3542 | 38 | CHN | Male | 25.8 | 黄雲嵩 | 
 | 26 | [Kim Myounghoon](./player-games-md/md/Kim Myounghoon.md) | 3541 | 60 | KOR | Male | 25.6 | 金明訓 | 
-| 27 | [Xie Ke](./player-games-md/md/Xie Ke.md) | 3536 | 39 | CHN | Male | 22.8 | 謝科 | 
+| 27 | [Xie Ke](./player-games-md/md/Xie Ke.md) | 3536 | 39 | CHN | Male | 22.9 | 謝科 | 
 | 28 | [Tu Xiaoyu](./player-games-md/md/Tu Xiaoyu.md) | 3520 | 41 | CHN | Male | missing | 屠暁宇 | 
 | 29 | [Lian Xiao](./player-games-md/md/Lian Xiao.md) | 3519 | 39 | CHN | Male | 28.6 | 連笑 | 
 | 30 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3518 | 44 | JPN | Male | 33.5 | 井山裕太 | 
@@ -58,7 +58,7 @@ The ratings are based on 4609 games from 2021-11-15 to 2022-11-14.
 | 32 | [Xu Jiayang](./player-games-md/md/Xu Jiayang.md) | 3510 | 33 | CHN | Male | missing | 許嘉陽 | 
 | 33 | [Fan Yin](./player-games-md/md/Fan Yin.md) | 3508 | 27 | CHN | Male | missing | 范胤 | 
 | 34 | [Jiang Weijie](./player-games-md/md/Jiang Weijie.md) | 3507 | 31 | CHN | Male | 31.1 | 江維傑 | 
-| 35 | [Tang Weixing](./player-games-md/md/Tang Weixing.md) | 3505 | 34 | CHN | Male | 29.8 | 唐韋星 | 
+| 35 | [Tang Weixing](./player-games-md/md/Tang Weixing.md) | 3505 | 34 | CHN | Male | 29.9 | 唐韋星 | 
 | 36 | [Zhang Tao](./player-games-md/md/Zhang Tao.md) | 3505 | 27 | CHN | Male | 31.7 | 張涛 | 
 | 37 | [Tan Xiao](./player-games-md/md/Tan Xiao.md) | 3503 | 33 | CHN | Male | 29.7 | 檀嘯 | 
 | 38 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3497 | 33 | CHN | Male | 21.9 | 廖元赫 | 
@@ -86,7 +86,7 @@ The ratings are based on 4609 games from 2021-11-15 to 2022-11-14.
 | 60 | [Park Jinsol](./player-games-md/md/Park Jinsol.md) | 3406 | 28 | KOR | Male | 36.2 | 朴進率 | 
 | 61 | [An Sungjoon](./player-games-md/md/An Sungjoon.md) | 3403 | 42 | KOR | Male | 31.2 | 安成浚 | 
 | 62 | [Choi Cheolhan](./player-games-md/md/Choi Cheolhan.md) | 3402 | 25 | KOR | Male | 37.7 | 崔哲瀚 | 
-| 63 | [Park Joonhoon](./player-games-md/md/Park Joonhoon.md) | 3390 | 28 | KOR | Male | 22.8 | 朴鐘勲 | 
+| 63 | [Park Joonhoon](./player-games-md/md/Park Joonhoon.md) | 3390 | 28 | KOR | Male | 22.9 | 朴鐘勲 | 
 | 64 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3388 | 24 | KOR | Male | 28.5 | 洪茂鎭 | 
 | 65 | [Shen Zaiyi](./player-games-md/md/Shen Zaiyi.md) | 3386 | 15 | missing | missing | missing | 沈載益 | 
 | 66 | [Kang Seungmin](./player-games-md/md/Kang Seungmin.md) | 3381 | 41 | KOR | Male | 28.0 | 姜昇旼 | 
@@ -95,7 +95,7 @@ The ratings are based on 4609 games from 2021-11-15 to 2022-11-14.
 | 69 | [Yi Lingtao](./player-games-md/md/Yi Lingtao.md) | 3362 | 26 | CHN | Male | 22.5 | 伊淩濤 | 
 | 70 | [Kim Seongjae](./player-games-md/md/Kim Seongjae.md) | 3356 | 17 | KOR | Male | 30.3 | 金昇宰 | 
 | 71 | [Park Minkyu](./player-games-md/md/Park Minkyu.md) | 3349 | 23 | KOR | Male | missing | 朴珉奎 | 
-| 72 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3348 | 16 | KOR | Male | 34.4 | 李賢虎 | 
+| 72 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3348 | 16 | KOR | Male | 34.5 | 李賢虎 | 
 | 73 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3331 | 20 | JPN | Male | 44.2 | 山下敬吾 | 
 | 74 | [Ye Changxin](./player-games-md/md/Ye Changxin.md) | 3330 | 14 | missing | missing | missing | 葉長欣 | 
 | 75 | [Wi Taewoong](./player-games-md/md/Wi Taewoong.md) | 3322 | 23 | KOR | Male | 28.9 | 魏太雄 | 
@@ -175,7 +175,7 @@ Note that players with fewer than 13 games are not in the list
 | 134 | [Kim Eunji](./player-games-md/md/Kim Eunji.md) | 3174 | 73 | missing | missing | missing | 金恩持 | 
 | 135 | [Yu Zhiying](./player-games-md/md/Yu Zhiying.md) | 3172 | 30 | CHN | Female | 25.0 | 於之瑩 | 
 | 136 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3171 | 21 | JPN | Male | 21.0 | 大竹優 | 
-| 137 | [Kim Cheayoung](./player-games-md/md/Kim Cheayoung.md) | 3163 | 54 | KOR | Female | 26.8 | 金彩瑛 | 
+| 137 | [Kim Cheayoung](./player-games-md/md/Kim Cheayoung.md) | 3163 | 54 | KOR | Female | 26.9 | 金彩瑛 | 
 | 138 | [Liu Yuhang](./player-games-md/md/Liu Yuhang.md) | 3163 | 15 | CHN | Male | 21.3 | 劉宇航 | 
 | 139 | [Gang Woohyeok](./player-games-md/md/Gang Woohyeok.md) | 3158 | 21 |  | Unknown | missing | 康又赫 | 
 | 140 | [An Joyeong](./player-games-md/md/An Joyeong.md) | 3157 | 25 | KOR | Male | 43.2 | 安祚永 | 
@@ -211,7 +211,7 @@ Note that players with fewer than 13 games are not in the list
 | 170 | [Wang Shuo](./player-games-md/md/Wang Shuo.md) | 3046 | 14 | CHN | Male | missing | 王碩 | 
 | 171 | [Fang Ruoxi](./player-games-md/md/Fang Ruoxi.md) | 3045 | 24 | CHN | Female | missing | 方若曦 | 
 | 172 | [Kim Yoonyoung](./player-games-md/md/Kim Yoonyoung.md) | 3044 | 19 | KOR | Female | 33.6 | 金侖映 | 
-| 173 | [Nishi Takenobu](./player-games-md/md/Nishi Takenobu.md) | 3025 | 15 | JPN | Male | 23.1 | 西健伸 | 
+| 173 | [Nishi Takenobu](./player-games-md/md/Nishi Takenobu.md) | 3025 | 15 | JPN | Male | 23.2 | 西健伸 | 
 | 174 | [Li He](./player-games-md/md/Li He.md) | 3021 | 22 | CHN | Female | 30.9 | 李赫 | 
 | 175 | [Lu Minquan](./player-games-md/md/Lu Minquan.md) | 3020 | 21 | CHN | Female | missing | 陸敏全 | 
 | 176 | [Gueon Hyojin](./player-games-md/md/Gueon Hyojin.md) | 3020 | 42 | KOR | Female | 40.7 | 権孝珍 | 

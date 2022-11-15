@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-15 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Win | W+R | 7.5 | 3178 | 2 | 
 | 2022-11-14 | 第15期棋王戦（台湾）挑戦手合七番勝負第2局  | Lin Junyan | Xu Haohong | Win | B+1.5 | 6.5 | 3176 | 23 | 
 | 2022-11-11 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Jingen | Lin Junyan | Win | W+R | 7.5 | 3153 | -44 | 
 | 2022-10-28 | 第10期中環碁聖戦8強戦 | Lin Junyan | Li Wei | Lose | W+R | 6.5 | 3197 | 42 | 

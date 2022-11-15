@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-15 | 第27回LG杯朝鮮日報棋王戦準決勝 | Ding Hao | Kang Dongyun | Win | B+R | 6.5 | 3639 | 8 | 
 | 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kim Myounghoon | Ding Hao | Win | W+2.5 | 6.5 | 3631 | -4 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Shi Yue | Ding Hao | Lose | B+R | 7.5 | 3635 | -5 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Ding Hao | Peng Liyao | Win | B+R | 7.5 | 3640 | -5 | 

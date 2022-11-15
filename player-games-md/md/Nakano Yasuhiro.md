@@ -7,18 +7,20 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-15 | 第49期天元戦予選 | Nakano Yasuhiro | Okuma Yuto | Win | B+R | 6.5 | 2852 | 79 | 
-| 2022-09-01 | 第61期十段戦予選 | Nakano Yasuhiro | Sun Zhe | Win | B+R | 6.5 | 2773 | 167 | 
-| 2022-08-24 | 第48期碁聖戦予選 | Abe Yoshiki | Nakano Yasuhiro | Lose | B+6.5 | 6.5 | 2606 | -383 | 
-| 2022-06-29 | 第61期十段戦予選 | Yata Naoki | Nakano Yasuhiro | Win | W+1.5 | 6.5 | 2989 | 536 | 
-| 2022-05-18 | 第48期名人戦予選 | Nakano Yasuhiro | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 2453 | -19 | 
-| 2022-05-11 | 第78期本因坊戦予選 | Yuki Satoshi | Nakano Yasuhiro | Lose | B+R | 6.5 | 2472 | 386 | 
-| 2022-04-14 | 第78期本因坊戦予選 | Nakano Yasuhiro | Watanabe Kandai | Win | B+R | 6.5 | 2086 | -366 | 
-| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nakano Yasuhiro | Sada Atsushi | Lose | W+0.5 | 6.5 | 2452 | -115 | 
-| 2021-09-15 | 第47期名人戦予選 | Kiyonari Tetsuya | Nakano Yasuhiro | Lose | B+R | 6.5 | 2567 | -181 | 
-| 2021-08-25 | 第70期王座戦予選 | Nakano Yasuhiro | Yu Zhengqi | Lose | W+R | 6.5 | 2748 | 72 | 
-| 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Win | W+2.5 | 6.5 | 2676 | -1 | 
-| 2021-06-16 | 第60期十段戦予選 |  | Nakano Yasuhiro | Lose | B+R | 6.5 | 2677 | 203 | 
+| 2022-11-15 | 第61期十段戦2回戦 | Nakano Yasuhiro | Iyama Yuta | Lose | W+R | 6.5 | 2996 | 147 | 
+| 2022-11-02 | 第67期関西棋院第一位決定戦1回戦 |  | Nakano Yasuhiro | Win | W+R | 6.5 | 2849 | 0 | 
+| 2022-09-15 | 第49期天元戦予選 | Nakano Yasuhiro | Okuma Yuto | Win | B+R | 6.5 | 2849 | 78 | 
+| 2022-09-01 | 第61期十段戦予選 | Nakano Yasuhiro | Sun Zhe | Win | B+R | 6.5 | 2771 | 167 | 
+| 2022-08-24 | 第48期碁聖戦予選 | Abe Yoshiki | Nakano Yasuhiro | Lose | B+6.5 | 6.5 | 2604 | -383 | 
+| 2022-06-29 | 第61期十段戦予選 | Yata Naoki | Nakano Yasuhiro | Win | W+1.5 | 6.5 | 2987 | 536 | 
+| 2022-05-18 | 第48期名人戦予選 | Nakano Yasuhiro | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 2451 | -20 | 
+| 2022-05-11 | 第78期本因坊戦予選 | Yuki Satoshi | Nakano Yasuhiro | Lose | B+R | 6.5 | 2471 | 387 | 
+| 2022-04-14 | 第78期本因坊戦予選 | Nakano Yasuhiro | Watanabe Kandai | Win | B+R | 6.5 | 2084 | -367 | 
+| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nakano Yasuhiro | Sada Atsushi | Lose | W+0.5 | 6.5 | 2451 | -115 | 
+| 2021-09-15 | 第47期名人戦予選 | Kiyonari Tetsuya | Nakano Yasuhiro | Lose | B+R | 6.5 | 2566 | -181 | 
+| 2021-08-25 | 第70期王座戦予選 | Nakano Yasuhiro | Yu Zhengqi | Lose | W+R | 6.5 | 2747 | 72 | 
+| 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Win | W+2.5 | 6.5 | 2675 | -1 | 
+| 2021-06-16 | 第60期十段戦予選 |  | Nakano Yasuhiro | Lose | B+R | 6.5 | 2676 | 202 | 
 | 2021-02-17 | 第77期本因坊戦予選 | Nakano Yasuhiro | Ha Youngil | Lose | W+1.5 | 6.5 | 2474 | -270 | 
 | 2021-01-14 | 第65期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | Lose | W+R | 6.5 | 2744 | 29 | 
 | 2020-11-12 | 第65期関西棋院第一位決定戦本戦1回戦 | Kubo Katsuaki | Nakano Yasuhiro | Win | W+4.5 | 6.5 | 2715 | 69 | 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2021奉賢新城杯囲碁大師招待戦1回戦 | Wang Runan | Hua Yigang | B+4¾ | 2021-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTTcd5MJKL9w2pYiO%2BbJ9A%3D%3D) | 
 | 第5回太平書鎮杯囲碁元老戦 | Hua Yigang | Wang Runan | W+R | 2020-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VBfTtVgQz%2BnBEDHtAopmOw%3D%3D) | 

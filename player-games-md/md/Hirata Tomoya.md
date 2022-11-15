@@ -7,15 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-10-01 | 第29期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hirata Tomoya | Win | W+1.5 | 6.5 | 3398 | 183 | 
-| 2022-09-22 | 第47期棋聖戦Cリーグ | Hirata Tomoya | Yokotsuka Riki | Win | B+3.5 | 6.5 | 3215 | 0 | 
-| 2022-08-22 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝  | Ichiriki Ryo | Hirata Tomoya | Win | W+R | 6.5 | 3215 | 38 | 
-| 2022-07-18 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Hirata Tomoya | Rin Kanketsu | Win | B+R | 6.5 | 3177 | 198 | 
-| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Win | B+R | 6.5 | 2979 | 378 | 
-| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Lose | B+R | 6.5 | 2601 | -173 | 
-| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2774 | -311 | 
-| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Lose | W+R | 6.5 | 3085 | 79 | 
-| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 3006 | -121 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Win | W+2¼ | 7.5 | 3467 | 74 | 
+| 2022-10-01 | 第29期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hirata Tomoya | Win | W+1.5 | 6.5 | 3393 | 182 | 
+| 2022-09-22 | 第47期棋聖戦Cリーグ | Hirata Tomoya | Yokotsuka Riki | Win | B+3.5 | 6.5 | 3211 | 0 | 
+| 2022-08-22 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝  | Ichiriki Ryo | Hirata Tomoya | Win | W+R | 6.5 | 3211 | 37 | 
+| 2022-07-18 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Hirata Tomoya | Rin Kanketsu | Win | B+R | 6.5 | 3174 | 198 | 
+| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Win | B+R | 6.5 | 2976 | 377 | 
+| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Lose | B+R | 6.5 | 2599 | -172 | 
+| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2771 | -313 | 
+| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Lose | W+R | 6.5 | 3084 | 79 | 
+| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 3005 | -122 | 
 | 2020-11-22 | 第15回広島アルミ杯・若鯉戦準決勝  | Hirata Tomoya | Fujisawa Rina | Lose | W+R | 6.5 | 3127 | -23 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦  | Onishi Ryuhei | Hirata Tomoya | Win | W+0.5 | 6.5 | 3150 | 0 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Win | B+1.5 | 6.5 | 3150 | -14 | 

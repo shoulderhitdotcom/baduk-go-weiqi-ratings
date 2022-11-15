@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Seol Hyunjun Vs Shu Yixiao** | **Seol Hyunjun Streak** | **Shu Yixiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-15 | 2022中国囲碁乙級リーグ | Seol Hyunjun | Shu Yixiao | W+R | 7.5 | 1:1 | 0 | 1 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Shu Yixiao | Seol Hyunjun | W+¼ | 7.5 | 1:0 | 1 | 0 |
 
 

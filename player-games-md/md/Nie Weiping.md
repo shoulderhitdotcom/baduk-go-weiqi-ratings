@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022年東方金融小鎮杯囲棋大師戦決勝 | Chang Hao | Nie Weiping | Lose | B+2¾ | 7.5 | 2704 | -13 | 
 | 2022-11-15 | 2022年東方金融小鎮杯囲棋大師戦準決勝 | Cao Dayuan | Nie Weiping | Win | W+R | 7.5 | 2717 | 0 | 
 | 2022-11-15 | 2022年東方金融小鎮杯囲棋大師戦1回戦 | Ma Xiaochun | Nie Weiping | Win | W+¼ | 7.5 | 2717 | 335 | 
 | 2022-07-25 | 2022龍華百局杯囲棋大師招待戦 | Nie Weiping | Cao Dayuan | Lose | W+R | 7.5 | 2382 | -262 | 

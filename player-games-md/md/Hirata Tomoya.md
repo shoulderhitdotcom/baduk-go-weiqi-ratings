@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Lose | W+R | 7.5 | 3410 | -57 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Win | W+2¼ | 7.5 | 3467 | 74 | 
 | 2022-10-01 | 第29期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hirata Tomoya | Win | W+1.5 | 6.5 | 3393 | 182 | 
 | 2022-09-22 | 第47期棋聖戦Cリーグ | Hirata Tomoya | Yokotsuka Riki | Win | B+3.5 | 6.5 | 3211 | 0 | 

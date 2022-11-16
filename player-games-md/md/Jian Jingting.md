@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁丙級リーグ |  | Jian Jingting | Win | W+R | 7.5 | 2959 | -2 | 
 | 2022-11-15 | 2022中国囲碁丙級リーグ | Jian Jingting |  | Win | B+¾ | 7.5 | 2961 | -24 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Jian Jingting | Yang Zixuan | Win | B+R | 6.5 | 2985 | 23 | 
 | 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Jian Jingting | Lai Junfu | Lose | W+R | 7.5 | 2962 | -5 | 

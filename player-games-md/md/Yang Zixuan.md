@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Yang Zixuan | Lose | B+R | 7.5 | 2743 | -10 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Yang Zixuan | Jeong Yujin | Win | B+2¼ | 7.5 | 2753 | -22 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Jian Jingting | Yang Zixuan | Lose | B+R | 6.5 | 2775 | 98 | 
 | 2022-10-06 | 第16期棋王戦（台湾）予選 | Lin Jiehan | Yang Zixuan | Win | W+R | 6.5 | 2677 | -23 | 

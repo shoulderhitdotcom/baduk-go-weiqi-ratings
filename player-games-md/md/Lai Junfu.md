@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁丙級リーグ | Lai Junfu |  | Win | B+R | 7.5 | 3231 | -3 | 
 | 2022-11-15 | 2022中国囲碁丙級リーグ |  | Lai Junfu | Win | W+R | 7.5 | 3234 | 4 | 
 | 2022-11-13 | 第10期中環碁聖戦決勝三番勝負第2局 | Lai Junfu | Lin Lixiang | Win | B+R | 6.5 | 3230 | 0 | 
 | 2022-11-06 | 第10期中環碁聖戦決勝三番勝負第1局 | Lin Lixiang | Lai Junfu | Win | W+R | 6.5 | 3230 | -5 | 

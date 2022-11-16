@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Lu Yiquan | Tong Yulin | Win | B+1¾ | 7.5 | 2889 | 21 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Lu Yiquan | Lose | B+R | 7.5 | 2868 | -4 | 
 | 2022-11-10 | 第3回早碁争覇戦準決勝  | Lu Yiquan | Wang Yuanjun | Lose | W+R | 6.5 | 2872 | -29 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Yu Lijun | Lu Yiquan | Win | W+R | 6.5 | 2901 | -6 | 

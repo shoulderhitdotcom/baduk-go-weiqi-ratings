@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Yang Zixuan | Win | B+R | 7.5 | 3049 | 10 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Gueon Hyojin | Win | W+R | 7.5 | 3039 | 10 | 
 | 2022-11-07 | 第6期女子棋聖戦（韓国）2回戦 | Gueon Hyojin | Kim Cheayoung | Lose | W+5.5 | 6.5 | 3029 | -11 | 
 | 2022-11-02 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | An Kwanwuk | Win | B+R | 6.5 | 3040 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Yu Lijun |  | Win | B+R | 7.5 | 2443 | -4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Cai Bihan | Yu Lijun | Lose | B+R | 7.5 | 2447 | -42 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Yu Lijun | Lu Yiquan | Lose | W+R | 6.5 | 2489 | 40 | 
 | 2022-10-21 | 第18期国手戦（台湾） | Su Shengfang | Yu Lijun | Win | W+T | 6.5 | 2449 | 47 | 

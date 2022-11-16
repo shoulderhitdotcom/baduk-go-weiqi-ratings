@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Win | W+R | 7.5 | 3342 | 36 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Han Woojin | Zhou Hexi | Win | B+R | 7.5 | 3306 | -16 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Han Woojin | Hsu Chiayuan | Lose | W+R | 6.5 | 3322 | 19 | 
 | 2022-09-16 | 第3期利鵬杯新鋭最高位戦決勝 | Han Woojin | Heo Youngrak | Win | B+R | 6.5 | 3303 | 52 | 

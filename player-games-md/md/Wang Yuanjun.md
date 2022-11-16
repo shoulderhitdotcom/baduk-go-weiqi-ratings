@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁丙級リーグ |  | Wang Yuanjun | Win | W+R | 7.5 | 3185 | -2 | 
 | 2022-11-15 | 2022中国囲碁丙級リーグ | Wang Yuanjun |  | Lose | W+R | 7.5 | 3187 | -5 | 
 | 2022-11-11 | 第3期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3192 | -6 | 
 | 2022-11-10 | 第3回早碁争覇戦準決勝  | Lu Yiquan | Wang Yuanjun | Win | W+R | 6.5 | 3198 | -29 | 

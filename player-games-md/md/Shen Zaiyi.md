@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3378 | -33 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3411 | 40 | 
 | 2022-09-02 | 第45期名人戦（韓国）敗者組2回戦 | Shen Zaiyi | Lee Jihyun | Lose | W+R | 6.5 | 3371 | -57 | 
 | 2022-08-02 | 第45期名人戦（韓国）2回戦 | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3428 | -38 | 

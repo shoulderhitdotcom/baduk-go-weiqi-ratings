@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Park Sangjin | Win | W+R | 7.5 | 3322 | 8 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Park Sangjin | Wu Guangya | Win | B+¾ | 7.5 | 3314 | 12 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Park Sangjin | Weon Seongjin | Lose | W+R | 6.5 | 3302 | -65 | 
 | 2022-07-20 | 2021中国囲碁乙級リーグ |  | Park Sangjin | Win | W+¾ | 7.5 | 3367 | -7 | 

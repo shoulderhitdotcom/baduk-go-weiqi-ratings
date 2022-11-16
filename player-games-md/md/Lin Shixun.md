@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ |  | Lin Shixun | Win | W+¼ | 7.5 | 3052 | -2 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Lin Shixun |  | Lose | W+¼ | 7.5 | 3054 | -52 | 
 | 2022-11-03 | 第3回早碁争覇戦3回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 3106 | 0 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Chen Shoulian | Lin Shixun | Win | W+R | 6.5 | 3106 | 20 | 

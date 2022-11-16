@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Win | W+R | 7.5 | 3420 | 4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Seol Hyunjun | Shu Yixiao | Lose | W+R | 7.5 | 3416 | -39 | 
 | 2022-10-17 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Seol Hyunjun | Kang Dongyun | Lose | W+R | 7.5 | 3455 | 2 | 
 | 2022-08-04 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Seol Hyunjun | Park Hyunsoo | Lose | W+R | 6.5 | 3453 | -20 | 

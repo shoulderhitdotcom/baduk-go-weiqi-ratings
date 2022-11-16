@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2020年中国囲碁乙級リーグ | Zhu Yuanhao | Fukuoka Kotaro | B+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgYXrhF9EgK51OuVFAMQzw%3D%3D) | 
 | 2019年中国囲碁乙級リーグ | Zhu Yuanhao | Lin Shixun | W+R | 2019-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cSNhx5uxMHicz%2BKN%2F40Brg%3D%3D) | 

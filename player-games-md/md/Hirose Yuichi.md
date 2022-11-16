@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Wang Xiru | Hirose Yuichi | Win | W+R | 7.5 | 3238 | -4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Wang Yucheng | Win | B+R | 7.5 | 3242 | 31 | 
 | 2022-09-28 | 第27回三星火災杯日本予選 | Sakai Yuki | Hirose Yuichi | Win | W+R | 6.5 | 3211 | 0 | 
 | 2022-09-28 | 第27回三星火災杯日本予選 | Hirose Yuichi | Sada Atsushi | Lose | W+R | 6.5 | 3211 | 14 | 

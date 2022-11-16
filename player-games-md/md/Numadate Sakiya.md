@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2403 | 0 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+¼ | 7.5 | 2403 | -319 | 
 | 2022-08-25 | 第47期棋聖戦Bリーグ | Seto Taiki | Numadate Sakiya | Lose | B+4.5 | 6.5 | 2722 | -436 | 
 | 2022-06-20 | 第61期十段戦予選 | Hoshiai Shiho | Numadate Sakiya | Lose | B+2.5 | 6.5 | 3158 | 49 | 

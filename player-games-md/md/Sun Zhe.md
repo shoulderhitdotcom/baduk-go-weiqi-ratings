@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Sun Zhe | Zhu Yuanhao | Lose | W+R | 7.5 | 3166 | -9 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Win | W+R | 7.5 | 3175 | 42 | 
 | 2022-09-01 | 第61期十段戦予選 | Nakano Yasuhiro | Sun Zhe | Lose | B+R | 6.5 | 3133 | -97 | 
 | 2022-07-11 | 第47期棋聖戦Aリーグ | So Yokoku | Sun Zhe | Win | W+R | 6.5 | 3230 | 61 | 

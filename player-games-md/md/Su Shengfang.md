@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ |  | Su Shengfang | Lose | B+R | 7.5 | 2443 | -7 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Su Shengfang | Huang Ziping | Lose | W+R | 7.5 | 2450 | -73 | 
 | 2022-10-21 | 第18期国手戦（台湾） | Su Shengfang | Yu Lijun | Lose | W+T | 6.5 | 2523 | 114 | 
 | 2022-10-06 | 第16期棋王戦（台湾）予選 |  | Su Shengfang | Win | W+4.5 | 6.5 | 2409 | 27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Lee Changseok | Guo Yuzheng | Win | B+1¾ | 7.5 | 3410 | -2 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Sun Tengyu | Lee Changseok | Win | W+R | 7.5 | 3412 | 6 | 
 | 2022-10-04 | 第4回安東白岩杯囲碁オープン最強戦準決勝 | Lee Wonyoung | Lee Changseok | Lose | B+R | 6.5 | 3406 | -13 | 
 | 2022-10-03 | 第4回安東白岩杯囲碁オープン最強戦2回戦 | Lee Changseok | Hong Seongji | Win | B+R | 6.5 | 3419 | -1 | 

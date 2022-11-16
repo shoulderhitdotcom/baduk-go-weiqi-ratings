@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022年東方金融小鎮杯囲棋大師戦決勝 | Chang Hao | Nie Weiping | Win | B+2¾ | 7.5 | 3037 | 56 | 
 | 2022-11-15 | 2022年東方金融小鎮杯囲棋大師戦準決勝 | Liu Xiaoguang | Chang Hao | Win | W+R | 7.5 | 2981 | 0 | 
 | 2022-11-15 | 2022年東方金融小鎮杯囲棋大師戦1回戦 | Hua Yigang | Chang Hao | Win | W+R | 7.5 | 2981 | -147 | 
 | 2022-06-21 | 2022年1004島新安国際シニア囲碁大会2回戦 | O Meien | Chang Hao | Lose | B+0.5 | 6.5 | 3128 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Chen Qirui | Wang Haoyang | Lose | W+R | 7.5 | 3081 | -4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Chen Qirui | Win | W+1¼ | 7.5 | 3085 | -32 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Xu Yuqi | Chen Qirui | Win | W+1.5 | 6.5 | 3117 | -1 | 
 | 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3118 | 15 | 

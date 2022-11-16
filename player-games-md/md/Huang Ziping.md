@@ -15,11 +15,11 @@
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Huang Ziping | Lose | B+R | 7.5 | 2465 | -21 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Huang Ziping | Win | W+R | 7.5 | 2486 | 144 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Huang Ziping | Lose | B+R | 7.5 | 2342 | 2 | 
-| 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Chu Keer | Lose | W+R | 7.5 | 2340 | -9 | 
-| 2021-10-08 | 第3回中国女子囲碁国手戦予選 | Wu Yiming | Huang Ziping | Lose | B+R | 7.5 | 2349 | -61 | 
+| 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Chu Keer | Lose | W+R | 7.5 | 2340 | -10 | 
+| 2021-10-08 | 第3回中国女子囲碁国手戦予選 | Wu Yiming | Huang Ziping | Lose | B+R | 7.5 | 2350 | -60 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 | Zhao Yifei | Huang Ziping | Lose | B+R | 7.5 | 2410 | -23 | 
-| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Huang Ziping | Win | W+R | 7.5 | 2433 | -9 | 
-| 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 | Li Xiaoxi | Huang Ziping | Win | W+R | 7.5 | 2442 | missing |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Huang Ziping | Win | W+R | 7.5 | 2433 | -10 | 
+| 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 | Li Xiaoxi | Huang Ziping | Win | W+R | 7.5 | 2443 | missing |
 
 
 

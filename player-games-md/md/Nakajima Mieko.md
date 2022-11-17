@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-06-03 | 第6回扇興杯女流最強戦1回戦 | Nakajima Mieko | Shimosaka Miori | Win | B+R | 6.5 | missing | 0 | 

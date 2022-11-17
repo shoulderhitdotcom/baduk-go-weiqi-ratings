@@ -7,45 +7,46 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Yang Zixuan | Win | B+R | 7.5 | 3049 | 10 | 
-| 2022-11-15 | 2022中国囲碁乙級リーグ |  | Gueon Hyojin | Win | W+R | 7.5 | 3039 | 10 | 
-| 2022-11-07 | 第6期女子棋聖戦（韓国）2回戦 | Gueon Hyojin | Kim Cheayoung | Lose | W+5.5 | 6.5 | 3029 | -11 | 
-| 2022-11-02 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | An Kwanwuk | Win | B+R | 6.5 | 3040 | 0 | 
-| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Gueon Hyojin | Nakamura Sumire | Lose | W+R | 6.5 | 3040 | -20 | 
-| 2022-10-27 | 第1回ニュースピムGAM杯女子囲碁最強戦予選 | Kim Eunji | Gueon Hyojin | Lose | B+R | 6.5 | 3060 | 9 | 
-| 2022-10-25 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Gueon Hyojin | Win | W+R | 6.5 | 3051 | 6 | 
-| 2022-10-21 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Kihun | Lose | W+0.5 | 6.5 | 3045 | -6 | 
-| 2022-10-12 | 2022韓国シニア囲碁リーグ | Kim Chuljung | Gueon Hyojin | Win | W+13.5 | 6.5 | 3051 | 11 | 
-| 2022-10-06 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Chanwu | Lose | W+R | 6.5 | 3040 | 4 | 
-| 2022-10-03 | 第6期女子棋聖戦（韓国）1回戦 | Gueon Hyojin | Oh Jeonga | Win | B+0.5 | 6.5 | 3036 | 3 | 
-| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kang Hun | Gueon Hyojin | Win | W+R | 6.5 | 3033 | 23 | 
-| 2022-09-28 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Gueon Hyojin | Win | W+R | 6.5 | 3010 | 14 | 
-| 2022-09-23 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Gueon Hyojin | Lose | B+R | 6.5 | 2996 | 0 | 
-| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Soojang | Gueon Hyojin | Win | W+3.5 | 6.5 | 2996 | -8 | 
-| 2022-09-14 | 2022韓国シニア囲碁リーグ |  | Gueon Hyojin | Lose | B+R | 6.5 | 3004 | -19 | 
-| 2022-09-06 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Gueon Hyojin | Lose | B+3.5 | 6.5 | 3023 | -34 | 
-| 2022-09-03 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+R | 6.5 | 3057 | 0 | 
-| 2022-08-30 | 第27回三星火災杯韓国予選 | Gueon Hyojin | Park Jinsol | Win | B+R | 6.5 | 3057 | 64 | 
-| 2022-08-29 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Gueon Hyojin | Lose | B+R | 6.5 | 2993 | -31 | 
-| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Tu Xiaoyu | Gueon Hyojin | Lose | B+R | 7.5 | 3024 | -45 | 
-| 2022-08-25 | 第27回三星火災杯韓国予選 | Choi Jeong | Gueon Hyojin | Lose | B+R | 6.5 | 3069 | 3 | 
-| 2022-08-24 | 第27回三星火災杯韓国予選 | Gueon Hyojin |  | Win | B+R | 6.5 | 3066 | 16 | 
-| 2022-08-18 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Gueon Hyojin | Win | W+2.5 | 6.5 | 3050 | 75 | 
-| 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Win | W+¼ | 7.5 | 2975 | 0 | 
-| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Gueon Hyojin |  | Win | B+R | 7.5 | 2975 | 0 | 
-| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 |  | Gueon Hyojin | Win | W+R | 7.5 | 2975 | 0 | 
-| 2022-08-07 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin | Kim Beomseo | Win | B+R | 6.5 | 2975 | 125 | 
-| 2022-08-06 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+3.5 | 6.5 | 2850 | -8 | 
-| 2022-07-28 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Lee Yeon | Gueon Hyojin | Lose | B+2.5 | 6.5 | 2858 | -17 | 
-| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2875 | 2 | 
-| 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Lose | W+R | 6.5 | 2873 | 3 | 
-| 2022-07-20 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Kim Beomseo | Gueon Hyojin | Lose | B+R | 6.5 | 2870 | -94 | 
-| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Win | W+R | 6.5 | 2964 | 104 | 
-| 2022-06-26 | 2022韓国ルーキー囲碁リーグ |  | Gueon Hyojin | Lose | B+4.5 | 6.5 | 2860 | 30 | 
-| 2022-06-23 | 第10回河燦錫国手杯英才最強戦3回戦 | Gueon Hyojin |  | Win | B+R | 6.5 | 2830 | -7 | 
-| 2022-06-22 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunji | Gueon Hyojin | Lose | B+3.5 | 6.5 | 2837 | 6 | 
-| 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Gueon Hyojin | Kim Kyeongeun | Win | B+R | 6.5 | 2831 | 21 | 
-| 2022-06-08 | 第10回河燦錫国手杯英才最強戦2回戦 | Gueon Hyojin |  | Win | B+R | 6.5 | 2810 | missing |
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Cao Youyin | Win | B+R | 7.5 | 3050 | 11 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Yang Zixuan | Win | B+R | 7.5 | 3039 | 10 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ |  | Gueon Hyojin | Win | W+R | 7.5 | 3029 | 10 | 
+| 2022-11-07 | 第6期女子棋聖戦（韓国）2回戦 | Gueon Hyojin | Kim Cheayoung | Lose | W+5.5 | 6.5 | 3019 | -11 | 
+| 2022-11-02 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | An Kwanwuk | Win | B+R | 6.5 | 3030 | 0 | 
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Gueon Hyojin | Nakamura Sumire | Lose | W+R | 6.5 | 3030 | -20 | 
+| 2022-10-27 | 第1回ニュースピムGAM杯女子囲碁最強戦予選 | Kim Eunji | Gueon Hyojin | Lose | B+R | 6.5 | 3050 | 9 | 
+| 2022-10-25 | 2022韓国シニア囲碁リーグ | Cho Daehyeon | Gueon Hyojin | Win | W+R | 6.5 | 3041 | 6 | 
+| 2022-10-21 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Kihun | Lose | W+0.5 | 6.5 | 3035 | -6 | 
+| 2022-10-12 | 2022韓国シニア囲碁リーグ | Kim Chuljung | Gueon Hyojin | Win | W+13.5 | 6.5 | 3041 | 11 | 
+| 2022-10-06 | 2022韓国シニア囲碁リーグ | Gueon Hyojin | Kim Chanwu | Lose | W+R | 6.5 | 3030 | 3 | 
+| 2022-10-03 | 第6期女子棋聖戦（韓国）1回戦 | Gueon Hyojin | Oh Jeonga | Win | B+0.5 | 6.5 | 3027 | 3 | 
+| 2022-09-30 | 2022韓国シニア囲碁リーグ | Kang Hun | Gueon Hyojin | Win | W+R | 6.5 | 3024 | 23 | 
+| 2022-09-28 | 2022韓国シニア囲碁リーグ | An Kwanwuk | Gueon Hyojin | Win | W+R | 6.5 | 3001 | 14 | 
+| 2022-09-23 | 2022韓国シニア囲碁リーグ | Yoo Changhyuk | Gueon Hyojin | Lose | B+R | 6.5 | 2987 | 0 | 
+| 2022-09-21 | 2022韓国シニア囲碁リーグ | Kim Soojang | Gueon Hyojin | Win | W+3.5 | 6.5 | 2987 | -8 | 
+| 2022-09-14 | 2022韓国シニア囲碁リーグ |  | Gueon Hyojin | Lose | B+R | 6.5 | 2995 | -19 | 
+| 2022-09-06 | 2022韓国シニア囲碁リーグ | Seo Bongsoo | Gueon Hyojin | Lose | B+3.5 | 6.5 | 3014 | -34 | 
+| 2022-09-03 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+R | 6.5 | 3048 | 0 | 
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Gueon Hyojin | Park Jinsol | Win | B+R | 6.5 | 3048 | 64 | 
+| 2022-08-29 | 2022韓国シニア囲碁リーグ | Kim Seungjun | Gueon Hyojin | Lose | B+R | 6.5 | 2984 | -31 | 
+| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Tu Xiaoyu | Gueon Hyojin | Lose | B+R | 7.5 | 3015 | -45 | 
+| 2022-08-25 | 第27回三星火災杯韓国予選 | Choi Jeong | Gueon Hyojin | Lose | B+R | 6.5 | 3060 | 3 | 
+| 2022-08-24 | 第27回三星火災杯韓国予選 | Gueon Hyojin |  | Win | B+R | 6.5 | 3057 | 16 | 
+| 2022-08-18 | 2022韓国シニア囲碁リーグ | Choi Kyubyeong | Gueon Hyojin | Win | W+2.5 | 6.5 | 3041 | 74 | 
+| 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Win | W+¼ | 7.5 | 2967 | 0 | 
+| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Gueon Hyojin |  | Win | B+R | 7.5 | 2967 | 0 | 
+| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 |  | Gueon Hyojin | Win | W+R | 7.5 | 2967 | 0 | 
+| 2022-08-07 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin | Kim Beomseo | Win | B+R | 6.5 | 2967 | 125 | 
+| 2022-08-06 | 2022韓国ルーキー囲碁リーグ | Gueon Hyojin |  | Win | B+3.5 | 6.5 | 2842 | -8 | 
+| 2022-07-28 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Lee Yeon | Gueon Hyojin | Lose | B+2.5 | 6.5 | 2850 | -17 | 
+| 2022-07-24 | 第10回河燦錫国手杯記念対局 | Park Junghwan | Gueon Hyojin | Lose | B+R | 6.5 | 2867 | 2 | 
+| 2022-07-23 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Gueon Hyojin | Kim Beomseo | Lose | W+R | 6.5 | 2865 | 3 | 
+| 2022-07-20 | 第10回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Kim Beomseo | Gueon Hyojin | Lose | B+R | 6.5 | 2862 | -94 | 
+| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Win | W+R | 6.5 | 2956 | 103 | 
+| 2022-06-26 | 2022韓国ルーキー囲碁リーグ |  | Gueon Hyojin | Lose | B+4.5 | 6.5 | 2853 | 30 | 
+| 2022-06-23 | 第10回河燦錫国手杯英才最強戦3回戦 | Gueon Hyojin |  | Win | B+R | 6.5 | 2823 | -7 | 
+| 2022-06-22 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunji | Gueon Hyojin | Lose | B+3.5 | 6.5 | 2830 | 6 | 
+| 2022-06-09 | 第2回IBK企業銀行杯女子囲碁マスターズ1回戦 | Gueon Hyojin | Kim Kyeongeun | Win | B+R | 6.5 | 2824 | 21 | 
+| 2022-06-08 | 第10回河燦錫国手杯英才最強戦2回戦 | Gueon Hyojin |  | Win | B+R | 6.5 | 2803 | missing |
 
 
 

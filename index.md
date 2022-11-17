@@ -74,7 +74,7 @@ The ratings are based on 4618 games from 2021-11-17 to 2022-11-16.
 | 48 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3474 | 24 | CHN | Male | 28.4 | 陶欣然 | 
 | 49 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3467 | 49 | KOR | Male | 24.8 | 朴河旼 | 
 | 50 | [Chen Xian](./player-games-md/md/Chen Xian.md) | 3463 | 34 | CHN | Male | 25.5 | 陳賢 | 
-| 51 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3461 | 76 | KOR | Male | 33.4 | 金志錫 | 
+| 51 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3461 | 76 | KOR | Male | 33.5 | 金志錫 | 
 | 52 | [Han Yizhou](./player-games-md/md/Han Yizhou.md) | 3441 | 17 | CHN | Male | missing | 韓一洲 | 
 | 53 | [Chen Zhengxun](./player-games-md/md/Chen Zhengxun.md) | 3437 | 13 | CHN | Male | missing | 陳正勲 | 
 | 54 | [Weon Seongjin](./player-games-md/md/Weon Seongjin.md) | 3435 | 76 | KOR | Male | 37.4 | 元晟溱 | 
@@ -187,7 +187,7 @@ Note that players with fewer than 13 games are not in the list
 | 146 | [Wang Shiyi](./player-games-md/md/Wang Shiyi.md) | 3152 | 14 | CHN | Male | missing | 王世一 | 
 | 147 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3148 | 24 | JPN | Male | 27.3 | 本木克弥 | 
 | 148 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 3148 | 31 | missing | missing | missing | 呉依銘 | 
-| 149 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3147 | 58 | KOR | Female | 24.4 | 呉侑珍 | 
+| 149 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3147 | 58 | KOR | Female | 24.5 | 呉侑珍 | 
 | 150 | [Xu Jingen](./player-games-md/md/Xu Jingen.md) | 3146 | 61 | missing | missing | missing | 徐靖恩 | 
 | 151 | [Wang Chuxuan](./player-games-md/md/Wang Chuxuan.md) | 3144 | 21 | missing | missing | missing | 王楚軒 | 
 | 152 | [Hane Naoki](./player-games-md/md/Hane Naoki.md) | 3143 | 24 | JPN | Male | 46.3 | 羽根直樹 | 

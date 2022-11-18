@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hirose Yuichi vs Shibano Toramaru** | **Hirose Yuichi streak** | **Shibano Toramaru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hirose Yuichi Vs Shibano Toramaru** | **Hirose Yuichi Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-03-19 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Shibano Toramaru | W+R | 6.5 | 0:1 | 0 | 1 |
 

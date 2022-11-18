@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Hyeoimin** | **Choi Jeong Streak** | **Kim Hyeoimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 第27期女流国手戦決勝三番勝負第2局 | Kim Hyeoimin | Choi Jeong | W+R | 6.5 | 16:1 | 15 | 0 | 
 | 2022-11-17 | 第27期女流国手戦決勝三番勝負第1局 | Choi Jeong | Kim Hyeoimin | B+R | 6.5 | 15:1 | 14 | 0 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | B+R | 6.5 | 14:1 | 13 | 0 | 
 | 2020-11-14 | 2020年中国囲碁乙級リーグ | Choi Jeong | Kim Hyeoimin | B+R | 7.5 | 13:1 | 12 | 0 | 

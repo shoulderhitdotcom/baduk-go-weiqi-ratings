@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+2¼ | 7.5 | 2392 | -4 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2396 | 3 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2393 | 0 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+¼ | 7.5 | 2393 | -320 | 

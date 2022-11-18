@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Cao Youyin | Lu Yuhua | Win | B+¾ | 7.5 | 2752 | 86 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Cao Youyin | Lose | B+R | 7.5 | 2666 | -46 | 
 | 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Cao Youyin | Wang Chunhui | Lose | W+R | 7.5 | 2712 | -28 | 
 | 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Cao Youyin | Lose | B+3¾ | 7.5 | 2740 | -44 | 

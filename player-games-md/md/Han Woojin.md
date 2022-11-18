@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Han Woojin | Wu Guangya | Lose | W+R | 7.5 | 3308 | -1 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ |  | Han Woojin | Lose | B+1¾ | 7.5 | 3309 | -23 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Win | W+R | 7.5 | 3332 | 36 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Han Woojin | Zhou Hexi | Win | B+R | 7.5 | 3296 | -16 | 

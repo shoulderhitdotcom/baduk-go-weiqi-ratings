@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁丙級リーグ | Wang Yuanjun |  | Lose | W+R | 7.5 | 3189 | -7 | 
 | 2022-11-17 | 2022中国囲碁丙級リーグ | Fang Ruoxi | Wang Yuanjun | Win | W+R | 7.5 | 3196 | 21 | 
 | 2022-11-16 | 2022中国囲碁丙級リーグ |  | Wang Yuanjun | Win | W+R | 7.5 | 3175 | -2 | 
 | 2022-11-15 | 2022中国囲碁丙級リーグ | Wang Yuanjun |  | Lose | W+R | 7.5 | 3177 | -5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Jeong Yujin | Win | W+R | 7.5 | 2931 | 6 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Lose | W+¼ | 7.5 | 2925 | 4 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Win | B+R | 7.5 | 2921 | 19 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Yang Zixuan | Jeong Yujin | Lose | B+2¼ | 7.5 | 2902 | 15 | 

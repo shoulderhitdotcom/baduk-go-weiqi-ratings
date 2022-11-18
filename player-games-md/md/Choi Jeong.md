@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 第27期女流国手戦決勝三番勝負第2局 | Kim Hyeoimin | Choi Jeong | Win | W+R | 6.5 | 3303 | 2 | 
 | 2022-11-17 | 第27期女流国手戦決勝三番勝負第1局 | Choi Jeong | Kim Hyeoimin | Win | B+R | 6.5 | 3301 | 10 | 
 | 2022-11-15 | 第6期女子棋聖戦（韓国）2回戦 | Choi Jeong |  | Win | B+R | 6.5 | 3291 | -7 | 
 | 2022-11-12 | 2022Dr.G女子最高棋士決定戦リーグ | Choi Jeong | Park Jiyeon | Win | B+R | 6.5 | 3298 | 2 | 

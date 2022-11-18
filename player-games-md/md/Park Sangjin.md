@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Park Sangjin | Lyu Liyan | Win | B+R | 7.5 | 3348 | 15 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Win | W+R | 7.5 | 3333 | 21 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Park Sangjin | Win | W+R | 7.5 | 3312 | 8 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Park Sangjin | Wu Guangya | Win | B+¾ | 7.5 | 3304 | 11 | 

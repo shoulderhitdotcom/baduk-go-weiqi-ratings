@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Lose | B+R | 7.5 | 3390 | -24 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Kou Zhengyan | Win | B+R | 7.5 | 3414 | 14 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Lose | W+R | 7.5 | 3400 | -57 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Win | W+2¼ | 7.5 | 3457 | 73 | 

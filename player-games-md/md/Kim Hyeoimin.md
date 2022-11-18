@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 第27期女流国手戦決勝三番勝負第2局 | Kim Hyeoimin | Choi Jeong | Lose | W+R | 6.5 | 3035 | -11 | 
 | 2022-11-17 | 第27期女流国手戦決勝三番勝負第1局 | Choi Jeong | Kim Hyeoimin | Lose | B+R | 6.5 | 3046 | -10 | 
 | 2022-11-11 | 第27期女流国手戦準決勝 | Kim Dayoung | Kim Hyeoimin | Win | W+4.5 | 6.5 | 3056 | -51 | 
 | 2022-10-26 | 第1回ニュースピムGAM杯女子囲碁最強戦予選 |  | Kim Hyeoimin | Lose | B+R | 6.5 | 3107 | 22 | 

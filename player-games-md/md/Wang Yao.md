@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Wang Yao | Lose | B+R | 7.5 | 2872 | -29 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Seol Hyunjun | Wang Yao | Lose | B+R | 7.5 | 2901 | -45 | 
 | 2022-07-20 | 2021中国囲碁乙級リーグ | Wang Yao | Lin Lixiang | Win | B+R | 7.5 | 2946 | -225 | 
 | 2022-07-18 | 2021中国囲碁乙級リーグ | Kang Seungmin | Wang Yao | Lose | B+R | 7.5 | 3171 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Hirose Yuichi |  | Lose | W+¼ | 7.5 | 3238 | -6 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ |  | Hirose Yuichi | Win | W+R | 7.5 | 3244 | 16 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Wang Xiru | Hirose Yuichi | Win | W+R | 7.5 | 3228 | -4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Wang Yucheng | Win | B+R | 7.5 | 3232 | 30 | 

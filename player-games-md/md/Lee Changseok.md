@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Zhou Hexi | Lee Changseok | Lose | B+¾ | 7.5 | 3390 | -12 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Lee Changseok | Park Sangjin | Lose | W+R | 7.5 | 3402 | 2 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Lee Changseok | Guo Yuzheng | Win | B+1¾ | 7.5 | 3400 | -2 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Sun Tengyu | Lee Changseok | Win | W+R | 7.5 | 3402 | 5 | 

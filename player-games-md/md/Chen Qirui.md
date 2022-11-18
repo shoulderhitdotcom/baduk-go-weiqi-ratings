@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Chen Qirui | Lose | B+R | 7.5 | 3071 | -13 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ | Chen Qirui | Lyu Liyan | Lose | W+R | 7.5 | 3084 | 13 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ | Chen Qirui | Wang Haoyang | Lose | W+R | 7.5 | 3071 | -4 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Chen Qirui | Win | W+1¼ | 7.5 | 3075 | -32 | 

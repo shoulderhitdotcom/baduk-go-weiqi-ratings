@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sada Atsushi vs Tsuruyama Atsushi** | **Sada Atsushi streak** | **Tsuruyama Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Sada Atsushi Vs Tsuruyama Atsushi** | **Sada Atsushi Streak** | **Tsuruyama Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-01 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | B+3.5 | 6.5 | 1:2 | 0 | 2 | 
 | 2020-12-10 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | B+R | 6.5 | 1:1 | 0 | 1 | 

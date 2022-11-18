@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nakamura Sumire Vs Nyu Eiko** | **Nakamura Sumire Streak** | **Nyu Eiko Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-17 | 第26期女流棋聖戦2回戦 | Nyu Eiko | Nakamura Sumire | W+R | 6.5 | 5:3 | 2 | 0 | 
 | 2022-08-10 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Nyu Eiko | B+R | 7.5 | 4:3 | 1 | 0 | 
 | 2022-07-17 | 第7回扇興杯女流最強戦決勝  | Nakamura Sumire | Nyu Eiko | W+2.5 | 6.5 | 3:3 | 0 | 1 | 
 | 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | W+R | 6.5 | 3:2 | 1 | 0 | 

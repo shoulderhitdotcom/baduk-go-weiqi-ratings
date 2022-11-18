@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gang Woohyeok vs Park Sangjin** | **Gang Woohyeok streak** | **Park Sangjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gang Woohyeok Vs Park Sangjin** | **Gang Woohyeok Streak** | **Park Sangjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-02-01 | 陝川郡第5期韓国英才戦8強戦 | Park Sangjin | Gang Woohyeok | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-19 | 第2回湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Lose | W+R | 7.5 | 3492 | -5 | 
 | 2022-11-18 | 第2回湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Win | B+R | 7.5 | 3497 | -43 | 
 | 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Lose | W+0.5 | 6.5 | 3540 | 0 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Tang Weixing | Yoo Ohseong | Win | B+R | 6.5 | 3540 | 23 | 

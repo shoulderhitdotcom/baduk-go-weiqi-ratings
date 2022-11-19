@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-19 | 第2回湾区杯中国囲碁大棋士戦準決勝 | Wang Xinghao | Yang Kaiwen | Lose | W+R | 7.5 | 3660 | -8 | 
 | 2022-11-18 | 第2回湾区杯中国囲碁大棋士戦3回戦 | Wang Xinghao | Dang Yifei | Win | B+R | 7.5 | 3668 | 19 | 
 | 2022-11-13 | 第26期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Zhou Hongyu | Wang Xinghao | Win | W+R | 7.5 | 3649 | 0 | 
 | 2022-11-12 | 第26期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Wang Xinghao | Zhou Hongyu | Win | B+R | 7.5 | 3649 | 6 | 

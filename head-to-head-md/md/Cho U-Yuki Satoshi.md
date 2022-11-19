@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Yuki Satoshi** | **Cho U streak** | **Yuki Satoshi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Yuki Satoshi** | **Cho U Streak** | **Yuki Satoshi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-02-16 | 第72期本因坊戦　挑戦者決定リーグ第20局 | Cho U | Yuki Satoshi | B+1.5 | 6.5 | 15:6 | 3 | 0 | 
 | 2016-10-24 | 第41期棋聖戦　挑戦者決定トーナメントA・Bリーグ | Yuki Satoshi | Cho U | W+R | 6.5 | 14:6 | 2 | 0 | 

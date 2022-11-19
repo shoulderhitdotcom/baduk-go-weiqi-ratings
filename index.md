@@ -462,14 +462,14 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Li Xiangyu | 144 | 13 | 李翔宇 | 
 | Fan Tingyu | 134 | 50 | 范廷鈺 | 
 | Kim Jinhyu | 127 | 22 | 金眞輝 | 
-| Sada Atsushi | 123 | 45 | 佐田篤史 | 
+| Sada Atsushi | 124 | 45 | 佐田篤史 | 
 | Wang Xinghao | 121 | 46 | 王星昊 | 
 | Park Yeonghun | 120 | 30 | 朴永訓 | 
 | Han Seungjoo | 118 | 37 | 韓昇周 | 
 | Kang Dongyun | 117 | 78 | 姜東潤 | 
-| Kang Seungmin | 113 | 41 | 姜昇旼 | 
+| Kang Seungmin | 114 | 41 | 姜昇旼 | 
 | Li Weiqing | 113 | 28 | 李維清 | 
-| Xie Erhao | 89 | 34 | 謝爾豪 | 
+| Xie Erhao | 90 | 34 | 謝爾豪 | 
 | Park Jinsol | 88 | 26 | 朴進率 | 
 | Hu Zihao | 84 | 24 | 胡子豪 | 
 | Shibano Toramaru | 81 | 49 | 芝野虎丸 | 
@@ -509,7 +509,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Tu Xiaoyu | -45 | 42 | 屠暁宇 | 
 | Choi Jeong | -47 | 100 | 崔精 | 
 | Huang Yunsong | -50 | 38 | 黄雲嵩 | 
-| He Yuhan | -52 | 15 | 何語涵 | 
+| He Yuhan | -51 | 15 | 何語涵 | 
 | Xu Haohong | -52 | 76 | 許皓鋐 | 
 | Jiang Qirun | -53 | 21 | 蒋其潤 | 
 | Iyama Yuta | -55 | 46 | 井山裕太 | 
@@ -535,7 +535,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Lee Changseok | -153 | 57 | 李昌錫 | 
 | Yi Lingtao | -167 | 25 | 伊淩濤 | 
 | Gu Zihao | -185 | 50 | 辜梓豪 | 
-| Liao Yuanhe | -186 | 33 | 廖元赫 | 
+| Liao Yuanhe | -185 | 33 | 廖元赫 | 
 | Chen Haoxin | -188 | 23 | 陳豪鑫 | 
 | Weon Seongjin | -213 | 77 | 元晟溱 | 
 | Xia Chenkun | -227 | 21 | 夏晨琨 |

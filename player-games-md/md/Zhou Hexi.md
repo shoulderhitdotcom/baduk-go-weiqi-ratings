@@ -14,13 +14,13 @@
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Lose | B+R | 7.5 | 3282 | -16 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Mi Yuting | Zhou Hexi | Lose | B+R | 7.5 | 3298 | -18 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Hexi | Li Qincheng | Lose | W+R | 7.5 | 3316 | -9 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Hexi | Win | W+R | 7.5 | 3325 | 48 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Lose | B+R | 7.5 | 3277 | 71 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Hexi | Win | W+R | 7.5 | 3325 | 49 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Lose | B+R | 7.5 | 3276 | 70 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Hexi | Lose | B+¾ | 7.5 | 3206 | -16 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Erhao | Zhou Hexi | Lose | B+R | 7.5 | 3222 | 11 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhou Hexi | Lose | B+R | 7.5 | 3211 | -20 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Zhou Hexi | Lose | B+R | 7.5 | 3231 | -26 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Lyu Liyan | Zhou Hexi | Win | W+R | 7.5 | 3257 | 6 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Zhou Hexi | Lose | B+R | 7.5 | 3231 | -25 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Lyu Liyan | Zhou Hexi | Win | W+R | 7.5 | 3256 | 5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Zhou Hexi | Win | W+R | 7.5 | 3251 | 54 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhou Hexi | Lose | B+R | 7.5 | 3197 | -47 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Zhou Hexi | Win | W+R | 7.5 | 3244 | 89 | 

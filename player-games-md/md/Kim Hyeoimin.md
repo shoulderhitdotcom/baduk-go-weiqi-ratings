@@ -37,14 +37,14 @@
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin | Kim Cheayoung | Win | B+R | 6.5 | 2965 | 25 | 
 | 2021-07-24 | 第7回韓国女子囲碁リーグ | Jeong Yujin | Kim Hyeoimin | Win | W+R | 6.5 | 2940 | 9 | 
 | 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2931 | -5 | 
-| 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Lose | W+4.5 | 6.5 | 2936 | -5 | 
-| 2021-07-08 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2941 | -31 | 
+| 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Lose | W+4.5 | 6.5 | 2936 | -4 | 
+| 2021-07-08 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2940 | -32 | 
 | 2021-07-03 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Hyeoimin | Lose | B+R | 6.5 | 2972 | -2 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Hyeoimin | Cho Seungah | Lose | W+R | 6.5 | 2974 | -10 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Lose | B+R | 6.5 | 2984 | -6 | 
 | 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2990 | -11 | 
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 3001 | 15 | 
-| 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2986 | 8 | 
+| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 3001 | 16 | 
+| 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2985 | 7 | 
 | 2021-05-27 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2978 | -5 | 
 | 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Lose | W+R | 7.5 | 2983 | -29 | 
 | 2021-05-24 | 第4回呉清源杯韓国予選 | Kang Dajeong | Kim Hyeoimin | Win | W+R | 7.5 | 3012 | 10 | 
@@ -87,13 +87,13 @@
 | 2020-07-05 | 第6回韓国女子囲碁リーグ第7節第4試合第1局 | Kim Hyeoimin | Heo Seohyun | Win | B+R | 6.5 | 2892 | 3 | 
 | 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第4試合第1局 | Kim Hyeoimin |  | Win | B+R | 6.5 | 2889 | 63 | 
 | 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第2局 | Kim Hyeoimin | Oh Jeonga | Win | B+R | 6.5 | 2826 | 45 | 
-| 2020-06-12 | 第6回韓国女子囲碁リーグ第4節第2試合第3局 |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2781 | -34 | 
-| 2020-06-04 | 第6回韓国女子囲碁リーグ第3節第1試合第3局 | Kim Hyeoimin | Kim Dayoung | Win | B+R | 6.5 | 2815 | 19 | 
+| 2020-06-12 | 第6回韓国女子囲碁リーグ第4節第2試合第3局 |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2781 | -33 | 
+| 2020-06-04 | 第6回韓国女子囲碁リーグ第3節第1試合第3局 | Kim Hyeoimin | Kim Dayoung | Win | B+R | 6.5 | 2814 | 18 | 
 | 2020-05-29 | 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | Lose | B+R | 6.5 | 2796 | -69 | 
 | 2020-05-22 | 第6回韓国女子囲碁リーグ第1節第2試合第2局 | Kim Hyeoimin | Kim Eunji | Win | B+R | 6.5 | 2865 | -41 | 
 | 2020-04-16 | 第25回LG杯韓国予選 | Paek Hongseok | Kim Hyeoimin | Lose | B+R | 6.5 | 2906 | -57 | 
-| 2020-03-06 | 第7回大舟杯プロシニア最強者戦8強戦 | Park Shiun | Kim Hyeoimin | Lose | B+R | 6.5 | 2963 | -62 | 
-| 2020-01-30 | 第7回大舟杯プロシニア最強者戦16強戦 | Seo Nungwuk | Kim Hyeoimin | Win | W+20.5 | 6.5 | 3025 | 4 | 
+| 2020-03-06 | 第7回大舟杯プロシニア最強者戦8強戦 | Park Shiun | Kim Hyeoimin | Lose | B+R | 6.5 | 2963 | -61 | 
+| 2020-01-30 | 第7回大舟杯プロシニア最強者戦16強戦 | Seo Nungwuk | Kim Hyeoimin | Win | W+20.5 | 6.5 | 3024 | 3 | 
 | 2020-01-28 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Kim Hyeoimin | Lose | B+R | 6.5 | 3021 | -1 | 
 | 2020-01-27 | 第13回GGオークション杯女流対シニア連勝対抗戦第14局 | Han Chongjin | Kim Hyeoimin | Lose | B+16.5 | 6.5 | 3022 | missing |
 

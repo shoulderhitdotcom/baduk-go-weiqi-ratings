@@ -26,15 +26,15 @@
 | 2022-09-06 | 第15期棋王戦（台湾）予選  | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 2814 | -10 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Lin Yanchen | Lu Yiquan | Win | W+R | 6.5 | 2824 | 0 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Li Wei | Lu Yiquan | Lose | B+R | 6.5 | 2824 | -101 | 
-| 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Lu Yiquan | Win | W+R | 6.5 | 2925 | -11 | 
-| 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Win | W+2.5 | 6.5 | 2936 | -26 | 
+| 2022-08-04 | 第15期棋王戦（台湾）予選 |  | Lu Yiquan | Win | W+R | 6.5 | 2925 | -12 | 
+| 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Win | W+2.5 | 6.5 | 2937 | -25 | 
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 | Lu Yiquan |  | Lose | W+R | 7.5 | 2962 | -5 | 
 | 2022-06-23 | 第15期棋王戦（台湾）予選 | Liu Jianchang | Lu Yiquan | Win | W+R | 6.5 | 2967 | 25 | 
 | 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan |  | Lose | W+R | 6.5 | 2942 | -12 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Lose | B+R | 6.5 | 2954 | -31 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Lu Yiquan | Su Shengfang | Win | B+R | 6.5 | 2985 | 3 | 
-| 2022-06-07 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lu Yiquan | Xu Jingen | Lose | W+R | 6.5 | 2982 | -29 | 
-| 2022-04-18 | 第12期友士杯十段戦2回戦 | Yang Bowei | Lu Yiquan | Win | W+R | 6.5 | 3011 | 8 | 
+| 2022-06-07 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lu Yiquan | Xu Jingen | Lose | W+R | 6.5 | 2982 | -30 | 
+| 2022-04-18 | 第12期友士杯十段戦2回戦 | Yang Bowei | Lu Yiquan | Win | W+R | 6.5 | 3012 | 9 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lu Yiquan | Lin Shuyang | Lose | W+R | 6.5 | 3003 | 25 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Lu Yiquan | Win | W+5.5 | 6.5 | 2978 | 0 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Lin Shuyang | Lu Yiquan | Win | W+R | 6.5 | 2978 | 0 | 
@@ -91,12 +91,12 @@
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Cai Chengwei | Lu Yiquan | Win | W+0.5 | 6.5 | 3005 | 8 | 
 | 2021-03-09 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Lu Yiquan | Lose | B+R | 6.5 | 2997 | -3 | 
 | 2021-03-05 | 第20期天元戦（台湾）リーグ | Jian Jingting | Lu Yiquan | Lose | B+R | 6.5 | 3000 | 23 | 
-| 2021-03-02 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Lin Lixiang | Lose | W+R | 6.5 | 2977 | -26 | 
-| 2021-02-26 | 第20期天元戦（台湾）リーグ | Lin Junyan | Lu Yiquan | Lose | B+R | 6.5 | 3003 | -5 | 
-| 2021-02-25 | 第2期名人冠軍戦予選 | Bai Xinhui | Lu Yiquan | Win | W+R | 6.5 | 3008 | -11 | 
-| 2021-02-23 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lu Yiquan | Win | W+R | 6.5 | 3019 | 15 | 
-| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Chen Qirui | Win | B+R | 6.5 | 3004 | 85 | 
-| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Lin Lixiang | Lu Yiquan | Win | W+R | 6.5 | 2919 | 2 | 
+| 2021-03-02 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Lin Lixiang | Lose | W+R | 6.5 | 2977 | -25 | 
+| 2021-02-26 | 第20期天元戦（台湾）リーグ | Lin Junyan | Lu Yiquan | Lose | B+R | 6.5 | 3002 | -5 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Bai Xinhui | Lu Yiquan | Win | W+R | 6.5 | 3007 | -11 | 
+| 2021-02-23 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lu Yiquan | Win | W+R | 6.5 | 3018 | 15 | 
+| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Chen Qirui | Win | B+R | 6.5 | 3003 | 85 | 
+| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Lin Lixiang | Lu Yiquan | Win | W+R | 6.5 | 2918 | 1 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lu Yiquan | Jian Jingting | Win | B+R | 6.5 | 2917 | 72 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lu Yiquan | Yang Bowei | Win | B+R | 6.5 | 2845 | -28 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lu Yiquan |  | Win | B+R | 6.5 | 2873 | 10 | 
@@ -138,15 +138,15 @@
 | 2020-03-03 | 第19期天元戦（台湾）敗部3回戦 | Lu Yiquan | Li Wei | Lose | W+R | 6.5 | 3029 | 20 | 
 | 2020-03-01 | 第7回グロービス杯台湾予選 | Lu Yiquan |  | Win | B+R | 6.5 | 3009 | -1 | 
 | 2020-02-25 | 第19期天元戦（台湾）敗部2回戦 | Lu Yiquan | Lin Yuxiang | Win | B+1.5 | 6.5 | 3010 | 1 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Bai Xinhui | Lu Yiquan | Lose | B+R | 6.5 | 3009 | -25 | 
-| 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 | Lu Yuhua | Lu Yiquan | Win | W+R | 6.5 | 3034 | 13 | 
-| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 3021 | -17 | 
-| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Yu Lijun | Lu Yiquan | Win | W+R | 6.5 | 3038 | 1 | 
-| 2020-02-04 | 第19期天元戦（台湾）予選 | Xu Jingen | Lu Yiquan | Win | W+1.5 | 6.5 | 3037 | -17 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Bai Xinhui | Lu Yiquan | Lose | B+R | 6.5 | 3009 | -24 | 
+| 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 | Lu Yuhua | Lu Yiquan | Win | W+R | 6.5 | 3033 | 12 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 3021 | -16 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Yu Lijun | Lu Yiquan | Win | W+R | 6.5 | 3037 | 1 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Xu Jingen | Lu Yiquan | Win | W+1.5 | 6.5 | 3036 | -18 | 
 | 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Lu Yiquan | Xu Jingen | Lose | W+3 | 7.5 | 3054 | 55 | 
-| 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Xinwei | Lu Yiquan | Win | W+R | 6.5 | 2999 | 12 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Lu Yiquan | Win | W+R | 7.5 | 2987 | 0 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lu Yiquan | Lin Shixun | Lose | W+R | 7.5 | 2987 | missing |
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Xinwei | Lu Yiquan | Win | W+R | 6.5 | 2999 | 13 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Lu Yiquan | Win | W+R | 7.5 | 2986 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lu Yiquan | Lin Shixun | Lose | W+R | 7.5 | 2986 | missing |
 
 
 

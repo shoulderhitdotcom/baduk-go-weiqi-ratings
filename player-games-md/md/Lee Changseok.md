@@ -29,8 +29,8 @@
 | 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Lee Wondo | Lee Changseok | Win | W+R | 6.5 | 3466 | 1 | 
 | 2022-04-30 | 2021-2022韓国囲碁リーグプレーオフ | Lee Changseok | Weon Seongjin | Lose | W+R | 6.5 | 3465 | -2 | 
 | 2022-04-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Lee Changseok | Win | W+R | 6.5 | 3467 | 14 | 
-| 2022-04-25 | 第27回LG杯韓国予選 | Lee Changseok | Kim Hyeongwoo | Lose | W+R | 6.5 | 3453 | -12 | 
-| 2022-04-21 | 第27回LG杯韓国予選 | Na Hyun | Lee Changseok | Win | W+R | 6.5 | 3465 | -6 | 
+| 2022-04-25 | 第27回LG杯韓国予選 | Lee Changseok | Kim Hyeongwoo | Lose | W+R | 6.5 | 3453 | -13 | 
+| 2022-04-21 | 第27回LG杯韓国予選 | Na Hyun | Lee Changseok | Win | W+R | 6.5 | 3466 | -5 | 
 | 2022-04-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Win | W+R | 6.5 | 3471 | 18 | 
 | 2022-04-12 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changseok | Lose | B+R | 6.5 | 3453 | -9 | 
 | 2022-03-31 | 2021-2022韓国囲碁リーグ | Lee Changseok | Kim Seongjae | Win | B+R | 6.5 | 3462 | 7 | 
@@ -75,14 +75,14 @@
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3546 | -10 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3556 | 11 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3545 | -1 | 
-| 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3546 | 0 | 
-| 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3546 | -3 | 
+| 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3546 | 1 | 
+| 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3545 | -4 | 
 | 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Win | W+R | 6.5 | 3549 | 7 | 
 | 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Win | W+R | 6.5 | 3542 | 13 | 
 | 2021-06-18 | 第26回GSカルテックス杯プロ棋戦3回戦 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3529 | -6 | 
 | 2021-06-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Lose | B+R | 6.5 | 3535 | -4 | 
-| 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Lose | B+R | 6.5 | 3539 | -3 | 
-| 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Win | W+R | 6.5 | 3542 | -8 | 
+| 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Lose | B+R | 6.5 | 3539 | -2 | 
+| 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Win | W+R | 6.5 | 3541 | -9 | 
 | 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | Win | B+R | 6.5 | 3550 | 2 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Lose | B+R | 6.5 | 3548 | -10 | 
 | 2021-05-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Lee Changseok | Win | W+R | 6.5 | 3558 | -6 | 
@@ -101,32 +101,32 @@
 | 2021-03-06 | 第44期名人戦（韓国）1回戦 | Lee Changseok | Han Seungjoo | Win | B+1.5 | 6.5 | 3523 | 25 | 
 | 2021-03-03 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Shin Minjun | Lose | W+R | 6.5 | 3498 | -10 | 
 | 2021-03-01 | 第4回クラウン・ヘテ杯特別対局 | Choi Jeong | Lee Changseok | Win | W+R | 6.5 | 3508 | 2 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Lee Changseok | Moon Minjong | Win | B+R | 6.5 | 3506 | -2 | 
-| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Kim Junghyun | Lee Changseok | Lose | B+R | 6.5 | 3508 | -26 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Dongyun | Lose | W+R | 6.5 | 3534 | -2 | 
-| 2021-02-16 | 第4回クラウン・ヘテ杯決勝三番勝負第2局 | Seol Hyunjun | Lee Changseok | Win | W+R | 6.5 | 3536 | 29 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Lee Changseok | Moon Minjong | Win | B+R | 6.5 | 3506 | -1 | 
+| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Kim Junghyun | Lee Changseok | Lose | B+R | 6.5 | 3507 | -26 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Dongyun | Lose | W+R | 6.5 | 3533 | -2 | 
+| 2021-02-16 | 第4回クラウン・ヘテ杯決勝三番勝負第2局 | Seol Hyunjun | Lee Changseok | Win | W+R | 6.5 | 3535 | 28 | 
 | 2021-02-15 | 第4回クラウン・ヘテ杯決勝三番勝負第1局 | Lee Changseok | Seol Hyunjun | Win | B+R | 6.5 | 3507 | 11 | 
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | Lose | W+R | 6.5 | 3496 | -20 | 
 | 2021-02-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Lee Changseok | Lose | B+R | 6.5 | 3516 | -29 | 
 | 2021-02-09 | 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | Win | B+R | 6.5 | 3545 | 15 | 
 | 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Seunghwa | Lee Changseok | Win | W+R | 6.5 | 3530 | 32 | 
 | 2021-02-07 | 2020-2021韓国囲碁リーグ | Choi Jeong | Lee Changseok | Win | W+R | 6.5 | 3498 | -1 | 
-| 2021-02-01 | 第4期韓国竜星戦予選 | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3499 | 86 | 
-| 2021-01-28 | 2020-2021韓国囲碁リーグ | Lee Changseok | Park Yeonghun | Win | B+R | 6.5 | 3413 | 13 | 
-| 2021-01-25 | 第4回クラウン・ヘテ杯3回戦 | Heo Seohyun | Lee Changseok | Win | W+R | 6.5 | 3400 | -2 | 
+| 2021-02-01 | 第4期韓国竜星戦予選 | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3499 | 87 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Lee Changseok | Park Yeonghun | Win | B+R | 6.5 | 3412 | 13 | 
+| 2021-01-25 | 第4回クラウン・ヘテ杯3回戦 | Heo Seohyun | Lee Changseok | Win | W+R | 6.5 | 3399 | -3 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Lee Changseok | Song Jihoon | Lose | W+R | 6.5 | 3402 | -10 | 
 | 2021-01-19 | 第4回クラウン・ヘテ杯2回戦 | Lee Changseok |  | Win | B+R | 6.5 | 3412 | -22 | 
 | 2021-01-17 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3434 | -2 | 
 | 2021-01-14 | 第44期名人戦（韓国）予選 | Oh Yujin | Lee Changseok | Win | W+R | 6.5 | 3436 | 1 | 
 | 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Changseok | Seol Hyunjun | Win | B+R | 6.5 | 3435 | 28 | 
 | 2021-01-07 | 第4回クラウン・ヘテ杯1回戦 | Lee Changseok | Na Hyun | Win | B+R | 6.5 | 3407 | 18 | 
-| 2021-01-02 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Lee Changseok | Win | W+R | 6.5 | 3389 | 35 | 
-| 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changseok | Lee Donghoon | Win | B+R | 6.5 | 3354 | 57 | 
+| 2021-01-02 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Lee Changseok | Win | W+R | 6.5 | 3389 | 36 | 
+| 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changseok | Lee Donghoon | Win | B+R | 6.5 | 3353 | 56 | 
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Lee Changseok | Win | W+R | 6.5 | 3297 | 12 | 
 | 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Sangcho | Win | B+R | 6.5 | 3285 | 9 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Lee Changseok | Win | W+R | 6.5 | 3276 | 27 | 
-| 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | Win | B+R | 6.5 | 3249 | -4 | 
-| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Lose | W+R | 6.5 | 3253 | -47 | 
+| 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | Win | B+R | 6.5 | 3249 | -3 | 
+| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Lose | W+R | 6.5 | 3252 | -48 | 
 | 2020-11-26 | 2020-2021韓国囲碁リーグ | Lee Taehyun | Lee Changseok | Win | W+R | 6.5 | 3300 | 36 | 
 | 2020-10-12 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Lee Changseok | Win | W+R | 6.5 | 3264 | -4 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Wonggyu | Win | B+R | 6.5 | 3268 | 4 | 
@@ -141,20 +141,20 @@
 | 2020-04-09 | 第25期GSカルテックス杯プロ棋戦16強戦 | Lee Hoseong | Lee Changseok | Win | W+R | 6.5 | 3357 | 20 | 
 | 2020-03-13 | 第25期GSカルテックス杯プロ棋戦24強戦 | Lee Changseok | Kim Myounghoon | Win | B+R | 6.5 | 3337 | 1 | 
 | 2020-02-09 | 2019-2020韓国囲碁リーグ準プレーオフ第3戦第2局 | Lee Changseok | Lee Hoseong | Lose | W+R | 6.5 | 3336 | -17 | 
-| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第2局 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3353 | -2 | 
-| 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第2局 | Han Sanghoon | Lee Changseok | Win | W+R | 6.5 | 3355 | 7 | 
-| 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第2局 | Lee Yeongkyu | Lee Changseok | Win | W+R | 6.5 | 3348 | 17 | 
-| 2020-02-05 | 2019-2020韓国囲碁リーグワイルドカード決定戦第1戦第2局 | Kim Myounghoon | Lee Changseok | Win | W+R | 6.5 | 3331 | 18 | 
-| 2020-02-02 | 第3回クラウン・ヘテ杯決勝三番勝負第3局 | Song Jihoon | Lee Changseok | Lose | B+R | 6.5 | 3313 | -25 | 
-| 2020-02-01 | 第3回クラウン・ヘテ杯決勝三番勝負第2局 | Lee Changseok | Song Jihoon | Lose | W+R | 6.5 | 3338 | -13 | 
-| 2020-01-31 | 第3回クラウン・ヘテ杯決勝三番勝負第1局 | Song Jihoon | Lee Changseok | Win | W+R | 6.5 | 3351 | 18 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第4局 | Lee Changseok | Lee Hoseong | Lose | W+0.5 | 6.5 | 3333 | -21 | 
+| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第2局 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3353 | -1 | 
+| 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第2局 | Han Sanghoon | Lee Changseok | Win | W+R | 6.5 | 3354 | 7 | 
+| 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第2局 | Lee Yeongkyu | Lee Changseok | Win | W+R | 6.5 | 3347 | 17 | 
+| 2020-02-05 | 2019-2020韓国囲碁リーグワイルドカード決定戦第1戦第2局 | Kim Myounghoon | Lee Changseok | Win | W+R | 6.5 | 3330 | 18 | 
+| 2020-02-02 | 第3回クラウン・ヘテ杯決勝三番勝負第3局 | Song Jihoon | Lee Changseok | Lose | B+R | 6.5 | 3312 | -25 | 
+| 2020-02-01 | 第3回クラウン・ヘテ杯決勝三番勝負第2局 | Lee Changseok | Song Jihoon | Lose | W+R | 6.5 | 3337 | -13 | 
+| 2020-01-31 | 第3回クラウン・ヘテ杯決勝三番勝負第1局 | Song Jihoon | Lee Changseok | Win | W+R | 6.5 | 3350 | 18 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第4局 | Lee Changseok | Lee Hoseong | Lose | W+0.5 | 6.5 | 3332 | -22 | 
 | 2020-01-19 | 第3回クラウン・ヘテ杯準決勝 | Byun Sangil | Lee Changseok | Win | W+R | 6.5 | 3354 | 28 | 
 | 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第5局 | Lee Changseok | Park Junghwan | Lose | W+0.5 | 6.5 | 3326 | 7 | 
 | 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第5局 | Lee Changseok | Seol Hyunjun | Lose | W+R | 6.5 | 3319 | -18 | 
-| 2020-01-09 | 第3回クラウン・ヘテ杯3回戦 | Lee Changseok | Park Jinyoung | Win | B+R | 6.5 | 3337 | 20 | 
-| 2020-01-05 | 第3回クラウン・ヘテ杯2回戦 | Lee Changseok | Park Sangjin | Win | B+3.5 | 6.5 | 3317 | 32 | 
-| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第4局 | Park Seunghwa | Lee Changseok | Lose | B+R | 6.5 | 3285 | missing |
+| 2020-01-09 | 第3回クラウン・ヘテ杯3回戦 | Lee Changseok | Park Jinyoung | Win | B+R | 6.5 | 3337 | 21 | 
+| 2020-01-05 | 第3回クラウン・ヘテ杯2回戦 | Lee Changseok | Park Sangjin | Win | B+3.5 | 6.5 | 3316 | 32 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第4局 | Park Seunghwa | Lee Changseok | Lose | B+R | 6.5 | 3284 | missing |
 
 
 

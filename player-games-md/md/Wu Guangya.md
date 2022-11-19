@@ -12,8 +12,8 @@
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Wu Guangya | Tu Xiaoyu | Lose | W+R | 7.5 | 3288 | -56 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Ye Changxin | Wu Guangya | Win | W+R | 7.5 | 3344 | 4 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wu Guangya | Zhou Hexi | Win | B+1¾ | 7.5 | 3340 | 31 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Hao | Wu Guangya | Win | W+R | 7.5 | 3309 | 17 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Lose | B+R | 7.5 | 3292 | -27 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Hao | Wu Guangya | Win | W+R | 7.5 | 3309 | 18 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Lose | B+R | 7.5 | 3291 | -28 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Lose | B+R | 7.5 | 3319 | -20 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Lose | B+R | 7.5 | 3339 | -2 | 
 | 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3341 | -10 | 
@@ -25,13 +25,13 @@
 | 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Win | B+R | 6.5 | 3265 | 61 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Chen Zijian | Wu Guangya | Lose | B+R | 6.5 | 3204 | -7 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3211 | 40 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Wu Guangya | Li Qincheng | Lose | W+R | 7.5 | 3171 | -5 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Lose | B+R | 7.5 | 3176 | -11 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Wu Guangya | Li Qincheng | Lose | W+R | 7.5 | 3171 | -4 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Lose | B+R | 7.5 | 3175 | -12 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | Win | B+R | 7.5 | 3187 | 40 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Wu Guangya | Lose | B+R | 7.5 | 3147 | 8 | 
 | 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Gu Lingyi | Lose | W+R | 7.5 | 3139 | -26 | 
-| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | Lose | W+R | 7.5 | 3165 | 29 | 
-| 2021-01-26 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Zhou Hongyu | Win | B+R | 7.5 | 3136 | 27 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | Lose | W+R | 7.5 | 3165 | 30 | 
+| 2021-01-26 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Zhou Hongyu | Win | B+R | 7.5 | 3135 | 26 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Wu Guangya | Win | W+R | 7.5 | 3109 | -57 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | Lose | W+R | 7.5 | 3166 | -28 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Hu Yaoyu | Wu Guangya | Lose | B+R | 7.5 | 3194 | -40 | 
@@ -43,8 +43,8 @@
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Liao Xingwen | Wu Guangya | Lose | B+R | 7.5 | 3263 | -30 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Wu Guangya | Tao Xinran | Lose | W+R | 7.5 | 3293 | -30 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wu Guangya | Zhao Chenyu | Lose | W+R | 7.5 | 3323 | -26 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kang Dongyun | Wu Guangya | Win | W+R | 6.5 | 3349 | 18 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Lose | W+R | 7.5 | 3331 | missing |
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kang Dongyun | Wu Guangya | Win | W+R | 6.5 | 3349 | 19 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Lose | W+R | 7.5 | 3330 | missing |
 
 
 

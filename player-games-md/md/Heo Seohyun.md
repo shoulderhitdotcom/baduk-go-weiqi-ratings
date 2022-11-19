@@ -26,10 +26,10 @@
 | 2022-07-29 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Eunji | Lose | W+R | 6.5 | 2911 | 11 | 
 | 2022-07-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Cho Seungah | Lose | W+0.5 | 6.5 | 2900 | 24 | 
 | 2022-07-17 | 第8回韓国女子囲碁リーグ | Kim Dayoung | Heo Seohyun | Win | W+0.5 | 6.5 | 2876 | 32 | 
-| 2022-07-09 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Choi Jeong | Lose | W+R | 6.5 | 2844 | -18 | 
-| 2022-07-06 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Park Taehee | Heo Seohyun | Lose | B+R | 6.5 | 2862 | 13 | 
-| 2022-07-05 | 第24回農心杯韓国予選 | Heo Seohyun | Ahn Kukhyun | Lose | W+R | 6.5 | 2849 | -8 | 
-| 2022-07-01 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Heo Seohyun | Win | W+0.5 | 6.5 | 2857 | 18 | 
+| 2022-07-09 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Choi Jeong | Lose | W+R | 6.5 | 2844 | -19 | 
+| 2022-07-06 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Park Taehee | Heo Seohyun | Lose | B+R | 6.5 | 2863 | 13 | 
+| 2022-07-05 | 第24回農心杯韓国予選 | Heo Seohyun | Ahn Kukhyun | Lose | W+R | 6.5 | 2850 | -8 | 
+| 2022-07-01 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Heo Seohyun | Win | W+0.5 | 6.5 | 2858 | 19 | 
 | 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Park Jinyoung | Heo Seohyun | Lose | B+R | 6.5 | 2839 | 5 | 
 | 2022-06-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Oh Jeonga | Win | B+4.5 | 6.5 | 2834 | 5 | 
 | 2022-06-20 | 第45期名人戦（韓国）予選 | Heo Seohyun | Choi Kyeongho | Lose | W+R | 6.5 | 2829 | -23 | 

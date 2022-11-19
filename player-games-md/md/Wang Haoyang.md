@@ -17,8 +17,8 @@
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Sun Tengyu | Wang Haoyang | Win | W+R | 7.5 | 3395 | 0 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Win | W+R | 7.5 | 3395 | 52 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Win | W+R | 7.5 | 3343 | 92 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Lose | W+1¼ | 7.5 | 3251 | -277 | 
-| 2020-01-04 | 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | Lose | W+R | 7.5 | 3528 | missing |
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Lose | W+1¼ | 7.5 | 3251 | -276 | 
+| 2020-01-04 | 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | Lose | W+R | 7.5 | 3527 | missing |
 
 
 

@@ -20,9 +20,9 @@
 | 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 | Han Woojin |  | Win | B+R | 6.5 | 3150 | 12 | 
 | 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Lose | W+¼ | 7.5 | 3138 | 0 | 
 | 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Hyun Yoobin | Han Woojin | Win | W+R | 7.5 | 3138 | 0 | 
-| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3138 | -60 | 
-| 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Lose | B+R | 6.5 | 3198 | -17 | 
-| 2022-06-29 | 2022YK建機杯リーグ | Han Woojin | Shin Jinseo | Lose | W+R | 6.5 | 3215 | -4 | 
+| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3138 | -61 | 
+| 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Lose | B+R | 6.5 | 3199 | -17 | 
+| 2022-06-29 | 2022YK建機杯リーグ | Han Woojin | Shin Jinseo | Lose | W+R | 6.5 | 3216 | -3 | 
 | 2022-06-24 | 第10回河燦錫国手杯英才最強戦3回戦 |  | Han Woojin | Win | W+R | 6.5 | 3219 | -1 | 
 | 2022-06-20 | 2022YK建機杯リーグ | Weon Seongjin | Han Woojin | Win | W+1.5 | 6.5 | 3220 | 85 | 
 | 2022-06-10 | 第10回河燦錫国手杯英才最強戦2回戦 | Han Woojin |  | Win | B+R | 6.5 | 3135 | -1 | 

@@ -21,13 +21,13 @@
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Seol Hyunjun |  | Win | B+R | 7.5 | 3468 | 2 | 
 | 2022-07-14 | 2021中国囲碁乙級リーグ | Kang Seungmin | Seol Hyunjun | Win | W+R | 7.5 | 3466 | 2 | 
 | 2022-07-13 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Win | W+R | 7.5 | 3464 | 3 | 
-| 2022-07-12 | 2021中国囲碁乙級リーグ | Seol Hyunjun | Tong Yulin | Lose | W+R | 7.5 | 3461 | 11 | 
-| 2022-07-05 | 第45期名人戦（韓国）1回戦 | Kang Seungmin | Seol Hyunjun | Lose | B+R | 6.5 | 3450 | -27 | 
+| 2022-07-12 | 2021中国囲碁乙級リーグ | Seol Hyunjun | Tong Yulin | Lose | W+R | 7.5 | 3461 | 10 | 
+| 2022-07-05 | 第45期名人戦（韓国）1回戦 | Kang Seungmin | Seol Hyunjun | Lose | B+R | 6.5 | 3451 | -26 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Seol Hyunjun | An Sungjoon | Lose | W+R | 6.5 | 3477 | -9 | 
 | 2022-05-30 | 第27回LG杯朝鮮日報棋王戦1回戦 | Seol Hyunjun | Kim Myounghoon | Lose | W+R | 6.5 | 3486 | 36 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Seol Hyunjun | Yun Chanhee | Win | B+R | 6.5 | 3450 | 7 | 
-| 2022-04-25 | 第27回LG杯韓国予選 | Seol Hyunjun | Hyun Yoobin | Win | B+R | 6.5 | 3443 | 4 | 
-| 2022-04-22 | 第27回LG杯韓国予選 | Kim Cheayoung | Seol Hyunjun | Win | W+R | 6.5 | 3439 | -9 | 
+| 2022-04-25 | 第27回LG杯韓国予選 | Seol Hyunjun | Hyun Yoobin | Win | B+R | 6.5 | 3443 | 3 | 
+| 2022-04-22 | 第27回LG杯韓国予選 | Kim Cheayoung | Seol Hyunjun | Win | W+R | 6.5 | 3440 | -8 | 
 | 2022-04-14 | 第27回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Choi Kyeongho | Lose | W+R | 6.5 | 3448 | -10 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Seol Hyunjun | Cho Hanseung | Win | B+R | 6.5 | 3458 | 2 | 
 | 2022-04-06 | 2022年アジア競技大会韓国予選 | Seol Hyunjun | Han Sanghoon | Lose | W+R | 7.5 | 3456 | -12 | 
@@ -73,28 +73,28 @@
 | 2021-04-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Seol Hyunjun | Lose | B+R | 6.5 | 3457 | -1 | 
 | 2021-04-01 | 第26回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Na Hyun | Lose | W+R | 6.5 | 3458 | -6 | 
 | 2021-03-10 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Byun Sangil | Lose | W+2.5 | 6.5 | 3464 | -4 | 
-| 2021-03-04 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kim Jiseok | Win | B+R | 6.5 | 3468 | -3 | 
-| 2021-02-18 | 2020-2021韓国囲碁リーグ | Song Jihoon | Seol Hyunjun | Win | W+R | 6.5 | 3471 | 23 | 
-| 2021-02-16 | 第4回クラウン・ヘテ杯決勝三番勝負第2局 | Seol Hyunjun | Lee Changseok | Lose | W+R | 6.5 | 3448 | 11 | 
+| 2021-03-04 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kim Jiseok | Win | B+R | 6.5 | 3468 | -2 | 
+| 2021-02-18 | 2020-2021韓国囲碁リーグ | Song Jihoon | Seol Hyunjun | Win | W+R | 6.5 | 3470 | 23 | 
+| 2021-02-16 | 第4回クラウン・ヘテ杯決勝三番勝負第2局 | Seol Hyunjun | Lee Changseok | Lose | W+R | 6.5 | 3447 | 10 | 
 | 2021-02-15 | 第4回クラウン・ヘテ杯決勝三番勝負第1局 | Lee Changseok | Seol Hyunjun | Lose | B+R | 6.5 | 3437 | -10 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kang Dongyun | Win | B+1.5 | 6.5 | 3447 | 13 | 
 | 2021-02-10 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Kang Seungmin | Lose | W+R | 6.5 | 3434 | -8 | 
 | 2021-02-08 | 第4回クラウン・ヘテ杯準決勝 | Seol Hyunjun | An Jungki | Win | B+R | 6.5 | 3442 | 17 | 
 | 2021-02-06 | 2020-2021韓国囲碁リーグ | An Sungjoon | Seol Hyunjun | Lose | B+R | 6.5 | 3425 | -15 | 
-| 2021-01-31 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Lee Yeongkyu | Win | B+3.5 | 6.5 | 3440 | 47 | 
-| 2021-01-27 | 第4回クラウン・ヘテ杯3回戦 | Cho Seungah | Seol Hyunjun | Win | W+R | 6.5 | 3393 | 1 | 
-| 2021-01-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Seol Hyunjun | Lose | B+R | 6.5 | 3392 | -19 | 
-| 2021-01-23 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Shin Jinseo | Lose | W+R | 6.5 | 3411 | -6 | 
+| 2021-01-31 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Lee Yeongkyu | Win | B+3.5 | 6.5 | 3440 | 48 | 
+| 2021-01-27 | 第4回クラウン・ヘテ杯3回戦 | Cho Seungah | Seol Hyunjun | Win | W+R | 6.5 | 3392 | 1 | 
+| 2021-01-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Seol Hyunjun | Lose | B+R | 6.5 | 3391 | -19 | 
+| 2021-01-23 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Shin Jinseo | Lose | W+R | 6.5 | 3410 | -7 | 
 | 2021-01-16 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Wen Rubin | Win | B+R | 6.5 | 3417 | 6 | 
 | 2021-01-11 | 第4回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Han Seungjoo | Win | B+2.5 | 6.5 | 3411 | 5 | 
 | 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Changseok | Seol Hyunjun | Lose | B+R | 6.5 | 3406 | -23 | 
-| 2021-01-03 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Seol Hyunjun | Lose | B+R | 6.5 | 3429 | 13 | 
-| 2020-12-31 | 第4回クラウン・ヘテ杯1回戦 | Seol Hyunjun | Shen Zaiyi | Win | B+R | 6.5 | 3416 | 9 | 
-| 2020-12-26 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Win | W+R | 6.5 | 3407 | 24 | 
-| 2020-12-22 | 第26期GSカルテックス杯プロ棋戦予選 | Seol Hyunjun | Lee Donghoon | Win | B+R | 6.5 | 3383 | 66 | 
+| 2021-01-03 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Seol Hyunjun | Lose | B+R | 6.5 | 3429 | 14 | 
+| 2020-12-31 | 第4回クラウン・ヘテ杯1回戦 | Seol Hyunjun | Shen Zaiyi | Win | B+R | 6.5 | 3415 | 9 | 
+| 2020-12-26 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Win | W+R | 6.5 | 3406 | 24 | 
+| 2020-12-22 | 第26期GSカルテックス杯プロ棋戦予選 | Seol Hyunjun | Lee Donghoon | Win | B+R | 6.5 | 3382 | 65 | 
 | 2020-12-18 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kim Junghyun | Lose | W+R | 6.5 | 3317 | -41 | 
-| 2020-12-10 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Shen Zaiyi | Lose | W+R | 6.5 | 3358 | 2 | 
-| 2020-12-04 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Seol Hyunjun | Lose | B+R | 6.5 | 3356 | -23 | 
+| 2020-12-10 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Shen Zaiyi | Lose | W+R | 6.5 | 3358 | 3 | 
+| 2020-12-04 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Seol Hyunjun | Lose | B+R | 6.5 | 3355 | -24 | 
 | 2020-11-30 | 第2期ソパルコサノル最高棋士決定戦予選 | Seol Hyunjun | An Jungki | Win | B+R | 6.5 | 3379 | 29 | 
 | 2020-11-27 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Wen Rubin | Win | B+R | 6.5 | 3350 | -14 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ |  | Seol Hyunjun | Lose | B+1¾ | 7.5 | 3364 | -17 | 
@@ -116,13 +116,13 @@
 | 2020-04-22 | 第25回LG杯韓国予選 | Ko Keuntae | Seol Hyunjun | Win | W+R | 6.5 | 3373 | -13 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Kim Jinhyu | Seol Hyunjun | Win | W+R | 6.5 | 3386 | -4 | 
 | 2020-04-14 | 第25回LG杯韓国予選 |  | Seol Hyunjun | Win | W+R | 6.5 | 3390 | 34 | 
-| 2020-03-27 | 第25期GSカルテックス杯プロ棋戦24強戦 | Seol Hyunjun | Ryu Suhang | Lose | W+1.5 | 6.5 | 3356 | -15 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第2局 | Shen Zaiyi | Seol Hyunjun | Lose | B+0.5 | 6.5 | 3371 | -23 | 
+| 2020-03-27 | 第25期GSカルテックス杯プロ棋戦24強戦 | Seol Hyunjun | Ryu Suhang | Lose | W+1.5 | 6.5 | 3356 | -14 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第2局 | Shen Zaiyi | Seol Hyunjun | Lose | B+0.5 | 6.5 | 3370 | -24 | 
 | 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第5局 | Yun Chanhee | Seol Hyunjun | Win | W+0.5 | 6.5 | 3394 | 10 | 
 | 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第4局 | Seol Hyunjun | Park Seunghwa | Win | B+R | 6.5 | 3384 | 10 | 
-| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第5局 | Lee Changseok | Seol Hyunjun | Win | W+R | 6.5 | 3374 | 7 | 
-| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第2局 | Paek Hongseok | Seol Hyunjun | Win | W+R | 6.5 | 3367 | 27 | 
-| 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Na Hyun | Lose | W+R | 6.5 | 3340 | missing |
+| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第5局 | Lee Changseok | Seol Hyunjun | Win | W+R | 6.5 | 3374 | 8 | 
+| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第2局 | Paek Hongseok | Seol Hyunjun | Win | W+R | 6.5 | 3366 | 27 | 
+| 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Na Hyun | Lose | W+R | 6.5 | 3339 | missing |
 
 
 

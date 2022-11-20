@@ -34,7 +34,7 @@ The ratings are based on 4632 games from 2021-11-20 to 2022-11-19.
 | 8 | [Wang Xinghao](./player-games-md/md/Wang Xinghao.md) | 3660 | 45 | CHN | Male | 18.8 | 王星昊 | 
 | 9 | [Ke Jie](./player-games-md/md/Ke Jie.md) | 3651 | 48 | CHN | Male | 25.3 | 柯潔 | 
 | 10 | [Byun Sangil](./player-games-md/md/Byun Sangil.md) | 3648 | 85 | KOR | Male | 25.9 | 卞相壹 | 
-| 11 | [Ding Hao](./player-games-md/md/Ding Hao.md) | 3646 | 47 | CHN | Male | 22.4 | 丁浩 | 
+| 11 | [Ding Hao](./player-games-md/md/Ding Hao.md) | 3646 | 47 | CHN | Male | 22.5 | 丁浩 | 
 | 12 | [Fan Tingyu](./player-games-md/md/Fan Tingyu.md) | 3642 | 48 | CHN | Male | 26.3 | 范廷鈺 | 
 | 13 | [Gu Zihao](./player-games-md/md/Gu Zihao.md) | 3641 | 50 | CHN | Male | 24.7 | 辜梓豪 | 
 | 14 | [Li Qincheng](./player-games-md/md/Li Qincheng.md) | 3628 | 38 | CHN | Male | 24.1 | 李欽誠 | 
@@ -56,7 +56,7 @@ The ratings are based on 4632 games from 2021-11-20 to 2022-11-19.
 | 30 | [Xu Jiayang](./player-games-md/md/Xu Jiayang.md) | 3529 | 32 | CHN | Male | missing | 許嘉陽 | 
 | 31 | [Tu Xiaoyu](./player-games-md/md/Tu Xiaoyu.md) | 3525 | 41 | CHN | Male | missing | 屠暁宇 | 
 | 32 | [Jiang Weijie](./player-games-md/md/Jiang Weijie.md) | 3522 | 30 | CHN | Male | 31.1 | 江維傑 | 
-| 33 | [Chen Yaoye](./player-games-md/md/Chen Yaoye.md) | 3513 | 24 | CHN | Male | 32.9 | 陳耀燁 | 
+| 33 | [Chen Yaoye](./player-games-md/md/Chen Yaoye.md) | 3513 | 24 | CHN | Male | 33.0 | 陳耀燁 | 
 | 34 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3511 | 32 | CHN | Male | 21.9 | 廖元赫 | 
 | 35 | [Fan Yin](./player-games-md/md/Fan Yin.md) | 3501 | 25 | CHN | Male | missing | 范胤 | 
 | 36 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3499 | 45 | JPN | Male | 33.5 | 井山裕太 | 
@@ -71,7 +71,7 @@ The ratings are based on 4632 games from 2021-11-20 to 2022-11-19.
 | 45 | [Shibano Toramaru](./player-games-md/md/Shibano Toramaru.md) | 3471 | 48 | JPN | Male | 23.0 | 芝野虎丸 | 
 | 46 | [Chen Zijian](./player-games-md/md/Chen Zijian.md) | 3469 | 15 | CHN | Male | missing | 陳梓健 | 
 | 47 | [Li Xiangyu](./player-games-md/md/Li Xiangyu.md) | 3467 | 13 | CHN | Male | missing | 李翔宇 | 
-| 48 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3464 | 38 | KOR | Male | 24.4 | 朴鍵昊 | 
+| 48 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3464 | 38 | KOR | Male | 24.5 | 朴鍵昊 | 
 | 49 | [Chen Xian](./player-games-md/md/Chen Xian.md) | 3457 | 34 | CHN | Male | 25.5 | 陳賢 | 
 | 50 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3451 | 74 | KOR | Male | 33.5 | 金志錫 | 
 | 51 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3449 | 48 | KOR | Male | 24.8 | 朴河旼 | 
@@ -262,7 +262,7 @@ Note that players with fewer than 13 games are not in the list
 | 221 | [Xu Yuqi](./player-games-md/md/Xu Yuqi.md) | 2817 | 28 | TWN | Male | missing | 許育祺 | 
 | 222 | [Kim Miri](./player-games-md/md/Kim Miri.md) | 2809 | 35 | KOR | Female | 31.7 | 金美里 | 
 | 223 | [Kim Chongsu](./player-games-md/md/Kim Chongsu.md) | 2805 | 20 | KOR | Male | 60.1 | 金鐘秀 | 
-| 224 | [Kim Chanwu](./player-games-md/md/Kim Chanwu.md) | 2803 | 17 | KOR | Male | 50.6 | 金燦佑 | 
+| 224 | [Kim Chanwu](./player-games-md/md/Kim Chanwu.md) | 2803 | 17 | KOR | Male | 50.7 | 金燦佑 | 
 | 225 | [](./player-games-md/md/.md) | 2786 | 16 | missing | missing | missing | 李相勲 | 
 | 226 | [Chen Xi](./player-games-md/md/Chen Xi.md) | 2773 | 18 | TWN | Male | missing | 陳禧 | 
 | 227 | [Lu Yuhua](./player-games-md/md/Lu Yuhua.md) | 2769 | 46 | missing | missing | missing | 盧鈺樺 | 
@@ -444,100 +444,100 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 
 | **Name** | **Rating Change Trend** | **Games Played** | **汉字** | 
 | --- | --- | --- | --- |
-| Ye Changxin | 404 | 14 | 葉長欣 | 
+| Ye Changxin | 405 | 14 | 葉長欣 | 
 | Yoo Changhyuk | 380 | 31 | 劉昌赫 | 
-| Shen Zaiyi | 283 | 19 | 沈載益 | 
+| Shen Zaiyi | 284 | 19 | 沈載益 | 
 | Li Xuanhao | 279 | 46 | 李軒豪 | 
-| Kim Sonjin | 277 | 18 | 金成進 | 
-| Wang Zejin | 217 | 19 | 王沢錦 | 
-| Lee Wondo | 190 | 28 | 李元道 | 
-| Kim Seongjae | 174 | 17 | 金昇宰 | 
-| Lee Yeongkyu | 172 | 22 | 李映九 | 
-| Kim Myounghoon | 170 | 59 | 金明訓 | 
-| Na Hyun | 164 | 20 | 羅玄 | 
-| Tuo Jiaxi | 163 | 39 | 柁嘉熹 | 
-| Li Xiangyu | 150 | 13 | 李翔宇 | 
-| Park Hamin | 148 | 51 | 朴河旼 | 
+| Kim Sonjin | 278 | 18 | 金成進 | 
+| Wang Zejin | 218 | 19 | 王沢錦 | 
+| Lee Wondo | 191 | 28 | 李元道 | 
+| Kim Seongjae | 175 | 17 | 金昇宰 | 
+| Lee Yeongkyu | 173 | 22 | 李映九 | 
+| Kim Myounghoon | 171 | 59 | 金明訓 | 
+| Na Hyun | 165 | 20 | 羅玄 | 
+| Tuo Jiaxi | 164 | 39 | 柁嘉熹 | 
+| Li Xiangyu | 151 | 13 | 李翔宇 | 
+| Park Hamin | 149 | 51 | 朴河旼 | 
 | Yamashita Keigo | 144 | 21 | 山下敬吾 | 
 | Fan Tingyu | 134 | 50 | 范廷鈺 | 
-| Kim Jinhyu | 126 | 22 | 金眞輝 | 
-| Sada Atsushi | 122 | 45 | 佐田篤史 | 
-| Wang Xinghao | 121 | 47 | 王星昊 | 
+| Kim Jinhyu | 127 | 22 | 金眞輝 | 
+| Sada Atsushi | 123 | 45 | 佐田篤史 | 
+| Wang Xinghao | 122 | 47 | 王星昊 | 
 | Kang Dongyun | 118 | 78 | 姜東潤 | 
-| Park Yeonghun | 116 | 30 | 朴永訓 | 
-| Li Weiqing | 115 | 28 | 李維清 | 
-| Kang Seungmin | 115 | 40 | 姜昇旼 | 
-| Han Seungjoo | 114 | 37 | 韓昇周 | 
-| Xie Erhao | 94 | 34 | 謝爾豪 | 
-| Park Jinsol | 87 | 26 | 朴進率 | 
-| Shibano Toramaru | 81 | 48 | 芝野虎丸 | 
+| Park Yeonghun | 117 | 30 | 朴永訓 | 
+| Li Weiqing | 116 | 28 | 李維清 | 
+| Kang Seungmin | 116 | 40 | 姜昇旼 | 
+| Han Seungjoo | 115 | 37 | 韓昇周 | 
+| Xie Erhao | 95 | 34 | 謝爾豪 | 
+| Park Jinsol | 88 | 26 | 朴進率 | 
+| Shibano Toramaru | 82 | 48 | 芝野虎丸 | 
 | Hu Zihao | 76 | 24 | 胡子豪 | 
-| Shi Yue | 71 | 41 | 時越 | 
-| Yu Zhengqi | 70 | 46 | 余正麒 | 
-| Park Geunho | 70 | 39 | 朴鍵昊 | 
-| Chen Zijian | 69 | 15 | 陳梓健 | 
-| Lee Wonyoung | 58 | 31 | 李元栄 | 
+| Shi Yue | 72 | 41 | 時越 | 
+| Yu Zhengqi | 71 | 46 | 余正麒 | 
+| Park Geunho | 71 | 39 | 朴鍵昊 | 
+| Chen Zijian | 70 | 15 | 陳梓健 | 
+| Lee Wonyoung | 59 | 31 | 李元栄 | 
 | Fan Yin | 57 | 25 | 范胤 | 
 | Chen Zhengxun | 48 | 13 | 陳正勲 | 
-| Dang Yifei | 46 | 34 | 党毅飛 | 
-| Peng Liyao | 42 | 34 | 彭立尭 | 
-| Hsu Chiayuan | 35 | 41 | 許家元 | 
-| Yang Kaiwen | 28 | 34 | 楊楷文 | 
+| Dang Yifei | 47 | 34 | 党毅飛 | 
+| Peng Liyao | 43 | 34 | 彭立尭 | 
+| Hsu Chiayuan | 36 | 41 | 許家元 | 
+| Yang Kaiwen | 29 | 34 | 楊楷文 | 
 | Fu Jianheng | 27 | 17 | 傅健恒 | 
-| Shin Minjun | 21 | 83 | 申旻埈 | 
-| An Sungjoon | 13 | 42 | 安成浚 | 
-| Hong Seongji | 10 | 24 | 洪性志 | 
-| Tan Xiao | 4 | 30 | 檀嘯 | 
-| Zhang Tao | 4 | 24 | 張涛 | 
-| Shin Jinseo | -2 | 101 | 申眞諝 | 
-| Park Joonhoon | -6 | 27 | 朴鐘勲 | 
-| Zhao Chenyu | -6 | 39 | 趙晨宇 | 
-| Seol Hyunjun | -6 | 53 | 偰玹準 | 
+| Shin Minjun | 22 | 83 | 申旻埈 | 
+| An Sungjoon | 14 | 42 | 安成浚 | 
+| Hong Seongji | 11 | 24 | 洪性志 | 
+| Tan Xiao | 5 | 30 | 檀嘯 | 
+| Zhang Tao | 5 | 24 | 張涛 | 
+| Shin Jinseo | -1 | 101 | 申眞諝 | 
+| Park Joonhoon | -5 | 27 | 朴鐘勲 | 
+| Zhao Chenyu | -5 | 39 | 趙晨宇 | 
+| Seol Hyunjun | -5 | 53 | 偰玹準 | 
 | Choi Cheolhan | -15 | 26 | 崔哲瀚 | 
-| Tao Xinran | -21 | 23 | 陶欣然 | 
-| Park Sangjin | -23 | 41 | 朴常鎭 | 
+| Tao Xinran | -20 | 23 | 陶欣然 | 
+| Park Sangjin | -22 | 41 | 朴常鎭 | 
 | Ke Jie | -23 | 49 | 柯潔 | 
-| Tang Weixing | -32 | 34 | 唐韋星 | 
-| Ryu Minhyung | -33 | 40 | 柳珉瀅 | 
-| Xie Ke | -37 | 40 | 謝科 | 
-| Hong Mujin | -38 | 22 | 洪茂鎭 | 
-| Chen Yaoye | -38 | 24 | 陳耀燁 | 
-| Mi Yuting | -39 | 69 | 芈昱廷 | 
+| Tang Weixing | -31 | 34 | 唐韋星 | 
+| Ryu Minhyung | -32 | 40 | 柳珉瀅 | 
+| Xie Ke | -36 | 40 | 謝科 | 
+| Hong Mujin | -37 | 22 | 洪茂鎭 | 
+| Chen Yaoye | -37 | 24 | 陳耀燁 | 
+| Mi Yuting | -38 | 69 | 芈昱廷 | 
 | Jin Yucheng | -41 | 25 | 金禹丞 | 
-| Lee Donghoon | -43 | 34 | 李東勲 | 
-| Tu Xiaoyu | -45 | 42 | 屠暁宇 | 
-| Choi Jeong | -47 | 100 | 崔精 | 
+| Lee Donghoon | -42 | 34 | 李東勲 | 
+| Tu Xiaoyu | -44 | 42 | 屠暁宇 | 
+| Choi Jeong | -46 | 100 | 崔精 | 
 | He Yuhan | -49 | 15 | 何語涵 | 
-| Jiang Qirun | -51 | 21 | 蒋其潤 | 
-| Huang Yunsong | -51 | 38 | 黄雲嵩 | 
-| Xu Haohong | -53 | 75 | 許皓鋐 | 
-| Lee Jihyun | -55 | 50 | 李志賢 | 
+| Jiang Qirun | -50 | 21 | 蒋其潤 | 
+| Huang Yunsong | -50 | 38 | 黄雲嵩 | 
+| Xu Haohong | -52 | 75 | 許皓鋐 | 
+| Lee Jihyun | -54 | 50 | 李志賢 | 
 | Han Sanghoon | -55 | 31 | 韓尚勲 | 
-| Park Minkyu | -56 | 23 | 朴珉奎 | 
+| Park Minkyu | -55 | 23 | 朴珉奎 | 
 | Iyama Yuta | -57 | 45 | 井山裕太 | 
-| Tong Mengcheng | -58 | 34 | 童夢成 | 
+| Tong Mengcheng | -57 | 34 | 童夢成 | 
 | Lian Xiao | -62 | 38 | 連笑 | 
-| Li Qincheng | -65 | 40 | 李欽誠 | 
+| Li Qincheng | -64 | 40 | 李欽誠 | 
 | Chen Xian | -69 | 34 | 陳賢 | 
 | Han Yizhou | -81 | 17 | 韓一洲 | 
-| Chen Yunong | -82 | 17 | 陳玉儂 | 
+| Chen Yunong | -81 | 17 | 陳玉儂 | 
 | Xu Jiayang | -87 | 32 | 許嘉陽 | 
 | Ichiriki Ryo | -105 | 53 | 一力遼 | 
-| Byun Sangil | -114 | 86 | 卞相壹 | 
+| Byun Sangil | -113 | 86 | 卞相壹 | 
 | Huang Mingyu | -125 | 14 | 黄明宇 | 
-| Yang Dingxin | -127 | 44 | 楊鼎新 | 
-| Choi Jaeyoung | -134 | 21 | 崔宰栄 | 
-| Ding Hao | -134 | 47 | 丁浩 | 
-| Jiang Weijie | -136 | 30 | 江維傑 | 
-| Park Junghwan | -136 | 89 | 朴廷桓 | 
+| Yang Dingxin | -126 | 44 | 楊鼎新 | 
+| Choi Jaeyoung | -133 | 21 | 崔宰栄 | 
+| Ding Hao | -133 | 47 | 丁浩 | 
+| Jiang Weijie | -135 | 30 | 江維傑 | 
+| Park Junghwan | -135 | 89 | 朴廷桓 | 
 | Kim Jiseok | -143 | 75 | 金志錫 | 
-| Lee Changseok | -153 | 57 | 李昌錫 | 
+| Lee Changseok | -152 | 57 | 李昌錫 | 
 | Yi Lingtao | -167 | 25 | 伊淩濤 | 
-| Gu Zihao | -185 | 50 | 辜梓豪 | 
-| Liao Yuanhe | -186 | 33 | 廖元赫 | 
-| Chen Haoxin | -190 | 23 | 陳豪鑫 | 
-| Weon Seongjin | -211 | 76 | 元晟溱 | 
-| Xia Chenkun | -226 | 21 | 夏晨琨 |
+| Gu Zihao | -184 | 50 | 辜梓豪 | 
+| Liao Yuanhe | -185 | 33 | 廖元赫 | 
+| Chen Haoxin | -189 | 23 | 陳豪鑫 | 
+| Weon Seongjin | -210 | 76 | 元晟溱 | 
+| Xia Chenkun | -225 | 21 | 夏晨琨 |
 
 
 

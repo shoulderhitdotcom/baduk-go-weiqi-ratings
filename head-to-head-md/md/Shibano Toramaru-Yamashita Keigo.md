@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Yamashita Keigo** | **Shibano Toramaru Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-21 | 第47期棋聖戦挑戦者決定戦第2局  | Shibano Toramaru | Yamashita Keigo | B+R | 6.5 | 6:4 | 1 | 0 | 
 | 2022-11-18 | 第47期棋聖戦挑戦者決定戦第1局  | Yamashita Keigo | Shibano Toramaru | B+R | 6.5 | 5:4 | 0 | 1 | 
 | 2022-02-03 | 第47期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | B+4.5 | 6.5 | 5:3 | 1 | 0 | 
 | 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | W+R | 6.5 | 4:3 | 0 | 2 | 

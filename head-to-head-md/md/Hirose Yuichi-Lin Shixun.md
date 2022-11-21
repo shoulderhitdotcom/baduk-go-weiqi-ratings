@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hirose Yuichi vs Lin Shixun** | **Hirose Yuichi streak** | **Lin Shixun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hirose Yuichi Vs Lin Shixun** | **Hirose Yuichi Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第6戦 | Hirose Yuichi | Lin Shixun | W+R | 6.5 | 0:1 | 0 | 1 |
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Shixun | Hirose Yuichi | W+¼ | 7.5 | 1:0 | 1 | 0 |
 
 
 

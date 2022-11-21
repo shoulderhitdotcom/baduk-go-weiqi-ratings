@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-19 | 第2回湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Win | W+R | 7.5 | 3668 | -11 | 
+| 2022-11-20 | 第2期湾区杯中国囲碁大棋士戦挑戦者決定戦 | Mi Yuting | Yang Kaiwen | Win | B+R | 7.5 | 3675 | 7 | 
+| 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Win | W+R | 7.5 | 3668 | -11 | 
 | 2022-11-13 | 第27回LG杯朝鮮日報棋王戦3回戦 | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3679 | 0 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3679 | -5 | 
 | 2022-10-13 | 第23期阿含・桐山杯中国早碁戦1回戦 | Mi Yuting | Shi Yue | Lose | W+R | 7.5 | 3684 | -10 | 

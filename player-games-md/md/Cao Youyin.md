@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Jeong Yujin | Cao Youyin | Lose | B+R | 7.5 | 2724 | -28 | 
 | 2022-11-18 | 2022中国囲碁乙級リーグ | Cao Youyin | Lu Yuhua | Win | B+¾ | 7.5 | 2752 | 86 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Cao Youyin | Lose | B+R | 7.5 | 2666 | -46 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Cao Youyin | Wang Chunhui | Lose | W+R | 7.5 | 2712 | -28 | 
-| 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Cao Youyin | Lose | B+3¾ | 7.5 | 2740 | -44 | 
-| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Cao Youyin | Win | W+R | 7.5 | 2784 | 219 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Gueon Hyojin | Cao Youyin | Lose | B+R | 7.5 | 2666 | -47 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Cao Youyin | Wang Chunhui | Lose | W+R | 7.5 | 2713 | -28 | 
+| 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nyu Eiko | Cao Youyin | Lose | B+3¾ | 7.5 | 2741 | -44 | 
+| 2022-08-12 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Cao Youyin | Win | W+R | 7.5 | 2785 | 220 | 
 | 2022-08-09 | 2021中国女子囲碁乙級リーグ | Lu Yuhua | Cao Youyin | Win | W+R | 7.5 | 2565 | 0 | 
 | 2022-06-29 | 第2回天台山杯全国女子囲碁オープン戦 | Cao Youyin |  | Lose | W+R | 7.5 | 2565 | 72 | 
 | 2022-03-14 | 第18回倡棋杯予選 |  | Cao Youyin | Lose | B+R | 7.5 | 2493 | -35 | 

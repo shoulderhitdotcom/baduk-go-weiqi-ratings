@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Eunji** | **Choi Jeong Streak** | **Kim Eunji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-22 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Choi Jeong | W+R | 6.5 | 6:0 | 6 | 0 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Eunji | Choi Jeong | W+R | 6.5 | 5:0 | 5 | 0 | 
 | 2022-06-18 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Eunji | B+R | 6.5 | 4:0 | 4 | 0 | 
 | 2020-11-16 | 2020年中国囲碁乙級リーグ | Choi Jeong | Kim Eunji | B+¾ | 7.5 | 3:0 | 3 | 0 | 

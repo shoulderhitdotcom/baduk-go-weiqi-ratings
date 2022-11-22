@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Mutsuura Yuta** | **Lai Junfu streak** | **Mutsuura Yuta streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Mutsuura Yuta** | **Lai Junfu Streak** | **Mutsuura Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第2戦 | Mutsuura Yuta | Lai Junfu | B+R | 6.5 | 0:1 | 0 | 1 |
 

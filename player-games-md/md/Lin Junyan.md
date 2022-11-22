@@ -7,14 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-20 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Lose | B+R | 7.5 | 3184 | 12 | 
-| 2022-11-18 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Lose | B+R | 7.5 | 3172 | -7 | 
-| 2022-11-17 | 2022中国囲碁丙級リーグ | Lin Junyan |  | Win | B+R | 7.5 | 3179 | 13 | 
-| 2022-11-16 | 2022中国囲碁丙級リーグ | Lin Junyan |  | Win | B+R | 7.5 | 3166 | -2 | 
-| 2022-11-15 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Win | W+R | 7.5 | 3168 | 2 | 
-| 2022-11-14 | 第15期棋王戦（台湾）挑戦手合七番勝負第2局  | Lin Junyan | Xu Haohong | Win | B+1.5 | 6.5 | 3166 | 23 | 
-| 2022-11-11 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Jingen | Lin Junyan | Win | W+R | 7.5 | 3143 | -44 | 
-| 2022-10-28 | 第10期中環碁聖戦8強戦 | Lin Junyan | Li Wei | Lose | W+R | 6.5 | 3187 | 41 | 
+| 2022-11-22 | 2022中国囲碁丙級リーグ | Li Xinyi | Lin Junyan | Lose | B+R | 7.5 | 3199 | 14 | 
+| 2022-11-21 | 2022中国囲碁丙級リーグ | Lin Junyan |  | Win | B+1¾ | 7.5 | 3185 | 0 | 
+| 2022-11-20 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Lose | B+R | 7.5 | 3185 | 12 | 
+| 2022-11-18 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Lose | B+R | 7.5 | 3173 | -7 | 
+| 2022-11-17 | 2022中国囲碁丙級リーグ | Lin Junyan |  | Win | B+R | 7.5 | 3180 | 13 | 
+| 2022-11-16 | 2022中国囲碁丙級リーグ | Lin Junyan |  | Win | B+R | 7.5 | 3167 | -2 | 
+| 2022-11-15 | 2022中国囲碁丙級リーグ |  | Lin Junyan | Win | W+R | 7.5 | 3169 | 2 | 
+| 2022-11-14 | 第15期棋王戦（台湾）挑戦手合七番勝負第2局  | Lin Junyan | Xu Haohong | Win | B+1.5 | 6.5 | 3167 | 23 | 
+| 2022-11-11 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Jingen | Lin Junyan | Win | W+R | 7.5 | 3144 | -44 | 
+| 2022-10-28 | 第10期中環碁聖戦8強戦 | Lin Junyan | Li Wei | Lose | W+R | 6.5 | 3188 | 42 | 
 | 2022-10-23 | 第10期中環碁聖戦16強戦 | Lin Shuyang | Lin Junyan | Win | W+R | 6.5 | 3146 | 0 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Li Wei | Lin Junyan | Lose | B+R | 6.5 | 3146 | 43 | 
 | 2022-10-02 | 第10期中環碁聖戦 |  | Lin Junyan | Win | W+1.5 | 6.5 | 3103 | 23 | 
@@ -28,13 +30,13 @@
 | 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Lin Junyan | Chen Shiyuan | Lose | W+R | 6.5 | 3075 | 20 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lin Junyan | Win | W+R | 6.5 | 3055 | -3 | 
 | 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3058 | -40 | 
-| 2022-06-28 | 第3期聯電杯プロ囲碁戦敗部4回戦 | Jian Jingting | Lin Junyan | Win | W+R | 6.5 | 3098 | -4 | 
-| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3102 | 8 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Xu Jingen | Lin Junyan | Lose | B+0.5 | 6.5 | 3094 | -17 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Win | B+R | 6.5 | 3111 | 51 | 
-| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Liu Yaowen | Lin Junyan | Win | W+R | 6.5 | 3060 | 3 | 
-| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Zeng Pinjie | Lin Junyan | Win | W+R | 6.5 | 3057 | 12 | 
-| 2022-05-19 | 第3期聯電杯プロ囲碁戦予選 | Liu Jianchang | Lin Junyan | Win | W+R | 6.5 | 3045 | -240 | 
+| 2022-06-28 | 第3期聯電杯プロ囲碁戦敗部4回戦 | Jian Jingting | Lin Junyan | Win | W+R | 6.5 | 3098 | -5 | 
+| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3103 | 8 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦勝部3回戦 | Xu Jingen | Lin Junyan | Lose | B+0.5 | 6.5 | 3095 | -17 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Lin Junyan | Chen Shiyuan | Win | B+R | 6.5 | 3112 | 51 | 
+| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Liu Yaowen | Lin Junyan | Win | W+R | 6.5 | 3061 | 3 | 
+| 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 | Zeng Pinjie | Lin Junyan | Win | W+R | 6.5 | 3058 | 12 | 
+| 2022-05-19 | 第3期聯電杯プロ囲碁戦予選 | Liu Jianchang | Lin Junyan | Win | W+R | 6.5 | 3046 | -239 | 
 | 2022-04-21 | 第3期名人冠軍戦決勝七番勝負第4局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3285 | 3 | 
 | 2022-04-20 | 第27回LG杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3282 | -36 | 
 | 2022-04-19 | 第27回LG杯台湾予選 | Lin Shixun | Lin Junyan | Win | W+R | 6.5 | 3318 | 4 | 
@@ -42,19 +44,19 @@
 | 2022-04-07 | 第3期名人冠軍戦決勝七番勝負第2局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3319 | -10 | 
 | 2022-03-31 | 第3期名人冠軍戦決勝七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3329 | -3 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | B+R | 6.5 | 3332 | -5 | 
-| 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Win | B+R | 6.5 | 3337 | 14 | 
-| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3323 | 26 | 
-| 2022-03-11 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lin Junyan | Lose | B+R | 6.5 | 3297 | -6 | 
-| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 7.5 | 3303 | -11 | 
-| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3314 | 0 | 
-| 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Shixun | Lin Junyan | Win | W+R | 7.5 | 3314 | -2 | 
-| 2022-02-25 | 第14回春蘭杯台湾予選 | Lin Yanchen | Lin Junyan | Win | W+R | 7.5 | 3316 | 1 | 
-| 2022-02-21 | 第3期名人冠軍戦1回戦 |  | Lin Junyan | Win | W+R | 6.5 | 3315 | 5 | 
-| 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3310 | -22 | 
-| 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3332 | 2 | 
-| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Junyan | Win | W+R | 6.5 | 3330 | 98 | 
-| 2021-10-19 | 第9期中環碁聖戦8強戦 | Lai Junfu | Lin Junyan | Lose | B+R | 6.5 | 3232 | -2 | 
-| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Lin Junyan | Lose | B+R | 6.5 | 3234 | 13 | 
+| 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Win | B+R | 6.5 | 3337 | 13 | 
+| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3324 | 26 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lin Junyan | Lose | B+R | 6.5 | 3298 | -6 | 
+| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 7.5 | 3304 | -11 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3315 | 0 | 
+| 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Shixun | Lin Junyan | Win | W+R | 7.5 | 3315 | -2 | 
+| 2022-02-25 | 第14回春蘭杯台湾予選 | Lin Yanchen | Lin Junyan | Win | W+R | 7.5 | 3317 | 1 | 
+| 2022-02-21 | 第3期名人冠軍戦1回戦 |  | Lin Junyan | Win | W+R | 6.5 | 3316 | 5 | 
+| 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3311 | -22 | 
+| 2022-02-15 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3333 | 3 | 
+| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Junyan | Win | W+R | 6.5 | 3330 | 97 | 
+| 2021-10-19 | 第9期中環碁聖戦8強戦 | Lai Junfu | Lin Junyan | Lose | B+R | 6.5 | 3233 | -2 | 
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Lin Junyan | Lose | B+R | 6.5 | 3235 | 14 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Lin Xinwei | Lin Junyan | Win | W+R | 6.5 | 3221 | -18 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Zeng Pinjie | Lin Junyan | Win | W+7.5 | 6.5 | 3239 | -6 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Lin Junyan | Chen Yida | Win | B+R | 6.5 | 3245 | 12 | 
@@ -65,9 +67,9 @@
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Yu Lijun | Lin Junyan | Win | W+R | 6.5 | 3291 | -4 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Lin Junyan | Lu Yiquan | Lose | W+R | 6.5 | 3295 | -6 | 
 | 2021-08-04 | 第11期友士杯十段戦挑戦手合五番勝負第3局  | Xu Haohong | Lin Junyan | Lose | B+0.5 | 6.5 | 3301 | -9 | 
-| 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3310 | -9 | 
-| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Junyan |  | Win | B+R | 6.5 | 3319 | -4 | 
-| 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3323 | -6 | 
+| 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3310 | -10 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Junyan |  | Win | B+R | 6.5 | 3320 | -4 | 
+| 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3324 | -5 | 
 | 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Win | B+3.5 | 6.5 | 3329 | 72 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Jiehan | Lin Junyan | Win | W+R | 6.5 | 3257 | 57 | 
 | 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | Win | W+R | 6.5 | 3200 | 29 | 
@@ -80,20 +82,20 @@
 | 2021-04-11 | 第26回LG杯台湾予選 | Lin Junyan | Lin Lixiang | Win | B+R | 6.5 | 3207 | -1 | 
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Xu Yuqi | Lin Junyan | Win | W+R | 6.5 | 3208 | -8 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Lin Junyan | Chen Yida | Win | B+R | 6.5 | 3216 | -12 | 
-| 2021-03-26 | 第17期国手戦（台湾） | Gao Yun | Lin Junyan | Win | W+R | 6.5 | 3228 | 13 | 
-| 2021-03-12 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3215 | -7 | 
-| 2021-03-09 | 第20期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3222 | -6 | 
-| 2021-03-05 | 第20期天元戦（台湾）リーグ | Lai Junfu | Lin Junyan | Win | W+R | 6.5 | 3228 | 23 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Gao Yun | Lin Junyan | Win | W+R | 6.5 | 3228 | 12 | 
+| 2021-03-12 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3216 | -7 | 
+| 2021-03-09 | 第20期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3223 | -6 | 
+| 2021-03-05 | 第20期天元戦（台湾）リーグ | Lai Junfu | Lin Junyan | Win | W+R | 6.5 | 3229 | 24 | 
 | 2021-03-02 | 第20期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Lose | W+R | 6.5 | 3205 | 3 | 
 | 2021-02-26 | 第20期天元戦（台湾）リーグ | Lin Junyan | Lu Yiquan | Win | B+R | 6.5 | 3202 | -10 | 
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Lin Junyan | Lin Lixiang | Win | B+R | 6.5 | 3212 | 6 | 
-| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | W+R | 6.5 | 3206 | 61 | 
-| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Zeng Pinjie | Lin Junyan | Win | W+R | 6.5 | 3145 | 14 | 
+| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | W+R | 6.5 | 3206 | 60 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Zeng Pinjie | Lin Junyan | Win | W+R | 6.5 | 3146 | 15 | 
 | 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Cai Wenhe | Lin Junyan | Win | W+R | 6.5 | 3131 | 20 | 
 | 2020-12-19 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Lin Junyan | Wang Yuanjun | Lose | W+0.5 | 6.5 | 3111 | -7 | 
 | 2020-12-18 | 第8期中環碁聖戦決勝三番勝負第3局 | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3118 | 16 | 
-| 2020-12-13 | 第8期中環碁聖戦決勝三番勝負第2局 | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3102 | 13 | 
-| 2020-12-12 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Wang Yuanjun | Lin Junyan | Lose | B+0.5 | 6.5 | 3089 | -2 | 
+| 2020-12-13 | 第8期中環碁聖戦決勝三番勝負第2局 | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3102 | 12 | 
+| 2020-12-12 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Wang Yuanjun | Lin Junyan | Lose | B+0.5 | 6.5 | 3090 | -1 | 
 | 2020-12-03 | 第1期名人冠軍戦決勝七番勝負第6局  | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3091 | -13 | 
 | 2020-11-30 | 第1期名人冠軍戦決勝七番勝負第5局  | Xu Haohong | Lin Junyan | Lose | B+2.5 | 6.5 | 3104 | -4 | 
 | 2020-11-29 | 第8期中環碁聖戦決勝三番勝負第1局 | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3108 | -8 | 
@@ -102,10 +104,10 @@
 | 2020-11-23 | 第1期名人冠軍戦決勝七番勝負第3局  | Xu Haohong | Lin Junyan | Win | W+R | 6.5 | 3136 | 10 | 
 | 2020-11-22 | 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | Win | B+R | 6.5 | 3126 | -20 | 
 | 2020-11-19 | 第1期名人冠軍戦決勝七番勝負第2局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3146 | -22 | 
-| 2020-11-16 | 第1期名人冠軍戦決勝七番勝負第1局  | Xu Haohong | Lin Junyan | Win | W+R | 6.5 | 3168 | 2 | 
-| 2020-11-14 | 第1回UMC聯電杯早碁争覇戦4回戦  | Lin Junyan | Lai Junfu | Win | B+R | 6.5 | 3166 | 40 | 
-| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Lin Junyan |  | Win | B+R | 6.5 | 3126 | -29 | 
-| 2020-10-18 | 第8期中環碁聖戦4回戦 | Lin Junyan | Li Wei | Win | B+R | 6.5 | 3155 | -27 | 
+| 2020-11-16 | 第1期名人冠軍戦決勝七番勝負第1局  | Xu Haohong | Lin Junyan | Win | W+R | 6.5 | 3168 | 1 | 
+| 2020-11-14 | 第1回UMC聯電杯早碁争覇戦4回戦  | Lin Junyan | Lai Junfu | Win | B+R | 6.5 | 3167 | 41 | 
+| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Lin Junyan |  | Win | B+R | 6.5 | 3126 | -30 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Lin Junyan | Li Wei | Win | B+R | 6.5 | 3156 | -26 | 
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Zhou Yinnan | Lin Junyan | Lose | B+R | 6.5 | 3182 | -18 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 |  | Lin Junyan | Win | W+R | 6.5 | 3200 | -5 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Lin Junyan | Lin Xinwei | Win | B+0.5 | 6.5 | 3205 | 13 | 
@@ -116,10 +118,10 @@
 | 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Yang Bowei | Lin Junyan | Win | W+R | 6.5 | 3177 | -21 | 
 | 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Lin Junyan | Yang Bowei | Win | B+R | 6.5 | 3198 | -36 | 
 | 2020-07-20 | 第1期名人冠軍戦2回戦 | Lin Yuxiang | Lin Junyan | Win | W+R | 6.5 | 3234 | -2 | 
-| 2020-07-16 | 第1期名人冠軍戦1回戦 | Huang Shiyuan | Lin Junyan | Win | W+R | 6.5 | 3236 | -6 | 
-| 2020-06-16 | 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Lin Junyan | Niu Shite | Lose | W+R | 6.5 | 3242 | -9 | 
-| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Xiao Zhenghao | Lin Junyan | Lose | B+R | 6.5 | 3251 | -10 | 
-| 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lin Junyan | Lu Yiquan | Win | B+R | 6.5 | 3261 | -10 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Huang Shiyuan | Lin Junyan | Win | W+R | 6.5 | 3236 | -7 | 
+| 2020-06-16 | 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Lin Junyan | Niu Shite | Lose | W+R | 6.5 | 3243 | -8 | 
+| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Xiao Zhenghao | Lin Junyan | Lose | B+R | 6.5 | 3251 | -11 | 
+| 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lin Junyan | Lu Yiquan | Win | B+R | 6.5 | 3262 | -9 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhang Kaixin | Lin Junyan | Win | W+R | 6.5 | 3271 | 17 | 
 | 2020-05-26 | 第19期天元戦（台湾）挑戦手合七番勝負第4局 | Lin Junyan | Wang Yuanjun | Lose | W+R | 6.5 | 3254 | 23 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Dang Xiyun | Lin Junyan | Win | W+R | 6.5 | 3231 | 7 | 

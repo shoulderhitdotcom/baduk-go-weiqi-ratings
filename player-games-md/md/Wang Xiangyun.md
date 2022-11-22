@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-09-13 | 第18回建橋杯女子囲碁オープン戦予選 | Wang Xiangyun | Wang Siyin | Lose | W+R | 7.5 | missing | 0 | 
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Xiangyun | Yang Zixuan | Lose | W+R | 7.5 | missing | -2437 | 

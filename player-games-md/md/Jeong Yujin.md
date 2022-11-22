@@ -7,11 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Jeong Yujin | Cao Youyin | Win | B+R | 7.5 | 2952 | 21 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Jeong Yujin | Win | W+R | 7.5 | 2931 | 6 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Lose | W+¼ | 7.5 | 2925 | 4 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Win | B+R | 7.5 | 2921 | 19 | 
-| 2022-11-15 | 2022中国囲碁乙級リーグ | Yang Zixuan | Jeong Yujin | Lose | B+2¼ | 7.5 | 2902 | 14 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Jeong Yujin | Win | W+¼ | 7.5 | 2943 | -9 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Wang Siyin | Jeong Yujin | Win | W+R | 7.5 | 2952 | -1 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Jeong Yujin | Cao Youyin | Win | B+R | 7.5 | 2953 | 21 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Jeong Yujin | Win | W+R | 7.5 | 2932 | 6 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Lose | W+¼ | 7.5 | 2926 | 4 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Jeong Yujin |  | Win | B+R | 7.5 | 2922 | 19 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ | Yang Zixuan | Jeong Yujin | Lose | B+2¼ | 7.5 | 2903 | 15 | 
 | 2022-09-26 | 第6期女子棋聖戦（韓国）1回戦 | Jeong Yujin | Kim Kyeongeun | Lose | W+R | 6.5 | 2888 | -5 | 
 | 2022-09-07 | 第6期女子棋聖戦（韓国）予選 | Jeong Yujin |  | Win | B+6.5 | 6.5 | 2893 | -4 | 
 | 2022-09-01 | 第8回韓国女子囲碁リーグ |  | Jeong Yujin | Lose | B+R | 6.5 | 2897 | 40 | 

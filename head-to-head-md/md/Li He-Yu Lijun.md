@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li He vs Yu Lijun** | **Li He streak** | **Yu Lijun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Yu Lijun** | **Li He Streak** | **Yu Lijun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-03-07 | 3期韓国女子連戦4回戦浦項-西帰浦 | Li He | Yu Lijun | B+R | 6.5 | 1:0 | 1 | 0 |
 

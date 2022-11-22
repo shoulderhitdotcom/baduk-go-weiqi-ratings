@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li He vs Wang Xiangyun** | **Li He streak** | **Wang Xiangyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Wang Xiangyun** | **Li He Streak** | **Wang Xiangyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-06-22 | 第4回中国女子囲碁甲級リーグ第5節 | Li He | Wang Xiangyun | B+R | 7.5 | 5:1 | 4 | 0 | 
 | 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Li He | Wang Xiangyun | B+R | 7.5 | 4:1 | 3 | 0 | 

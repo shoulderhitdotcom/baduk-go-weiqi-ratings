@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Mi Yuting** | **Ding Hao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-23 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第2局 | Mi Yuting | Ding Hao | W+R | 7.5 | 7:9 | 2 | 0 | 
 | 2022-11-22 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第1局 | Ding Hao | Mi Yuting | B+R | 7.5 | 6:9 | 1 | 0 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | B+R | 7.5 | 5:9 | 0 | 4 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Mi Yuting | Ding Hao | B+R | 7.5 | 5:8 | 0 | 3 | 

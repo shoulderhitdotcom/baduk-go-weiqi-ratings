@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Cheayoung Vs Oh Yujin** | **Kim Cheayoung Streak** | **Oh Yujin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-23 | 2022Dr.G女子最高棋士決定戦リーグ | Oh Yujin | Kim Cheayoung | W+R | 6.5 | 7:4 | 1 | 0 | 
 | 2021-10-22 | 第26期女流国手戦準決勝 | Kim Cheayoung | Oh Yujin | W+R | 6.5 | 6:4 | 0 | 3 | 
 | 2021-08-27 | 2021女子最高棋士決定戦（韓国）リーグ | Oh Yujin | Kim Cheayoung | B+R | 6.5 | 6:3 | 0 | 2 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | W+R | 6.5 | 6:2 | 0 | 1 | 

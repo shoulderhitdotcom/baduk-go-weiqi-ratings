@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2387 | 5 | 
 | 2022-11-22 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+3¾ | 7.5 | 2382 | -8 | 
 | 2022-11-21 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2390 | -7 | 
 | 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Lixiang | Numadate Sakiya | Lose | B+1¾ | 7.5 | 2397 | 4 | 
@@ -24,10 +25,10 @@
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Win | W+R | 6.5 | 2615 | 337 | 
 | 2021-06-10 | 第77期本因坊戦予選 | Suzuki Ayumi | Numadate Sakiya | Lose | B+R | 6.5 | 2278 | 0 | 
 | 2021-01-14 | 第69期王座戦予選 | Numadate Sakiya | O Meien | Lose | W+4.5 | 6.5 | 2278 | -381 | 
-| 2020-06-04 | 第59期十段戦予選 | Numadate Sakiya | O Meien | Lose | W+R | 6.5 | 2659 | -150 | 
-| 2020-04-02 | 第45期棋聖戦Cリーグ | Yuki Satoshi | Numadate Sakiya | Lose | B+R | 6.5 | 2809 | -55 | 
-| 2020-03-19 | 第46期名人戦予選 | Kudo Norio | Numadate Sakiya | Win | W+R | 6.5 | 2864 | 62 | 
-| 2020-03-12 | 第68期王座戦予選 | Numadate Sakiya | Shida Tatsuya | Lose | W+3.5 | 6.5 | 2802 | -71 | 
+| 2020-06-04 | 第59期十段戦予選 | Numadate Sakiya | O Meien | Lose | W+R | 6.5 | 2659 | -151 | 
+| 2020-04-02 | 第45期棋聖戦Cリーグ | Yuki Satoshi | Numadate Sakiya | Lose | B+R | 6.5 | 2810 | -54 | 
+| 2020-03-19 | 第46期名人戦予選 | Kudo Norio | Numadate Sakiya | Win | W+R | 6.5 | 2864 | 61 | 
+| 2020-03-12 | 第68期王座戦予選 | Numadate Sakiya | Shida Tatsuya | Lose | W+3.5 | 6.5 | 2803 | -70 | 
 | 2020-02-06 | 第76期本因坊戦予選 | Numadate Sakiya | Fujisawa Rina | Lose | W+0.5 | 6.5 | 2873 | missing |
 
 

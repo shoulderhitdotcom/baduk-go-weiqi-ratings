@@ -7,21 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-23 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Lose | B+3¼ | 7.5 | 3362 | -40 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Wang Haoyang | Win | B+1¾ | 7.5 | 3402 | -30 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Lyu Liyan | Hirata Tomoya | Lose | B+R | 7.5 | 3432 | 3 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Chen Qirui | Win | B+1¼ | 7.5 | 3429 | 38 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Lose | B+R | 7.5 | 3391 | -24 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Kou Zhengyan | Win | B+R | 7.5 | 3415 | 14 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Lose | W+R | 7.5 | 3401 | -57 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Lose | B+3¼ | 7.5 | 3361 | -40 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Wang Haoyang | Win | B+1¾ | 7.5 | 3401 | -30 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Lyu Liyan | Hirata Tomoya | Lose | B+R | 7.5 | 3431 | 3 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Chen Qirui | Win | B+1¼ | 7.5 | 3428 | 38 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Lose | B+R | 7.5 | 3390 | -24 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Kou Zhengyan | Win | B+R | 7.5 | 3414 | 14 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Lose | W+R | 7.5 | 3400 | -58 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Hirata Tomoya | Win | W+2¼ | 7.5 | 3458 | 73 | 
 | 2022-10-01 | 第29期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hirata Tomoya | Win | W+1.5 | 6.5 | 3385 | 182 | 
 | 2022-09-22 | 第47期棋聖戦Cリーグ | Hirata Tomoya | Yokotsuka Riki | Win | B+3.5 | 6.5 | 3203 | 0 | 
-| 2022-08-22 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝  | Ichiriki Ryo | Hirata Tomoya | Win | W+R | 6.5 | 3203 | 35 | 
-| 2022-07-18 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Hirata Tomoya | Rin Kanketsu | Win | B+R | 6.5 | 3168 | 198 | 
-| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Win | B+R | 6.5 | 2970 | 376 | 
-| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Lose | B+R | 6.5 | 2594 | -173 | 
-| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2767 | -315 | 
+| 2022-08-22 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝  | Ichiriki Ryo | Hirata Tomoya | Win | W+R | 6.5 | 3203 | 36 | 
+| 2022-07-18 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Hirata Tomoya | Rin Kanketsu | Win | B+R | 6.5 | 3167 | 198 | 
+| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Win | B+R | 6.5 | 2969 | 376 | 
+| 2022-04-21 | 第61期十段戦予選 | Nyu Eiko | Hirata Tomoya | Lose | B+R | 6.5 | 2593 | -173 | 
+| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 2766 | -316 | 
 | 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Lose | W+R | 6.5 | 3082 | 78 | 
 | 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Win | B+R | 6.5 | 3004 | -122 | 
 | 2020-11-22 | 第15回広島アルミ杯・若鯉戦準決勝  | Hirata Tomoya | Fujisawa Rina | Lose | W+R | 6.5 | 3126 | -23 | 

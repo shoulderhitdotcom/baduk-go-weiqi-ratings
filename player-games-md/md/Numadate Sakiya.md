@@ -7,16 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-23 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2387 | 5 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+3¾ | 7.5 | 2382 | -8 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2390 | -7 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Lixiang | Numadate Sakiya | Lose | B+1¾ | 7.5 | 2397 | 4 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+2¼ | 7.5 | 2393 | -4 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2397 | 3 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2394 | 0 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2386 | 5 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+3¾ | 7.5 | 2381 | -8 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+R | 7.5 | 2389 | -7 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Lixiang | Numadate Sakiya | Lose | B+1¾ | 7.5 | 2396 | 4 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+2¼ | 7.5 | 2392 | -4 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2396 | 3 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ |  | Numadate Sakiya | Lose | B+R | 7.5 | 2393 | -1 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Numadate Sakiya |  | Lose | W+¼ | 7.5 | 2394 | -320 | 
-| 2022-08-25 | 第47期棋聖戦Bリーグ | Seto Taiki | Numadate Sakiya | Lose | B+4.5 | 6.5 | 2714 | -438 | 
-| 2022-06-20 | 第61期十段戦予選 | Hoshiai Shiho | Numadate Sakiya | Lose | B+2.5 | 6.5 | 3152 | 47 | 
+| 2022-08-25 | 第47期棋聖戦Bリーグ | Seto Taiki | Numadate Sakiya | Lose | B+4.5 | 6.5 | 2714 | -437 | 
+| 2022-06-20 | 第61期十段戦予選 | Hoshiai Shiho | Numadate Sakiya | Lose | B+2.5 | 6.5 | 3151 | 46 | 
 | 2022-02-14 | 第47期棋聖戦Bリーグ | Yamada Kimio | Numadate Sakiya | Win | W+R | 6.5 | 3105 | 73 | 
 | 2022-01-20 | 第70期王座戦予選 | Numadate Sakiya | Seki Kotaro | Lose | W+6.5 | 6.5 | 3032 | 97 | 
 | 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Lose | W+R | 6.5 | 2935 | 47 | 

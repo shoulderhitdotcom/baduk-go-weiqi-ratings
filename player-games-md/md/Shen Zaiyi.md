@@ -7,31 +7,31 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-23 | 2022中国囲碁乙級リーグ | Lin Lixiang | Shen Zaiyi | Win | W+R | 7.5 | 3390 | 23 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Shu Yixiao | Win | B+R | 7.5 | 3367 | 23 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3344 | -2 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3346 | 3 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Wang Yao | Win | B+R | 7.5 | 3343 | -27 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3370 | 1 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3369 | -33 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Lin Lixiang | Shen Zaiyi | Win | W+R | 7.5 | 3389 | 23 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Shu Yixiao | Win | B+R | 7.5 | 3366 | 23 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3343 | -2 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3345 | 3 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Wang Yao | Win | B+R | 7.5 | 3342 | -27 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3369 | 1 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3368 | -34 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3402 | 39 | 
 | 2022-09-02 | 第45期名人戦（韓国）敗者組2回戦 | Shen Zaiyi | Lee Jihyun | Lose | W+R | 6.5 | 3363 | -58 | 
-| 2022-08-02 | 第45期名人戦（韓国）2回戦 | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3421 | -39 | 
-| 2022-07-20 | 2021中国囲碁乙級リーグ | Tong Yulin | Shen Zaiyi | Win | W+R | 7.5 | 3460 | 16 | 
-| 2022-07-19 | 2021中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3444 | 0 | 
-| 2022-07-18 | 2021中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3444 | 38 | 
-| 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Win | B+¾ | 7.5 | 3406 | 24 | 
-| 2022-07-14 | 2021中国囲碁乙級リーグ | Shu Yixiao | Shen Zaiyi | Win | W+R | 7.5 | 3382 | 3 | 
-| 2022-07-13 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3379 | -26 | 
-| 2022-07-12 | 2021中国囲碁乙級リーグ | Kang Seungmin | Shen Zaiyi | Lose | B+R | 7.5 | 3405 | -77 | 
-| 2022-07-07 | 第45期名人戦（韓国）1回戦 | Shen Zaiyi | Choi Jeong | Win | B+R | 6.5 | 3482 | 32 | 
-| 2022-06-24 | 第45期名人戦（韓国）予選 | Kim Cheayoung | Shen Zaiyi | Win | W+2.5 | 6.5 | 3450 | 13 | 
-| 2022-05-19 | 第5期韓国竜星戦3回戦 | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3437 | -11 | 
-| 2022-04-13 | 第5期韓国竜星戦2回戦 | Shen Zaiyi | Byun Sangil | Win | B+R | 6.5 | 3448 | 357 | 
+| 2022-08-02 | 第45期名人戦（韓国）2回戦 | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3421 | -38 | 
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Tong Yulin | Shen Zaiyi | Win | W+R | 7.5 | 3459 | 16 | 
+| 2022-07-19 | 2021中国囲碁乙級リーグ |  | Shen Zaiyi | Win | W+R | 7.5 | 3443 | 0 | 
+| 2022-07-18 | 2021中国囲碁乙級リーグ | Shen Zaiyi |  | Win | B+1¾ | 7.5 | 3443 | 38 | 
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Lin Lixiang | Win | B+¾ | 7.5 | 3405 | 24 | 
+| 2022-07-14 | 2021中国囲碁乙級リーグ | Shu Yixiao | Shen Zaiyi | Win | W+R | 7.5 | 3381 | 3 | 
+| 2022-07-13 | 2021中国囲碁乙級リーグ | Shen Zaiyi | Seol Hyunjun | Lose | W+R | 7.5 | 3378 | -27 | 
+| 2022-07-12 | 2021中国囲碁乙級リーグ | Kang Seungmin | Shen Zaiyi | Lose | B+R | 7.5 | 3405 | -76 | 
+| 2022-07-07 | 第45期名人戦（韓国）1回戦 | Shen Zaiyi | Choi Jeong | Win | B+R | 6.5 | 3481 | 32 | 
+| 2022-06-24 | 第45期名人戦（韓国）予選 | Kim Cheayoung | Shen Zaiyi | Win | W+2.5 | 6.5 | 3449 | 12 | 
+| 2022-05-19 | 第5期韓国竜星戦3回戦 | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3437 | -10 | 
+| 2022-04-13 | 第5期韓国竜星戦2回戦 | Shen Zaiyi | Byun Sangil | Win | B+R | 6.5 | 3447 | 356 | 
 | 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Sedong | Shen Zaiyi | Win | W+R | 6.5 | 3091 | -195 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kang Jihoon | Shen Zaiyi | Lose | B+2.5 | 6.5 | 3286 | -96 | 
-| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Win | B+1.5 | 6.5 | 3382 | 13 | 
-| 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Cho Seungah | Shen Zaiyi | Win | W+R | 6.5 | 3369 | 8 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kang Jihoon | Shen Zaiyi | Lose | B+2.5 | 6.5 | 3286 | -95 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Win | B+1.5 | 6.5 | 3381 | 13 | 
+| 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Cho Seungah | Shen Zaiyi | Win | W+R | 6.5 | 3368 | 7 | 
 | 2021-04-02 | 第26回GSカルテックス杯プロ棋戦1回戦 | Kim Jinhyu | Shen Zaiyi | Lose | B+R | 6.5 | 3361 | -33 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Shen Zaiyi | Lose | B+R | 6.5 | 3394 | -22 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Shen Zaiyi | Lose | B+R | 6.5 | 3416 | 59 | 

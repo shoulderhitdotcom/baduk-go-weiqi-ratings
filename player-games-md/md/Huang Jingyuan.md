@@ -18,8 +18,8 @@
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Huang Jingyuan | Yi Lingtao | Lose | W+3¼ | 7.5 | 2756 | -24 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Wang Xinghao | Huang Jingyuan | Lose | B+R | 7.5 | 2780 | -34 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Huang Jingyuan | Li Qincheng | Lose | W+R | 7.5 | 2814 | 125 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Lee Donghoon | Huang Jingyuan | Lose | B+R | 7.5 | 2689 | -46 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Jingyuan | Zhang Tao | Win | B+R | 7.5 | 2735 | missing |
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Lee Donghoon | Huang Jingyuan | Lose | B+R | 7.5 | 2689 | -45 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Jingyuan | Zhang Tao | Win | B+R | 7.5 | 2734 | missing |
 
 
 

@@ -7,24 +7,24 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-23 | 2022中国囲碁乙級リーグ | Sun Tengyu | Chen Qirui | Win | W+R | 7.5 | 3149 | 26 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ | Chen Qirui |  | Win | B+R | 7.5 | 3123 | 38 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Chen Qirui |  | Win | B+¾ | 7.5 | 3085 | 4 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Chen Qirui | Lose | B+1¼ | 7.5 | 3081 | 9 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Chen Qirui | Lose | B+R | 7.5 | 3072 | -13 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ | Chen Qirui | Lyu Liyan | Lose | W+R | 7.5 | 3085 | 13 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Chen Qirui | Wang Haoyang | Lose | W+R | 7.5 | 3072 | -4 | 
-| 2022-11-15 | 2022中国囲碁乙級リーグ |  | Chen Qirui | Win | W+1¼ | 7.5 | 3076 | -33 | 
-| 2022-10-25 | 第18期国手戦（台湾） | Xu Yuqi | Chen Qirui | Win | W+1.5 | 6.5 | 3109 | -1 | 
-| 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3110 | 15 | 
-| 2022-10-20 | 第16期棋王戦（台湾）予選 |  | Chen Qirui | Win | W+R | 6.5 | 3095 | 8 | 
-| 2022-10-17 | 第3回早碁争覇戦2回戦 | Gao Yun | Chen Qirui | Win | W+5.5 | 6.5 | 3087 | -12 | 
-| 2022-10-13 | 第16期棋王戦（台湾）予選 | Chen Qirui |  | Lose | W+R | 6.5 | 3099 | 15 | 
-| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Chen Qirui | Lin Shixun | Lose | W+R | 7.5 | 3084 | -6 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Sun Tengyu | Chen Qirui | Win | W+R | 7.5 | 3148 | 26 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ | Chen Qirui |  | Win | B+R | 7.5 | 3122 | 38 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Chen Qirui |  | Win | B+¾ | 7.5 | 3084 | 4 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Chen Qirui | Lose | B+1¼ | 7.5 | 3080 | 9 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Chen Qirui | Lose | B+R | 7.5 | 3071 | -13 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Chen Qirui | Lyu Liyan | Lose | W+R | 7.5 | 3084 | 13 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Chen Qirui | Wang Haoyang | Lose | W+R | 7.5 | 3071 | -5 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ |  | Chen Qirui | Win | W+1¼ | 7.5 | 3076 | -32 | 
+| 2022-10-25 | 第18期国手戦（台湾） | Xu Yuqi | Chen Qirui | Win | W+1.5 | 6.5 | 3108 | -1 | 
+| 2022-10-24 | 第3回早碁争覇戦3回戦 | Chen Shiyuan | Chen Qirui | Win | W+R | 6.5 | 3109 | 15 | 
+| 2022-10-20 | 第16期棋王戦（台湾）予選 |  | Chen Qirui | Win | W+R | 6.5 | 3094 | 8 | 
+| 2022-10-17 | 第3回早碁争覇戦2回戦 | Gao Yun | Chen Qirui | Win | W+5.5 | 6.5 | 3086 | -12 | 
+| 2022-10-13 | 第16期棋王戦（台湾）予選 | Chen Qirui |  | Lose | W+R | 6.5 | 3098 | 15 | 
+| 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Chen Qirui | Lin Shixun | Lose | W+R | 7.5 | 3083 | -7 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Li Wei | Chen Qirui | Lose | B+R | 6.5 | 3090 | 22 | 
-| 2022-09-20 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Chen Qirui | Lose | B+R | 6.5 | 3068 | -20 | 
-| 2022-09-14 | 第27回三星火災杯台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3088 | -2 | 
-| 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | Lose | B+R | 6.5 | 3090 | -13 | 
+| 2022-09-20 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Chen Qirui | Lose | B+R | 6.5 | 3068 | -19 | 
+| 2022-09-14 | 第27回三星火災杯台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3087 | -2 | 
+| 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | Lose | B+R | 6.5 | 3089 | -14 | 
 | 2022-09-07 | 第27回三星火災杯台湾予選 | Chen Qirui | Huang Shiyuan | Win | B+R | 6.5 | 3103 | -10 | 
 | 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Chen Qirui | Lose | B+R | 6.5 | 3113 | -12 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Chen Qirui | Cai Chengwei | Win | B+R | 6.5 | 3125 | -1 | 
@@ -34,29 +34,29 @@
 | 2022-08-24 | 第15期棋王戦（台湾）予選  | Chen Qirui | Xiao Zhenghao | Lose | W+R | 6.5 | 3113 | -15 | 
 | 2022-08-23 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Jingen | Lose | W+R | 6.5 | 3128 | -82 | 
 | 2022-08-08 | 第15期棋王戦（台湾）予選 | Chen Qirui | Xu Jingen | Lose | W+R | 6.5 | 3210 | 0 | 
-| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3210 | -19 | 
-| 2022-07-28 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Win | W+1.5 | 6.5 | 3229 | 2 | 
-| 2022-07-25 | 2022新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Lose | W+R | 6.5 | 3227 | -18 | 
-| 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Qirui | Ma Yichao | Win | B+R | 7.5 | 3245 | 1 | 
-| 2022-07-19 | 2021中国囲碁乙級リーグ | Wang Haoyang | Chen Qirui | Lose | B+R | 7.5 | 3244 | 5 | 
-| 2022-07-17 | 2021中国囲碁乙級リーグ | Chen Qirui | Gu Lingyi | Lose | W+R | 7.5 | 3239 | -27 | 
-| 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Qirui | Sun Tengyu | Win | B+¾ | 7.5 | 3266 | 13 | 
-| 2022-07-14 | 2021中国囲碁乙級リーグ | Chen Qirui |  | Lose | W+¼ | 7.5 | 3253 | -1 | 
-| 2022-07-13 | 2021中国囲碁乙級リーグ |  | Chen Qirui | Lose | B+R | 7.5 | 3254 | 25 | 
-| 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Zheyu | Chen Qirui | Lose | B+¾ | 7.5 | 3229 | -49 | 
-| 2022-07-11 | 2022新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Lose | B+R | 7.5 | 3278 | -22 | 
-| 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3300 | -13 | 
-| 2022-06-27 | 2022新人王戦（台湾）2回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3313 | 1 | 
-| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3312 | 24 | 
-| 2022-06-20 | 2022新人王戦（台湾）1回戦 | Lin Yanchen | Chen Qirui | Win | W+R | 7.5 | 3288 | 7 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3281 | -13 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Win | B+R | 6.5 | 3294 | 39 | 
+| 2022-08-05 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3210 | -18 | 
+| 2022-07-28 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Win | W+1.5 | 6.5 | 3228 | 2 | 
+| 2022-07-25 | 2022新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Lose | W+R | 6.5 | 3226 | -18 | 
+| 2022-07-20 | 2021中国囲碁乙級リーグ | Chen Qirui | Ma Yichao | Win | B+R | 7.5 | 3244 | 1 | 
+| 2022-07-19 | 2021中国囲碁乙級リーグ | Wang Haoyang | Chen Qirui | Lose | B+R | 7.5 | 3243 | 5 | 
+| 2022-07-17 | 2021中国囲碁乙級リーグ | Chen Qirui | Gu Lingyi | Lose | W+R | 7.5 | 3238 | -27 | 
+| 2022-07-15 | 2021中国囲碁乙級リーグ | Chen Qirui | Sun Tengyu | Win | B+¾ | 7.5 | 3265 | 13 | 
+| 2022-07-14 | 2021中国囲碁乙級リーグ | Chen Qirui |  | Lose | W+¼ | 7.5 | 3252 | -1 | 
+| 2022-07-13 | 2021中国囲碁乙級リーグ |  | Chen Qirui | Lose | B+R | 7.5 | 3253 | 24 | 
+| 2022-07-12 | 2021中国囲碁乙級リーグ | Wang Zheyu | Chen Qirui | Lose | B+¾ | 7.5 | 3229 | -48 | 
+| 2022-07-11 | 2022新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Lose | B+R | 7.5 | 3277 | -22 | 
+| 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3299 | -13 | 
+| 2022-06-27 | 2022新人王戦（台湾）2回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3312 | 1 | 
+| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3311 | 24 | 
+| 2022-06-20 | 2022新人王戦（台湾）1回戦 | Lin Yanchen | Chen Qirui | Win | W+R | 7.5 | 3287 | 7 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3280 | -13 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Win | B+R | 6.5 | 3293 | 38 | 
 | 2022-06-02 | 第12期友士杯十段戦挑戦手合五番勝負第4局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3255 | -8 | 
 | 2022-05-26 | 第12期友士杯十段戦挑戦手合五番勝負第3局  | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3263 | 26 | 
-| 2022-05-19 | 第12期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3237 | -45 | 
-| 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3282 | 3 | 
-| 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Win | W+0.5 | 6.5 | 3279 | -3 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3282 | 18 | 
+| 2022-05-19 | 第12期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3237 | -44 | 
+| 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3281 | 3 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Win | W+0.5 | 6.5 | 3278 | -3 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3281 | 17 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3264 | -4 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Shixun | Chen Qirui | Win | W+R | 6.5 | 3268 | 7 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3261 | 2 | 
@@ -78,13 +78,13 @@
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3233 | 5 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lin Lixiang | Chen Qirui | Win | W+R | 6.5 | 3228 | 34 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3194 | -5 | 
-| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 |  | Chen Qirui | Win | W+R | 6.5 | 3199 | -25 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3224 | 0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lu Yuhua | Chen Qirui | Win | W+R | 6.5 | 3224 | -1 | 
-| 2021-10-05 | 2021新人王戦（台湾）準決勝 | Lu Yiquan | Chen Qirui | Win | W+R | 7.5 | 3225 | -10 | 
-| 2021-10-03 | 第9期中環碁聖戦16強戦 | Chen Qirui | Jian Jingting | Win | B+R | 6.5 | 3235 | -8 | 
-| 2021-09-28 | 2021環旭新人王戦1回戦 | Chen Weiting | Chen Qirui | Win | W+R | 7.5 | 3243 | -4 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Chen Xi | Chen Qirui | Win | W+R | 6.5 | 3247 | 1 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 |  | Chen Qirui | Win | W+R | 6.5 | 3199 | -24 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3223 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lu Yuhua | Chen Qirui | Win | W+R | 6.5 | 3223 | -1 | 
+| 2021-10-05 | 2021新人王戦（台湾）準決勝 | Lu Yiquan | Chen Qirui | Win | W+R | 7.5 | 3224 | -10 | 
+| 2021-10-03 | 第9期中環碁聖戦16強戦 | Chen Qirui | Jian Jingting | Win | B+R | 6.5 | 3234 | -8 | 
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Chen Weiting | Chen Qirui | Win | W+R | 7.5 | 3242 | -4 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Chen Xi | Chen Qirui | Win | W+R | 6.5 | 3246 | 0 | 
 | 2021-09-22 | 第9期中環碁聖戦 |  | Chen Qirui | Win | W+R | 6.5 | 3246 | 13 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Win | W+R | 6.5 | 3233 | 10 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Win | W+R | 6.5 | 3223 | -30 | 
@@ -148,8 +148,8 @@
 | 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグプレーオフ | Wang Yuanjun | Chen Qirui | Lose | B+R | 6.5 | 3120 | -1 | 
 | 2020-09-06 | 第8期中環碁聖戦2回戦 | Chen Qirui |  | Win | B+R | 6.5 | 3121 | 1 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3120 | 0 | 
-| 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | Lose | B+R | 6.5 | 3120 | -11 | 
-| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Yang Zixuan | Chen Qirui | Win | W+R | 6.5 | 3131 | -11 | 
+| 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | Lose | B+R | 6.5 | 3120 | -10 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Yang Zixuan | Chen Qirui | Win | W+R | 6.5 | 3130 | -12 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Lose | W+R | 6.5 | 3142 | -45 | 
 | 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3187 | -28 | 
 | 2020-07-16 | 第1期名人冠軍戦1回戦 | Chen Qirui | Chen Shiyuan | Lose | W+R | 6.5 | 3215 | -7 | 
@@ -163,8 +163,8 @@
 | 2020-06-11 | 2020新人王戦（台湾）リーグA | Cai Chengwei | Chen Qirui | Win | W+R | 7.5 | 3184 | 8 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Chen Shiyuan | Chen Qirui | Win | W+1.5 | 6.5 | 3176 | -8 | 
 | 2020-06-08 | 2020新人王戦（台湾）リーグA | Niu Shite | Chen Qirui | Win | W+R | 7.5 | 3184 | 11 | 
-| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Chen Qirui | Ding Shaojie | Win | B+R | 6.5 | 3173 | 32 | 
-| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Chen Xi | Chen Qirui | Win | W+R | 6.5 | 3141 | -11 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Chen Qirui | Ding Shaojie | Win | B+R | 6.5 | 3173 | 33 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Chen Xi | Chen Qirui | Win | W+R | 6.5 | 3140 | -12 | 
 | 2020-05-07 | 第19期天元戦（台湾）リーグ三位決定戦 | Chen Qirui | Lai Junfu | Win | B+1.5 | 6.5 | 3152 | -17 | 
 | 2020-04-28 | 第19期天元戦（台湾）リーグ | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3169 | 8 | 
 | 2020-04-23 | 第10期友士杯十段戦敗部準決勝 | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3161 | -7 | 

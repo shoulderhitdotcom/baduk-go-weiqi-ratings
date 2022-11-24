@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ishii Kunio vs Takemiya Masaki** | **Ishii Kunio streak** | **Takemiya Masaki streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ishii Kunio Vs Takemiya Masaki** | **Ishii Kunio Streak** | **Takemiya Masaki Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-03-31 | 第6回フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | W+R | 6.5 | 1:2 | 0 | 1 | 
 | 2013-03-28 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | B+R | 6.5 | 1:1 | 1 | 0 | 

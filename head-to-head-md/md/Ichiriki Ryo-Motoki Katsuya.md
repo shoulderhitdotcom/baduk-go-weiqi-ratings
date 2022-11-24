@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Motoki Katsuya** | **Ichiriki Ryo Streak** | **Motoki Katsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-24 | 第78期本因坊戦リーグ | Motoki Katsuya | Ichiriki Ryo | W+R | 6.5 | 7:4 | 3 | 0 | 
 | 2022-05-19 | 第47期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | W+R | 6.5 | 6:4 | 2 | 0 | 
 | 2022-01-27 | 第77期本因坊戦リーグ | Motoki Katsuya | Ichiriki Ryo | W+R | 6.5 | 5:4 | 1 | 0 | 
 | 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | B+R | 6.5 | 4:4 | 0 | 1 | 

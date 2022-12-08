@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hoshiai Shiho vs Nakamura Sumire** | **Hoshiai Shiho streak** | **Nakamura Sumire streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hoshiai Shiho Vs Nakamura Sumire** | **Hoshiai Shiho Streak** | **Nakamura Sumire Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | B+R | 6.5 | 0:1 | 0 | 1 |
 

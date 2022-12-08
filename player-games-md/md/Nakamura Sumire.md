@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-08 | 第26期女流棋聖戦挑戦者定戦 | Nakamura Sumire | Fujisawa Rina | Win | B+R | 6.5 | 2952 | 2 | 
+| 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Win | B+R | 6.5 | 2952 | 2 | 
 | 2022-12-05 | 第48期棋聖戦予選 | Koyama Ryugo | Nakamura Sumire | Win | W+R | 6.5 | 2950 | 3 | 
 | 2022-12-01 | 第26期女流棋聖戦準決勝 | Nakamura Sumire | Mukai Chiaki | Win | B+R | 6.5 | 2947 | -21 | 
 | 2022-11-21 | 第2回テイケイ杯俊英戦予選 | Nakamura Sumire | Sakai Yuki | Lose | W+R | 6.5 | 2968 | -1 | 

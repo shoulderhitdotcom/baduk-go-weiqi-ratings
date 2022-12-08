@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-08 | 第26期女流棋聖戦挑戦者定戦 | Nakamura Sumire | Fujisawa Rina | Lose | B+R | 6.5 | 3147 | -2 | 
+| 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Lose | B+R | 6.5 | 3147 | -2 | 
 | 2022-12-05 | 第71期王座戦予選 | Sakai Yuki | Fujisawa Rina | Lose | B+R | 6.5 | 3149 | -8 | 
 | 2022-11-26 | 第17回広島アルミ杯・若鯉戦2回戦  | Koyama Kuya | Fujisawa Rina | Lose | B+R | 6.5 | 3157 | 0 | 
 | 2022-11-26 | 第17回広島アルミ杯・若鯉戦1回戦  | Tsuneishi Takashi | Fujisawa Rina | Win | W+R | 6.5 | 3157 | -10 | 

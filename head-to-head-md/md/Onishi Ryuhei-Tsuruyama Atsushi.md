@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Onishi Ryuhei vs Tsuruyama Atsushi** | **Onishi Ryuhei streak** | **Tsuruyama Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Onishi Ryuhei Vs Tsuruyama Atsushi** | **Onishi Ryuhei Streak** | **Tsuruyama Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-11 | 第76期本因坊戦リーグ | Onishi Ryuhei | Tsuruyama Atsushi | B+R | 6.5 | 2:0 | 2 | 0 | 
 | 2019-07-18 | 第44期棋聖戦Bリーグ | Onishi Ryuhei | Tsuruyama Atsushi | B+R | 6.5 | 1:0 | 1 | 0 |

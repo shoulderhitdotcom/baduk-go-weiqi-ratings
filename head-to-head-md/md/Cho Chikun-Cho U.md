@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Chikun vs Cho U** | **Cho Chikun streak** | **Cho U streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Chikun Vs Cho U** | **Cho Chikun Streak** | **Cho U Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-07-16 | 第40期棋聖戦Aリーグ | Cho Chikun | Cho U | W+1.5 | 6.5 | 4:17 | 0 | 1 | 
 | 2012-02-18 | 第7回大和証券杯ネット囲碁オープン準決勝 | Cho U | Cho Chikun | W+4.5 | 6.5 | 4:16 | 1 | 0 | 

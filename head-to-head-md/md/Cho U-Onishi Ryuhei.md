@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Onishi Ryuhei** | **Cho U streak** | **Onishi Ryuhei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Onishi Ryuhei** | **Cho U Streak** | **Onishi Ryuhei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | W+2.5 | 6.5 | 0:2 | 0 | 2 | 

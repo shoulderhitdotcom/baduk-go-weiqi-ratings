@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-03 | 第47期棋聖戦予選 |  | Sugiuchi Kazuko | Lose | B+20.5 | 6.5 | 2062.0 | 0.0 | 
 | 2021-02-18 | 第60期十段戦予選 | Sugiuchi Kazuko |  | Lose | W+R | 6.5 | 2062.0 | 0.0 | 

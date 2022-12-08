@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-08 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Heo Seohyun | Win | W+0.5 | 6.5 | 2963 | 10 | 
+| 2022-12-05 | 第6期女子棋聖戦（韓国）3回戦 | Kim Eunji | Heo Seohyun | Lose | B+R | 6.5 | 2953 | -6 | 
 | 2022-11-21 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Park Jiyeon | Win | B+R | 6.5 | 2959 | 17 | 
 | 2022-11-18 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Kim Cheayoung | Lose | W+2.5 | 6.5 | 2942 | -31 | 
 | 2022-11-11 | 2022蘭雪軒杯全国女子囲碁大会予選 | Heo Seohyun |  | Lose | W+R | 6.5 | 2973 | -9 | 

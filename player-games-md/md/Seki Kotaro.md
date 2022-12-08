@@ -7,15 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-24 | 第2回テイケイ杯俊英戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3180 | 49 | 
+| 2022-12-08 | 第48期棋聖戦予選 |  | Seki Kotaro | Win | W+R | 6.5 | 3089 | -53 | 
+| 2022-12-01 | 第48期天元戦挑戦手合五番勝負第4局  | Ida Atsushi | Seki Kotaro | Win | W+R | 6.5 | 3142 | -39 | 
+| 2022-11-24 | 第2回テイケイ杯俊英戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3181 | 50 | 
 | 2022-11-14 | 第48期天元戦挑戦手合五番勝負第3局  | Seki Kotaro | Ida Atsushi | Lose | W+R | 6.5 | 3131 | -12 | 
 | 2022-10-18 | 第48期天元戦挑戦手合五番勝負第2局  | Ida Atsushi | Seki Kotaro | Lose | B+1.5 | 6.5 | 3143 | -50 | 
 | 2022-10-03 | 第48期天元戦挑戦手合五番勝負第1局  | Seki Kotaro | Ida Atsushi | Win | B+R | 6.5 | 3193 | 53 | 
 | 2022-09-28 | 第27回三星火災杯日本予選 | Sada Atsushi | Seki Kotaro | Lose | B+R | 6.5 | 3140 | -42 | 
 | 2022-08-29 | 第29期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Seki Kotaro | Lose | B+R | 6.5 | 3182 | -37 | 
-| 2022-07-14 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seki Kotaro | Win | W+R | 6.5 | 3219 | 54 | 
-| 2022-06-13 | 第48期名人戦予選 | Ohashi Hirofumi | Seki Kotaro | Lose | B+R | 6.5 | 3165 | -27 | 
-| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Win | B+R | 6.5 | 3192 | 48 | 
+| 2022-07-14 | 第29期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seki Kotaro | Win | W+R | 6.5 | 3219 | 53 | 
+| 2022-06-13 | 第48期名人戦予選 | Ohashi Hirofumi | Seki Kotaro | Lose | B+R | 6.5 | 3166 | -27 | 
+| 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Win | B+R | 6.5 | 3193 | 49 | 
 | 2022-05-23 | 第48期名人戦予選  | Seki Kotaro | Ito Masashi | Win | B+R | 6.5 | 3144 | 6 | 
 | 2022-05-12 | 第61期十段戦予選 | Lee Ishu | Seki Kotaro | Lose | B+6.5 | 6.5 | 3138 | -41 | 
 | 2022-05-02 | 第78期本因坊戦予選 | Rin Kanketsu | Seki Kotaro | Lose | B+1.5 | 6.5 | 3179 | -30 | 
@@ -31,7 +33,7 @@
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Win | B+R | 6.5 | 3126 | 117 | 
 | 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3009 | 104 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Lose | B+13.5 | 6.5 | 2905 | -97 | 
-| 2021-11-20 | 第16回広島アルミ杯・若鯉戦2回戦  |  | Seki Kotaro | Win | W+R | 6.5 | 3002 | 25 | 
+| 2021-11-20 | 第16回広島アルミ杯・若鯉戦2回戦  | Ueno Risa | Seki Kotaro | Win | W+R | 6.5 | 3002 | 25 | 
 | 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Lose | W+R | 6.5 | 2977 | -22 | 
 | 2021-10-21 | 第47期碁聖戦予選 | Suzuki Shinji | Seki Kotaro | Lose | B+7.5 | 6.5 | 2999 | -76 | 
 | 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3075 | 92 | 
@@ -45,11 +47,11 @@
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Seki Kotaro | Lose | B+R | 6.5 | 2946 | -64 | 
 | 2020-10-16 | 第45期新人王戦決勝三番勝負第3局  | Sada Atsushi | Seki Kotaro | Win | W+R | 6.5 | 3010 | 24 | 
 | 2020-09-28 | 第45期新人王戦決勝三番勝負第2局  | Sada Atsushi | Seki Kotaro | Win | W+R | 6.5 | 2986 | 58 | 
-| 2020-09-18 | 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | Lose | W+R | 6.5 | 2928 | -60 | 
-| 2020-08-10 | 第45期新人王戦準決勝 | Seki Kotaro | Yokotsuka Riki | Win | B+0.5 | 6.5 | 2988 | 26 | 
+| 2020-09-18 | 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | Lose | W+R | 6.5 | 2928 | -59 | 
+| 2020-08-10 | 第45期新人王戦準決勝 | Seki Kotaro | Yokotsuka Riki | Win | B+0.5 | 6.5 | 2987 | 25 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Liao Yuanhe | Seki Kotaro | Lose | B+R | 6.5 | 2962 | 6 | 
-| 2020-07-09 | 第45期新人王戦3回戦 | Tsuruta Kazushi | Seki Kotaro | Win | W+R | 6.5 | 2956 | 21 | 
-| 2020-06-22 | 第45期新人王戦2回戦 | Seki Kotaro | Nishi Takenobu | Win | B+R | 6.5 | 2935 | -90 | 
+| 2020-07-09 | 第45期新人王戦3回戦 | Tsuruta Kazushi | Seki Kotaro | Win | W+R | 6.5 | 2956 | 22 | 
+| 2020-06-22 | 第45期新人王戦2回戦 | Seki Kotaro | Nishi Takenobu | Win | B+R | 6.5 | 2934 | -91 | 
 | 2020-01-30 | 第76期本因坊戦予選 | Xie Yimin | Seki Kotaro | Lose | B+5.5 | 6.5 | 3025 | -31 | 
 | 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Win | W+R | 6.5 | 3056 | 0 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | Win | B+1.5 | 6.5 | 3056 | 90 | 

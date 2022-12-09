@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-09 | 第18期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Chen Qirui | Win | B+R | 6.5 | 3423 | 3 | 
 | 2022-12-08 | 第3回早碁争覇戦決勝三番勝負第2局  | Xu Haohong | Wang Yuanjun | Win | B+R | 6.5 | 3420 | 5 | 
 | 2022-12-07 | 第18期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3415 | 7 | 
 | 2022-12-05 | 第15期棋王戦（台湾）挑戦手合七番勝負第4局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3408 | 3 | 

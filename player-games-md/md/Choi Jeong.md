@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-09 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Kyeongeun | Choi Jeong | Win | W+R | 6.5 | 3349 | 1 | 
 | 2022-12-08 | 第28回GSカルテックス杯プロ棋戦予選 | Choi Jeong | Kim Myounghoon | Win | B+R | 6.5 | 3348 | 18 | 
 | 2022-12-07 | 第1回ニュースピムGAM杯女子囲碁最強戦第1戦 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3330 | 2 | 
 | 2022-12-06 | 第6期女子棋聖戦（韓国）準決勝 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3328 | -11 | 

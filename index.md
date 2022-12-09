@@ -456,7 +456,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Xie Erhao | 167 | 34 | 謝爾豪 | 
 | Hirose Yuichi | 166 | 21 | 広瀬優一 | 
 | Kim Myounghoon | 164 | 58 | 金明訓 | 
-| Kim Seongjae | 154 | 15 | 金昇宰 | 
+| Kim Seongjae | 153 | 15 | 金昇宰 | 
 | Li Weiqing | 151 | 28 | 李維清 | 
 | Kang Seungmin | 142 | 38 | 姜昇旼 | 
 | Fan Tingyu | 133 | 46 | 范廷鈺 | 

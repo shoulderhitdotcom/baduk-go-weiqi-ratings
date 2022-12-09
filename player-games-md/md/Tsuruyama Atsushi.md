@@ -14,8 +14,8 @@
 | 2022-07-11 | 第47期棋聖戦Cリーグ | Koike Yoshihiro | Tsuruyama Atsushi | Win | W+0.5 | 6.5 | 3230 | 136 | 
 | 2022-03-31 | 第77期本因坊戦リーグ | Motoki Katsuya | Tsuruyama Atsushi | Lose | B+R | 6.5 | 3094 | -51 | 
 | 2022-03-14 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 3145 | 48 | 
-| 2022-02-17 | 第77期本因坊戦リーグ | Hane Naoki | Tsuruyama Atsushi | Win | W+R | 6.5 | 3097 | 105 | 
-| 2022-01-17 | 第77期本因坊戦リーグ | Hsu Chiayuan | Tsuruyama Atsushi | Lose | B+R | 6.5 | 2992 | 48 | 
+| 2022-02-17 | 第77期本因坊戦リーグ | Hane Naoki | Tsuruyama Atsushi | Win | W+R | 6.5 | 3097 | 104 | 
+| 2022-01-17 | 第77期本因坊戦リーグ | Hsu Chiayuan | Tsuruyama Atsushi | Lose | B+R | 6.5 | 2993 | 49 | 
 | 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | Lose | W+R | 6.5 | 2944 | -51 | 
 | 2021-11-07 | 第4回SGW杯中庸戦3回戦  | Tsuruyama Atsushi | Han Zenki | Lose | W+3.5 | 6.5 | 2995 | -24 | 
 | 2021-11-01 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | Win | B+3.5 | 6.5 | 3019 | 246 | 

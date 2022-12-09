@@ -31,8 +31,8 @@
 | 2020-11-12 | 第47期天元戦予選 | Sun Zhe | Cho Chikun | Win | W+R | 6.5 | 2950 | 11 | 
 | 2020-11-05 | 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 2939 | 23 | 
 | 2020-10-19 | 第46期碁聖戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 2916 | 39 | 
-| 2020-09-17 | 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 2877 | 37 | 
-| 2020-09-03 | 第47期天元戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2840 | 19 | 
+| 2020-09-17 | 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 2877 | 36 | 
+| 2020-09-03 | 第47期天元戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2841 | 20 | 
 | 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2821 | 16 | 
 | 2020-08-06 | 第45期棋聖戦Cリーグ | Cho Chikun | Hong Seokui | Lose | W+R | 6.5 | 2805 | -56 | 
 | 2020-07-23 | 第46期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Lose | B+2.5 | 6.5 | 2861 | -33 | 

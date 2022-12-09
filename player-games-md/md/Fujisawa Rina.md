@@ -53,8 +53,8 @@
 | 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Win | B+R | 6.5 | 3108 | -13 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Win | W+R | 6.5 | 3121 | 49 | 
 | 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Win | B+R | 6.5 | 3072 | 11 | 
-| 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3061 | -4 | 
-| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3065 | 7 | 
+| 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3061 | -5 | 
+| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3066 | 8 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 3058 | -6 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3064 | 9 | 
 | 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3055 | -16 | 
@@ -65,9 +65,9 @@
 | 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3061 | 70 | 
 | 2021-05-13 | 第46期新人王戦3回戦 | Fujisawa Rina | Koyama Kuya | Lose | W+R | 6.5 | 2991 | 12 | 
 | 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | Win | B+R | 6.5 | 2979 | 9 | 
-| 2021-04-29 | 第46期棋聖戦予選  | Matsumoto Takehisa | Fujisawa Rina | Win | W+1.5 | 6.5 | 2970 | 8 | 
-| 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 2962 | 13 | 
-| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+1.5 | 6.5 | 2949 | 13 | 
+| 2021-04-29 | 第46期棋聖戦予選  | Matsumoto Takehisa | Fujisawa Rina | Win | W+1.5 | 6.5 | 2970 | 7 | 
+| 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 2963 | 13 | 
+| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+1.5 | 6.5 | 2950 | 14 | 
 | 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Lose | W+2.5 | 6.5 | 2936 | 0 | 
 | 2021-03-15 | 第46期新人王戦2回戦 | Fujisawa Rina |  | Win | B+3.5 | 6.5 | 2936 | 63 | 
 | 2021-02-01 | 第46期新人王戦1回戦 | Watanabe Kandai | Fujisawa Rina | Win | W+R | 6.5 | 2873 | -102 | 

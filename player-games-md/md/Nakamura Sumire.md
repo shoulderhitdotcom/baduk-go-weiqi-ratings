@@ -77,8 +77,8 @@
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | 2648 | -86 | 
 | 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2734 | 0 | 
 | 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 2734 | 9 | 
-| 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Win | B+6.5 | 6.5 | 2725 | 10 | 
-| 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Win | B+2.5 | 6.5 | 2715 | 8 | 
+| 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Win | B+6.5 | 6.5 | 2725 | 9 | 
+| 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Win | B+2.5 | 6.5 | 2716 | 9 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Lose | W+R | 7.5 | 2707 | -7 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2714 | 82 | 
 | 2021-07-08 | 第6回扇興杯女流最強戦1回戦 | Ueno Risa | Nakamura Sumire | Win | W+R | 6.5 | 2632 | -9 | 
@@ -91,9 +91,9 @@
 | 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Win | W+1.5 | 6.5 | 2674 | 14 | 
 | 2021-05-06 | 第46期棋聖戦予選  | Nakamura Sumire |  | Win | B+5.5 | 6.5 | 2660 | -5 | 
 | 2021-04-29 | 第60期十段戦予選 | Nakamura Sumire | Goto Shungo | Win | B+12.5 | 6.5 | 2665 | 13 | 
-| 2021-04-28 | 第8期会津中央病院・女流立葵杯1回戦 | Nakamura Sumire | Konishi Kazuko | Win | B+R | 6.5 | 2652 | 24 | 
-| 2021-04-22 | 第47期名人戦予選 | Nakamura Sumire | Nobuta Shigehito | Win | B+R | 6.5 | 2628 | 67 | 
-| 2021-04-14 | 第46期棋聖戦予選 | Hara Masakazu | Nakamura Sumire | Win | W+6.5 | 6.5 | 2561 | 116 | 
+| 2021-04-28 | 第8期会津中央病院・女流立葵杯1回戦 | Nakamura Sumire | Konishi Kazuko | Win | B+R | 6.5 | 2652 | 23 | 
+| 2021-04-22 | 第47期名人戦予選 | Nakamura Sumire | Nobuta Shigehito | Win | B+R | 6.5 | 2629 | 67 | 
+| 2021-04-14 | 第46期棋聖戦予選 | Hara Masakazu | Nakamura Sumire | Win | W+6.5 | 6.5 | 2562 | 117 | 
 | 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Win | W+7.5 | 6.5 | 2445 | -14 | 
 | 2021-03-24 | 女流ティーンエージャー棋士トーナメント戦決勝 | Ueno Risa | Nakamura Sumire | Win | W+6.5 | 6.5 | 2459 | 26 | 
 | 2021-02-18 | 第40期女流本因坊戦予選 | Takao Mari | Nakamura Sumire | Win | W+0.5 | 6.5 | 2433 | 66 | 

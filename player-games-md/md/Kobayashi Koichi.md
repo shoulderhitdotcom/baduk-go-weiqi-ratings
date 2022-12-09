@@ -25,9 +25,9 @@
 | 2021-06-03 | 第70期王座戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 2376 | 229 | 
 | 2021-05-24 | 第47期名人戦予選 | Kataoka Satoshi | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2147 | -3 | 
 | 2021-05-06 | 第47期名人戦予選 | Takano Hideki | Kobayashi Koichi | Win | W+R | 6.5 | 2150 | 4 | 
-| 2021-04-29 | 第77期本因坊戦予選  | Kobayashi Koichi | Cho U | Lose | W+1.5 | 6.5 | 2146 | 9 | 
-| 2021-04-19 | 第47期碁聖戦予選 | Chino Tadahiko | Kobayashi Koichi | Win | W+R | 6.5 | 2137 | 7 | 
-| 2021-04-12 | 第47期名人戦予選 | Kobayashi Koichi | Aoki Shinichi | Win | B+R | 6.5 | 2130 | 9 | 
+| 2021-04-29 | 第77期本因坊戦予選  | Kobayashi Koichi | Cho U | Lose | W+1.5 | 6.5 | 2146 | 8 | 
+| 2021-04-19 | 第47期碁聖戦予選 | Chino Tadahiko | Kobayashi Koichi | Win | W+R | 6.5 | 2138 | 7 | 
+| 2021-04-12 | 第47期名人戦予選 | Kobayashi Koichi | Aoki Shinichi | Win | B+R | 6.5 | 2131 | 10 | 
 | 2021-04-05 | 第77期本因坊戦予選 | Mukai Chiaki | Kobayashi Koichi | Win | W+R | 6.5 | 2121 | 27 | 
 | 2021-02-18 | 第60期十段戦予選 | Ishigure Ikuro | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2094 | 0 | 
 | 2021-02-11 | 第46期棋聖戦予選 | Lee Ishu | Kobayashi Koichi | Lose | B+R | 6.5 | 2094 | 0 | 
@@ -40,8 +40,8 @@
 | 2020-11-12 | 第77期本因坊戦予選 | Kobayashi Koichi | Kobayashi Chizu | Win | B+4.5 | 6.5 | 2078 | -8 | 
 | 2020-11-09 | 第69期王座戦予選 | Kobayashi Koichi | Suzuki Ayumi | Lose | W+4.5 | 6.5 | 2086 | -297 | 
 | 2020-10-22 | 第47期天元戦予選 | Kobayashi Koichi | Takanashi Seiken | Win | B+2.5 | 6.5 | 2383 | -81 | 
-| 2020-10-05 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2464 | 45 | 
-| 2020-09-03 | 第45期棋聖戦Cリーグ | Kubo Hideo | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2419 | -46 | 
+| 2020-10-05 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2464 | 44 | 
+| 2020-09-03 | 第45期棋聖戦Cリーグ | Kubo Hideo | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2420 | -45 | 
 | 2020-08-20 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Ishida Atsushi | Win | B+R | 6.5 | 2465 | -49 | 
 | 2020-06-18 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Hikosaka Naoto | Lose | W+5.5 | 6.5 | 2514 | -168 | 
 | 2020-03-26 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Nakano Hironari | Lose | W+4.5 | 6.5 | 2682 | -69 | 

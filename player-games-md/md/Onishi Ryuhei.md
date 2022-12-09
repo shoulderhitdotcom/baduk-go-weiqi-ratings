@@ -24,9 +24,9 @@
 | 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Win | B+R | 6.5 | 3182 | 0 | 
 | 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3182 | 10 | 
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3172 | 44 | 
-| 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3128 | 91 | 
-| 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 3037 | 5 | 
-| 2021-04-15 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Onishi Ryuhei | Win | W+R | 6.5 | 3032 | 4 | 
+| 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3128 | 90 | 
+| 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 3038 | 5 | 
+| 2021-04-15 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Onishi Ryuhei | Win | W+R | 6.5 | 3033 | 5 | 
 | 2021-04-02 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Onishi Ryuhei | Lose | B+R | 6.5 | 3028 | -18 | 
 | 2021-03-29 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Lose | W+R | 6.5 | 3046 | -5 | 
 | 2021-03-22 | 第69期王座戦予選 | Onishi Ryuhei | Rin Kanketsu | Lose | W+3.5 | 6.5 | 3051 | -48 | 
@@ -50,8 +50,8 @@
 | 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Lose | B+R | 6.5 | 3257 | -56 | 
 | 2020-07-30 | 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | Win | W+R | 6.5 | 3313 | 7 | 
 | 2020-07-13 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Onishi Ryuhei | Win | W+1.5 | 6.5 | 3306 | 26 | 
-| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3280 | 13 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 3267 | 62 | 
+| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3280 | 12 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 3268 | 63 | 
 | 2020-04-17 | 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | Win | W+0.5 | 6.5 | 3205 | 0 | 
 | 2020-04-17 | 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | Lose | W+0.5 | 6.5 | 3205 | -9 | 
 | 2020-04-07 | 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | Win | B+1.5 | 6.5 | 3214 | 19 | 

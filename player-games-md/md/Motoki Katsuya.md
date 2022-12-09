@@ -43,8 +43,8 @@
 | 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Win | B+R | 6.5 | 3243 | 20 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Win | W+R | 6.5 | 3223 | 43 | 
 | 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3180 | 20 | 
-| 2021-05-06 | 第46期名人戦リーグ | Motoki Katsuya | Anzai Nobuaki | Win | B+0.5 | 6.5 | 3160 | 96 | 
-| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3064 | -5 | 
+| 2021-05-06 | 第46期名人戦リーグ | Motoki Katsuya | Anzai Nobuaki | Win | B+0.5 | 6.5 | 3160 | 95 | 
+| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3065 | -4 | 
 | 2021-04-01 | 第69期王座戦予選 | Chang Rueijie | Motoki Katsuya | Win | W+R | 6.5 | 3069 | 21 | 
 | 2021-03-18 | 第46期名人戦リーグ  | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3048 | 33 | 
 | 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Win | W+0.5 | 6.5 | 3015 | 30 | 

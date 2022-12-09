@@ -77,8 +77,8 @@
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3279 | 5 | 
 | 2021-05-19 | 第47期碁聖戦予選 | Yu Zhengqi | Hara Masakazu | Win | B+7.5 | 6.5 | 3274 | 3 | 
 | 2021-05-13 | 第46期名人戦リーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3271 | 20 | 
-| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Otani Naoki | Yu Zhengqi | Win | W+17.5 | 6.5 | 3251 | 0 | 
-| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3251 | 19 | 
+| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Otani Naoki | Yu Zhengqi | Win | W+17.5 | 6.5 | 3251 | -1 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3252 | 20 | 
 | 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Win | B+R | 6.5 | 3232 | 22 | 
 | 2021-04-01 | 第46期名人戦リーグ | Yu Zhengqi | Kono Rin | Lose | W+0.5 | 6.5 | 3210 | -25 | 
 | 2021-03-24 | 第77期本因坊戦予選 | Watanabe Kouki | Yu Zhengqi | Win | W+R | 6.5 | 3235 | -1 | 

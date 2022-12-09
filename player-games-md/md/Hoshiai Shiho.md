@@ -16,12 +16,12 @@
 | 2021-10-14 | 第25期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Lose | B+R | 6.5 | 2917 | 4 | 
 | 2021-10-08 | 第40期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Hoshiai Shiho | Lose | B+R | 6.5 | 2913 | -7 | 
 | 2021-09-28 | 第40期女流本因坊戦挑戦手合五番勝負第1局  | Hoshiai Shiho | Fujisawa Rina | Lose | W+0.5 | 6.5 | 2920 | 98 | 
-| 2021-08-23 | 第40期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Koyama Mitsuru | Win | B+R | 6.5 | 2822 | 110 | 
-| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2712 | 73 | 
+| 2021-08-23 | 第40期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Koyama Mitsuru | Win | B+R | 6.5 | 2822 | 109 | 
+| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2713 | 74 | 
 | 2021-06-24 | 第40期女流本因坊戦3回戦  | Inori Yoko | Hoshiai Shiho | Win | W+10.5 | 6.5 | 2639 | 43 | 
-| 2021-05-24 | 第40期女流本因坊戦2回戦 | Konishi Kazuko | Hoshiai Shiho | Win | W+R | 6.5 | 2596 | 72 | 
-| 2021-04-15 | 第47期碁聖戦予選 | Hoshiai Shiho | Otake Hideo | Win | B+R | 6.5 | 2524 | 21 | 
-| 2021-04-12 | 第60期十段戦予選 | Takemiya Masaki | Hoshiai Shiho | Win | W+2.5 | 6.5 | 2503 | -25 | 
+| 2021-05-24 | 第40期女流本因坊戦2回戦 | Konishi Kazuko | Hoshiai Shiho | Win | W+R | 6.5 | 2596 | 71 | 
+| 2021-04-15 | 第47期碁聖戦予選 | Hoshiai Shiho | Otake Hideo | Win | B+R | 6.5 | 2525 | 21 | 
+| 2021-04-12 | 第60期十段戦予選 | Takemiya Masaki | Hoshiai Shiho | Win | W+2.5 | 6.5 | 2504 | -24 | 
 | 2021-04-01 | 第46期棋聖戦予選 | Hoshiai Shiho | Ueno Asami | Lose | W+R | 6.5 | 2528 | -240 | 
 | 2020-11-19 | 第77期本因坊戦予選 | Otake Hideo | Hoshiai Shiho | Win | W+6.5 | 6.5 | 2768 | 114 | 
 | 2020-10-15 | 第77期本因坊戦予選 | Chinen Kaori | Hoshiai Shiho | Win | W+R | 6.5 | 2654 | -16 | 

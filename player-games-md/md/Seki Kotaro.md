@@ -28,8 +28,8 @@
 | 2022-03-10 | 第47期棋聖戦予選 | Seki Kotaro | Omori Yasushi | Win | B+R | 6.5 | 3238 | -10 | 
 | 2022-02-14 | 第70期王座戦予選 | Kim Sujun | Seki Kotaro | Lose | B+1.5 | 6.5 | 3248 | -43 | 
 | 2022-01-31 | 第47期棋聖戦予選 | Seki Kotaro | Seki Tatsuya | Win | B+R | 6.5 | 3291 | -19 | 
-| 2022-01-20 | 第70期王座戦予選 | Numadate Sakiya | Seki Kotaro | Win | W+6.5 | 6.5 | 3310 | 18 | 
-| 2022-01-17 | 第48期名人戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3292 | 166 | 
+| 2022-01-20 | 第70期王座戦予選 | Numadate Sakiya | Seki Kotaro | Win | W+6.5 | 6.5 | 3310 | 17 | 
+| 2022-01-17 | 第48期名人戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3293 | 167 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Win | B+R | 6.5 | 3126 | 117 | 
 | 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3009 | 104 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Lose | B+13.5 | 6.5 | 2905 | -97 | 

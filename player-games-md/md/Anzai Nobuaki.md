@@ -39,8 +39,8 @@
 | 2020-08-24 | 第3回SGW杯中庸戦予選 | Anzai Nobuaki | Oya Koichi | Lose | W+4.5 | 6.5 | 2743 | -155 | 
 | 2020-08-13 | 第59期十段戦予選 | Anzai Nobuaki | Sato Yuta | Win | B+R | 6.5 | 2898 | 8 | 
 | 2020-07-16 | 第68期王座戦1回戦 | Anzai Nobuaki | Hsu Chiayuan | Lose | W+R | 6.5 | 2890 | 30 | 
-| 2020-04-02 | 第46期名人戦予選 | Hirose Yuichi | Anzai Nobuaki | Win | W+R | 6.5 | 2860 | 140 | 
-| 2020-03-02 | 第68期王座戦予選 | Anzai Nobuaki | Kono Rin | Win | B+R | 6.5 | 2720 | 192 | 
+| 2020-04-02 | 第46期名人戦予選 | Hirose Yuichi | Anzai Nobuaki | Win | W+R | 6.5 | 2860 | 139 | 
+| 2020-03-02 | 第68期王座戦予選 | Anzai Nobuaki | Kono Rin | Win | B+R | 6.5 | 2721 | 193 | 
 | 2020-02-20 | 第76期本因坊戦予選 | Anzai Nobuaki | Onishi Ryuhei | Lose | W+0.5 | 6.5 | 2528 | -253 | 
 | 2020-01-23 | 第46期天元戦1回戦 | Anzai Nobuaki | Cho Sonjin | Lose | W+R | 6.5 | 2781 | missing |
 

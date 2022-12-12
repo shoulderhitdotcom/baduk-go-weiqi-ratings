@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Xu Haohong** | **Lin Junyan Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-12 | 第15期棋王戦（台湾）挑戦手合七番勝負第5局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 13:29 | 0 | 4 | 
+| 2022-12-05 | 第15期棋王戦（台湾）挑戦手合七番勝負第4局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 13:28 | 0 | 3 | 
+| 2022-11-28 | 第15期棋王戦（台湾）挑戦手合七番勝負第3局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 13:27 | 0 | 2 | 
+| 2022-11-25 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Xu Haohong | Lin Junyan | B+¾ | 7.5 | 13:26 | 0 | 1 | 
 | 2022-11-14 | 第15期棋王戦（台湾）挑戦手合七番勝負第2局  | Lin Junyan | Xu Haohong | B+1.5 | 6.5 | 13:25 | 1 | 0 | 
 | 2022-09-20 | 第27回三星火災杯台湾予選 | Xu Haohong | Lin Junyan | B+0.5 | 6.5 | 12:25 | 0 | 8 | 
 | 2022-09-06 | 第3期聯電杯プロ囲碁戦リーグ | Lin Junyan | Xu Haohong | W+R | 6.5 | 12:24 | 0 | 7 | 

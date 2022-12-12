@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第47期天元戦予選 | Suzuki Yoshimichi | O Meien | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlN27JmB8cz5fu7s7A4eIw%3D%3D) | 
 | 第59期十段戦予選 | Suzuki Yoshimichi | Yoda Norimoto | W+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9PfNxo8Sb4g8ZdiPX0TCHA%3D%3D) | 

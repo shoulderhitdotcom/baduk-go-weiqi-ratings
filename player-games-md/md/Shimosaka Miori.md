@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第8期会津中央病院・女流立葵杯1回戦 | Shimosaka Miori | missing | W+6.5 | 2021-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5mB04NK82ZQ%2FBswmH%2BQmZw%3D%3D) | 
 | 第40期女流本因坊戦予選  | Shimosaka Miori | Aoba Kaori | W+1.5 | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bSIoToZJ0Tc7eYqGCoWfTQ%3D%3D) | 

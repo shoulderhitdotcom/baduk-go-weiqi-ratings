@@ -7,18 +7,19 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-23 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3067 | -29 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ | Sun Zhe | Tong Yulin | Lose | W+R | 7.5 | 3096 | -38 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3134 | 1 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Sun Zhe | Lu Yiquan | Win | B+R | 7.5 | 3133 | 19 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3114 | -23 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ | Sun Zhe |  | Lose | W+R | 7.5 | 3137 | -19 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Sun Zhe | Zhu Yuanhao | Lose | W+R | 7.5 | 3156 | -10 | 
+| 2022-12-12 | 第49期天元戦予選 | Mitani Tetsuya | Sun Zhe | Win | W+R | 6.5 | 3019 | -49 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3068 | -29 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ | Sun Zhe | Tong Yulin | Lose | W+R | 7.5 | 3097 | -38 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3135 | 1 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Sun Zhe | Lu Yiquan | Win | B+R | 7.5 | 3134 | 19 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Lose | B+R | 7.5 | 3115 | -23 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ | Sun Zhe |  | Lose | W+R | 7.5 | 3138 | -19 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Sun Zhe | Zhu Yuanhao | Lose | W+R | 7.5 | 3157 | -9 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ |  | Sun Zhe | Win | W+R | 7.5 | 3166 | 41 | 
 | 2022-09-01 | 第61期十段戦予選 | Nakano Yasuhiro | Sun Zhe | Lose | B+R | 6.5 | 3125 | -98 | 
-| 2022-07-11 | 第47期棋聖戦Aリーグ | So Yokoku | Sun Zhe | Win | W+R | 6.5 | 3223 | 61 | 
-| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Lose | B+R | 6.5 | 3162 | -51 | 
-| 2022-06-06 | 第70期王座戦1回戦 | Sun Zhe | Mitani Tetsuya | Lose | W+R | 6.5 | 3213 | 16 | 
+| 2022-07-11 | 第47期棋聖戦Aリーグ | So Yokoku | Sun Zhe | Win | W+R | 6.5 | 3223 | 60 | 
+| 2022-06-27 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Sun Zhe | Lose | B+R | 6.5 | 3163 | -51 | 
+| 2022-06-06 | 第70期王座戦1回戦 | Sun Zhe | Mitani Tetsuya | Lose | W+R | 6.5 | 3214 | 17 | 
 | 2022-05-09 | 第70期王座戦予選 | Sun Zhe | Kim Sujun | Win | B+R | 6.5 | 3197 | 23 | 
 | 2022-05-05 | 第47棋聖戦Aリーグ  | Sun Zhe | Onishi Ryuhei | Win | B+R | 6.5 | 3174 | 74 | 
 | 2022-04-07 | 第47期棋聖戦Aリーグ | Yamashita Keigo | Sun Zhe | Win | W+R | 6.5 | 3100 | 56 | 
@@ -26,8 +27,8 @@
 | 2022-02-10 | 第47期棋聖戦Aリーグ | Sun Zhe | Kono Rin | Lose | W+R | 6.5 | 3155 | 14 | 
 | 2021-12-09 | 第48期天元戦予選 | Sun Zhe | Takao Shinji | Win | B+R | 6.5 | 3141 | 172 | 
 | 2021-10-28 | 第60期十段戦2回戦  | Sun Zhe | Fujisawa Rina | Lose | W+4.5 | 6.5 | 2969 | -3 | 
-| 2021-10-14 | 第60期十段戦1回戦 | Sun Zhe | Shida Tatsuya | Win | B+4.5 | 6.5 | 2972 | 25 | 
-| 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Lose | B+2.5 | 6.5 | 2947 | -23 | 
+| 2021-10-14 | 第60期十段戦1回戦 | Sun Zhe | Shida Tatsuya | Win | B+4.5 | 6.5 | 2972 | 24 | 
+| 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Lose | B+2.5 | 6.5 | 2948 | -22 | 
 | 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Win | W+R | 6.5 | 2970 | 63 | 
 | 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2907 | -68 | 
 | 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | 2975 | 42 | 
@@ -50,8 +51,8 @@
 | 2020-06-03 | 第68期王座戦予選 | Shida Tatsuya | Sun Zhe | Win | W+R | 6.5 | 3336 | 10 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Donghoon | Sun Zhe | Lose | B+R | 6.5 | 3326 | 1 | 
 | 2020-04-17 | 日台交流戦第1戦 | Lin Lixiang | Sun Zhe | Win | W+R | 6.5 | 3325 | 34 | 
-| 2020-04-07 | 第25回LG杯国内予選決勝 | Sun Zhe | Mutsuura Yuta | Win | B+R | 6.5 | 3291 | -6 | 
-| 2020-04-06 | 第25回LG杯国内予選 | Sun Zhe | Sada Atsushi | Win | B+R | 6.5 | 3297 | 19 | 
+| 2020-04-07 | 第25回LG杯国内予選決勝 | Sun Zhe | Mutsuura Yuta | Win | B+R | 6.5 | 3291 | -5 | 
+| 2020-04-06 | 第25回LG杯国内予選 | Sun Zhe | Sada Atsushi | Win | B+R | 6.5 | 3296 | 18 | 
 | 2020-03-19 | 第76期本因坊戦予選 | Terayama Rei | Sun Zhe | Win | W+R | 6.5 | 3278 | -9 | 
 | 2020-03-12 | 第46期天元戦2回戦 | Mimura Tomoyasu | Sun Zhe | Win | W+R | 6.5 | 3287 | missing |
 

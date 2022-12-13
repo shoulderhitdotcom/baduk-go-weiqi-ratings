@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第26回GSカルテックス杯プロ棋戦1回戦 | Jen Youngkyu | Paek Hongseok | W+R | 2021-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDWxGtOQxPYIFFkqcfNxxw%3D%3D) | 
 | 第44期名人戦（韓国）予選 | Ko Keuntae | Jen Youngkyu | B+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LwPHjZ0pqfmCsRry6RGoUQ%3D%3D) | 

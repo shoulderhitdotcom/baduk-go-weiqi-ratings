@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-13 | 台湾棋院 VS 関西棋院若手棋士ネット対抗戦2022 |  | Lin Junyan | Win | W+R | 6.5 | 3183 | -4 | 
 | 2022-12-12 | 第15期棋王戦（台湾）挑戦手合七番勝負第5局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3187 | -7 | 
 | 2022-12-05 | 第15期棋王戦（台湾）挑戦手合七番勝負第4局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3194 | -5 | 
 | 2022-11-28 | 第15期棋王戦（台湾）挑戦手合七番勝負第3局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3199 | -15 | 

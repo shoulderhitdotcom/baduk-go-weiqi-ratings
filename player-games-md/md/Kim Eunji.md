@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Win | W+R | 6.5 | 3164 | -1 | 
+| 2022-12-12 | 第6期女子棋聖戦（韓国）準決勝 | Kim Yoonyoung | Kim Eunji | Win | W+R | 6.5 | 3165 | -6 | 
 | 2022-12-08 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Heo Seohyun | Lose | W+0.5 | 6.5 | 3171 | -7 | 
 | 2022-12-05 | 第6期女子棋聖戦（韓国）3回戦 | Kim Eunji | Heo Seohyun | Win | B+R | 6.5 | 3178 | 1 | 
 | 2022-12-04 | 2022蘭雪軒杯全国女子囲碁大会決勝 | Kim Eunji | Kim Yoonyoung | Win | B+R | 6.5 | 3177 | 0 | 
@@ -42,14 +44,14 @@
 | 2022-07-21 | 第8回韓国女子囲碁リーグ | Kim Soojin | Kim Eunji | Lose | B+R | 6.5 | 3124 | -2 | 
 | 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | An Sungjoon | Kim Eunji | Lose | B+R | 6.5 | 3126 | 7 | 
 | 2022-07-16 | 第8回韓国女子囲碁リーグ | Kim Yoonyoung | Kim Eunji | Win | W+R | 6.5 | 3119 | -17 | 
-| 2022-07-13 | 第2回IBK企業銀行杯女子囲碁マスターズ準決勝 | Jeong Yujin | Kim Eunji | Lose | B+0.5 | 6.5 | 3136 | 16 | 
-| 2022-07-07 | 第8回韓国女子囲碁リーグ | Kim Eunji | Lee Youngjoo | Lose | W+7.5 | 6.5 | 3120 | -27 | 
-| 2022-07-06 | 2022YK建機杯リーグ | Weon Seongjin | Kim Eunji | Win | W+R | 6.5 | 3147 | 23 | 
-| 2022-07-01 | 2022YK建機杯リーグ | Lee Jihyun | Kim Eunji | Lose | B+R | 6.5 | 3124 | -4 | 
-| 2022-06-30 | 第8回韓国女子囲碁リーグ | Kim Eunji | Kim Miri | Win | B+R | 6.5 | 3128 | 4 | 
-| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Lose | B+11.5 | 6.5 | 3124 | -20 | 
-| 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Lose | B+R | 6.5 | 3144 | -39 | 
-| 2022-06-24 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Kim Eunji | Lose | B+3.5 | 6.5 | 3183 | 2 | 
+| 2022-07-13 | 第2回IBK企業銀行杯女子囲碁マスターズ準決勝 | Jeong Yujin | Kim Eunji | Lose | B+0.5 | 6.5 | 3136 | 15 | 
+| 2022-07-07 | 第8回韓国女子囲碁リーグ | Kim Eunji | Lee Youngjoo | Lose | W+7.5 | 6.5 | 3121 | -27 | 
+| 2022-07-06 | 2022YK建機杯リーグ | Weon Seongjin | Kim Eunji | Win | W+R | 6.5 | 3148 | 23 | 
+| 2022-07-01 | 2022YK建機杯リーグ | Lee Jihyun | Kim Eunji | Lose | B+R | 6.5 | 3125 | -4 | 
+| 2022-06-30 | 第8回韓国女子囲碁リーグ | Kim Eunji | Kim Miri | Win | B+R | 6.5 | 3129 | 4 | 
+| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Lose | B+11.5 | 6.5 | 3125 | -20 | 
+| 2022-06-27 | 第45期名人戦（韓国）予選 | Kang Seungmin | Kim Eunji | Lose | B+R | 6.5 | 3145 | -39 | 
+| 2022-06-24 | 第8回韓国女子囲碁リーグ | Kim Hyoyoung | Kim Eunji | Lose | B+3.5 | 6.5 | 3184 | 3 | 
 | 2022-06-22 | 第2回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunji | Gueon Hyojin | Win | B+3.5 | 6.5 | 3181 | 1 | 
 | 2022-06-21 | 2022YK建機杯リーグ | Ryu Minhyung | Kim Eunji | Lose | B+R | 6.5 | 3180 | -12 | 
 | 2022-06-18 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Eunji | Lose | B+R | 6.5 | 3192 | 4 | 
@@ -101,9 +103,9 @@
 | 2020-09-16 | 第3回呉清源杯韓国予選 | Kim Hyeoimin | Kim Eunji | Win | W+R | 7.5 | 2756 | 53 | 
 | 2020-09-15 | 第3回呉清源杯韓国予選 | Park Shiun | Kim Eunji | Win | W+R | 7.5 | 2703 | -6 | 
 | 2020-09-07 | 第25期女流国手戦16強戦 | Choi Jeong | Kim Eunji | Lose | B+R | 6.5 | 2709 | 37 | 
-| 2020-09-01 | 第25回三星火災杯韓国女子枠予選 | Kim Eunji | Kim Cheayoung | Lose | W+R | 6.5 | 2672 | -71 | 
-| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第4試合第2局 | Choi Jeong | Kim Eunji | Lose | B+R | 6.5 | 2743 | -8 | 
-| 2020-08-16 | 第6回韓国女子囲碁リーグ第13節第4試合第3局 | Kim Eunji | Cho Seungah | Lose | W+1.5 | 6.5 | 2751 | 31 | 
+| 2020-09-01 | 第25回三星火災杯韓国女子枠予選 | Kim Eunji | Kim Cheayoung | Lose | W+R | 6.5 | 2672 | -72 | 
+| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第4試合第2局 | Choi Jeong | Kim Eunji | Lose | B+R | 6.5 | 2744 | -8 | 
+| 2020-08-16 | 第6回韓国女子囲碁リーグ第13節第4試合第3局 | Kim Eunji | Cho Seungah | Lose | W+1.5 | 6.5 | 2752 | 32 | 
 | 2020-08-08 | 第6回韓国女子囲碁リーグ第12節第3試合第3局 | Kim Eunji | Oh Yujin | Lose | W+R | 6.5 | 2720 | -33 | 
 | 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第2局 | Kim Eunji | Park Jiyeon | Lose | W+R | 6.5 | 2753 | -23 | 
 | 2020-07-24 | 第6回韓国女子囲碁リーグ第10節第2試合第3局 | Kim Eunji | Kim Cheayoung | Win | B+R | 6.5 | 2776 | 62 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-14 | 第2期韓国棋院選手権戦グループリーグ | Kim Hyeongwoo | Weon Seongjin | Lose | W+R | 6.5 | 3222 | -8 | 
 | 2022-12-12 | 第4期ソパルコサノル最高棋士決定戦予選 | Kim Hyeongwoo | Hyun Yoobin | Win | B+R | 6.5 | 3230 | 24 | 
 | 2022-07-31 | 第4回大統領杯全国囲碁大会準決勝 | Choi Cheolhan | Kim Hyeongwoo | Lose | B+0.5 | 6.5 | 3206 | -13 | 
 | 2022-07-30 | 第4回大統領杯全国囲碁大会2回戦 | Park Jaekeun | Kim Hyeongwoo | Win | W+R | 6.5 | 3219 | 39 | 

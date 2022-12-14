@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-14 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Kyeongeun | Kim Cheayoung | Lose | W+1.5 | 6.5 | 2728 | -27 | 
 | 2022-12-09 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Kyeongeun | Choi Jeong | Lose | W+R | 6.5 | 2755 | -4 | 
 | 2022-12-03 | 2022蘭雪軒杯全国女子囲碁大会1回戦 | Kim Kyeongeun | Oh Yujin | Lose | W+R | 6.5 | 2759 | -42 | 
 | 2022-10-29 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Kim Kyeongeun | Lose | B+R | 6.5 | 2801 | -11 | 

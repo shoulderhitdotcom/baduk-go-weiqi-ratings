@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
+The ratings are based on 4505 games from 2021-12-16 to 2022-12-15.
 
 [A list of go teachers](go-teachers.md)
 
@@ -26,7 +26,7 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | --- | --- | --- | --- | --- |
 | 1 | [Shin Jinseo](./player-games-md/md/Shin Jinseo.md) | 3833 | 91 | 申眞諝 | 
 | 2 | [Li Xuanhao](./player-games-md/md/Li Xuanhao.md) | 3801 | 42 | 李軒豪 | 
-| 3 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3693 | 27 | 李維清 | 
+| 3 | [Li Weiqing](./player-games-md/md/Li Weiqing.md) | 3692 | 27 | 李維清 | 
 | 4 | [Yang Kaiwen](./player-games-md/md/Yang Kaiwen.md) | 3667 | 35 | 楊楷文 | 
 | 5 | [Tuo Jiaxi](./player-games-md/md/Tuo Jiaxi.md) | 3661 | 38 | 柁嘉熹 | 
 | 6 | [Fan Tingyu](./player-games-md/md/Fan Tingyu.md) | 3658 | 42 | 范廷鈺 | 
@@ -59,8 +59,8 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | 33 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3507 | 32 | 廖元赫 | 
 | 34 | [Tang Weixing](./player-games-md/md/Tang Weixing.md) | 3503 | 32 | 唐韋星 | 
 | 35 | [Park Yeonghun](./player-games-md/md/Park Yeonghun.md) | 3481 | 23 | 朴永訓 | 
-| 36 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3481 | 22 | 陶欣然 | 
-| 37 | [Tan Xiao](./player-games-md/md/Tan Xiao.md) | 3481 | 29 | 檀嘯 | 
+| 36 | [Tan Xiao](./player-games-md/md/Tan Xiao.md) | 3481 | 29 | 檀嘯 | 
+| 37 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3480 | 22 | 陶欣然 | 
 | 38 | [Chen Yunong](./player-games-md/md/Chen Yunong.md) | 3479 | 17 | 陳玉儂 | 
 | 39 | [Fan Yin](./player-games-md/md/Fan Yin.md) | 3476 | 23 | 范胤 | 
 | 40 | [Zhang Tao](./player-games-md/md/Zhang Tao.md) | 3475 | 24 | 張涛 | 
@@ -70,7 +70,7 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | 44 | [Li Xiangyu](./player-games-md/md/Li Xiangyu.md) | 3463 | 13 | 李翔宇 | 
 | 45 | [Chen Xian](./player-games-md/md/Chen Xian.md) | 3462 | 33 | 陳賢 | 
 | 46 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3459 | 36 | 朴鍵昊 | 
-| 47 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3457 | 42 | 朴河旼 | 
+| 47 | [Park Hamin](./player-games-md/md/Park Hamin.md) | 3456 | 42 | 朴河旼 | 
 | 48 | [Kim Jiseok](./player-games-md/md/Kim Jiseok.md) | 3454 | 67 | 金志錫 | 
 | 49 | [Choi Cheolhan](./player-games-md/md/Choi Cheolhan.md) | 3436 | 23 | 崔哲瀚 | 
 | 50 | [Kang Seungmin](./player-games-md/md/Kang Seungmin.md) | 3431 | 38 | 姜昇旼 | 
@@ -78,7 +78,7 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | 52 | [Chen Zhengxun](./player-games-md/md/Chen Zhengxun.md) | 3429 | 13 | 陳正勲 | 
 | 53 | [Weon Seongjin](./player-games-md/md/Weon Seongjin.md) | 3428 | 73 | 元晟溱 | 
 | 54 | [Han Yizhou](./player-games-md/md/Han Yizhou.md) | 3426 | 17 | 韓一洲 | 
-| 55 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3425 | 42 | 井山裕太 | 
+| 55 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3426 | 42 | 井山裕太 | 
 | 56 | [Shibano Toramaru](./player-games-md/md/Shibano Toramaru.md) | 3424 | 49 | 芝野虎丸 | 
 | 57 | [Kim Seongjae](./player-games-md/md/Kim Seongjae.md) | 3422 | 15 | 金昇宰 | 
 | 58 | [Seol Hyunjun](./player-games-md/md/Seol Hyunjun.md) | 3419 | 50 | 偰玹準 | 
@@ -86,20 +86,20 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | 60 | [Xu Haohong](./player-games-md/md/Xu Haohong.md) | 3409 | 80 | 許皓鋐 | 
 | 61 | [An Sungjoon](./player-games-md/md/An Sungjoon.md) | 3407 | 35 | 安成浚 | 
 | 62 | [Jin Yucheng](./player-games-md/md/Jin Yucheng.md) | 3403 | 25 | 金禹丞 | 
-| 63 | [Ichiriki Ryo](./player-games-md/md/Ichiriki Ryo.md) | 3392 | 51 | 一力遼 | 
+| 63 | [Ichiriki Ryo](./player-games-md/md/Ichiriki Ryo.md) | 3393 | 51 | 一力遼 | 
 | 64 | [Na Hyun](./player-games-md/md/Na Hyun.md) | 3391 | 18 | 羅玄 | 
 | 65 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3390 | 17 | 李映九 | 
-| 66 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3386 | 37 | 許家元 | 
+| 66 | [Hsu Chiayuan](./player-games-md/md/Hsu Chiayuan.md) | 3387 | 37 | 許家元 | 
 | 67 | [Lee Changseok](./player-games-md/md/Lee Changseok.md) | 3384 | 52 | 李昌錫 | 
 | 68 | [Park Sangjin](./player-games-md/md/Park Sangjin.md) | 3382 | 42 | 朴常鎭 | 
 | 69 | [Jiang Qirun](./player-games-md/md/Jiang Qirun.md) | 3374 | 20 | 蒋其潤 | 
 | 70 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3372 | 89 | 崔精 | 
-| 71 | [Yi Lingtao](./player-games-md/md/Yi Lingtao.md) | 3362 | 25 | 伊淩濤 | 
-| 72 | [Lee Wonyoung](./player-games-md/md/Lee Wonyoung.md) | 3362 | 28 | 李元栄 | 
+| 71 | [Lee Wonyoung](./player-games-md/md/Lee Wonyoung.md) | 3362 | 28 | 李元栄 | 
+| 72 | [Yi Lingtao](./player-games-md/md/Yi Lingtao.md) | 3361 | 25 | 伊淩濤 | 
 | 73 | [Ye Changxin](./player-games-md/md/Ye Changxin.md) | 3350 | 14 | 葉長欣 | 
 | 74 | [Gu Lingyi](./player-games-md/md/Gu Lingyi.md) | 3339 | 18 | 古霊益 | 
 | 75 | [Yu Zhengqi](./player-games-md/md/Yu Zhengqi.md) | 3337 | 46 | 余正麒 | 
-| 76 | [Hirata Tomoya](./player-games-md/md/Hirata Tomoya.md) | 3333 | 15 | 平田智也 | 
+| 76 | [Hirata Tomoya](./player-games-md/md/Hirata Tomoya.md) | 3332 | 15 | 平田智也 | 
 | 77 | [Park Joonhoon](./player-games-md/md/Park Joonhoon.md) | 3325 | 25 | 朴鐘勲 | 
 | 78 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3315 | 14 | 李賢虎 | 
 | 79 | [Wi Taewoong](./player-games-md/md/Wi Taewoong.md) | 3309 | 18 | 魏太雄 | 
@@ -116,12 +116,12 @@ The ratings are based on 4504 games from 2021-12-16 to 2022-12-15.
 | 90 | [Hong Mujin](./player-games-md/md/Hong Mujin.md) | 3259 | 18 | 洪茂鎭 | 
 | 91 | [Hong Seongji](./player-games-md/md/Hong Seongji.md) | 3258 | 20 | 洪性志 | 
 | 92 | [Han Woojin](./player-games-md/md/Han Woojin.md) | 3258 | 33 | 韓友賑 | 
-| 93 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3248 | 21 | 山下敬吾 | 
+| 93 | [Yamashita Keigo](./player-games-md/md/Yamashita Keigo.md) | 3252 | 21 | 山下敬吾 | 
 | 94 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3242 | 19 | 宋圭相 | 
 | 95 | [Kim Sangcheon](./player-games-md/md/Kim Sangcheon.md) | 3238 | 16 | 金相天 | 
 | 96 | [Choi Jaeyoung](./player-games-md/md/Choi Jaeyoung.md) | 3237 | 18 | 崔宰栄 | 
 | 97 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3235 | 18 | 金眞輝 | 
-| 98 | [Murakawa Daisuke](./player-games-md/md/Murakawa Daisuke.md) | 3234 | 27 | 村川大介 | 
+| 98 | [Murakawa Daisuke](./player-games-md/md/Murakawa Daisuke.md) | 3235 | 27 | 村川大介 | 
 | 99 | [Cho Wankyu](./player-games-md/md/Cho Wankyu.md) | 3234 | 30 | 趙完珪 | 
 | 100 | [Huang Mingyu](./player-games-md/md/Huang Mingyu.md) | 3230 | 14 | 黄明宇 |
 
@@ -142,14 +142,14 @@ Note that players with fewer than 13 games are not in the list
 | 101 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3230 | 31 | 文敏鍾 | 
 | 102 | [Shin Jaeweon](./player-games-md/md/Shin Jaeweon.md) | 3228 | 18 | 申載元 | 
 | 103 | [Lee Sanghun](./player-games-md/md/Lee Sanghun.md) | 3227 | 16 | 李尚憲 | 
-| 104 | [Sakai Yuki](./player-games-md/md/Sakai Yuki.md) | 3227 | 17 | 酒井佑規 | 
+| 104 | [Sakai Yuki](./player-games-md/md/Sakai Yuki.md) | 3226 | 17 | 酒井佑規 | 
 | 105 | [Yoo Ohseong](./player-games-md/md/Yoo Ohseong.md) | 3225 | 23 | 兪旿成 | 
 | 106 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3222 | 17 | 金炯佑 | 
-| 107 | [Hirose Yuichi](./player-games-md/md/Hirose Yuichi.md) | 3220 | 18 | 広瀬優一 | 
+| 107 | [Hirose Yuichi](./player-games-md/md/Hirose Yuichi.md) | 3215 | 18 | 広瀬優一 | 
 | 108 | [Kang Jihoon](./player-games-md/md/Kang Jihoon.md) | 3209 | 21 | 姜知勲 | 
 | 109 | [Choi Kyeongho](./player-games-md/md/Choi Kyeongho.md) | 3206 | 22 | 崔光戸 | 
-| 110 | [Sada Atsushi](./player-games-md/md/Sada Atsushi.md) | 3205 | 43 | 佐田篤史 | 
-| 111 | [Hu Zihao](./player-games-md/md/Hu Zihao.md) | 3204 | 15 | 胡子豪 | 
+| 110 | [Sada Atsushi](./player-games-md/md/Sada Atsushi.md) | 3206 | 43 | 佐田篤史 | 
+| 111 | [Hu Zihao](./player-games-md/md/Hu Zihao.md) | 3203 | 15 | 胡子豪 | 
 | 112 | [Kwak Wonkeun](./player-games-md/md/Kwak Wonkeun.md) | 3203 | 15 | 郭圓根 | 
 | 113 | [Song Jihoon](./player-games-md/md/Song Jihoon.md) | 3202 | 19 | 宋知勲 | 
 | 114 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 3201 | 25 | 劉昌赫 | 
@@ -167,59 +167,59 @@ Note that players with fewer than 13 games are not in the list
 | 126 | [Kim Changhoon](./player-games-md/md/Kim Changhoon.md) | 3179 | 17 | 金昌勲 | 
 | 127 | [An Joyeong](./player-games-md/md/An Joyeong.md) | 3178 | 22 | 安祚永 | 
 | 128 | [Kim Junghyun](./player-games-md/md/Kim Junghyun.md) | 3173 | 17 | 金庭賢 | 
-| 129 | [Fukuoka Kotaro](./player-games-md/md/Fukuoka Kotaro.md) | 3166 | 13 | 福岡航太朗 | 
-| 130 | [Kim Eunji](./player-games-md/md/Kim Eunji.md) | 3166 | 84 | 金恩持 | 
+| 129 | [Kim Eunji](./player-games-md/md/Kim Eunji.md) | 3166 | 84 | 金恩持 | 
+| 130 | [Fukuoka Kotaro](./player-games-md/md/Fukuoka Kotaro.md) | 3165 | 13 | 福岡航太朗 | 
 | 131 | [Wang Shiyi](./player-games-md/md/Wang Shiyi.md) | 3160 | 14 | 王世一 | 
 | 132 | [Lee Hyeonjun](./player-games-md/md/Lee Hyeonjun.md) | 3160 | 15 | 李炫準 | 
-| 133 | [Lee Hyungjin](./player-games-md/md/Lee Hyungjin.md) | 3156 | 18 | 李炯珍 | 
-| 134 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 3156 | 31 | 呉依銘 | 
-| 135 | [Hyun Yoobin](./player-games-md/md/Hyun Yoobin.md) | 3153 | 26 | 玄釉斌 | 
-| 136 | [Ahn Kukhyun](./player-games-md/md/Ahn Kukhyun.md) | 3152 | 19 | 安国鉉 | 
-| 137 | [Chen Qirui](./player-games-md/md/Chen Qirui.md) | 3146 | 73 | 陳祈睿 | 
-| 138 | [Heo Youngrak](./player-games-md/md/Heo Youngrak.md) | 3144 | 15 | 許栄珞 | 
-| 139 | [Ueno Asami](./player-games-md/md/Ueno Asami.md) | 3138 | 45 | 上野愛咲美 | 
-| 140 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3135 | 22 | 大竹優 | 
-| 141 | [Xiao Zhenghao](./player-games-md/md/Xiao Zhenghao.md) | 3128 | 31 | 蕭正浩 | 
-| 142 | [Fujisawa Rina](./player-games-md/md/Fujisawa Rina.md) | 3126 | 31 | 藤沢里菜 | 
+| 133 | [Wu Yiming](./player-games-md/md/Wu Yiming.md) | 3156 | 31 | 呉依銘 | 
+| 134 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3155 | 14 | 志田達哉 | 
+| 135 | [Lee Hyungjin](./player-games-md/md/Lee Hyungjin.md) | 3155 | 18 | 李炯珍 | 
+| 136 | [Hyun Yoobin](./player-games-md/md/Hyun Yoobin.md) | 3153 | 26 | 玄釉斌 | 
+| 137 | [Ahn Kukhyun](./player-games-md/md/Ahn Kukhyun.md) | 3152 | 19 | 安国鉉 | 
+| 138 | [Chen Qirui](./player-games-md/md/Chen Qirui.md) | 3146 | 73 | 陳祈睿 | 
+| 139 | [Heo Youngrak](./player-games-md/md/Heo Youngrak.md) | 3144 | 15 | 許栄珞 | 
+| 140 | [Ueno Asami](./player-games-md/md/Ueno Asami.md) | 3138 | 45 | 上野愛咲美 | 
+| 141 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3135 | 22 | 大竹優 | 
+| 142 | [Xiao Zhenghao](./player-games-md/md/Xiao Zhenghao.md) | 3128 | 31 | 蕭正浩 | 
 | 143 | [Park Jinyoung](./player-games-md/md/Park Jinyoung.md) | 3125 | 17 | 朴鎭鍈 | 
 | 144 | [Gang Woohyeok](./player-games-md/md/Gang Woohyeok.md) | 3125 | 19 | 康又赫 | 
-| 145 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3122 | 13 | 依田紀基 | 
-| 146 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3118 | 13 | 志田達哉 | 
-| 147 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3111 | 22 | 本木克弥 | 
+| 145 | [Fujisawa Rina](./player-games-md/md/Fujisawa Rina.md) | 3125 | 31 | 藤沢里菜 | 
+| 146 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3122 | 13 | 依田紀基 | 
+| 147 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3114 | 22 | 本木克弥 | 
 | 148 | [Lin Lixiang](./player-games-md/md/Lin Lixiang.md) | 3111 | 58 | 林立祥 | 
-| 149 | [Ida Atsushi](./player-games-md/md/Ida Atsushi.md) | 3106 | 17 | 伊田篤史 | 
+| 149 | [Ida Atsushi](./player-games-md/md/Ida Atsushi.md) | 3108 | 17 | 伊田篤史 | 
 | 150 | [Han Sangcho](./player-games-md/md/Han Sangcho.md) | 3094 | 15 | 韓相朝 | 
-| 151 | [Seki Kotaro](./player-games-md/md/Seki Kotaro.md) | 3090 | 16 | 関航太郎 | 
+| 151 | [Seki Kotaro](./player-games-md/md/Seki Kotaro.md) | 3091 | 16 | 関航太郎 | 
 | 152 | [Kim Sedong](./player-games-md/md/Kim Sedong.md) | 3086 | 25 | 金世東 | 
 | 153 | [Lee Yeon](./player-games-md/md/Lee Yeon.md) | 3085 | 19 | 李沇 | 
 | 154 | [Li Wei](./player-games-md/md/Li Wei.md) | 3079 | 43 | 李維 | 
 | 155 | [Fang Ruoxi](./player-games-md/md/Fang Ruoxi.md) | 3073 | 17 | 方若曦 | 
 | 156 | [Lin Shixun](./player-games-md/md/Lin Shixun.md) | 3073 | 72 | 林士勛 | 
 | 157 | [Li He](./player-games-md/md/Li He.md) | 3069 | 17 | 李赫 | 
-| 158 | [Chen Shiyuan](./player-games-md/md/Chen Shiyuan.md) | 3060 | 55 | 陳詩淵 | 
+| 158 | [Chen Shiyuan](./player-games-md/md/Chen Shiyuan.md) | 3059 | 55 | 陳詩淵 | 
 | 159 | [Kim Seongji](./player-games-md/md/Kim Seongji.md) | 3058 | 14 | 金宣圻 | 
 | 160 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3048 | 58 | 呉侑珍 | 
 | 161 | [Choi Kihoon](./player-games-md/md/Choi Kihoon.md) | 3045 | 13 | 崔基勲 | 
 | 162 | [Kim Yoonyoung](./player-games-md/md/Kim Yoonyoung.md) | 3043 | 26 | 金侖映 | 
 | 163 | [Lu Minquan](./player-games-md/md/Lu Minquan.md) | 3042 | 14 | 陸敏全 | 
-| 164 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 3041 | 17 | 金恵敏 | 
+| 164 | [Kim Hyeoimin](./player-games-md/md/Kim Hyeoimin.md) | 3040 | 17 | 金恵敏 | 
 | 165 | [Cho Seungah](./player-games-md/md/Cho Seungah.md) | 3039 | 53 | 曺承亜 | 
 | 166 | [Wang Chuxuan](./player-games-md/md/Wang Chuxuan.md) | 3024 | 14 | 王楚軒 | 
-| 167 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3005 | 16 | 孫喆 | 
+| 167 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3006 | 16 | 孫喆 | 
 | 168 | [Kim Beomseo](./player-games-md/md/Kim Beomseo.md) | 3002 | 21 | 金凡瑞 | 
 | 169 | [Jian Jingting](./player-games-md/md/Jian Jingting.md) | 3000 | 47 | 簡靖庭 | 
-| 170 | [Hane Naoki](./player-games-md/md/Hane Naoki.md) | 2996 | 23 | 羽根直樹 | 
+| 170 | [Hane Naoki](./player-games-md/md/Hane Naoki.md) | 2998 | 23 | 羽根直樹 | 
 | 171 | [Nishi Takenobu](./player-games-md/md/Nishi Takenobu.md) | 2991 | 14 | 西健伸 | 
 | 172 | [Wang Shuo](./player-games-md/md/Wang Shuo.md) | 2990 | 13 | 王碩 | 
 | 173 | [Gueon Hyojin](./player-games-md/md/Gueon Hyojin.md) | 2990 | 47 | 権孝珍 | 
 | 174 | [Oh Jeonga](./player-games-md/md/Oh Jeonga.md) | 2975 | 38 | 呉政娥 | 
 | 175 | [Wang Chenxing](./player-games-md/md/Wang Chenxing.md) | 2974 | 15 | 王晨星 | 
 | 176 | [Lu Yiquan](./player-games-md/md/Lu Yiquan.md) | 2972 | 52 | 盧奕銓 | 
-| 177 | [Seto Taiki](./player-games-md/md/Seto Taiki.md) | 2970 | 13 | 瀬戸大樹 | 
+| 177 | [Seto Taiki](./player-games-md/md/Seto Taiki.md) | 2971 | 13 | 瀬戸大樹 | 
 | 178 | [Gon Jiwoo](./player-games-md/md/Gon Jiwoo.md) | 2967 | 14 | 琴沚玗 | 
 | 179 | [Kim Seungjun](./player-games-md/md/Kim Seungjun.md) | 2966 | 35 | 金承俊 | 
 | 180 | [Nakamura Sumire](./player-games-md/md/Nakamura Sumire.md) | 2961 | 40 | 仲邑菫 | 
-| 181 | [](./player-games-md/md/.md) | 2957 | 14 | 呉柏毅 | 
+| 181 | [](./player-games-md/md/.md) | 2958 | 14 | 呉柏毅 | 
 | 182 | [Kim Hyoyoung](./player-games-md/md/Kim Hyoyoung.md) | 2951 | 23 | 金孝英 | 
 | 183 | [Heo Seohyun](./player-games-md/md/Heo Seohyun.md) | 2950 | 43 | 許瑞玹 | 
 | 184 | [Watanabe Kandai](./player-games-md/md/Watanabe Kandai.md) | 2937 | 16 | 渡辺寛大 | 
@@ -232,23 +232,23 @@ Note that players with fewer than 13 games are not in the list
 | 191 | [Chen Weiting](./player-games-md/md/Chen Weiting.md) | 2912 | 38 | 陳威廷 | 
 | 192 | [Kim Dayoung](./player-games-md/md/Kim Dayoung.md) | 2912 | 33 | 金多瑛 | 
 | 193 | [Lin Shuyang](./player-games-md/md/Lin Shuyang.md) | 2910 | 31 | 林書陽 | 
-| 194 | [](./player-games-md/md/.md) | 2904 | 13 | 元齊焄 | 
+| 194 | [](./player-games-md/md/.md) | 2905 | 13 | 元齊焄 | 
 | 195 | [Rui Naiwei](./player-games-md/md/Rui Naiwei.md) | 2904 | 15 | 芮廼偉 | 
-| 196 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2893 | 25 | 牛栄子 | 
-| 197 | [Hong Seokui](./player-games-md/md/Hong Seokui.md) | 2892 | 14 | 洪爽義 | 
+| 196 | [Hong Seokui](./player-games-md/md/Hong Seokui.md) | 2895 | 14 | 洪爽義 | 
+| 197 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2893 | 25 | 牛栄子 | 
 | 198 | [Chen Shoulian](./player-games-md/md/Chen Shoulian.md) | 2889 | 24 | 陳首廉 | 
 | 199 | [Li Xiaoxi](./player-games-md/md/Li Xiaoxi.md) | 2888 | 18 | 李小渓 | 
 | 200 | [Lin Yanchen](./player-games-md/md/Lin Yanchen.md) | 2887 | 33 | 林彦丞 | 
 | 201 | [Kim Daeyoung](./player-games-md/md/Kim Daeyoung.md) | 2882 | 13 | 金大容 | 
-| 202 | [Yuki Satoshi](./player-games-md/md/Yuki Satoshi.md) | 2873 | 20 | 結城聡 | 
+| 202 | [Yuki Satoshi](./player-games-md/md/Yuki Satoshi.md) | 2874 | 20 | 結城聡 | 
 | 203 | [Park Jiyeon](./player-games-md/md/Park Jiyeon.md) | 2870 | 38 | 朴志娟 | 
 | 204 | [Huang Shiyuan](./player-games-md/md/Huang Shiyuan.md) | 2868 | 31 | 黄世元 | 
-| 205 | [](./player-games-md/md/.md) | 2865 | 13 | 辻篤仁 | 
+| 205 | [](./player-games-md/md/.md) | 2866 | 13 | 辻篤仁 | 
 | 206 | [Seo Bongsoo](./player-games-md/md/Seo Bongsoo.md) | 2864 | 28 | 徐奉洙 | 
 | 207 | [Lee Youngjoo](./player-games-md/md/Lee Youngjoo.md) | 2858 | 25 | 李映周 | 
 | 208 | [Xu Yuqi](./player-games-md/md/Xu Yuqi.md) | 2852 | 31 | 許育祺 | 
 | 209 | [Lin Xinwei](./player-games-md/md/Lin Xinwei.md) | 2851 | 21 | 林新為 | 
-| 210 | [Niu Shite](./player-games-md/md/Niu Shite.md) | 2847 | 33 | 牛詩特 | 
+| 210 | [Niu Shite](./player-games-md/md/Niu Shite.md) | 2846 | 33 | 牛詩特 | 
 | 211 | [Lee Minjin](./player-games-md/md/Lee Minjin.md) | 2840 | 28 | 李玟眞 | 
 | 212 | [Kim Eunseon](./player-games-md/md/Kim Eunseon.md) | 2835 | 25 | 金恩善 | 
 | 213 | [Kim Soojang](./player-games-md/md/Kim Soojang.md) | 2832 | 17 | 金秀壮 | 
@@ -265,7 +265,7 @@ Note that players with fewer than 13 games are not in the list
 | 224 | [Wang Zheyu](./player-games-md/md/Wang Zheyu.md) | 2783 | 13 | 王沢宇 | 
 | 225 | [Cai Chengwei](./player-games-md/md/Cai Chengwei.md) | 2773 | 32 | 蔡丞韋 | 
 | 226 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2755 | 17 | 姜勲 | 
-| 227 | [](./player-games-md/md/.md) | 2746 | 16 | 李相勲 | 
+| 227 | [](./player-games-md/md/.md) | 2745 | 16 | 李相勲 | 
 | 228 | [](./player-games-md/md/.md) | 2733 | 26 | 荘承濬 | 
 | 229 | [Kim Kyeongeun](./player-games-md/md/Kim Kyeongeun.md) | 2729 | 30 | 金京垠 | 
 | 230 | [Zhou Pingqiang](./player-games-md/md/Zhou Pingqiang.md) | 2725 | 17 | 周平強 | 
@@ -278,24 +278,24 @@ Note that players with fewer than 13 games are not in the list
 | 237 | [Chang Suyeong](./player-games-md/md/Chang Suyeong.md) | 2666 | 14 | 張秀英 | 
 | 238 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2638 | 15 | 白成豪 | 
 | 239 | [](./player-games-md/md/.md) | 2638 | 29 | 陳劭全 | 
-| 240 | [Suzuki Ayumi](./player-games-md/md/Suzuki Ayumi.md) | 2636 | 20 | 鈴木歩 | 
+| 240 | [Suzuki Ayumi](./player-games-md/md/Suzuki Ayumi.md) | 2635 | 20 | 鈴木歩 | 
 | 241 | [Cho Daehyeon](./player-games-md/md/Cho Daehyeon.md) | 2625 | 14 | 趙大賢 | 
 | 242 | [Kim Kihun](./player-games-md/md/Kim Kihun.md) | 2612 | 15 | 金基憲 | 
 | 243 | [Kim Dongyeop](./player-games-md/md/Kim Dongyeop.md) | 2570 | 15 | 金東燁 | 
 | 244 | [](./player-games-md/md/.md) | 2569 | 23 | 施景尭 | 
-| 245 | [](./player-games-md/md/.md) | 2568 | 25 | 林瀚彰 | 
+| 245 | [](./player-games-md/md/.md) | 2567 | 25 | 林瀚彰 | 
 | 246 | [](./player-games-md/md/.md) | 2555 | 13 | 黄偉 | 
 | 247 | [](./player-games-md/md/.md) | 2543 | 18 | 張庭維 | 
 | 248 | [Zeng Pinjie](./player-games-md/md/Zeng Pinjie.md) | 2530 | 22 | 曾品傑 | 
-| 249 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2508 | 13 | 林宇翔 | 
-| 250 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2462 | 16 | 鄭大相 | 
+| 249 | [Lin Yuxiang](./player-games-md/md/Lin Yuxiang.md) | 2507 | 13 | 林宇翔 | 
+| 250 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2461 | 16 | 鄭大相 | 
 | 251 | [Yu Lijun](./player-games-md/md/Yu Lijun.md) | 2458 | 25 | 兪俐均 | 
 | 252 | [](./player-games-md/md/.md) | 2455 | 25 | 黄袖圃 | 
 | 253 | [Su Shengfang](./player-games-md/md/Su Shengfang.md) | 2433 | 26 | 蘇聖芳 | 
 | 254 | [](./player-games-md/md/.md) | 2425 | 24 | 孫偉勛 | 
 | 255 | [Bai Xinhui](./player-games-md/md/Bai Xinhui.md) | 2418 | 21 | 白昕卉 | 
 | 256 | [Zhou Keping](./player-games-md/md/Zhou Keping.md) | 2376 | 13 | 周可平 | 
-| 257 | [](./player-games-md/md/.md) | 2286 | 23 | 尤浩宇 | 
+| 257 | [](./player-games-md/md/.md) | 2285 | 23 | 尤浩宇 | 
 | 258 | [Lin Yuting](./player-games-md/md/Lin Yuting.md) | 2267 | 23 | 林鈺娗 | 
 | 259 | [Ding Shaojie](./player-games-md/md/Ding Shaojie.md) | 2263 | 17 | 丁少傑 | 
 | 260 | [Liu Yifang](./player-games-md/md/Liu Yifang.md) | 2051 | 18 | 劉一芳 |

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-15 | 第48期天元戦挑戦手合五番勝負第5局  | Seki Kotaro | Ida Atsushi | Win | B+0.5 | 6.5 | 3090 | 1 | 
 | 2022-12-08 | 第48期棋聖戦予選 |  | Seki Kotaro | Win | W+R | 6.5 | 3089 | -53 | 
 | 2022-12-01 | 第48期天元戦挑戦手合五番勝負第4局  | Ida Atsushi | Seki Kotaro | Win | W+R | 6.5 | 3142 | -39 | 
 | 2022-11-24 | 第2回テイケイ杯俊英戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3181 | 50 | 
@@ -33,25 +34,25 @@
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Win | B+R | 6.5 | 3126 | 117 | 
 | 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3009 | 104 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Lose | B+13.5 | 6.5 | 2905 | -97 | 
-| 2021-11-20 | 第16回広島アルミ杯・若鯉戦2回戦  | Ueno Risa | Seki Kotaro | Win | W+R | 6.5 | 3002 | 25 | 
-| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Lose | W+R | 6.5 | 2977 | -22 | 
-| 2021-10-21 | 第47期碁聖戦予選 | Suzuki Shinji | Seki Kotaro | Lose | B+7.5 | 6.5 | 2999 | -76 | 
-| 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3075 | 92 | 
+| 2021-11-20 | 第16回広島アルミ杯・若鯉戦2回戦  | Ueno Risa | Seki Kotaro | Win | W+R | 6.5 | 3002 | 24 | 
+| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Lose | W+R | 6.5 | 2978 | -21 | 
+| 2021-10-21 | 第47期碁聖戦予選 | Suzuki Shinji | Seki Kotaro | Lose | B+7.5 | 6.5 | 2999 | -77 | 
+| 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3076 | 93 | 
 | 2021-09-09 | 第47期天元戦挑戦者決定戦 | Shibano Toramaru | Seki Kotaro | Win | W+R | 6.5 | 2983 | 48 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Lose | W+R | 6.5 | 2935 | -48 | 
-| 2021-08-19 | 第60期十段戦予選 | Yuki Satoshi | Seki Kotaro | Lose | B+R | 6.5 | 2983 | -104 | 
-| 2021-06-17 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Adachi Toshimasa | Seki Kotaro | Lose | B+R | 6.5 | 3087 | 7 | 
-| 2021-06-14 | 第60期十段戦予選 | Yashiro Kumiko | Seki Kotaro | Win | W+R | 6.5 | 3080 | 32 | 
+| 2021-08-19 | 第60期十段戦予選 | Yuki Satoshi | Seki Kotaro | Lose | B+R | 6.5 | 2983 | -105 | 
+| 2021-06-17 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Adachi Toshimasa | Seki Kotaro | Lose | B+R | 6.5 | 3088 | 7 | 
+| 2021-06-14 | 第60期十段戦予選 | Yashiro Kumiko | Seki Kotaro | Win | W+R | 6.5 | 3081 | 33 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Win | B+R | 6.5 | 3048 | 142 | 
 | 2021-01-07 | 第69期王座戦予選 | Seki Kotaro | Cho Chikun | Lose | W+3.5 | 6.5 | 2906 | -40 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Seki Kotaro | Lose | B+R | 6.5 | 2946 | -64 | 
 | 2020-10-16 | 第45期新人王戦決勝三番勝負第3局  | Sada Atsushi | Seki Kotaro | Win | W+R | 6.5 | 3010 | 24 | 
 | 2020-09-28 | 第45期新人王戦決勝三番勝負第2局  | Sada Atsushi | Seki Kotaro | Win | W+R | 6.5 | 2986 | 58 | 
-| 2020-09-18 | 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | Lose | W+R | 6.5 | 2928 | -59 | 
-| 2020-08-10 | 第45期新人王戦準決勝 | Seki Kotaro | Yokotsuka Riki | Win | B+0.5 | 6.5 | 2987 | 25 | 
+| 2020-09-18 | 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | Lose | W+R | 6.5 | 2928 | -60 | 
+| 2020-08-10 | 第45期新人王戦準決勝 | Seki Kotaro | Yokotsuka Riki | Win | B+0.5 | 6.5 | 2988 | 26 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Liao Yuanhe | Seki Kotaro | Lose | B+R | 6.5 | 2962 | 6 | 
-| 2020-07-09 | 第45期新人王戦3回戦 | Tsuruta Kazushi | Seki Kotaro | Win | W+R | 6.5 | 2956 | 22 | 
-| 2020-06-22 | 第45期新人王戦2回戦 | Seki Kotaro | Nishi Takenobu | Win | B+R | 6.5 | 2934 | -91 | 
+| 2020-07-09 | 第45期新人王戦3回戦 | Tsuruta Kazushi | Seki Kotaro | Win | W+R | 6.5 | 2956 | 21 | 
+| 2020-06-22 | 第45期新人王戦2回戦 | Seki Kotaro | Nishi Takenobu | Win | B+R | 6.5 | 2935 | -90 | 
 | 2020-01-30 | 第76期本因坊戦予選 | Xie Yimin | Seki Kotaro | Lose | B+5.5 | 6.5 | 3025 | -31 | 
 | 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Win | W+R | 6.5 | 3056 | 0 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | Win | B+1.5 | 6.5 | 3056 | 90 | 

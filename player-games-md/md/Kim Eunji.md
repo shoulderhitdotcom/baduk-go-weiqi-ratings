@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-15 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Ko Miso | Win | B+R | 6.5 | 3166 | 2 | 
 | 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Win | W+R | 6.5 | 3164 | -1 | 
 | 2022-12-12 | 第6期女子棋聖戦（韓国）準決勝 | Kim Yoonyoung | Kim Eunji | Win | W+R | 6.5 | 3165 | -6 | 
 | 2022-12-08 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Heo Seohyun | Lose | W+0.5 | 6.5 | 3171 | -7 | 

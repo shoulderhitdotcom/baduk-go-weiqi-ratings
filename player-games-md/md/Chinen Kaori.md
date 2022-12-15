@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-11-04 | 第1回テイケイ杯女流レジェンド戦1回戦 | Chinen Kaori | Kobayashi Chizu | Win | B+R | 6.5 | missing | 0 | 
 | 2020-11-19 | 第40期女流本因坊戦予選 |  | Chinen Kaori | Lose | B+R | 6.5 | missing | 0 | 

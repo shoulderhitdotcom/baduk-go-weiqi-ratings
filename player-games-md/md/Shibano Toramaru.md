@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-15 | 第49期天元戦予選 | Rin Kanketsu | Shibano Toramaru | Win | W+6.5 | 6.5 | 3424 | 2 | 
+| 2022-12-12 | 第78期本因坊戦リーグ | Shibano Toramaru | Otake Yu | Win | B+R | 6.5 | 3422 | -16 | 
 | 2022-12-08 | 第61期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3438 | -2 | 
 | 2022-12-01 | 第2回テイケイ杯俊英戦予選 | Shibano Toramaru | Hoshiai Shiho | Win | B+R | 6.5 | 3440 | 0 | 
 | 2022-12-01 | 第2回テイケイ杯俊英戦予選 |  | Shibano Toramaru | Win | W+R | 6.5 | 3440 | -31 | 
@@ -60,27 +62,27 @@
 | 2021-12-06 | 第60期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3367 | 9 | 
 | 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3358 | 41 | 
 | 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | W+R | 6.5 | 3317 | -11 | 
-| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3328 | 9 | 
-| 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3319 | 8 | 
+| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3328 | 8 | 
+| 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3320 | 9 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3311 | 11 | 
 | 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3300 | -16 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3316 | -12 | 
 | 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Win | W+R | 6.5 | 3328 | 38 | 
-| 2021-10-11 | 第23回農心辛ラーメン杯世界囲碁最強戦第1戦  | Weon Seongjin | Shibano Toramaru | Lose | B+R | 6.5 | 3290 | -14 | 
-| 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Lose | W+R | 6.5 | 3304 | -12 | 
-| 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Win | B+2.5 | 6.5 | 3316 | 11 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Yichun | Shibano Toramaru | Win | W+R | 7.5 | 3305 | 7 | 
+| 2021-10-11 | 第23回農心辛ラーメン杯世界囲碁最強戦第1戦  | Weon Seongjin | Shibano Toramaru | Lose | B+R | 6.5 | 3290 | -15 | 
+| 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Lose | W+R | 6.5 | 3305 | -12 | 
+| 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Win | B+2.5 | 6.5 | 3317 | 11 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Yichun | Shibano Toramaru | Win | W+R | 7.5 | 3306 | 8 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Lose | W+R | 7.5 | 3298 | -54 | 
-| 2021-09-09 | 第47期天元戦挑戦者決定戦 | Shibano Toramaru | Seki Kotaro | Lose | W+R | 6.5 | 3352 | 12 | 
-| 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3340 | -17 | 
+| 2021-09-09 | 第47期天元戦挑戦者決定戦 | Shibano Toramaru | Seki Kotaro | Lose | W+R | 6.5 | 3352 | 11 | 
+| 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3341 | -16 | 
 | 2021-08-06 | 第46期名人戦リーグ | Anzai Nobuaki | Shibano Toramaru | Lose | B+R | 6.5 | 3357 | 17 | 
 | 2021-07-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Shibano Toramaru | Win | W+R | 6.5 | 3340 | 9 | 
 | 2021-07-12 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Shibano Toramaru | Lose | B+R | 6.5 | 3331 | -3 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3334 | -7 | 
 | 2021-06-30 | 第76期本因坊戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3341 | -3 | 
-| 2021-06-22 | 第76期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3344 | -6 | 
-| 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Win | W+3.5 | 6.5 | 3350 | 23 | 
-| 2021-06-11 | 第76期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3327 | 2 | 
+| 2021-06-22 | 第76期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3344 | -7 | 
+| 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Win | W+3.5 | 6.5 | 3351 | 23 | 
+| 2021-06-11 | 第76期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3328 | 3 | 
 | 2021-06-07 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Cho U | Lose | W+R | 6.5 | 3325 | 1 | 
 | 2021-06-02 | 第76期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3324 | 17 | 
 | 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Lose | W+R | 6.5 | 3307 | -14 | 
@@ -91,9 +93,9 @@
 | 2021-04-28 | 第59期十段戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3303 | -6 | 
 | 2021-04-23 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3309 | 2 | 
 | 2021-04-20 | 第59期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3307 | 50 | 
-| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Win | W+R | 6.5 | 3257 | 1 | 
-| 2021-04-08 | 第59期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+4.5 | 6.5 | 3256 | -7 | 
-| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3263 | 15 | 
+| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Win | W+R | 6.5 | 3257 | 0 | 
+| 2021-04-08 | 第59期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+4.5 | 6.5 | 3257 | -7 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3264 | 16 | 
 | 2021-03-24 | 第59期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3248 | -5 | 
 | 2021-03-18 | 第76期本因坊戦リーグ | Ko Iso | Shibano Toramaru | Win | W+R | 6.5 | 3253 | -4 | 
 | 2021-03-11 | 第46期名人戦リーグ | Kono Rin | Shibano Toramaru | Win | W+1.5 | 6.5 | 3257 | 12 | 
@@ -101,8 +103,8 @@
 | 2021-03-02 | 第59期十段戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3236 | -19 | 
 | 2021-02-22 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 3255 | 0 | 
 | 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Lose | W+R | 6.5 | 3255 | 28 | 
-| 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3227 | 21 | 
-| 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3206 | -47 | 
+| 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3227 | 20 | 
+| 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3207 | -46 | 
 | 2021-01-14 | 第76期本因坊戦リーグ  | Shibano Toramaru | Tsuruyama Atsushi | Win | B+R | 6.5 | 3253 | 11 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Lose | B+R | 7.5 | 3242 | -13 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ  | Shibano Toramaru | Gu Zihao | Lose | W+1¼ | 7.5 | 3255 | -24 | 
@@ -127,12 +129,12 @@
 | 2020-09-19 | 第45期棋聖戦Bリーグプレーオフ | Shibano Toramaru | Mutsuura Yuta | Win | B+3.5 | 6.5 | 3424 | 0 | 
 | 2020-09-16 | 第45期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3424 | -12 | 
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shibano Toramaru | Yang Dingxin | Lose | W+5 | 7.5 | 3436 | -1 | 
-| 2020-09-03 | 第45期棋聖戦Bリーグ | Yamada Kimio | Shibano Toramaru | Win | W+R | 6.5 | 3437 | 2 | 
-| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3435 | -11 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節  | Chen Yaoye | Shibano Toramaru | Lose | B+R | 7.5 | 3446 | -3 | 
-| 2020-08-26 | 第45期名人戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+1.5 | 6.5 | 3449 | -53 | 
-| 2020-08-20 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Fujita Akihiko | Win | B+R | 6.5 | 3502 | 15 | 
-| 2020-08-12 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3487 | -35 | 
+| 2020-09-03 | 第45期棋聖戦Bリーグ | Yamada Kimio | Shibano Toramaru | Win | W+R | 6.5 | 3437 | 1 | 
+| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3436 | -11 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節  | Chen Yaoye | Shibano Toramaru | Lose | B+R | 7.5 | 3447 | -2 | 
+| 2020-08-26 | 第45期名人戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+1.5 | 6.5 | 3449 | -54 | 
+| 2020-08-20 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Fujita Akihiko | Win | B+R | 6.5 | 3503 | 15 | 
+| 2020-08-12 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3488 | -34 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Shibano Toramaru | Lian Xiao | Lose | W+R | 7.5 | 3522 | 13 | 
 | 2020-07-23 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Tsuruyama Atsushi | Win | B+R | 6.5 | 3509 | 3 | 
 | 2020-07-16 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Shibano Toramaru | Akiyama Jiro | Win | B+1.5 | 6.5 | 3506 | -7 | 
@@ -146,9 +148,9 @@
 | 2020-06-03 | 第75期本因坊戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3468 | -16 | 
 | 2020-04-17 | 日台交流戦第2戦 | Shibano Toramaru | Lin Junyan | Lose | W+0.5 | 6.5 | 3484 | -15 | 
 | 2020-04-06 | 第75期本因坊戦リーグプレーオフ  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3499 | -1 | 
-| 2020-04-03 | 第75期本因坊戦リーグ  | Yokotsuka Riki | Shibano Toramaru | Win | W+3.5 | 6.5 | 3500 | 7 | 
-| 2020-03-26 | 第58期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Murakawa Daisuke | Lose | W+2.5 | 6.5 | 3493 | -9 | 
-| 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Win | W+0.5 | 6.5 | 3502 | 11 | 
+| 2020-04-03 | 第75期本因坊戦リーグ  | Yokotsuka Riki | Shibano Toramaru | Win | W+3.5 | 6.5 | 3500 | 6 | 
+| 2020-03-26 | 第58期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Murakawa Daisuke | Lose | W+2.5 | 6.5 | 3494 | -9 | 
+| 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Win | W+0.5 | 6.5 | 3503 | 12 | 
 | 2020-03-19 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Shibano Toramaru | Win | W+R | 6.5 | 3491 | 5 | 
 | 2020-03-03 | 第58期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Shibano Toramaru | Win | W+3.5 | 6.5 | 3486 | 24 | 
 | 2020-02-13 | 第75期本因坊戦リーグ | Shibano Toramaru | Shida Tatsuya | Win | B+1.5 | 6.5 | 3462 | -14 | 

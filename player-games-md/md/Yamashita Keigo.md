@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-15 | 第48期棋聖戦予選 | Yamashita Keigo | Koyama Kuya | Lose | W+7.5 | 6.5 | 3248 | -93 | 
+| 2022-12-15 | 第71期王座戦予選 | Yamashita Keigo | Koyama Kuya | Lose | W+7.5 | 6.5 | 3248 | -93 | 
 | 2022-11-21 | 第47期棋聖戦挑戦者決定戦第2局  | Shibano Toramaru | Yamashita Keigo | Lose | B+R | 6.5 | 3341 | -7 | 
 | 2022-11-18 | 第47期棋聖戦挑戦者決定戦第1局  | Yamashita Keigo | Shibano Toramaru | Win | B+R | 6.5 | 3348 | -9 | 
 | 2022-10-27 | 第47期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3357 | 32 | 

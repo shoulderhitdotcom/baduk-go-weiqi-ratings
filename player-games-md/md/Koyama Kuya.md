@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-15 | 第48期棋聖戦予選 | Yamashita Keigo | Koyama Kuya | Win | W+7.5 | 6.5 | 3163 | 52 | 
+| 2022-12-15 | 第71期王座戦予選 | Yamashita Keigo | Koyama Kuya | Win | W+7.5 | 6.5 | 3163 | 52 | 
 | 2022-11-26 | 第17回広島アルミ杯・若鯉戦2回戦  | Koyama Kuya | Fujisawa Rina | Win | B+R | 6.5 | 3111 | -7 | 
 | 2022-07-28 | 第61期十段戦予選 | Anzai Nobuaki | Koyama Kuya | Lose | B+0.5 | 6.5 | 3118 | 30 | 
 | 2022-07-04 | 第48期名人戦予選  | Nakamura Sumire | Koyama Kuya | Win | W+8.5 | 6.5 | 3088 | -63 | 

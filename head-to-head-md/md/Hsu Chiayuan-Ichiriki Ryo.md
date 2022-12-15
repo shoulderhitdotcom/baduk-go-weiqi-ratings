@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Ichiriki Ryo** | **Hsu Chiayuan Streak** | **Ichiriki Ryo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-15 | 第78期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | B+R | 6.5 | 2:12 | 0 | 3 | 
 | 2022-07-21 | 第47期名人戦リーグ  | Ichiriki Ryo | Hsu Chiayuan | B+R | 6.5 | 2:11 | 0 | 2 | 
 | 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | W+R | 6.5 | 2:10 | 0 | 1 | 
 | 2021-03-11 | 第76期本因坊戦リーグ  | Hsu Chiayuan | Ichiriki Ryo | B+R | 6.5 | 2:9 | 1 | 0 | 

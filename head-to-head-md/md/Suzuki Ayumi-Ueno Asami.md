@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Suzuki Ayumi Vs Ueno Asami** | **Suzuki Ayumi Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-01 | 第34期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | W+R | 6.5 | 4:11 | 0 | 7 | 
 | 2022-07-25 | 第41期女流本因坊戦3回戦  | Suzuki Ayumi | Ueno Asami | W+R | 6.5 | 4:10 | 0 | 6 | 
 | 2022-06-30 | 第7回扇興杯女流最強戦2回戦  | Ueno Asami | Suzuki Ayumi | B+R | 6.5 | 4:9 | 0 | 5 | 
 | 2022-04-04 | 第33期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | W+R | 6.5 | 4:8 | 0 | 4 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kobayashi Koichi vs Koyama Kuya** | **Kobayashi Koichi streak** | **Koyama Kuya streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kobayashi Koichi Vs Koyama Kuya** | **Kobayashi Koichi Streak** | **Koyama Kuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2014-05-22 | 第40期名人戦予選 | Koyama Kuya | Kobayashi Koichi | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Ueno Asami** | **Fujisawa Rina Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-04 | 第41期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | B+0.5 | 6.5 | 19:9 | 3 | 0 | 
+| 2022-10-23 | 第41期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 18:9 | 2 | 0 | 
 | 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | B+R | 6.5 | 17:9 | 1 | 0 | 
 | 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | W+R | 6.5 | 16:9 | 0 | 1 | 
 | 2022-06-20 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 16:8 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Chikun vs Murakawa Daisuke** | **Cho Chikun streak** | **Murakawa Daisuke streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Chikun Vs Murakawa Daisuke** | **Cho Chikun Streak** | **Murakawa Daisuke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-09-06 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | B+R | 6.5 | 4:4 | 0 | 1 | 
 | 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | W+R | 6.5 | 4:3 | 1 | 0 | 

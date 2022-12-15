@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kunisawa Hiroto vs Yu Zhengqi** | **Kunisawa Hiroto streak** | **Yu Zhengqi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kunisawa Hiroto Vs Yu Zhengqi** | **Kunisawa Hiroto Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-11-25 | 第47期天元戦予選 | Yu Zhengqi | Kunisawa Hiroto | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Murakawa Daisuke** | **Iyama Yuta Streak** | **Murakawa Daisuke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-11 | 関西囲碁オープントーナメント2022トップクラス決勝  | Murakawa Daisuke | Iyama Yuta | B+0.5 | 6.5 | 21:6 | 0 | 1 | 
 | 2022-09-01 | 第47期棋聖戦Sリーグ | Iyama Yuta | Murakawa Daisuke | B+1.5 | 6.5 | 21:5 | 4 | 0 | 
 | 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | W+R | 6.5 | 20:5 | 3 | 0 | 
 | 2020-11-12 | 第1回関西囲碁オープントーナメントトップクラス決勝  | Murakawa Daisuke | Iyama Yuta | W+R | 6.5 | 19:5 | 2 | 0 | 

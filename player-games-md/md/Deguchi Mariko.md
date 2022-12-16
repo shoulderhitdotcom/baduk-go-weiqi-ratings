@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第40期女流本因坊戦予選 | Deguchi Mariko | missing | W+R | 2021-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKqVzq4nLxL9YemRcKMOKQ%3D%3D) | 
 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Deguchi Mariko | Muramatsu Hiroki | W+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0alC5uo24H0MUXeEFTA3uQ%3D%3D) | 

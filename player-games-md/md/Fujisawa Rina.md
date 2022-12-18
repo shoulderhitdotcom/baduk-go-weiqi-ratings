@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Fujisawa Rina |  | Win | B+R | 6.5 | 3130 | 3 | 
+| 2022-12-18 | 第2回テイケイ杯俊英戦Bリーグ | Seki Kotaro | Fujisawa Rina | Lose | B+R | 6.5 | 3115 | -15 | 
+| 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Fujisawa Rina | Muramoto Wataru | Win | B+R | 6.5 | 3130 | 3 | 
 | 2022-12-15 | 第61期十段戦3回戦 | Yu Zhengqi | Fujisawa Rina | Lose | B+R | 6.5 | 3127 | -7 | 
 | 2022-12-12 | 第49期天元戦予選 | Fujisawa Rina | Suzuki Yoshimichi | Win | B+R | 6.5 | 3134 | -14 | 
 | 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Lose | B+R | 6.5 | 3148 | -2 | 

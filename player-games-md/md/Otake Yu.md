@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Otake Yu | Win | W+R | 6.5 | 3176 | 0 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Fukuoka Kotaro | Otake Yu | Win | W+R | 6.5 | 3176 | 1 | 
 | 2022-12-12 | 第78期本因坊戦リーグ | Shibano Toramaru | Otake Yu | Lose | B+R | 6.5 | 3175 | -11 | 
 | 2022-11-26 | 第17回広島アルミ杯・若鯉戦2回戦  | Ueno Risa | Otake Yu | Win | W+R | 6.5 | 3186 | 0 | 

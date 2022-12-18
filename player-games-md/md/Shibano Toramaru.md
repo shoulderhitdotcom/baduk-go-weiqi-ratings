@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Shibano Toramaru | Fukuoka Kotaro | Win | B+R | 6.5 | 3442 | 7 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Shibano Toramaru | Win | W+R | 6.5 | 3435 | 10 | 
 | 2022-12-15 | 第49期天元戦予選 | Rin Kanketsu | Shibano Toramaru | Win | W+6.5 | 6.5 | 3425 | 2 | 
 | 2022-12-12 | 第78期本因坊戦リーグ | Shibano Toramaru | Otake Yu | Win | B+R | 6.5 | 3423 | -16 | 

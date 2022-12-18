@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Shibano Toramaru | Fukuoka Kotaro | Lose | B+R | 6.5 | 3117 | -16 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Fukuoka Kotaro | Otake Yu | Lose | W+R | 6.5 | 3133 | -45 | 
 | 2022-11-24 | 第49期天元戦予選 | Fukuoka Kotaro | Cho Sonjin | Win | B+3.5 | 6.5 | 3178 | 0 | 
 | 2022-11-17 | 第71期王座戦予選 | Fukuoka Kotaro |  | Win | B+R | 6.5 | 3178 | -97 | 

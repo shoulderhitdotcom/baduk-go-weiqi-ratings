@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Bリーグ | Seki Kotaro | Fujisawa Rina | Win | B+R | 6.5 | 3124 | 37 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo | Seki Kotaro | Lose | B+R | 6.5 | 3087 | -4 | 
 | 2022-12-15 | 第48期天元戦挑戦手合五番勝負第5局  | Seki Kotaro | Ida Atsushi | Win | B+0.5 | 6.5 | 3091 | 1 | 
 | 2022-12-08 | 第48期棋聖戦予選 |  | Seki Kotaro | Win | W+R | 6.5 | 3090 | -53 | 

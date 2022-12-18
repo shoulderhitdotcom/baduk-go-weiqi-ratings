@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Bリーグ |  | Ichiriki Ryo | Win | W+R | 6.5 | 3407 | 5 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo | Seki Kotaro | Win | B+R | 6.5 | 3402 | 9 | 
 | 2022-12-15 | 第78期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | Win | B+R | 6.5 | 3393 | 12 | 
 | 2022-12-01 | 第61期十段戦3回戦 | Adachi Toshimasa | Ichiriki Ryo | Win | W+R | 6.5 | 3381 | -17 | 

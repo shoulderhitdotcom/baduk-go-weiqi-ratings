@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Nishi Takenobu | Lose | W+R | 6.5 | 3194 | -32 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Shibano Toramaru | Lose | W+R | 6.5 | 3226 | -16 | 
 | 2022-12-12 | 第49期天元戦予選 | Sakai Yuki | Cho U | Lose | W+R | 6.5 | 3242 | 24 | 
 | 2022-12-05 | 第71期王座戦予選 | Sakai Yuki | Fujisawa Rina | Win | B+R | 6.5 | 3218 | -21 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Xu Haohong** | **Chen Qirui Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-20 | 第18期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Qirui | Xu Haohong | W+R | 6.5 | 9:16 | 0 | 4 | 
 | 2022-12-09 | 第18期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Chen Qirui | B+R | 6.5 | 9:15 | 0 | 3 | 
 | 2022-12-07 | 第18期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Qirui | Xu Haohong | W+R | 6.5 | 9:14 | 0 | 2 | 
 | 2022-08-30 | 第3期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | W+R | 6.5 | 9:13 | 0 | 1 | 

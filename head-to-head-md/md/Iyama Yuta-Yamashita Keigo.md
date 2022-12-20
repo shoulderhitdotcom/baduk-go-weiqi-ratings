@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Yamashita Keigo** | **Iyama Yuta Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-19 | 第48期名人戦リーグ  | Iyama Yuta | Yamashita Keigo | B+R | 6.5 | 50:20 | 9 | 0 | 
 | 2020-10-03 | 第27期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Yamashita Keigo | B+R | 6.5 | 49:20 | 8 | 0 | 
 | 2020-01-16 | 第45期名人戦リーグ | Iyama Yuta | Yamashita Keigo | B+R | 6.5 | 48:20 | 7 | 0 | 
 | 2019-05-16 | 第44期名人戦リーグ | Yamashita Keigo | Iyama Yuta | W+R | 6.5 | 47:20 | 6 | 0 | 

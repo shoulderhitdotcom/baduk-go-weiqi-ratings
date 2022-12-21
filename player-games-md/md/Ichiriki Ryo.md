@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-21 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo | Muramoto Wataru | Win | B+R | 6.5 | 3412 | 0 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo |  | Win | B+R | 6.5 | 3412 | 1 | 
 | 2022-12-18 | 第2回テイケイ杯俊英戦Bリーグ |  | Ichiriki Ryo | Win | W+R | 6.5 | 3411 | 5 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo | Seki Kotaro | Win | B+R | 6.5 | 3406 | 9 | 
-| 2022-12-15 | 第78期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | Win | B+R | 6.5 | 3397 | 12 | 
-| 2022-12-01 | 第61期十段戦3回戦 | Adachi Toshimasa | Ichiriki Ryo | Win | W+R | 6.5 | 3385 | -17 | 
-| 2022-11-24 | 第78期本因坊戦リーグ | Motoki Katsuya | Ichiriki Ryo | Win | W+R | 6.5 | 3402 | -3 | 
-| 2022-11-17 | 第2回テイケイ杯俊英戦予選 | Ichiriki Ryo |  | Win | B+R | 6.5 | 3405 | -20 | 
-| 2022-11-10 | 第61期十段戦2回戦 | Murakawa Daisuke | Ichiriki Ryo | Win | W+2.5 | 6.5 | 3425 | -30 | 
-| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦  | Ichiriki Ryo | Choi Jeong | Lose | W+R | 6.5 | 3455 | 0 | 
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Oh Yujin | Ichiriki Ryo | Win | W+R | 6.5 | 3455 | 19 | 
+| 2022-12-15 | 第78期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | Win | B+R | 6.5 | 3397 | 13 | 
+| 2022-12-01 | 第61期十段戦3回戦 | Adachi Toshimasa | Ichiriki Ryo | Win | W+R | 6.5 | 3384 | -17 | 
+| 2022-11-24 | 第78期本因坊戦リーグ | Motoki Katsuya | Ichiriki Ryo | Win | W+R | 6.5 | 3401 | -3 | 
+| 2022-11-17 | 第2回テイケイ杯俊英戦予選 | Ichiriki Ryo |  | Win | B+R | 6.5 | 3404 | -21 | 
+| 2022-11-10 | 第61期十段戦2回戦 | Murakawa Daisuke | Ichiriki Ryo | Win | W+2.5 | 6.5 | 3425 | -29 | 
+| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦  | Ichiriki Ryo | Choi Jeong | Lose | W+R | 6.5 | 3454 | 0 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Oh Yujin | Ichiriki Ryo | Win | W+R | 6.5 | 3454 | 18 | 
 | 2022-10-20 | 第78期本因坊戦リーグ | Ichiriki Ryo | Tsuruyama Atsushi | Win | B+R | 6.5 | 3436 | 5 | 
 | 2022-10-11 | 第24回農心辛ラーメン杯世界囲碁最強戦第1戦  | Ichiriki Ryo | Fan Tingyu | Lose | W+R | 6.5 | 3431 | 38 | 
 | 2022-09-01 | 第61期十段戦予選 | Yokotsuka Riki | Ichiriki Ryo | Win | W+R | 6.5 | 3393 | 9 | 
@@ -38,8 +39,8 @@
 | 2022-05-16 | 第47期碁聖戦挑戦者決定戦  | Ichiriki Ryo | Yu Zhengqi | Win | B+R | 6.5 | 3478 | 1 | 
 | 2022-05-11 | 第77期本因坊戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Lose | B+0.5 | 6.5 | 3477 | 2 | 
 | 2022-05-05 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Hong Seokui | Win | B+R | 6.5 | 3475 | 1 | 
-| 2022-04-21 | 第47期名人戦リーグ  | Ichiriki Ryo | Yamashita Keigo | Win | B+R | 6.5 | 3474 | -24 | 
-| 2022-04-04 | 第77期本因坊戦挑戦者決定プレーオフ  | Yu Zhengqi | Ichiriki Ryo | Win | W+R | 6.5 | 3498 | 0 | 
+| 2022-04-21 | 第47期名人戦リーグ  | Ichiriki Ryo | Yamashita Keigo | Win | B+R | 6.5 | 3474 | -23 | 
+| 2022-04-04 | 第77期本因坊戦挑戦者決定プレーオフ  | Yu Zhengqi | Ichiriki Ryo | Win | W+R | 6.5 | 3497 | -1 | 
 | 2022-03-31 | 第77期本因坊戦リーグ  | Ichiriki Ryo | Sada Atsushi | Win | B+R | 6.5 | 3498 | 2 | 
 | 2022-03-26 | 第77期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3496 | -19 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ichiriki Ryo | Byun Sangil | Lose | W+R | 7.5 | 3515 | -3 | 
@@ -57,11 +58,11 @@
 | 2022-01-17 | 第47期名人戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Lose | W+R | 6.5 | 3528 | -11 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ichiriki Ryo | Tuo Jiaxi | Win | B+R | 7.5 | 3539 | 18 | 
 | 2022-01-14 | 第46期棋聖戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3521 | 58 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ  | Ueno Asami | Ichiriki Ryo | Win | W+R | 6.5 | 3463 | 2 | 
-| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Lose | B+R | 6.5 | 3461 | -11 | 
-| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Koyama Kuya | Win | B+R | 6.5 | 3472 | 4 | 
-| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Win | B+R | 6.5 | 3468 | -10 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ |  | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3478 | -43 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ  | Ueno Asami | Ichiriki Ryo | Win | W+R | 6.5 | 3463 | 3 | 
+| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Lose | B+R | 6.5 | 3460 | -11 | 
+| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Koyama Kuya | Win | B+R | 6.5 | 3471 | 4 | 
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Win | B+R | 6.5 | 3467 | -10 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ |  | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3477 | -44 | 
 | 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Lose | W+R | 6.5 | 3521 | 15 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Lose | B+R | 6.5 | 3506 | -6 | 
 | 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3512 | 55 | 
@@ -69,8 +70,8 @@
 | 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3464 | -1 | 
 | 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Win | W+R | 6.5 | 3465 | -12 | 
 | 2021-11-08 | 第26回LG杯朝鮮日報棋王戦3回戦  | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3477 | 0 | 
-| 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3477 | -11 | 
-| 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3488 | 22 | 
+| 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3477 | -10 | 
+| 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3487 | 21 | 
 | 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3466 | -5 | 
 | 2021-10-13 | 第46期名人戦挑戦手合七番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3471 | 8 | 
 | 2021-10-08 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3463 | -5 | 
@@ -118,8 +119,8 @@
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Ichiriki Ryo | Suzuki Shinji | Win | B+R | 6.5 | 3408 | 0 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Adachi Toshimasa | Win | B+R | 6.5 | 3408 | 30 | 
 | 2020-12-16 | 第46期天元戦挑戦手合五番勝負第5局 | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3378 | 20 | 
-| 2020-12-10 | 第76期本因坊戦リーグ | Ko Iso | Ichiriki Ryo | Win | W+R | 6.5 | 3358 | 21 | 
-| 2020-12-07 | 第46期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3337 | -9 | 
+| 2020-12-10 | 第76期本因坊戦リーグ | Ko Iso | Ichiriki Ryo | Win | W+R | 6.5 | 3358 | 22 | 
+| 2020-12-07 | 第46期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3336 | -10 | 
 | 2020-12-03 | 第46期名人戦リーグ | Ichiriki Ryo | Anzai Nobuaki | Win | B+R | 6.5 | 3346 | -20 | 
 | 2020-11-27 | 第46期天元戦挑戦手合五番勝負第3局 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3366 | -53 | 
 | 2020-11-12 | 第76期本因坊戦リーグ | Ichiriki Ryo | Tsuruyama Atsushi | Win | B+R | 6.5 | 3419 | 4 | 

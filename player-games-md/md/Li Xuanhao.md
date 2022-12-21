@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Yang Dingxin | Li Xuanhao | Win | W+R | 7.5 | 3807 | 1 | 
-| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Kim Myounghoon | Lose | W+R | 6.5 | 3806 | -1 | 
+| 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Shin Jinseo | Li Xuanhao | Win | W+R | 7.5 | 3826 | 19 | 
+| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Yang Dingxin | Li Xuanhao | Win | W+R | 7.5 | 3807 | 2 | 
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Kim Myounghoon | Lose | W+R | 6.5 | 3805 | -2 | 
 | 2022-10-12 | 第23期阿含・桐山杯中国早碁戦1回戦 | Yang Kaiwen | Li Xuanhao | Lose | B+R | 7.5 | 3807 | -15 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Jiang Weijie | Lose | W+¼ | 7.5 | 3822 | 27 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Shin Minjun | Li Xuanhao | Win | W+R | 7.5 | 3795 | 2 | 
@@ -109,8 +110,8 @@
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Lose | W+R | 7.5 | 3362 | -31 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Li Xuanhao | Lose | B+R | 7.5 | 3393 | -9 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3402 | 10 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ |  | Li Xuanhao | Win | W+R | 7.5 | 3392 | -6 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Win | B+1¾ | 7.5 | 3398 | 26 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ |  | Li Xuanhao | Win | W+R | 7.5 | 3392 | -5 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Xuanhao | Zhang Tao | Win | B+1¾ | 7.5 | 3397 | 25 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Chen Haoxin | Li Xuanhao | Win | W+R | 7.5 | 3372 | 30 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3342 | -8 | 
 | 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Li Xuanhao | Lose | B+R | 6.5 | 3350 | 4 | 

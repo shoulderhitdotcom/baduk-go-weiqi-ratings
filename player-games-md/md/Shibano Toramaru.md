@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-21 | 第2回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Otake Yu | Win | B+R | 6.5 | 3466 | 20 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Aリーグ | Nishi Takenobu | Shibano Toramaru | Win | W+R | 6.5 | 3446 | 0 | 
 | 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Shibano Toramaru | Fukuoka Kotaro | Win | B+R | 6.5 | 3446 | 7 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Shibano Toramaru | Win | W+R | 6.5 | 3439 | 10 | 
-| 2022-12-15 | 第49期天元戦予選 | Rin Kanketsu | Shibano Toramaru | Win | W+6.5 | 6.5 | 3429 | 2 | 
-| 2022-12-12 | 第78期本因坊戦リーグ | Shibano Toramaru | Otake Yu | Win | B+R | 6.5 | 3427 | -16 | 
-| 2022-12-08 | 第61期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3443 | -2 | 
-| 2022-12-01 | 第2回テイケイ杯俊英戦予選 | Shibano Toramaru | Hoshiai Shiho | Win | B+R | 6.5 | 3445 | 0 | 
-| 2022-12-01 | 第2回テイケイ杯俊英戦予選 |  | Shibano Toramaru | Win | W+R | 6.5 | 3445 | -31 | 
-| 2022-11-25 | 第24回農心辛ラーメン杯世界囲碁最強戦第5戦  | Shibano Toramaru | Kang Dongyun | Lose | W+R | 6.5 | 3476 | -16 | 
-| 2022-11-21 | 第47期棋聖戦挑戦者決定戦第2局  | Shibano Toramaru | Yamashita Keigo | Win | B+R | 6.5 | 3492 | 16 | 
-| 2022-11-18 | 第47期棋聖戦挑戦者決定戦第1局  | Yamashita Keigo | Shibano Toramaru | Lose | B+R | 6.5 | 3476 | -8 | 
+| 2022-12-15 | 第49期天元戦予選 | Rin Kanketsu | Shibano Toramaru | Win | W+6.5 | 6.5 | 3429 | 3 | 
+| 2022-12-12 | 第78期本因坊戦リーグ | Shibano Toramaru | Otake Yu | Win | B+R | 6.5 | 3426 | -16 | 
+| 2022-12-08 | 第61期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3442 | -2 | 
+| 2022-12-01 | 第2回テイケイ杯俊英戦予選 | Shibano Toramaru | Hoshiai Shiho | Win | B+R | 6.5 | 3444 | 0 | 
+| 2022-12-01 | 第2回テイケイ杯俊英戦予選 |  | Shibano Toramaru | Win | W+R | 6.5 | 3444 | -31 | 
+| 2022-11-25 | 第24回農心辛ラーメン杯世界囲碁最強戦第5戦  | Shibano Toramaru | Kang Dongyun | Lose | W+R | 6.5 | 3475 | -16 | 
+| 2022-11-21 | 第47期棋聖戦挑戦者決定戦第2局  | Shibano Toramaru | Yamashita Keigo | Win | B+R | 6.5 | 3491 | 16 | 
+| 2022-11-18 | 第47期棋聖戦挑戦者決定戦第1局  | Yamashita Keigo | Shibano Toramaru | Lose | B+R | 6.5 | 3475 | -9 | 
 | 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦  | Shibano Toramaru | Yang Dingxin | Lose | W+R | 6.5 | 3484 | -22 | 
 | 2022-11-10 | 第78期本因坊戦リーグ | Fujita Akihiko | Shibano Toramaru | Win | W+R | 6.5 | 3506 | 16 | 
 | 2022-11-07 | 第61期十段戦2回戦 | Muramatsu Hiroki | Shibano Toramaru | Win | W+R | 6.5 | 3490 | -24 | 
@@ -26,8 +27,8 @@
 | 2022-10-20 | 第78期本因坊戦リーグ | Shibano Toramaru | Motoki Katsuya | Win | B+1.5 | 6.5 | 3491 | 9 | 
 | 2022-10-13 | 第47期名人戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3482 | 11 | 
 | 2022-10-07 | 第47期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3471 | 64 | 
-| 2022-09-26 | 第47期棋聖戦Sリーグ | Shibano Toramaru | Yu Zhengqi | Win | B+R | 6.5 | 3407 | -3 | 
-| 2022-09-16 | 第47期名人戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3410 | 42 | 
+| 2022-09-26 | 第47期棋聖戦Sリーグ | Shibano Toramaru | Yu Zhengqi | Win | B+R | 6.5 | 3407 | -2 | 
+| 2022-09-16 | 第47期名人戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3409 | 41 | 
 | 2022-09-06 | 第47期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3368 | -11 | 
 | 2022-08-29 | 第70期王座戦挑戦者決定戦  | Yu Zhengqi | Shibano Toramaru | Lose | B+R | 6.5 | 3379 | -12 | 
 | 2022-08-25 | 第47期名人戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3391 | -53 | 
@@ -55,11 +56,11 @@
 | 2022-01-17 | 第47期名人戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3443 | 22 | 
 | 2022-01-13 | 第60期十段戦準決勝  | Shibano Toramaru | Sada Atsushi | Lose | W+0.5 | 6.5 | 3421 | 16 | 
 | 2022-01-06 | 第77期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3405 | 14 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Win | W+R | 6.5 | 3391 | 0 | 
-| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3391 | 11 | 
-| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Win | B+R | 6.5 | 3380 | 10 | 
-| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Shibano Toramaru |  | Win | B+R | 6.5 | 3370 | 7 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Shibano Toramaru | Lose | B+R | 6.5 | 3363 | -13 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Win | W+R | 6.5 | 3391 | 1 | 
+| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3390 | 11 | 
+| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Win | B+R | 6.5 | 3379 | 10 | 
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Shibano Toramaru |  | Win | B+R | 6.5 | 3369 | 7 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Shibano Toramaru | Lose | B+R | 6.5 | 3362 | -14 | 
 | 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | Win | W+R | 6.5 | 3376 | 4 | 
 | 2021-12-09 | 第69期王座戦挑戦手合五番勝負第5局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3372 | 3 | 
 | 2021-12-06 | 第60期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3369 | 9 | 
@@ -68,8 +69,8 @@
 | 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3330 | 8 | 
 | 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3322 | 8 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3314 | 11 | 
-| 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3303 | -16 | 
-| 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3319 | -11 | 
+| 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3303 | -15 | 
+| 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3318 | -12 | 
 | 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Win | W+R | 6.5 | 3330 | 38 | 
 | 2021-10-11 | 第23回農心辛ラーメン杯世界囲碁最強戦第1戦  | Weon Seongjin | Shibano Toramaru | Lose | B+R | 6.5 | 3292 | -15 | 
 | 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Lose | W+R | 6.5 | 3307 | -12 | 

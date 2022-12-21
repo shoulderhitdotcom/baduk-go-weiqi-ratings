@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Shin Minjun | Tang Weixing | Win | W+R | 7.5 | 3523 | 25 | 
-| 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Lose | W+R | 7.5 | 3498 | -5 | 
-| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Win | B+R | 7.5 | 3503 | -43 | 
-| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Lose | W+0.5 | 6.5 | 3546 | 0 | 
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Tang Weixing | Yoo Ohseong | Win | B+R | 6.5 | 3546 | 23 | 
+| 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Tang Weixing | Byun Sangil | Lose | W+R | 7.5 | 3522 | -1 | 
+| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Shin Minjun | Tang Weixing | Win | W+R | 7.5 | 3523 | 26 | 
+| 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Lose | W+R | 7.5 | 3497 | -5 | 
+| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Win | B+R | 7.5 | 3502 | -43 | 
+| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Lose | W+0.5 | 6.5 | 3545 | 0 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Tang Weixing | Yoo Ohseong | Win | B+R | 6.5 | 3545 | 22 | 
 | 2022-10-11 | 第23期阿含・桐山杯中国早碁戦1回戦 | Tang Weixing | Xie Erhao | Lose | W+R | 7.5 | 3523 | -7 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | Win | W+R | 7.5 | 3530 | 14 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Fan Tingyu | Tang Weixing | Win | W+R | 7.5 | 3516 | 77 | 
@@ -89,8 +90,8 @@
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Hao | Tang Weixing | Win | W+R | 7.5 | 3397 | 0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Tang Weixing | Win | W+R | 7.5 | 3397 | 12 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Tang Weixing | Win | W+R | 7.5 | 3385 | 30 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Tang Weixing | Shin Jinseo | Lose | W+R | 7.5 | 3355 | -13 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Tang Weixing | Lose | B+R | 7.5 | 3368 | -12 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Tang Weixing | Shin Jinseo | Lose | W+R | 7.5 | 3355 | -12 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Tang Weixing | Lose | B+R | 7.5 | 3367 | -13 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Tang Weixing | Tong Mengcheng | Lose | W+R | 7.5 | 3380 | -26 | 
 | 2020-11-24 | 第22回農心辛ラーメン杯世界囲碁最強戦第9戦 | Tang Weixing | Shin Jinseo | Lose | W+4.5 | 6.5 | 3406 | -30 | 
 | 2020-11-23 | 第22回農心辛ラーメン杯世界囲碁最強戦第8戦  | Tang Weixing | Shibano Toramaru | Win | B+R | 6.5 | 3436 | 15 | 

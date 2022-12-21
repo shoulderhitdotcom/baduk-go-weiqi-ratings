@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-21 | 第2回テイケイ杯俊英戦Aリーグ | Nishi Takenobu | Fukuoka Kotaro | Lose | W+R | 6.5 | 3037 | -18 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Aリーグ | Nishi Takenobu | Shibano Toramaru | Lose | W+R | 6.5 | 3055 | -3 | 
 | 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Nishi Takenobu | Win | W+R | 6.5 | 3058 | 30 | 
-| 2022-12-14 | 第48期新人王戦予選 | Watanabe Kouki | Nishi Takenobu | Win | W+R | 6.5 | 3028 | -4 | 
-| 2022-12-01 | 第48期棋聖戦予選 | Nishi Takenobu | Ogata Masaki | Win | B+R | 6.5 | 3032 | -10 | 
-| 2022-11-24 | 第2回テイケイ杯俊英戦予選 | Nishi Takenobu |  | Win | B+R | 6.5 | 3042 | 76 | 
-| 2022-11-10 | 第48期名人戦予選 | Nishi Takenobu | Sada Atsushi | Win | B+4.5 | 6.5 | 2966 | -44 | 
-| 2022-10-27 | 第67期関西棋院第一位決定戦1回戦 | Seto Taiki | Nishi Takenobu | Lose | B+2.5 | 6.5 | 3010 | 113 | 
+| 2022-12-14 | 第48期新人王戦予選 | Watanabe Kouki | Nishi Takenobu | Win | W+R | 6.5 | 3028 | -3 | 
+| 2022-12-01 | 第48期棋聖戦予選 | Nishi Takenobu | Ogata Masaki | Win | B+R | 6.5 | 3031 | -10 | 
+| 2022-11-24 | 第2回テイケイ杯俊英戦予選 | Nishi Takenobu |  | Win | B+R | 6.5 | 3041 | 75 | 
+| 2022-11-10 | 第48期名人戦予選 | Nishi Takenobu | Sada Atsushi | Win | B+4.5 | 6.5 | 2966 | -43 | 
+| 2022-10-27 | 第67期関西棋院第一位決定戦1回戦 | Seto Taiki | Nishi Takenobu | Lose | B+2.5 | 6.5 | 3009 | 112 | 
 | 2022-07-13 | 第48期名人戦予選 | Yata Naoki | Nishi Takenobu | Win | W+6.5 | 6.5 | 2897 | 31 | 
 | 2022-06-29 | 第61期十段戦予選 | Nishi Takenobu | Takashima Yugo | Lose | W+3.5 | 6.5 | 2866 | 40 | 
 | 2022-06-02 | 第48期名人戦予選 |  | Nishi Takenobu | Win | W+R | 6.5 | 2826 | 39 | 
@@ -41,8 +42,8 @@
 | 2021-02-25 | 第46期棋聖戦予選 | Nishi Takenobu | Takahashi Masumi | Win | B+R | 6.5 | 2669 | 22 | 
 | 2021-02-01 | 第46期新人王戦1回戦 | Onishi Kenya | Nishi Takenobu | Win | W+R | 6.5 | 2647 | 3 | 
 | 2020-12-23 | 第77期本因坊戦予選 | Nishi Takenobu |  | Lose | W+3.5 | 6.5 | 2644 | -60 | 
-| 2020-12-16 | 第69期王座戦予選 | Fujii Shuya | Nishi Takenobu | Lose | B+1.5 | 6.5 | 2704 | -24 | 
-| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Li Wei | Nishi Takenobu | Lose | B+R | 6.5 | 2728 | -183 | 
+| 2020-12-16 | 第69期王座戦予選 | Fujii Shuya | Nishi Takenobu | Lose | B+1.5 | 6.5 | 2704 | -23 | 
+| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Li Wei | Nishi Takenobu | Lose | B+R | 6.5 | 2727 | -184 | 
 | 2020-10-14 | 第65期関西棋院第一位決定戦本戦1回戦 | Imamura Toshiya | Nishi Takenobu | Lose | B+R | 6.5 | 2911 | -38 | 
 | 2020-10-07 | 第46期新人王戦予選 | Nishi Takenobu | Taniguchi Tooru | Win | B+R | 6.5 | 2949 | -68 | 
 | 2020-08-19 | 第46期天元戦準決勝 | Nishi Takenobu | Ichiriki Ryo | Lose | W+9.5 | 6.5 | 3017 | 21 | 

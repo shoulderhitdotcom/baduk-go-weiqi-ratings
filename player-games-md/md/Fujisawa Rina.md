@@ -7,25 +7,26 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-21 | 第2回テイケイ杯俊英戦Bリーグ | Fujisawa Rina |  | Win | B+R | 6.5 | 3106 | 9 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Bリーグ  |  | Fujisawa Rina | Lose | B+R | 6.5 | 3097 | -22 | 
 | 2022-12-18 | 第2回テイケイ杯俊英戦Bリーグ | Seki Kotaro | Fujisawa Rina | Lose | B+R | 6.5 | 3119 | -15 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Bリーグ | Fujisawa Rina | Muramoto Wataru | Win | B+R | 6.5 | 3134 | 3 | 
-| 2022-12-15 | 第61期十段戦3回戦 | Yu Zhengqi | Fujisawa Rina | Lose | B+R | 6.5 | 3131 | -7 | 
-| 2022-12-12 | 第49期天元戦予選 | Fujisawa Rina | Suzuki Yoshimichi | Win | B+R | 6.5 | 3138 | -14 | 
-| 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Lose | B+R | 6.5 | 3152 | -2 | 
-| 2022-12-05 | 第71期王座戦予選 | Sakai Yuki | Fujisawa Rina | Lose | B+R | 6.5 | 3154 | -8 | 
-| 2022-11-26 | 第17回広島アルミ杯・若鯉戦2回戦  | Koyama Kuya | Fujisawa Rina | Lose | B+R | 6.5 | 3162 | 0 | 
-| 2022-11-26 | 第17回広島アルミ杯・若鯉戦1回戦  | Tsuneishi Takashi | Fujisawa Rina | Win | W+R | 6.5 | 3162 | -10 | 
-| 2022-11-19 | 群遊2022囲碁オールスター団体戦1回戦  | Yuki Satoshi | Fujisawa Rina | Lose | B+0.5 | 6.5 | 3172 | 4 | 
+| 2022-12-15 | 第61期十段戦3回戦 | Yu Zhengqi | Fujisawa Rina | Lose | B+R | 6.5 | 3131 | -6 | 
+| 2022-12-12 | 第49期天元戦予選 | Fujisawa Rina | Suzuki Yoshimichi | Win | B+R | 6.5 | 3137 | -14 | 
+| 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Lose | B+R | 6.5 | 3151 | -2 | 
+| 2022-12-05 | 第71期王座戦予選 | Sakai Yuki | Fujisawa Rina | Lose | B+R | 6.5 | 3153 | -8 | 
+| 2022-11-26 | 第17回広島アルミ杯・若鯉戦2回戦  | Koyama Kuya | Fujisawa Rina | Lose | B+R | 6.5 | 3161 | 0 | 
+| 2022-11-26 | 第17回広島アルミ杯・若鯉戦1回戦  | Tsuneishi Takashi | Fujisawa Rina | Win | W+R | 6.5 | 3161 | -10 | 
+| 2022-11-19 | 群遊2022囲碁オールスター団体戦1回戦  | Yuki Satoshi | Fujisawa Rina | Lose | B+0.5 | 6.5 | 3171 | 3 | 
 | 2022-11-12 | 第2回フマキラー囲碁女流ブレーンズマッチ準決勝 | Fujisawa Rina | Hei Jiajia | Win | B+R | 6.5 | 3168 | 0 | 
-| 2022-11-12 | 第2回フマキラー囲碁女流ブレーンズマッチ決勝  | Fujisawa Rina | Nakamura Sumire | Win | B+4.5 | 6.5 | 3168 | 1 | 
-| 2022-11-04 | 第41期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | B+0.5 | 6.5 | 3167 | 0 | 
-| 2022-10-27 | 第61期十段戦2回戦 | Fujisawa Rina | Rin Kanketsu | Win | B+R | 6.5 | 3167 | 85 | 
+| 2022-11-12 | 第2回フマキラー囲碁女流ブレーンズマッチ決勝  | Fujisawa Rina | Nakamura Sumire | Win | B+4.5 | 6.5 | 3168 | 2 | 
+| 2022-11-04 | 第41期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | B+0.5 | 6.5 | 3166 | 0 | 
+| 2022-10-27 | 第61期十段戦2回戦 | Fujisawa Rina | Rin Kanketsu | Win | B+R | 6.5 | 3166 | 84 | 
 | 2022-10-23 | 第41期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3082 | 0 | 
 | 2022-10-15 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第8戦  | Li He | Fujisawa Rina | Lose | B+R | 6.5 | 3082 | -18 | 
 | 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | B+R | 6.5 | 3100 | 33 | 
-| 2022-09-29 | 第48期名人戦予選 | Fujisawa Rina | Adachi Toshimasa | Lose | W+R | 6.5 | 3067 | -44 | 
-| 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 3111 | 40 | 
+| 2022-09-29 | 第48期名人戦予選 | Fujisawa Rina | Adachi Toshimasa | Lose | W+R | 6.5 | 3067 | -43 | 
+| 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 3110 | 39 | 
 | 2022-09-12 | 第61期十段戦予選  | Fujisawa Rina | Anzai Nobuaki | Win | B+R | 6.5 | 3071 | -10 | 
 | 2022-09-08 | 第78期本因坊戦予選  | Fujisawa Rina | Otake Yu | Lose | W+R | 6.5 | 3081 | -66 | 
 | 2022-08-11 | 第78期本因坊戦予選 | Murakawa Daisuke | Fujisawa Rina | Win | W+R | 6.5 | 3147 | -9 | 
@@ -61,8 +62,8 @@
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3063 | -5 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3068 | 7 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 3061 | -6 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3067 | 9 | 
-| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3058 | -15 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li Xinyi | Fujisawa Rina | Win | W+1¼ | 7.5 | 3067 | 10 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3057 | -16 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Lose | W+R | 6.5 | 3073 | -1 | 
 | 2021-06-28 | 第6回扇興杯女流最強戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3074 | 7 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Lose | W+R | 6.5 | 3067 | -9 | 

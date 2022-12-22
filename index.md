@@ -1,3 +1,5 @@
+{% include header.html %}
+
 ## Welcome to Baduk Go Weiqi Ratings
 
 The ratings are based on 4444 games from 2021-12-23 to 2022-12-22.

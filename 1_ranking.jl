@@ -511,48 +511,34 @@ function meh(days)
     kj_rating, wsj_rating
 end
 
-using BadukGoWeiqiTools: create_player_info_tbl
-players_info = create_player_info_tbl()
+# using BadukGoWeiqiTools: create_player_info_tbl
+# players_info = create_player_info_tbl()
 
-countmap(players_info.affiliation)
+# countmap(players_info.affiliation)
 
-pings_for_md2 = @chain pings_for_md1 begin
-    leftjoin(players_info, on=:eng_name_old => :name)
-    @transform :date_of_birth = @passmissing Date(:date_of_birth)
-    #@transform :age = @passmissing round((today() - :date_of_birth)/ 365, ndigits=2)
-    @transform :age = @passmissing round(getproperty(today() - :date_of_birth, Symbol("value")) / 365, digits=1)
-    # leftjoin(rank_ranges, on=:name)
-    # leftjoin(mean_ratings, on=:name)
-    sort(:Rating, rev=true)
-    # @transform :Rank = @bycol 1:length(:mean_rating)
-    # @transform :Class = round(Int, :mean_rating)
-    # @transform :Form = round(Int, :Rating - :Class)w
-    @transform :age = @passmissing :age > 2000 ? missing : :age
-    @transform :region = @passmissing ifelse(:affiliation in ("Nihon Kiin", "Kansai Kiin"), "JPN", :nationality)
-    @transform :region = @passmissing ifelse(:affiliation == "Hanguk Kiwon", "KOR", :nationality)
-    @transform :region = @passmissing ifelse(:affiliation == "Taiwan Go Association", "TWN", :nationality)
-end
-
-
-# work out the average rating change
+# pings_for_md2 = @chain pings_for_md1 begin
+#     leftjoin(players_info, on=:eng_name_old => :name)
+#     @transform :date_of_birth = @passmissing Date(:date_of_birth)
+#     @transform :age = @passmissing round(getproperty(today() - :date_of_birth, Symbol("value")) / 365, digits=1)
+#     sort(:Rating, rev=true)
+#     @transform :age = @passmissing :age > 2000 ? missing : :age
+#     @transform :region = @passmissing ifelse(:affiliation in ("Nihon Kiin", "Kansai Kiin"), "JPN", :nationality)
+#     @transform :region = @passmissing ifelse(:affiliation == "Hanguk Kiwon", "KOR", :nationality)
+#     @transform :region = @passmissing ifelse(:affiliation == "Taiwan Go Association", "TWN", :nationality)
+# end
 
 
 # ready for output
 pings_for_md_tmp = select(
-    pings_for_md2,
+    pings_for_md1,
     :Rank,
-    :age,
-    :sex,
-    :region,
+    # :age,
+    # :sex,
+    # :region,
     :eng_name => "Name",
-    # :Class,
     :Rating,
-    # :Form,
-    # :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
     :n,
-    # :median_rank => "Median Rank",
-    # :form_range => "Form Rank Range",
     :name => "Hanzi (汉字) Name")
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin

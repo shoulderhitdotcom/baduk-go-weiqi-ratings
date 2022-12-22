@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Motoki Katsuya vs Takao Shinji** | **Motoki Katsuya streak** | **Takao Shinji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Motoki Katsuya Vs Takao Shinji** | **Motoki Katsuya Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-07-08 | 第67期王座戦2回戦 | Takao Shinji | Motoki Katsuya | B+R | 6.5 | 2:2 | 0 | 1 | 
 | 2017-10-12 | 第42期棋聖戦リーグAB組決勝 | Motoki Katsuya | Takao Shinji | B+R | 6.5 | 2:1 | 2 | 0 | 

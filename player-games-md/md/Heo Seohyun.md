@@ -22,12 +22,12 @@
 | 2022-10-02 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Ko Miso | Lose | W+4.5 | 6.5 | 2873 | -10 | 
 | 2022-10-01 | 第27期女流国手戦2回戦 | Oh Jeonga | Heo Seohyun | Lose | B+R | 6.5 | 2883 | 11 | 
 | 2022-09-23 | 2022Dr.G女子最高棋士決定戦リーグ | Heo Seohyun | Choi Jeong | Lose | W+R | 6.5 | 2872 | 0 | 
-| 2022-09-01 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Kyeongeun | Win | B+2.5 | 6.5 | 2872 | -8 | 
-| 2022-08-20 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Heo Seohyun | Lose | B+R | 6.5 | 2880 | -2 | 
-| 2022-08-18 | 2022Dr.G女子最高棋士決定戦予選 | Heo Seohyun |  | Win | B+R | 6.5 | 2882 | -18 | 
-| 2022-08-14 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Heo Seohyun | Lose | B+R | 6.5 | 2900 | 23 | 
-| 2022-08-10 | 第27期女流国手戦1回戦 | Kim Cheayoung | Heo Seohyun | Win | W+0.5 | 6.5 | 2877 | 0 | 
-| 2022-08-04 | 第8回韓国女子囲碁リーグ | Park Taehee | Heo Seohyun | Win | W+R | 6.5 | 2877 | -33 | 
+| 2022-09-01 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Kyeongeun | Win | B+2.5 | 6.5 | 2872 | -9 | 
+| 2022-08-20 | 第8回韓国女子囲碁リーグ | Kim Eunseon | Heo Seohyun | Lose | B+R | 6.5 | 2881 | -2 | 
+| 2022-08-18 | 2022Dr.G女子最高棋士決定戦予選 | Heo Seohyun |  | Win | B+R | 6.5 | 2883 | -17 | 
+| 2022-08-14 | 第8回韓国女子囲碁リーグ | Oh Jeonga | Heo Seohyun | Lose | B+R | 6.5 | 2900 | 22 | 
+| 2022-08-10 | 第27期女流国手戦1回戦 | Kim Cheayoung | Heo Seohyun | Win | W+0.5 | 6.5 | 2878 | 0 | 
+| 2022-08-04 | 第8回韓国女子囲碁リーグ | Park Taehee | Heo Seohyun | Win | W+R | 6.5 | 2878 | -32 | 
 | 2022-07-29 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Kim Eunji | Lose | W+R | 6.5 | 2910 | 11 | 
 | 2022-07-23 | 第8回韓国女子囲碁リーグ | Heo Seohyun | Cho Seungah | Lose | W+0.5 | 6.5 | 2899 | 24 | 
 | 2022-07-17 | 第8回韓国女子囲碁リーグ | Kim Dayoung | Heo Seohyun | Win | W+0.5 | 6.5 | 2875 | 32 | 

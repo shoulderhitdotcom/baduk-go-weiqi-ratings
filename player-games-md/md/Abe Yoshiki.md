@@ -18,15 +18,15 @@
 | 2022-04-27 | 第66期関西棋院第一位決定戦2回戦 | Imamura Toshiya | Abe Yoshiki | Win | W+0.5 | 6.5 | 2823 | 38 | 
 | 2022-04-21 | 第47期新人王戦1回戦 | Muramoto Wataru | Abe Yoshiki | Win | W+3.5 | 6.5 | 2785 | -4 | 
 | 2022-04-06 | 第61期十段戦予選 | Yamazaki Yoshihiro | Abe Yoshiki | Win | W+R | 6.5 | 2789 | 36 | 
-| 2022-02-16 | 第78期本因坊戦予選 |  | Abe Yoshiki | Win | W+R | 6.5 | 2753 | 30 | 
-| 2022-01-19 | 第78期本因坊戦予選 | Watanabe Yuu | Abe Yoshiki | Win | W+R | 6.5 | 2723 | 88 | 
+| 2022-02-16 | 第78期本因坊戦予選 |  | Abe Yoshiki | Win | W+R | 6.5 | 2753 | 29 | 
+| 2022-01-19 | 第78期本因坊戦予選 | Watanabe Yuu | Abe Yoshiki | Win | W+R | 6.5 | 2724 | 89 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yang Bowei | Abe Yoshiki | Win | W+R | 6.5 | 2635 | 189 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Lose | W+R | 6.5 | 2446 | 37 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Koyama Kuya | Lose | W+R | 6.5 | 2409 | -108 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki |  | Lose | W+0.5 | 6.5 | 2517 | -27 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Lose | B+R | 6.5 | 2544 | -4 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Lose | B+0.5 | 6.5 | 2548 | -153 | 
-| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Win | W+0.5 | 6.5 | 2701 | -19 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Lose | B+0.5 | 6.5 | 2548 | -154 | 
+| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Win | W+0.5 | 6.5 | 2702 | -18 | 
 | 2021-10-20 | 第70期王座戦予選 | Abe Yoshiki | Hasegawa Sunao | Lose | W+0.5 | 6.5 | 2720 | -111 | 
 | 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Win | W+R | 6.5 | 2831 | 154 | 
 | 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Lose | W+R | 6.5 | 2677 | 15 | 

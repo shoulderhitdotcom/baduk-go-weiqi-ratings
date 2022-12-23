@@ -11,14 +11,14 @@
 | 2022-12-15 | 第71期王座戦予選 | Cho Chikun | Nakamura Shinya | Win | B+0.5 | 6.5 | 2623 | -22 | 
 | 2022-12-08 | 第49期天元戦予選 | Cho Chikun | Shiraishi Yuichi | Win | B+R | 6.5 | 2645 | -182 | 
 | 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 2827 | -54 | 
-| 2022-03-31 | 第47期棋聖戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2881 | 81 | 
-| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Lose | B+R | 6.5 | 2800 | -57 | 
-| 2022-01-20 | 第1回テイケイ杯レジェンド戦1回戦 | Takemiya Masaki | Cho Chikun | Win | W+13.5 | 6.5 | 2857 | 204 | 
+| 2022-03-31 | 第47期棋聖戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2881 | 80 | 
+| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Lose | B+R | 6.5 | 2801 | -57 | 
+| 2022-01-20 | 第1回テイケイ杯レジェンド戦1回戦 | Takemiya Masaki | Cho Chikun | Win | W+13.5 | 6.5 | 2858 | 205 | 
 | 2022-01-13 | 第70期王座戦予選 | Cho Chikun | Tsuneishi Takashi | Win | B+R | 6.5 | 2653 | -104 | 
 | 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2757 | 2 | 
-| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2755 | -53 | 
-| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2808 | 13 | 
-| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2795 | -142 | 
+| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2755 | -54 | 
+| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2809 | 13 | 
+| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2796 | -141 | 
 | 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 2937 | -107 | 
 | 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 | 3044 | 48 | 
 | 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 2996 | -16 | 

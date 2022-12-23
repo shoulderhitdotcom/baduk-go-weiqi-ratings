@@ -29,8 +29,8 @@
 | 2022-06-30 | 第78期本因坊戦予選 | Otake Yu | Sada Atsushi | Win | B+R | 6.5 | 3283 | 6 | 
 | 2022-06-16 | 第47期新人王戦3回戦 | Otake Yu |  | Win | B+0.5 | 6.5 | 3277 | 110 | 
 | 2022-04-25 | 第47期新人王戦2回戦 | Yao Zhiteng | Otake Yu | Win | W+2.5 | 6.5 | 3167 | 38 | 
-| 2022-02-17 | 第70期王座戦予選 | Otake Yu | Ogata Masaki | Win | B+R | 6.5 | 3129 | -11 | 
-| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Win | B+6.5 | 6.5 | 3140 | 73 | 
+| 2022-02-17 | 第70期王座戦予選 | Otake Yu | Ogata Masaki | Win | B+R | 6.5 | 3129 | -12 | 
+| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Win | B+6.5 | 6.5 | 3141 | 74 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Onishi Kenya | Win | B+2.5 | 6.5 | 3067 | 12 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Otake Yu | Lose | B+1.5 | 6.5 | 3055 | -12 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Tsuruta Kazushi | Lose | W+R | 6.5 | 3067 | -41 | 

@@ -23,10 +23,10 @@
 | 2022-06-05 | 第9回グロービス杯世界囲碁U-20決勝  | Fukuoka Kotaro | Wang Xinghao | Lose | W+R | 6.5 | 3284 | 83 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦  | Fukuoka Kotaro | Han Woojin | Win | B+0.5 | 6.5 | 3201 | 0 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+R | 6.5 | 3201 | 47 | 
-| 2022-04-07 | 第61期十段戦予選 | Kataoka Satoshi | Fukuoka Kotaro | Win | W+4.5 | 6.5 | 3154 | 6 | 
-| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Lose | B+6.5 | 6.5 | 3148 | 178 | 
-| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Win | W+R | 7.5 | 2970 | 78 | 
-| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2892 | 80 | 
+| 2022-04-07 | 第61期十段戦予選 | Kataoka Satoshi | Fukuoka Kotaro | Win | W+4.5 | 6.5 | 3154 | 5 | 
+| 2022-01-31 | 第47期新人王戦1回戦 | Otake Yu | Fukuoka Kotaro | Lose | B+6.5 | 6.5 | 3149 | 178 | 
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Win | W+R | 7.5 | 2971 | 78 | 
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2893 | 81 | 
 | 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2812 | -96 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2908 | 55 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2853 | -28 | 

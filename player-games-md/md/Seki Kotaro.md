@@ -24,16 +24,16 @@
 | 2022-06-13 | 第48期名人戦予選 | Ohashi Hirofumi | Seki Kotaro | Lose | B+R | 6.5 | 3163 | -27 | 
 | 2022-06-09 | 第29期阿含・桐山杯全日本早碁オープン戦1回戦 | Seki Kotaro | Koike Yoshihiro | Win | B+R | 6.5 | 3190 | 48 | 
 | 2022-05-23 | 第48期名人戦予選  | Seki Kotaro | Ito Masashi | Win | B+R | 6.5 | 3142 | 6 | 
-| 2022-05-12 | 第61期十段戦予選 | Lee Ishu | Seki Kotaro | Lose | B+6.5 | 6.5 | 3136 | -41 | 
-| 2022-05-02 | 第78期本因坊戦予選 | Rin Kanketsu | Seki Kotaro | Lose | B+1.5 | 6.5 | 3177 | -31 | 
+| 2022-05-12 | 第61期十段戦予選 | Lee Ishu | Seki Kotaro | Lose | B+6.5 | 6.5 | 3136 | -42 | 
+| 2022-05-02 | 第78期本因坊戦予選 | Rin Kanketsu | Seki Kotaro | Lose | B+1.5 | 6.5 | 3178 | -30 | 
 | 2022-04-28 | 第48期名人戦予選 | Seki Kotaro | Kawai Shoji | Win | B+R | 6.5 | 3208 | -21 | 
 | 2022-04-07 | 第48期名人戦予選 | Izumitani Hideo | Seki Kotaro | Win | W+R | 6.5 | 3229 | -3 | 
 | 2022-04-04 | 第47期棋聖戦予選 | Yokotsuka Riki | Seki Kotaro | Lose | B+1.5 | 6.5 | 3232 | -15 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Seki Kotaro | Li Qincheng | Lose | W+R | 7.5 | 3247 | 11 | 
 | 2022-03-10 | 第47期棋聖戦予選 | Seki Kotaro | Omori Yasushi | Win | B+R | 6.5 | 3236 | -10 | 
-| 2022-02-14 | 第70期王座戦予選 | Kim Sujun | Seki Kotaro | Lose | B+1.5 | 6.5 | 3246 | -43 | 
-| 2022-01-31 | 第47期棋聖戦予選 | Seki Kotaro | Seki Tatsuya | Win | B+R | 6.5 | 3289 | -19 | 
-| 2022-01-20 | 第70期王座戦予選 | Numadate Sakiya | Seki Kotaro | Win | W+6.5 | 6.5 | 3308 | 17 | 
+| 2022-02-14 | 第70期王座戦予選 | Kim Sujun | Seki Kotaro | Lose | B+1.5 | 6.5 | 3246 | -44 | 
+| 2022-01-31 | 第47期棋聖戦予選 | Seki Kotaro | Seki Tatsuya | Win | B+R | 6.5 | 3290 | -19 | 
+| 2022-01-20 | 第70期王座戦予選 | Numadate Sakiya | Seki Kotaro | Win | W+6.5 | 6.5 | 3309 | 18 | 
 | 2022-01-17 | 第48期名人戦予選 | Seki Kotaro |  | Win | B+R | 6.5 | 3291 | 166 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Win | B+R | 6.5 | 3125 | 117 | 
 | 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3008 | 104 | 

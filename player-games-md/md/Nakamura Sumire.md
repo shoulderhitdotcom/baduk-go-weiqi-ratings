@@ -22,8 +22,8 @@
 | 2022-10-17 | 第71期王座戦予選 | Xie Yimin | Nakamura Sumire | Lose | B+2.5 | 6.5 | 2902 | -10 | 
 | 2022-10-06 | 第48期碁聖戦予選 | Motoki Katsuya | Nakamura Sumire | Lose | B+R | 6.5 | 2912 | 40 | 
 | 2022-09-29 | 第9期会津中央病院・女流立葵杯予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2872 | 0 | 
-| 2022-09-08 | 第71期王座戦予選 | Nakamura Sumire | Nakaonoda Tomomi | Win | B+R | 6.5 | 2872 | 16 | 
-| 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2856 | -16 | 
+| 2022-09-08 | 第71期王座戦予選 | Nakamura Sumire | Nakaonoda Tomomi | Win | B+R | 6.5 | 2872 | 15 | 
+| 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2857 | -15 | 
 | 2022-08-16 | 2021中国女子囲碁乙級リーグ  | Kim Dayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2872 | 12 | 
 | 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Choi Jeong | Lose | W+R | 7.5 | 2860 | 7 | 
 | 2022-08-14 | 2021中国女子囲碁乙級リーグ  | Oh Jeonga | Nakamura Sumire | Win | W+¼ | 7.5 | 2853 | 26 | 
@@ -45,9 +45,9 @@
 | 2022-06-09 | 第61期十段戦予選 | Nakamura Sumire | Miyazawa Goro | Lose | W+1.5 | 6.5 | 2832 | -22 | 
 | 2022-06-06 | 第41期女流本因坊戦2回戦 | Kato Keiko | Nakamura Sumire | Win | W+R | 6.5 | 2854 | 59 | 
 | 2022-05-22 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第1戦  | Nakamura Sumire | Wu Yiming | Lose | W+R | 6.5 | 2795 | -20 | 
-| 2022-05-12 | 第7回扇興杯女流最強戦1回戦 | Nakamura Sumire | Takao Mari | Win | B+R | 6.5 | 2815 | -29 | 
-| 2022-05-05 | 第41期女流本因坊戦1回戦  |  | Nakamura Sumire | Win | W+R | 6.5 | 2844 | 45 | 
-| 2022-05-02 | 第78期本因坊戦予選 | Nakamura Sumire | Kono Rin | Lose | W+6.5 | 6.5 | 2799 | -28 | 
+| 2022-05-12 | 第7回扇興杯女流最強戦1回戦 | Nakamura Sumire | Takao Mari | Win | B+R | 6.5 | 2815 | -30 | 
+| 2022-05-05 | 第41期女流本因坊戦1回戦  |  | Nakamura Sumire | Win | W+R | 6.5 | 2845 | 45 | 
+| 2022-05-02 | 第78期本因坊戦予選 | Nakamura Sumire | Kono Rin | Lose | W+6.5 | 6.5 | 2800 | -27 | 
 | 2022-04-16 | 第33期女流名人戦挑戦手合三番勝負第2局  | Fujisawa Rina | Nakamura Sumire | Lose | B+R | 6.5 | 2827 | -10 | 
 | 2022-04-14 | 第33期女流名人戦挑戦手合三番勝負第1局  | Nakamura Sumire | Fujisawa Rina | Lose | W+R | 6.5 | 2837 | -26 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Lose | W+2.5 | 6.5 | 2863 | 13 | 
@@ -61,10 +61,10 @@
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Nakamura Sumire | Lin Yuting | Win | B+R | 6.5 | 2815 | 2 | 
 | 2022-02-28 | 第78期本因坊戦予選 | Nakamura Sumire | Terayama Rei | Win | B+R | 6.5 | 2813 | 40 | 
 | 2022-02-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Xie Yimin | Win | B+2.5 | 6.5 | 2773 | 39 | 
-| 2022-02-17 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nakamura Sumire | Lose | B+4.5 | 6.5 | 2734 | 36 | 
-| 2022-02-10 | 第33期女流名人戦リーグ |  | Nakamura Sumire | Win | W+R | 6.5 | 2698 | 0 | 
-| 2022-02-07 | 第47期新人王戦 |  | Nakamura Sumire | Lose | B+0.5 | 6.5 | 2698 | -44 | 
-| 2022-01-31 | 第47期棋聖戦予選 | Nakamura Sumire | Kobayashi Izumi | Lose | W+6.5 | 6.5 | 2742 | -9 | 
+| 2022-02-17 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nakamura Sumire | Lose | B+4.5 | 6.5 | 2734 | 35 | 
+| 2022-02-10 | 第33期女流名人戦リーグ |  | Nakamura Sumire | Win | W+R | 6.5 | 2699 | 0 | 
+| 2022-02-07 | 第47期新人王戦 |  | Nakamura Sumire | Lose | B+0.5 | 6.5 | 2699 | -44 | 
+| 2022-01-31 | 第47期棋聖戦予選 | Nakamura Sumire | Kobayashi Izumi | Lose | W+6.5 | 6.5 | 2743 | -8 | 
 | 2022-01-06 | 第47期新人王戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2751 | 28 | 
 | 2021-12-27 | 第41期女流本因坊戦予選  | Nakamura Sumire |  | Win | B+R | 6.5 | 2723 | 42 | 
 | 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2681 | -15 | 
@@ -72,8 +72,8 @@
 | 2021-11-29 | 第78期本因坊戦予選 | Nakamura Sumire | Kim Sujun | Win | B+3.5 | 6.5 | 2657 | 13 | 
 | 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2644 | 62 | 
 | 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2582 | -16 | 
-| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | 2598 | -28 | 
-| 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2626 | -7 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | 2598 | -29 | 
+| 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2627 | -6 | 
 | 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Win | W+15.5 | 6.5 | 2633 | -15 | 
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | 2648 | -85 | 
 | 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2733 | -1 | 

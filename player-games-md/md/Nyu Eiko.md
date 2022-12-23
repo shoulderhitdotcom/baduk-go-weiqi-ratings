@@ -36,9 +36,9 @@
 | 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | Lose | W+R | 6.5 | 2830 | -28 | 
 | 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2858 | -15 | 
 | 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | Win | B+R | 6.5 | 2873 | 82 | 
-| 2022-02-17 | 第33期女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2791 | 26 | 
-| 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | Win | W+1.5 | 6.5 | 2765 | -8 | 
-| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Lose | B+R | 6.5 | 2773 | 71 | 
+| 2022-02-17 | 第33期女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2791 | 25 | 
+| 2022-02-10 | 第33期女流名人戦リーグ | Suzuki Ayumi | Nyu Eiko | Win | W+1.5 | 6.5 | 2766 | -8 | 
+| 2022-01-27 | 第33期女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Lose | B+R | 6.5 | 2774 | 72 | 
 | 2021-11-15 | 第47期碁聖戦予選 | Nyu Eiko | Kobayashi Satoru | Win | B+R | 6.5 | 2702 | -3 | 
 | 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | Lose | B+2.5 | 6.5 | 2705 | -11 | 
 | 2021-08-12 | 第70期王座戦予選 | Nyu Eiko | Ishida Yoshio | Win | B+R | 6.5 | 2716 | 173 | 

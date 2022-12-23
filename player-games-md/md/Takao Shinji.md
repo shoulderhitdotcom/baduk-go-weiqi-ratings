@@ -28,8 +28,8 @@
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Takao Shinji | Lee Changho | Lose | W+1¼ | 7.5 | 3143 | -21 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Takao Shinji | Chang Hao | Lose | W+¼ | 7.5 | 3164 | -23 | 
 | 2021-09-02 | 第47期名人戦予選 | Takao Shinji | Ryu Shikun | Win | B+0.5 | 6.5 | 3187 | -7 | 
-| 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | Lose | B+R | 6.5 | 3194 | 0 | 
-| 2021-07-29 | 第47期名人戦予選 | Takao Shinji | Cho Sonjin | Win | B+R | 6.5 | 3194 | 27 | 
+| 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | Lose | B+R | 6.5 | 3194 | -1 | 
+| 2021-07-29 | 第47期名人戦予選 | Takao Shinji | Cho Sonjin | Win | B+R | 6.5 | 3195 | 28 | 
 | 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Win | W+R | 6.5 | 3167 | 16 | 
 | 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Lose | W+R | 6.5 | 3151 | -38 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Win | B+3.5 | 6.5 | 3189 | 85 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-26 | 第71期王座戦予選 | Mochizuki Kenichi | Sakai Yuki | Lose | B+R | 6.5 | 3216 | -2 | 
 | 2022-12-22 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Fukuoka Kotaro | Win | B+R | 6.5 | 3218 | 30 | 
 | 2022-12-18 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Nishi Takenobu | Lose | W+R | 6.5 | 3188 | -32 | 
 | 2022-12-17 | 第2回テイケイ杯俊英戦Aリーグ | Sakai Yuki | Shibano Toramaru | Lose | W+R | 6.5 | 3220 | -17 | 

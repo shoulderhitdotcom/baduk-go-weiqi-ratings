@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第3回SGW杯中庸戦予選 | Kim Sujun | Ando Kazushige | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aH2VuJirFaKK2jw0DbCc3w%3D%3D) | 
 | 第2回SGW杯中庸戦予選 | Ando Kazushige | Ko Iun | W+R | 2019-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCp3%2F7FKw6P6zajnxVxZpA%3D%3D) | 

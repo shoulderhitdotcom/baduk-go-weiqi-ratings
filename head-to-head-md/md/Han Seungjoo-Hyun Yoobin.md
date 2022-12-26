@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Seungjoo vs Hyun Yoobin** | **Han Seungjoo streak** | **Hyun Yoobin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Seungjoo Vs Hyun Yoobin** | **Han Seungjoo Streak** | **Hyun Yoobin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-08-30 | 第25回三星火災杯韓国一般枠予選 | Han Seungjoo | Hyun Yoobin | B+R | 6.5 | 1:0 | 1 | 0 |
 

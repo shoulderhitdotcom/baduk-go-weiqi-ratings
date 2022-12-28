@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Kim Myounghoon** | **Kim Jiseok Streak** | **Kim Myounghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-02 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Kim Jiseok | Kim Myounghoon | W+R | 6.5 | 5:3 | 0 | 2 | 
 | 2022-03-15 | 2022年アジア競技大会韓国予選 | Kim Myounghoon | Kim Jiseok | B+R | 7.5 | 5:2 | 0 | 1 | 
 | 2021-01-15 | 第44期名人戦（韓国）予選 | Kim Myounghoon | Kim Jiseok | W+R | 6.5 | 5:1 | 5 | 0 | 
 | 2019-11-08 | 2019-2020韓国囲碁リーグ第6節第2試合第5局 | Kim Myounghoon | Kim Jiseok | W+R | 6.5 | 4:1 | 4 | 0 | 

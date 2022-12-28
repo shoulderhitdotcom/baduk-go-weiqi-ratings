@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-28 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Heo Seohyun | Lose | B+R | 6.5 | 2977 | 3 | 
 | 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Heo Seohyun | Shen Zaiyi | Win | B+1.5 | 6.5 | 2974 | 24 | 
 | 2022-12-22 | 第1回ニュースピムGAM杯女子囲碁最強戦第2戦 |  | Heo Seohyun | Win | W+2.5 | 6.5 | 2950 | -12 | 
 | 2022-12-10 | 第1回ニュースピムGAM杯女子囲碁最強戦第1戦 | Heo Seohyun |  | Win | B+R | 6.5 | 2962 | 3 | 

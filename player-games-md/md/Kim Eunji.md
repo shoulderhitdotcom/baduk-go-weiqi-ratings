@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-27 | 22-23ハナ銀行MZ囲碁スーパーマッチ予選 | Kim Eunji | Lee Yeon | Lose | W+1.5 | 6.5 | 3150 | -12 | 
+| 2022-12-28 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Eunji | Heo Seohyun | Win | B+R | 6.5 | 3160 | 10 | 
+| 2022-12-27 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Kim Eunji | Lee Yeon | Lose | W+1.5 | 6.5 | 3150 | -12 | 
 | 2022-12-23 | 第6回クラウン・ヘテ杯1回戦 | Kim Eunji | Park Sangjin | Lose | W+R | 6.5 | 3162 | 5 | 
 | 2022-12-21 | 第1回ニュースピムGAM杯女子囲碁最強戦第2戦 | Kim Cheayoung | Kim Eunji | Win | W+R | 6.5 | 3157 | 7 | 
 | 2022-12-20 | 第6期女子棋聖戦（韓国）決勝三番勝負第2局 | Kim Eunji | Choi Jeong | Lose | W+R | 6.5 | 3150 | -5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-28 | 2022-2023韓国囲碁リーグ | Shen Zaiyi | Lai Junfu | Win | B+R | 6.5 | 3394 | 33 | 
 | 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Heo Seohyun | Shen Zaiyi | Lose | B+1.5 | 6.5 | 3361 | -25 | 
 | 2022-11-23 | 2022中国囲碁乙級リーグ | Lin Lixiang | Shen Zaiyi | Win | W+R | 7.5 | 3386 | 23 | 
 | 2022-11-22 | 2022中国囲碁乙級リーグ | Shen Zaiyi | Shu Yixiao | Win | B+R | 7.5 | 3363 | 23 | 

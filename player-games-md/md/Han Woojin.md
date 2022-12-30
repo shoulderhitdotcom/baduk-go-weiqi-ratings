@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-26 | 第6回クラウン・ヘテ杯1回戦 |  | Han Woojin | Lose | B+R | 6.5 | 3279 | 6 | 
-| 2022-12-07 | 第28回GSカルテックス杯プロ棋戦予選 | Han Woojin | Hyun Yoobin | Win | B+R | 6.5 | 3273 | 3 | 
-| 2022-11-23 | 2022中国囲碁乙級リーグ | Han Woojin | Lee Changseok | Lose | W+R | 7.5 | 3270 | -10 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Han Woojin | Lose | B+R | 7.5 | 3280 | -19 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Han Woojin | Park Sangjin | Lose | W+R | 7.5 | 3299 | -2 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Han Woojin | Lose | B+R | 7.5 | 3301 | -5 | 
-| 2022-11-19 | 第6回クラウン・ヘテ杯予選 | Han Woojin |  | Win | B+R | 6.5 | 3306 | 1 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ | Han Woojin | Wu Guangya | Lose | W+R | 7.5 | 3305 | -1 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Han Woojin | Lose | B+1¾ | 7.5 | 3306 | -23 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Win | W+R | 7.5 | 3329 | 36 | 
+| 2022-12-29 | 2022-2023韓国囲碁リーグ | Han Woojin | Cho Hanseung | Lose | W+R | 6.5 | 3291 | 12 | 
+| 2022-12-26 | 第6回クラウン・ヘテ杯1回戦 |  | Han Woojin | Lose | B+R | 6.5 | 3279 | 7 | 
+| 2022-12-07 | 第28回GSカルテックス杯プロ棋戦予選 | Han Woojin | Hyun Yoobin | Win | B+R | 6.5 | 3272 | 3 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Han Woojin | Lee Changseok | Lose | W+R | 7.5 | 3269 | -10 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Han Woojin | Lose | B+R | 7.5 | 3279 | -19 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Han Woojin | Park Sangjin | Lose | W+R | 7.5 | 3298 | -2 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Kou Zhengyan | Han Woojin | Lose | B+R | 7.5 | 3300 | -5 | 
+| 2022-11-19 | 第6回クラウン・ヘテ杯予選 | Han Woojin |  | Win | B+R | 6.5 | 3305 | 1 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Han Woojin | Wu Guangya | Lose | W+R | 7.5 | 3304 | -1 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Han Woojin | Lose | B+1¾ | 7.5 | 3305 | -23 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Hirata Tomoya | Han Woojin | Win | W+R | 7.5 | 3328 | 35 | 
 | 2022-11-15 | 2022中国囲碁乙級リーグ | Han Woojin | Zhou Hexi | Win | B+R | 7.5 | 3293 | -16 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Han Woojin | Hsu Chiayuan | Lose | W+R | 6.5 | 3309 | 17 | 
 | 2022-09-16 | 第3期利鵬杯新鋭最高位戦決勝 | Han Woojin | Heo Youngrak | Win | B+R | 6.5 | 3292 | 52 | 
@@ -38,9 +39,9 @@
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦  | Fukuoka Kotaro | Han Woojin | Lose | B+0.5 | 6.5 | 2984 | 0 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Han Woojin | Win | W+R | 6.5 | 2984 | -16 | 
 | 2022-05-16 | 2022YK建機杯リーグ | Kim Eunji | Han Woojin | Win | W+3.5 | 6.5 | 3000 | -113 | 
-| 2022-05-02 | 2022YK建機杯リーグ | Han Woojin | Ryu Minhyung | Win | B+R | 6.5 | 3113 | -16 | 
-| 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Lose | W+R | 6.5 | 3129 | -21 | 
-| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3150 | 1 | 
+| 2022-05-02 | 2022YK建機杯リーグ | Han Woojin | Ryu Minhyung | Win | B+R | 6.5 | 3113 | -15 | 
+| 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Lose | W+R | 6.5 | 3128 | -21 | 
+| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3149 | 0 | 
 | 2022-03-26 | 第7回未来の星新鋭最強戦決勝 |  | Han Woojin | Lose | B+R | 6.5 | 3149 | -1 | 
 | 2022-03-25 | 第7回未来の星新鋭最強戦準決勝 |  | Han Woojin | Win | W+R | 6.5 | 3150 | 33 | 
 | 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Lose | W+1.5 | 6.5 | 3117 | -10 | 
@@ -55,9 +56,9 @@
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Woojin | Seol Hyunjun | Lose | W+R | 6.5 | 3168 | 94 | 
 | 2021-05-10 | 第9回河燦錫国手杯英才最強戦準決勝 | Moon Minjong | Han Woojin | Lose | B+R | 6.5 | 3074 | -22 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Cho Wankyu | Win | B+R | 6.5 | 3096 | 0 | 
-| 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Win | B+R | 6.5 | 3096 | 61 | 
-| 2021-04-30 | 第9回河燦錫国手杯英才最強戦3回戦 |  | Han Woojin | Win | W+0.5 | 6.5 | 3035 | 29 | 
-| 2021-04-26 | 第9回河燦錫国手杯英才最強戦2回戦 |  | Han Woojin | Win | W+R | 6.5 | 3006 | -4 | 
+| 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Win | B+R | 6.5 | 3096 | 62 | 
+| 2021-04-30 | 第9回河燦錫国手杯英才最強戦3回戦 |  | Han Woojin | Win | W+0.5 | 6.5 | 3034 | 29 | 
+| 2021-04-26 | 第9回河燦錫国手杯英才最強戦2回戦 |  | Han Woojin | Win | W+R | 6.5 | 3005 | -5 | 
 | 2021-03-25 | 第6回未来の星新鋭最強戦準決勝 | Hyun Yoobin | Han Woojin | Lose | B+3.5 | 6.5 | 3010 | -34 | 
 | 2021-03-18 | 第6回未来の星新鋭最強戦3回戦 |  | Han Woojin | Win | W+R | 6.5 | 3044 | 38 | 
 | 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 | Han Woojin | Kim Seongji | Win | B+R | 6.5 | 3006 | 118 | 

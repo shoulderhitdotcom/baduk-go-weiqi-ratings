@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | W+R | 6.5 | 3587 | 0 | 
+| 2022-12-29 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | W+1.5 | 6.5 | 3587 | -4 | 
 | 2022-12-28 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Kang Dongyun | Han Sanghoon | Win | B+R | 6.5 | 3591 | 2 | 
 | 2022-12-18 | 第2期韓国棋院選手権戦グループリーグ | Baek Chanhee | Kang Dongyun | Win | W+R | 6.5 | 3589 | 26 | 
 | 2022-11-28 | 第24回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kang Dongyun | Lian Xiao | Lose | W+R | 6.5 | 3563 | -6 | 

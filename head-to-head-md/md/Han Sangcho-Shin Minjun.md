@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sangcho Vs Shin Minjun** | **Han Sangcho Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-29 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Han Sangcho | Shin Minjun | B+1.5 | 6.5 | 1:3 | 1 | 0 | 
 | 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Han Sangcho | Shin Minjun | W+R | 6.5 | 0:3 | 0 | 3 | 
 | 2018-01-24 | 第5回メジオン杯オープン新人王戦決勝三番勝負第二局 | Shin Minjun | Han Sangcho | B+R | 6.5 | 0:2 | 0 | 2 | 
 | 2018-01-17 | 第5回メジオン杯オープン新人王戦決勝三番勝負第一局 | Han Sangcho | Shin Minjun | W+R | 6.5 | 0:1 | 0 | 1 |

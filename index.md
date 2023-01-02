@@ -438,11 +438,11 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Na Hyun | 249 | 17 | 羅玄 | 
 | Jin Siyoung | 240 | 17 | 陳時暎 | 
 | Xie Erhao | 217 | 34 | 謝爾豪 | 
-| Kim Sonjin | 216 | 14 | 金成進 | 
+| Kim Sonjin | 217 | 14 | 金成進 | 
 | Kim Sangcheon | 197 | 14 | 金相天 | 
 | Tuo Jiaxi | 194 | 36 | 柁嘉熹 | 
 | Lee Sanghun | 191 | 15 | 李尚憲 | 
-| Li Weiqing | 172 | 28 | 李維清 | 
+| Li Weiqing | 173 | 28 | 李維清 | 
 | Lee Yeongkyu | 158 | 19 | 李映九 | 
 | Kang Seungmin | 153 | 39 | 姜昇旼 | 
 | Lee Wondo | 145 | 21 | 李元道 | 
@@ -478,7 +478,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | Li Qincheng | 13 | 39 | 李欽誠 | 
 | Han Seungjoo | 10 | 29 | 韓昇周 | 
 | Xie Ke | 9 | 38 | 謝科 | 
-| Chen Yaoye | 4 | 22 | 陳耀燁 | 
+| Chen Yaoye | 5 | 22 | 陳耀燁 | 
 | Fan Yin | 4 | 22 | 范胤 | 
 | Jiang Qirun | 4 | 21 | 蒋其潤 | 
 | Lee Jihyun | -5 | 50 | 李志賢 | 

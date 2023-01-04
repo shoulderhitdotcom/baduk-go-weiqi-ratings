@@ -32,15 +32,15 @@
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Xie Erhao | Lee Jihyun | Lose | B+R | 7.5 | 3367 | -20 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Wang Zheyu | Win | B+R | 7.5 | 3387 | -14 | 
 | 2022-07-21 | 第45期名人戦（韓国）敗者組1回戦 | Seol Hyunjun | Lee Jihyun | Win | W+R | 6.5 | 3401 | 32 | 
-| 2022-07-11 | 2022YK建機杯リーグ | Kang Dongyun | Lee Jihyun | Win | W+R | 6.5 | 3369 | 23 | 
-| 2022-07-06 | 第45期名人戦（韓国）1回戦 | Shin Minjun | Lee Jihyun | Lose | B+R | 6.5 | 3346 | -16 | 
-| 2022-07-01 | 2022YK建機杯リーグ | Lee Jihyun | Kim Eunji | Win | B+R | 6.5 | 3362 | 4 | 
+| 2022-07-11 | 2022YK建機杯リーグ | Kang Dongyun | Lee Jihyun | Win | W+R | 6.5 | 3369 | 22 | 
+| 2022-07-06 | 第45期名人戦（韓国）1回戦 | Shin Minjun | Lee Jihyun | Lose | B+R | 6.5 | 3347 | -16 | 
+| 2022-07-01 | 2022YK建機杯リーグ | Lee Jihyun | Kim Eunji | Win | B+R | 6.5 | 3363 | 5 | 
 | 2022-06-15 | 2022YK建機杯リーグ | Park Junghwan | Lee Jihyun | Lose | B+R | 6.5 | 3358 | -1 | 
 | 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3359 | -9 | 
 | 2022-06-08 | 第8回国手山脈国際囲碁大会韓国予選 | Lee Wonyoung | Lee Jihyun | Win | W+R | 6.5 | 3368 | 11 | 
 | 2022-06-06 | 2022YK建機杯リーグ | Lee Jihyun | Han Woojin | Lose | W+0.5 | 6.5 | 3357 | -20 | 
-| 2022-05-18 | 2022YK建機杯リーグ | Lee Jihyun | Weon Seongjin | Win | B+R | 6.5 | 3377 | 31 | 
-| 2022-05-10 | 2022YK建機杯リーグ | Lee Jihyun | Kim Sedong | Lose | W+R | 6.5 | 3346 | 8 | 
+| 2022-05-18 | 2022YK建機杯リーグ | Lee Jihyun | Weon Seongjin | Win | B+R | 6.5 | 3377 | 30 | 
+| 2022-05-10 | 2022YK建機杯リーグ | Lee Jihyun | Kim Sedong | Lose | W+R | 6.5 | 3347 | 9 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Shin Minjun | Lose | W+R | 7.5 | 3338 | -2 | 
 | 2022-05-03 | 2022年アジア競技大会韓国予選 | Kim Jiseok | Lee Jihyun | Win | W+R | 7.5 | 3340 | -8 | 
 | 2022-04-29 | 2022年アジア競技大会韓国予選 | Park Geunho | Lee Jihyun | Win | W+R | 7.5 | 3348 | 44 | 
@@ -50,8 +50,8 @@
 | 2022-04-07 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Han Sanghoon | Win | B+R | 7.5 | 3194 | 0 | 
 | 2022-04-07 | 2022年アジア競技大会韓国予選 | Lee Jihyun | Park Geunho | Lose | W+R | 7.5 | 3194 | 75 | 
 | 2022-04-06 | 2022YK建機杯リーグ | Lee Jihyun | Ryu Minhyung | Lose | W+R | 6.5 | 3119 | -35 | 
-| 2022-03-29 | 2022YK建機杯リーグ | Lee Jihyun | Kim Myounghoon | Lose | W+R | 6.5 | 3154 | -117 | 
-| 2022-03-14 | 2022YK建機杯リーグ | Lee Jihyun | Shin Jinseo | Win | B+R | 6.5 | 3271 | 35 | 
+| 2022-03-29 | 2022YK建機杯リーグ | Lee Jihyun | Kim Myounghoon | Lose | W+R | 6.5 | 3154 | -118 | 
+| 2022-03-14 | 2022YK建機杯リーグ | Lee Jihyun | Shin Jinseo | Win | B+R | 6.5 | 3272 | 36 | 
 | 2022-02-28 | 2022YK建機杯予選 | Lee Jihyun | Kim Seungjun | Win | B+3.5 | 6.5 | 3236 | 8 | 
 | 2022-02-21 | 第14回春蘭杯韓国予選 | Lee Jihyun | Seol Hyunjun | Lose | W+2.5 | 7.5 | 3228 | 0 | 
 | 2022-02-21 | 第14回春蘭杯韓国予選 | Lee Jihyun | Seol Hyunjun | Lose | W+1¼ | 7.5 | 3228 | -33 | 
@@ -60,11 +60,11 @@
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Lose | B+R | 6.5 | 3360 | -118 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 |  | Lee Jihyun | Win | W+R | 6.5 | 3478 | -45 | 
 | 2021-04-05 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3523 | -67 | 
-| 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | Lose | B+R | 6.5 | 3590 | -12 | 
-| 2021-03-23 | 第22回マキシムコーヒー杯入神最強戦準決勝 | Park Junghwan | Lee Jihyun | Win | W+2.5 | 6.5 | 3602 | 0 | 
-| 2021-03-09 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Lee Jihyun | Lee Donghoon | Win | B+R | 6.5 | 3602 | 0 | 
-| 2021-02-23 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun |  | Win | B+R | 6.5 | 3602 | 0 | 
-| 2021-01-26 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Lee Yeongkyu | Win | B+R | 6.5 | 3602 | 110 | 
+| 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | Lose | B+R | 6.5 | 3590 | -13 | 
+| 2021-03-23 | 第22回マキシムコーヒー杯入神最強戦準決勝 | Park Junghwan | Lee Jihyun | Win | W+2.5 | 6.5 | 3603 | 0 | 
+| 2021-03-09 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Lee Jihyun | Lee Donghoon | Win | B+R | 6.5 | 3603 | 0 | 
+| 2021-02-23 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun |  | Win | B+R | 6.5 | 3603 | 0 | 
+| 2021-01-26 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Lee Yeongkyu | Win | B+R | 6.5 | 3603 | 111 | 
 | 2020-04-20 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3492 | 8 | 
 | 2020-04-13 | 第25回LG杯韓国予選 | Lee Hyeonwuk | Lee Jihyun | Lose | B+5.5 | 6.5 | 3484 | 0 | 
 | 2020-04-13 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Jihyun | Shin Minjun | Win | B+R | 6.5 | 3484 | 23 | 

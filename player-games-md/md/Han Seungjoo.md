@@ -17,9 +17,9 @@
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Han Seungjoo | Shin Jinseo | Lose | W+R | 6.5 | 3480 | -3 | 
 | 2022-04-23 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Han Seungjoo | Win | W+R | 6.5 | 3483 | 22 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Lose | B+R | 6.5 | 3461 | -8 | 
-| 2022-03-27 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Han Seungjoo | Lose | B+R | 6.5 | 3469 | -24 | 
-| 2022-03-19 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+5.5 | 6.5 | 3493 | 13 | 
-| 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Han Seungjoo | Win | W+R | 6.5 | 3480 | 22 | 
+| 2022-03-27 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Han Seungjoo | Lose | B+R | 6.5 | 3469 | -25 | 
+| 2022-03-19 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+5.5 | 6.5 | 3494 | 13 | 
+| 2022-03-13 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Han Seungjoo | Win | W+R | 6.5 | 3481 | 23 | 
 | 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Lose | B+R | 6.5 | 3458 | -1 | 
 | 2022-02-24 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Win | B+R | 6.5 | 3459 | -4 | 
 | 2022-02-12 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Kim Jiseok | Han Seungjoo | Lose | B+R | 6.5 | 3463 | -17 | 
@@ -29,8 +29,8 @@
 | 2022-01-26 | 第5回クラウン・ヘテ杯決勝三番勝負第2局 | Byun Sangil | Han Seungjoo | Lose | B+R | 6.5 | 3468 | -2 | 
 | 2022-01-24 | 第5回クラウン・ヘテ杯決勝三番勝負第1局 | Han Seungjoo | Byun Sangil | Win | B+R | 6.5 | 3470 | 21 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Kang Dongyun | Win | B+R | 6.5 | 3449 | 0 | 
-| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Win | W+R | 6.5 | 3449 | 5 | 
-| 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Lose | B+R | 6.5 | 3444 | 18 | 
+| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Win | W+R | 6.5 | 3449 | 4 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Lose | B+R | 6.5 | 3445 | 19 | 
 | 2022-01-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Seungmin | Win | B+R | 6.5 | 3426 | 18 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+12.5 | 6.5 | 3408 | 0 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Win | B+R | 6.5 | 3408 | 10 | 

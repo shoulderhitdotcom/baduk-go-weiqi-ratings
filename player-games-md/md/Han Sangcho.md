@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-05 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Han Sangcho | Win | W+9.5 | 6.5 | 3168 | 98 | 
 | 2022-12-29 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Han Sangcho | Shin Minjun | Win | B+1.5 | 6.5 | 3070 | 40 | 
 | 2022-12-23 | 第6回クラウン・ヘテ杯1回戦 | Han Sangcho | Kim Kyeongeun | Lose | W+0.5 | 6.5 | 3030 | -64 | 
 | 2022-10-05 | 第2期韓国棋院選手権戦予選 | Hong Seongji | Han Sangcho | Win | W+12.5 | 6.5 | 3094 | 35 | 

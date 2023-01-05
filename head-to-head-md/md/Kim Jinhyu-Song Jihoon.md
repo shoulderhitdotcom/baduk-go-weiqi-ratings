@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jinhyu vs Song Jihoon** | **Kim Jinhyu streak** | **Song Jihoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jinhyu Vs Song Jihoon** | **Kim Jinhyu Streak** | **Song Jihoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-05-03 | 2015年韓国囲碁リーグ | Kim Jinhyu | Song Jihoon | W+2.5 | 6.5 | 0:1 | 0 | 1 |
 

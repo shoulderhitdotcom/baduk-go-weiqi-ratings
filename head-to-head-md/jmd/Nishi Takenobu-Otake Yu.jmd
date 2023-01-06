@@ -1,4 +1,4 @@
-## Tsuruta Kazushi Games
+## Nishi Takenobu vs Otake Yu Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Tsuruta Kazushi.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Nishi Takenobu-Otake Yu.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

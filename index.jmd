@@ -6,19 +6,13 @@ The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 ### Quicklinks
 
-[Top 100](#top-100)
-
-[Outside Top 100](#outside-of-top-100)
+[Ranking](#Ranking)
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
 
-[Biggest Movers today in top 100](#biggest-movers-in-top-100-today)
-
-[Biggest Movers 365 days](#biggest-movers-in-top-100-last-365-days)
-
 [Infrequent players](#infrequent-players)
 
-### Top 100
+### Ranking
 
 ```{julia; echo=false; line_width=888}
 using JDF
@@ -34,15 +28,7 @@ pings_for_md = @chain pings_for_md begin
     select([:Rank, :Name, :Rating, Symbol("Games Played"), Symbol("Hanzi (汉字) Name")])
 end
 
-df_to_md(pings_for_md[1:100, :])
-```
-
-### Outside of Top 100
-
-Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
-
-```{julia; echo=false; line_width=888}
-df_to_md(pings_for_md[101:end, :])
+df_to_md(pings_for_md)
 ```
 
 
@@ -56,44 +42,6 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-### Biggest Movers in Top 100 Today
-
-
-```{julia; echo=false; line_width=888}
-using JDF, Chain, DataFrameMacros
-using DataFrames: DataFrame
-
-include("c:/weiqi/simulation/utils.jl")
-
-@chain JDF.load("top100_movements.jdf") begin
-    DataFrame
-    df_to_md
-end
-```
-
-### Biggest Movers in Top 100 (last 365 days)
-
-
-```{julia; echo=false; line_width=888}
-using JDF, Chain, DataFrameMacros
-using DataFrames: DataFrame
-
-include("c:/weiqi/simulation/utils.jl")
-
-biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
-    DataFrame
-    @transform :Rating_diff = round(Int, :x1 * 365)
-    select(
-        :eng_name_old => :Name,
-        :Rating_diff => Symbol("Rating Change Trend"),
-        :ngames => Symbol("Games Played"),
-        :name => Symbol("汉字")
-    )
-end
-
-df_to_md(biggest_movers)
-```
-
 ### Infrequent players
 
 ```{julia; echo=false; line_width=888}
@@ -104,10 +52,12 @@ include("c:/weiqi/simulation/utils.jl")
 
 tmp = JDF.load("below_threshold_pings_for_md.jdf") |> DataFrame
 
-select!(tmp, Not(:Uncertainty))
+# select!(tmp, Not(:Uncertainty))
 
 df_to_md(tmp)
 ```
+
+### Testing head to head
 
 [Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)
 [Head-to-head](head-to-head-md/md/Lee Changseok-Tao Xinran.md)

@@ -30,6 +30,8 @@ df = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     @transform :date = parse(Date, :date)
     @transform :black = replace(:black, "羋昱廷" => "芈昱廷")
     @transform :white = replace(:white, "羋昱廷" => "芈昱廷")
+    @transform :black = replace(:black, "朴ジンソル" => "朴進率")
+    @transform :white = replace(:white, "朴ジンソル" => "朴進率")
     @transform :black = coalesce(eng_name(:black), "")
     @transform :white = coalesce(eng_name(:white), "")
     unique

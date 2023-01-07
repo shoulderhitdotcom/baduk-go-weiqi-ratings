@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-07 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第3局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3165 | -23 | 
 | 2023-01-06 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 3188 | 2 | 
 | 2023-01-03 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第1局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3186 | 0 | 
 | 2022-12-21 | 第1回ニュースピムGAM杯女子囲碁最強戦第2戦 | Kim Cheayoung | Kim Eunji | Lose | W+R | 6.5 | 3186 | 13 | 

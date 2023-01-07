@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-07 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第3局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3382 | -19 | 
 | 2023-01-06 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第2局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3401 | 10 | 
 | 2023-01-04 | 2022-2023韓国囲碁リーグ | Choi Jeong | Park Sangjin | Win | B+R | 6.5 | 3391 | 18 | 
 | 2023-01-03 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第1局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3373 | 0 | 

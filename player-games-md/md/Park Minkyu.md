@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-07 | 第2期韓国棋院選手権戦グループリーグ | Park Minkyu | Lee Changho | Lose | W+R | 6.5 | 3279 | -62 | 
+| 2022-12-31 | 2022-2023韓国囲碁リーグ | Hong Seongji | Park Minkyu | Lose | B+1.5 | 6.5 | 3341 | 0 | 
+| 2022-12-31 | 2022-2023韓国囲碁リーグ | Park Minkyu | Byun Sangil | Lose | W+R | 6.5 | 3341 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Seungmin | Park Minkyu | Win | W+R | 6.5 | 3341 | 13 | 
 | 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Byun Sangil | Park Minkyu | Lose | B+1.5 | 7.5 | 3328 | 6 | 
 | 2022-08-13 | 第8回国手山脈韓国国内トーナメント1回戦 | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3322 | -37 | 

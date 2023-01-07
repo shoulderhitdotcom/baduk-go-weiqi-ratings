@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jeong Vs Kim Cheayoung** | **Choi Jeong Streak** | **Kim Cheayoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-06 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第2局 | Kim Cheayoung | Choi Jeong | W+R | 6.5 | 20:5 | 4 | 0 | 
+| 2023-01-03 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第1局 | Choi Jeong | Kim Cheayoung | B+R | 6.5 | 19:5 | 3 | 0 | 
+| 2022-12-07 | 第1回ニュースピムGAM杯女子囲碁最強戦第1戦 | Kim Cheayoung | Choi Jeong | W+R | 6.5 | 18:5 | 2 | 0 | 
+| 2022-12-06 | 第6期女子棋聖戦（韓国）準決勝 | Kim Cheayoung | Choi Jeong | W+R | 6.5 | 17:5 | 1 | 0 | 
 | 2022-10-09 | 2022Dr.G女子最高棋士決定戦リーグ | Kim Cheayoung | Choi Jeong | B+R | 6.5 | 16:5 | 0 | 1 | 
 | 2022-07-14 | 第8回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | B+R | 6.5 | 16:4 | 7 | 0 | 
 | 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | B+R | 6.5 | 15:4 | 6 | 0 | 

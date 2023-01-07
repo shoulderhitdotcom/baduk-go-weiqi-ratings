@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Yuxiang vs Zhou Keping** | **Lin Yuxiang streak** | **Zhou Keping streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Yuxiang Vs Zhou Keping** | **Lin Yuxiang Streak** | **Zhou Keping Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Zhou Keping | B+R | 6.5 | 1:1 | 1 | 0 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | Lin Yuxiang | B+R | 6.5 | 0:1 | 0 | 1 |

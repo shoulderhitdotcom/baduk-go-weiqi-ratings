@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujita Akihiko Vs Ichiriki Ryo** | **Fujita Akihiko Streak** | **Ichiriki Ryo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Fujita Akihiko | B+R | 6.5 | 2:3 | 0 | 1 | 
 | 2020-01-23 | 第68期王座戦予選 | Fujita Akihiko | Ichiriki Ryo | B+R | 6.5 | 2:2 | 1 | 0 | 
 | 2019-05-11 | ナショナルチーム研究会 | Fujita Akihiko | Ichiriki Ryo | W+R | 6.5 | 1:2 | 0 | 2 | 
 | 2013-11-17 | 第8回広島アルミ杯・若鯉戦決勝 | Fujita Akihiko | Ichiriki Ryo | W+R | 6.5 | 1:1 | 0 | 1 | 

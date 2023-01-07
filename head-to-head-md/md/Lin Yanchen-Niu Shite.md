@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Yanchen Vs Niu Shite** | **Lin Yanchen Streak** | **Niu Shite Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-05 | 第16期棋王戦（台湾）予選 | Niu Shite | Lin Yanchen | W+R | 6.5 | 3:4 | 1 | 0 | 
 | 2021-04-15 | 第8回グロービス杯台湾予選 | Niu Shite | Lin Yanchen | B+0.5 | 6.5 | 2:4 | 0 | 1 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Yanchen | Niu Shite | B+R | 6.5 | 2:3 | 1 | 0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグA | Lin Yanchen | Niu Shite | W+R | 7.5 | 1:3 | 0 | 3 | 

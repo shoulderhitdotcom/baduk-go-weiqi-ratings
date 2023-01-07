@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第41期棋聖戦予選 | Kudo Norio | Matsubara Taisei | B+R | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0JEtuHIjVm8dkqQIRQofaQ%3D%3D) | 
 | 第61期王座戦予選 | Ohashi Hirofumi | Matsubara Taisei | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyA9xeNVIvZQ9%2FNISg3%2FkQ%3D%3D) | 

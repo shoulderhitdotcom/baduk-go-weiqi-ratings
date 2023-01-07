@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-06 | 第22期天元戦（台湾）予選 | Lin Shimin | Dai Jiashen | Lose | B+R | 6.5 | 1902 | -16 | 
 | 2023-01-05 | 第15回海峰杯プロ囲碁戦予選 | Dai Jiashen |  | Lose | W+R | 6.5 | 1918 | 274 | 
 | 2022-10-11 | 第18期国手戦（台湾） |  | Dai Jiashen | Lose | B+0.5 | 6.5 | 1644 | -429 | 
 | 2022-10-06 | 第16期棋王戦（台湾）予選 | Dai Jiashen |  | Lose | W+R | 6.5 | 2073 | 0 | 

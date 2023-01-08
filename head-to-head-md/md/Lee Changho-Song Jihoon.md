@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Song Jihoon** | **Lee Changho streak** | **Song Jihoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Song Jihoon** | **Lee Changho Streak** | **Song Jihoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Song Jihoon | Lee Changho | B+R | 6.5 | 1:2 | 0 | 1 | 
 | 2017-07-23 | 2017年韓国囲碁リーグ | Song Jihoon | Lee Changho | W+R | 6.5 | 1:1 | 1 | 0 | 

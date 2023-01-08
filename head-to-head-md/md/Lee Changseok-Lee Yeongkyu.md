@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changseok vs Lee Yeongkyu** | **Lee Changseok streak** | **Lee Yeongkyu streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Lee Yeongkyu** | **Lee Changseok Streak** | **Lee Yeongkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Lee Changseok | Lee Yeongkyu | B+R | 6.5 | 3:2 | 3 | 0 | 
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Lee Changseok | W+R | 6.5 | 2:2 | 2 | 0 | 

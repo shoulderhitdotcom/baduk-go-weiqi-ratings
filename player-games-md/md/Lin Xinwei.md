@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-08 | 第22期天元戦（台湾）予選 | Lin Xinwei | Cai Chengwei | Lose | W+R | 6.5 | 2890 | -46 | 
 | 2023-01-06 | 第22期天元戦（台湾）予選 | Zeng Pinjie | Lin Xinwei | Win | W+R | 6.5 | 2936 | 115 | 
 | 2022-11-28 | 第16期棋王戦（台湾）予選 | Xu Yuqi | Lin Xinwei | Win | W+1.5 | 6.5 | 2821 | 43 | 
 | 2022-10-16 | 第10期中環碁聖戦16強戦 | Lin Xinwei | Chen Weiting | Lose | W+3.5 | 6.5 | 2778 | 26 | 
@@ -14,17 +15,17 @@
 | 2022-10-06 | 第16期棋王戦（台湾）予選 | Liu Yifang | Lin Xinwei | Win | W+R | 6.5 | 2752 | 95 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Lin Xinwei | Chen Shoulian | Win | B+R | 6.5 | 2657 | -39 | 
 | 2022-09-18 | 第10期中環碁聖戦 | Lin Xinwei | Ding Shaojie | Win | B+R | 6.5 | 2696 | -39 | 
-| 2022-07-28 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Lose | W+1.5 | 6.5 | 2735 | -20 | 
-| 2022-07-07 | 第15期棋王戦（台湾）予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2755 | 17 | 
-| 2022-06-30 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Xu Jingen | Lose | W+T | 6.5 | 2738 | 141 | 
+| 2022-07-28 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Lose | W+1.5 | 6.5 | 2735 | -19 | 
+| 2022-07-07 | 第15期棋王戦（台湾）予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2754 | 17 | 
+| 2022-06-30 | 第15期棋王戦（台湾）予選 | Lin Xinwei | Xu Jingen | Lose | W+T | 6.5 | 2737 | 140 | 
 | 2022-05-10 | 第3期聯電杯プロ囲碁戦予選 | Zhang Zhehao | Lin Xinwei | Lose | B+R | 6.5 | 2597 | -242 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Lin Lixiang | Lin Xinwei | Lose | B+R | 6.5 | 2839 | -11 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Xinwei | Niu Shite | Win | B+R | 6.5 | 2850 | 0 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Xinwei |  | Win | B+R | 6.5 | 2850 | -31 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Xinwei | Chen Qirui | Lose | W+9.5 | 6.5 | 2881 | 0 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2881 | -6 | 
-| 2022-01-14 | 第21期天元戦（台湾）予選 | Lin Xinwei | Chen Shiyuan | Lose | W+R | 6.5 | 2887 | -1 | 
-| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Xinwei | Win | W+R | 6.5 | 2888 | 47 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2881 | -5 | 
+| 2022-01-14 | 第21期天元戦（台湾）予選 | Lin Xinwei | Chen Shiyuan | Lose | W+R | 6.5 | 2886 | -1 | 
+| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Xinwei | Win | W+R | 6.5 | 2887 | 46 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 |  | Lin Xinwei | Win | W+1.5 | 6.5 | 2841 | 94 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Xinwei | Win | W+R | 6.5 | 2747 | 17 | 
 | 2022-01-05 | 第21期天元戦（台湾）予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2730 | 8 | 
@@ -40,8 +41,8 @@
 | 2021-04-02 | 第17期国手戦（台湾） | Lin Shuyang | Lin Xinwei | Lose | B+0.5 | 6.5 | 2749 | -13 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Yang Zixuan | Lin Xinwei | Win | W+R | 6.5 | 2762 | 0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2762 | 0 | 
-| 2021-03-26 | 第17期国手戦（台湾） | Lin Shimin | Lin Xinwei | Win | W+8.5 | 6.5 | 2762 | 43 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2719 | 96 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Lin Shimin | Lin Xinwei | Win | W+8.5 | 6.5 | 2762 | 42 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2720 | 97 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Liu Jianchang | Lin Xinwei | Win | W+R | 6.5 | 2623 | 14 | 
 | 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Lin Xinwei | Dai Jiashen | Win | B+R | 6.5 | 2609 | 4 | 
 | 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Xinwei | Huang Shiyuan | Lose | W+R | 6.5 | 2605 | -81 | 

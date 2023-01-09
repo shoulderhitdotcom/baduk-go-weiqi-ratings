@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-08 | 第2期韓国棋院選手権戦グループリーグ | Lee Wonyoung | Han Sangcho | Lose | B+R | 6.5 | 3140 | -28 | 
 | 2023-01-05 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Han Sangcho | Win | W+9.5 | 6.5 | 3168 | 98 | 
 | 2022-12-29 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Han Sangcho | Shin Minjun | Win | B+1.5 | 6.5 | 3070 | 40 | 
 | 2022-12-23 | 第6回クラウン・ヘテ杯1回戦 | Han Sangcho | Kim Kyeongeun | Lose | W+0.5 | 6.5 | 3030 | -64 | 
@@ -20,8 +21,8 @@
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Han Sangcho | Cho Hanseung | Lose | W+0.5 | 6.5 | 3086 | 2 | 
 | 2022-02-24 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Han Sangcho | Lose | B+R | 6.5 | 3084 | -29 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Wi Taewoong | Han Sangcho | Lose | B+R | 6.5 | 3113 | 2 | 
-| 2022-01-22 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Han Sangcho | Lose | B+R | 6.5 | 3111 | 86 | 
-| 2022-01-13 | 2021-2022韓国囲碁リーグ | Han Sangcho | Weon Seongjin | Win | B+0.5 | 6.5 | 3025 | -2 | 
+| 2022-01-22 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Han Sangcho | Lose | B+R | 6.5 | 3111 | 87 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Han Sangcho | Weon Seongjin | Win | B+0.5 | 6.5 | 3024 | -3 | 
 | 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Han Sangcho | Shin Minjun | Lose | W+R | 6.5 | 3027 | -10 | 
 | 2021-12-30 | 2021-2022韓国囲碁リーグ | Han Sangcho | Yun Chanhee | Lose | W+R | 6.5 | 3037 | 144 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Han Sangcho | Park Jinyoung | Win | B+R | 6.5 | 2893 | -11 | 

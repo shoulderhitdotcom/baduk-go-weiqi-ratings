@@ -7,16 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-08 | 2022-2023韓国囲碁リーグ  | Kim Jinhyu | Lin Junyan | Win | B+R | 6.5 | 3316 | 2 | 
 | 2023-01-05 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Han Sangcho | Lose | W+9.5 | 6.5 | 3314 | -15 | 
 | 2022-05-12 | 2021-2022韓国囲碁リーグ優勝決定戦第4戦 | Kim Jinhyu | Cho Hanseung | Lose | W+R | 6.5 | 3329 | -11 | 
-| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Kim Jinhyu | Shin Jinseo | Lose | W+R | 6.5 | 3340 | -1 | 
-| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Kim Jinhyu | Kang Seungmin | Win | B+4.5 | 6.5 | 3341 | 23 | 
+| 2022-05-09 | 2021-2022韓国囲碁リーグ優勝決定戦第3戦 | Kim Jinhyu | Shin Jinseo | Lose | W+R | 6.5 | 3340 | 0 | 
+| 2022-05-08 | 2021-2022韓国囲碁リーグ優勝決定戦第2戦 | Kim Jinhyu | Kang Seungmin | Win | B+4.5 | 6.5 | 3340 | 22 | 
 | 2022-05-07 | 2021-2022韓国囲碁リーグ優勝決定戦第1戦 | Weon Seongjin | Kim Jinhyu | Win | W+1.5 | 6.5 | 3318 | 39 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Weon Seongjin | Kim Jinhyu | Lose | B+R | 6.5 | 3279 | -10 | 
 | 2022-04-19 | 第27回LG杯韓国予選 | Kim Jinhyu | Oh Yujin | Win | B+R | 6.5 | 3289 | 7 | 
-| 2022-04-03 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Gon Jiwoo | Win | B+R | 6.5 | 3282 | -12 | 
-| 2022-03-11 | 2021-2022韓国囲碁リーグ | Byun Sangil | Kim Jinhyu | Lose | B+3.5 | 6.5 | 3294 | 12 | 
-| 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Win | B+R | 6.5 | 3282 | 35 | 
+| 2022-04-03 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Gon Jiwoo | Win | B+R | 6.5 | 3282 | -11 | 
+| 2022-03-11 | 2021-2022韓国囲碁リーグ | Byun Sangil | Kim Jinhyu | Lose | B+3.5 | 6.5 | 3293 | 12 | 
+| 2022-03-05 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Han Seungjoo | Win | B+R | 6.5 | 3281 | 34 | 
 | 2022-02-27 | 2021-2022韓国囲碁リーグ | Wi Taewoong | Kim Jinhyu | Lose | B+R | 6.5 | 3247 | 12 | 
 | 2022-02-17 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Kim Sedong | Win | B+R | 6.5 | 3235 | 40 | 
 | 2022-02-11 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Lose | B+2.5 | 6.5 | 3195 | -42 | 
@@ -37,8 +38,8 @@
 | 2021-05-27 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kim Jinhyu | Lose | B+4.5 | 6.5 | 3155 | 3 | 
 | 2021-04-02 | 第26回GSカルテックス杯プロ棋戦1回戦 | Kim Jinhyu | Shen Zaiyi | Win | B+R | 6.5 | 3152 | 31 | 
 | 2021-03-06 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Han Sanghoon | Lose | W+R | 6.5 | 3121 | 14 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jinhyu | Park Jaekeun | Lose | W+6.5 | 6.5 | 3107 | -20 | 
-| 2021-02-21 | 2020-2021フューチャーズリーグ |  | Kim Jinhyu | Win | W+R | 6.5 | 3127 | 61 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jinhyu | Park Jaekeun | Lose | W+6.5 | 6.5 | 3107 | -21 | 
+| 2021-02-21 | 2020-2021フューチャーズリーグ |  | Kim Jinhyu | Win | W+R | 6.5 | 3128 | 62 | 
 | 2021-02-13 | 2020-2021フューチャーズリーグ | Lee Hyeonjun | Kim Jinhyu | Lose | B+R | 6.5 | 3066 | -32 | 
 | 2021-02-10 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Kim Sangcheon | Win | B+R | 6.5 | 3098 | 25 | 
 | 2021-02-03 | 2020-2021フューチャーズリーグ |  | Kim Jinhyu | Win | W+R | 6.5 | 3073 | 74 | 
@@ -50,10 +51,10 @@
 | 2020-12-19 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Oh Byungwoo | Win | B+R | 6.5 | 3106 | -45 | 
 | 2020-12-12 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Lee Wondo | Win | B+R | 6.5 | 3151 | 82 | 
 | 2020-12-09 | 2020-2021KBフューチャーズリーグ | Ju Hyeongwuk | Kim Jinhyu | Lose | B+R | 6.5 | 3069 | -32 | 
-| 2020-12-02 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Jinhyu | Win | W+R | 6.5 | 3101 | 98 | 
-| 2020-08-03 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Weon Seongjin | Win | B+0.5 | 6.5 | 3003 | 323 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Kim Jinhyu | Seol Hyunjun | Lose | W+R | 6.5 | 2680 | -4 | 
-| 2020-04-14 | 第25回LG杯韓国予選 | Kim Jinhyu |  | Win | B+R | 6.5 | 2684 | missing |
+| 2020-12-02 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Jinhyu | Win | W+R | 6.5 | 3101 | 97 | 
+| 2020-08-03 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Weon Seongjin | Win | B+0.5 | 6.5 | 3004 | 323 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Kim Jinhyu | Seol Hyunjun | Lose | W+R | 6.5 | 2681 | -4 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Kim Jinhyu |  | Win | B+R | 6.5 | 2685 | missing |
 
 
 

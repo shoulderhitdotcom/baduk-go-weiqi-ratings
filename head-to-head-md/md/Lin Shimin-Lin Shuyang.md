@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shimin vs Lin Shuyang** | **Lin Shimin streak** | **Lin Shuyang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shimin Vs Lin Shuyang** | **Lin Shimin Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Lin Shimin | Lin Shuyang | W+3.5 | 6.5 | 0:1 | 0 | 1 |
+| 2023-01-10 | 第22期天元戦（台湾）予選 | Lin Shimin | Lin Shuyang | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

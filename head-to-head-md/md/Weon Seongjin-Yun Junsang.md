@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Weon Seongjin Vs Yun Junsang** | **Weon Seongjin Streak** | **Yun Junsang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-12-27 | 22-23ハナ銀行MZ囲碁スーパーマッチ予選 | Weon Seongjin | Yun Junsang | W+R | 6.5 | 6:10 | 0 | 2 | 
+| 2022-12-27 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Weon Seongjin | Yun Junsang | W+R | 6.5 | 6:10 | 0 | 2 | 
 | 2019-10-19 | 2019-2020韓国囲碁リーグ第3節第3試合第1局 | Yun Junsang | Weon Seongjin | B+R | 6.5 | 6:9 | 0 | 1 | 
 | 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Yun Junsang | Weon Seongjin | W+R | 6.5 | 6:8 | 1 | 0 | 
 | 2017-03-20 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Yun Junsang | W+R | 6.5 | 5:8 | 0 | 2 | 

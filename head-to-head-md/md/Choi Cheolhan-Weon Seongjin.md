@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Weon Seongjin** | **Choi Cheolhan Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Weon Seongjin | W+R | 6.5 | 19:13 | 0 | 1 | 
 | 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | W+R | 7.5 | 19:12 | 3 | 0 | 
 | 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | B+R | 6.5 | 18:12 | 2 | 0 | 
 | 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Weon Seongjin | Choi Cheolhan | W+0.5 | 6.5 | 17:12 | 1 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Park Sangjin** | **Kim Seongjae streak** | **Park Sangjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Park Sangjin** | **Kim Seongjae Streak** | **Park Sangjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | W+1.5 | 6.5 | 0:1 | 0 | 1 |
 

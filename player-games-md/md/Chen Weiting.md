@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-06 | 第22期天元戦（台湾）予選 | Chen Weiting |  | Win | B+R | 6.5 | 2959 | 43 | 
+| 2023-01-09 | 第4期名人戦（台湾）予選 |  | Chen Weiting | Win | W+R | 6.5 | 2951 | -9 | 
+| 2023-01-06 | 第22期天元戦（台湾）予選 | Chen Weiting |  | Win | B+R | 6.5 | 2960 | 44 | 
 | 2023-01-03 | 第22期天元戦（台湾）予選 |  | Chen Weiting | Win | W+R | 6.5 | 2916 | 0 | 
 | 2022-10-21 | 第10期中環碁聖戦8強戦 | Xu Yuqi | Chen Weiting | Lose | B+6.5 | 6.5 | 2916 | 6 | 
 | 2022-10-20 | 第16期棋王戦（台湾）予選 | Chen Weiting | Chen Shiyuan | Lose | W+3.5 | 6.5 | 2910 | 14 | 
@@ -27,8 +28,8 @@
 | 2022-06-13 | 2022新人王戦（台湾）予選 | Chen Shoulian | Chen Weiting | Win | W+R | 7.5 | 2750 | 0 | 
 | 2022-06-13 | 2022新人王戦（台湾）予選 |  | Chen Weiting | Win | W+R | 7.5 | 2750 | 22 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Chen Weiting | Yang Zixuan | Lose | W+R | 6.5 | 2728 | -55 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Weiting |  | Lose | W+9.5 | 6.5 | 2783 | 45 | 
-| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Shixun | Chen Weiting | Lose | B+R | 6.5 | 2738 | missing |
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Weiting |  | Lose | W+9.5 | 6.5 | 2783 | 44 | 
+| 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Shixun | Chen Weiting | Lose | B+R | 6.5 | 2739 | missing |
 
 
 

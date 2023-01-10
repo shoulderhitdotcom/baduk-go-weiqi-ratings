@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第43期天元戦予選 | O Rissei | Suzuki Isao | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FAVe9GSSZltiDMn35bF9w%3D%3D) | 
 | 第41期棋聖戦予選 | Kataoka Satoshi | Suzuki Isao | B+R | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8ea9P726nwmmgwUFR3NpA%3D%3D) | 

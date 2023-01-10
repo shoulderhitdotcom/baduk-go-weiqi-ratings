@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Wonggyu vs Moon Minjong** | **Han Wonggyu streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Wonggyu Vs Moon Minjong** | **Han Wonggyu Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | W+R | 6.5 | 1:0 | 1 | 0 |
 

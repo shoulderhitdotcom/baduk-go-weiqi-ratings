@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Wonggyu vs Wi Taewoong** | **Han Wonggyu streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Wonggyu Vs Wi Taewoong** | **Han Wonggyu Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-08-20 | 2017年フューチャーズリーグ | Wi Taewoong | Han Wonggyu | B+R | 6.5 | 0:1 | 0 | 1 |
 

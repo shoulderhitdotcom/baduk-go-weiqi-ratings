@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kobayashi Izumi vs Xie Yimin** | **Kobayashi Izumi streak** | **Xie Yimin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kobayashi Izumi Vs Xie Yimin** | **Kobayashi Izumi Streak** | **Xie Yimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-09 | 第34期女流名人戦リーグ | Xie Yimin | Kobayashi Izumi | B+R | 6.5 | 2:6 | 0 | 4 | 
 | 2009-07-18 | 第3回大和証券杯ネット囲碁レディース決勝 | Xie Yimin | Kobayashi Izumi | B+3.5 | 6.5 | 2:5 | 0 | 3 | 
 | 2008-09-27 | 第2回大和証券杯ネット囲碁レディース決勝 | Kobayashi Izumi | Xie Yimin | W+R | 6.5 | 2:4 | 0 | 2 | 
 | 2008-01-10 | 第20期女流名人戦挑戦者決定戦 | Kobayashi Izumi | Xie Yimin | W+R | 6.5 | 2:3 | 0 | 1 | 

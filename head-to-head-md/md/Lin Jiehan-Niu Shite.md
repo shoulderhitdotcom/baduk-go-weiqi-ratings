@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Jiehan Vs Niu Shite** | **Lin Jiehan Streak** | **Niu Shite Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-09 | 第4期名人戦（台湾）予選 | Lin Jiehan | Niu Shite | W+R | 6.5 | 3:2 | 0 | 2 | 
 | 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Niu Shite | Lin Jiehan | B+R | 6.5 | 3:1 | 0 | 1 | 
 | 2018-09-16 | 第6期中環碁聖戦2回戦 | Niu Shite | Lin Jiehan | W+R | 6.5 | 3:0 | 3 | 0 | 
 | 2018-02-06 | 第12回春蘭杯台湾予選 | Lin Jiehan | Niu Shite | B+R | 7.5 | 2:0 | 2 | 0 | 

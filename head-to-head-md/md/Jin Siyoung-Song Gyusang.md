@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jin Siyoung vs Song Gyusang** | **Jin Siyoung streak** | **Song Gyusang streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jin Siyoung Vs Song Gyusang** | **Jin Siyoung Streak** | **Song Gyusang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-07-21 | 2018年フューチャーズリーグ | Jin Siyoung | Song Gyusang | W+R | 6.5 | 0:1 | 0 | 1 |
 

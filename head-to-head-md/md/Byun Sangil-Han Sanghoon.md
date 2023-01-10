@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Han Sanghoon** | **Byun Sangil streak** | **Han Sanghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Han Sanghoon** | **Byun Sangil Streak** | **Han Sanghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-08 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Han Sanghoon | W+R | 6.5 | 2:1 | 0 | 1 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第1局 | Han Sanghoon | Byun Sangil | W+R | 6.5 | 2:0 | 2 | 0 | 

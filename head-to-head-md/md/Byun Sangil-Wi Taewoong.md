@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Wi Taewoong** | **Byun Sangil streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Wi Taewoong** | **Byun Sangil Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-10 | 第4期韓国竜星戦1回戦 | Wi Taewoong | Byun Sangil | B+R | 6.5 | 0:1 | 0 | 1 |
 

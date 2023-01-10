@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hyun Yoobin vs Wi Taewoong** | **Hyun Yoobin streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hyun Yoobin Vs Wi Taewoong** | **Hyun Yoobin Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-02 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Wi Taewoong | W+R | 6.5 | 0:1 | 0 | 1 |
 

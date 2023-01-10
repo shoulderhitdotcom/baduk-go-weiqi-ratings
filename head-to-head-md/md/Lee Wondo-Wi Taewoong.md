@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Wondo vs Wi Taewoong** | **Lee Wondo streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Wondo Vs Wi Taewoong** | **Lee Wondo Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-06 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Wondo | B+6.5 | 6.5 | 2:2 | 0 | 2 | 
 | 2018-08-18 | 2018年フューチャーズリーグ | Wi Taewoong | Lee Wondo | B+R | 6.5 | 2:1 | 0 | 1 | 

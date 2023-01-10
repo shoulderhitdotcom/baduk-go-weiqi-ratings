@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Yu Lijun** | **Chen Qirui streak** | **Yu Lijun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Yu Lijun** | **Chen Qirui Streak** | **Yu Lijun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-11-22 | 2018年新人王戦（台湾）リーグB | Yu Lijun | Chen Qirui | W+R | 7.5 | 1:0 | 1 | 0 |
+| 2023-01-09 | 第4期名人戦（台湾）予選 | Chen Qirui | Yu Lijun | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

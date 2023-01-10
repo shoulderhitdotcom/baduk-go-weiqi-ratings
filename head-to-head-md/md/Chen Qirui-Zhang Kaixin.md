@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Zhang Kaixin** | **Chen Qirui streak** | **Zhang Kaixin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Zhang Kaixin** | **Chen Qirui Streak** | **Zhang Kaixin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-09-08 | 第7期中環碁聖戦1回戦 | Zhang Kaixin | Chen Qirui | W+R | 6.5 | 1:0 | 1 | 0 |
 

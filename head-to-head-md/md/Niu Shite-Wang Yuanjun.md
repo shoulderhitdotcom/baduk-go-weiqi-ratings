@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Niu Shite Vs Wang Yuanjun** | **Niu Shite Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-25 | 第18期国手戦（台湾）16強戦 | Wang Yuanjun | Niu Shite | B+R | 6.5 | 1:6 | 0 | 1 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Wang Yuanjun | Niu Shite | W+R | 6.5 | 1:5 | 1 | 0 | 
 | 2022-09-22 | 第15期棋王戦（台湾）リーグ | Niu Shite | Wang Yuanjun | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Niu Shite | B+R | 6.5 | 0:4 | 0 | 4 | 

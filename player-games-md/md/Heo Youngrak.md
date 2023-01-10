@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第4期ソパルコサノル最高棋士決定戦予選 | Heo Youngrak |  | Win | B+R | 6.5 | 3040 | 2 | 
 | 2023-01-09 | 2022-2023フューチャーズリーグ | Heo Youngrak | Han Wonggyu | Lose | W+R | 6.5 | 3038 | -262 | 
 | 2022-09-16 | 第3期利鵬杯新鋭最高位戦決勝 | Han Woojin | Heo Youngrak | Lose | B+R | 6.5 | 3300 | -89 | 
 | 2022-08-17 | 第3期利鵬杯新鋭最高位戦準決勝 | Heo Youngrak | Oh Byungwoo | Win | B+R | 6.5 | 3389 | 8 | 

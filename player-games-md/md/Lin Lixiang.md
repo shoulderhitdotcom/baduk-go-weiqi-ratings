@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第22期天元戦（台湾）予選 | Lin Lixiang | Chen Weiting | Win | B+R | 6.5 | 3124 | 0 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Lu Yuhua | Lin Lixiang | Win | W+R | 6.5 | 3124 | -13 | 
 | 2023-01-06 | 第22期天元戦（台湾）予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3137 | 21 | 
 | 2022-12-06 | 第18期国手戦（台湾）挑戦者決定戦 | Lin Lixiang | Chen Qirui | Lose | W+1.5 | 6.5 | 3116 | 7 | 

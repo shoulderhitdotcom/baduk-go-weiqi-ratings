@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第22期天元戦（台湾）予選 | Lu Yiquan | Lin Yuxiang | Lose | B+1.5 | 6.5 | 2567 | -13 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Lin Yuxiang | Jian Jingting | Lose | W+R | 6.5 | 2580 | -9 | 
 | 2023-01-06 | 第22期天元戦（台湾）予選 | Lin Yuxiang |  | Win | B+R | 6.5 | 2589 | -1 | 
 | 2023-01-03 | 第22期天元戦（台湾）予選 | Lin Yuxiang | Ding Shaojie | Win | B+R | 6.5 | 2590 | 0 | 

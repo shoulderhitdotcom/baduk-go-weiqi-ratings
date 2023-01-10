@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第22期天元戦（台湾）予選 | Xu Yuqi | Yu Lijun | Lose | B+R | 6.5 | 2580 | -13 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Chen Qirui | Yu Lijun | Win | W+R | 6.5 | 2593 | 31 | 
 | 2023-01-06 | 第22期天元戦（台湾）予選 | Yu Lijun | Lin Jiehan | Win | B+R | 6.5 | 2562 | 109 | 
 | 2022-12-13 | 台湾棋院 VS 関西棋院若手棋士ネット対抗戦2022 |  | Yu Lijun | Win | W+R | 6.5 | 2453 | -19 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-10 | 第22期天元戦（台湾）予選 | Lin Lixiang | Chen Weiting | Lose | B+R | 6.5 | 2940 | -11 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 |  | Chen Weiting | Win | W+R | 6.5 | 2951 | -9 | 
 | 2023-01-06 | 第22期天元戦（台湾）予選 | Chen Weiting |  | Win | B+R | 6.5 | 2960 | 44 | 
 | 2023-01-03 | 第22期天元戦（台湾）予選 |  | Chen Weiting | Win | W+R | 6.5 | 2916 | 0 | 

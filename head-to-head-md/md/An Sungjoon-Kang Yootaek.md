@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Kang Yootaek** | **An Sungjoon streak** | **Kang Yootaek streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Kang Yootaek** | **An Sungjoon Streak** | **Kang Yootaek Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-09-14 | 第43期名人戦（韓国）予選 | An Sungjoon | Kang Yootaek | B+4.5 | 6.5 | 2:1 | 1 | 0 | 
 | 2014-08-14 | 2014年韓国囲碁リーグ | An Sungjoon | Kang Yootaek | W+R | 6.5 | 1:1 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-11 | 2022-2023韓国囲碁リーグ | Xu Haohong | Han Sanghoon | Lose | B+R | 6.5 | 3247 | -6 | 
 | 2023-01-09 | 2022-2023フューチャーズリーグ | Song Gyusang | Han Sanghoon | Lose | B+R | 6.5 | 3253 | -50 | 
 | 2022-12-28 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Kang Dongyun | Han Sanghoon | Lose | B+R | 6.5 | 3303 | -18 | 
 | 2022-06-16 | 第27回GSカルテックス杯プロ棋戦2回戦 | Han Sanghoon | Shin Jinseo | Lose | W+R | 6.5 | 3321 | 16 | 

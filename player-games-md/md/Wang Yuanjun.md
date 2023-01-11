@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-11 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Wang Yuanjun | Lose | B+R | 6.5 | 3212 | -5 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Zhou Yinnan | Wang Yuanjun | Win | W+R | 6.5 | 3217 | 4 | 
 | 2023-01-08 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Park Yeonghun | Lose | W+R | 6.5 | 3213 | -18 | 
 | 2022-12-28 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Win | B+R | 6.5 | 3231 | 59 | 

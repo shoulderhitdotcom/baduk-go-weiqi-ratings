@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-11 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Lai Junfu | Win | B+R | 6.5 | 3424 | 5 | 
 | 2023-01-10 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 3419 | -7 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 3426 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 3426 | 0 | 

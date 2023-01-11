@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-11 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Wang Yuanjun | Win | B+R | 6.5 | 3367 | 43 | 
 | 2023-01-09 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Yun Chanhee | Kang Yootaek | Win | W+R | 6.5 | 3324 | 214 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Byun Sangil | Win | B+T | 6.5 | 3110 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Lose | W+R | 6.5 | 3110 | 50 | 

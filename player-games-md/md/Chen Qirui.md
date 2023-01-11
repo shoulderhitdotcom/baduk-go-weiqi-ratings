@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-11 | 2022-2023韓国囲碁リーグ | Chen Qirui | Park Minkyu | Lose | W+R | 6.5 | 3136 | -3 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Chen Qirui | Yu Lijun | Lose | W+R | 6.5 | 3139 | -10 | 
 | 2023-01-08 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Park Joonhoon | Win | B+2.5 | 6.5 | 3149 | 12 | 
 | 2022-12-20 | 第18期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3137 | 0 | 

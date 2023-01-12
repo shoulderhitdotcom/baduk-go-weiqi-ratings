@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Konishi Kazuko Vs Suzuki Ayumi** | **Konishi Kazuko Streak** | **Suzuki Ayumi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2017-03-30 | 第36期女流本因坊戦2回戦 | Suzuki Ayumi | Konishi Kazuko | B+4.5 | 6.5 | 0:2 | 0 | 2 | 
-| 2007-08-09 | 第20期女流名人戦敗者復活戦1回戦 | Suzuki Ayumi | Konishi Kazuko | B+11.5 | 6.5 | 0:1 | 0 | 1 | 
-| 2007-06-18 | 第9期東京精密杯女流プロ最強戦2回戦 | Suzuki Ayumi | Konishi Kazuko | B+1.5 | 6.5 | 0:3 | 0 | 3 |
+| 2017-03-30 | 第36期女流本因坊戦2回戦 | Suzuki Ayumi | Konishi Kazuko | B+4.5 | 6.5 | 0:3 | 0 | 3 | 
+| 2007-08-09 | 第20期女流名人戦敗者復活戦1回戦 | Suzuki Ayumi | Konishi Kazuko | B+11.5 | 6.5 | 0:2 | 0 | 2 | 
+| 2007-06-18 | 第9期東京精密杯女流プロ最強戦2回戦 | Suzuki Ayumi | Konishi Kazuko | B+1.5 | 6.5 | 0:1 | 0 | 1 |
 
 
 

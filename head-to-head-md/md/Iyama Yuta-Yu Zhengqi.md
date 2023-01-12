@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Yu Zhengqi** | **Iyama Yuta Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-12 | 第48期名人戦リーグ  | Iyama Yuta | Yu Zhengqi | B+R | 6.5 | 15:1 | 8 | 0 | 
 | 2022-11-18 | 第70期王座戦挑戦手合五番勝負第3局  | Yu Zhengqi | Iyama Yuta | W+R | 6.5 | 14:1 | 7 | 0 | 
 | 2022-11-11 | 第70期王座戦挑戦手合五番勝負第2局  | Iyama Yuta | Yu Zhengqi | B+0.5 | 6.5 | 13:1 | 6 | 0 | 
 | 2022-10-21 | 第70期王座戦挑戦手合五番勝負第1局  | Yu Zhengqi | Iyama Yuta | W+1.5 | 6.5 | 12:1 | 5 | 0 | 

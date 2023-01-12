@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-12 | 第6回クラウン・ヘテ杯2回戦 | Byun Sangil |  | Lose | W+R | 6.5 | 3629 | -7 | 
 | 2023-01-09 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Na Hyun | Win | B+R | 6.5 | 3636 | -12 | 
 | 2023-01-06 | 2022-2023韓国囲碁リーグ | Koike Yoshihiro | Byun Sangil | Win | W+R | 6.5 | 3648 | 1 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Park Minkyu | Byun Sangil | Win | W+R | 6.5 | 3647 | 0 | 
@@ -38,8 +39,8 @@
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | Lose | B+R | 7.5 | 3612 | 0 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Byun Sangil | Wang Xinghao | Lose | W+R | 7.5 | 3612 | -22 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Win | W+R | 7.5 | 3634 | -2 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Byun Sangil | Win | W+R | 7.5 | 3636 | -9 | 
-| 2022-07-22 | 第27回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Park Junghwan | Win | B+R | 6.5 | 3645 | -15 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Byun Sangil | Win | W+R | 7.5 | 3636 | -8 | 
+| 2022-07-22 | 第27回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Park Junghwan | Win | B+R | 6.5 | 3644 | -16 | 
 | 2022-07-18 | 第45期名人戦（韓国）敗者組1回戦 | Byun Sangil | Choi Jeong | Win | B+R | 6.5 | 3660 | 6 | 
 | 2022-07-15 | 第24回農心杯韓国予選 | Byun Sangil | Park Jinsol | Win | B+R | 6.5 | 3654 | 8 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Kim Jiseok | Byun Sangil | Win | W+R | 6.5 | 3646 | 3 | 
@@ -87,9 +88,9 @@
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Byun Sangil | Zhao Chenyu | Win | B+R | 7.5 | 3729 | 5 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Byun Sangil | Park Hamin | Win | B+0.5 | 6.5 | 3724 | 14 | 
 | 2022-01-06 | 第5回クラウン・ヘテ杯3回戦 | Park Hamin | Byun Sangil | Win | W+R | 6.5 | 3710 | 3 | 
-| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Win | W+R | 6.5 | 3707 | -4 | 
-| 2022-01-01 | 2021-2022韓国囲碁リーグ | Na Hyun | Byun Sangil | Lose | B+R | 6.5 | 3711 | -13 | 
-| 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Lose | W+R | 6.5 | 3724 | -4 | 
+| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Win | W+R | 6.5 | 3707 | -3 | 
+| 2022-01-01 | 2021-2022韓国囲碁リーグ | Na Hyun | Byun Sangil | Lose | B+R | 6.5 | 3710 | -13 | 
+| 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Lose | W+R | 6.5 | 3723 | -5 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Byun Sangil | Win | W+R | 6.5 | 3728 | 2 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | Win | W+R | 6.5 | 3726 | -6 | 
 | 2021-12-12 | 第7回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | Win | B+R | 6.5 | 3732 | 24 | 
@@ -119,8 +120,8 @@
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | Win | W+R | 6.5 | 3665 | 4 | 
 | 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3661 | -8 | 
 | 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Win | W+R | 6.5 | 3669 | 21 | 
-| 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | Win | W+6.5 | 6.5 | 3648 | -6 | 
-| 2021-07-16 | 第26回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Weon Seongjin | Win | B+R | 6.5 | 3654 | 9 | 
+| 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | Win | W+6.5 | 6.5 | 3648 | -5 | 
+| 2021-07-16 | 第26回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Weon Seongjin | Win | B+R | 6.5 | 3653 | 8 | 
 | 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | Win | B+R | 6.5 | 3645 | 6 | 
 | 2021-06-24 | 第26回GSカルテックス杯プロ棋戦3回戦 | Kim Sedong | Byun Sangil | Win | W+5.5 | 6.5 | 3639 | 11 | 
 | 2021-06-18 | 第44期名人戦（韓国）3回戦 | Choi Cheolhan | Byun Sangil | Win | W+R | 6.5 | 3628 | -2 | 
@@ -152,16 +153,16 @@
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Byun Sangil | Win | W+R | 6.5 | 3471 | 11 | 
 | 2021-02-10 | 第4期韓国竜星戦1回戦 | Wi Taewoong | Byun Sangil | Lose | B+R | 6.5 | 3460 | 1 | 
 | 2021-02-09 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kim Jiseok | Win | B+R | 6.5 | 3459 | 9 | 
-| 2021-02-07 | 2020-2021韓国囲碁リーグ | Byun Sangil | Na Hyun | Win | B+R | 6.5 | 3450 | -6 | 
-| 2021-02-01 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Paek Hongseok | Lose | W+R | 6.5 | 3456 | 4 | 
+| 2021-02-07 | 2020-2021韓国囲碁リーグ | Byun Sangil | Na Hyun | Win | B+R | 6.5 | 3450 | -5 | 
+| 2021-02-01 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Paek Hongseok | Lose | W+R | 6.5 | 3455 | 3 | 
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Seunghwa | Win | B+R | 6.5 | 3452 | -1 | 
 | 2021-01-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Byun Sangil | Win | W+R | 6.5 | 3453 | 7 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | Win | B+0.5 | 6.5 | 3446 | 15 | 
 | 2021-01-21 | 第4回クラウン・ヘテ杯2回戦 | Byun Sangil | An Jungki | Lose | W+R | 6.5 | 3431 | -8 | 
 | 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Lian Xiao | Byun Sangil | Lose | B+R | 7.5 | 3439 | -4 | 
 | 2021-01-17 | 2020-2021韓国囲碁リーグ | Byun Sangil | Gon Jiwoo | Lose | W+R | 6.5 | 3443 | -31 | 
-| 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | Win | B+R | 6.5 | 3474 | -11 | 
-| 2021-01-10 | 2020-2021韓国囲碁リーグ | Byun Sangil | Moon Minjong | Win | B+2.5 | 6.5 | 3485 | -1 | 
+| 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | Win | B+R | 6.5 | 3474 | -10 | 
+| 2021-01-10 | 2020-2021韓国囲碁リーグ | Byun Sangil | Moon Minjong | Win | B+2.5 | 6.5 | 3484 | -2 | 
 | 2021-01-06 | 第4回クラウン・ヘテ杯1回戦 | Byun Sangil | Song Gyusang | Win | B+R | 6.5 | 3486 | -3 | 
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | An Jungki | Byun Sangil | Win | W+R | 6.5 | 3489 | 6 | 
 | 2020-12-25 | 2020-2021韓国囲碁リーグ | Byun Sangil | Paek Hongseok | Win | B+R | 6.5 | 3483 | 2 | 
@@ -174,22 +175,22 @@
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Na Hyun | Byun Sangil | Win | W+R | 6.5 | 3437 | 19 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Byun Sangil | Win | W+R | 7.5 | 3418 | 0 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Byun Sangil | Baek Hyeonwoo | Win | B+R | 6.5 | 3418 | 1 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Byun Sangil | Tu Xiaoyu | Lose | W+R | 7.5 | 3417 | -14 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | Win | B+R | 7.5 | 3431 | 7 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Byun Sangil | Tu Xiaoyu | Lose | W+R | 7.5 | 3417 | -13 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | Win | B+R | 7.5 | 3430 | 6 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Rong Yi | Byun Sangil | Win | W+2¾ | 7.5 | 3424 | 31 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Byun Sangil | Win | W+R | 7.5 | 3393 | -4 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Byun Sangil |  | Win | B+R | 7.5 | 3397 | 21 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Byun Sangil | Yun Junsang | Lose | W+5.5 | 6.5 | 3376 | -40 | 
-| 2020-11-26 | 2020-2021韓国囲碁リーグ | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3416 | -53 | 
-| 2020-11-13 | 第4回クラウン・ヘテ杯予選 | Byun Sangil | Hyun Yoobin | Win | B+R | 6.5 | 3469 | 4 | 
-| 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Byun Sangil | Ke Jie | Lose | W+R | 6.5 | 3465 | -2 | 
+| 2020-11-26 | 2020-2021韓国囲碁リーグ | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3416 | -52 | 
+| 2020-11-13 | 第4回クラウン・ヘテ杯予選 | Byun Sangil | Hyun Yoobin | Win | B+R | 6.5 | 3468 | 4 | 
+| 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Byun Sangil | Ke Jie | Lose | W+R | 6.5 | 3464 | -3 | 
 | 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Byun Sangil | Kang Dongyun | Win | B+R | 6.5 | 3467 | -1 | 
 | 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Byun Sangil |  | Lose | W+R | 6.5 | 3468 | 36 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Li Xuanhao | Lose | W+9.5 | 6.5 | 3432 | -21 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Byun Sangil | Chen Yaoye | Win | B+R | 6.5 | 3453 | -22 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Xu Haohong | Byun Sangil | Lose | B+R | 7.5 | 3475 | -16 | 
-| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Byun Sangil | Lose | B+T | 6.5 | 3491 | -8 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Heo Jin | Byun Sangil | Win | W+R | 6.5 | 3499 | -3 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Xu Haohong | Byun Sangil | Lose | B+R | 7.5 | 3475 | -15 | 
+| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Byun Sangil | Lose | B+T | 6.5 | 3490 | -8 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Heo Jin | Byun Sangil | Win | W+R | 6.5 | 3498 | -4 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Lian Xiao | Byun Sangil | Win | W+R | 7.5 | 3502 | 5 | 
 | 2020-08-30 | 第25回三星火災杯韓国一般枠予選 |  | Byun Sangil | Win | W+R | 6.5 | 3497 | 2 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Zhang Tao | Byun Sangil | Win | W+R | 7.5 | 3495 | 11 | 
@@ -199,8 +200,8 @@
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Byun Sangil | Win | W+R | 6.5 | 3570 | 16 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Byun Sangil | Win | W+R | 6.5 | 3554 | 27 | 
 | 2020-05-21 | 第25期GSカルテックス杯プロ棋戦8強戦 | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3527 | -5 | 
-| 2020-05-12 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Byun Sangil | Win | W+R | 6.5 | 3532 | -3 | 
-| 2020-05-01 | 第25期GSカルテックス杯プロ棋戦16強戦 | Yun Junsang | Byun Sangil | Win | W+R | 6.5 | 3535 | 14 | 
+| 2020-05-12 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Byun Sangil | Win | W+R | 6.5 | 3532 | -2 | 
+| 2020-05-01 | 第25期GSカルテックス杯プロ棋戦16強戦 | Yun Junsang | Byun Sangil | Win | W+R | 6.5 | 3534 | 13 | 
 | 2020-04-25 | 韓国囲碁リーグオールスター戦第6局 | Park Yeonghun | Byun Sangil | Lose | B+R | 6.5 | 3521 | -23 | 
 | 2020-04-07 | 第3期韓国竜星戦16強戦 | Byun Sangil | Lee Donghoon | Lose | W+R | 6.5 | 3544 | -5 | 
 | 2020-03-31 | 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kim Jiseok | Lose | W+R | 6.5 | 3549 | 0 | 

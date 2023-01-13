@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Kim Seongjae** | **Byun Sangil streak** | **Kim Seongjae streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kim Seongjae** | **Byun Sangil Streak** | **Kim Seongjae Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | W+6.5 | 6.5 | 3:1 | 1 | 0 | 
 | 2017-09-22 | 2017年韓国囲碁リーグ | Kim Seongjae | Byun Sangil | B+R | 6.5 | 2:1 | 0 | 1 | 

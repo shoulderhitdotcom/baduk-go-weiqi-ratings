@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Kim Seongjae** | **Iyama Yuta streak** | **Kim Seongjae streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Kim Seongjae** | **Iyama Yuta Streak** | **Kim Seongjae Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | Kim Seongjae | Iyama Yuta | W+R | 6.5 | 1:0 | 1 | 0 |
 

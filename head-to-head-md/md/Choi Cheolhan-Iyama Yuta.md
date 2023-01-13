@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Iyama Yuta** | **Choi Cheolhan streak** | **Iyama Yuta streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Iyama Yuta** | **Choi Cheolhan Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Iyama Yuta | Choi Cheolhan | B+R | 6.5 | 0:1 | 0 | 1 |
 

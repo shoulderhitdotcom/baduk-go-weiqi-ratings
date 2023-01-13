@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shen Zaiyi Vs Shin Jinseo** | **Shen Zaiyi Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-12 | 2022-2023韓国囲碁リーグ | Shen Zaiyi | Shin Jinseo | W+R | 6.5 | 0:6 | 0 | 6 | 
 | 2022-08-02 | 第45期名人戦（韓国）2回戦 | Shen Zaiyi | Shin Jinseo | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2022-05-19 | 第5期韓国竜星戦3回戦 | Shen Zaiyi | Shin Jinseo | W+R | 6.5 | 0:4 | 0 | 4 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Shen Zaiyi | B+R | 6.5 | 0:3 | 0 | 3 | 

@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-12 | 2022-2023韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3416 | 3 | 
 | 2023-01-11 | 第4期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Jinsol | Win | W+R | 6.5 | 3413 | 7 | 
 | 2022-12-30 | 2022-2023韓国囲碁リーグ | Park Geunho | Park Jinsol | Lose | B+R | 6.5 | 3406 | 0 | 
 | 2022-12-26 | 第4期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Park Jinsol | Win | W+R | 6.5 | 3406 | -24 | 
 | 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Park Jinsol | Park Geunho | Lose | W+R | 7.5 | 3430 | 39 | 
-| 2022-08-30 | 第27回三星火災杯韓国予選 | Gueon Hyojin | Park Jinsol | Lose | B+R | 6.5 | 3391 | -135 | 
-| 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | Lose | W+R | 6.5 | 3526 | -16 | 
+| 2022-08-30 | 第27回三星火災杯韓国予選 | Gueon Hyojin | Park Jinsol | Lose | B+R | 6.5 | 3391 | -134 | 
+| 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | Lose | W+R | 6.5 | 3525 | -17 | 
 | 2022-07-19 | 第4回大統領杯全国囲碁大会予選 | Yoo Ohseong | Park Jinsol | Win | W+R | 6.5 | 3542 | 26 | 
 | 2022-07-15 | 第24回農心杯韓国予選 | Byun Sangil | Park Jinsol | Lose | B+R | 6.5 | 3516 | -28 | 
 | 2022-07-12 | 第24回農心杯韓国予選 | Lee Wonyoung | Park Jinsol | Win | W+R | 6.5 | 3544 | 21 | 
@@ -20,8 +21,8 @@
 | 2022-06-29 | 第8回国手山脈国際囲碁大会韓国予選 | Park Jinsol | An Sungjoon | Win | B+R | 6.5 | 3504 | 64 | 
 | 2022-06-23 | 第27回GSカルテックス杯プロ棋戦2回戦 | Shin Minjun | Park Jinsol | Win | W+R | 6.5 | 3440 | 35 | 
 | 2022-06-21 | 第45期名人戦（韓国）予選 | Park Jinsol | Oh Jeonga | Win | B+R | 6.5 | 3405 | -2 | 
-| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Jinsol | Yang Dingxin | Lose | W+R | 6.5 | 3407 | 6 | 
-| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Sada Atsushi | Win | B+R | 6.5 | 3401 | -28 | 
+| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Jinsol | Yang Dingxin | Lose | W+R | 6.5 | 3407 | 7 | 
+| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Sada Atsushi | Win | B+R | 6.5 | 3400 | -29 | 
 | 2022-04-27 | 2021-2022韓国囲碁リーグプレーオフ | Kang Seungmin | Park Jinsol | Lose | B+R | 6.5 | 3429 | -16 | 
 | 2022-04-26 | 第27回LG杯韓国予選 | Park Yeonghun | Park Jinsol | Win | W+R | 6.5 | 3445 | 17 | 
 | 2022-04-25 | 第27回LG杯韓国予選 | Moon Minjong | Park Jinsol | Win | W+R | 6.5 | 3428 | 12 | 
@@ -61,26 +62,26 @@
 | 2021-02-16 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Shin Jinseo | Park Jinsol | Win | W+R | 6.5 | 3300 | 58 | 
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Jeong | Lose | W+R | 6.5 | 3242 | -1 | 
 | 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | Lose | B+R | 6.5 | 3243 | -21 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3264 | -8 | 
-| 2021-01-30 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Jinsol | Lose | B+R | 6.5 | 3272 | -54 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3264 | -7 | 
+| 2021-01-30 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Jinsol | Lose | B+R | 6.5 | 3271 | -55 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3326 | -7 | 
 | 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Jinsol | Win | W+R | 6.5 | 3333 | 9 | 
 | 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | B+0.5 | 6.5 | 3324 | -24 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Jinsol | Win | W+R | 6.5 | 3348 | 20 | 
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Park Jinsol | Kim Jiseok | Lose | W+R | 6.5 | 3328 | 39 | 
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Park Jinsol | Win | W+R | 6.5 | 3289 | 25 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3264 | 24 | 
-| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Jinsol | Park Hamin | Lose | W+R | 6.5 | 3240 | -43 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3264 | 25 | 
+| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Jinsol | Park Hamin | Lose | W+R | 6.5 | 3239 | -44 | 
 | 2020-12-09 | 第26期GSカルテックス杯プロ棋戦予選 | Park Jinsol | Park Hamin | Win | B+R | 6.5 | 3283 | 45 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3238 | -18 | 
-| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Jinsol | Park Yeonghun | Win | B+R | 6.5 | 3256 | 10 | 
-| 2020-11-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Park Jinsol | Lose | B+0.5 | 6.5 | 3246 | 17 | 
+| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Jinsol | Park Yeonghun | Win | B+R | 6.5 | 3256 | 11 | 
+| 2020-11-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Park Jinsol | Lose | B+0.5 | 6.5 | 3245 | 16 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lian Xiao | Park Jinsol | Lose | B+R | 6.5 | 3229 | -12 | 
 | 2020-10-06 | 第2期ソパルコサノル最高棋士決定戦予選 | An Jungki | Park Jinsol | Lose | B+R | 6.5 | 3241 | -30 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Park Younglong | Win | B+R | 6.5 | 3271 | 7 | 
-| 2020-09-07 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Oh Yujin | Win | B+R | 6.5 | 3264 | 10 | 
-| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 |  | Park Jinsol | Win | W+T | 6.5 | 3254 | 9 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Yootaek | Park Jinsol | Win | W+T | 6.5 | 3245 | -39 | 
+| 2020-09-07 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Oh Yujin | Win | B+R | 6.5 | 3264 | 11 | 
+| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 |  | Park Jinsol | Win | W+T | 6.5 | 3253 | 9 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Yootaek | Park Jinsol | Win | W+T | 6.5 | 3244 | -40 | 
 | 2020-08-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Park Minkyu | Win | B+R | 6.5 | 3284 | -87 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Han Sangcho | Park Jinsol | Lose | B+R | 6.5 | 3371 | 1 | 
 | 2020-03-09 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Na Hyun | Lose | W+R | 6.5 | 3370 | -7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-12 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Song Gyusang | Win | W+T | 6.5 | 3239 | -2 | 
 | 2023-01-09 | 第6回クラウン・ヘテ杯2回戦 | Song Gyusang |  | Lose | W+0.5 | 6.5 | 3241 | 0 | 
 | 2023-01-09 | 2022-2023フューチャーズリーグ | Song Gyusang | Han Sanghoon | Win | B+R | 6.5 | 3241 | 6 | 
 | 2022-12-27 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Baek Hyeonwoo | Song Gyusang | Win | W+R | 6.5 | 3235 | 3 | 
@@ -27,9 +28,9 @@
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Song Gyusang | Kang Seungmin | Win | B+R | 6.5 | 3219 | 38 | 
 | 2022-02-06 | 2021-2022韓国囲碁リーグ | Song Gyusang | Na Hyun | Win | B+0.5 | 6.5 | 3181 | 34 | 
 | 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Lose | W+R | 6.5 | 3147 | 5 | 
-| 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Lose | B+R | 6.5 | 3142 | -28 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Song Gyusang | Shin Minjun | Lose | W+R | 6.5 | 3170 | -11 | 
-| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Lee Changseok | Song Gyusang | Win | W+0.5 | 6.5 | 3181 | 3 | 
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Lose | B+R | 6.5 | 3142 | -27 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Song Gyusang | Shin Minjun | Lose | W+R | 6.5 | 3169 | -11 | 
+| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Lee Changseok | Song Gyusang | Win | W+0.5 | 6.5 | 3180 | 2 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Lose | B+R | 6.5 | 3178 | -33 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Song Gyusang | An Jungki | Lose | W+R | 6.5 | 3211 | 4 | 
 | 2021-12-07 | 第5回クラウン・ヘテ杯1回戦 | Song Gyusang | Cho Wankyu | Win | B+R | 6.5 | 3207 | -49 | 
@@ -42,11 +43,11 @@
 | 2021-03-05 | 2020-2021フューチャーズリーグ | Song Gyusang | Gon Jiwoo | Win | B+R | 6.5 | 3142 | 41 | 
 | 2021-02-20 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Byungwoo | Win | B+R | 6.5 | 3101 | 74 | 
 | 2021-02-13 | 2020-2021フューチャーズリーグ | Song Gyusang |  | Win | B+R | 6.5 | 3027 | 29 | 
-| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Lose | B+R | 6.5 | 2998 | -10 | 
-| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Win | W+2.5 | 6.5 | 3008 | 70 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Lose | B+R | 6.5 | 2998 | -9 | 
+| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Win | W+2.5 | 6.5 | 3007 | 69 | 
 | 2021-01-27 | 2020-2021フューチャーズリーグ | Song Gyusang | Shin Jaeweon | Lose | W+0.5 | 6.5 | 2938 | -21 | 
-| 2021-01-16 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | Lose | W+R | 6.5 | 2959 | -112 | 
-| 2021-01-10 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Song Gyusang | Lose | B+R | 6.5 | 3071 | -1 | 
+| 2021-01-16 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | Lose | W+R | 6.5 | 2959 | -111 | 
+| 2021-01-10 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Song Gyusang | Lose | B+R | 6.5 | 3070 | -2 | 
 | 2021-01-06 | 第4回クラウン・ヘテ杯1回戦 | Byun Sangil | Song Gyusang | Lose | B+R | 6.5 | 3072 | 11 | 
 | 2021-01-03 | 2020-2021フューチャーズリーグ | Lee Hobum | Song Gyusang | Win | W+R | 6.5 | 3061 | 20 | 
 | 2020-12-27 | 2020-2021フューチャーズリーグ |  | Song Gyusang | Win | W+R | 6.5 | 3041 | 57 | 
@@ -54,9 +55,9 @@
 | 2020-12-12 | 2020-2021KBフューチャーズリーグ | Song Gyusang | Lee Hyeonjun | Win | B+R | 6.5 | 2848 | 12 | 
 | 2020-12-05 | 2020-2021フューチャーズリーグ | Han Sanghoon | Song Gyusang | Win | W+R | 6.5 | 2836 | 328 | 
 | 2020-12-02 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Jinhyu | Lose | W+R | 6.5 | 2508 | -61 | 
-| 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Song Gyusang | Park Hamin | Lose | W+R | 6.5 | 2569 | 3 | 
-| 2020-11-13 | 第4回クラウン・ヘテ杯予選 | Song Gyusang | Kim Minho | Win | B+R | 6.5 | 2566 | -290 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Song Gyusang | Na Hyun | Lose | W+R | 6.5 | 2856 | -147 | 
+| 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Song Gyusang | Park Hamin | Lose | W+R | 6.5 | 2569 | 4 | 
+| 2020-11-13 | 第4回クラウン・ヘテ杯予選 | Song Gyusang | Kim Minho | Win | B+R | 6.5 | 2565 | -290 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Song Gyusang | Na Hyun | Lose | W+R | 6.5 | 2855 | -148 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Gon Jiwoo | Song Gyusang | Lose | B+R | 6.5 | 3003 | -22 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Song Gyusang | Kim Junghyun | Lose | W+1.5 | 6.5 | 3025 | -54 | 
 | 2020-04-17 | 第25回LG杯韓国予選 | Song Gyusang |  | Win | B+R | 6.5 | 3079 | 6 | 

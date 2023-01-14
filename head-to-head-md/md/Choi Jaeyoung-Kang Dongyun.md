@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Kang Dongyun** | **Choi Jaeyoung streak** | **Kang Dongyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Kang Dongyun** | **Choi Jaeyoung Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | W+R | 6.5 | 3:1 | 1 | 0 | 
 | 2020-04-23 | 第25期GSカルテックス杯プロ棋戦16強戦 | Choi Jaeyoung | Kang Dongyun | W+R | 6.5 | 2:1 | 0 | 1 | 

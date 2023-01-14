@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Kang Dongyun** | **An Sungjoon Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 2022-2023韓国囲碁リーグ | Kang Dongyun | An Sungjoon | B+0.5 | 6.5 | 2:8 | 0 | 2 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | W+R | 6.5 | 2:7 | 0 | 1 | 
 | 2017-09-30 | 2017年韓国囲碁リーグ | Kang Dongyun | An Sungjoon | W+R | 6.5 | 2:6 | 1 | 0 | 
 | 2016-05-02 | 第35回KBS杯囲碁王戦2回戦 | An Sungjoon | Kang Dongyun | W+R | 6.5 | 1:6 | 0 | 3 | 

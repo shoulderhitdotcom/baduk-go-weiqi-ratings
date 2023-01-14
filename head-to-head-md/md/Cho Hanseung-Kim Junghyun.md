@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hanseung vs Kim Junghyun** | **Cho Hanseung streak** | **Kim Junghyun streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Kim Junghyun** | **Cho Hanseung Streak** | **Kim Junghyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-05-18 | 2017年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | B+2.5 | 6.5 | 1:6 | 0 | 6 | 
 | 2016-10-14 | 2016年韓国囲碁リーグ | Kim Junghyun | Cho Hanseung | B+4.5 | 6.5 | 1:5 | 0 | 5 | 

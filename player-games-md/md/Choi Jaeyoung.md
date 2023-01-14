@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 2022-2023韓国囲碁リーグ | Choi Jaeyoung | Kang Seungmin | Win | B+1.5 | 6.5 | 3142 | 0 | 
 | 2023-01-11 | 第6回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Choi Jaeyoung | Lose | B+R | 6.5 | 3142 | -25 | 
 | 2023-01-07 | 2022-2023韓国囲碁リーグ | Choi Jaeyoung | Song Jihoon | Win | B+R | 6.5 | 3167 | 20 | 
 | 2022-12-26 | 第4期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Park Jinsol | Lose | W+R | 6.5 | 3147 | -181 | 
@@ -23,8 +24,8 @@
 | 2022-02-06 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Choi Jaeyoung | Lose | B+R | 6.5 | 3314 | -62 | 
 | 2022-01-16 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Sanghun | Lose | W+R | 6.5 | 3376 | -54 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | Win | B+2.5 | 6.5 | 3430 | 35 | 
-| 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Han Seungjoo | Lose | W+R | 6.5 | 3395 | -20 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Choi Jaeyoung | Lose | B+0.5 | 6.5 | 3415 | -31 | 
+| 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Han Seungjoo | Lose | W+R | 6.5 | 3395 | -19 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Choi Jaeyoung | Lose | B+0.5 | 6.5 | 3414 | -32 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Win | W+R | 6.5 | 3446 | 7 | 
 | 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Choi Jaeyoung |  | Win | B+R | 6.5 | 3439 | 7 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Choi Jaeyoung | Win | W+R | 6.5 | 3432 | 21 | 
@@ -36,17 +37,17 @@
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Win | B+R | 6.5 | 3344 | 44 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Win | B+0.5 | 6.5 | 3300 | -54 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Win | W+R | 6.5 | 3354 | 75 | 
-| 2021-02-09 | 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | Lose | B+R | 6.5 | 3279 | 0 | 
-| 2021-02-01 | 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | Lose | B+R | 6.5 | 3279 | 25 | 
-| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Win | B+2.5 | 6.5 | 3254 | 106 | 
-| 2021-01-11 | 第4回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Park Joonhoon | Win | B+R | 6.5 | 3148 | 80 | 
+| 2021-02-09 | 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | Lose | B+R | 6.5 | 3279 | 1 | 
+| 2021-02-01 | 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | Lose | B+R | 6.5 | 3278 | 24 | 
+| 2021-01-28 | 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | Win | B+2.5 | 6.5 | 3254 | 107 | 
+| 2021-01-11 | 第4回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Park Joonhoon | Win | B+R | 6.5 | 3147 | 79 | 
 | 2020-12-28 | 第4回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Choi Jaeyoung | Win | W+R | 6.5 | 3068 | -58 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Choi Jaeyoung | Wen Rubin | Lose | W+R | 6.5 | 3126 | -37 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Shi Yue | Choi Jaeyoung | Lose | B+R | 6.5 | 3163 | -21 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦  | Mimura Tomoyasu | Choi Jaeyoung | Win | W+R | 6.5 | 3184 | -82 | 
-| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Park Sangjin | Choi Jaeyoung | Win | W+1.5 | 6.5 | 3266 | 21 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Choi Jaeyoung |  | Win | B+R | 6.5 | 3245 | 0 | 
-| 2020-09-01 | 第25回三星火災杯韓国一般枠予選 |  | Choi Jaeyoung | Win | W+R | 6.5 | 3245 | -4 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦  | Mimura Tomoyasu | Choi Jaeyoung | Win | W+R | 6.5 | 3184 | -81 | 
+| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Park Sangjin | Choi Jaeyoung | Win | W+1.5 | 6.5 | 3265 | 21 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Choi Jaeyoung |  | Win | B+R | 6.5 | 3244 | 0 | 
+| 2020-09-01 | 第25回三星火災杯韓国一般枠予選 |  | Choi Jaeyoung | Win | W+R | 6.5 | 3244 | -5 | 
 | 2020-04-23 | 第25期GSカルテックス杯プロ棋戦16強戦 | Choi Jaeyoung | Kang Dongyun | Lose | W+R | 6.5 | 3249 | -8 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Jaeyoung | Yoo Jaeho | Lose | W+R | 6.5 | 3257 | -54 | 
 | 2020-04-03 | 第25期GSカルテックス杯プロ棋戦24強戦 | Park Joonhoon | Choi Jaeyoung | Win | W+R | 6.5 | 3311 | -1 | 

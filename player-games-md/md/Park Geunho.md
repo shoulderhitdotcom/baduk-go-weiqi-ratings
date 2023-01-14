@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 2022-2023韓国囲碁リーグ | Han Seungjoo | Park Geunho | Win | W+R | 6.5 | 3458 | 0 | 
+| 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Win | B+R | 6.5 | 3458 | -1 | 
 | 2023-01-11 | 第6回クラウン・ヘテ杯2回戦 | Kim Kyeongeun | Park Geunho | Win | W+R | 6.5 | 3459 | -11 | 
 | 2023-01-07 | 2022-2023韓国囲碁リーグ | Park Geunho | Lee Jihyun | Lose | W+T | 6.5 | 3470 | 17 | 
 | 2022-12-30 | 2022-2023韓国囲碁リーグ | Park Geunho | Park Jinsol | Win | B+R | 6.5 | 3453 | 0 | 
@@ -14,12 +16,12 @@
 | 2022-12-17 | 第2期韓国棋院選手権戦グループリーグ | Park Geunho | Gon Jiwoo | Win | B+R | 6.5 | 3455 | -1 | 
 | 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Park Jinsol | Park Geunho | Win | W+R | 7.5 | 3456 | 0 | 
 | 2022-08-14 | 第8回国手山脈韓国国内トーナメント準決勝 | Park Geunho | Lee Wonyoung | Lose | W+R | 6.5 | 3456 | -2 | 
-| 2022-08-13 | 第8回国手山脈韓国国内トーナメント2回戦 | Park Geunho | Oh Yujin | Win | B+R | 6.5 | 3458 | -9 | 
-| 2022-07-30 | 第4回大統領杯全国囲碁大会1回戦 | Park Geunho | Hong Mujin | Lose | W+R | 6.5 | 3467 | -23 | 
+| 2022-08-13 | 第8回国手山脈韓国国内トーナメント2回戦 | Park Geunho | Oh Yujin | Win | B+R | 6.5 | 3458 | -8 | 
+| 2022-07-30 | 第4回大統領杯全国囲碁大会1回戦 | Park Geunho | Hong Mujin | Lose | W+R | 6.5 | 3466 | -24 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Shin Minjun | Park Geunho | Lose | B+R | 6.5 | 3490 | -11 | 
 | 2022-06-10 | 第8回国手山脈国際囲碁大会韓国予選 | Kim Jiseok | Park Geunho | Lose | B+R | 6.5 | 3501 | -10 | 
-| 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Win | W+R | 6.5 | 3511 | 13 | 
-| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Geunho | Lose | B+R | 6.5 | 3498 | -22 | 
+| 2022-06-09 | 第8回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Win | W+R | 6.5 | 3511 | 14 | 
+| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Geunho | Lose | B+R | 6.5 | 3497 | -23 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Park Geunho | Kim Jiseok | Win | B+R | 7.5 | 3520 | 25 | 
 | 2022-05-03 | 2022年アジア競技大会韓国予選 | Park Geunho | Kang Dongyun | Lose | W+2.5 | 7.5 | 3495 | 1 | 
 | 2022-05-01 | 2021-2022韓国囲碁リーグプレーオフ | Shin Jinseo | Park Geunho | Lose | B+R | 6.5 | 3494 | -10 | 
@@ -44,9 +46,9 @@
 | 2022-02-07 | 2022YK建機杯予選 | Park Geunho | Cho Hanseung | Win | B+R | 6.5 | 3357 | -37 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Win | W+R | 6.5 | 3394 | -28 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Park Geunho | Lose | B+2.5 | 6.5 | 3422 | -16 | 
-| 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Lose | W+R | 6.5 | 3438 | -9 | 
-| 2022-01-01 | 2021-2022韓国囲碁リーグ | Park Geunho | Park Junghwan | Lose | W+R | 6.5 | 3447 | 1 | 
-| 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Lose | B+R | 6.5 | 3446 | 23 | 
+| 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Lose | W+R | 6.5 | 3438 | -8 | 
+| 2022-01-01 | 2021-2022韓国囲碁リーグ | Park Geunho | Park Junghwan | Lose | W+R | 6.5 | 3446 | 1 | 
+| 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Lose | B+R | 6.5 | 3445 | 22 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Park Geunho | Win | W+R | 6.5 | 3423 | -10 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Win | W+R | 6.5 | 3433 | 21 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Geunho | Gon Jiwoo | Win | B+R | 6.5 | 3412 | 43 | 
@@ -65,8 +67,8 @@
 | 2021-02-07 | 2020-2021韓国囲碁リーグ | Park Geunho | Han Seungjoo | Win | B+R | 6.5 | 3348 | 15 | 
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Geunho | Win | W+R | 6.5 | 3333 | 0 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Park Geunho | Win | W+R | 6.5 | 3333 | 24 | 
-| 2021-01-17 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Lose | W+R | 6.5 | 3309 | -36 | 
-| 2021-01-10 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Park Geunho | Win | W+1.5 | 6.5 | 3345 | 5 | 
+| 2021-01-17 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Lose | W+R | 6.5 | 3309 | -35 | 
+| 2021-01-10 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Park Geunho | Win | W+1.5 | 6.5 | 3344 | 4 | 
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | Park Geunho | Shin Minjun | Lose | W+R | 6.5 | 3340 | -2 | 
 | 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Geunho | Win | W+0.5 | 6.5 | 3342 | 53 | 
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Park Geunho | Choi Jeong | Lose | W+R | 6.5 | 3289 | 4 | 
@@ -76,12 +78,12 @@
 | 2020-10-20 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Kang Dongyun | Lose | W+R | 6.5 | 3234 | -7 | 
 | 2020-10-12 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Lee Changseok | Lose | W+R | 6.5 | 3241 | -64 | 
 | 2020-09-22 | 第22回農心杯韓国選抜戦 | Park Geunho | Park Seunghwa | Lose | W+1.5 | 6.5 | 3305 | -12 | 
-| 2020-09-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3317 | 19 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Park Geunho | Lose | B+R | 6.5 | 3298 | -38 | 
+| 2020-09-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3317 | 20 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Park Geunho | Lose | B+R | 6.5 | 3297 | -39 | 
 | 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | Win | B+R | 6.5 | 3336 | -75 | 
-| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Lose | B+R | 6.5 | 3411 | 7 | 
-| 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Geunho | An Jungki | Win | B+1.5 | 6.5 | 3404 | 14 | 
-| 2020-04-27 | 第25回LG杯韓国予選 | Park Geunho | An Sungjoon | Win | B+1.5 | 6.5 | 3390 | 18 | 
+| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Lose | B+R | 6.5 | 3411 | 8 | 
+| 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Geunho | An Jungki | Win | B+1.5 | 6.5 | 3403 | 14 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Park Geunho | An Sungjoon | Win | B+1.5 | 6.5 | 3389 | 17 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Park Hyunsoo | Park Geunho | Win | W+R | 6.5 | 3372 | -10 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Lee Hyunho | Park Geunho | Win | W+R | 6.5 | 3382 | -6 | 
 | 2020-04-16 | 第25回LG杯韓国予選 | Park Geunho | Kang Seungmin | Win | B+R | 6.5 | 3388 | 29 | 

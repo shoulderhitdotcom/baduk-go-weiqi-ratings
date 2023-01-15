@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Wi Taewoong** | **Kim Seongjae streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Wi Taewoong** | **Kim Seongjae Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Wi Taewoong | B+R | 6.5 | 1:0 | 1 | 0 |
 

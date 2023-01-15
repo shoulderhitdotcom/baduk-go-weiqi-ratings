@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Wonyoung vs Wi Taewoong** | **Lee Wonyoung streak** | **Wi Taewoong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Wonyoung Vs Wi Taewoong** | **Lee Wonyoung Streak** | **Wi Taewoong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-09-22 | 2017年韓国囲碁リーグ | Lee Wonyoung | Wi Taewoong | B+R | 6.5 | 1:0 | 1 | 0 |
 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Seongjae vs Lee Wonyoung** | **Kim Seongjae streak** | **Lee Wonyoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Seongjae Vs Lee Wonyoung** | **Kim Seongjae Streak** | **Lee Wonyoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-07-08 | 2017年韓国囲碁リーグ | Lee Wonyoung | Kim Seongjae | B+R | 6.5 | 0:3 | 0 | 3 | 
 | 2014-06-27 | 2014年韓国囲碁リーグ | Kim Seongjae | Lee Wonyoung | W+0.5 | 6.5 | 0:2 | 0 | 2 | 

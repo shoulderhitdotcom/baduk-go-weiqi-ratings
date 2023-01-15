@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-12 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Song Gyusang | Lose | W+T | 6.5 | 2832 | 332 | 
-| 2022-12-30 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | An Sungjoon | Win | B+R | 6.5 | 2500 | 0 | 
-| 2022-12-27 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Baek Hyeonwoo | Song Gyusang | Lose | W+R | 6.5 | 2500 | -536 | 
-| 2022-11-17 | 第6回クラウン・ヘテ杯予選 | Hyun Yoobin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3036 | -47 | 
+| 2023-01-14 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Kim Jiseok | Lose | W+R | 6.5 | 2805 | -26 | 
+| 2023-01-12 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Song Gyusang | Lose | W+T | 6.5 | 2831 | 332 | 
+| 2022-12-30 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | An Sungjoon | Win | B+R | 6.5 | 2499 | 0 | 
+| 2022-12-27 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Baek Hyeonwoo | Song Gyusang | Lose | W+R | 6.5 | 2499 | -536 | 
+| 2022-11-17 | 第6回クラウン・ヘテ杯予選 | Hyun Yoobin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3035 | -48 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Myounghoon | Baek Hyeonwoo | Lose | B+R | 6.5 | 3083 | -13 | 
 | 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 |  | Baek Hyeonwoo | Lose | B+3.5 | 6.5 | 3096 | -57 | 
 | 2022-08-14 | 第8回国手山脈韓国国内トーナメント準決勝 | Hong Seongji | Baek Hyeonwoo | Lose | B+R | 6.5 | 3153 | 10 | 
@@ -24,21 +25,21 @@
 | 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Baek Hyeonwoo | Win | W+R | 6.5 | 3317 | -8 | 
 | 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Win | B+R | 6.5 | 3325 | 0 | 
 | 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第1戦 | Lee Euihyun | Baek Hyeonwoo | Lose | B+1.5 | 6.5 | 3325 | -14 | 
-| 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Lose | W+2.5 | 6.5 | 3339 | -45 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Win | W+R | 6.5 | 3384 | 33 | 
+| 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Lose | W+2.5 | 6.5 | 3339 | -44 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Win | W+R | 6.5 | 3383 | 32 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Win | W+R | 6.5 | 3351 | 13 | 
-| 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3338 | -7 | 
-| 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3345 | -60 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Choi Jeong | Baek Hyeonwoo | Win | W+R | 6.5 | 3405 | 10 | 
-| 2021-02-22 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Wi Taewoong | Baek Hyeonwoo | Lose | B+R | 6.5 | 3395 | -1 | 
-| 2021-02-21 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Win | B+R | 6.5 | 3396 | 58 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Baek Hyeonwoo | Win | W+R | 6.5 | 3338 | 67 | 
-| 2021-02-06 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Baek Chanhee | Win | B+R | 6.5 | 3271 | 49 | 
-| 2021-01-24 | 2020-2021韓国囲碁リーグ | Park Hamin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3222 | -21 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Baek Hyeonwoo | Win | W+2.5 | 6.5 | 3243 | 27 | 
-| 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Win | B+R | 6.5 | 3216 | 21 | 
-| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Baek Hyeonwoo | Kim Changhoon | Lose | W+2.5 | 6.5 | 3195 | -18 | 
-| 2020-12-24 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3213 | 18 | 
+| 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3338 | -6 | 
+| 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3344 | -60 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Choi Jeong | Baek Hyeonwoo | Win | W+R | 6.5 | 3404 | 10 | 
+| 2021-02-22 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Wi Taewoong | Baek Hyeonwoo | Lose | B+R | 6.5 | 3394 | -1 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Win | B+R | 6.5 | 3395 | 58 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Baek Hyeonwoo | Win | W+R | 6.5 | 3337 | 66 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Baek Chanhee | Win | B+R | 6.5 | 3271 | 50 | 
+| 2021-01-24 | 2020-2021韓国囲碁リーグ | Park Hamin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3221 | -22 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Baek Hyeonwoo | Win | W+2.5 | 6.5 | 3243 | 28 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Win | B+R | 6.5 | 3215 | 21 | 
+| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Baek Hyeonwoo | Kim Changhoon | Lose | W+2.5 | 6.5 | 3194 | -18 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3212 | 17 | 
 | 2020-12-18 | 2020-2021韓国囲碁リーグ | Park Sangjin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3195 | -15 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Byun Sangil | Baek Hyeonwoo | Lose | B+R | 6.5 | 3210 | 43 | 
 | 2020-12-03 | 2020-2021韓国囲碁リーグ | Heo Yongho | Baek Hyeonwoo | Lose | B+R | 6.5 | 3167 | -31 | 
@@ -49,13 +50,13 @@
 | 2020-08-12 | 第1期利鵬杯新鋭最高位戦準決勝三番勝負第2局 | Baek Hyeonwoo | Wen Rubin | Lose | W+R | 6.5 | 3332 | 0 | 
 | 2020-08-12 | 第1期利鵬杯新鋭最高位戦準決勝三番勝負第1局 | Wen Rubin | Baek Hyeonwoo | Win | W+R | 6.5 | 3332 | -47 | 
 | 2020-07-22 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第2局 | Baek Hyeonwoo |  | Win | B+R | 6.5 | 3379 | 0 | 
-| 2020-07-22 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 |  | Baek Hyeonwoo | Win | W+3.5 | 6.5 | 3379 | 105 | 
-| 2020-05-22 | 第25期GSカルテックス杯プロ棋戦8強戦 | Baek Hyeonwoo | Kang Dongyun | Lose | W+R | 6.5 | 3274 | -5 | 
-| 2020-04-30 | 第25期GSカルテックス杯プロ棋戦16強戦 | Baek Hyeonwoo | Lee Donghoon | Win | B+R | 6.5 | 3279 | 105 | 
-| 2020-04-22 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Hong Kipyo | Lose | W+R | 6.5 | 3174 | -62 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Win | B+R | 6.5 | 3236 | 21 | 
-| 2020-04-14 | 第25回LG杯韓国予選 | Lee Hyungjin | Baek Hyeonwoo | Win | W+0.5 | 6.5 | 3215 | 42 | 
-| 2020-04-02 | 第25期GSカルテックス杯プロ棋戦24強戦 | Baek Hyeonwoo | Kim Hyeongwoo | Win | B+R | 6.5 | 3173 | missing |
+| 2020-07-22 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 |  | Baek Hyeonwoo | Win | W+3.5 | 6.5 | 3379 | 106 | 
+| 2020-05-22 | 第25期GSカルテックス杯プロ棋戦8強戦 | Baek Hyeonwoo | Kang Dongyun | Lose | W+R | 6.5 | 3273 | -6 | 
+| 2020-04-30 | 第25期GSカルテックス杯プロ棋戦16強戦 | Baek Hyeonwoo | Lee Donghoon | Win | B+R | 6.5 | 3279 | 106 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Hong Kipyo | Lose | W+R | 6.5 | 3173 | -62 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Win | B+R | 6.5 | 3235 | 21 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Lee Hyungjin | Baek Hyeonwoo | Win | W+0.5 | 6.5 | 3214 | 42 | 
+| 2020-04-02 | 第25期GSカルテックス杯プロ棋戦24強戦 | Baek Hyeonwoo | Kim Hyeongwoo | Win | B+R | 6.5 | 3172 | missing |
 
 
 

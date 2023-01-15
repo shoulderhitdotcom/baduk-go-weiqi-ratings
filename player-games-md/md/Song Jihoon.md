@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-15 | 第2期韓国棋院選手権戦グループリーグ | Song Jihoon | Choi Jeong | Win | B+R | 6.5 | 3233 | -1 | 
 | 2023-01-07 | 2022-2023韓国囲碁リーグ | Choi Jaeyoung | Song Jihoon | Lose | B+R | 6.5 | 3234 | -7 | 
 | 2023-01-05 | 2022-2023韓国囲碁リーグ | Song Jihoon | Park Joonhoon | Win | B+R | 6.5 | 3241 | 19 | 
 | 2022-12-28 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ予選 | Song Jihoon | Park Hamin | Win | B+R | 6.5 | 3222 | 15 | 
-| 2022-12-06 | 第28回GSカルテックス杯プロ棋戦予選 | Song Jihoon | Heo Yongho | Lose | W+1.5 | 6.5 | 3207 | -14 | 
-| 2022-11-15 | 第6回クラウン・ヘテ杯予選 |  | Song Jihoon | Lose | B+R | 6.5 | 3221 | -14 | 
-| 2022-10-07 | 第2期韓国棋院選手権戦予選 | Kim Sedong | Song Jihoon | Win | W+R | 6.5 | 3235 | 14 | 
+| 2022-12-06 | 第28回GSカルテックス杯プロ棋戦予選 | Song Jihoon | Heo Yongho | Lose | W+1.5 | 6.5 | 3207 | -15 | 
+| 2022-11-15 | 第6回クラウン・ヘテ杯予選 |  | Song Jihoon | Lose | B+R | 6.5 | 3222 | -14 | 
+| 2022-10-07 | 第2期韓国棋院選手権戦予選 | Kim Sedong | Song Jihoon | Win | W+R | 6.5 | 3236 | 15 | 
 | 2022-07-31 | 第4回大統領杯全国囲碁大会準決勝 | Song Jihoon | Han Sangcho | Win | B+R | 6.5 | 3221 | 0 | 
 | 2022-07-31 | 第4回大統領杯全国囲碁大会決勝 | Choi Cheolhan | Song Jihoon | Lose | B+1.5 | 6.5 | 3221 | -12 | 
-| 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | Kang Jihoon | Song Jihoon | Win | W+R | 6.5 | 3233 | 60 | 
-| 2022-04-28 | 第27回GSカルテックス杯プロ棋戦1回戦 | Cho Wankyu | Song Jihoon | Lose | B+R | 6.5 | 3173 | -61 | 
-| 2022-03-24 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3234 | -5 | 
+| 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | Kang Jihoon | Song Jihoon | Win | W+R | 6.5 | 3233 | 59 | 
+| 2022-04-28 | 第27回GSカルテックス杯プロ棋戦1回戦 | Cho Wankyu | Song Jihoon | Lose | B+R | 6.5 | 3174 | -61 | 
+| 2022-03-24 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3235 | -4 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Song Jihoon | Lose | B+R | 6.5 | 3239 | 1 | 
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Win | B+R | 6.5 | 3238 | 74 | 
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Park Geunho | Song Jihoon | Lose | B+R | 6.5 | 3164 | -16 | 
@@ -42,8 +43,8 @@
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Lee Changseok | Song Jihoon | Win | W+R | 6.5 | 3247 | -26 | 
 | 2021-01-04 | 第4回クラウン・ヘテ杯1回戦 | Han Seungjoo | Song Jihoon | Lose | B+R | 6.5 | 3273 | -29 | 
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Song Jihoon | Lose | B+R | 6.5 | 3302 | 1 | 
-| 2020-12-27 | 2020-2021韓国囲碁リーグ | Song Jihoon | Lee Yeongkyu | Win | B+R | 6.5 | 3301 | 25 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Song Jihoon | Lee Taehyun | Lose | W+R | 6.5 | 3276 | 43 | 
+| 2020-12-27 | 2020-2021韓国囲碁リーグ | Song Jihoon | Lee Yeongkyu | Win | B+R | 6.5 | 3301 | 24 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Song Jihoon | Lee Taehyun | Lose | W+R | 6.5 | 3277 | 44 | 
 | 2020-12-11 | 2020-2021韓国囲碁リーグ | An Jungki | Song Jihoon | Lose | B+R | 6.5 | 3233 | 23 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Song Jihoon | Park Geunho | Lose | W+R | 6.5 | 3210 | -68 | 
 | 2020-11-28 | 2020-2021韓国囲碁リーグ | Song Jihoon | An Sungjoon | Lose | W+R | 6.5 | 3278 | -20 | 
@@ -56,11 +57,11 @@
 | 2020-02-02 | 第3回クラウン・ヘテ杯決勝三番勝負第3局 | Song Jihoon | Lee Changseok | Win | B+R | 6.5 | 3364 | -5 | 
 | 2020-02-01 | 第3回クラウン・ヘテ杯決勝三番勝負第2局 | Lee Changseok | Song Jihoon | Win | W+R | 6.5 | 3369 | 11 | 
 | 2020-01-31 | 第3回クラウン・ヘテ杯決勝三番勝負第1局 | Song Jihoon | Lee Changseok | Lose | W+R | 6.5 | 3358 | -10 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第5局 | Song Jihoon | Lee Chungyu | Lose | W+R | 6.5 | 3368 | -15 | 
-| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第3局 | Song Jihoon | Shen Zaiyi | Win | B+0.5 | 6.5 | 3383 | 25 | 
-| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | An Sungjoon | Song Jihoon | Lose | B+R | 7.5 | 3358 | -13 | 
-| 2020-01-17 | 第3回クラウン・ヘテ杯準決勝 | Park Geunho | Song Jihoon | Win | W+1.5 | 6.5 | 3371 | 12 | 
-| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第3局 | Byun Sangil | Song Jihoon | Lose | B+R | 6.5 | 3359 | -31 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第5局 | Song Jihoon | Lee Chungyu | Lose | W+R | 6.5 | 3368 | -16 | 
+| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第3局 | Song Jihoon | Shen Zaiyi | Win | B+0.5 | 6.5 | 3384 | 25 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | An Sungjoon | Song Jihoon | Lose | B+R | 7.5 | 3359 | -13 | 
+| 2020-01-17 | 第3回クラウン・ヘテ杯準決勝 | Park Geunho | Song Jihoon | Win | W+1.5 | 6.5 | 3372 | 12 | 
+| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第3局 | Byun Sangil | Song Jihoon | Lose | B+R | 6.5 | 3360 | -30 | 
 | 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第2局 | Park Seunghwa | Song Jihoon | Win | W+R | 6.5 | 3390 | 14 | 
 | 2020-01-11 | 第3回クラウン・ヘテ杯3回戦 | Shin Minjun | Song Jihoon | Win | W+R | 6.5 | 3376 | 20 | 
 | 2020-01-05 | 第3回クラウン・ヘテ杯2回戦 | Song Jihoon | Kim Myounghoon | Win | B+0.5 | 6.5 | 3356 | 15 | 

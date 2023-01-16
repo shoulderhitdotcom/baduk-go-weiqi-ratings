@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Iyama Yuta** | **Ichiriki Ryo Streak** | **Iyama Yuta Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-16 | 第61期十段戦準決勝  | Ichiriki Ryo | Iyama Yuta | W+4.5 | 6.5 | 17:37 | 0 | 8 | 
 | 2022-07-27 | 第47期碁聖戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Iyama Yuta | W+R | 6.5 | 17:36 | 0 | 7 | 
 | 2022-07-16 | 第47期碁聖戦挑戦手合五番勝負第2局  | Iyama Yuta | Ichiriki Ryo | B+R | 6.5 | 17:35 | 0 | 6 | 
 | 2022-06-24 | 第47期碁聖戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Iyama Yuta | W+R | 6.5 | 17:34 | 0 | 5 | 

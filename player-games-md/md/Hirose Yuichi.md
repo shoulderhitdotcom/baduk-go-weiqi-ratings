@@ -7,40 +7,41 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-06 | 2022-2023韓国囲碁リーグ | Hirose Yuichi | Gueon Hyojin | Win | B+R | 6.5 | 3152 | -96 | 
-| 2022-11-23 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Hua Chang | Win | B+R | 7.5 | 3248 | 4 | 
-| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Hirose Yuichi | Lose | B+R | 7.5 | 3244 | -7 | 
-| 2022-11-21 | 2022中国囲碁乙級リーグ | Hirose Yuichi |  | Win | B+R | 7.5 | 3251 | 1 | 
-| 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Shixun | Hirose Yuichi | Win | W+¼ | 7.5 | 3250 | 15 | 
-| 2022-11-18 | 2022中国囲碁乙級リーグ | Hirose Yuichi |  | Lose | W+¼ | 7.5 | 3235 | -6 | 
-| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Hirose Yuichi | Win | W+R | 7.5 | 3241 | 16 | 
-| 2022-11-16 | 2022中国囲碁乙級リーグ | Wang Xiru | Hirose Yuichi | Win | W+R | 7.5 | 3225 | -4 | 
-| 2022-11-15 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Wang Yucheng | Win | B+R | 7.5 | 3229 | 29 | 
-| 2022-09-28 | 第27回三星火災杯日本予選 | Sakai Yuki | Hirose Yuichi | Win | W+R | 6.5 | 3200 | 0 | 
-| 2022-09-28 | 第27回三星火災杯日本予選 | Hirose Yuichi | Sada Atsushi | Lose | W+R | 6.5 | 3200 | 14 | 
-| 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Lose | B+R | 6.5 | 3186 | -38 | 
-| 2022-09-08 | 第61期十段戦予選 | Hirose Yuichi | Rin Kanketsu | Lose | W+2.5 | 6.5 | 3224 | -152 | 
-| 2022-06-30 | 第47期棋聖戦Bリーグ | Fujita Akihiko | Hirose Yuichi | Lose | B+4.5 | 6.5 | 3376 | -50 | 
-| 2022-06-23 | 第61期十段戦予選 | Hirose Yuichi | Yamashita Keigo | Win | B+5.5 | 6.5 | 3426 | 164 | 
-| 2022-05-19 | 第47期棋聖戦Bリーグ  | O Meien | Hirose Yuichi | Win | W+R | 6.5 | 3262 | 53 | 
-| 2022-02-17 | 第47期棋聖戦Bリーグ | Hirose Yuichi | Seto Taiki | Win | B+R | 6.5 | 3209 | 69 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Sada Atsushi | Win | B+R | 6.5 | 3140 | 53 | 
-| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hirose Yuichi | Win | W+4.5 | 6.5 | 3087 | 53 | 
-| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Lose | B+R | 6.5 | 3034 | -20 | 
-| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Win | B+R | 6.5 | 3054 | 92 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Hirose Yuichi | Win | W+1.5 | 6.5 | 2962 | 31 | 
-| 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2931 | 211 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 2720 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2720 | -16 | 
-| 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 2736 | -77 | 
+| 2023-01-15 | 2022-2023韓国囲碁リーグ | Yun Chanhee | Hirose Yuichi | Lose | B+R | 6.5 | 3125 | -31 | 
+| 2023-01-06 | 2022-2023韓国囲碁リーグ | Hirose Yuichi | Gueon Hyojin | Win | B+R | 6.5 | 3156 | -94 | 
+| 2022-11-23 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Hua Chang | Win | B+R | 7.5 | 3250 | 4 | 
+| 2022-11-22 | 2022中国囲碁乙級リーグ |  | Hirose Yuichi | Lose | B+R | 7.5 | 3246 | -7 | 
+| 2022-11-21 | 2022中国囲碁乙級リーグ | Hirose Yuichi |  | Win | B+R | 7.5 | 3253 | 1 | 
+| 2022-11-20 | 2022中国囲碁乙級リーグ | Lin Shixun | Hirose Yuichi | Win | W+¼ | 7.5 | 3252 | 15 | 
+| 2022-11-18 | 2022中国囲碁乙級リーグ | Hirose Yuichi |  | Lose | W+¼ | 7.5 | 3237 | -6 | 
+| 2022-11-17 | 2022中国囲碁乙級リーグ |  | Hirose Yuichi | Win | W+R | 7.5 | 3243 | 16 | 
+| 2022-11-16 | 2022中国囲碁乙級リーグ | Wang Xiru | Hirose Yuichi | Win | W+R | 7.5 | 3227 | -5 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ | Hirose Yuichi | Wang Yucheng | Win | B+R | 7.5 | 3232 | 30 | 
+| 2022-09-28 | 第27回三星火災杯日本予選 | Sakai Yuki | Hirose Yuichi | Win | W+R | 6.5 | 3202 | 0 | 
+| 2022-09-28 | 第27回三星火災杯日本予選 | Hirose Yuichi | Sada Atsushi | Lose | W+R | 6.5 | 3202 | 14 | 
+| 2022-09-15 | 第48期名人戦予選 | Fujisawa Rina | Hirose Yuichi | Lose | B+R | 6.5 | 3188 | -38 | 
+| 2022-09-08 | 第61期十段戦予選 | Hirose Yuichi | Rin Kanketsu | Lose | W+2.5 | 6.5 | 3226 | -151 | 
+| 2022-06-30 | 第47期棋聖戦Bリーグ | Fujita Akihiko | Hirose Yuichi | Lose | B+4.5 | 6.5 | 3377 | -50 | 
+| 2022-06-23 | 第61期十段戦予選 | Hirose Yuichi | Yamashita Keigo | Win | B+5.5 | 6.5 | 3427 | 163 | 
+| 2022-05-19 | 第47期棋聖戦Bリーグ  | O Meien | Hirose Yuichi | Win | W+R | 6.5 | 3264 | 54 | 
+| 2022-02-17 | 第47期棋聖戦Bリーグ | Hirose Yuichi | Seto Taiki | Win | B+R | 6.5 | 3210 | 69 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Sada Atsushi | Win | B+R | 6.5 | 3141 | 53 | 
+| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hirose Yuichi | Win | W+4.5 | 6.5 | 3088 | 53 | 
+| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Lose | B+R | 6.5 | 3035 | -20 | 
+| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Win | B+R | 6.5 | 3055 | 92 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Hirose Yuichi | Win | W+1.5 | 6.5 | 2963 | 31 | 
+| 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2932 | 211 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 2721 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2721 | -16 | 
+| 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 2737 | -76 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Lose | B+1.5 | 6.5 | 2813 | -236 | 
 | 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Lose | B+R | 6.5 | 3049 | -58 | 
 | 2020-07-16 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Yamada Kimio | Win | B+0.5 | 6.5 | 3107 | 58 | 
 | 2020-06-11 | 第59期十段戦予選 | Xie Yimin | Hirose Yuichi | Win | W+R | 6.5 | 3049 | -130 | 
 | 2020-04-02 | 第46期名人戦予選 | Hirose Yuichi | Anzai Nobuaki | Lose | W+R | 6.5 | 3179 | -43 | 
 | 2020-03-26 | 第76期本因坊戦予選 | Hirose Yuichi | Mukai Chiaki | Win | B+R | 6.5 | 3222 | 11 | 
-| 2020-03-23 | 第27期阿含・桐山杯全日本早碁オープン戦予選 |  | Hirose Yuichi | Win | W+6.5 | 6.5 | 3211 | 22 | 
-| 2020-03-19 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Shibano Toramaru | Lose | W+R | 6.5 | 3189 | missing |
+| 2020-03-23 | 第27期阿含・桐山杯全日本早碁オープン戦予選 |  | Hirose Yuichi | Win | W+6.5 | 6.5 | 3211 | 21 | 
+| 2020-03-19 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Shibano Toramaru | Lose | W+R | 6.5 | 3190 | missing |
 
 
 

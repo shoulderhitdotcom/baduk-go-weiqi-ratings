@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Niu Shite Vs Yang Zixuan** | **Niu Shite Streak** | **Yang Zixuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 第22期天元戦（台湾）勝部1回戦 | Niu Shite | Yang Zixuan | B+R | 6.5 | 5:1 | 4 | 0 | 
 | 2022-10-05 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Yang Zixuan | Niu Shite | W+R | 7.5 | 4:1 | 3 | 0 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | B+R | 6.5 | 3:1 | 2 | 0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Yang Zixuan | Niu Shite | W+R | 6.5 | 2:1 | 1 | 0 | 

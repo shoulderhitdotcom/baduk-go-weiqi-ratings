@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xi Vs Lin Lixiang** | **Chen Xi Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 第22期天元戦（台湾）勝部1回戦 | Chen Xi | Lin Lixiang | W+R | 6.5 | 2:6 | 0 | 4 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Lin Lixiang | Chen Xi | B+R | 6.5 | 2:5 | 0 | 3 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Xi | Lin Lixiang | W+R | 6.5 | 2:4 | 0 | 2 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | W+R | 6.5 | 2:3 | 0 | 1 | 

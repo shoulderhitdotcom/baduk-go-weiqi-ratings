@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lin Shuyang** | **Chen Shiyuan Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-19 | 第16期棋王戦（台湾）予選 | Lin Shuyang | Chen Shiyuan | W+R | 6.5 | 13:3 | 5 | 0 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Chen Shiyuan | Lin Shuyang | B+R | 6.5 | 12:3 | 4 | 0 | 
 | 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lin Shuyang | Chen Shiyuan | W+3.5 | 6.5 | 11:3 | 3 | 0 | 
 | 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lin Shuyang | B+R | 6.5 | 10:3 | 2 | 0 | 

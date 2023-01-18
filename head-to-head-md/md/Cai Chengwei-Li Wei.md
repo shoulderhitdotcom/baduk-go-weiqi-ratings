@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cai Chengwei Vs Li Wei** | **Cai Chengwei Streak** | **Li Wei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-13 | 第22期天元戦（台湾）勝部1回戦 | Li Wei | Cai Chengwei | W+R | 6.5 | 4:6 | 1 | 0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Li Wei | W+R | 6.5 | 3:6 | 0 | 2 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Cai Chengwei | Li Wei | W+R | 6.5 | 3:5 | 0 | 1 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | B+R | 6.5 | 3:4 | 2 | 0 | 

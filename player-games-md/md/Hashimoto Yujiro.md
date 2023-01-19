@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | B+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TmPKZ%2FxPyn6xgnq9qciNQ%3D%3D) | 
 | 第45期天元戦予選 | Hashimoto Yujiro | Kudo Norio | B+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XV%2B7ZxXYJaSVbb5gtwSOew%3D%3D) | 

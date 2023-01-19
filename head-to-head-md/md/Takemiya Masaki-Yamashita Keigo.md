@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Takemiya Masaki vs Yamashita Keigo** | **Takemiya Masaki streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Takemiya Masaki Vs Yamashita Keigo** | **Takemiya Masaki Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-03-18 | 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | W+4.5 | 6.5 | 0:5 | 0 | 5 | 
 | 2009-04-16 | 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | B+8.5 | 6.5 | 0:4 | 0 | 4 | 

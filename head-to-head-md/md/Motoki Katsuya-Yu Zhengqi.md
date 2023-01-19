@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Motoki Katsuya Vs Yu Zhengqi** | **Motoki Katsuya Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-19 | 第78期本因坊戦リーグ | Yu Zhengqi | Motoki Katsuya | B+R | 6.5 | 2:7 | 0 | 5 | 
 | 2022-03-07 | 第47期名人戦リーグ  | Yu Zhengqi | Motoki Katsuya | B+R | 6.5 | 2:6 | 0 | 4 | 
 | 2022-02-10 | 第77期本因坊戦リーグ | Yu Zhengqi | Motoki Katsuya | B+1.5 | 6.5 | 2:5 | 0 | 3 | 
 | 2020-12-17 | 第46期名人戦リーグ | Yu Zhengqi | Motoki Katsuya | B+R | 6.5 | 2:4 | 0 | 2 | 

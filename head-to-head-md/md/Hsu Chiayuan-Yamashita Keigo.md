@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Yamashita Keigo** | **Hsu Chiayuan Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-19 | 第48期名人戦リーグ  | Hsu Chiayuan | Yamashita Keigo | W+R | 6.5 | 6:8 | 0 | 2 | 
 | 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | B+R | 6.5 | 6:7 | 0 | 1 | 
 | 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | W+4.5 | 6.5 | 6:6 | 2 | 0 | 
 | 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | W+R | 6.5 | 5:6 | 1 | 0 | 

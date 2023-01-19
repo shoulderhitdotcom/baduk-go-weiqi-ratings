@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nyu Eiko Vs Xie Yimin** | **Nyu Eiko Streak** | **Xie Yimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-05 | 第34期女流名人戦リーグ | Nyu Eiko | Xie Yimin | B+R | 6.5 | 3:7 | 1 | 0 | 
 | 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | W+R | 6.5 | 2:7 | 0 | 2 | 
 | 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | W+R | 6.5 | 2:6 | 0 | 1 | 
 | 2019-10-17 | 第23期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Xie Yimin | B+3.5 | 6.5 | 2:5 | 1 | 0 | 

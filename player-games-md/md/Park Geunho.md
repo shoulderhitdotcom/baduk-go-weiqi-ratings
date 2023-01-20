@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-20 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Heo Youngrak | Win | B+0.5 | 6.5 | 3517 | 10 | 
+| 2023-01-18 | 第6回クラウン・ヘテ杯3回戦 | Park Geunho |  | Win | B+R | 6.5 | 3507 | 0 | 
 | 2023-01-15 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Geunho |  | Win | B+R | 6.5 | 3507 | 46 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Han Seungjoo | Park Geunho | Win | W+R | 6.5 | 3461 | 0 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Win | B+R | 6.5 | 3461 | -1 | 
@@ -84,10 +86,10 @@
 | 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | Win | B+R | 6.5 | 3336 | -74 | 
 | 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Lose | B+R | 6.5 | 3410 | 7 | 
 | 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Geunho | An Jungki | Win | B+1.5 | 6.5 | 3403 | 14 | 
-| 2020-04-27 | 第25回LG杯韓国予選 | Park Geunho | An Sungjoon | Win | B+1.5 | 6.5 | 3389 | 17 | 
-| 2020-04-22 | 第25回LG杯韓国予選 | Park Hyunsoo | Park Geunho | Win | W+R | 6.5 | 3372 | -10 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Lee Hyunho | Park Geunho | Win | W+R | 6.5 | 3382 | -6 | 
-| 2020-04-16 | 第25回LG杯韓国予選 | Park Geunho | Kang Seungmin | Win | B+R | 6.5 | 3388 | 30 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Park Geunho | An Sungjoon | Win | B+1.5 | 6.5 | 3389 | 18 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Park Hyunsoo | Park Geunho | Win | W+R | 6.5 | 3371 | -10 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Lee Hyunho | Park Geunho | Win | W+R | 6.5 | 3381 | -6 | 
+| 2020-04-16 | 第25回LG杯韓国予選 | Park Geunho | Kang Seungmin | Win | B+R | 6.5 | 3387 | 29 | 
 | 2020-03-25 | 第3期韓国竜星戦16強戦 | Park Geunho |  | Lose | W+R | 6.5 | 3358 | -11 | 
 | 2020-02-09 | 2019-2020韓国囲碁リーグ準プレーオフ第3戦第1局 | Lee Wondo | Park Geunho | Lose | B+0.5 | 6.5 | 3369 | -14 | 
 | 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第1局 | Lee Wondo | Park Geunho | Lose | B+R | 6.5 | 3383 | -18 | 

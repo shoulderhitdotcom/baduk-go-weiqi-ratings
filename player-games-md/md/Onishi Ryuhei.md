@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-20 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Hong Mujin | Lose | W+R | 6.5 | 3049 | 20 | 
 | 2023-01-16 | 第49期天元戦予選 | Onishi Ryuhei | Tsuruyama Atsushi | Win | B+R | 6.5 | 3029 | -2 | 
 | 2022-12-15 | 第61期十段戦3回戦 | Iyama Yuta | Onishi Ryuhei | Lose | B+R | 6.5 | 3031 | -64 | 
 | 2022-12-08 | 第49期天元戦予選 | Awaji Shuzo | Onishi Ryuhei | Win | W+R | 6.5 | 3095 | -9 | 
@@ -24,8 +25,8 @@
 | 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3118 | -9 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Lose | W+R | 6.5 | 3127 | -54 | 
 | 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Win | B+R | 6.5 | 3181 | -1 | 
-| 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3182 | 11 | 
-| 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3171 | 43 | 
+| 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3182 | 10 | 
+| 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3172 | 44 | 
 | 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3128 | 91 | 
 | 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 3037 | 5 | 
 | 2021-04-15 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Onishi Ryuhei | Win | W+R | 6.5 | 3032 | 4 | 

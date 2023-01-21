@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-20 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Hong Mujin | Win | W+R | 6.5 | 3316 | 11 | 
 | 2023-01-16 | 第4期ソパルコサノル最高棋士決定戦予選 | Weon Seongjin | Hong Mujin | Lose | B+R | 6.5 | 3305 | -13 | 
 | 2023-01-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Yun Chanhee | Win | B+R | 6.5 | 3318 | 33 | 
 | 2023-01-04 | 2022-2023韓国囲碁リーグ | Hong Mujin | Kim Jiseok | Win | B+R | 6.5 | 3285 | -38 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-22 | 第2期韓国棋院選手権戦グループリーグ | Han Sanghoon | Shen Zaiyi | Win | W+R | 6.5 | 3335 | -35 | 
+| 2023-01-21 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Shen Zaiyi | Lose | B+1.5 | 6.5 | 3370 | 0 | 
 | 2023-01-15 | 2022-2023韓国囲碁リーグ | Fukuoka Kotaro | Shen Zaiyi | Lose | B+R | 6.5 | 3370 | -17 | 
 | 2023-01-12 | 2022-2023韓国囲碁リーグ | Shen Zaiyi | Shin Jinseo | Lose | W+R | 6.5 | 3387 | -10 | 
 | 2022-12-28 | 2022-2023韓国囲碁リーグ  | Shen Zaiyi | Lai Junfu | Win | B+R | 6.5 | 3397 | 33 | 

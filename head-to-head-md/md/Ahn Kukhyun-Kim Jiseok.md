@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ahn Kukhyun Vs Kim Jiseok** | **Ahn Kukhyun Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-06 | 第28回GSカルテックス杯プロ棋戦予選 | Ahn Kukhyun | Kim Jiseok | W+R | 6.5 | 3:8 | 0 | 2 | 
 | 2017-10-20 | 2017年韓国囲碁リーグ | Kim Jiseok | Ahn Kukhyun | B+R | 6.5 | 3:7 | 0 | 1 | 
 | 2017-05-06 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Kim Jiseok | Ahn Kukhyun | W+1.5 | 6.5 | 3:6 | 2 | 0 | 
 | 2017-05-05 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Ahn Kukhyun | Kim Jiseok | B+0.5 | 6.5 | 2:6 | 1 | 0 | 

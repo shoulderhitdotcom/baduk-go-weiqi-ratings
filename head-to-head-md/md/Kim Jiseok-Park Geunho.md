@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Park Geunho** | **Kim Jiseok Streak** | **Park Geunho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-22 | 2022-2023韓国囲碁リーグ | Kim Jiseok | Park Geunho | B+R | 6.5 | 4:3 | 2 | 0 | 
 | 2022-06-10 | 第8回国手山脈国際囲碁大会韓国予選 | Kim Jiseok | Park Geunho | B+R | 6.5 | 3:3 | 1 | 0 | 
 | 2022-05-06 | 2022年アジア競技大会韓国予選 | Park Geunho | Kim Jiseok | B+R | 7.5 | 2:3 | 0 | 1 | 
 | 2022-03-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Park Geunho | B+0.5 | 6.5 | 2:2 | 1 | 0 | 

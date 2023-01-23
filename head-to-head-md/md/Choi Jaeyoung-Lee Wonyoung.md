@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Lee Wonyoung** | **Choi Jaeyoung streak** | **Lee Wonyoung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Lee Wonyoung** | **Choi Jaeyoung Streak** | **Lee Wonyoung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | B+2.5 | 6.5 | 1:0 | 1 | 0 |
 

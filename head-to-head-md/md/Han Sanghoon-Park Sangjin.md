@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Sanghoon vs Park Sangjin** | **Han Sanghoon streak** | **Park Sangjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Sanghoon Vs Park Sangjin** | **Han Sanghoon Streak** | **Park Sangjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Sangjin | Han Sanghoon | W+1.5 | 6.5 | 1:0 | 1 | 0 |
 

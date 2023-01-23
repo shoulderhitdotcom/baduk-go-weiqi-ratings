@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ahn Kukhyun vs Park Sangjin** | **Ahn Kukhyun streak** | **Park Sangjin streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ahn Kukhyun Vs Park Sangjin** | **Ahn Kukhyun Streak** | **Park Sangjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Park Sangjin | Ahn Kukhyun | B+R | 6.5 | 0:1 | 0 | 1 |
 

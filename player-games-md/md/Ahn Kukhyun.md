@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-23 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Park Junghwan | Ahn Kukhyun | Lose | B+R | 6.5 | 3096 | -11 | 
 | 2023-01-22 | 2022-2023韓国囲碁リーグ | Ahn Kukhyun | Lee Wonyoung | Lose | W+1.5 | 6.5 | 3107 | 19 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Ahn Kukhyun | Cho Hanseung | Lose | W+R | 6.5 | 3088 | 54 | 
 | 2023-01-07 | 2022-2023韓国囲碁リーグ | Lee Changseok | Ahn Kukhyun | Win | W+R | 6.5 | 3034 | -53 | 
@@ -28,9 +29,9 @@
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Park Sangjin | Ahn Kukhyun | Lose | B+R | 6.5 | 3196 | -41 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3237 | -15 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Lose | B+R | 6.5 | 3252 | 10 | 
-| 2022-01-03 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Ahn Kukhyun | Lee Jihyun | Lose | W+R | 6.5 | 3242 | -12 | 
-| 2021-12-30 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Cho Wankyu | Win | B+R | 6.5 | 3254 | 38 | 
-| 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3216 | 96 | 
+| 2022-01-03 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Ahn Kukhyun | Lee Jihyun | Lose | W+R | 6.5 | 3242 | -11 | 
+| 2021-12-30 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Cho Wankyu | Win | B+R | 6.5 | 3253 | 38 | 
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3215 | 95 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Hamin | Ahn Kukhyun | Lose | B+R | 6.5 | 3120 | 79 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | Song Gyusang | Ahn Kukhyun | Win | W+R | 6.5 | 3041 | 43 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Park Geunho | Lose | W+R | 6.5 | 2998 | -14 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ahn Kukhyun vs Lee Wondo** | **Ahn Kukhyun streak** | **Lee Wondo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ahn Kukhyun Vs Lee Wondo** | **Ahn Kukhyun Streak** | **Lee Wondo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Wondo | Ahn Kukhyun | W+5.5 | 6.5 | 1:0 | 1 | 0 |
 

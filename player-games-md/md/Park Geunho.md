@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-25 | 第6回クラウン・ヘテ杯準決勝 |  | Park Geunho | Win | W+R | 6.5 | 3496 | -19 | 
 | 2023-01-22 | 2022-2023韓国囲碁リーグ | Kim Jiseok | Park Geunho | Lose | B+R | 6.5 | 3515 | -2 | 
 | 2023-01-20 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Heo Youngrak | Win | B+0.5 | 6.5 | 3517 | 10 | 
 | 2023-01-18 | 第6回クラウン・ヘテ杯3回戦 | Park Geunho |  | Win | B+R | 6.5 | 3507 | 0 | 
@@ -82,8 +83,8 @@
 | 2020-10-20 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Kang Dongyun | Lose | W+R | 6.5 | 3234 | -7 | 
 | 2020-10-12 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Lee Changseok | Lose | W+R | 6.5 | 3241 | -64 | 
 | 2020-09-22 | 第22回農心杯韓国選抜戦 | Park Geunho | Park Seunghwa | Lose | W+1.5 | 6.5 | 3305 | -12 | 
-| 2020-09-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3317 | 19 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Park Geunho | Lose | B+R | 6.5 | 3298 | -38 | 
+| 2020-09-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3317 | 20 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Jihoon | Park Geunho | Lose | B+R | 6.5 | 3297 | -39 | 
 | 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | Win | B+R | 6.5 | 3336 | -75 | 
 | 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Lose | B+R | 6.5 | 3411 | 8 | 
 | 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Geunho | An Jungki | Win | B+1.5 | 6.5 | 3403 | 14 | 

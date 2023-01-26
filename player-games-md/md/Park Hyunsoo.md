@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-25 | 2022-2023韓国囲碁リーグ | Lee Changseok | Park Hyunsoo | Lose | B+R | 6.5 | 3248 | 29 | 
 | 2023-01-20 | 2022-2023韓国囲碁リーグ | Park Hyunsoo | Hirose Yuichi | Win | B+R | 6.5 | 3219 | 3 | 
 | 2023-01-19 | 第6回クラウン・ヘテ杯3回戦 |  | Park Hyunsoo | Lose | B+R | 6.5 | 3216 | -2 | 
 | 2023-01-17 | 2022-2023フューチャーズリーグ | Choi Kihoon | Park Hyunsoo | Win | W+F | 6.5 | 3218 | 84 | 
 | 2023-01-09 | 第6回クラウン・ヘテ杯2回戦 | Heo Seohyun | Park Hyunsoo | Win | W+R | 6.5 | 3134 | 0 | 
-| 2023-01-09 | 2022-2023フューチャーズリーグ | Park Hyunsoo |  | Win | B+R | 6.5 | 3134 | 55 | 
-| 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Oh Yujin | Park Hyunsoo | Win | W+R | 6.5 | 3079 | 77 | 
-| 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Lose | W+R | 6.5 | 3002 | -80 | 
+| 2023-01-09 | 2022-2023フューチャーズリーグ | Park Hyunsoo |  | Win | B+R | 6.5 | 3134 | 54 | 
+| 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Oh Yujin | Park Hyunsoo | Win | W+R | 6.5 | 3080 | 77 | 
+| 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Lose | W+R | 6.5 | 3003 | -79 | 
 | 2022-09-24 | 第10回河燦錫国手杯歴代英才王中王戦決勝 | Kim Beomseo | Park Hyunsoo | Lose | B+R | 6.5 | 3082 | 54 | 
 | 2022-08-12 | 第10回河燦錫国手杯歴代英才王中王戦準決勝 | Lee Yeon | Park Hyunsoo | Win | W+R | 6.5 | 3028 | 0 | 
 | 2022-08-04 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Seol Hyunjun | Park Hyunsoo | Win | W+R | 6.5 | 3028 | 0 | 
@@ -23,8 +24,8 @@
 | 2021-01-19 | 第4回クラウン・ヘテ杯2回戦 | Park Hyunsoo | Oh Byungwoo | Win | B+7.5 | 6.5 | 2947 | -100 | 
 | 2020-12-30 | 第4回クラウン・ヘテ杯1回戦 | Park Hyunsoo | Lee Yeon | Win | B+R | 6.5 | 3047 | 37 | 
 | 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Na Hyun | Park Hyunsoo | Lose | B+R | 6.5 | 3010 | -66 | 
-| 2020-07-14 | 2020陜川歴代英才vs女性頂上連勝対抗戦第6局 | Park Hyunsoo | Oh Yujin | Lose | W+0.5 | 6.5 | 3076 | -1 | 
-| 2020-07-08 | 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | Win | B+R | 6.5 | 3077 | 16 | 
+| 2020-07-14 | 2020陜川歴代英才vs女性頂上連勝対抗戦第6局 | Park Hyunsoo | Oh Yujin | Lose | W+0.5 | 6.5 | 3076 | -2 | 
+| 2020-07-08 | 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | Win | B+R | 6.5 | 3078 | 17 | 
 | 2020-05-26 | 第7回グロービス杯韓国予選 | Park Joonhoon | Park Hyunsoo | Lose | B+R | 6.5 | 3061 | -3 | 
 | 2020-05-25 | 第7回グロービス杯韓国予選 | Gang Woohyeok | Park Hyunsoo | Win | W+R | 6.5 | 3064 | 17 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Lee Yeon | Park Hyunsoo | Lose | B+R | 6.5 | 3047 | -49 | 

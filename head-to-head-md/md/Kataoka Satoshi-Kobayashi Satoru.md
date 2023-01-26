@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kataoka Satoshi vs Kobayashi Satoru** | **Kataoka Satoshi streak** | **Kobayashi Satoru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kataoka Satoshi Vs Kobayashi Satoru** | **Kataoka Satoshi Streak** | **Kobayashi Satoru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-04-19 | 第51期十段戦予選 | Kobayashi Satoru | Kataoka Satoshi | W+0.5 | 6.5 | 3:2 | 1 | 0 | 
 | 2010-03-11 | 第58期王座戦予選 | Kataoka Satoshi | Kobayashi Satoru | W+R | 6.5 | 2:2 | 0 | 1 | 

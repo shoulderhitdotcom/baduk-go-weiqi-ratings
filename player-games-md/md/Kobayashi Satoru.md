@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-26 | 第2回テイケイ杯レジェンド戦1回戦 | Kobayashi Satoru | Ishida Yoshio | Win | B+0.5 | 6.5 | 2504 | 57 | 
 | 2023-01-23 | 第48期棋聖戦予選 | Koyama Mitsuru | Kobayashi Satoru | Win | W+R | 6.5 | 2447 | -75 | 
 | 2022-09-22 | 第48期碁聖戦予選 | Cho Sonjin | Kobayashi Satoru | Lose | B+7.5 | 6.5 | 2522 | 0 | 
 | 2022-02-24 | 第1回テイケイ杯レジェンド戦準決勝 | Kobayashi Satoru | Sonoda Yuichi | Lose | W+R | 6.5 | 2522 | 5 | 

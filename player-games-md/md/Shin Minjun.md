@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-26 | 第6回クラウン・ヘテ杯準決勝 | Gon Jiwoo | Shin Minjun | Win | W+R | 6.5 | 3578 | -6 | 
 | 2023-01-25 | 2022-2023韓国囲碁リーグ | Shin Minjun | Lee Jihyun | Lose | W+R | 6.5 | 3584 | -2 | 
 | 2023-01-24 | 第6回クラウン・ヘテ杯3回戦 | Shin Minjun |  | Win | B+4.5 | 6.5 | 3586 | 12 | 
 | 2023-01-12 | 第6回クラウン・ヘテ杯2回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3574 | 16 | 

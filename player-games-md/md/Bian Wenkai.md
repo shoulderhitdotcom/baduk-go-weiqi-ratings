@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第74期本因坊戦最終予選 | Motoki Katsuya | Bian Wenkai | B+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kcV0kOszKFM1RJbRV%2FyI%2Fw%3D%3D) | 
 | 第43期新人王戦1回戦 | Onishi Kenya | Bian Wenkai | B+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O757AU68fHmXRzUQhboENw%3D%3D) | 

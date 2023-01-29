@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-28 | 第2期韓国棋院選手権戦グループリーグ | Moon Minjong | Park Joonhoon | Lose | W+0.5 | 6.5 | 3185 | -19 | 
 | 2023-01-27 | 2022-2023韓国囲碁リーグ | Moon Minjong | Chang Rueijie | Win | B+R | 6.5 | 3204 | 42 | 
 | 2023-01-18 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Moon Minjong | Win | W+R | 6.5 | 3162 | 0 | 
 | 2023-01-14 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Moon Minjong | Lose | B+R | 6.5 | 3162 | 10 | 

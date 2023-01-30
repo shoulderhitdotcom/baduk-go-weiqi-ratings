@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Iyama Yuta Vs Shibano Toramaru** | **Iyama Yuta Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-30 | 第61期十段戦挑戦者決定戦  | Iyama Yuta | Shibano Toramaru | W+3.5 | 6.5 | 22:19 | 0 | 2 | 
 | 2022-11-03 | 第47期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 22:18 | 0 | 1 | 
 | 2022-10-25 | 第47期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 22:17 | 2 | 0 | 
 | 2022-10-13 | 第47期名人戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | W+R | 6.5 | 21:17 | 1 | 0 | 

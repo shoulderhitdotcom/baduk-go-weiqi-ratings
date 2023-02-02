@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Yang Dingxin** | **Ding Hao Streak** | **Yang Dingxin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-01 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ding Hao | Yang Dingxin | B+0.5 | 6.5 | 8:3 | 7 | 0 | 
 | 2023-01-30 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Ding Hao | W+R | 6.5 | 7:3 | 6 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | B+R | 7.5 | 6:3 | 5 | 0 | 
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | W+¼ | 7.5 | 5:3 | 4 | 0 | 

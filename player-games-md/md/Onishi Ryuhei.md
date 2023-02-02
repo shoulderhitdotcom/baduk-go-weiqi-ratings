@@ -7,25 +7,26 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-29 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Kang Yootaek | Lose | W+R | 6.5 | 3047 | -10 | 
-| 2023-01-23 | 第71期王座戦予選 | Onishi Ryuhei | Okuda Aya | Win | B+R | 6.5 | 3057 | 3 | 
-| 2023-01-20 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Hong Mujin | Lose | W+R | 6.5 | 3054 | 20 | 
-| 2023-01-16 | 第49期天元戦予選 | Onishi Ryuhei | Tsuruyama Atsushi | Win | B+R | 6.5 | 3034 | -2 | 
+| 2023-02-02 | 第48期棋聖戦Bリーグ | Hane Naoki | Onishi Ryuhei | Lose | B+R | 6.5 | 3009 | -38 | 
+| 2023-01-29 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Kang Yootaek | Lose | W+R | 6.5 | 3047 | -9 | 
+| 2023-01-23 | 第71期王座戦予選 | Onishi Ryuhei | Okuda Aya | Win | B+R | 6.5 | 3056 | 3 | 
+| 2023-01-20 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Hong Mujin | Lose | W+R | 6.5 | 3053 | 20 | 
+| 2023-01-16 | 第49期天元戦予選 | Onishi Ryuhei | Tsuruyama Atsushi | Win | B+R | 6.5 | 3033 | -3 | 
 | 2022-12-15 | 第61期十段戦3回戦 | Iyama Yuta | Onishi Ryuhei | Lose | B+R | 6.5 | 3036 | -64 | 
 | 2022-12-08 | 第49期天元戦予選 | Awaji Shuzo | Onishi Ryuhei | Win | W+R | 6.5 | 3100 | -9 | 
 | 2022-11-26 | 第17回広島アルミ杯・若鯉戦1回戦  | Otake Yu | Onishi Ryuhei | Lose | B+5.5 | 6.5 | 3109 | -34 | 
-| 2022-11-24 | 第61期十段戦2回戦 | Sada Atsushi | Onishi Ryuhei | Win | W+R | 6.5 | 3143 | 50 | 
-| 2022-10-10 | 第61期十段戦1回戦 | Onishi Ryuhei | Mitani Tetsuya | Win | B+5.5 | 6.5 | 3093 | 12 | 
-| 2022-08-29 | 第47期棋聖戦Aリーグ | So Yokoku | Onishi Ryuhei | Lose | B+R | 6.5 | 3081 | -118 | 
-| 2022-07-14 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | Lose | W+6.5 | 6.5 | 3199 | -56 | 
+| 2022-11-24 | 第61期十段戦2回戦 | Sada Atsushi | Onishi Ryuhei | Win | W+R | 6.5 | 3143 | 51 | 
+| 2022-10-10 | 第61期十段戦1回戦 | Onishi Ryuhei | Mitani Tetsuya | Win | B+5.5 | 6.5 | 3092 | 11 | 
+| 2022-08-29 | 第47期棋聖戦Aリーグ | So Yokoku | Onishi Ryuhei | Lose | B+R | 6.5 | 3081 | -117 | 
+| 2022-07-14 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | Lose | W+6.5 | 6.5 | 3198 | -57 | 
 | 2022-06-09 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Win | B+R | 6.5 | 3255 | 114 | 
-| 2022-05-05 | 第47棋聖戦Aリーグ  | Sun Zhe | Onishi Ryuhei | Lose | B+R | 6.5 | 3141 | 40 | 
-| 2022-04-21 | 第70期王座戦予選 | Onishi Ryuhei | Yu Zhengqi | Lose | W+R | 6.5 | 3101 | -87 | 
-| 2022-04-11 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Kono Rin | Win | B+0.5 | 6.5 | 3188 | 51 | 
-| 2022-03-03 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Hong Seokui | Win | B+1.5 | 6.5 | 3137 | -43 | 
-| 2022-02-17 | 第47期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | B+R | 6.5 | 3180 | 60 | 
-| 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3120 | -10 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Lose | W+R | 6.5 | 3130 | -53 | 
+| 2022-05-05 | 第47棋聖戦Aリーグ  | Sun Zhe | Onishi Ryuhei | Lose | B+R | 6.5 | 3141 | 41 | 
+| 2022-04-21 | 第70期王座戦予選 | Onishi Ryuhei | Yu Zhengqi | Lose | W+R | 6.5 | 3100 | -88 | 
+| 2022-04-11 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Kono Rin | Win | B+0.5 | 6.5 | 3188 | 52 | 
+| 2022-03-03 | 第47期棋聖戦Aリーグ | Onishi Ryuhei | Hong Seokui | Win | B+1.5 | 6.5 | 3136 | -43 | 
+| 2022-02-17 | 第47期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | B+R | 6.5 | 3179 | 59 | 
+| 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3120 | -9 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Lose | W+R | 6.5 | 3129 | -54 | 
 | 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Win | B+R | 6.5 | 3183 | -1 | 
 | 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3184 | 11 | 
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3173 | 43 | 
@@ -43,8 +44,8 @@
 | 2020-12-28 | 第59期十段戦3回戦 | Onishi Ryuhei | Yu Zhengqi | Lose | W+1.5 | 6.5 | 3088 | -32 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | Lose | W+5.5 | 6.5 | 3120 | 0 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Fujisawa Rina | Win | B+R | 6.5 | 3120 | 14 | 
-| 2020-12-18 | 第76期本因坊戦リーグ  | Shibano Toramaru | Onishi Ryuhei | Lose | B+R | 6.5 | 3106 | -8 | 
-| 2020-11-26 | 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | Lose | B+R | 6.5 | 3114 | -45 | 
+| 2020-12-18 | 第76期本因坊戦リーグ  | Shibano Toramaru | Onishi Ryuhei | Lose | B+R | 6.5 | 3106 | -7 | 
+| 2020-11-26 | 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | Lose | B+R | 6.5 | 3113 | -46 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦  | Onishi Ryuhei | Hirata Tomoya | Lose | W+0.5 | 6.5 | 3159 | 0 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 |  | Onishi Ryuhei | Win | W+R | 6.5 | 3159 | -53 | 
 | 2020-10-22 | 第76期本因坊戦リーグ | Ko Iso | Onishi Ryuhei | Win | W+R | 6.5 | 3212 | -24 | 

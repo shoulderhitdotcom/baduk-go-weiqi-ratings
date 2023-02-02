@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Yamashita Keigo** | **Cho U Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-02 | 第48期名人戦リーグ  | Yamashita Keigo | Cho U | W+R | 6.5 | 38:28 | 1 | 0 | 
 | 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Yamashita Keigo | W+R | 6.5 | 37:28 | 0 | 3 | 
 | 2020-06-08 | 第45期名人戦リーグ | Cho U | Yamashita Keigo | W+11.5 | 6.5 | 37:27 | 0 | 2 | 
 | 2018-04-19 | 第43期棋聖戦Sリーグ | Cho U | Yamashita Keigo | W+R | 6.5 | 37:26 | 0 | 1 | 

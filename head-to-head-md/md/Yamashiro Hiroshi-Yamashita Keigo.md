@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yamashiro Hiroshi vs Yamashita Keigo** | **Yamashiro Hiroshi streak** | **Yamashita Keigo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yamashiro Hiroshi Vs Yamashita Keigo** | **Yamashiro Hiroshi Streak** | **Yamashita Keigo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-05-21 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Yamashiro Hiroshi | W+1.5 | 6.5 | 3:5 | 1 | 0 | 
 | 2014-10-02 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamashita Keigo | W+R | 6.5 | 2:5 | 0 | 1 | 

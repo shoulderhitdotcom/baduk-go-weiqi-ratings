@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-03 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Kang Dongyun | Win | W+R | 7.5 | 3603 | 5 | 
 | 2023-02-01 | 2022-2023韓国囲碁リーグ | Chen Qirui | Kang Dongyun | Win | W+R | 6.5 | 3598 | 15 | 
 | 2023-01-17 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Han Sanghoon | Kang Dongyun | Lose | B+R | 6.5 | 3583 | -14 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Lose | B+R | 6.5 | 3597 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Tan Xiao** | **Chen Yaoye Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-03 | 第24回中国囲碁甲級リーグ | Tan Xiao | Chen Yaoye | B+R | 7.5 | 11:10 | 0 | 2 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Chen Yaoye | Tan Xiao | W+R | 7.5 | 11:9 | 0 | 1 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Tan Xiao | Chen Yaoye | W+R | 7.5 | 11:8 | 1 | 0 | 
 | 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Chen Yaoye | Tan Xiao | W+R | 7.5 | 10:8 | 0 | 1 | 

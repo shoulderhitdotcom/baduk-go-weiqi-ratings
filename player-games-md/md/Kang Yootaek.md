@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-29 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Kang Yootaek | Win | W+R | 6.5 | 3366 | -9 | 
-| 2023-01-11 | 2022-2023韓国囲碁リーグ  | Kang Yootaek | Wang Yuanjun | Win | B+R | 6.5 | 3375 | 43 | 
-| 2023-01-09 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Yun Chanhee | Kang Yootaek | Win | W+R | 6.5 | 3332 | 215 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Kang Yootaek | Lose | B+R | 6.5 | 3379 | 13 | 
+| 2023-01-29 | 2022-2023韓国囲碁リーグ | Onishi Ryuhei | Kang Yootaek | Win | W+R | 6.5 | 3366 | -8 | 
+| 2023-01-11 | 2022-2023韓国囲碁リーグ  | Kang Yootaek | Wang Yuanjun | Win | B+R | 6.5 | 3374 | 43 | 
+| 2023-01-09 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Yun Chanhee | Kang Yootaek | Win | W+R | 6.5 | 3331 | 214 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Byun Sangil | Win | B+T | 6.5 | 3117 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Lose | W+R | 6.5 | 3117 | 51 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Kang Yootaek | Kim Myounghoon | Lose | W+R | 6.5 | 3066 | 36 | 
-| 2022-06-03 | 第27回GSカルテックス杯プロ棋戦2回戦 | Kim Myounghoon | Kang Yootaek | Lose | B+R | 6.5 | 3030 | 19 | 
-| 2022-04-29 | 第27回GSカルテックス杯プロ棋戦1回戦 | Lee Changho | Kang Yootaek | Win | W+R | 6.5 | 3011 | -274 | 
-| 2022-04-22 | 第27回LG杯韓国予選 | Kang Yootaek | Kim Jiseok | Lose | W+R | 6.5 | 3285 | 0 | 
-| 2022-04-21 | 第27回LG杯韓国予選 | Park Jaekeun | Kang Yootaek | Win | W+R | 6.5 | 3285 | 0 | 
-| 2022-02-15 | 第5期韓国竜星戦予選 | Kang Yootaek | Park Kyuongkeun | Lose | W+R | 6.5 | 3285 | -120 | 
+| 2022-06-03 | 第27回GSカルテックス杯プロ棋戦2回戦 | Kim Myounghoon | Kang Yootaek | Lose | B+R | 6.5 | 3030 | 20 | 
+| 2022-04-29 | 第27回GSカルテックス杯プロ棋戦1回戦 | Lee Changho | Kang Yootaek | Win | W+R | 6.5 | 3010 | -274 | 
+| 2022-04-22 | 第27回LG杯韓国予選 | Kang Yootaek | Kim Jiseok | Lose | W+R | 6.5 | 3284 | 0 | 
+| 2022-04-21 | 第27回LG杯韓国予選 | Park Jaekeun | Kang Yootaek | Win | W+R | 6.5 | 3284 | 0 | 
+| 2022-02-15 | 第5期韓国竜星戦予選 | Kang Yootaek | Park Kyuongkeun | Lose | W+R | 6.5 | 3284 | -121 | 
 | 2022-01-03 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kang Yootaek | Park Jinsol | Lose | W+R | 6.5 | 3405 | 6 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3399 | 23 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3376 | 9 | 

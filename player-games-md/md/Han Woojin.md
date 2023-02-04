@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-01-29 | 2022-2023韓国囲碁リーグ | Sakai Yuki | Han Woojin | Win | W+R | 6.5 | 3258 | -49 | 
-| 2023-01-23 | 2022-2023フューチャーズリーグ | Oh Byungwoo | Han Woojin | Win | W+R | 6.5 | 3307 | 8 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Han Woojin | Win | W+3.5 | 6.5 | 3258 | 0 | 
+| 2023-01-29 | 2022-2023韓国囲碁リーグ | Sakai Yuki | Han Woojin | Win | W+R | 6.5 | 3258 | -48 | 
+| 2023-01-23 | 2022-2023フューチャーズリーグ | Oh Byungwoo | Han Woojin | Win | W+R | 6.5 | 3306 | 7 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3299 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Han Woojin | Cho Hanseung | Lose | W+R | 6.5 | 3299 | 12 | 
 | 2022-12-26 | 第6回クラウン・ヘテ杯1回戦 |  | Han Woojin | Lose | B+R | 6.5 | 3287 | 7 | 
@@ -28,10 +29,10 @@
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Lee Jihyun | Han Woojin | Win | W+R | 6.5 | 3164 | -20 | 
 | 2022-08-26 | 第27回三星火災杯韓国予選 | Han Woojin | Zheng Yujin | Win | B+R | 6.5 | 3184 | 9 | 
 | 2022-08-17 | 第3期利鵬杯新鋭最高位戦準決勝 | Han Woojin |  | Win | B+R | 6.5 | 3175 | 21 | 
-| 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 | Han Woojin |  | Win | B+R | 6.5 | 3154 | 12 | 
-| 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Lose | W+¼ | 7.5 | 3142 | 0 | 
-| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Hyun Yoobin | Han Woojin | Win | W+R | 7.5 | 3142 | 0 | 
-| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3142 | -60 | 
+| 2022-08-16 | 第3期利鵬杯新鋭最高位戦4回戦 | Han Woojin |  | Win | B+R | 6.5 | 3154 | 13 | 
+| 2022-08-10 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Han Woojin | Gueon Hyojin | Lose | W+¼ | 7.5 | 3141 | 0 | 
+| 2022-08-09 | 第4回聶衛平杯囲碁マスターズ（U20）韓国予選 | Hyun Yoobin | Han Woojin | Win | W+R | 7.5 | 3141 | 0 | 
+| 2022-07-08 | 第10回河燦錫国手杯英才最強戦準決勝 | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3141 | -61 | 
 | 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Lose | B+R | 6.5 | 3202 | -17 | 
 | 2022-06-29 | 2022YK建機杯リーグ | Han Woojin | Shin Jinseo | Lose | W+R | 6.5 | 3219 | -3 | 
 | 2022-06-24 | 第10回河燦錫国手杯英才最強戦3回戦 |  | Han Woojin | Win | W+R | 6.5 | 3222 | -1 | 
@@ -47,11 +48,11 @@
 | 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3153 | 0 | 
 | 2022-03-26 | 第7回未来の星新鋭最強戦決勝 |  | Han Woojin | Lose | B+R | 6.5 | 3153 | -1 | 
 | 2022-03-25 | 第7回未来の星新鋭最強戦準決勝 |  | Han Woojin | Win | W+R | 6.5 | 3154 | 33 | 
-| 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Lose | W+1.5 | 6.5 | 3121 | -10 | 
-| 2022-03-08 | 第7回未来の星新鋭最強戦1回戦 | Han Woojin | Jeong Yujin | Win | B+R | 6.5 | 3131 | 2 | 
-| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Han Woojin | Sakai Yuki | Win | B+R | 6.5 | 3129 | 13 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Han Woojin | Xu Jingen | Win | B+R | 6.5 | 3116 | 34 | 
-| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Han Woojin | Wang Xinghao | Lose | W+R | 6.5 | 3082 | -65 | 
+| 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Lose | W+1.5 | 6.5 | 3121 | -9 | 
+| 2022-03-08 | 第7回未来の星新鋭最強戦1回戦 | Han Woojin | Jeong Yujin | Win | B+R | 6.5 | 3130 | 2 | 
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Han Woojin | Sakai Yuki | Win | B+R | 6.5 | 3128 | 13 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Han Woojin | Xu Jingen | Win | B+R | 6.5 | 3115 | 34 | 
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Han Woojin | Wang Xinghao | Lose | W+R | 6.5 | 3081 | -66 | 
 | 2022-01-28 | 2022議政府国際新鋭団体戦韓国予選 | Han Woojin | Gueon Hyojin | Win | B+R | 6.5 | 3147 | 31 | 
 | 2022-01-25 | 2022議政府国際新鋭団体戦韓国予選 |  | Han Woojin | Win | W+R | 6.5 | 3116 | -59 | 
 | 2021-12-16 | 第5回クラウン・ヘテ杯1回戦 | Han Woojin | Han Seungjoo | Lose | W+R | 6.5 | 3175 | -37 | 

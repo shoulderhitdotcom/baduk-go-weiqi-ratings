@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Weon Seongjin** | **Kim Myounghoon Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-31 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Kim Myounghoon | W+R | 6.5 | 4:2 | 4 | 0 | 
 | 2022-05-21 | 第5期韓国竜星戦3回戦 | Kim Myounghoon | Weon Seongjin | B+R | 6.5 | 3:2 | 3 | 0 | 
 | 2022-05-02 | 2022YK建機杯リーグ | Weon Seongjin | Kim Myounghoon | W+R | 6.5 | 2:2 | 2 | 0 | 
 | 2022-03-08 | 2022年アジア競技大会韓国予選 | Kim Myounghoon | Weon Seongjin | B+R | 6.5 | 1:2 | 1 | 0 | 

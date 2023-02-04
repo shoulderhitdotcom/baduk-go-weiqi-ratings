@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Win | W+R | 7.5 | 3298 | 92 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Wang Shuo | Win | B+R | 7.5 | 3206 | -55 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Liu Yuhang | Chen Haoxin | Lose | W+R | 7.5 | 3261 | -9 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Chen Zijian | Liu Yuhang | Lose | B+R | 7.5 | 3270 | -20 | 

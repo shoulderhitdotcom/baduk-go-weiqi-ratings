@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Win | B+R | 7.5 | 3557 | 38 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Fan Yin | Win | W+R | 7.5 | 3519 | 0 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Fan Yin | Liao Yuanhe | Lose | W+¼ | 7.5 | 3519 | -25 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Ke Jie | Lose | W+R | 7.5 | 3544 | 6 | 

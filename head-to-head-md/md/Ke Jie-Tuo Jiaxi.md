@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tuo Jiaxi** | **Ke Jie Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Ke Jie | W+R | 7.5 | 13:3 | 6 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Ke Jie | Tuo Jiaxi | B+R | 7.5 | 12:3 | 5 | 0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | B+R | 7.5 | 11:3 | 4 | 0 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ke Jie | Tuo Jiaxi | B+R | 7.5 | 10:3 | 3 | 0 | 

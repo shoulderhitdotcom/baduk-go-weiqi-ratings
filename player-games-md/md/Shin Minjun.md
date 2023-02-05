@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-05 | 第6回クラウン・ヘテ杯決勝三番勝負第2局 | Park Geunho | Shin Minjun | Win | W+R | 6.5 | 3594 | 5 | 
 | 2023-02-04 | 第6回クラウン・ヘテ杯決勝三番勝負第1局 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3589 | 17 | 
 | 2023-01-30 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Shin Minjun | Lee Wonyoung | Lose | W+R | 6.5 | 3572 | -1 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Shin Minjun | Win | W+R | 6.5 | 3573 | 0 | 

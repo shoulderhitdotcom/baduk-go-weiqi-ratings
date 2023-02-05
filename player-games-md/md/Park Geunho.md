@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-05 | 第6回クラウン・ヘテ杯決勝三番勝負第2局 | Park Geunho | Shin Minjun | Lose | W+R | 6.5 | 3486 | -5 | 
 | 2023-02-04 | 第6回クラウン・ヘテ杯決勝三番勝負第1局 | Shin Minjun | Park Geunho | Lose | B+R | 6.5 | 3491 | -5 | 
 | 2023-02-02 | 2022-2023韓国囲碁リーグ | Park Geunho | Shen Zaiyi | Lose | W+R | 6.5 | 3496 | 6 | 
 | 2023-01-25 | 第6回クラウン・ヘテ杯準決勝 |  | Park Geunho | Win | W+R | 6.5 | 3490 | -19 | 

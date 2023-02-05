@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3242 | 59 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3183 | -111 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 |  | Hu Zihao | Win | W+R | 7.5 | 3294 | 0 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Wang Chuxuan | Hu Zihao | Win | W+R | 7.5 | 3294 | 14 | 

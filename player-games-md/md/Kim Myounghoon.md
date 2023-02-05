@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Kim Myounghoon | Lose | B+R | 7.5 | 3579 | -8 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Xie Erhao | Win | B+¾ | 7.5 | 3587 | 20 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Ye Changxin | Kim Myounghoon | Win | W+R | 7.5 | 3567 | 8 | 
 | 2023-02-02 | 2022-2023韓国囲碁リーグ | An Sungjoon | Kim Myounghoon | Win | W+R | 6.5 | 3559 | 0 | 

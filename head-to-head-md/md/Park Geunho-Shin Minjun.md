@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Geunho Vs Shin Minjun** | **Park Geunho Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-05 | 第6回クラウン・ヘテ杯決勝三番勝負第2局 | Park Geunho | Shin Minjun | W+R | 6.5 | 2:6 | 0 | 3 | 
 | 2023-02-04 | 第6回クラウン・ヘテ杯決勝三番勝負第1局 | Shin Minjun | Park Geunho | B+R | 6.5 | 2:5 | 0 | 2 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Shin Minjun | Park Geunho | B+R | 6.5 | 2:4 | 0 | 1 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Park Geunho | Shin Minjun | B+R | 7.5 | 2:3 | 2 | 0 | 

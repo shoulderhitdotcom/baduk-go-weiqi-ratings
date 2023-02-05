@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs He Yuhan** | **Dang Yifei streak** | **He Yuhan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs He Yuhan** | **Dang Yifei Streak** | **He Yuhan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-03-24 | 第18回西南棋王戦準決勝 | Dang Yifei | He Yuhan | B+R | 7.5 | 1:0 | 1 | 0 |
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | He Yuhan | Dang Yifei | B+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

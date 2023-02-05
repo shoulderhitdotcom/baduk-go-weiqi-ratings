@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Ke Jie** | **Kang Dongyun Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-13 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kang Dongyun | Ke Jie | B+R | 6.5 | 3:5 | 1 | 0 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Kang Dongyun | Ke Jie | W+R | 7.5 | 2:5 | 0 | 3 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Ke Jie | Kang Dongyun | B+R | 7.5 | 2:4 | 0 | 2 | 
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kang Dongyun | Ke Jie | W+R | 6.5 | 2:3 | 0 | 1 | 

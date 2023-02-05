@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hong Seongji vs Shi Yue** | **Hong Seongji streak** | **Shi Yue streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hong Seongji Vs Shi Yue** | **Hong Seongji Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-04-08 | 第22期LG杯世界予選決勝 | Shi Yue | Hong Seongji | W+R | 6.5 | 1:0 | 1 | 0 |
 

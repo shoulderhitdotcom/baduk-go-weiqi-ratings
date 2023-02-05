@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Hanseung Vs Hong Seongji** | **Cho Hanseung Streak** | **Hong Seongji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-04 | 2022-2023韓国囲碁リーグ | Cho Hanseung | Hong Seongji | W+R | 6.5 | 5:9 | 0 | 2 | 
 | 2023-01-08 | 第4期ソパルコサノル最高棋士決定戦予選 | Cho Hanseung | Hong Seongji | W+R | 6.5 | 5:8 | 0 | 1 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Hong Seongji | B+0.5 | 6.5 | 5:7 | 1 | 0 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | B+R | 6.5 | 4:7 | 0 | 1 | 

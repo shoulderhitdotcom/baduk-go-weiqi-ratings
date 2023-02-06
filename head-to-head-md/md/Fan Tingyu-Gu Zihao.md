@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Gu Zihao** | **Fan Tingyu Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Zihao | W+R | 7.5 | 3:7 | 0 | 1 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | W+R | 7.5 | 3:6 | 1 | 0 | 
 | 2019-04-11 | 第10期中国竜星戦Bブロック8回戦 | Gu Zihao | Fan Tingyu | B+R | 7.5 | 2:6 | 0 | 3 | 
 | 2018-10-31 | 第20期阿含・桐山杯中国早碁オープン戦決勝  | Fan Tingyu | Gu Zihao | W+R | 7.5 | 2:5 | 0 | 2 | 

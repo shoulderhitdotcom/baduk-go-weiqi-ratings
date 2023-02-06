@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Park Junghwan** | **Kim Jiseok Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-18 | 2022-2023韓国囲碁リーグ | Park Junghwan | Kim Jiseok | B+2.5 | 6.5 | 8:27 | 0 | 4 | 
 | 2022-03-14 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Park Junghwan | Kim Jiseok | B+R | 6.5 | 8:26 | 0 | 3 | 
 | 2022-01-23 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Park Junghwan | W+R | 6.5 | 8:25 | 0 | 2 | 
 | 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | W+R | 6.5 | 8:24 | 0 | 1 | 

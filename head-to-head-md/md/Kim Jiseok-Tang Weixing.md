@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Tang Weixing** | **Kim Jiseok Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | W+R | 7.5 | 7:6 | 2 | 0 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Kim Jiseok | Tang Weixing | B+R | 7.5 | 6:6 | 1 | 0 | 
 | 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Kim Jiseok | B+R | 6.5 | 5:6 | 0 | 5 | 
 | 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Kim Jiseok | Tang Weixing | W+R | 7.5 | 5:5 | 0 | 4 | 

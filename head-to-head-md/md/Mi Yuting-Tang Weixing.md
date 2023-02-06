@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Tang Weixing** | **Mi Yuting Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-11-19 | 第2回湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | W+R | 7.5 | 13:6 | 1 | 0 | 
+| 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | W+R | 7.5 | 13:6 | 1 | 0 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Tang Weixing | Mi Yuting | B+¾ | 7.5 | 12:6 | 0 | 2 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | B+R | 7.5 | 12:5 | 0 | 1 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tang Weixing | B+R | 7.5 | 12:4 | 9 | 0 | 

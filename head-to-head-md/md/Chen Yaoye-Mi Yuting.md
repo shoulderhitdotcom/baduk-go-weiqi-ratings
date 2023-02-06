@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Mi Yuting** | **Chen Yaoye Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | B+R | 7.5 | 7:9 | 0 | 1 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Mi Yuting | B+R | 7.5 | 7:8 | 2 | 0 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Chen Yaoye | Mi Yuting | B+R | 7.5 | 6:8 | 1 | 0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Chen Yaoye | Mi Yuting | W+R | 7.5 | 5:8 | 0 | 3 | 

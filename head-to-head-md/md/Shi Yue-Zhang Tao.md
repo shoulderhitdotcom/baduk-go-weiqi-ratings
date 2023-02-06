@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Zhang Tao** | **Shi Yue Streak** | **Zhang Tao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦1回戦 | Zhang Tao | Shi Yue | W+7¼ | 7.5 | 6:2 | 1 | 0 | 
+| 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Zhang Tao | Shi Yue | W+7¼ | 7.5 | 6:2 | 1 | 0 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | B+R | 7.5 | 5:2 | 0 | 1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhang Tao | Shi Yue | W+R | 7.5 | 5:1 | 1 | 0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Zhang Tao | Shi Yue | B+R | 7.5 | 4:1 | 0 | 1 | 

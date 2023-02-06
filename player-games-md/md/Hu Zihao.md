@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3242 | 59 | 
-| 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3183 | -111 | 
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3243 | 59 | 
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3184 | -110 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 |  | Hu Zihao | Win | W+R | 7.5 | 3294 | 0 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Wang Chuxuan | Hu Zihao | Win | W+R | 7.5 | 3294 | 14 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Hu Zihao | Li Xinchen | Win | B+R | 7.5 | 3280 | 0 | 
@@ -19,9 +19,9 @@
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Hu Zihao |  | Lose | W+R | 7.5 | 3294 | -30 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Hu Zihao | Park Junghwan | Lose | W+R | 7.5 | 3324 | 22 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Hu Zihao | Yi Lingtao | Win | B+R | 7.5 | 3302 | 50 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Win | W+R | 7.5 | 3252 | 62 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Weiqing | Hu Zihao | Lose | B+R | 7.5 | 3190 | 0 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Lose | B+R | 7.5 | 3190 | -25 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Win | W+R | 7.5 | 3252 | 61 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Weiqing | Hu Zihao | Lose | B+R | 7.5 | 3191 | 0 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Lose | B+R | 7.5 | 3191 | -24 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Haotong | Hu Zihao | Lose | B+R | 7.5 | 3215 | -139 | 
 | 2022-07-15 | 2021中国囲碁乙級リーグ | Hu Zihao | Kang Seungmin | Win | B+R | 7.5 | 3354 | 109 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Hu Zihao | Tang Jiawen | Lose | W+R | 7.5 | 3245 | -55 | 
@@ -36,10 +36,10 @@
 | 2021-08-31 | 第12期中国竜星戦予選 | Zheng Zaixiang | Hu Zihao | Lose | B+1¾ | 7.5 | 2769 | -126 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Hu Zihao | Win | W+R | 7.5 | 2895 | 152 | 
 | 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Hu Zihao | Wang Xinghao | Lose | W+R | 7.5 | 2743 | -15 | 
-| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Tang Jiawen | Hu Zihao | Win | W+R | 7.5 | 2758 | 174 | 
-| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Xinghao | Hu Zihao | Lose | B+R | 7.5 | 2584 | 0 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Hu Zihao | Chen Qirui | Lose | W+R | 7.5 | 2584 | 78 | 
-| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Wang Xinghao | Hu Zihao | Lose | B+R | 7.5 | 2506 | missing |
+| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Tang Jiawen | Hu Zihao | Win | W+R | 7.5 | 2758 | 173 | 
+| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Xinghao | Hu Zihao | Lose | B+R | 7.5 | 2585 | 0 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Hu Zihao | Chen Qirui | Lose | W+R | 7.5 | 2585 | 78 | 
+| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Wang Xinghao | Hu Zihao | Lose | B+R | 7.5 | 2507 | missing |
 
 
 

@@ -7,12 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Fu Jianheng | Lose | B+R | 7.5 | 3125 | -66 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Lose | W+R | 7.5 | 3191 | -33 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Jiang Qirun | Win | B+¾ | 7.5 | 3224 | 60 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Huang Yunsong | Lose | W+R | 7.5 | 3164 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Jin Yucheng | Lose | W+R | 7.5 | 3164 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Fu Jianheng | Lose | B+R | 7.5 | 3161 | -146 | 
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Fu Jianheng | Lose | B+R | 7.5 | 3126 | -66 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Lose | W+R | 7.5 | 3192 | -32 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Jiang Qirun | Win | B+¾ | 7.5 | 3224 | 59 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Huang Yunsong | Lose | W+R | 7.5 | 3165 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Jin Yucheng | Lose | W+R | 7.5 | 3165 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Fu Jianheng | Lose | B+R | 7.5 | 3162 | -145 | 
 | 2022-07-19 | 2021中国囲碁乙級リーグ | Fu Jianheng | Chen Shiyuan | Lose | W+¼ | 7.5 | 3307 | 15 | 
 | 2022-03-11 | 第26期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Fu Jianheng | Lose | B+R | 7.5 | 3292 | -10 | 
 | 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 | Fu Jianheng | Chen Haoxin | Win | B+¾ | 7.5 | 3302 | 52 | 
@@ -30,10 +30,10 @@
 | 2021-10-21 | 第2回元十九杯中国囲碁新初段争覇戦1回戦（2020年組） |  | Fu Jianheng | Win | W+R | 7.5 | 2928 | -14 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Chen Yichun | Fu Jianheng | Lose | B+¾ | 7.5 | 2942 | 261 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Fu Jianheng | Tu Xiaoyu | Lose | W+R | 7.5 | 2681 | -63 | 
-| 2021-05-22 | 2021博思軟件杯中国囲碁新秀争覇戦決勝 | Li Haotong | Fu Jianheng | Lose | B+R | 7.5 | 2744 | 91 | 
-| 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 | Fu Jianheng | Zheng Zaixiang | Win | B+R | 7.5 | 2653 | 0 | 
-| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Chuxuan | Fu Jianheng | Win | W+R | 7.5 | 2653 | 0 | 
-| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Fu Jianheng | Cheng Jiaye | Lose | W+R | 7.5 | 2653 | missing |
+| 2021-05-22 | 2021博思軟件杯中国囲碁新秀争覇戦決勝 | Li Haotong | Fu Jianheng | Lose | B+R | 7.5 | 2744 | 90 | 
+| 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 | Fu Jianheng | Zheng Zaixiang | Win | B+R | 7.5 | 2654 | 0 | 
+| 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Chuxuan | Fu Jianheng | Win | W+R | 7.5 | 2654 | 0 | 
+| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Fu Jianheng | Cheng Jiaye | Lose | W+R | 7.5 | 2654 | missing |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Han Yizhou | Liao Yuanhe | Lose | B+R | 7.5 | 3528 | -23 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Yang Dingxin | Lose | W+R | 7.5 | 3551 | 61 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Liao Yuanhe | Lose | B+R | 7.5 | 3490 | 41 | 
 | 2022-09-29 | 第23期阿含・桐山杯中国早碁戦1回戦 | Liao Yuanhe | Huang Yunsong | Lose | W+R | 7.5 | 3449 | -7 | 

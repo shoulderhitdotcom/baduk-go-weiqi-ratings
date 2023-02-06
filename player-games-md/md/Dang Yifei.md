@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Dang Yifei | Win | W+1¼ | 7.5 | 3587 | 15 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | He Yuhan | Dang Yifei | Lose | B+R | 7.5 | 3572 | -24 | 
 | 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Wang Xinghao | Dang Yifei | Lose | B+R | 7.5 | 3596 | -66 | 
 | 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Dang Yifei | Byun Sangil | Lose | W+0.5 | 6.5 | 3662 | 11 | 

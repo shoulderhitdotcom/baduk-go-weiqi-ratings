@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Jiang Weijie | Lose | W+R | 7.5 | 3367 | 9 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Xu Haohong | Lee Jihyun | Win | W+T | 6.5 | 3358 | 22 | 
 | 2023-01-29 | 第2期韓国棋院選手権戦グループリーグ | Choi Jaeyoung | Lee Jihyun | Win | W+R | 6.5 | 3336 | 22 | 
 | 2023-01-25 | 2022-2023韓国囲碁リーグ | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3314 | 21 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | Lose | B+R | 7.5 | 3531 | -18 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Kim Myounghoon | Win | B+R | 7.5 | 3549 | 37 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Tan Xiao | Chen Yaoye | Lose | B+R | 7.5 | 3512 | 18 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | Lose | W+R | 7.5 | 3494 | -15 | 

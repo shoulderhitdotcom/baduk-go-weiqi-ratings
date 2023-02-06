@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Zihao | Lose | W+R | 7.5 | 3703 | -14 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Fan Tingyu | Win | W+R | 7.5 | 3717 | 45 | 
 | 2022-11-01 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Lose | W+1.5 | 6.5 | 3672 | 0 | 
 | 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Fan Tingyu | Kang Dongyun | Win | B+R | 6.5 | 3672 | 12 | 

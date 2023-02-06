@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Park Junghwan | Li Xuanhao | Win | W+R | 7.5 | 3837 | 0 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Fan Tingyu | Lose | W+R | 7.5 | 3837 | 23 | 
 | 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Shin Jinseo | Li Xuanhao | Win | W+R | 7.5 | 3814 | 19 | 
 | 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Yang Dingxin | Li Xuanhao | Win | W+R | 7.5 | 3795 | 0 | 

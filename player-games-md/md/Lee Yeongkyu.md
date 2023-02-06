@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 2023YK建機杯予選 | Park Hamin | Lee Yeongkyu | Win | W+R | 6.5 | 3503 | 22 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Lee Yeongkyu | Jian Jingting | Win | B+R | 6.5 | 3481 | -4 | 
 | 2023-01-27 | 2023YK建機杯予選 | Lee Yeongkyu | Kim Myounghoon | Win | B+R | 6.5 | 3485 | 5 | 
 | 2023-01-25 | 2022-2023韓国囲碁リーグ | Choi Jeong | Lee Yeongkyu | Lose | B+1.5 | 6.5 | 3480 | -4 | 

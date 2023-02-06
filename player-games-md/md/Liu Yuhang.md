@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Liu Yuhang | Win | W+1¼ | 7.5 | 3324 | 45 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Lose | W+¼ | 7.5 | 3279 | -8 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Win | W+R | 7.5 | 3287 | 92 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Wang Shuo | Win | B+R | 7.5 | 3195 | -58 | 

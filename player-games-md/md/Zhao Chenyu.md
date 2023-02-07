@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Zhang Tao | Win | B+R | 7.5 | 3522 | 17 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Zhao Chenyu | Win | W+R | 7.5 | 3505 | -29 | 
 | 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Lose | B+R | 7.5 | 3534 | -16 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Kim Jiseok | Lose | W+0.5 | 6.5 | 3550 | -9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Ding Hao | Liu Yuhang | Lose | W+R | 7.5 | 3599 | -19 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Xie Ke | Ding Hao | Win | W+R | 7.5 | 3618 | 19 | 
 | 2023-02-01 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ding Hao | Yang Dingxin | Win | B+0.5 | 6.5 | 3599 | 15 | 
 | 2023-01-30 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Ding Hao | Win | W+R | 6.5 | 3584 | -76 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Wang Zheyu | Lose | B+5¾ | 7.5 | 2748 | -2 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Huang Mingyu | Lose | W+R | 7.5 | 2750 | 13 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Chen Yunong | Wang Zheyu | Lose | B+R | 7.5 | 2737 | -8 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Xian | Lose | W+R | 7.5 | 2745 | -63 | 

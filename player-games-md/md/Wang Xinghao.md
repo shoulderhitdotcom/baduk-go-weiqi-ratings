@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Tang Weixing | Win | B+¾ | 7.5 | 3693 | 8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Wang Chunhui | Win | B+1¾ | 7.5 | 3685 | 30 | 
 | 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Wang Xinghao | Yang Kaiwen | Lose | W+R | 7.5 | 3655 | -8 | 
 | 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Wang Xinghao | Dang Yifei | Win | B+R | 7.5 | 3663 | 19 | 

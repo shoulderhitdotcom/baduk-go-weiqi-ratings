@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Zhang Tao | Lose | B+R | 7.5 | 3507 | -15 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Win | B+R | 7.5 | 3522 | 28 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Shen Peiran | Zhang Tao | Win | W+1¼ | 7.5 | 3494 | -16 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Chen Yaoye | Lose | W+¼ | 7.5 | 3510 | 47 | 

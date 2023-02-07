@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Han Yizhou | Xie Ke | Lose | W+R | 7.5 | 3460 | -18 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Han Yizhou | Liao Yuanhe | Win | B+R | 7.5 | 3478 | 110 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Xie Erhao | Han Yizhou | Lose | B+R | 7.5 | 3368 | 12 | 
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Han Yizhou | Wang Zejin | Win | B+R | 7.5 | 3356 | -11 | 

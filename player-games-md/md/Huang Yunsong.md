@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+¾ | 7.5 | 3532 | 14 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Lose | W+R | 7.5 | 3518 | -55 | 
 | 2022-10-25 | 第23期阿含・桐山杯中国早碁戦準決勝 | Huang Yunsong | Li Qincheng | Lose | W+R | 7.5 | 3573 | -5 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Tan Xiao | Huang Yunsong | Lose | B+R | 7.5 | 3578 | 15 | 

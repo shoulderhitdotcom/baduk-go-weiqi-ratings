@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3772 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Zerui | Li Qincheng | Win | W+R | 7.5 | 3760 | 103 | 
 | 2022-12-17 | 第23期阿含・桐山杯日中決戦  | Hirata Tomoya | Li Qincheng | Win | W+R | 6.5 | 3657 | 4 | 
 | 2022-12-16 | 第23期阿含・桐山杯中国早碁戦決勝 | Li Qincheng | Xie Erhao | Win | B+R | 7.5 | 3653 | 21 | 

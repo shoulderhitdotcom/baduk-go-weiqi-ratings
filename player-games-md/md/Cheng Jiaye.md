@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Yang Dingxin | Lose | W+R | 7.5 | 3188 | -23 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Wang Chuxuan | Win | B+R | 7.5 | 3211 | 208 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Fan Yin | Lose | W+R | 7.5 | 3003 | 59 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Cheng Jiaye | Lose | B+R | 7.5 | 2944 | -315 | 

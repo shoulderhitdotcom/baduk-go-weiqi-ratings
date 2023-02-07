@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Huang Mingyu | Win | B+1¼ | 7.5 | 3562 | 5 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | Win | W+R | 7.5 | 3557 | 25 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Win | B+R | 7.5 | 3532 | 77 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Chen Zhengxun | Win | W+R | 7.5 | 3455 | 40 | 

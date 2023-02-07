@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 3368 | -40 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Haotong | Xia Chenkun | Win | W+R | 7.5 | 3408 | 53 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Han Yizhou | Xia Chenkun | Lose | B+¾ | 7.5 | 3355 | -14 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Tan Xiao | Xia Chenkun | Win | W+R | 7.5 | 3369 | 24 | 

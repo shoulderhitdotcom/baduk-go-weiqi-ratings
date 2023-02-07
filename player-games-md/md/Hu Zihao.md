@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3281 | 54 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Lose | B+R | 7.5 | 3227 | -16 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3243 | 59 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3184 | -110 | 

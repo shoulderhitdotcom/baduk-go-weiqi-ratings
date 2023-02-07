@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Mi Yuting | Lose | B+R | 7.5 | 3648 | -17 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | Win | B+R | 7.5 | 3665 | 4 | 
 | 2022-11-23 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第2局 | Mi Yuting | Ding Hao | Lose | W+R | 7.5 | 3661 | -5 | 
 | 2022-11-22 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第1局 | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3666 | -4 | 

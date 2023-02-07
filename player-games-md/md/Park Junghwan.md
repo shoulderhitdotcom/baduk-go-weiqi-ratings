@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Park Junghwan | Cao Xiaoyang | Win | B+R | 7.5 | 3633 | 4 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Park Junghwan | Li Xuanhao | Lose | W+R | 7.5 | 3629 | -2 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Qirun | Win | B+R | 7.5 | 3631 | 19 | 
 | 2023-01-26 | 2022-2023韓国囲碁リーグ | Park Junghwan | Byun Sangil | Win | B+R | 6.5 | 3612 | 0 | 

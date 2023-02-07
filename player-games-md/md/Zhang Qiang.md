@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Lose | W+R | 7.5 | 2962 | -81 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Zhao Chenyu | Lose | W+R | 7.5 | 3043 | -23 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Fan Yin | Win | B+R | 7.5 | 3066 | 114 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Xie Ke | Lose | W+R | 7.5 | 2952 | 0 | 

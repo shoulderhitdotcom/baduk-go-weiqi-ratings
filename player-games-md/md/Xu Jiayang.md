@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Mi Yuting | Win | B+R | 7.5 | 3574 | 20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Xu Jiayang | Lose | B+¾ | 7.5 | 3554 | -8 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Kang Dongyun | Lose | W+R | 7.5 | 3562 | 46 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Xu Jiayang | Wang Xinghao | Lose | W+R | 7.5 | 3516 | -6 | 

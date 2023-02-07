@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3667 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Dang Yifei | Lose | W+1¼ | 7.5 | 3675 | 9 | 
 | 2022-11-20 | 第2期湾区杯中国囲碁大棋士戦挑戦者決定戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3666 | -14 | 
 | 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Wang Xinghao | Yang Kaiwen | Win | W+R | 7.5 | 3680 | 18 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Ke Jie | Gu Lingyi | Win | W+R | 7.5 | 3430 | 46 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Chen Zijian | Gu Lingyi | Win | W+R | 7.5 | 3384 | 85 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Lingyi | Lose | B+1¾ | 7.5 | 3299 | -5 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Gu Lingyi | Lose | B+R | 7.5 | 3304 | -25 | 

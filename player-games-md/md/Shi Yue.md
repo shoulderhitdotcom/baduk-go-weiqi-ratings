@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Shi Yue | Win | W+R | 7.5 | 3694 | 2 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Shi Yue | Li Xiangyu | Win | B+R | 7.5 | 3692 | 1 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Shi Yue | Chen Yunong | Win | B+R | 7.5 | 3691 | 79 | 
 | 2022-10-24 | 第23期阿含・桐山杯中国早碁戦2回戦 | Li Qincheng | Shi Yue | Lose | B+R | 7.5 | 3612 | 13 | 

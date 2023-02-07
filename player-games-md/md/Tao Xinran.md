@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Tao Xinran | Lose | B+R | 7.5 | 3523 | -30 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Tao Xinran | Win | W+R | 7.5 | 3553 | 8 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Win | W+R | 7.5 | 3545 | 93 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Tao Xinran | Meng Tailing | Lose | W+R | 7.5 | 3452 | -16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Lose | W+R | 7.5 | 3609 | -6 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Zihao | Win | W+R | 7.5 | 3615 | -36 | 
 | 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Gu Zihao | Lose | B+R | 6.5 | 3651 | 0 | 
 | 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Gu Zihao | Win | W+3.5 | 6.5 | 3651 | 2 | 

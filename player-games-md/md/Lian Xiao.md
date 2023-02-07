@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Lian Xiao | Peng Liyao | Win | B+R | 7.5 | 3554 | 13 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Lian Xiao | Win | W+R | 7.5 | 3541 | 4 | 
 | 2022-11-29 | 第24回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Lian Xiao | Lose | B+R | 6.5 | 3537 | -12 | 
 | 2022-11-28 | 第24回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kang Dongyun | Lian Xiao | Win | W+R | 6.5 | 3549 | 16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ  | Iyama Yuta | Chen Xian | Win | W+R | 7.5 | 3554 | 1 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Shen Peiran | Chen Xian | Lose | B+¾ | 7.5 | 3553 | 113 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Chen Xian | Lose | B+1¾ | 7.5 | 3440 | -8 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Tu Xiaoyu | Win | B+R | 7.5 | 3448 | 70 | 

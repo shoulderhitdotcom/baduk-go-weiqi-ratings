@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | Lose | W+R | 7.5 | 3648 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Lose | B+R | 7.5 | 3656 | -10 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Xie Erhao | Lose | B+¾ | 7.5 | 3666 | 30 | 
 | 2022-12-16 | 第23期阿含・桐山杯中国早碁戦決勝 | Li Qincheng | Xie Erhao | Lose | B+R | 7.5 | 3636 | -37 | 

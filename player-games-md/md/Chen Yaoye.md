@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Lose | B+¾ | 7.5 | 3506 | -25 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | Lose | B+R | 7.5 | 3531 | -18 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Kim Myounghoon | Win | B+R | 7.5 | 3549 | 37 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Tan Xiao | Chen Yaoye | Lose | B+R | 7.5 | 3512 | 18 | 

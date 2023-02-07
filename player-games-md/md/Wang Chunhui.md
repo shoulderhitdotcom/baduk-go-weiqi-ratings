@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Chunhui | Li Xuanhao | Lose | W+R | 7.5 | 3118 | 4 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Wang Chunhui | Lose | B+1¾ | 7.5 | 3114 | 9 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Wang Chunhui | Win | W+¼ | 7.5 | 3105 | 231 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Wang Chunhui | Lose | B+R | 7.5 | 2874 | -13 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Win | B+¾ | 7.5 | 3457 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Win | W+R | 7.5 | 3445 | 26 | 
 | 2023-01-27 | 2022-2023韓国囲碁リーグ | Seki Kotaro | Kim Jiseok | Win | W+R | 6.5 | 3419 | 12 | 
 | 2023-01-24 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Park Hamin | Win | B+1.5 | 6.5 | 3407 | 9 | 

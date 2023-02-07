@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Shin Minjun | Lose | B+¾ | 7.5 | 3594 | -3 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Shin Minjun | Win | W+R | 7.5 | 3597 | 2 | 
 | 2023-02-05 | 第6回クラウン・ヘテ杯決勝三番勝負第2局 | Park Geunho | Shin Minjun | Win | W+R | 6.5 | 3595 | 5 | 
 | 2023-02-04 | 第6回クラウン・ヘテ杯決勝三番勝負第1局 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3590 | 18 | 

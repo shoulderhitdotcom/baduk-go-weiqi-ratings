@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | Win | W+R | 7.5 | 3717 | 8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Weiqing | Wang Shuo | Win | B+R | 7.5 | 3709 | 41 | 
 | 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Li Weiqing | Byun Sangil | Lose | W+¼ | 7.5 | 3668 | 23 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Kaiwen | Li Weiqing | Lose | B+R | 7.5 | 3645 | 44 | 

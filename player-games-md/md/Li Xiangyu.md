@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Wang Zheyu | Win | B+5¾ | 7.5 | 3457 | -14 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Shi Yue | Li Xiangyu | Lose | B+R | 7.5 | 3471 | 73 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Zhou Ruiyang | Win | B+1¾ | 7.5 | 3398 | 46 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Li Xiangyu | Liu Zhaozhe | Win | B+R | 7.5 | 3352 | 34 | 

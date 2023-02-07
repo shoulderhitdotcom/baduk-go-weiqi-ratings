@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Ke Jie | Gu Lingyi | Lose | W+R | 7.5 | 3645 | -13 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Ke Jie | Lose | B+R | 7.5 | 3658 | -15 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 3673 | 48 | 
 | 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Shin Jinseo | Ke Jie | Lose | B+R | 7.5 | 3625 | -73 | 

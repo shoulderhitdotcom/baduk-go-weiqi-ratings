@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3612 | 0 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Win | W+R | 7.5 | 3612 | 5 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+¼ | 7.5 | 3607 | 1 | 
 | 2023-02-04 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Heo Youngrak | Win | B+R | 6.5 | 3606 | 14 | 

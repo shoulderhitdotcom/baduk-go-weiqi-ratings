@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Tang Weixing | Lose | B+¾ | 7.5 | 3530 | -10 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Lose | W+R | 7.5 | 3540 | -16 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Lose | B+R | 7.5 | 3556 | 46 | 
 | 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Tang Weixing | Byun Sangil | Lose | W+R | 7.5 | 3510 | -1 | 

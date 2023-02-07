@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Shi Yue | Lose | W+R | 7.5 | 3253 | -14 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Shiyi | Win | W+R | 7.5 | 3267 | 159 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Shiyi | Lose | B+R | 7.5 | 3108 | -13 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Peng Liyao | Wang Shiyi | Lose | B+R | 7.5 | 3121 | -6 | 

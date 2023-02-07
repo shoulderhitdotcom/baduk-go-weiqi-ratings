@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Lian Xiao | Peng Liyao | Lose | B+R | 7.5 | 3484 | -16 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Peng Liyao | Lose | B+R | 7.5 | 3500 | -74 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Peng Liyao | Lose | B+R | 7.5 | 3574 | 36 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Ding Hao | Peng Liyao | Lose | B+R | 7.5 | 3538 | 2 | 

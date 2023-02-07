@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Yi Lingtao | Lose | W+R | 7.5 | 3522 | -13 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Peng Liyao | Win | B+R | 7.5 | 3535 | 11 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Fu Jianheng | Win | B+R | 7.5 | 3524 | 19 | 
 | 2022-11-07 | 第4回聶衛平杯囲碁ユースマスターズ準決勝 | Tu Xiaoyu | Li Haotong | Win | B+R | 7.5 | 3505 | 0 | 

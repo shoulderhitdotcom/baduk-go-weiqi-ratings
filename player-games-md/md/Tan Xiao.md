@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+¾ | 7.5 | 3506 | -20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Yin | Tan Xiao | Win | W+R | 7.5 | 3526 | 27 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Tan Xiao | Chen Yaoye | Win | B+R | 7.5 | 3499 | -34 | 
 | 2022-11-01 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tan Xiao | Park Junghwan | Lose | W+R | 6.5 | 3533 | 0 | 

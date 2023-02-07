@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Win | W+R | 7.5 | 3712 | 4 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Win | B+R | 7.5 | 3708 | 11 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Ke Jie | Lose | W+R | 7.5 | 3697 | 26 | 
 | 2022-11-26 | 第24回農心辛ラーメン杯世界囲碁最強戦第6戦（再対局） | Tuo Jiaxi | Kang Dongyun | Lose | W+R | 6.5 | 3671 | 0 | 

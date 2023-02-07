@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Kim Jiseok** | **Chen Yaoye Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | B+¾ | 7.5 | 5:8 | 0 | 3 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | B+R | 7.5 | 5:7 | 0 | 2 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Chen Yaoye | Kim Jiseok | W+R | 7.5 | 5:6 | 0 | 1 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Kim Jiseok | Chen Yaoye | W+R | 7.5 | 5:5 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Jihyun Vs Shin Jinseo** | **Lee Jihyun Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-02 | 第24期マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Shin Jinseo | W+R | 6.5 | 2:8 | 0 | 1 | 
 | 2022-03-14 | 2022YK建機杯リーグ | Lee Jihyun | Shin Jinseo | B+R | 6.5 | 2:7 | 1 | 0 | 
 | 2020-02-19 | 第3期韓国竜星戦16強戦 | Shin Jinseo | Lee Jihyun | B+R | 6.5 | 1:7 | 0 | 7 | 
 | 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第2局 | Lee Jihyun | Shin Jinseo | W+R | 6.5 | 1:6 | 0 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Xie Ke** | **Han Yizhou Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Han Yizhou | Xie Ke | W+R | 7.5 | 4:5 | 0 | 1 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Xie Ke | Han Yizhou | W+R | 7.5 | 4:4 | 1 | 0 | 
 | 2019-03-12 | 第10期中国竜星戦Aブロック5回戦 | Han Yizhou | Xie Ke | W+R | 7.5 | 3:4 | 0 | 4 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Han Yizhou | Xie Ke | W+R | 7.5 | 3:3 | 0 | 3 | 

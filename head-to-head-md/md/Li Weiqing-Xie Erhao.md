@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Weiqing Vs Xie Erhao** | **Li Weiqing Streak** | **Xie Erhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | W+R | 7.5 | 4:5 | 3 | 0 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | B+R | 7.5 | 3:5 | 2 | 0 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | W+R | 6.5 | 2:5 | 1 | 0 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Li Weiqing | Xie Erhao | W+R | 7.5 | 1:5 | 0 | 4 | 

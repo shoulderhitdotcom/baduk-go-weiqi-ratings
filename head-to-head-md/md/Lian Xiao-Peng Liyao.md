@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Peng Liyao** | **Lian Xiao Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Lian Xiao | Peng Liyao | B+R | 7.5 | 7:8 | 1 | 0 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | W+¼ | 7.5 | 6:8 | 0 | 3 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lian Xiao | Peng Liyao | W+R | 7.5 | 6:7 | 0 | 2 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Peng Liyao | Lian Xiao | B+R | 6.5 | 6:6 | 0 | 1 | 

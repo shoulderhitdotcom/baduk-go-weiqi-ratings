@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第4期名人戦（台湾）1回戦  |  | Lin Junyan | Win | W+R | 6.5 | 3191 | 11 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Song Jihoon | Lin Junyan | Win | W+10.5 | 6.5 | 3180 | 6 | 
 | 2023-02-01 | 2022-2023韓国囲碁リーグ | Lin Junyan | Cho Hanseung | Lose | W+R | 6.5 | 3174 | -41 | 
 | 2023-01-08 | 2022-2023韓国囲碁リーグ  | Kim Jinhyu | Lin Junyan | Lose | B+R | 6.5 | 3215 | -21 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第4期名人戦（台湾）1回戦 | Li Wei | Chen Qirui | Win | W+R | 6.5 | 3114 | -5 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Lee Changseok | Lose | W+T | 6.5 | 3119 | 12 | 
 | 2023-02-02 | 第15回海峰杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Qirui | Win | W+4.5 | 6.5 | 3107 | 0 | 
 | 2023-02-01 | 2022-2023韓国囲碁リーグ | Chen Qirui | Kang Dongyun | Lose | W+R | 6.5 | 3107 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第4期名人戦（台湾）1回戦 | Xu Yuqi | Xu Haohong | Win | W+R | 6.5 | 3392 | -8 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Lose | B+R | 7.5 | 3400 | 0 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Xu Haohong | Lee Jihyun | Lose | W+T | 6.5 | 3400 | 1 | 
 | 2023-02-02 | 第15回海峰杯プロ囲碁戦2回戦 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3399 | 0 | 

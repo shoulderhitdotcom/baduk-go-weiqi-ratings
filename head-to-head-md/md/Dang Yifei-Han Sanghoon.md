@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Han Sanghoon** | **Dang Yifei streak** | **Han Sanghoon streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Han Sanghoon** | **Dang Yifei Streak** | **Han Sanghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-08-03 | 第16回三星火災杯統合予選2回戦 | Dang Yifei | Han Sanghoon | B+R | 6.5 | 1:0 | 1 | 0 |
 

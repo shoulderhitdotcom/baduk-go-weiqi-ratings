@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Xu Jingen** | **Lin Shuyang Streak** | **Xu Jingen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-18 | 第22期天元戦（台湾）勝部3回戦 | Xu Jingen | Lin Shuyang | B+0.5 | 6.5 | 2:7 | 0 | 5 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Shuyang | Xu Jingen | W+R | 6.5 | 2:6 | 0 | 4 | 
 | 2022-09-04 | 第27回三星火災杯台湾予選 | Xu Jingen | Lin Shuyang | B+R | 6.5 | 2:5 | 0 | 3 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Shuyang | Xu Jingen | W+0.5 | 6.5 | 2:4 | 0 | 2 | 

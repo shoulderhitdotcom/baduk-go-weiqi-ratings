@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Lin Shuyang** | **Lin Junyan Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-23 | 第10期中環碁聖戦16強戦 | Lin Shuyang | Lin Junyan | W+R | 6.5 | 9:1 | 3 | 0 | 
 | 2017-11-06 | 第10期棋王戦（台湾）リーグ | Lin Shuyang | Lin Junyan | W+1.5 | 6.5 | 8:1 | 2 | 0 | 
 | 2017-10-03 | 第13期国手戦（台湾）8強戦 | Lin Shuyang | Lin Junyan | W+R | 6.5 | 7:1 | 1 | 0 | 
 | 2016-11-17 | 第9期棋王戦（台湾）リーグ | Lin Shuyang | Lin Junyan | B+R | 6.5 | 6:1 | 0 | 1 | 

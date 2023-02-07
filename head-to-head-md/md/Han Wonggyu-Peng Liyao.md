@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Wonggyu vs Peng Liyao** | **Han Wonggyu streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Wonggyu Vs Peng Liyao** | **Han Wonggyu Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011-01-24 | 第3回BCカード杯世界選手権統合予選 | Peng Liyao | Han Wonggyu | B+R | 6.5 | 0:1 | 0 | 1 |
 

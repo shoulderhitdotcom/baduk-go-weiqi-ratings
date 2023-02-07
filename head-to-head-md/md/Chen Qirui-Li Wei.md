@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Li Wei** | **Chen Qirui Streak** | **Li Wei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第4期名人戦（台湾）1回戦 | Li Wei | Chen Qirui | W+R | 6.5 | 5:3 | 1 | 0 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Li Wei | Chen Qirui | B+R | 6.5 | 4:3 | 0 | 1 | 
 | 2022-08-26 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Qirui | W+R | 6.5 | 4:2 | 1 | 0 | 
 | 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | B+R | 6.5 | 3:2 | 0 | 1 | 

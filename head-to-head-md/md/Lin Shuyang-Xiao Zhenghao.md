@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Xiao Zhenghao** | **Lin Shuyang Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-02 | 第15回海峰杯プロ囲碁戦2回戦 | Lin Shuyang | Xiao Zhenghao | W+R | 6.5 | 7:13 | 0 | 1 | 
 | 2018-10-07 | 第6期中環碁聖戦4回戦 | Xiao Zhenghao | Lin Shuyang | W+R | 6.5 | 7:12 | 1 | 0 | 
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第三局 | Xiao Zhenghao | Lin Shuyang | B+R | 6.5 | 6:12 | 0 | 1 | 
 | 2016-04-19 | 第15期天元戦（台湾）リーグ | Xiao Zhenghao | Lin Shuyang | W+1.5 | 6.5 | 6:11 | 2 | 0 | 

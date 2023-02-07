@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Lin Shuyang** | **Lin Lixiang Streak** | **Lin Shuyang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-06 | 第4期名人戦（台湾）1回戦 | Lin Shuyang | Lin Lixiang | W+R | 6.5 | 13:3 | 6 | 0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Lin Shuyang | Lin Lixiang | W+R | 6.5 | 12:3 | 5 | 0 | 
 | 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Lin Lixiang | Lin Shuyang | B+R | 6.5 | 11:3 | 4 | 0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Lin Shuyang | Lin Lixiang | W+4.5 | 6.5 | 10:3 | 3 | 0 | 

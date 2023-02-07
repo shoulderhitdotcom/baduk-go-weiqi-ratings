@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yaoye vs Heo Yongho** | **Chen Yaoye streak** | **Heo Yongho streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Heo Yongho** | **Chen Yaoye Streak** | **Heo Yongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-03-18 | 第4回BCカード杯世界選手権2回戦 | Chen Yaoye | Heo Yongho | B+R | 6.5 | 3:0 | 3 | 0 | 
 | 2006-08-16 | 第11回三星火災杯予選準決勝 | Chen Yaoye | Heo Yongho | B+0.5 | 6.5 | 2:0 | 2 | 0 | 

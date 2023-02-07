@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Heo Yongho Vs Kim Myounghoon** | **Heo Yongho Streak** | **Kim Myounghoon Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-21 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Heo Yongho | B+R | 6.5 | 5:1 | 0 | 1 | 
 | 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第5局 | Kim Myounghoon | Heo Yongho | W+0.5 | 6.5 | 5:0 | 5 | 0 | 
 | 2018-11-10 | 2018年韓国囲碁リーグプレーオフ第2戦 | Heo Yongho | Kim Myounghoon | B+R | 6.5 | 4:0 | 4 | 0 | 
 | 2015-07-17 | 第17回農心杯韓国選抜戦 | Kim Myounghoon | Heo Yongho | W+R | 6.5 | 3:0 | 3 | 0 | 

@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Jihyun vs Yun Chanhee** | **Lee Jihyun streak** | **Yun Chanhee streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Jihyun Vs Yun Chanhee** | **Lee Jihyun Streak** | **Yun Chanhee Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-16 | 第3期韓国竜星戦32強戦 | Lee Jihyun | Yun Chanhee | W+R | 6.5 | 2:2 | 0 | 1 | 
 | 2017-10-21 | 2017年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | B+R | 6.5 | 2:1 | 1 | 0 | 

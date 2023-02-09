@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Lin Junyan | Lose | B+R | 6.5 | 3197 | -6 | 
+| 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Chen Shoulian | Lin Junyan | Win | W+R | 6.5 | 3199 | 2 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Baek Hyeonwoo | Lin Junyan | Lose | B+R | 6.5 | 3197 | -6 | 
 | 2023-02-07 | 第22期天元戦（台湾）リーグ | Lin Junyan | Xu Jingen | Lose | W+R | 6.5 | 3203 | 9 | 
 | 2023-02-06 | 第4期名人戦（台湾）1回戦  |  | Lin Junyan | Win | W+R | 6.5 | 3194 | 11 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Song Jihoon | Lin Junyan | Win | W+10.5 | 6.5 | 3183 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-09 | 第24回中国囲碁甲級リーグ | Byun Sangil | Jiang Weijie | Win | B+R | 7.5 | 3691 | -1 | 
 | 2023-02-08 | 2023YK建機杯予選 | Park Hyunsoo | Byun Sangil | Win | W+R | 6.5 | 3692 | 47 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Byun Sangil | Fan Yin | Win | B+¾ | 7.5 | 3645 | 8 | 
 | 2023-02-04 | 2022-2023韓国囲碁リーグ | Byun Sangil | Kang Seungmin | Lose | W+R | 6.5 | 3637 | 5 | 

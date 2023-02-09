@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Lin Lixiang | Lose | B+R | 6.5 | 3160 | 19 | 
+| 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Chen Weiting | Lin Lixiang | Win | W+4.5 | 6.5 | 3164 | 4 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Shin Jinseo | Lin Lixiang | Lose | B+R | 6.5 | 3160 | 19 | 
 | 2023-02-07 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3141 | 7 | 
 | 2023-02-06 | 第4期名人戦（台湾）1回戦 | Lin Shuyang | Lin Lixiang | Win | W+R | 6.5 | 3134 | 16 | 
 | 2023-02-03 | 第22期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3118 | -9 | 

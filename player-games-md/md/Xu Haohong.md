@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Xu Haohong | Kim Seongjae | Win | B+0.5 | 6.5 | 3407 | 12 | 
+| 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Niu Shite | Xu Haohong | Win | W+R | 6.5 | 3413 | 6 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Haohong | Kim Seongjae | Win | B+0.5 | 6.5 | 3407 | 12 | 
 | 2023-02-06 | 第4期名人戦（台湾）1回戦 | Xu Yuqi | Xu Haohong | Win | W+R | 6.5 | 3395 | -8 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Lose | B+R | 7.5 | 3403 | 0 | 
 | 2023-02-05 | 2022-2023韓国囲碁リーグ  | Xu Haohong | Lee Jihyun | Lose | W+T | 6.5 | 3403 | 1 | 

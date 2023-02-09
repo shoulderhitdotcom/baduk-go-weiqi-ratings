@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Lin Lixiang | Win | B+R | 6.5 | 3829 | 0 | 
+| 2023-02-09 | 2023YK建機杯予選 | Ryu Minhyung | Shin Jinseo | Win | W+R | 6.5 | 3829 | 0 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Shin Jinseo | Lin Lixiang | Win | B+R | 6.5 | 3829 | 0 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Win | W+R | 7.5 | 3829 | 0 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Win | W+R | 6.5 | 3829 | 0 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Shin Jinseo | Lose | B+R | 6.5 | 3829 | 0 | 

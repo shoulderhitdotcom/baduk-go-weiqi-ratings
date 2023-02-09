@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ryu Minhyung vs Tuo Jiaxi** | **Ryu Minhyung streak** | **Tuo Jiaxi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ryu Minhyung Vs Tuo Jiaxi** | **Ryu Minhyung Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2010-04-19 | 第15回LG杯予選 | Tuo Jiaxi | Ryu Minhyung | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Weiting Vs Lin Lixiang** | **Chen Weiting Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Chen Weiting | Lin Lixiang | W+4.5 | 6.5 | 1:7 | 0 | 2 | 
 | 2023-01-10 | 第22期天元戦（台湾）予選 | Lin Lixiang | Chen Weiting | B+R | 6.5 | 1:6 | 0 | 1 | 
 | 2022-10-12 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Lixiang | Chen Weiting | W+R | 7.5 | 1:5 | 1 | 0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Chen Weiting | Lin Lixiang | W+R | 6.5 | 0:5 | 0 | 5 | 

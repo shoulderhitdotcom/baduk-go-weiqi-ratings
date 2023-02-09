@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Niu Shite Vs Xu Haohong** | **Niu Shite Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Niu Shite | Xu Haohong | W+R | 6.5 | 1:4 | 0 | 4 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Niu Shite | Xu Haohong | W+R | 6.5 | 1:3 | 0 | 3 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Niu Shite | B+R | 6.5 | 1:2 | 0 | 2 | 
 | 2020-09-01 | 第25回三星火災杯台湾代表選抜戦 | Niu Shite | Xu Haohong | W+R | 6.5 | 1:1 | 0 | 1 | 

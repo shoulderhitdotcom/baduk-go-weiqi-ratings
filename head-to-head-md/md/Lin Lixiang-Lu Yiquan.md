@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Lu Yiquan** | **Lin Lixiang Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-01-18 | 第22期天元戦（台湾）勝部3回戦 | Lu Yiquan | Lin Lixiang | B+R | 6.5 | 6:3 | 0 | 1 | 
 | 2022-12-02 | 第18期国手戦（台湾）準決勝 | Lin Lixiang | Lu Yiquan | B+R | 6.5 | 6:2 | 5 | 0 | 
 | 2022-10-23 | 第10期中環碁聖戦8強戦 | Lu Yiquan | Lin Lixiang | W+R | 6.5 | 5:2 | 4 | 0 | 
 | 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | B+R | 6.5 | 4:2 | 3 | 0 | 

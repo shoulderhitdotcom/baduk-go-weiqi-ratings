@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lin Lixiang** | **Lai Junfu Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lin Lixiang | B+R | 6.5 | 9:6 | 3 | 0 | 
 | 2022-11-13 | 第10期中環碁聖戦決勝三番勝負第2局 | Lai Junfu | Lin Lixiang | B+R | 6.5 | 8:6 | 2 | 0 | 
 | 2022-11-06 | 第10期中環碁聖戦決勝三番勝負第1局 | Lin Lixiang | Lai Junfu | W+R | 6.5 | 7:6 | 1 | 0 | 
 | 2022-09-15 | 第15期棋王戦（台湾）リーグ | Lin Lixiang | Lai Junfu | B+R | 6.5 | 6:6 | 0 | 1 | 

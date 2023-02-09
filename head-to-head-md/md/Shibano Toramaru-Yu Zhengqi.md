@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Yu Zhengqi** | **Shibano Toramaru Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-09 | 第78期本因坊戦リーグ  | Yu Zhengqi | Shibano Toramaru | W+R | 6.5 | 13:2 | 3 | 0 | 
 | 2023-01-09 | 第61期十段戦準決勝  | Shibano Toramaru | Yu Zhengqi | B+R | 6.5 | 12:2 | 2 | 0 | 
 | 2022-09-26 | 第47期棋聖戦Sリーグ | Shibano Toramaru | Yu Zhengqi | B+R | 6.5 | 11:2 | 1 | 0 | 
 | 2022-08-29 | 第70期王座戦挑戦者決定戦  | Yu Zhengqi | Shibano Toramaru | B+R | 6.5 | 10:2 | 0 | 1 | 

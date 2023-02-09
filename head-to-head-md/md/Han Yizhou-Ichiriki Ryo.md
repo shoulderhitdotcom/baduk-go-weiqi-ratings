@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Ichiriki Ryo** | **Han Yizhou streak** | **Ichiriki Ryo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Han Yizhou Vs Ichiriki Ryo** | **Han Yizhou Streak** | **Ichiriki Ryo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-05-12 | 第23回中国囲碁甲級リーグ  | Ichiriki Ryo | Han Yizhou | W+R | 7.5 | 1:0 | 1 | 0 |
 

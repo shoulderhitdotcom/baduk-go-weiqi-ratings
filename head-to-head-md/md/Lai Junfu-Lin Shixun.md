@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lin Shixun** | **Lai Junfu Streak** | **Lin Shixun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-11-25 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lai Junfu | Lin Shixun | B+R | 7.5 | 6:1 | 6 | 0 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | W+R | 6.5 | 5:1 | 5 | 0 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lai Junfu | Lin Shixun | B+R | 6.5 | 4:1 | 4 | 0 | 
 | 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | W+R | 6.5 | 3:1 | 3 | 0 | 

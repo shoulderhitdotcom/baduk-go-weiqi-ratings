@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jaeyoung vs Ryu Minhyung** | **Choi Jaeyoung streak** | **Ryu Minhyung streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Jaeyoung Vs Ryu Minhyung** | **Choi Jaeyoung Streak** | **Ryu Minhyung Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | W+R | 6.5 | 1:0 | 1 | 0 |
 

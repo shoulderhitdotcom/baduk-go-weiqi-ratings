@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Peng Liyao** | **An Sungjoon streak** | **Peng Liyao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Peng Liyao** | **An Sungjoon Streak** | **Peng Liyao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Peng Liyao | An Sungjoon | B+R | 6.5 | 0:1 | 0 | 1 |
 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Wang Xinghao** | **Chen Yaoye Streak** | **Wang Xinghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Wang Xinghao | W+R | 7.5 | 0:1 | 0 | 1 |
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Xinghao | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

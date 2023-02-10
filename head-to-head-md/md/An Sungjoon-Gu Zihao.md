@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Gu Zihao** | **An Sungjoon streak** | **Gu Zihao streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Gu Zihao** | **An Sungjoon Streak** | **Gu Zihao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2016-07-18 | 第21回三星火災杯統合予選3回戦 | Gu Zihao | An Sungjoon | B+R | 6.5 | 0:1 | 0 | 1 |
 

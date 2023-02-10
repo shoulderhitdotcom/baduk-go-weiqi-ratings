@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Weon Seongjin** | **Kim Jiseok Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Weon Seongjin | Kim Jiseok | B+R | 7.5 | 11:5 | 0 | 1 | 
 | 2022-04-29 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Kim Jiseok | W+R | 7.5 | 11:4 | 1 | 0 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Weon Seongjin | Kim Jiseok | B+R | 6.5 | 10:4 | 0 | 3 | 
 | 2022-02-05 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Weon Seongjin | W+R | 6.5 | 10:3 | 0 | 2 | 

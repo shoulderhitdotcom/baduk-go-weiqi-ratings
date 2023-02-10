@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Kim Hyeongwoo** | **Byun Sangil streak** | **Kim Hyeongwoo streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kim Hyeongwoo** | **Byun Sangil Streak** | **Kim Hyeongwoo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Kim Hyeongwoo | Byun Sangil | W+R | 6.5 | 1:0 | 1 | 0 |
 

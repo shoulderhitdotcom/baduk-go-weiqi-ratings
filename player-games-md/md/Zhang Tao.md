@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3523 | 13 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3523 | 13 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Zhang Tao | Lose | B+R | 7.5 | 3510 | -15 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Win | B+R | 7.5 | 3525 | 28 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Shen Peiran | Zhang Tao | Win | W+1¼ | 7.5 | 3497 | -15 | 
@@ -34,10 +34,10 @@
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Lose | B+1¼ | 7.5 | 3531 | -22 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Xu Haohong | Lose | W+2¼ | 7.5 | 3553 | -16 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3569 | 49 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3520 | 43 | 
-| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3477 | -17 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3494 | 13 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3481 | 2 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3520 | 44 | 
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3476 | -17 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3493 | 13 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3480 | 1 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Lose | W+R | 7.5 | 3479 | -15 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Win | W+R | 7.5 | 3494 | 2 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhang Tao | Kang Dongyun | Lose | W+1¼ | 7.5 | 3492 | -14 | 

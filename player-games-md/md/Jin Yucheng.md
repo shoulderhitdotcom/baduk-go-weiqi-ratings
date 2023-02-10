@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Jin Yucheng | Lose | B+R | 7.5 | 3444 | 151 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Zijian | Jin Yucheng | Lose | B+R | 7.5 | 3444 | 151 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Jin Yucheng | Win | W+R | 7.5 | 3293 | 32 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Lian Xiao | Lose | W+R | 7.5 | 3261 | -114 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Peng Liyao | Lose | W+R | 7.5 | 3375 | 24 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Lose | B+¾ | 7.5 | 3606 | -64 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shi Yue | Yang Kaiwen | Lose | B+¾ | 7.5 | 3606 | -64 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3670 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Dang Yifei | Lose | W+1¼ | 7.5 | 3678 | 10 | 
 | 2022-11-20 | 第2期湾区杯中国囲碁大棋士戦挑戦者決定戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3668 | -14 | 
@@ -44,8 +44,8 @@
 | 2022-01-07 | 第16回威孚房開杯棋王戦決勝 | Yang Kaiwen | Mi Yuting | Lose | W+R | 7.5 | 3545 | 3 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3542 | 21 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Win | W+R | 7.5 | 3521 | 19 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3502 | 10 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Lose | B+1¾ | 7.5 | 3492 | -17 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3502 | 11 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Lose | B+1¾ | 7.5 | 3491 | -18 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Lose | W+R | 7.5 | 3509 | -17 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3526 | -16 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Lose | W+1¼ | 7.5 | 3542 | -19 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Yi Lingtao | Win | B+R | 7.5 | 3690 | 88 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Yi Lingtao | Win | B+R | 7.5 | 3690 | 88 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Ding Hao | Liu Yuhang | Lose | W+R | 7.5 | 3602 | -19 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Xie Ke | Ding Hao | Win | W+R | 7.5 | 3621 | 19 | 
 | 2023-02-01 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ding Hao | Yang Dingxin | Win | B+0.5 | 6.5 | 3602 | 15 | 
@@ -39,8 +39,8 @@
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | Lose | W+R | 7.5 | 3686 | -13 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Mi Yuting | Ding Hao | Lose | B+1¾ | 7.5 | 3699 | -11 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Tuo Jiaxi | Ding Hao | Lose | B+R | 7.5 | 3710 | 0 | 
-| 2022-04-15 | 2022年アジア競技大会中国予選 | Ding Hao | Fan Tingyu | Lose | W+¼ | 7.5 | 3710 | -33 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | Lose | W+R | 7.5 | 3743 | -14 | 
+| 2022-04-15 | 2022年アジア競技大会中国予選 | Ding Hao | Fan Tingyu | Lose | W+¼ | 7.5 | 3710 | -32 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | Lose | W+R | 7.5 | 3742 | -15 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ding Hao | Shibano Toramaru | Win | B+R | 7.5 | 3757 | 21 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | Lose | W+R | 7.5 | 3736 | -11 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Ding Hao | Rong Yi | Win | B+R | 7.5 | 3747 | -14 | 
@@ -60,9 +60,9 @@
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Win | W+R | 7.5 | 3733 | 28 | 
 | 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | Win | W+R | 7.5 | 3705 | 9 | 
 | 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3696 | 1 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Win | W+R | 7.5 | 3695 | 12 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Lose | W+R | 7.5 | 3683 | -11 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Win | B+¾ | 7.5 | 3694 | 3 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Win | W+R | 7.5 | 3695 | 13 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Lose | W+R | 7.5 | 3682 | -11 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Win | B+¾ | 7.5 | 3693 | 2 | 
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | Win | W+¼ | 7.5 | 3691 | 9 | 
 | 2021-10-16 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3682 | 8 | 
 | 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | Lose | W+R | 6.5 | 3674 | -10 | 

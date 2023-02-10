@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Li Weiqing | Lose | W+R | 7.5 | 3290 | 13 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Mao Ruilong | Li Weiqing | Lose | W+R | 7.5 | 3290 | 13 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Tong Mengcheng | Lose | W+R | 7.5 | 3277 | 24 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Zhou Ruiyang | Mao Ruilong | Lose | B+1¾ | 7.5 | 3253 | 19 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Mao Ruilong | Lose | B+R | 7.5 | 3234 | -66 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Tao Xinran | Lose | B+R | 7.5 | 3473 | -53 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Tao Xinran | Lose | B+R | 7.5 | 3473 | -53 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Tao Xinran | Lose | B+R | 7.5 | 3526 | -30 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Tao Xinran | Win | W+R | 7.5 | 3556 | 8 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Win | W+R | 7.5 | 3548 | 94 | 
@@ -33,9 +33,9 @@
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tao Xinran | Huang Yunsong | Lose | W+R | 7.5 | 3429 | -6 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Tao Xinran | Lose | B+R | 7.5 | 3435 | 0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tao Xinran | Yang Dingxin | Lose | W+¼ | 7.5 | 3435 | -53 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3488 | -24 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | Lose | W+R | 7.5 | 3512 | -5 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Win | B+1¾ | 7.5 | 3517 | -1 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3488 | -23 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | Lose | W+R | 7.5 | 3511 | -5 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Win | B+1¾ | 7.5 | 3516 | -2 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Win | W+R | 7.5 | 3518 | 8 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Lose | B+R | 7.5 | 3510 | -10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Lose | W+R | 7.5 | 3520 | -7 | 

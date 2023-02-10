@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Lose | W+R | 7.5 | 3508 | -36 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tan Xiao | Lose | W+R | 7.5 | 3508 | -36 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Yunong | Shen Peiran | Win | B+R | 7.5 | 3544 | 20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Zejin | Chen Yunong | Win | W+R | 7.5 | 3524 | 23 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Shi Yue | Chen Yunong | Lose | B+R | 7.5 | 3501 | 64 | 

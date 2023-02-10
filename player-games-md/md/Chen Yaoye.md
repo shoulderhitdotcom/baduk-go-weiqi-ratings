@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Wang Xinghao | Lose | W+R | 7.5 | 3504 | -5 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Xinghao | Lose | W+R | 7.5 | 3504 | -5 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Lose | B+¾ | 7.5 | 3509 | -25 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | Lose | B+R | 7.5 | 3534 | -18 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Kim Myounghoon | Win | B+R | 7.5 | 3552 | 37 | 
@@ -35,8 +35,8 @@
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | Lose | W+1¼ | 7.5 | 3524 | -20 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Shiyi | Chen Yaoye | Win | W+R | 7.5 | 3544 | 27 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Li Xuanhao | Chen Yaoye | Lose | B+¾ | 7.5 | 3517 | -15 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Win | W+R | 7.5 | 3532 | 30 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Lose | B+R | 7.5 | 3502 | -3 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Win | W+R | 7.5 | 3532 | 31 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Lose | B+R | 7.5 | 3501 | -4 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Lose | B+1¾ | 7.5 | 3505 | -5 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Win | W+R | 7.5 | 3510 | -5 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Win | W+R | 7.5 | 3515 | -7 | 

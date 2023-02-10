@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Xu Jiayang | Win | B+R | 7.5 | 3522 | 62 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Xu Jiayang | Win | B+R | 7.5 | 3522 | 62 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Win | B+¾ | 7.5 | 3460 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Win | W+R | 7.5 | 3448 | 26 | 
 | 2023-01-27 | 2022-2023韓国囲碁リーグ | Seki Kotaro | Kim Jiseok | Win | W+R | 6.5 | 3422 | 12 | 
@@ -25,8 +25,8 @@
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Kim Jiseok | Win | W+0.5 | 6.5 | 3456 | -5 | 
 | 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Weon Seongjin | Kim Jiseok | Lose | B+R | 7.5 | 3461 | 34 | 
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Tu Xiaoyu | Lose | W+2¼ | 7.5 | 3427 | -33 | 
-| 2022-09-14 | 第45期名人戦（韓国）敗者組4回戦 | Shin Minjun | Kim Jiseok | Lose | B+R | 6.5 | 3460 | 2 | 
-| 2022-09-08 | 第45期名人戦（韓国）3回戦 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3458 | 1 | 
+| 2022-09-14 | 第45期名人戦（韓国）敗者組4回戦 | Shin Minjun | Kim Jiseok | Lose | B+R | 6.5 | 3460 | 3 | 
+| 2022-09-08 | 第45期名人戦（韓国）3回戦 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3457 | 0 | 
 | 2022-09-07 | 徐奉洙の熱血挑戦第1局 | Kim Jiseok | Seo Bongsoo | Win | B+R | 6.5 | 3457 | -24 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3481 | 0 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Kim Jiseok | Iyama Yuta | Win | B+0.5 | 6.5 | 3481 | 1 | 
@@ -56,9 +56,9 @@
 | 2022-04-22 | 第27回LG杯韓国予選 | Kang Yootaek | Kim Jiseok | Win | W+R | 6.5 | 3524 | -6 | 
 | 2022-04-15 | 2022年アジア競技大会韓国予選 | Kang Dongyun | Kim Jiseok | Lose | B+R | 7.5 | 3530 | -2 | 
 | 2022-04-07 | 2021-2022韓国囲碁リーグプレーイントーナメント | Weon Seongjin | Kim Jiseok | Lose | B+R | 6.5 | 3532 | -11 | 
-| 2022-04-02 | 2021-2022韓国囲碁リーグ | Kim Jiseok | An Sungjoon | Win | B+R | 6.5 | 3543 | -1 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Park Geunho | Win | B+0.5 | 6.5 | 3544 | -8 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 7.5 | 3552 | -9 | 
+| 2022-04-02 | 2021-2022韓国囲碁リーグ | Kim Jiseok | An Sungjoon | Win | B+R | 6.5 | 3543 | 0 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Park Geunho | Win | B+0.5 | 6.5 | 3543 | -8 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 7.5 | 3551 | -10 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Kim Jiseok | Win | W+R | 7.5 | 3561 | 7 | 
 | 2022-03-18 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Lee Donghoon | Win | B+R | 6.5 | 3554 | 9 | 
 | 2022-03-16 | 2022年アジア競技大会韓国予選 | Byun Sangil | Kim Jiseok | Lose | B+T | 7.5 | 3545 | -5 | 
@@ -95,9 +95,9 @@
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Kim Jiseok |  | Win | B+18.5 | 6.5 | 3598 | 5 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3593 | 4 | 
 | 2021-11-25 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Heo Youngrak | Lose | W+R | 6.5 | 3589 | 7 | 
-| 2021-11-19 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3582 | 0 | 
-| 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Win | W+R | 6.5 | 3582 | 4 | 
-| 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Kim Jiseok |  | Win | B+R | 6.5 | 3578 | -11 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3582 | 1 | 
+| 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Win | W+R | 6.5 | 3581 | 4 | 
+| 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Kim Jiseok |  | Win | B+R | 6.5 | 3577 | -12 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 6.5 | 3589 | -4 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Win | W+0.5 | 6.5 | 3593 | 12 | 
 | 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Win | W+R | 6.5 | 3581 | 9 | 
@@ -123,8 +123,8 @@
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Lose | W+R | 6.5 | 3517 | -3 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Win | B+R | 6.5 | 3520 | -10 | 
 | 2021-05-27 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kim Jinhyu | Win | B+4.5 | 6.5 | 3530 | 11 | 
-| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Lose | W+R | 6.5 | 3519 | -14 | 
-| 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3533 | -12 | 
+| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Lose | W+R | 6.5 | 3519 | -13 | 
+| 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3532 | -13 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Xie Erhao | Kim Jiseok | Win | W+R | 7.5 | 3545 | 23 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Kim Jiseok | Win | W+R | 7.5 | 3522 | 2 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Kim Jiseok | Win | W+R | 7.5 | 3520 | 17 | 
@@ -182,11 +182,11 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Gu Zihao | Kim Jiseok | Win | W+R | 7.5 | 3475 | -48 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kim Jiseok | Xu Jiayang | Lose | W+R | 7.5 | 3523 | 23 | 
 | 2020-06-12 | 第25期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3500 | -4 | 
-| 2020-06-11 | 第25期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3504 | -5 | 
-| 2020-06-10 | 第25期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Kim Jiseok | Shin Jinseo | Lose | W+0.5 | 6.5 | 3509 | -22 | 
-| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Kim Jiseok | Lose | B+R | 6.5 | 3531 | -11 | 
-| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Win | B+3.5 | 6.5 | 3542 | 10 | 
-| 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | Lose | W+R | 6.5 | 3532 | 9 | 
+| 2020-06-11 | 第25期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3504 | -4 | 
+| 2020-06-10 | 第25期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Kim Jiseok | Shin Jinseo | Lose | W+0.5 | 6.5 | 3508 | -23 | 
+| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Kim Jiseok | Lose | B+R | 6.5 | 3531 | -10 | 
+| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Win | B+3.5 | 6.5 | 3541 | 10 | 
+| 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | Lose | W+R | 6.5 | 3531 | 8 | 
 | 2020-05-15 | 第25期GSカルテックス杯プロ棋戦8強戦 | Kim Jiseok | Lee Changseok | Win | B+R | 6.5 | 3523 | -2 | 
 | 2020-04-24 | 第25期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Park Yeonghun | Win | B+R | 6.5 | 3525 | -1 | 
 | 2020-04-07 | 第1期ソパルコサノル最高棋士決定戦リーグ | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3526 | -2 | 

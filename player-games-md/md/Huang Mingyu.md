@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Lose | W+R | 7.5 | 3334 | 143 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Kang Dongyun | Lose | W+R | 7.5 | 3334 | 143 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Huang Mingyu | Lose | B+1¼ | 7.5 | 3191 | -7 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Huang Mingyu | Win | W+R | 7.5 | 3198 | -140 | 
 | 2022-09-22 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Huang Mingyu | Lose | B+R | 7.5 | 3338 | 0 | 

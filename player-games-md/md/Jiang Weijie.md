@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Byun Sangil | Jiang Weijie | Lose | B+R | 7.5 | 3521 | -55 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Byun Sangil | Jiang Weijie | Lose | B+R | 7.5 | 3521 | -55 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Fan Tingyu | Lose | W+R | 7.5 | 3576 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Jiang Weijie | Win | W+R | 7.5 | 3584 | 69 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Jiang Weijie | Dang Yifei | Lose | W+R | 7.5 | 3515 | -7 | 
@@ -39,8 +39,8 @@
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Jiang Weijie | Chen Zijian | Win | B+R | 7.5 | 3452 | -14 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Lee Donghoon | Lose | W+R | 7.5 | 3466 | -6 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Jiang Weijie | Lose | B+R | 7.5 | 3472 | 0 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3472 | -98 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3570 | -15 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3472 | -97 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3569 | -16 | 
 | 2021-10-12 | 第12期中国竜星戦Bブロック9回戦 | Jiang Weijie | Mi Yuting | Lose | W+R | 7.5 | 3585 | -6 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Tan Xiao | Jiang Weijie | Lose | B+R | 7.5 | 3591 | -14 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Win | B+R | 7.5 | 3605 | -15 | 
@@ -97,8 +97,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節（再対局） | Jiang Weijie | Li Weiqing | Lose | W+R | 7.5 | 3539 | 0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Jiang Weijie | Li Weiqing | Lose | Void | 7.5 | 3539 | -29 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Shin Jinseo | Jiang Weijie | Lose | B+¾ | 7.5 | 3568 | -49 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Weijie | Ding Hao | Win | B+R | 7.5 | 3617 | -27 | 
-| 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | Win | B+R | 7.5 | 3644 | -3 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Weijie | Ding Hao | Win | B+R | 7.5 | 3617 | -26 | 
+| 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | Win | B+R | 7.5 | 3643 | -4 | 
 | 2020-04-21 | 第25回LG杯中国予選決勝 | Ding Hao | Jiang Weijie | Lose | B+R | 6.5 | 3647 | -43 | 
 | 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Win | W+R | 6.5 | 3690 | -12 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Shi Yue | Jiang Weijie | Lose | B+R | 7.5 | 3702 | -7 | 

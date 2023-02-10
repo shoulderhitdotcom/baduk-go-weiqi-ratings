@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Xu Jiayang | Lose | B+R | 7.5 | 3535 | -42 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Xu Jiayang | Lose | B+R | 7.5 | 3535 | -42 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Mi Yuting | Win | B+R | 7.5 | 3577 | 20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Xu Jiayang | Lose | B+¾ | 7.5 | 3557 | -8 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Kang Dongyun | Lose | W+R | 7.5 | 3565 | 47 | 
@@ -42,8 +42,8 @@
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3593 | -32 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3625 | -8 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3633 | 0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3633 | 51 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3582 | -7 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3633 | 52 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3581 | -8 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3589 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3589 | -10 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Win | W+R | 7.5 | 3599 | 6 | 

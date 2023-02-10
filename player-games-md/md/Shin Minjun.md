@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | B+R | 7.5 | 3563 | -34 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shin Minjun | Xia Chenkun | Win | B+R | 7.5 | 3563 | -34 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Liao Yuanhe | Shin Minjun | Lose | B+¾ | 7.5 | 3597 | -3 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Shin Minjun | Win | W+R | 7.5 | 3600 | 2 | 
 | 2023-02-05 | 第6回クラウン・ヘテ杯決勝三番勝負第2局 | Park Geunho | Shin Minjun | Win | W+R | 6.5 | 3598 | 5 | 
@@ -71,9 +71,9 @@
 | 2022-04-12 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changseok | Win | B+R | 6.5 | 3518 | 11 | 
 | 2022-04-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Hong Mujin | Lose | W+R | 6.5 | 3507 | -5 | 
 | 2022-04-04 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3512 | -8 | 
-| 2022-03-31 | 2021-2022韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | B+0.5 | 6.5 | 3520 | -10 | 
-| 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | Win | W+R | 6.5 | 3530 | 2 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | Win | W+R | 7.5 | 3528 | 7 | 
+| 2022-03-31 | 2021-2022韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | B+0.5 | 6.5 | 3520 | -9 | 
+| 2022-03-25 | 2021-2022韓国囲碁リーグ | Jin Siyoung | Shin Minjun | Win | W+R | 6.5 | 3529 | 2 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Ding Hao | Shin Minjun | Win | W+R | 7.5 | 3527 | 6 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Shin Minjun | Lose | B+R | 6.5 | 3521 | 3 | 
 | 2022-03-17 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Shin Minjun | Win | W+R | 6.5 | 3518 | 23 | 
 | 2022-03-12 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Shin Minjun | Win | W+R | 6.5 | 3495 | 11 | 
@@ -189,8 +189,8 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Dingxin | Shin Minjun | Lose | B+R | 7.5 | 3549 | -20 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shin Minjun | Xie Erhao | Lose | W+R | 7.5 | 3569 | -48 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Shin Minjun | Tang Weixing | Lose | W+R | 7.5 | 3617 | -3 | 
-| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Shin Minjun | Win | W+R | 7.5 | 3620 | 1 | 
-| 2020-07-09 | 第3期韓国竜星戦準決勝 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3619 | 3 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Shin Minjun | Win | W+R | 7.5 | 3620 | 2 | 
+| 2020-07-09 | 第3期韓国竜星戦準決勝 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3618 | 2 | 
 | 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Ding Hao | Win | B+R | 6.5 | 3616 | 5 | 
 | 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Shin Minjun | Wang Yuanjun | Win | B+R | 6.5 | 3611 | 27 | 
 | 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3584 | 4 | 

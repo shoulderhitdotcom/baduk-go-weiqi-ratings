@@ -23,8 +23,8 @@
 | 2022-03-29 | 2021-2022フューチャーズリーグ | Kim Miri | Ryu Minhyung | Win | W+4.5 | 6.5 | 3257 | -1 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Cho Hanseung | Ryu Minhyung | Lose | B+R | 7.5 | 3258 | 0 | 
 | 2022-03-28 | 2022年アジア競技大会韓国予選 | Ryu Minhyung | Park Sangjin | Lose | W+2¼ | 7.5 | 3258 | -11 | 
-| 2022-03-27 | 2021-2022フューチャーズリーグ | Ryu Minhyung | An Joyeong | Lose | W+R | 6.5 | 3269 | -24 | 
-| 2022-03-26 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Ryu Minhyung | Lose | B+R | 6.5 | 3293 | -19 | 
+| 2022-03-27 | 2021-2022フューチャーズリーグ | Ryu Minhyung | An Joyeong | Lose | W+R | 6.5 | 3269 | -23 | 
+| 2022-03-26 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Ryu Minhyung | Lose | B+R | 6.5 | 3292 | -20 | 
 | 2022-03-16 | 2022YK建機杯リーグ | Park Junghwan | Ryu Minhyung | Lose | B+R | 6.5 | 3312 | 12 | 
 | 2022-03-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3300 | 9 | 
 | 2022-03-11 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Ryu Minhyung | Lose | B+R | 6.5 | 3291 | -37 | 

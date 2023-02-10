@@ -33,8 +33,8 @@
 | 2022-08-04 | 第15期棋王戦（台湾）予選 | Zhou Keping | Xiao Zhenghao | Win | W+R | 6.5 | 3141 | -55 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 3196 | -7 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Li Wei | Xiao Zhenghao | Win | W+3.5 | 6.5 | 3203 | 6 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Lose | B+R | 6.5 | 3197 | -16 | 
-| 2022-03-25 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Win | B+R | 6.5 | 3213 | 15 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Lose | B+R | 6.5 | 3197 | -15 | 
+| 2022-03-25 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Win | B+R | 6.5 | 3212 | 14 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Win | B+R | 6.5 | 3198 | 32 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Xu Haohong | Xiao Zhenghao | Lose | B+R | 6.5 | 3166 | -14 | 
 | 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Win | W+R | 6.5 | 3180 | 6 | 
@@ -77,8 +77,8 @@
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 3009 | -3 | 
 | 2021-02-22 | 第2期名人冠軍戦予選 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3012 | -3 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lai Junfu | Xiao Zhenghao | Lose | B+R | 6.5 | 3015 | 54 | 
-| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | Win | B+R | 6.5 | 2961 | -4 | 
-| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 2965 | 69 | 
+| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | Win | B+R | 6.5 | 2961 | -3 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 2964 | 68 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Xiao Zhenghao | Niu Shite | Win | B+R | 6.5 | 2896 | -5 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xiao Zhenghao | Zhou Yinnan | Win | B+R | 6.5 | 2901 | 8 | 
 | 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Huang Xiangren | Xiao Zhenghao | Win | W+R | 6.5 | 2893 | -14 | 

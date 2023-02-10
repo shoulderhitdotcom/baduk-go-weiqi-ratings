@@ -76,9 +76,9 @@
 | 2022-04-07 | 第3期名人冠軍戦決勝七番勝負第2局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3426 | 1 | 
 | 2022-04-01 | 第21期天元戦（台湾）リーグプレーオフ | Xu Haohong | Lai Junfu | Win | B+0.5 | 6.5 | 3425 | -1 | 
 | 2022-03-31 | 第3期名人冠軍戦決勝七番勝負第1局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3426 | 6 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3420 | -7 | 
-| 2022-03-25 | 第21期天元戦（台湾）リーグ | Xu Haohong | Chen Shiyuan | Win | B+0.5 | 6.5 | 3427 | 4 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Li Xuanhao | Lose | W+R | 7.5 | 3423 | -8 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Xu Haohong | Lai Junfu | Win | B+R | 6.5 | 3420 | -6 | 
+| 2022-03-25 | 第21期天元戦（台湾）リーグ | Xu Haohong | Chen Shiyuan | Win | B+0.5 | 6.5 | 3426 | 4 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Xu Haohong | Li Xuanhao | Lose | W+R | 7.5 | 3422 | -9 | 
 | 2022-03-16 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Haohong | Win | W+R | 7.5 | 3431 | 2 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xu Haohong | Win | W+R | 6.5 | 3429 | 14 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Xu Haohong | Xiao Zhenghao | Win | B+R | 6.5 | 3415 | 0 | 
@@ -124,8 +124,8 @@
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3423 | 2 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xu Haohong | Win | W+R | 6.5 | 3421 | -2 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 | Lu Yiquan | Xu Haohong | Win | W+R | 6.5 | 3423 | 1 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lin Yanchen | Xu Haohong | Win | W+R | 6.5 | 3422 | -3 | 
-| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Xu Jingen | Xu Haohong | Win | W+R | 6.5 | 3425 | 6 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lin Yanchen | Xu Haohong | Win | W+R | 6.5 | 3422 | -2 | 
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Xu Jingen | Xu Haohong | Win | W+R | 6.5 | 3424 | 5 | 
 | 2021-08-04 | 第11期友士杯十段戦挑戦手合五番勝負第3局  | Xu Haohong | Lin Junyan | Win | B+0.5 | 6.5 | 3419 | -1 | 
 | 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3420 | -2 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3422 | -9 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3559 | -56 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3559 | -56 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3615 | 0 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Win | W+R | 7.5 | 3615 | 5 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+¼ | 7.5 | 3610 | 1 | 
@@ -77,8 +77,8 @@
 | 2022-04-05 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Cho Hanseung | Win | B+R | 6.5 | 3469 | -4 | 
 | 2022-04-04 | 2022YK建機杯リーグ | Kang Dongyun | Weon Seongjin | Win | B+R | 6.5 | 3473 | 0 | 
 | 2022-04-01 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Han Seungjoo | Win | B+R | 6.5 | 3473 | 11 | 
-| 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3462 | -24 | 
-| 2022-03-24 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Lose | W+R | 6.5 | 3486 | -3 | 
+| 2022-03-28 | 第3期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3462 | -23 | 
+| 2022-03-24 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Lose | W+R | 6.5 | 3485 | -4 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3489 | -2 | 
 | 2022-03-15 | 2022YK建機杯リーグ | Han Woojin | Kang Dongyun | Win | W+1.5 | 6.5 | 3491 | 5 | 
 | 2022-03-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3486 | 19 | 
@@ -105,8 +105,8 @@
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3477 | -6 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3483 | 6 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3477 | 11 | 
-| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3466 | 10 | 
-| 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3456 | -20 | 
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3466 | 11 | 
+| 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3455 | -21 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3476 | 7 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Han Yizhou | Win | B+R | 7.5 | 3469 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Win | B+¾ | 7.5 | 3465 | 7 | 
@@ -125,8 +125,8 @@
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+1¼ | 7.5 | 3476 | 6 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | Lose | B+R | 6.5 | 3470 | -13 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 3483 | 5 | 
-| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | 3478 | -10 | 
-| 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 3488 | -1 | 
+| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | 3478 | -9 | 
+| 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 3487 | -2 | 
 | 2021-05-19 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Seol Hyunjun | Win | B+R | 6.5 | 3489 | 13 | 
 | 2021-05-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | Win | B+R | 6.5 | 3476 | 7 | 
 | 2021-05-14 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | Lose | W+R | 6.5 | 3469 | -5 | 

@@ -32,8 +32,8 @@
 | 2020-09-10 | 第47期天元戦予選 | Hoshiai Shiho | Izumitani Hideo | Win | B+R | 6.5 | 2682 | 25 | 
 | 2020-08-27 | 第39期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Fujisawa Rina | Lose | W+R | 6.5 | 2657 | -88 | 
 | 2020-08-13 | 第46期碁聖戦予選 | Hoshiai Shiho | Hirata Tomoya | Lose | W+R | 6.5 | 2745 | 13 | 
-| 2020-08-06 | 第39期女流本因坊戦準決勝  | Mukai Chiaki | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2732 | 36 | 
-| 2020-07-23 | 第39期女流本因坊戦3回戦  | Hoshiai Shiho | Tobita Saki | Win | B+R | 6.5 | 2696 | 219 | 
+| 2020-08-06 | 第39期女流本因坊戦準決勝  | Mukai Chiaki | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2732 | 37 | 
+| 2020-07-23 | 第39期女流本因坊戦3回戦  | Hoshiai Shiho | Tobita Saki | Win | B+R | 6.5 | 2695 | 218 | 
 | 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | Win | B+R | 6.5 | 2477 | 38 | 
 | 2020-03-30 | 第27期阿含・桐山杯全日本早碁オープン戦予選 |  | Hoshiai Shiho | Win | W+R | 6.5 | 2439 | 230 | 
 | 2020-03-12 | 第39期女流本因坊戦1回戦 |  | Hoshiai Shiho | Win | W+R | 6.5 | 2209 | 381 | 

@@ -49,8 +49,8 @@
 | 2022-05-05 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Hong Seokui | Win | B+R | 6.5 | 3469 | 0 | 
 | 2022-04-21 | 第47期名人戦リーグ  | Ichiriki Ryo | Yamashita Keigo | Win | B+R | 6.5 | 3469 | -24 | 
 | 2022-04-04 | 第77期本因坊戦挑戦者決定プレーオフ  | Yu Zhengqi | Ichiriki Ryo | Win | W+R | 6.5 | 3493 | -1 | 
-| 2022-03-31 | 第77期本因坊戦リーグ  | Ichiriki Ryo | Sada Atsushi | Win | B+R | 6.5 | 3494 | 2 | 
-| 2022-03-26 | 第77期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3492 | -18 | 
+| 2022-03-31 | 第77期本因坊戦リーグ  | Ichiriki Ryo | Sada Atsushi | Win | B+R | 6.5 | 3494 | 3 | 
+| 2022-03-26 | 第77期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3491 | -19 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ichiriki Ryo | Byun Sangil | Lose | W+R | 7.5 | 3510 | -3 | 
 | 2022-03-18 | 第46期棋聖戦挑戦手合七番勝負第7局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3513 | 7 | 
 | 2022-03-14 | 第47期名人戦リーグ  | Hane Naoki | Ichiriki Ryo | Win | W+R | 6.5 | 3506 | 12 | 
@@ -74,9 +74,9 @@
 | 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Lose | W+R | 6.5 | 3518 | 15 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Lose | B+R | 6.5 | 3503 | -6 | 
 | 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3509 | 55 | 
-| 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3454 | -7 | 
-| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3461 | -1 | 
-| 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Win | W+R | 6.5 | 3462 | -11 | 
+| 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3454 | -6 | 
+| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3460 | -1 | 
+| 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Win | W+R | 6.5 | 3461 | -12 | 
 | 2021-11-08 | 第26回LG杯朝鮮日報棋王戦3回戦  | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3473 | 0 | 
 | 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3473 | -11 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3484 | 21 | 
@@ -117,8 +117,8 @@
 | 2021-02-24 | 第22回農心辛ラーメン杯世界囲碁最強戦第12戦 | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3418 | 13 | 
 | 2021-02-11 | 第46期名人戦リーグ  | Hsu Chiayuan | Ichiriki Ryo | Win | W+R | 6.5 | 3405 | 9 | 
 | 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Lose | W+R | 6.5 | 3396 | 13 | 
-| 2021-01-28 | 第69期王座戦予選 | Han Zenki | Ichiriki Ryo | Win | W+R | 6.5 | 3383 | 11 | 
-| 2021-01-21 | 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3372 | -16 | 
+| 2021-01-28 | 第69期王座戦予選 | Han Zenki | Ichiriki Ryo | Win | W+R | 6.5 | 3383 | 12 | 
+| 2021-01-21 | 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3371 | -17 | 
 | 2021-01-12 | 第9回応氏杯世界選手権準決勝第2局  | Xie Ke | Ichiriki Ryo | Lose | B+3 | 7.5 | 3388 | -14 | 
 | 2021-01-10 | 第9回応氏杯世界選手権準決勝第1局  | Ichiriki Ryo | Xie Ke | Lose | W+R | 7.5 | 3402 | -11 | 
 | 2021-01-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Yu Zhengqi | Win | B+R | 6.5 | 3413 | 16 | 
@@ -152,9 +152,9 @@
 | 2020-08-06 | 第45期名人戦リーグ  | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3465 | -10 | 
 | 2020-08-03 | 第45期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3475 | -23 | 
 | 2020-07-30 | 第45期棋聖戦Sリーグ | Kono Rin | Ichiriki Ryo | Win | W+R | 6.5 | 3498 | 13 | 
-| 2020-07-27 | 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | Win | B+R | 6.5 | 3485 | -1 | 
-| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Uchida Shuhei | Win | B+R | 6.5 | 3486 | 1 | 
-| 2020-07-18 | 第45期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3485 | -16 | 
+| 2020-07-27 | 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | Win | B+R | 6.5 | 3485 | 0 | 
+| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Uchida Shuhei | Win | B+R | 6.5 | 3485 | 1 | 
+| 2020-07-18 | 第45期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3484 | -17 | 
 | 2020-07-06 | 第45期名人戦リーグ | Hane Naoki | Ichiriki Ryo | Win | W+R | 6.5 | 3501 | 2 | 
 | 2020-07-02 | 第45期棋聖戦Sリーグ | Ichiriki Ryo | Takao Shinji | Lose | W+R | 6.5 | 3499 | -5 | 
 | 2020-06-29 | 第45期碁聖戦挑戦者決定戦 | Cho U | Ichiriki Ryo | Win | W+4.5 | 6.5 | 3504 | 8 | 

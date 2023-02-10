@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Win | B+¾ | 7.5 | 3584 | -113 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shi Yue | Yang Kaiwen | Win | B+¾ | 7.5 | 3584 | -113 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Shi Yue | Win | W+R | 7.5 | 3697 | 2 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Shi Yue | Li Xiangyu | Win | B+R | 7.5 | 3695 | 1 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Shi Yue | Chen Yunong | Win | B+R | 7.5 | 3694 | 80 | 
@@ -51,8 +51,8 @@
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Lose | W+R | 7.5 | 3495 | 6 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Shi Yue | Mi Yuting | Lose | W+¼ | 7.5 | 3489 | -1 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3490 | 18 | 
-| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Lose | B+R | 7.5 | 3472 | -4 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Lose | B+R | 7.5 | 3476 | -13 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Lose | B+R | 7.5 | 3472 | -3 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Lose | B+R | 7.5 | 3475 | -14 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Win | W+R | 7.5 | 3489 | 9 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Win | W+R | 7.5 | 3480 | 14 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Win | B+R | 7.5 | 3466 | 9 | 
@@ -111,8 +111,8 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shi Yue | Tang Weixing | Win | B+R | 7.5 | 3487 | -95 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Shi Yue | Xu Haohong | Lose | W+R | 7.5 | 3582 | 50 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Shi Yue | Tuo Jiaxi | Lose | W+R | 7.5 | 3532 | 0 | 
-| 2020-06-14 | 第19回西南棋王戦1回戦 | Gu Lingyi | Shi Yue | Win | W+R | 7.5 | 3532 | -44 | 
-| 2020-05-27 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Shi Yue | Li Weiqing | Win | B+R | 7.5 | 3576 | -30 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Gu Lingyi | Shi Yue | Win | W+R | 7.5 | 3532 | -43 | 
+| 2020-05-27 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Shi Yue | Li Weiqing | Win | B+R | 7.5 | 3575 | -31 | 
 | 2020-04-15 | 第25回LG杯中国予選 | Shi Yue | Peng Liyao | Lose | W+R | 6.5 | 3606 | 7 | 
 | 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | Lose | W+R | 7.5 | 3599 | -5 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Shi Yue | Jiang Weijie | Win | B+R | 7.5 | 3604 | missing |

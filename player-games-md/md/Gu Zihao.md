@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Gu Zihao | Tao Xinran | Win | B+R | 7.5 | 3679 | 67 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Tao Xinran | Win | B+R | 7.5 | 3679 | 67 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Lose | W+R | 7.5 | 3612 | -6 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Zihao | Win | W+R | 7.5 | 3618 | -36 | 
 | 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Gu Zihao | Lose | B+R | 6.5 | 3654 | 0 | 
@@ -41,8 +41,8 @@
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3612 | -30 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Lose | B+R | 7.5 | 3642 | -25 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Gu Zihao | Li Xuanhao | Lose | W+R | 7.5 | 3667 | 0 | 
-| 2022-04-19 | 2022年アジア競技大会中国予選 | Xie Ke | Gu Zihao | Win | W+R | 7.5 | 3667 | -43 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Gu Zihao | Byun Sangil | Lose | W+R | 7.5 | 3710 | -28 | 
+| 2022-04-19 | 2022年アジア競技大会中国予選 | Xie Ke | Gu Zihao | Win | W+R | 7.5 | 3667 | -42 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Gu Zihao | Byun Sangil | Lose | W+R | 7.5 | 3709 | -29 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Gu Zihao | Ke Jie | Lose | W+¼ | 7.5 | 3738 | -18 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Gu Zihao | Fan Yin | Lose | W+R | 7.5 | 3756 | -25 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | Lose | B+R | 7.5 | 3781 | -4 | 
@@ -59,9 +59,9 @@
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Win | W+R | 7.5 | 3698 | 26 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Win | B+R | 7.5 | 3672 | 5 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | Win | W+R | 7.5 | 3667 | 6 | 
-| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Chen Xian | Win | B+¾ | 7.5 | 3661 | 25 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Gu Zihao | Lose | B+R | 7.5 | 3636 | -10 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Win | W+R | 7.5 | 3646 | 3 | 
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Chen Xian | Win | B+¾ | 7.5 | 3661 | 26 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Gu Zihao | Lose | B+R | 7.5 | 3635 | -10 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Win | W+R | 7.5 | 3645 | 2 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Win | W+R | 7.5 | 3643 | 3 | 
 | 2021-10-13 | 第12期中国竜星戦Aブロック10回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3640 | 11 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Chen Xian | Gu Zihao | Win | W+R | 7.5 | 3629 | 1 | 
@@ -131,11 +131,11 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Dingxin | Gu Zihao | Win | W+R | 7.5 | 3494 | 19 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3475 | 20 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Park Junghwan | Gu Zihao | Lose | B+R | 7.5 | 3455 | -77 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Gu Zihao | Kim Jiseok | Lose | W+R | 7.5 | 3532 | -66 | 
-| 2020-06-10 | 第11期中国竜星戦Aブロック9回戦 | Gu Zihao | Mi Yuting | Lose | W+R | 7.5 | 3598 | -35 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Gu Zihao | Kim Jiseok | Lose | W+R | 7.5 | 3532 | -65 | 
+| 2020-06-10 | 第11期中国竜星戦Aブロック9回戦 | Gu Zihao | Mi Yuting | Lose | W+R | 7.5 | 3597 | -36 | 
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Gu Zihao | Weon Seongjin | Lose | W+1.5 | 6.5 | 3633 | -14 | 
-| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Kim Sangcheon | Gu Zihao | Win | W+4.5 | 6.5 | 3647 | -28 | 
-| 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Win | B+R | 7.5 | 3675 | 42 | 
+| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Kim Sangcheon | Gu Zihao | Win | W+4.5 | 6.5 | 3647 | -27 | 
+| 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Win | B+R | 7.5 | 3674 | 41 | 
 | 2020-05-20 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Gu Zihao | Chen Yaoye | Lose | W+¼ | 7.5 | 3633 | -58 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Win | W+R | 6.5 | 3691 | 13 | 
 | 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Win | W+R | 6.5 | 3678 | 8 | 

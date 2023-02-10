@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3693 | 45 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3693 | 45 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Ke Jie | Gu Lingyi | Lose | W+R | 7.5 | 3648 | -13 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Ke Jie | Lose | B+R | 7.5 | 3661 | -15 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 3676 | 48 | 
@@ -42,8 +42,8 @@
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 3724 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3724 | 2 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3722 | 0 | 
-| 2022-04-15 | 2022年アジア競技大会中国予選 | Yang Dingxin | Ke Jie | Lose | B+¾ | 7.5 | 3722 | -7 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Kim Myounghoon | Ke Jie | Win | W+R | 7.5 | 3729 | -14 | 
+| 2022-04-15 | 2022年アジア競技大会中国予選 | Yang Dingxin | Ke Jie | Lose | B+¾ | 7.5 | 3722 | -6 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Kim Myounghoon | Ke Jie | Win | W+R | 7.5 | 3728 | -15 | 
 | 2022-03-02 | 第36期中国囲碁天元戦決勝 | Ke Jie | Mi Yuting | Lose | W+R | 7.5 | 3743 | -8 | 
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Xie Ke | Ke Jie | Win | W+R | 7.5 | 3751 | 6 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 3745 | 15 | 
@@ -60,11 +60,11 @@
 | 2021-12-05 | 2021CCTV杯中国囲棋電視快棋戦決勝 | Dang Yifei | Ke Jie | Win | W+R | 7.5 | 3694 | 4 | 
 | 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3690 | 15 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Zhao Chenyu | Lose | W+R | 7.5 | 3675 | -9 | 
-| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3684 | -1 | 
-| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Win | W+R | 7.5 | 3685 | 14 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | Win | B+1¾ | 7.5 | 3671 | 6 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 3665 | -2 | 
-| 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | Lose | W+3.5 | 6.5 | 3667 | -15 | 
+| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3684 | 0 | 
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Win | W+R | 7.5 | 3684 | 14 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | Win | B+1¾ | 7.5 | 3670 | 6 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 3664 | -2 | 
+| 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | Lose | W+3.5 | 6.5 | 3666 | -16 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Win | W+R | 6.5 | 3682 | -38 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Lose | W+0.5 | 6.5 | 3720 | -6 | 
 | 2021-10-13 | 第12期中国竜星戦Bブロック10回戦 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 3726 | -22 | 
@@ -99,8 +99,8 @@
 | 2021-02-25 | 第22回農心辛ラーメン杯世界囲碁最強戦第13戦 | Shin Jinseo | Ke Jie | Lose | B+R | 6.5 | 3717 | 10 | 
 | 2021-02-04 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Ke Jie | Shin Minjun | Lose | W+3.5 | 6.5 | 3707 | -15 | 
 | 2021-02-03 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ke Jie | Shin Minjun | Lose | W+R | 6.5 | 3722 | -17 | 
-| 2021-02-01 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shin Minjun | Ke Jie | Win | W+R | 6.5 | 3739 | 37 | 
-| 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3702 | -2 | 
+| 2021-02-01 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shin Minjun | Ke Jie | Win | W+R | 6.5 | 3739 | 38 | 
+| 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3701 | -3 | 
 | 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Xu Haohong | Win | B+R | 7.5 | 3704 | -6 | 
 | 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3710 | 16 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | Win | W+R | 7.5 | 3694 | 2 | 

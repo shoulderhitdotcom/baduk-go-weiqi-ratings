@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Li Weiqing | Win | W+R | 7.5 | 3617 | -103 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Mao Ruilong | Li Weiqing | Win | W+R | 7.5 | 3617 | -103 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | Win | W+R | 7.5 | 3720 | 8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Weiqing | Wang Shuo | Win | B+R | 7.5 | 3712 | 41 | 
 | 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Li Weiqing | Byun Sangil | Lose | W+¼ | 7.5 | 3671 | 24 | 
@@ -31,15 +31,15 @@
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Weiqing | Chen Yaoye | Win | B+R | 7.5 | 3546 | -15 | 
 | 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Li Xuanhao | Li Weiqing | Lose | B+R | 7.5 | 3561 | -10 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yang Kaiwen | Win | B+R | 7.5 | 3571 | 10 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Win | B+R | 7.5 | 3561 | -4 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | Win | B+¾ | 7.5 | 3565 | 15 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Win | B+R | 7.5 | 3561 | -3 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | Win | B+¾ | 7.5 | 3564 | 14 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Ilya Shikshin | Li Weiqing | Win | W+R | 7.5 | 3550 | 24 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ke Jie | Li Weiqing | Lose | B+1¾ | 7.5 | 3526 | -9 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Li Weiqing | Tao Xinran | Win | B+5¾ | 7.5 | 3535 | -21 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Win | W+R | 7.5 | 3556 | 8 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Li Weiqing | Tong Mengcheng | Win | B+R | 7.5 | 3548 | 26 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Lose | W+R | 7.5 | 3522 | -39 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3561 | -18 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Lose | W+R | 7.5 | 3522 | -38 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3560 | -19 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3579 | 0 | 
 | 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Lose | B+R | 6.5 | 3579 | -13 | 
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Win | W+R | 6.5 | 3592 | 12 | 
@@ -100,8 +100,8 @@
 | 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Park Sangjin | Li Weiqing | Win | W+R | 6.5 | 3559 | 0 | 
 | 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | Lose | W+R | 6.5 | 3559 | -8 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Li Weiqing | Park Joonhoon | Win | B+R | 6.5 | 3567 | 0 | 
-| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | Win | W+R | 6.5 | 3567 | 27 | 
-| 2020-05-27 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Shi Yue | Li Weiqing | Lose | B+R | 7.5 | 3540 | -65 | 
+| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | Win | W+R | 6.5 | 3567 | 28 | 
+| 2020-05-27 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Shi Yue | Li Weiqing | Lose | B+R | 7.5 | 3539 | -66 | 
 | 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Lose | W+R | 6.5 | 3605 | -42 | 
 | 2020-01-05 | 第34期中国囲碁天元戦予選 | Li He | Li Weiqing | Win | W+R | 7.5 | 3647 | missing |
 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-09 | 第24回中国囲碁甲級リーグ | Park Junghwan | Han Yizhou | Win | B+¾ | 7.5 | 3692 | 56 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Han Yizhou | Win | B+¾ | 7.5 | 3692 | 56 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Park Junghwan | Cao Xiaoyang | Win | B+R | 7.5 | 3636 | 4 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Park Junghwan | Li Xuanhao | Lose | W+R | 7.5 | 3632 | -2 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Qirun | Win | B+R | 7.5 | 3634 | 19 | 
@@ -73,8 +73,8 @@
 | 2022-04-05 | 2022YK建機杯リーグ | Park Junghwan | Kim Eunji | Win | B+R | 6.5 | 3719 | 1 | 
 | 2022-04-04 | 第23回マキシムコーヒー杯入神最強戦準決勝 | Shin Minjun | Park Junghwan | Win | W+R | 6.5 | 3718 | 1 | 
 | 2022-04-03 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3717 | -6 | 
-| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Win | W+R | 6.5 | 3723 | -5 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | Lose | B+¾ | 7.5 | 3728 | 0 | 
+| 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Win | W+R | 6.5 | 3723 | -4 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Li Weiqing | Park Junghwan | Lose | B+¾ | 7.5 | 3727 | -1 | 
 | 2022-03-17 | 2021-2022韓国囲碁リーグ | Park Junghwan | An Sungjoon | Win | B+R | 6.5 | 3728 | -2 | 
 | 2022-03-16 | 2022YK建機杯リーグ | Park Junghwan | Ryu Minhyung | Win | B+R | 6.5 | 3730 | 1 | 
 | 2022-03-14 | 第23回マキシムコーヒー杯入神最強戦3回戦 | Park Junghwan | Kim Jiseok | Win | B+R | 6.5 | 3729 | 14 | 
@@ -108,9 +108,9 @@
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Junghwan | Baek Chanhee | Win | B+R | 6.5 | 3759 | -4 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3763 | 13 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Win | B+R | 6.5 | 3750 | -1 | 
-| 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3751 | -4 | 
-| 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Win | W+R | 6.5 | 3755 | 8 | 
-| 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3747 | 8 | 
+| 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3751 | -3 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Win | W+R | 6.5 | 3754 | 8 | 
+| 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3746 | 7 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Lose | W+R | 6.5 | 3739 | -4 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3743 | 5 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3738 | 5 | 
@@ -154,8 +154,8 @@
 | 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 3684 | -1 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Win | W+1.5 | 6.5 | 3685 | 4 | 
 | 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Win | B+R | 6.5 | 3681 | -14 | 
-| 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Win | B+R | 6.5 | 3695 | 3 | 
-| 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3692 | 0 | 
+| 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Win | B+R | 6.5 | 3695 | 4 | 
+| 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3691 | -1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | Win | B+R | 7.5 | 3692 | 13 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Park Junghwan | Win | W+¼ | 7.5 | 3679 | 3 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Ding Hao | Park Junghwan | Win | W+R | 7.5 | 3676 | 10 | 
@@ -177,8 +177,8 @@
 | 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Win | B+R | 6.5 | 3611 | 8 | 
 | 2021-02-04 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Park Junghwan | Win | W+0.5 | 6.5 | 3603 | 1 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | W+R | 6.5 | 3602 | 21 | 
-| 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | Win | W+R | 6.5 | 3581 | 12 | 
-| 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | Lose | B+0.5 | 6.5 | 3569 | -23 | 
+| 2021-01-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Park Junghwan | Win | W+R | 6.5 | 3581 | 13 | 
+| 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | Lose | B+0.5 | 6.5 | 3568 | -24 | 
 | 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Park Junghwan | Win | W+R | 6.5 | 3592 | -3 | 
 | 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Park Junghwan | Win | W+R | 6.5 | 3595 | -13 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Park Junghwan | Wen Rubin | Win | B+R | 6.5 | 3608 | 2 | 
@@ -230,15 +230,15 @@
 | 2020-08-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Junghwan | Iyama Yuta | Win | B+R | 6.5 | 3663 | -31 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Junghwan | Lian Xiao | Lose | W+R | 7.5 | 3694 | -7 | 
 | 2020-07-27 | 第3期韓国竜星戦決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | W+0.5 | 6.5 | 3701 | -9 | 
-| 2020-07-26 | 第3期韓国竜星戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3710 | -7 | 
-| 2020-07-09 | 第3期韓国竜星戦準決勝 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3717 | -5 | 
+| 2020-07-26 | 第3期韓国竜星戦決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3710 | -6 | 
+| 2020-07-09 | 第3期韓国竜星戦準決勝 | Lee Donghoon | Park Junghwan | Win | W+R | 6.5 | 3716 | -6 | 
 | 2020-06-23 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第3局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3722 | -9 | 
 | 2020-06-22 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3731 | 7 | 
 | 2020-06-15 | 第1期ソパルコサノル最高棋士決定戦決勝五番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3724 | -30 | 
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Hong Kipyo | Park Junghwan | Win | W+R | 6.5 | 3754 | 3 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Win | W+R | 6.5 | 3751 | 3 | 
-| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Lose | B+3.5 | 6.5 | 3748 | -8 | 
-| 2020-05-25 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3756 | 24 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Win | W+R | 6.5 | 3751 | 4 | 
+| 2020-05-28 | 第25期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Park Junghwan | Lose | B+3.5 | 6.5 | 3747 | -8 | 
+| 2020-05-25 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3755 | 23 | 
 | 2020-05-14 | 第25期GSカルテックス杯プロ棋戦8強戦 | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3732 | 4 | 
 | 2020-05-04 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3728 | 4 | 
 | 2020-05-03 | 韓国囲碁リーグオールスター戦第9局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3724 | -12 | 

@@ -97,8 +97,8 @@
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3049 | -12 | 
 | 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | Lose | W+R | 6.5 | 3061 | -13 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3074 | 4 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3070 | -3 | 
-| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Lin Lixiang | Lose | B+R | 6.5 | 3073 | -15 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3070 | -2 | 
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Niu Shite | Lin Lixiang | Lose | B+R | 6.5 | 3072 | -16 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Chen Shoulian | Lin Lixiang | Win | W+R | 6.5 | 3088 | -3 | 
 | 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3091 | 27 | 
 | 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Lose | B+R | 6.5 | 3064 | 14 | 
@@ -125,8 +125,8 @@
 | 2021-02-22 | 第2期名人冠軍戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3076 | -12 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3088 | 54 | 
 | 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3034 | 23 | 
-| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Lin Lixiang | Lu Yiquan | Lose | W+R | 6.5 | 3011 | -18 | 
-| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lin Lixiang | Lin Shixun | Win | B+R | 6.5 | 3029 | 45 | 
+| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Lin Lixiang | Lu Yiquan | Lose | W+R | 6.5 | 3011 | -17 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lin Lixiang | Lin Shixun | Win | B+R | 6.5 | 3028 | 44 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Win | B+5.5 | 6.5 | 2984 | -16 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lin Lixiang | Lu Yuhua | Win | B+R | 6.5 | 3000 | 9 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 |  | Lin Lixiang | Win | W+R | 6.5 | 2991 | -10 | 
@@ -149,9 +149,9 @@
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Kono Rin | Lin Lixiang | Lose | B+R | 7.5 | 3162 | -3 | 
 | 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Lin Junyan | Lin Lixiang | Lose | B+R | 6.5 | 3165 | -9 | 
 | 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Chen Shoulian | Lin Lixiang | Win | W+R | 6.5 | 3174 | -4 | 
-| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Lixiang | Lin Shixun | Win | B+R | 6.5 | 3178 | -80 | 
-| 2020-07-20 | 第1期名人冠軍戦2回戦 |  | Lin Lixiang | Win | W+5.5 | 6.5 | 3258 | 0 | 
-| 2020-07-16 | 第1期名人冠軍戦1回戦 | Jian Jingting | Lin Lixiang | Win | W+R | 6.5 | 3258 | 21 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Lixiang | Lin Shixun | Win | B+R | 6.5 | 3178 | -79 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 |  | Lin Lixiang | Win | W+5.5 | 6.5 | 3257 | 0 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Jian Jingting | Lin Lixiang | Win | W+R | 6.5 | 3257 | 20 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選敗部1回戦 | Lin Lixiang | Yang Bowei | Lose | W+R | 6.5 | 3237 | -14 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Li Wei | Lin Lixiang | Lose | B+R | 6.5 | 3251 | -19 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3270 | 26 | 

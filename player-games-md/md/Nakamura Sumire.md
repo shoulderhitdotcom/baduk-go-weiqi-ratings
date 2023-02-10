@@ -29,8 +29,8 @@
 | 2022-10-20 | 第26期女流棋聖戦1回戦 | Nakamura Sumire | Tsukuda Akiko | Win | B+R | 6.5 | 2927 | 25 | 
 | 2022-10-17 | 第71期王座戦予選 | Xie Yimin | Nakamura Sumire | Lose | B+2.5 | 6.5 | 2902 | -10 | 
 | 2022-10-06 | 第48期碁聖戦予選 | Motoki Katsuya | Nakamura Sumire | Lose | B+R | 6.5 | 2912 | 40 | 
-| 2022-09-29 | 第9期会津中央病院・女流立葵杯予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2872 | -1 | 
-| 2022-09-08 | 第71期王座戦予選 | Nakamura Sumire | Nakaonoda Tomomi | Win | B+R | 6.5 | 2873 | 16 | 
+| 2022-09-29 | 第9期会津中央病院・女流立葵杯予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2872 | 0 | 
+| 2022-09-08 | 第71期王座戦予選 | Nakamura Sumire | Nakaonoda Tomomi | Win | B+R | 6.5 | 2872 | 15 | 
 | 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2857 | -15 | 
 | 2022-08-16 | 2021中国女子囲碁乙級リーグ  | Kim Dayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2872 | 12 | 
 | 2022-08-15 | 2021中国女子囲碁乙級リーグ  | Nakamura Sumire | Choi Jeong | Lose | W+R | 7.5 | 2860 | 7 | 
@@ -60,8 +60,8 @@
 | 2022-04-14 | 第33期女流名人戦挑戦手合三番勝負第1局  | Nakamura Sumire | Fujisawa Rina | Lose | W+R | 6.5 | 2837 | -26 | 
 | 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Nakamura Sumire | Fujisawa Rina | Lose | W+2.5 | 6.5 | 2863 | 13 | 
 | 2022-04-04 | 第7回扇興杯女流最強戦予選 |  | Nakamura Sumire | Win | W+0.5 | 6.5 | 2850 | -8 | 
-| 2022-03-31 | 第41期女流本因坊戦予選  | Kibe Natsuki | Nakamura Sumire | Win | W+R | 6.5 | 2858 | -18 | 
-| 2022-03-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Mukai Chiaki | Win | B+0.5 | 6.5 | 2876 | -1 | 
+| 2022-03-31 | 第41期女流本因坊戦予選  | Kibe Natsuki | Nakamura Sumire | Win | W+R | 6.5 | 2858 | -17 | 
+| 2022-03-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Mukai Chiaki | Win | B+0.5 | 6.5 | 2875 | -2 | 
 | 2022-03-17 | 第33期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | Win | W+R | 6.5 | 2877 | 24 | 
 | 2022-03-10 | 第33期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Win | B+R | 6.5 | 2853 | 16 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Nakamura Sumire | Kim Eunji | Lose | W+R | 6.5 | 2837 | -13 | 
@@ -78,9 +78,9 @@
 | 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2681 | -15 | 
 | 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2696 | 39 | 
 | 2021-11-29 | 第78期本因坊戦予選 | Nakamura Sumire | Kim Sujun | Win | B+3.5 | 6.5 | 2657 | 13 | 
-| 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2644 | 62 | 
-| 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2582 | -16 | 
-| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | 2598 | -28 | 
+| 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2644 | 63 | 
+| 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2581 | -16 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | 2597 | -29 | 
 | 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2626 | -7 | 
 | 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Win | W+15.5 | 6.5 | 2633 | -15 | 
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | 2648 | -85 | 
@@ -95,8 +95,8 @@
 | 2021-07-01 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Shuto Shun | Lose | W+1.5 | 6.5 | 2644 | -10 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Lose | B+6.5 | 6.5 | 2654 | 1 | 
 | 2021-06-03 | 第60期十段戦予選 | Nakane Naoyuki | Nakamura Sumire | Win | W+1.5 | 6.5 | 2653 | 0 | 
-| 2021-05-27 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Mizokami Tomochika | Lose | W+R | 6.5 | 2653 | -3 | 
-| 2021-05-20 | 第47期名人戦予選 | Nakamura Sumire | Komatsu Hideki | Lose | W+2.5 | 6.5 | 2656 | -17 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Mizokami Tomochika | Lose | W+R | 6.5 | 2653 | -2 | 
+| 2021-05-20 | 第47期名人戦予選 | Nakamura Sumire | Komatsu Hideki | Lose | W+2.5 | 6.5 | 2655 | -18 | 
 | 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Win | W+1.5 | 6.5 | 2673 | 14 | 
 | 2021-05-06 | 第46期棋聖戦予選  | Nakamura Sumire |  | Win | B+5.5 | 6.5 | 2659 | -5 | 
 | 2021-04-29 | 第60期十段戦予選 | Nakamura Sumire | Goto Shungo | Win | B+12.5 | 6.5 | 2664 | 13 | 
@@ -108,8 +108,8 @@
 | 2021-02-18 | 第40期女流本因坊戦予選 | Takao Mari | Nakamura Sumire | Win | W+0.5 | 6.5 | 2433 | 66 | 
 | 2021-02-11 | 第8期会津中央病院・女流立葵杯予選 | Akane Tatsumi | Nakamura Sumire | Win | W+5.5 | 6.5 | 2367 | 6 | 
 | 2021-02-04 | 第46期棋聖戦予選 | Nakamura Sumire | Ha Youngil | Win | B+13.5 | 6.5 | 2361 | 169 | 
-| 2021-01-25 | 第40期女流本因坊戦予選 |  | Nakamura Sumire | Win | W+1.5 | 6.5 | 2192 | 74 | 
-| 2021-01-21 | 第70期十段戦予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 2118 | -118 | 
+| 2021-01-25 | 第40期女流本因坊戦予選 |  | Nakamura Sumire | Win | W+1.5 | 6.5 | 2192 | 75 | 
+| 2021-01-21 | 第70期十段戦予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 2117 | -119 | 
 | 2021-01-07 | 第32期博多・カマチ杯女流名人戦予選 | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2236 | 48 | 
 | 2020-12-17 | 第8期会津中央病院・女流立葵杯予選 | Miyamoto Chiharu | Nakamura Sumire | Win | W+32.5 | 6.5 | 2188 | 68 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦  | Ueno Asami | Nakamura Sumire | Lose | B+R | 6.5 | 2120 | -40 | 
@@ -122,17 +122,17 @@
 | 2020-10-01 | 第69期王座戦予選 | Takabayashi Masahiro | Nakamura Sumire | Lose | B+5.5 | 6.5 | 2184 | 125 | 
 | 2020-08-01 | 仲邑菫初段のオロチャレンジ第4回第3局 | Jeong Yujin | Nakamura Sumire | Lose | B+R | 6.5 | 2059 | 0 | 
 | 2020-08-01 | 仲邑菫初段のオロチャレンジ第4回第2局 | Nakamura Sumire | Jeong Yujin | Lose | W+R | 6.5 | 2059 | -36 | 
-| 2020-07-31 | 仲邑菫初段のオロチャレンジ第4回第1局 | Jeong Yujin | Nakamura Sumire | Win | W+R | 6.5 | 2095 | 89 | 
-| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第3局 | Seo Bongsoo | Nakamura Sumire | Lose | B+R | 6.5 | 2006 | 0 | 
-| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第2局 | Nakamura Sumire | Seo Bongsoo | Lose | W+R | 6.5 | 2006 | -11 | 
-| 2020-07-24 | 仲邑菫初段のオロチャレンジ第3回第1局 | Seo Bongsoo | Nakamura Sumire | Lose | B+R | 6.5 | 2017 | -42 | 
-| 2020-07-18 | 仲邑菫初段のオロチャレンジ第2回第3局 | Nakamura Sumire | Seo Nungwuk | Lose | W+R | 6.5 | 2059 | 0 | 
-| 2020-07-18 | 仲邑菫初段のオロチャレンジ第2回第2局 | Nakamura Sumire | Seo Nungwuk | Win | B+3.5 | 6.5 | 2059 | 197 | 
-| 2020-07-17 | 仲邑菫初段のオロチャレンジ第2回第1局 | Seo Nungwuk | Nakamura Sumire | Lose | B+R | 6.5 | 1862 | -67 | 
-| 2020-07-13 | 第5回扇興杯女流最強戦1回戦 | Nakamura Sumire | Ueno Asami | Lose | W+R | 6.5 | 1929 | 1 | 
-| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第3局 | Kim Cheayoung | Nakamura Sumire | Lose | B+R | 6.5 | 1928 | 0 | 
-| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第2局 | Nakamura Sumire | Kim Cheayoung | Lose | W+7.5 | 6.5 | 1928 | -7 | 
-| 2020-07-10 | 仲邑菫初段のオロチャレンジ第1回第1局 | Kim Cheayoung | Nakamura Sumire | Lose | B+R | 6.5 | 1935 | 73 | 
+| 2020-07-31 | 仲邑菫初段のオロチャレンジ第4回第1局 | Jeong Yujin | Nakamura Sumire | Win | W+R | 6.5 | 2095 | 90 | 
+| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第3局 | Seo Bongsoo | Nakamura Sumire | Lose | B+R | 6.5 | 2005 | 0 | 
+| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第2局 | Nakamura Sumire | Seo Bongsoo | Lose | W+R | 6.5 | 2005 | -11 | 
+| 2020-07-24 | 仲邑菫初段のオロチャレンジ第3回第1局 | Seo Bongsoo | Nakamura Sumire | Lose | B+R | 6.5 | 2016 | -42 | 
+| 2020-07-18 | 仲邑菫初段のオロチャレンジ第2回第3局 | Nakamura Sumire | Seo Nungwuk | Lose | W+R | 6.5 | 2058 | 0 | 
+| 2020-07-18 | 仲邑菫初段のオロチャレンジ第2回第2局 | Nakamura Sumire | Seo Nungwuk | Win | B+3.5 | 6.5 | 2058 | 197 | 
+| 2020-07-17 | 仲邑菫初段のオロチャレンジ第2回第1局 | Seo Nungwuk | Nakamura Sumire | Lose | B+R | 6.5 | 1861 | -67 | 
+| 2020-07-13 | 第5回扇興杯女流最強戦1回戦 | Nakamura Sumire | Ueno Asami | Lose | W+R | 6.5 | 1928 | 1 | 
+| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第3局 | Kim Cheayoung | Nakamura Sumire | Lose | B+R | 6.5 | 1927 | 0 | 
+| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第2局 | Nakamura Sumire | Kim Cheayoung | Lose | W+7.5 | 6.5 | 1927 | -7 | 
+| 2020-07-10 | 仲邑菫初段のオロチャレンジ第1回第1局 | Kim Cheayoung | Nakamura Sumire | Lose | B+R | 6.5 | 1934 | 72 | 
 | 2020-06-18 | 第69期王座戦予選 | Nakamura Sumire | Sano Takatsugu | Win | B+R | 6.5 | 1862 | -132 | 
 | 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Xie Yimin | Lose | W+R | 6.5 | 1994 | 0 | 
 | 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Win | B+4.5 | 6.5 | 1994 | 0 | 

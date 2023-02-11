@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Li Xuanhao | Lose | W+¼ | 7.5 | 3540 | -4 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Tuo Jiaxi | Win | B+R | 7.5 | 3544 | 9 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Xu Jiayang | Lose | B+R | 7.5 | 3535 | -42 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Mi Yuting | Win | B+R | 7.5 | 3577 | 20 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tang Weixing | Kang Dongyun | Lose | B+R | 7.5 | 3561 | -4 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Weiqing | Win | B+¾ | 7.5 | 3565 | 0 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Win | B+R | 6.5 | 3565 | 6 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3559 | -56 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | Win | W+R | 6.5 | 3501 | -4 | 
 | 2023-02-09 | 2022-2023韓国囲碁リーグ | Weon Seongjin | An Sungjoon | Lose | W+2.5 | 6.5 | 3505 | 62 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Shin Jinseo | Win | B+R | 6.5 | 3443 | 0 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 3443 | -3 | 

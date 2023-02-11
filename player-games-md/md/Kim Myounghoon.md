@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Kim Myounghoon | Jin Yucheng | Win | B+¾ | 7.5 | 3562 | 3 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Han Seungjoo | Kim Myounghoon | Win | W+F | 6.5 | 3559 | 0 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Cho Hanseung | Win | B+1.5 | 6.5 | 3559 | -29 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Xu Jiayang | Win | B+¾ | 7.5 | 3588 | 5 | 

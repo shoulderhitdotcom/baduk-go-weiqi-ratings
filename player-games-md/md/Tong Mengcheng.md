@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tong Mengcheng | Lose | B+¾ | 7.5 | 3468 | -2 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tong Mengcheng | Lose | B+R | 7.5 | 3470 | -4 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Ding Shixiong | Lose | W+R | 7.5 | 3474 | 39 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Liu Yuhang | Lose | W+1¼ | 7.5 | 3435 | -17 | 

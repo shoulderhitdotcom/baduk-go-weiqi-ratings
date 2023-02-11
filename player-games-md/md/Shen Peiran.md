@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Shen Peiran | Xie Erhao | Lose | W+R | 7.5 | 3316 | -5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ |  | Shen Peiran | Lose | B+R | 7.5 | 3321 | -52 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Yunong | Shen Peiran | Lose | B+R | 7.5 | 3373 | -20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Shen Peiran | Chen Xian | Win | B+¾ | 7.5 | 3393 | 78 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Chen Zhengxun | Win | B+R | 7.5 | 3151 | 228 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Wang Xinghao | Lose | W+R | 7.5 | 2923 | -42 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Lose | W+R | 7.5 | 2965 | -81 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Zhao Chenyu | Lose | W+R | 7.5 | 3046 | -23 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Liu Yuhang | Lose | W+R | 7.5 | 3417 | -9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Zijian | Lose | W+¼ | 7.5 | 3426 | -5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shin Minjun | Xia Chenkun | Lose | B+R | 7.5 | 3431 | 60 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 3371 | -40 | 

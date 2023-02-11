@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Win | B+R | 7.5 | 3492 | 9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Yang Kaiwen | Win | B+R | 7.5 | 3483 | 10 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Tao Xinran | Lose | B+R | 7.5 | 3473 | -53 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Tao Xinran | Lose | B+R | 7.5 | 3526 | -30 | 

@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Jian Jingting | Park Jinsol | Lose | B+R | 6.5 | 3428 | 0 | 
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3428 | -19 | 
+| 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | Lose | W+R | 6.5 | 3428 | 0 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Jian Jingting | Park Jinsol | Lose | B+R | 6.5 | 3428 | 0 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3428 | -19 | 
 | 2023-02-06 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Wonyoung | Lose | W+R | 6.5 | 3447 | -1 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3448 | 6 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3442 | 7 | 
@@ -56,9 +57,9 @@
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | B+R | 6.5 | 3324 | 21 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Jinsol | Win | W+1.5 | 6.5 | 3303 | -3 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Win | W+0.5 | 6.5 | 3306 | 8 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Lose | B+R | 6.5 | 3298 | 9 | 
-| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Lose | B+1.5 | 6.5 | 3289 | -16 | 
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3305 | -18 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Lose | B+R | 6.5 | 3298 | 10 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Lose | B+1.5 | 6.5 | 3288 | -16 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3304 | -19 | 
 | 2021-07-18 | 第23回農心杯韓国予選 | Park Jinsol | Ahn Kukhyun | Lose | W+R | 6.5 | 3323 | -18 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Lose | W+R | 6.5 | 3341 | -2 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Park Jinsol | Yun Junsang | Win | B+1.5 | 6.5 | 3343 | 11 | 
@@ -71,8 +72,8 @@
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Jeong | Lose | W+R | 6.5 | 3243 | -1 | 
 | 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | Lose | B+R | 6.5 | 3244 | -21 | 
 | 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3265 | -7 | 
-| 2021-01-30 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Jinsol | Lose | B+R | 6.5 | 3272 | -55 | 
-| 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3327 | -7 | 
+| 2021-01-30 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Jinsol | Lose | B+R | 6.5 | 3272 | -54 | 
+| 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3326 | -8 | 
 | 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Jinsol | Win | W+R | 6.5 | 3334 | 9 | 
 | 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | B+0.5 | 6.5 | 3325 | -23 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Jinsol | Win | W+R | 6.5 | 3348 | 20 | 

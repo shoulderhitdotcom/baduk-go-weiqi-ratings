@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tan Xiao | Win | W+R | 7.5 | 3524 | 3 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Tan Xiao | Win | W+R | 7.5 | 3521 | 6 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3515 | 6 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+¾ | 7.5 | 3509 | -20 | 

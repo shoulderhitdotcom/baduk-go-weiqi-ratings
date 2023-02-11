@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xiangyu Vs Tan Xiao** | **Li Xiangyu Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tan Xiao | W+R | 7.5 | 0:5 | 0 | 5 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | B+R | 7.5 | 0:4 | 0 | 4 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Xiangyu | Tan Xiao | W+R | 7.5 | 0:3 | 0 | 3 | 
 | 2017-03-11 | 第16回西南棋王戦2回戦 | Tan Xiao | Li Xiangyu | B+R | 7.5 | 0:2 | 0 | 2 | 

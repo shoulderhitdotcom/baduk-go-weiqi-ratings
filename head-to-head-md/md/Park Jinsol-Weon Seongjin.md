@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Jinsol Vs Weon Seongjin** | **Park Jinsol Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | W+R | 6.5 | 3:6 | 0 | 3 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | B+R | 6.5 | 3:5 | 0 | 2 | 
 | 2022-04-24 | 2021-2022韓国囲碁リーグプレーオフ | Weon Seongjin | Park Jinsol | B+R | 6.5 | 3:4 | 0 | 1 | 
 | 2022-03-27 | 2021-2022韓国囲碁リーグ | Park Jinsol | Weon Seongjin | B+R | 6.5 | 3:3 | 1 | 0 | 

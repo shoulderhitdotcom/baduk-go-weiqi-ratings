@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Shi Yue** | **Dang Yifei Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shi Yue | B+R | 7.5 | 5:4 | 2 | 0 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Shi Yue | Dang Yifei | W+2¼ | 7.5 | 4:4 | 1 | 0 | 
 | 2018-06-20 | 第2回巓峰夢想福特撼路者ラリー戦b6 | Shi Yue | Dang Yifei | B+¾ | 7.5 | 3:4 | 0 | 1 | 
 | 2018-06-15 | 第2回巓峰夢想福特撼路者ラリー戦b3 | Dang Yifei | Shi Yue | B+R | 7.5 | 3:3 | 1 | 0 | 

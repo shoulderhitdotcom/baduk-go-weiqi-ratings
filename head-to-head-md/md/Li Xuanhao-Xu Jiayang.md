@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Xu Jiayang** | **Li Xuanhao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Li Xuanhao | W+¼ | 7.5 | 6:3 | 3 | 0 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Xu Jiayang | Li Xuanhao | W+R | 7.5 | 5:3 | 2 | 0 | 
 | 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Li Xuanhao | W+¼ | 7.5 | 4:3 | 1 | 0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Li Xuanhao | B+R | 7.5 | 3:3 | 0 | 1 | 

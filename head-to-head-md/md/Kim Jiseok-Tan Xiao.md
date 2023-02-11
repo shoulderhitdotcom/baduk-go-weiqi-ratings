@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Tan Xiao** | **Kim Jiseok Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Tan Xiao | W+R | 7.5 | 3:4 | 0 | 1 | 
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Kim Jiseok | Tan Xiao | B+R | 7.5 | 3:3 | 2 | 0 | 
 | 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Tan Xiao | Kim Jiseok | W+0.5 | 7.5 | 2:3 | 1 | 0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Kim Jiseok | Tan Xiao | W+R | 7.5 | 1:3 | 0 | 3 | 

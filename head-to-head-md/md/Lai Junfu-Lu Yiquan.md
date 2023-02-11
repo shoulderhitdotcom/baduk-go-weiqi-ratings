@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Lu Yiquan** | **Lai Junfu Streak** | **Lu Yiquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lu Yiquan | B+R | 6.5 | 9:0 | 9 | 0 | 
 | 2021-04-28 | 第8回グロービス杯台湾予選 | Lai Junfu | Lu Yiquan | B+3.5 | 6.5 | 8:0 | 8 | 0 | 
 | 2021-03-12 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Lai Junfu | W+R | 6.5 | 7:0 | 7 | 0 | 
 | 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Lu Yiquan | B+R | 6.5 | 6:0 | 6 | 0 | 

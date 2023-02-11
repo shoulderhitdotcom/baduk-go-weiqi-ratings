@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Yi Lingtao** | **Ding Hao Streak** | **Yi Lingtao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Ding Hao | W+¼ | 7.5 | 5:1 | 5 | 0 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Yi Lingtao | B+R | 7.5 | 4:1 | 4 | 0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | W+R | 7.5 | 3:1 | 3 | 0 | 
 | 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Yi Lingtao | Ding Hao | W+R | 7.5 | 2:1 | 2 | 0 | 

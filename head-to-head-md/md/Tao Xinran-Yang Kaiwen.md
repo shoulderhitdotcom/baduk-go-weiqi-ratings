@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Yang Kaiwen** | **Tao Xinran Streak** | **Yang Kaiwen Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Yang Kaiwen | B+R | 7.5 | 5:1 | 3 | 0 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | B+1¾ | 7.5 | 4:1 | 2 | 0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | W+R | 7.5 | 3:1 | 1 | 0 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | B+R | 7.5 | 2:1 | 0 | 1 | 

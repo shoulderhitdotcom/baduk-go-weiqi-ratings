@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Kang Dongyun** | **Choi Cheolhan Streak** | **Kang Dongyun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | B+R | 6.5 | 12:16 | 0 | 1 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | Kang Dongyun | B+R | 6.5 | 12:15 | 1 | 0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Kang Dongyun | Choi Cheolhan | B+R | 6.5 | 11:15 | 0 | 4 | 
 | 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Choi Cheolhan | Kang Dongyun | W+R | 7.5 | 11:14 | 0 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tuo Jiaxi Vs Xu Jiayang** | **Tuo Jiaxi Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Tuo Jiaxi | B+R | 7.5 | 2:4 | 0 | 3 | 
 | 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Tuo Jiaxi | Xu Jiayang | W+R | 7.5 | 2:3 | 0 | 2 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節中信-江西 | Xu Jiayang | Tuo Jiaxi | B+R | 7.5 | 2:2 | 0 | 1 | 
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Xu Jiayang | Tuo Jiaxi | W+R | 7.5 | 2:1 | 1 | 0 | 

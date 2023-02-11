@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shuyang Vs Wang Yuanjun** | **Lin Shuyang Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-07 | 第22期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shuyang | W+1.5 | 6.5 | 2:9 | 1 | 0 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Wang Yuanjun | Lin Shuyang | B+R | 6.5 | 1:9 | 0 | 8 | 
 | 2017-03-20 | 第9回海峰杯プロ囲碁戦8強戦 | Lin Shuyang | Wang Yuanjun | W+3.5 | 6.5 | 1:8 | 0 | 7 | 
 | 2017-02-16 | 第22期LG盃台湾代表選抜戦決勝第一局 | Lin Shuyang | Wang Yuanjun | W+R | 6.5 | 1:7 | 0 | 6 | 

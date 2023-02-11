@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第6局 | Song Jihoon | An Sungjoon | Win | W+1.5 | 6.5 | 3400 | 9 | 
 | 2023-02-09 | 2022-2023韓国囲碁リーグ | Weon Seongjin | An Sungjoon | Win | W+2.5 | 6.5 | 3391 | 38 | 
 | 2023-02-02 | 2022-2023韓国囲碁リーグ | Song Gyusang | An Sungjoon | Win | W+9.5 | 6.5 | 3353 | 0 | 
 | 2023-02-02 | 2022-2023韓国囲碁リーグ | An Sungjoon | Kim Myounghoon | Lose | W+R | 6.5 | 3353 | -19 | 

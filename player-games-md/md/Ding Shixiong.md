@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | Ding Shixiong | Lose | B+R | 7.5 | 3295 | -8 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Ding Shixiong | Win | W+R | 7.5 | 3303 | 89 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Win | W+R | 7.5 | 3214 | 39 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Lose | W+R | 7.5 | 3175 | 21 | 

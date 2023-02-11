@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Wang Chuxuan | Chen Yaoye | Lose | B+R | 7.5 | 3492 | -12 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Xinghao | Lose | W+R | 7.5 | 3504 | -5 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Lose | B+¾ | 7.5 | 3509 | -25 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Mi Yuting | Chen Yaoye | Lose | B+R | 7.5 | 3534 | -18 | 

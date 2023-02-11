@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Byun Sangil | Win | B+R | 7.5 | 3532 | 11 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Byun Sangil | Jiang Weijie | Lose | B+R | 7.5 | 3521 | -55 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Fan Tingyu | Lose | W+R | 7.5 | 3576 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Jiang Weijie | Win | W+R | 7.5 | 3584 | 69 | 

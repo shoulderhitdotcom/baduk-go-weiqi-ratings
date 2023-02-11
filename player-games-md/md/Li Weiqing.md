@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Weiqing | Lose | B+¾ | 7.5 | 3610 | -7 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Mao Ruilong | Li Weiqing | Win | W+R | 7.5 | 3617 | -103 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | Win | W+R | 7.5 | 3720 | 8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Weiqing | Wang Shuo | Win | B+R | 7.5 | 3712 | 41 | 

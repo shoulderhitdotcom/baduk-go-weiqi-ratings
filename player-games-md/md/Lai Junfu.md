@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lu Yiquan | Win | B+R | 6.5 | 3277 | 3 | 
 | 2023-02-09 | 第15回海峰杯プロ囲碁戦3回戦 | Xu Yuqi | Lai Junfu | Win | W+R | 6.5 | 3274 | 6 | 
 | 2023-02-07 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lin Lixiang | Win | B+R | 6.5 | 3268 | 14 | 
 | 2023-02-02 | 第15回海峰杯プロ囲碁戦2回戦 | Yang Zixuan | Lai Junfu | Win | W+R | 6.5 | 3254 | -19 | 

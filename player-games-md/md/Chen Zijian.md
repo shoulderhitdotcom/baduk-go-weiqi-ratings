@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Zijian | Win | W+¼ | 7.5 | 3464 | 9 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Zijian | Jin Yucheng | Win | B+R | 7.5 | 3455 | 33 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Chen Zijian | Gu Lingyi | Lose | W+R | 7.5 | 3422 | -55 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Chen Zijian | Xie Ke | Lose | W+R | 7.5 | 3477 | -36 | 

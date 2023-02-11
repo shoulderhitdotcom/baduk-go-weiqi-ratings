@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Wang Xinghao | Win | W+R | 7.5 | 3634 | 1 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Xinghao | Win | W+R | 7.5 | 3633 | -63 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Tang Weixing | Win | B+¾ | 7.5 | 3696 | 8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Wang Chunhui | Win | B+1¾ | 7.5 | 3688 | 31 | 

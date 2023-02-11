@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Yang Kaiwen | Lose | B+R | 7.5 | 3598 | -8 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shi Yue | Yang Kaiwen | Lose | B+¾ | 7.5 | 3606 | -64 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3670 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Dang Yifei | Lose | W+1¼ | 7.5 | 3678 | 10 | 

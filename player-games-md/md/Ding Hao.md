@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Ding Hao | Win | W+¼ | 7.5 | 3692 | 2 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Yi Lingtao | Win | B+R | 7.5 | 3690 | 88 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Ding Hao | Liu Yuhang | Lose | W+R | 7.5 | 3602 | -19 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Xie Ke | Ding Hao | Win | W+R | 7.5 | 3621 | 19 | 

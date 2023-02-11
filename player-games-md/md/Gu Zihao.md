@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ（再対局） | Gu Zihao | Park Junghwan | Win | B+R | 7.5 | 3684 | 0 | 
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Park Junghwan | Lose | Void | 7.5 | 3684 | 5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Tao Xinran | Win | B+R | 7.5 | 3679 | 67 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Lose | W+R | 7.5 | 3612 | -6 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Gu Zihao | Win | W+R | 7.5 | 3618 | -36 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Shin Minjun | Lose | W+2¼ | 7.5 | 3439 | -5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Zijian | Jin Yucheng | Lose | B+R | 7.5 | 3444 | 151 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Haoxin | Jin Yucheng | Win | W+R | 7.5 | 3293 | 32 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Lian Xiao | Lose | W+R | 7.5 | 3261 | -114 | 

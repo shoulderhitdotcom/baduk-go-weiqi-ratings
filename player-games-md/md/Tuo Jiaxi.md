@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Tuo Jiaxi | Lose | B+R | 7.5 | 3588 | -5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | Tuo Jiaxi | Win | W+R | 7.5 | 3593 | -122 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Win | W+R | 7.5 | 3715 | 4 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Win | B+R | 7.5 | 3711 | 11 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | Ding Shixiong | Win | B+R | 7.5 | 3526 | 3 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | Tuo Jiaxi | Lose | W+R | 7.5 | 3523 | 13 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Zhang Tao | Lose | B+R | 7.5 | 3510 | -15 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Win | B+R | 7.5 | 3525 | 28 | 

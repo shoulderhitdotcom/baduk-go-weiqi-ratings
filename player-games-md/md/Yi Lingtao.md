@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Ding Hao | Lose | W+¼ | 7.5 | 3455 | -2 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Yi Lingtao | Lose | B+R | 7.5 | 3457 | 15 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Yi Lingtao | Win | W+R | 7.5 | 3442 | 76 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Ke Jie | Yi Lingtao | Lose | B+3¾ | 7.5 | 3366 | 8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Tan Xiao | Lose | W+R | 7.5 | 3519 | -3 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Xu Jiayang | Win | B+R | 7.5 | 3522 | 62 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Chen Yaoye | Win | B+¾ | 7.5 | 3460 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Win | W+R | 7.5 | 3448 | 26 | 

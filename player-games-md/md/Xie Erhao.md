@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Xie Erhao | Kang Dongyun | Win | B+R | 7.5 | 3560 | 5 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Shen Peiran | Xie Erhao | Win | W+R | 7.5 | 3555 | -96 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xie Erhao | Li Weiqing | Lose | W+R | 7.5 | 3651 | -8 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Xie Erhao | Lose | B+R | 7.5 | 3659 | -10 | 
@@ -28,16 +29,16 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Ding Hao | Xie Erhao | Win | W+R | 7.5 | 3441 | 20 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Xie Erhao | Xu Jiayang | Lose | W+¾ | 7.5 | 3421 | -19 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xie Erhao | Shi Yue | Win | B+R | 7.5 | 3440 | 16 | 
-| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xie Erhao |  | Win | B+R | 7.5 | 3424 | -2 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xie Erhao | Lose | B+R | 7.5 | 3426 | 46 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3380 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Xie Erhao | Wang Shuo | Win | B+R | 7.5 | 3380 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Park Junghwan | Xie Erhao | Win | W+R | 7.5 | 3380 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Xie Erhao | Shin Minjun | Lose | W+R | 7.5 | 3380 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Erhao | Lose | B+R | 7.5 | 3377 | -15 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Xie Erhao | Lee Jihyun | Win | B+R | 7.5 | 3392 | 30 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Win | W+R | 7.5 | 3362 | -48 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Lose | B+R | 7.5 | 3410 | -20 | 
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Xie Erhao |  | Win | B+R | 7.5 | 3424 | -1 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xie Erhao | Lose | B+R | 7.5 | 3425 | 46 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3379 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Xie Erhao | Wang Shuo | Win | B+R | 7.5 | 3379 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Park Junghwan | Xie Erhao | Win | W+R | 7.5 | 3379 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Xie Erhao | Shin Minjun | Lose | W+R | 7.5 | 3379 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Tingyu | Xie Erhao | Lose | B+R | 7.5 | 3376 | -15 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Xie Erhao | Lee Jihyun | Win | B+R | 7.5 | 3391 | 30 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Win | W+R | 7.5 | 3361 | -48 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Weiqing | Xie Erhao | Lose | B+R | 7.5 | 3409 | -21 | 
 | 2022-04-13 | 2022年アジア競技大会中国予選 | Li Xuanhao | Xie Erhao | Lose | B+R | 7.5 | 3430 | -31 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xie Erhao | Wang Haoyang | Lose | W+R | 7.5 | 3461 | -30 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | Win | W+1¼ | 7.5 | 3491 | 8 | 
@@ -52,9 +53,9 @@
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Lose | W+R | 7.5 | 3520 | -10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | Win | B+¾ | 7.5 | 3530 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xie Erhao | Ke Jie | Lose | W+¼ | 7.5 | 3526 | -14 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Lose | B+¾ | 7.5 | 3540 | -19 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Lose | B+¾ | 7.5 | 3559 | -7 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3566 | 20 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Lose | B+¾ | 7.5 | 3540 | -18 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Lose | B+¾ | 7.5 | 3558 | -7 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3565 | 19 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Lose | B+R | 7.5 | 3546 | -42 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3588 | 22 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3566 | 8 | 
@@ -105,8 +106,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Han Yizhou | Xie Erhao | Win | W+R | 7.5 | 3422 | -22 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Cao Xiaoyang | Xie Erhao | Lose | B+R | 7.5 | 3444 | -35 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3479 | -46 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Xie Erhao | Meng Tailing | Win | B+R | 7.5 | 3525 | -17 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3542 | 6 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Xie Erhao | Meng Tailing | Win | B+R | 7.5 | 3525 | -16 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3541 | 5 | 
 | 2020-08-21 | 第21回農心辛ラーメン杯世界囲碁最強戦第13戦 | Xie Erhao | Park Junghwan | Lose | W+1.5 | 6.5 | 3536 | -130 | 
 | 2020-05-19 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Fan Tingyu | Xie Erhao | Win | W+R | 7.5 | 3666 | 56 | 
 | 2020-04-11 | 第25回LG杯中国予選 | Xie Erhao | Li Xuanhao | Lose | W+R | 6.5 | 3610 | missing |

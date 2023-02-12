@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Dang Yifei | Lose | B+R | 7.5 | 3612 | -6 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shi Yue | Win | B+R | 7.5 | 3618 | 19 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ |  | Dang Yifei | Win | W+R | 7.5 | 3599 | 9 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Dang Yifei | Win | W+1¼ | 7.5 | 3590 | 15 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | He Yuhan | Dang Yifei | Lose | B+R | 7.5 | 3575 | -23 | 
-| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Wang Xinghao | Dang Yifei | Lose | B+R | 7.5 | 3598 | -67 | 
-| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Dang Yifei | Byun Sangil | Lose | W+0.5 | 6.5 | 3665 | 12 | 
+| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Wang Xinghao | Dang Yifei | Lose | B+R | 7.5 | 3598 | -66 | 
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Dang Yifei | Byun Sangil | Lose | W+0.5 | 6.5 | 3664 | 11 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Jiang Weijie | Dang Yifei | Win | W+R | 7.5 | 3653 | 6 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Shi Yue | Dang Yifei | Win | W+2¼ | 7.5 | 3647 | 32 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Dang Yifei | Tong Mengcheng | Lose | W+R | 7.5 | 3615 | 3 | 
@@ -21,21 +22,21 @@
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+R | 7.5 | 3615 | -4 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Dang Yifei | Win | W+R | 7.5 | 3619 | -2 | 
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Dang Yifei | Lose | B+R | 7.5 | 3621 | 22 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Dang Yifei | Win | W+R | 7.5 | 3599 | -13 | 
-| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Zheng Zaixiang | Dang Yifei | Lose | B+R | 7.5 | 3612 | -37 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Dang Yifei | Win | W+R | 7.5 | 3649 | 69 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Dang Yifei | Shin Jinseo | Lose | W+R | 7.5 | 3580 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | Win | B+R | 7.5 | 3580 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ  | Iyama Yuta | Dang Yifei | Win | W+R | 7.5 | 3580 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Dang Yifei | Win | W+1¼ | 7.5 | 3580 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Lose | B+¾ | 7.5 | 3577 | -32 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Shuo | Dang Yifei | Win | W+R | 7.5 | 3609 | 21 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Dang Yifei | Ke Jie | Win | B+R | 7.5 | 3588 | 10 | 
-| 2022-06-18 | 第21回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | Lose | B+¾ | 7.5 | 3578 | -15 | 
-| 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3593 | -9 | 
-| 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3602 | 21 | 
-| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Dang Yifei | Liao Yuanhe | Win | B+R | 7.5 | 3581 | 11 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhao Chenyu | Dang Yifei | Win | W+¼ | 7.5 | 3570 | 0 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Dang Yifei | Win | W+R | 7.5 | 3599 | -12 | 
+| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Zheng Zaixiang | Dang Yifei | Lose | B+R | 7.5 | 3611 | -37 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Dang Yifei | Win | W+R | 7.5 | 3648 | 69 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Dang Yifei | Shin Jinseo | Lose | W+R | 7.5 | 3579 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | Win | B+R | 7.5 | 3579 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ  | Iyama Yuta | Dang Yifei | Win | W+R | 7.5 | 3579 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Dang Yifei | Win | W+1¼ | 7.5 | 3579 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Lose | B+¾ | 7.5 | 3576 | -32 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Shuo | Dang Yifei | Win | W+R | 7.5 | 3608 | 21 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Dang Yifei | Ke Jie | Win | B+R | 7.5 | 3587 | 9 | 
+| 2022-06-18 | 第21回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | Lose | B+¾ | 7.5 | 3578 | -14 | 
+| 2022-04-27 | 第9回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3592 | -9 | 
+| 2022-04-26 | 第9回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3601 | 21 | 
+| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Dang Yifei | Liao Yuanhe | Win | B+R | 7.5 | 3580 | 11 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhao Chenyu | Dang Yifei | Win | W+¼ | 7.5 | 3569 | -1 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Peng Liyao | Dang Yifei | Lose | B+R | 7.5 | 3570 | -31 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Chen Xian | Dang Yifei | Win | W+1¼ | 7.5 | 3601 | -2 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 3603 | 5 | 
@@ -52,9 +53,9 @@
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | Win | W+R | 6.5 | 3610 | 10 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Dang Yifei | Win | W+R | 7.5 | 3600 | -5 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | Win | W+R | 7.5 | 3605 | 4 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Lose | W+R | 7.5 | 3601 | -15 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Win | W+R | 7.5 | 3616 | 0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Win | W+R | 7.5 | 3616 | 1 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Lose | W+R | 7.5 | 3601 | -14 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Win | W+R | 7.5 | 3615 | 0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Win | W+R | 7.5 | 3615 | 0 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Dang Yifei | Jiang Weijie | Lose | W+R | 7.5 | 3615 | -12 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3627 | 45 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chang Hao | Lose | W+¼ | 7.5 | 3582 | 1 | 
@@ -107,8 +108,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Dang Yifei | Tu Xiaoyu | Lose | W+R | 7.5 | 3297 | -10 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Ding Shixiong | Dang Yifei | Win | W+¼ | 7.5 | 3307 | 31 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Cao Xiaoyang | Dang Yifei | Lose | B+R | 7.5 | 3276 | -51 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Peng Liyao | Dang Yifei | Win | W+R | 7.5 | 3327 | -11 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Dang Yifei | Huang Jingyuan | Win | B+2¾ | 7.5 | 3338 | -103 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Peng Liyao | Dang Yifei | Win | W+R | 7.5 | 3327 | -10 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Dang Yifei | Huang Jingyuan | Win | B+2¾ | 7.5 | 3337 | -104 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Dang Yifei | Li Xuanhao | Lose | W+R | 7.5 | 3441 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | Kou Zhengyan | Dang Yifei | Win | W+R | 7.5 | 3441 | -115 | 
 | 2020-04-17 | 第25回LG杯中国予選決勝 | Dang Yifei | Li Xuanhao | Lose | W+R | 6.5 | 3556 | 4 | 

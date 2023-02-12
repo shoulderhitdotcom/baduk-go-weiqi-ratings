@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Kim Myounghoon | Ding Hao | Win | B+R | 7.5 | 3568 | 6 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Kim Myounghoon | Jin Yucheng | Win | B+¾ | 7.5 | 3562 | 3 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Han Seungjoo | Kim Myounghoon | Win | W+F | 6.5 | 3559 | 0 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Cho Hanseung | Win | B+1.5 | 6.5 | 3559 | -29 | 
@@ -26,39 +27,39 @@
 | 2023-01-03 | 第24期マキシムコーヒー杯入神最強戦1回戦 | Oh Yujin | Kim Myounghoon | Win | W+R | 6.5 | 3553 | 0 | 
 | 2022-12-28 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Lose | B+R | 6.5 | 3553 | 4 | 
 | 2022-12-08 | 第28回GSカルテックス杯プロ棋戦予選 | Choi Jeong | Kim Myounghoon | Lose | B+R | 6.5 | 3549 | 21 | 
-| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kim Myounghoon | Ding Hao | Lose | W+2.5 | 6.5 | 3528 | -4 | 
-| 2022-11-05 | 第27回三星火災杯世界囲碁マスターズ準決勝 | Shin Jinseo | Kim Myounghoon | Lose | B+R | 6.5 | 3532 | -14 | 
-| 2022-11-02 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Kim Jiseok | Kim Myounghoon | Win | W+R | 6.5 | 3546 | 0 | 
-| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Win | W+0.5 | 6.5 | 3546 | 0 | 
-| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Kim Myounghoon | Win | W+R | 6.5 | 3546 | 12 | 
+| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kim Myounghoon | Ding Hao | Lose | W+2.5 | 6.5 | 3528 | -3 | 
+| 2022-11-05 | 第27回三星火災杯世界囲碁マスターズ準決勝 | Shin Jinseo | Kim Myounghoon | Lose | B+R | 6.5 | 3531 | -14 | 
+| 2022-11-02 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Kim Jiseok | Kim Myounghoon | Win | W+R | 6.5 | 3545 | 0 | 
+| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Win | W+0.5 | 6.5 | 3545 | 0 | 
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Kim Myounghoon | Win | W+R | 6.5 | 3545 | 11 | 
 | 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | An Sungjoon | Kim Myounghoon | Lose | B+R | 7.5 | 3534 | 43 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Myounghoon | Baek Hyeonwoo | Win | B+R | 6.5 | 3491 | 0 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Shi Yue | Kim Myounghoon | Lose | B+2¾ | 7.5 | 3491 | -1 | 
 | 2022-08-29 | 第27回三星火災杯韓国予選 | Kang Yootaek | Kim Myounghoon | Win | W+R | 6.5 | 3492 | 1 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Kim Myounghoon |  | Win | B+1¾ | 7.5 | 3491 | -20 | 
-| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Zhao Chenyu | Kim Myounghoon | Lose | B+R | 6.5 | 3511 | -10 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Dang Yifei | Lose | W+R | 7.5 | 3521 | -15 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Kim Myounghoon | Lose | B+R | 7.5 | 3536 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Yang Dingxin | Lose | W+R | 7.5 | 3536 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Huang Mingyu | Win | B+R | 7.5 | 3536 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Tuo Jiaxi | Lose | W+¼ | 7.5 | 3536 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | Win | W+R | 7.5 | 3532 | -1 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Lose | W+R | 7.5 | 3533 | -9 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Lose | B+1¾ | 7.5 | 3542 | -7 | 
+| 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Zhao Chenyu | Kim Myounghoon | Lose | B+R | 6.5 | 3511 | -9 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Dang Yifei | Lose | W+R | 7.5 | 3520 | -15 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Kim Myounghoon | Lose | B+R | 7.5 | 3535 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Yang Dingxin | Lose | W+R | 7.5 | 3535 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Huang Mingyu | Win | B+R | 7.5 | 3535 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Tuo Jiaxi | Lose | W+¼ | 7.5 | 3535 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Mi Yuting | Kim Myounghoon | Win | W+R | 7.5 | 3531 | -1 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Gu Zihao | Lose | W+R | 7.5 | 3532 | -9 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Lose | B+1¾ | 7.5 | 3541 | -8 | 
 | 2022-07-06 | 2022YK建機杯リーグ | Kim Myounghoon | Han Woojin | Win | B+R | 6.5 | 3549 | -2 | 
 | 2022-07-04 | 2022YK建機杯リーグ | Park Junghwan | Kim Myounghoon | Lose | B+R | 6.5 | 3551 | -9 | 
 | 2022-06-30 | 第27回GSカルテックス杯プロ棋戦3回戦 | Park Junghwan | Kim Myounghoon | Lose | B+5.5 | 6.5 | 3560 | -10 | 
 | 2022-06-28 | 2022YK建機杯リーグ | Kim Myounghoon | Kim Sedong | Win | B+R | 6.5 | 3570 | -5 | 
 | 2022-06-23 | 第5期韓国竜星戦準決勝 | Shin Jinseo | Kim Myounghoon | Lose | B+R | 6.5 | 3575 | 6 | 
-| 2022-06-08 | 2022YK建機杯リーグ | Kim Myounghoon | Ryu Minhyung | Lose | W+2.5 | 6.5 | 3569 | -20 | 
-| 2022-06-03 | 第27回GSカルテックス杯プロ棋戦2回戦 | Kim Myounghoon | Kang Yootaek | Win | B+R | 6.5 | 3589 | 14 | 
-| 2022-06-01 | 第27回LG杯朝鮮日報棋王戦2回戦 | Kim Myounghoon | Byun Sangil | Win | B+R | 6.5 | 3575 | 26 | 
+| 2022-06-08 | 2022YK建機杯リーグ | Kim Myounghoon | Ryu Minhyung | Lose | W+2.5 | 6.5 | 3569 | -19 | 
+| 2022-06-03 | 第27回GSカルテックス杯プロ棋戦2回戦 | Kim Myounghoon | Kang Yootaek | Win | B+R | 6.5 | 3588 | 14 | 
+| 2022-06-01 | 第27回LG杯朝鮮日報棋王戦2回戦 | Kim Myounghoon | Byun Sangil | Win | B+R | 6.5 | 3574 | 25 | 
 | 2022-05-30 | 第27回LG杯朝鮮日報棋王戦1回戦 | Seol Hyunjun | Kim Myounghoon | Win | W+R | 6.5 | 3549 | -2 | 
 | 2022-05-21 | 第5期韓国竜星戦3回戦 | Kim Myounghoon | Weon Seongjin | Win | B+R | 6.5 | 3551 | 6 | 
 | 2022-05-17 | 2022YK建機杯リーグ | Shin Jinseo | Kim Myounghoon | Win | W+R | 6.5 | 3545 | 18 | 
 | 2022-05-02 | 2022YK建機杯リーグ | Weon Seongjin | Kim Myounghoon | Win | W+R | 6.5 | 3527 | 13 | 
-| 2022-04-11 | 2022YK建機杯リーグ | Kim Myounghoon | Kang Dongyun | Lose | W+R | 6.5 | 3514 | -22 | 
-| 2022-03-29 | 2022YK建機杯リーグ | Lee Jihyun | Kim Myounghoon | Win | W+R | 6.5 | 3536 | 7 | 
+| 2022-04-11 | 2022YK建機杯リーグ | Kim Myounghoon | Kang Dongyun | Lose | W+R | 6.5 | 3514 | -21 | 
+| 2022-03-29 | 2022YK建機杯リーグ | Lee Jihyun | Kim Myounghoon | Win | W+R | 6.5 | 3535 | 6 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Kim Myounghoon | Ke Jie | Lose | W+R | 7.5 | 3529 | 0 | 
 | 2022-03-24 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Win | W+R | 6.5 | 3529 | -9 | 
 | 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Kim Myounghoon | Shi Yue | Win | B+R | 7.5 | 3538 | 18 | 
@@ -98,8 +99,8 @@
 | 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Win | B+4.5 | 6.5 | 3382 | 17 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Kim Myounghoon |  | Win | B+R | 6.5 | 3365 | 25 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Yun Junsang | Win | B+R | 6.5 | 3340 | 9 | 
-| 2021-02-21 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Win | W+R | 6.5 | 3331 | 45 | 
-| 2021-02-13 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Geunho | Win | B+R | 6.5 | 3286 | 47 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Win | W+R | 6.5 | 3331 | 46 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Geunho | Win | B+R | 6.5 | 3285 | 46 | 
 | 2021-02-05 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Kim Myounghoon | Lose | B+R | 6.5 | 3239 | 15 | 
 | 2021-01-29 | 2020-2021韓国囲碁リーグ | Gon Jiwoo | Kim Myounghoon | Win | W+R | 6.5 | 3224 | 20 | 
 | 2021-01-21 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Kim Myounghoon | Win | W+R | 6.5 | 3204 | -18 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | Lose | B+R | 7.5 | 3649 | -6 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tong Mengcheng | Win | B+¾ | 7.5 | 3655 | 19 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Yang Dingxin | Win | W+R | 7.5 | 3636 | 3 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Ke Jie | Win | B+R | 7.5 | 3633 | 8 | 
@@ -15,10 +16,10 @@
 | 2023-01-30 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Ding Hao | Lose | W+R | 6.5 | 3618 | 17 | 
 | 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Yang Dingxin | Li Xuanhao | Lose | W+R | 7.5 | 3601 | 27 | 
 | 2022-11-16 | 第27回LG杯朝鮮日報棋王戦準決勝 | Shin Jinseo | Yang Dingxin | Win | W+R | 6.5 | 3574 | -2 | 
-| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦  | Shibano Toramaru | Yang Dingxin | Win | W+R | 6.5 | 3576 | -51 | 
-| 2022-11-03 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Choi Jeong | Yang Dingxin | Lose | B+R | 6.5 | 3627 | 0 | 
-| 2022-11-01 | 第27回三星火災杯世界囲碁マスターズ2回戦  | Hsu Chiayuan | Yang Dingxin | Win | W+R | 6.5 | 3627 | 0 | 
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Yang Dingxin | Shin Minjun | Win | B+R | 6.5 | 3627 | 28 | 
+| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦  | Shibano Toramaru | Yang Dingxin | Win | W+R | 6.5 | 3576 | -50 | 
+| 2022-11-03 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Choi Jeong | Yang Dingxin | Lose | B+R | 6.5 | 3626 | 0 | 
+| 2022-11-01 | 第27回三星火災杯世界囲碁マスターズ2回戦  | Hsu Chiayuan | Yang Dingxin | Win | W+R | 6.5 | 3626 | 0 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Yang Dingxin | Shin Minjun | Win | B+R | 6.5 | 3626 | 27 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Yang Kaiwen | Yang Dingxin | Lose | B+R | 7.5 | 3599 | -5 | 
 | 2022-10-08 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Yang Dingxin | Tong Mengcheng | Win | B+R | 7.5 | 3604 | 31 | 
 | 2022-09-30 | 第23期阿含・桐山杯中国早碁戦1回戦 | Li Qincheng | Yang Dingxin | Lose | B+R | 7.5 | 3573 | -15 | 
@@ -26,23 +27,23 @@
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Yang Dingxin | Lose | B+¾ | 7.5 | 3586 | -5 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Yang Dingxin | Win | W+R | 7.5 | 3591 | 17 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Win | W+R | 7.5 | 3574 | 0 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Wang Xinghao | Lose | W+R | 7.5 | 3574 | -31 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Chen Yunong | Win | B+R | 7.5 | 3605 | 32 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Chen Xian | Yang Dingxin | Lose | B+R | 7.5 | 3573 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Yang Dingxin | Win | W+R | 7.5 | 3573 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Dingxin | Win | W+R | 7.5 | 3573 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3573 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xu Jiayang | Win | B+¾ | 7.5 | 3570 | -4 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Yang Dingxin | Win | W+R | 7.5 | 3574 | 11 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 3563 | -13 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Wang Xinghao | Lose | W+R | 7.5 | 3574 | -30 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Chen Yunong | Win | B+R | 7.5 | 3604 | 32 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Chen Xian | Yang Dingxin | Lose | B+R | 7.5 | 3572 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Yang Dingxin | Win | W+R | 7.5 | 3572 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Dingxin | Win | W+R | 7.5 | 3572 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3572 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xu Jiayang | Win | B+¾ | 7.5 | 3569 | -4 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ  | Xu Haohong | Yang Dingxin | Win | W+R | 7.5 | 3573 | 11 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 3562 | -14 | 
 | 2022-07-14 | 第24回農心杯中国予選 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 6.5 | 3576 | -5 | 
 | 2022-06-19 | 第21回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3581 | -5 | 
 | 2022-06-18 | 第21回西南棋王戦2回戦 | Chen Zijian | Yang Dingxin | Win | W+R | 7.5 | 3586 | 0 | 
-| 2022-06-18 | 第21回西南棋王戦1回戦 | Yang Dingxin | Shi Yulai | Win | B+R | 7.5 | 3586 | -6 | 
-| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Jinsol | Yang Dingxin | Win | W+R | 6.5 | 3592 | 1 | 
-| 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 3591 | -35 | 
-| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Wang Xinghao | Yang Dingxin | Lose | B+R | 7.5 | 3626 | -11 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Win | W+R | 7.5 | 3637 | -7 | 
+| 2022-06-18 | 第21回西南棋王戦1回戦 | Yang Dingxin | Shi Yulai | Win | B+R | 7.5 | 3586 | -5 | 
+| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Park Jinsol | Yang Dingxin | Win | W+R | 6.5 | 3591 | 0 | 
+| 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 3591 | -34 | 
+| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Wang Xinghao | Yang Dingxin | Lose | B+R | 7.5 | 3625 | -11 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Win | W+R | 7.5 | 3636 | -8 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3644 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Yang Dingxin | Fan Tingyu | Lose | W+R | 7.5 | 3644 | 1 | 
 | 2022-04-16 | 2022年アジア競技大会中国予選 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 3643 | 8 | 
@@ -74,9 +75,9 @@
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 3669 | -6 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Hu Yuhan | Lose | W+R | 7.5 | 3675 | -15 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Win | W+R | 7.5 | 3690 | -3 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | Win | B+R | 7.5 | 3693 | -1 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3694 | 1 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3693 | 41 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | Win | B+R | 7.5 | 3693 | 0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3693 | 1 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3692 | 40 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Lose | B+R | 7.5 | 3652 | 6 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 3646 | 1 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | Lose | B+R | 6.5 | 3645 | -1 | 
@@ -145,8 +146,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Win | W+2¼ | 7.5 | 3599 | -12 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3611 | -20 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Li Chengsen | Yang Dingxin | Win | W+R | 7.5 | 3631 | -5 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Dingxin | Shin Minjun | Win | B+R | 7.5 | 3636 | -33 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3669 | -39 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Dingxin | Shin Minjun | Win | B+R | 7.5 | 3636 | -32 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3668 | -40 | 
 | 2020-08-03 | 第11期中国竜星戦Bブロック10回戦 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3708 | -30 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Byun Sangil | Lose | W+R | 7.5 | 3738 | 25 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 3713 | -24 | 

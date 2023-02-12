@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Xia Chenkun | Win | B+R | 7.5 | 3531 | 4 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Byun Sangil | Win | B+R | 7.5 | 3527 | 44 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Byun Sangil | Fan Yin | Lose | B+¾ | 7.5 | 3483 | -16 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Yin | Tan Xiao | Lose | W+R | 7.5 | 3499 | -24 | 
@@ -18,16 +19,16 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Tao Xinran | Fan Yin | Win | W+R | 7.5 | 3532 | -21 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Fan Yin | Lose | B+R | 7.5 | 3553 | -38 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fan Yin | Cao Xiaoyang | Lose | W+R | 7.5 | 3591 | -14 | 
-| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fan Yin | Chen Yunong | Win | B+R | 7.5 | 3605 | 8 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fan Yin | Fan Tingyu | Lose | W+R | 7.5 | 3597 | 37 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fan Yin | Cao Xiaoyang | Win | B+R | 7.5 | 3560 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Win | W+R | 7.5 | 3560 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Fan Yin | Wang Xinghao | Lose | W+R | 7.5 | 3560 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Fan Yin | Win | W+¼ | 7.5 | 3560 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Yin | Huang Yunsong | Lose | W+R | 7.5 | 3557 | -22 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Win | W+R | 7.5 | 3579 | 17 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Fan Yin | Lian Xiao | Win | B+R | 7.5 | 3562 | 51 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Xu Jiayang | Lose | W+R | 7.5 | 3511 | 8 | 
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fan Yin | Chen Yunong | Win | B+R | 7.5 | 3605 | 9 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Fan Yin | Fan Tingyu | Lose | W+R | 7.5 | 3596 | 37 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Fan Yin | Cao Xiaoyang | Win | B+R | 7.5 | 3559 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Win | W+R | 7.5 | 3559 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Fan Yin | Wang Xinghao | Lose | W+R | 7.5 | 3559 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Kim Jiseok | Fan Yin | Win | W+¼ | 7.5 | 3559 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Fan Yin | Huang Yunsong | Lose | W+R | 7.5 | 3556 | -22 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Peng Liyao | Fan Yin | Win | W+R | 7.5 | 3578 | 17 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Fan Yin | Lian Xiao | Win | B+R | 7.5 | 3561 | 51 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Xu Jiayang | Lose | W+R | 7.5 | 3510 | 7 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Fan Yin | Xie Ke | Lose | W+R | 7.5 | 3503 | -14 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Fan Yin | Yang Dingxin | Win | B+R | 7.5 | 3517 | 5 | 
 | 2022-02-14 | 第36期中国囲碁天元戦予選 | Yu Zhiying | Fan Yin | Win | W+R | 7.5 | 3512 | -2 | 
@@ -43,9 +44,9 @@
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Fan Yin | Li Qincheng | Win | B+R | 7.5 | 3491 | 16 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Fan Yin | Xu Haohong | Win | B+R | 7.5 | 3475 | 5 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Lose | W+R | 7.5 | 3470 | -13 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Yin | Win | W+R | 7.5 | 3483 | 7 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Yin | Yang Kaiwen | Lose | W+¼ | 7.5 | 3476 | 2 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Win | B+R | 7.5 | 3474 | -20 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Yin | Win | W+R | 7.5 | 3483 | 8 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Yin | Yang Kaiwen | Lose | W+¼ | 7.5 | 3475 | 2 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Win | B+R | 7.5 | 3473 | -21 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Lose | W+2¼ | 7.5 | 3494 | -13 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3507 | 27 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Win | B+4¾ | 7.5 | 3480 | 16 | 
@@ -86,8 +87,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Gu Lingyi | Fan Yin | Lose | B+R | 7.5 | 3291 | -57 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Fan Yin | Jiang Weijie | Lose | W+R | 7.5 | 3348 | -23 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Fan Yin | Li Zhe | Win | B+R | 7.5 | 3371 | 11 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | Win | W+1¼ | 7.5 | 3360 | -18 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | Lose | W+R | 7.5 | 3378 | -160 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | Win | W+1¼ | 7.5 | 3360 | -17 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | Lose | W+R | 7.5 | 3377 | -161 | 
 | 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Lose | B+R | 7.5 | 3538 | -18 | 
 | 2020-04-13 | 第25回LG杯中国予選 | Fan Yin | Fan Yunruo | Lose | W+3.5 | 6.5 | 3556 | -40 | 
 | 2020-01-04 | 第11期中国竜星戦Aブロック7回戦 | Fan Yin | Jiang Weijie | Win | B+R | 7.5 | 3596 | 0 | 

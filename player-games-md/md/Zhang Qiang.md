@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Tang Weixing | Lose | W+R | 7.5 | 3130 | -21 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Chen Zhengxun | Win | B+R | 7.5 | 3151 | 228 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Wang Xinghao | Lose | W+R | 7.5 | 2923 | -42 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Lose | W+R | 7.5 | 2965 | -81 | 
@@ -22,8 +23,8 @@
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Ding Shixiong | Win | B+R | 7.5 | 3022 | 180 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Wang Shiyi | Lose | W+R | 7.5 | 2842 | 172 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Zhang Qiang | Fan Yin | Lose | W+¼ | 7.5 | 2670 | -30 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Mingyu | Zhang Qiang | Lose | B+R | 7.5 | 2700 | -32 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Qirun | Zhang Qiang | Win | W+¼ | 7.5 | 2732 | missing |
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Mingyu | Zhang Qiang | Lose | B+R | 7.5 | 2700 | -31 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Jiang Qirun | Zhang Qiang | Win | W+¼ | 7.5 | 2731 | missing |
 
 
 

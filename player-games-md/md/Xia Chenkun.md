@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Xia Chenkun | Lose | B+R | 7.5 | 3409 | -8 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Liu Yuhang | Lose | W+R | 7.5 | 3417 | -9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Zijian | Lose | W+¼ | 7.5 | 3426 | -5 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Shin Minjun | Xia Chenkun | Lose | B+R | 7.5 | 3431 | 60 | 
@@ -17,13 +18,13 @@
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xia Chenkun | Win | W+R | 7.5 | 3346 | 34 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Huang Xin | Xia Chenkun | Win | W+R | 7.5 | 3312 | 13 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Xia Chenkun | Lose | B+1¾ | 7.5 | 3299 | -19 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Shuo | Xia Chenkun | Win | W+R | 7.5 | 3318 | -13 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Liao Yuanhe | Lose | W+R | 7.5 | 3331 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Xia Chenkun | Lose | B+R | 7.5 | 3331 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Lose | B+R | 7.5 | 3331 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Wang Chuxuan | Win | B+R | 7.5 | 3327 | 24 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Xia Chenkun | Win | W+R | 7.5 | 3303 | 38 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Huang Yunsong | Win | B+R | 7.5 | 3265 | -139 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Shuo | Xia Chenkun | Win | W+R | 7.5 | 3318 | -12 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Liao Yuanhe | Lose | W+R | 7.5 | 3330 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Shiyi | Xia Chenkun | Lose | B+R | 7.5 | 3330 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Lose | B+R | 7.5 | 3330 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Wang Chuxuan | Win | B+R | 7.5 | 3326 | 24 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Xia Chenkun | Win | W+R | 7.5 | 3302 | 38 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Huang Yunsong | Win | B+R | 7.5 | 3264 | -140 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 3404 | -20 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3424 | -19 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3443 | -16 | 
@@ -35,9 +36,9 @@
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Lose | B+R | 7.5 | 3477 | 35 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Lose | B+R | 7.5 | 3442 | -23 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Win | B+¾ | 7.5 | 3465 | 22 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3443 | 12 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Lose | B+R | 7.5 | 3431 | -13 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3444 | 104 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3443 | 13 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Lose | B+R | 7.5 | 3430 | -13 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3443 | 103 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3340 | 16 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | W+R | 7.5 | 3324 | 31 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | W+R | 7.5 | 3293 | 32 | 
@@ -65,8 +66,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Wang Shiyi | Xia Chenkun | Lose | B+¾ | 7.5 | 3437 | -47 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Rong Yi | Xia Chenkun | Lose | B+R | 7.5 | 3484 | -64 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xia Chenkun | Mi Yuting | Lose | W+R | 7.5 | 3548 | 8 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+R | 7.5 | 3540 | 1 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Win | W+R | 7.5 | 3539 | missing |
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+R | 7.5 | 3540 | 2 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Win | W+R | 7.5 | 3538 | missing |
 
 
 

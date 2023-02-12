@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Xuanhao | Lose | W+R | 7.5 | 3465 | -3 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tong Mengcheng | Lose | B+¾ | 7.5 | 3468 | -2 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tong Mengcheng | Lose | B+R | 7.5 | 3470 | -4 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Ding Shixiong | Lose | W+R | 7.5 | 3474 | 39 | 
@@ -23,17 +24,17 @@
 | 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tong Mengcheng | Win | W+R | 7.5 | 3440 | 14 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Byun Sangil | Tong Mengcheng | Lose | B+R | 7.5 | 3426 | -17 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Peng Liyao | Win | B+R | 7.5 | 3443 | 60 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Tang Weixing | Lose | W+R | 7.5 | 3383 | -29 | 
-| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tong Mengcheng | Chen Yunong | Lose | W+R | 7.5 | 3412 | -5 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Ye Changxin | Tong Mengcheng | Lose | B+R | 7.5 | 3417 | 2 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Shi Yue | Lose | W+R | 7.5 | 3415 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Tong Mengcheng | Win | W+R | 7.5 | 3415 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Tong Mengcheng | Lose | B+R | 7.5 | 3415 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Fu Jianheng | Win | B+R | 7.5 | 3411 | -3 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Tong Mengcheng | Win | W+R | 7.5 | 3414 | 15 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Jiang Qirun | Lose | W+R | 7.5 | 3399 | -75 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Wang Xinghao | Tong Mengcheng | Lose | B+R | 7.5 | 3474 | -5 | 
-| 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | Lose | W+R | 6.5 | 3479 | -12 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Tang Weixing | Lose | W+R | 7.5 | 3383 | -28 | 
+| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tong Mengcheng | Chen Yunong | Lose | W+R | 7.5 | 3411 | -5 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Ye Changxin | Tong Mengcheng | Lose | B+R | 7.5 | 3416 | 2 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Shi Yue | Lose | W+R | 7.5 | 3414 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Chen Zijian | Tong Mengcheng | Win | W+R | 7.5 | 3414 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Tong Mengcheng | Lose | B+R | 7.5 | 3414 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Fu Jianheng | Win | B+R | 7.5 | 3410 | -3 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | Tong Mengcheng | Win | W+R | 7.5 | 3413 | 15 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Tong Mengcheng | Jiang Qirun | Lose | W+R | 7.5 | 3398 | -75 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Wang Xinghao | Tong Mengcheng | Lose | B+R | 7.5 | 3473 | -5 | 
+| 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | Lose | W+R | 6.5 | 3478 | -13 | 
 | 2022-02-14 | 第36期中国囲碁天元戦予選 | Tong Mengcheng | Peng Liyao | Win | B+1¾ | 7.5 | 3491 | -14 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Xie Erhao | Tong Mengcheng | Lose | B+R | 7.5 | 3505 | -4 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Li Chengsen | Tong Mengcheng | Win | W+R | 7.5 | 3509 | 4 | 
@@ -49,9 +50,9 @@
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3444 | -12 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Win | B+R | 7.5 | 3456 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3452 | -10 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3462 | -8 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3470 | -1 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Win | W+R | 7.5 | 3471 | 5 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3462 | -7 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3469 | -1 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Win | W+R | 7.5 | 3470 | 4 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Zhang Tao | Win | B+¾ | 7.5 | 3466 | 11 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Lose | B+R | 7.5 | 3455 | -10 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tong Mengcheng | Wu Guangya | Lose | W+R | 6.5 | 3465 | -9 | 
@@ -104,8 +105,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Gu Zihao | Tong Mengcheng | Lose | B+R | 7.5 | 3534 | -17 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tong Mengcheng | Wang Shiyi | Win | B+R | 7.5 | 3551 | 10 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Shin Minjun | Tong Mengcheng | Lose | B+R | 7.5 | 3541 | -37 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Zhao Chenyu | Win | B+¾ | 7.5 | 3578 | -2 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Yaoye | Tong Mengcheng | Win | W+¼ | 7.5 | 3580 | -7 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Zhao Chenyu | Win | B+¾ | 7.5 | 3578 | -1 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Yaoye | Tong Mengcheng | Win | W+¼ | 7.5 | 3579 | -8 | 
 | 2020-04-10 | 第25回LG杯中国予選 | Tong Mengcheng | Dang Yifei | Lose | W+R | 6.5 | 3587 | -11 | 
 | 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Li Xuanhao | Tong Mengcheng | Lose | B+¾ | 7.5 | 3598 | -4 | 
 | 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Tong Mengcheng | Chen Yaoye | Win | B+R | 7.5 | 3602 | missing |

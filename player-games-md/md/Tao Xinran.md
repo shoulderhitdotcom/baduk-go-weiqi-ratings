@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Lose | W+R | 7.5 | 3485 | -7 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Win | B+R | 7.5 | 3492 | 9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Yang Kaiwen | Win | B+R | 7.5 | 3483 | 10 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Gu Zihao | Tao Xinran | Lose | B+R | 7.5 | 3473 | -53 | 
@@ -23,13 +24,13 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Tao Xinran | Fan Yin | Lose | W+R | 7.5 | 3446 | -5 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Tao Xinran | Xie Ke | Win | B+R | 7.5 | 3451 | 7 | 
 | 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Shen Peiran | Tao Xinran | Win | W+R | 7.5 | 3444 | 29 | 
-| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tu Xiaoyu | Tao Xinran | Win | W+R | 7.5 | 3415 | 107 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tao Xinran | Kang Dongyun | Lose | W+1¼ | 7.5 | 3308 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Tao Xinran | Win | W+R | 7.5 | 3308 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tao Xinran | Cheng Jiaye | Win | B+R | 7.5 | 3308 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tao Xinran | Peng Liyao | Win | B+R | 7.5 | 3305 | 35 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Tao Xinran | Liao Yuanhe | Lose | W+R | 7.5 | 3270 | -144 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tao Xinran | Chen Yaoye | Lose | W+R | 7.5 | 3414 | 7 | 
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tu Xiaoyu | Tao Xinran | Win | W+R | 7.5 | 3415 | 108 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tao Xinran | Kang Dongyun | Lose | W+1¼ | 7.5 | 3307 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Tao Xinran | Win | W+R | 7.5 | 3307 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tao Xinran | Cheng Jiaye | Win | B+R | 7.5 | 3307 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tao Xinran | Peng Liyao | Win | B+R | 7.5 | 3304 | 35 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Tao Xinran | Liao Yuanhe | Lose | W+R | 7.5 | 3269 | -144 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tao Xinran | Chen Yaoye | Lose | W+R | 7.5 | 3413 | 6 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Li Weiqing | Tao Xinran | Lose | B+5¾ | 7.5 | 3407 | -19 | 
 | 2022-02-15 | 第36期中国囲碁天元戦予選 | Tao Xinran | Zhou Ruiyang | Win | B+R | 7.5 | 3426 | -3 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tao Xinran | Huang Yunsong | Lose | W+R | 7.5 | 3429 | -6 | 
@@ -41,9 +42,9 @@
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Win | W+R | 7.5 | 3518 | 8 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Lose | B+R | 7.5 | 3510 | -10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Lose | W+R | 7.5 | 3520 | -7 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3527 | -11 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tao Xinran | Hu Yaoyu | Win | B+R | 7.5 | 3538 | 5 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tang Weixing | Tao Xinran | Lose | B+2¾ | 7.5 | 3533 | -13 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3527 | -10 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tao Xinran | Hu Yaoyu | Win | B+R | 7.5 | 3537 | 5 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tang Weixing | Tao Xinran | Lose | B+2¾ | 7.5 | 3532 | -14 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Tao Xinran | Jiang Weijie | Win | B+R | 7.5 | 3546 | 12 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran | Zhao Chenyu | Lose | W+¼ | 7.5 | 3534 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Rong Yi | Tao Xinran | Win | W+R | 7.5 | 3534 | -16 | 
@@ -96,8 +97,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Li Qincheng | Tao Xinran | Win | W+R | 7.5 | 3413 | 20 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Wu Guangya | Tao Xinran | Win | W+R | 7.5 | 3393 | 26 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tan Xiao | Tao Xinran | Win | W+R | 7.5 | 3367 | 39 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tao Xinran | Li Xuanhao | Lose | W+R | 7.5 | 3328 | -37 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Win | W+R | 7.5 | 3365 | -184 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tao Xinran | Li Xuanhao | Lose | W+R | 7.5 | 3328 | -36 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Win | W+R | 7.5 | 3364 | -185 | 
 | 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | Lose | W+R | 6.5 | 3549 | missing |
 
 

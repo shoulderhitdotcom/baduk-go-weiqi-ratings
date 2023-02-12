@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Win | W+R | 7.5 | 3539 | 4 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | Lose | B+R | 7.5 | 3535 | 10 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Yi Lingtao | Lose | W+R | 7.5 | 3525 | -13 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Peng Liyao | Win | B+R | 7.5 | 3538 | 11 | 
@@ -26,23 +27,23 @@
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 | Tu Xiaoyu | Moon Minjong | Win | B+R | 7.5 | 3464 | 0 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Tu Xiaoyu | Gueon Hyojin | Win | B+R | 7.5 | 3464 | 7 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Zhao Chenyu | Win | B+R | 7.5 | 3457 | 14 | 
-| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tu Xiaoyu | Tao Xinran | Lose | W+R | 7.5 | 3443 | -23 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Lose | W+R | 7.5 | 3466 | -13 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tu Xiaoyu | Lose | B+R | 7.5 | 3479 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | Lose | W+¼ | 7.5 | 3479 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Zhang Tao | Tu Xiaoyu | Win | W+R | 7.5 | 3479 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Shen Peiran | Lose | W+R | 7.5 | 3479 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Tang Weixing | Win | B+R | 7.5 | 3476 | 10 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+R | 7.5 | 3466 | 10 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Park Junghwan | Tu Xiaoyu | Win | W+3¼ | 7.5 | 3456 | 23 | 
-| 2022-06-18 | 第21回西南棋王戦1回戦 | Tu Xiaoyu | Mi Yuting | Lose | W+R | 7.5 | 3433 | -52 | 
-| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Tu Xiaoyu | Lose | B+2.5 | 6.5 | 3485 | 0 | 
-| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準々決勝 | Lee Yeon | Tu Xiaoyu | Win | W+R | 6.5 | 3485 | 0 | 
-| 2022-06-05 | 第9回グロービス杯世界囲碁U-20 3位決定戦 | Zhou Hongyu | Tu Xiaoyu | Win | W+R | 6.5 | 3485 | -8 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第3戦 | Han Woojin | Tu Xiaoyu | Win | W+R | 6.5 | 3493 | 0 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Tu Xiaoyu | Win | W+R | 6.5 | 3493 | 0 | 
-| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Tu Xiaoyu | Fukuoka Kotaro | Lose | W+R | 6.5 | 3493 | -26 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tu Xiaoyu | Lose | B+R | 7.5 | 3519 | 6 | 
+| 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tu Xiaoyu | Tao Xinran | Lose | W+R | 7.5 | 3443 | -22 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Hu Zihao | Lose | W+R | 7.5 | 3465 | -13 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tu Xiaoyu | Lose | B+R | 7.5 | 3478 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | Lose | W+¼ | 7.5 | 3478 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Zhang Tao | Tu Xiaoyu | Win | W+R | 7.5 | 3478 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Shen Peiran | Lose | W+R | 7.5 | 3478 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Tang Weixing | Win | B+R | 7.5 | 3475 | 10 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+R | 7.5 | 3465 | 10 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Park Junghwan | Tu Xiaoyu | Win | W+3¼ | 7.5 | 3455 | 22 | 
+| 2022-06-18 | 第21回西南棋王戦1回戦 | Tu Xiaoyu | Mi Yuting | Lose | W+R | 7.5 | 3433 | -51 | 
+| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Tu Xiaoyu | Lose | B+2.5 | 6.5 | 3484 | 0 | 
+| 2022-06-05 | 第9回グロービス杯世界囲碁U-20準々決勝 | Lee Yeon | Tu Xiaoyu | Win | W+R | 6.5 | 3484 | 0 | 
+| 2022-06-05 | 第9回グロービス杯世界囲碁U-20 3位決定戦 | Zhou Hongyu | Tu Xiaoyu | Win | W+R | 6.5 | 3484 | -8 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第3戦 | Han Woojin | Tu Xiaoyu | Win | W+R | 6.5 | 3492 | 0 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Tu Xiaoyu | Win | W+R | 6.5 | 3492 | 0 | 
+| 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 | Tu Xiaoyu | Fukuoka Kotaro | Lose | W+R | 6.5 | 3492 | -26 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Peng Liyao | Tu Xiaoyu | Lose | B+R | 7.5 | 3518 | 5 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Tu Xiaoyu | Lai Junfu | Win | B+R | 6.5 | 3513 | 0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 |  | Tu Xiaoyu | Win | W+R | 6.5 | 3513 | -1 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Tu Xiaoyu | Moon Minjong | Lose | W+R | 6.5 | 3514 | -5 | 
@@ -58,9 +59,9 @@
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3498 | -5 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Zejin | Win | B+1¾ | 7.5 | 3503 | 3 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Shi Yue | Win | B+R | 7.5 | 3500 | 4 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Win | W+1¼ | 7.5 | 3496 | 3 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+1¾ | 7.5 | 3493 | 7 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Lose | W+¼ | 7.5 | 3486 | -13 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Win | W+1¼ | 7.5 | 3496 | 4 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+1¾ | 7.5 | 3492 | 7 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Lose | W+¼ | 7.5 | 3485 | -14 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Lose | W+R | 7.5 | 3499 | -5 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Tu Xiaoyu | Pan Tingyu | Lose | W+R | 7.5 | 3504 | 19 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tu Xiaoyu |  | Win | B+R | 7.5 | 3485 | 29 | 
@@ -108,8 +109,8 @@
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 |  | Tu Xiaoyu | Win | W+R | 7.5 | 3437 | 15 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Dang Yifei | Tu Xiaoyu | Win | W+R | 7.5 | 3422 | 15 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tu Xiaoyu | Zhou Ruiyang | Win | B+R | 7.5 | 3407 | 2 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tu Xiaoyu | Huang Mingyu | Lose | W+R | 7.5 | 3405 | -30 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Cao Xiaoyang | Tu Xiaoyu | Lose | B+¾ | 7.5 | 3435 | -5 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tu Xiaoyu | Huang Mingyu | Lose | W+R | 7.5 | 3405 | -29 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Cao Xiaoyang | Tu Xiaoyu | Lose | B+¾ | 7.5 | 3434 | -6 | 
 | 2020-06-17 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Win | B+R | 7.5 | 3440 | 22 | 
 | 2020-06-16 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Tu Xiaoyu | Wang Xinghao | Lose | W+R | 7.5 | 3418 | -10 | 
 | 2020-06-15 | 第24期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Wang Xinghao | Tu Xiaoyu | Win | W+2¼ | 7.5 | 3428 | -30 | 

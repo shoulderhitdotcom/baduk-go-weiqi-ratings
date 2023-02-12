@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Shen Peiran | Lose | W+R | 7.5 | 3454 | -21 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Chen Zhengxun | Lose | B+R | 7.5 | 3475 | -90 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Huang Mingyu | Win | B+1¼ | 7.5 | 3565 | 5 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | Win | W+R | 7.5 | 3560 | 25 | 
@@ -14,20 +15,20 @@
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Chen Zhengxun | Win | W+R | 7.5 | 3457 | 41 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Lose | B+R | 7.5 | 3416 | -17 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Xia Chenkun | Win | B+1¾ | 7.5 | 3433 | 26 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 3407 | -40 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 3447 | 71 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Liu Qifeng | Chen Zhengxun | Win | W+R | 7.5 | 3376 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Zhengxun | Win | W+R | 7.5 | 3376 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 3376 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Win | W+R | 7.5 | 3376 | 3 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Win | B+¾ | 7.5 | 3373 | 99 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Chen Zhengxun | Win | W+R | 7.5 | 3274 | -98 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 3407 | -39 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 3446 | 71 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Liu Qifeng | Chen Zhengxun | Win | W+R | 7.5 | 3375 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Zhengxun | Win | W+R | 7.5 | 3375 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 3375 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Win | W+R | 7.5 | 3375 | 3 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Dang Yifei | Win | B+¾ | 7.5 | 3372 | 99 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Chen Zhengxun | Win | W+R | 7.5 | 3273 | -99 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3372 | -25 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3397 | 26 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3371 | -23 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3394 | 34 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3360 | 12 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3348 | 96 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3394 | 35 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3359 | 12 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3347 | 95 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Chen Zhengxun | Huang Yunsong | Lose | W+1¼ | 7.5 | 3252 | 76 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Chen Haoxin | Lose | W+2¼ | 7.5 | 3176 | -19 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Peng Liyao | Lose | W+R | 7.5 | 3195 | 9 | 
@@ -44,10 +45,10 @@
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Zhengxun | He Yuhan | Lose | W+R | 7.5 | 2877 | -12 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Fan Yin | Chen Zhengxun | Lose | B+R | 7.5 | 2889 | -26 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Chen Zhengxun | Win | W+R | 7.5 | 2915 | 268 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Chen Zijian | Lose | W+R | 7.5 | 2647 | -153 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xu Jiayang | Chen Zhengxun | Lose | B+R | 7.5 | 2800 | 0 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Huang Jingyuan | Chen Zhengxun | Win | W+R | 7.5 | 2800 | 0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 2800 | missing |
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Chen Zijian | Lose | W+R | 7.5 | 2647 | -152 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xu Jiayang | Chen Zhengxun | Lose | B+R | 7.5 | 2799 | 0 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Huang Jingyuan | Chen Zhengxun | Win | W+R | 7.5 | 2799 | 0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 2799 | missing |
 
 
 

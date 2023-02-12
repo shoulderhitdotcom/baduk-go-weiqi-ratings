@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | He Yuhan | Tan Xiao | Lose | W+R | 7.5 | 3350 | -9 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Tao | He Yuhan | Lose | B+R | 7.5 | 3359 | -36 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | He Yuhan | Ye Changxin | Win | B+R | 7.5 | 3395 | 26 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Tao Xinran | Lose | W+R | 7.5 | 3369 | -20 | 
@@ -16,20 +17,20 @@
 | 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Li Xiangyu | He Yuhan | Lose | B+¾ | 7.5 | 3271 | -32 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | He Yuhan | Peng Liyao | Lose | W+R | 7.5 | 3303 | 20 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Wang Chuxuan | He Yuhan | Win | W+R | 7.5 | 3283 | 36 | 
-| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Tang Weixing | Lose | W+R | 7.5 | 3247 | -21 | 
-| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Fan Tingyu | Win | B+R | 7.5 | 3268 | 70 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Win | W+R | 7.5 | 3198 | 125 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Lose | B+R | 7.5 | 3073 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Lose | W+R | 7.5 | 3073 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | He Yuhan | Lian Xiao | Lose | W+¼ | 7.5 | 3073 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | B+R | 7.5 | 3073 | -10 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Lose | W+¼ | 7.5 | 3083 | -10 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Lose | B+R | 7.5 | 3093 | -223 | 
+| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Tang Weixing | Lose | W+R | 7.5 | 3247 | -20 | 
+| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | He Yuhan | Fan Tingyu | Win | B+R | 7.5 | 3267 | 70 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fu Jianheng | He Yuhan | Win | W+R | 7.5 | 3197 | 125 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Lose | B+R | 7.5 | 3072 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Lose | W+R | 7.5 | 3072 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | He Yuhan | Lian Xiao | Lose | W+¼ | 7.5 | 3072 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | B+R | 7.5 | 3072 | -10 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Lose | W+¼ | 7.5 | 3082 | -10 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Wang Zejin | He Yuhan | Lose | B+R | 7.5 | 3092 | -224 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | He Yuhan | Kim Jiseok | Lose | W+R | 7.5 | 3316 | 28 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Chunhui | He Yuhan | Win | W+R | 7.5 | 3288 | 10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Zheng Xu | He Yuhan | Win | W+R | 7.5 | 3278 | 2 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Win | W+R | 7.5 | 3276 | 28 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Lose | W+1¼ | 7.5 | 3248 | -95 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Win | W+R | 7.5 | 3276 | 29 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Lose | W+1¼ | 7.5 | 3247 | -96 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Lose | B+R | 7.5 | 3343 | 16 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Lose | W+¼ | 7.5 | 3327 | -5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Lose | W+R | 7.5 | 3332 | -5 | 
@@ -57,8 +58,8 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | He Yuhan | Liao Xingwen | Win | B+R | 7.5 | 3338 | 24 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Kaiwen | He Yuhan | Win | W+R | 7.5 | 3314 | 28 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | He Yuhan | Meng Tailing | Win | B+R | 7.5 | 3286 | 52 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | He Yuhan | Shi Yue | Win | B+¾ | 7.5 | 3234 | 141 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | He Yuhan | Huang Yunsong | Lose | W+R | 7.5 | 3093 | -117 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | He Yuhan | Shi Yue | Win | B+¾ | 7.5 | 3234 | 142 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | He Yuhan | Huang Yunsong | Lose | W+R | 7.5 | 3092 | -118 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | He Yuhan | Mi Yuting | Lose | W+R | 7.5 | 3210 | missing |
 
 

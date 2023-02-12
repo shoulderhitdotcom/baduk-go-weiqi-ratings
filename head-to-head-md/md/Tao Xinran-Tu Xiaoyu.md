@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tao Xinran Vs Tu Xiaoyu** | **Tao Xinran Streak** | **Tu Xiaoyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | W+R | 7.5 | 4:3 | 0 | 1 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | B+R | 7.5 | 4:2 | 3 | 0 | 
 | 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Tu Xiaoyu | Tao Xinran | W+R | 7.5 | 3:2 | 2 | 0 | 
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Tao Xinran | Tu Xiaoyu | B+R | 7.5 | 2:2 | 1 | 0 | 

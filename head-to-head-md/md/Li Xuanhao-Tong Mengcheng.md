@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Xuanhao Vs Tong Mengcheng** | **Li Xuanhao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Xuanhao | W+R | 7.5 | 4:5 | 2 | 0 | 
 | 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Li Xuanhao | Tong Mengcheng | B+¾ | 7.5 | 3:5 | 1 | 0 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Tong Mengcheng | Li Xuanhao | B+R | 7.5 | 2:5 | 0 | 1 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Li Xuanhao | Tong Mengcheng | B+R | 7.5 | 2:4 | 1 | 0 | 

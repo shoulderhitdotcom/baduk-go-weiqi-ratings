@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Ke Jie** | **Fan Tingyu Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Ke Jie | W+1¾ | 7.5 | 11:14 | 0 | 2 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Ke Jie | W+R | 7.5 | 11:13 | 0 | 1 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Fan Tingyu | Ke Jie | B+0.5 | 7.5 | 11:12 | 1 | 0 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Fan Tingyu | Ke Jie | W+R | 7.5 | 10:12 | 0 | 2 | 

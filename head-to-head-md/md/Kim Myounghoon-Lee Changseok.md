@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Myounghoon Vs Lee Changseok** | **Kim Myounghoon Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-12 | 2022-2023韓国囲碁リーグ | Lee Changseok | Kim Myounghoon | B+R | 6.5 | 2:4 | 0 | 1 | 
 | 2022-03-17 | 第5期韓国竜星戦2回戦 | Lee Changseok | Kim Myounghoon | W+R | 6.5 | 2:3 | 2 | 0 | 
 | 2022-03-06 | 2021-2022韓国囲碁リーグ | Lee Changseok | Kim Myounghoon | W+R | 6.5 | 1:3 | 1 | 0 | 
 | 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | B+R | 6.5 | 0:3 | 0 | 3 | 

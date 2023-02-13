@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Zhengxun vs Choi Cheolhan** | **Chen Zhengxun streak** | **Choi Cheolhan streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Zhengxun Vs Choi Cheolhan** | **Chen Zhengxun Streak** | **Choi Cheolhan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Chen Zhengxun | B+R | 7.5 | 0:1 | 0 | 1 |
 

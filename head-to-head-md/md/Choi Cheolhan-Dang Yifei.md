@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Cheolhan vs Dang Yifei** | **Choi Cheolhan streak** | **Dang Yifei streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Dang Yifei** | **Choi Cheolhan Streak** | **Dang Yifei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018-03-09 | 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | B+R | 7.5 | 1:0 | 1 | 0 |
 

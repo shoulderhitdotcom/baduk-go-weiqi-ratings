@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Wang Shiyi | Xia Chenkun | Lose | B+R | 7.5 | 3399 | -12 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Xia Chenkun | Lose | B+R | 7.5 | 3411 | -8 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Liu Yuhang | Lose | W+R | 7.5 | 3419 | -9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Zijian | Lose | W+¼ | 7.5 | 3428 | -5 | 
@@ -34,9 +35,9 @@
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 3458 | -3 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3461 | -17 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Lose | B+R | 7.5 | 3478 | 35 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Lose | B+R | 7.5 | 3443 | -23 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Win | B+¾ | 7.5 | 3466 | 22 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3444 | 13 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Lose | B+R | 7.5 | 3443 | -22 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Win | B+¾ | 7.5 | 3465 | 22 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3443 | 12 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Lose | B+R | 7.5 | 3431 | -13 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3444 | 103 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3341 | 16 | 

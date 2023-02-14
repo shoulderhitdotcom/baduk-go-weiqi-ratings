@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Lee Jihyun | Ding Hao | Win | W+R | 7.5 | 3690 | 1 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Kim Myounghoon | Ding Hao | Lose | B+R | 7.5 | 3689 | -7 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Hu Zihao | Win | B+R | 7.5 | 3696 | 2 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Ding Hao | Win | W+¼ | 7.5 | 3694 | 2 | 
@@ -16,9 +17,9 @@
 | 2023-02-01 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ding Hao | Yang Dingxin | Win | B+0.5 | 6.5 | 3604 | 15 | 
 | 2023-01-30 | 第27回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Ding Hao | Win | W+R | 6.5 | 3589 | -75 | 
 | 2022-11-23 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第2局 | Mi Yuting | Ding Hao | Win | W+R | 7.5 | 3664 | 16 | 
-| 2022-11-22 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第1局 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3648 | 19 | 
-| 2022-11-15 | 第27回LG杯朝鮮日報棋王戦準決勝 | Ding Hao | Kang Dongyun | Win | B+R | 6.5 | 3629 | 8 | 
-| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kim Myounghoon | Ding Hao | Win | W+2.5 | 6.5 | 3621 | -5 | 
+| 2022-11-22 | 第2期湾区杯中国囲碁大棋士戦挑戦手合三番勝負第1局 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3648 | 20 | 
+| 2022-11-15 | 第27回LG杯朝鮮日報棋王戦準決勝 | Ding Hao | Kang Dongyun | Win | B+R | 6.5 | 3628 | 8 | 
+| 2022-11-14 | 第27回LG杯朝鮮日報棋王戦3回戦 | Kim Myounghoon | Ding Hao | Win | W+2.5 | 6.5 | 3620 | -6 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Shi Yue | Ding Hao | Lose | B+R | 7.5 | 3626 | -5 | 
 | 2022-09-26 | 第23期阿含・桐山杯中国早碁戦予選 | Ding Hao | Peng Liyao | Win | B+R | 7.5 | 3631 | -5 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Kaiwen | Lose | W+R | 7.5 | 3636 | -1 | 
@@ -35,8 +36,8 @@
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3634 | 4 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Lose | B+R | 7.5 | 3630 | -24 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+R | 7.5 | 3654 | 15 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3639 | -27 | 
-| 2022-07-12 | 第24回農心杯中国予選 | Ding Hao | Ke Jie | Lose | W+R | 6.5 | 3666 | -29 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3639 | -26 | 
+| 2022-07-12 | 第24回農心杯中国予選 | Ding Hao | Ke Jie | Lose | W+R | 6.5 | 3665 | -30 | 
 | 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Ding Hao | Win | W+R | 6.5 | 3695 | 4 | 
 | 2022-05-25 | 第3回王中王囲棋争覇戦1回戦 | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3691 | 4 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ding Hao | Li Xuanhao | Lose | W+R | 7.5 | 3687 | -13 | 
@@ -72,9 +73,9 @@
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Chen Xian | Win | B+2.5 | 6.5 | 3685 | 18 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Tuo Jiaxi | Ding Hao | Win | W+R | 7.5 | 3667 | 3 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Win | B+1¾ | 7.5 | 3664 | 5 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Lose | W+R | 7.5 | 3659 | -20 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Win | W+R | 7.5 | 3679 | 2 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+2¾ | 7.5 | 3677 | 1 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Lose | W+R | 7.5 | 3659 | -19 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Win | W+R | 7.5 | 3678 | 2 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+2¾ | 7.5 | 3676 | 0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tang Weixing | Ding Hao | Win | W+R | 7.5 | 3676 | 4 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Ding Hao | Chen Yichun | Win | B+R | 7.5 | 3672 | 33 | 
 | 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3639 | -2 | 
@@ -83,9 +84,9 @@
 | 2021-08-23 | 第26回三星火災杯中国予選 | Lian Xiao | Ding Hao | Lose | B+R | 6.5 | 3642 | -10 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | Win | B+0.5 | 6.5 | 3652 | 11 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Ding Hao | Shi Yue | Win | B+R | 7.5 | 3641 | 12 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | Win | B+R | 7.5 | 3629 | 12 | 
-| 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Win | W+R | 7.5 | 3617 | 2 | 
-| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Win | B+R | 7.5 | 3615 | 26 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | Win | B+R | 7.5 | 3629 | 13 | 
+| 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Win | W+R | 7.5 | 3616 | 2 | 
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Win | B+R | 7.5 | 3614 | 25 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Win | W+R | 7.5 | 3589 | 13 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3576 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3554 | 13 | 

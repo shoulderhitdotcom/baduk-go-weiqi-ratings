@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Cheng Jiaye | Chen Yaoye | Win | W+R | 7.5 | 3497 | 5 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Zejin | Win | B+R | 7.5 | 3492 | 7 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Wang Zejin | Chen Yaoye | Lose | B+R | 7.5 | 3485 | -9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Wang Chuxuan | Chen Yaoye | Lose | B+R | 7.5 | 3494 | -12 | 
@@ -41,9 +42,9 @@
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Win | W+R | 7.5 | 3533 | 31 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Lose | B+R | 7.5 | 3502 | -4 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Lose | B+1¾ | 7.5 | 3506 | -5 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Win | W+R | 7.5 | 3511 | -5 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Win | W+R | 7.5 | 3516 | -7 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Mi Yuting | Win | B+R | 7.5 | 3523 | 15 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Win | W+R | 7.5 | 3511 | -4 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Win | W+R | 7.5 | 3515 | -7 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Mi Yuting | Win | B+R | 7.5 | 3522 | 14 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Yaoye | Lose | B+R | 7.5 | 3508 | -6 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Win | W+¼ | 7.5 | 3514 | 59 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Lose | W+R | 7.5 | 3455 | 17 | 

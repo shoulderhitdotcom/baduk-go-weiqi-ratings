@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Qincheng | Lose | W+R | 7.5 | 3466 | -1 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Xuanhao | Lose | W+R | 7.5 | 3467 | -3 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tong Mengcheng | Lose | B+¾ | 7.5 | 3470 | -2 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tong Mengcheng | Lose | B+R | 7.5 | 3472 | -4 | 
@@ -48,9 +49,9 @@
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3460 | -1 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Ke | Tong Mengcheng | Win | W+¼ | 7.5 | 3461 | 16 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3445 | -12 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Win | B+R | 7.5 | 3457 | 4 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3453 | -10 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3463 | -7 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Win | B+R | 7.5 | 3457 | 5 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3452 | -10 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3462 | -8 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3470 | -1 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Win | W+R | 7.5 | 3471 | 4 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Zhang Tao | Win | B+¾ | 7.5 | 3467 | 11 | 

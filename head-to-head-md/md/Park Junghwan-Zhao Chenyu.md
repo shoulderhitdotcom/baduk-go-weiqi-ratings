@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Zhao Chenyu** | **Park Junghwan Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Zhao Chenyu | W+¼ | 7.5 | 6:3 | 0 | 2 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | W+R | 7.5 | 6:2 | 0 | 1 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Zhao Chenyu | Park Junghwan | W+R | 6.5 | 6:1 | 4 | 0 | 
 | 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | W+R | 6.5 | 5:1 | 3 | 0 | 

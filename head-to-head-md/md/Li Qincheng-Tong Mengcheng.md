@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Tong Mengcheng** | **Li Qincheng Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Qincheng | W+R | 7.5 | 3:4 | 2 | 0 | 
 | 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | W+R | 6.5 | 2:4 | 1 | 0 | 
 | 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Tong Mengcheng | Li Qincheng | B+R | 7.5 | 1:4 | 0 | 2 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Li Qincheng | Tong Mengcheng | W+R | 7.5 | 1:3 | 0 | 1 | 

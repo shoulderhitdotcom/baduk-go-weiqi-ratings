@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Byun Sangil | Liu Zhaozhe | Lose | B+R | 7.5 | 3220 | -8 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Liu Zhaozhe | Win | W+¼ | 7.5 | 3228 | 36 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Shin Minjun | Lose | W+R | 7.5 | 3192 | 27 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Liu Zhaozhe | Liao Yuanhe | Lose | W+R | 7.5 | 3165 | -20 | 

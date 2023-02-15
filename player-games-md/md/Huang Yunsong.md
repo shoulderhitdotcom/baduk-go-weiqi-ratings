@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Park Junghwan | Lose | W+R | 7.5 | 3569 | -5 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Tao Xinran | Lose | W+R | 7.5 | 3574 | 37 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+¾ | 7.5 | 3537 | 14 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Lose | W+R | 7.5 | 3523 | -54 | 
@@ -31,11 +32,11 @@
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Xia Chenkun | Huang Yunsong | Lose | B+R | 7.5 | 3537 | -17 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Huang Yunsong | Xu Jiayang | Lose | W+¼ | 7.5 | 3554 | -10 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Jiang Weijie | Huang Yunsong | Win | W+R | 7.5 | 3564 | -4 | 
-| 2022-04-13 | 2022年アジア競技大会中国予選 | Huang Yunsong | Li Xuanhao | Lose | W+R | 7.5 | 3568 | -24 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Huang Yunsong | Zhang Tao | Lose | W+¼ | 7.5 | 3592 | -13 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Liao Yuanhe | Huang Yunsong | Lose | B+R | 7.5 | 3605 | -15 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3620 | -13 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3633 | 6 | 
+| 2022-04-13 | 2022年アジア競技大会中国予選 | Huang Yunsong | Li Xuanhao | Lose | W+R | 7.5 | 3568 | -25 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Huang Yunsong | Zhang Tao | Lose | W+¼ | 7.5 | 3593 | -13 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Liao Yuanhe | Huang Yunsong | Lose | B+R | 7.5 | 3606 | -15 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3621 | -13 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3634 | 7 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | Win | B+1¾ | 7.5 | 3627 | 10 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Fan Yin | Huang Yunsong | Win | W+R | 7.5 | 3617 | 10 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Fan Yin | Lose | W+R | 7.5 | 3607 | -13 | 
@@ -47,18 +48,18 @@
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Lose | W+R | 7.5 | 3589 | 2 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | Win | W+R | 7.5 | 3587 | 9 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | Win | B+R | 7.5 | 3578 | 12 | 
-| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3566 | 3 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3563 | -2 | 
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3566 | 2 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3564 | -1 | 
 | 2021-11-01 | 第7回国手山脈国際囲碁大会中国予選 | Zhao Chenyu | Huang Yunsong | Win | W+R | 6.5 | 3565 | 5 | 
 | 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | Win | W+R | 6.5 | 3560 | 10 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3550 | 9 | 
 | 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | Lose | B+R | 7.5 | 3541 | -8 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3549 | -5 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Huang Yunsong | Lose | B+R | 7.5 | 3554 | -19 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Lose | B+R | 7.5 | 3573 | -19 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3592 | -3 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | Win | B+R | 7.5 | 3595 | 9 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3586 | 24 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Huang Yunsong | Lose | B+R | 7.5 | 3554 | -20 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Lose | B+R | 7.5 | 3574 | -19 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3593 | -3 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | Win | B+R | 7.5 | 3596 | 9 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3587 | 25 | 
 | 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Win | B+¾ | 7.5 | 3562 | 11 | 
 | 2021-09-16 | 第12期中国竜星戦Bブロック6回戦 | Huang Yunsong | Zhang Tao | Win | B+2¾ | 7.5 | 3551 | 10 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Huang Yunsong | Win | W+R | 7.5 | 3541 | 0 | 
@@ -75,9 +76,9 @@
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | Lose | B+R | 6.5 | 3482 | -7 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Win | W+R | 6.5 | 3489 | 15 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3474 | 22 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3452 | -7 | 
-| 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3459 | -9 | 
-| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3468 | 14 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3452 | -8 | 
+| 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3460 | -9 | 
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3469 | 15 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Win | B+R | 7.5 | 3454 | 25 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Win | W+1¼ | 7.5 | 3429 | 9 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3420 | 12 | 
@@ -101,10 +102,10 @@
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | Win | W+R | 7.5 | 3187 | 40 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Xie Erhao | Lose | W+R | 7.5 | 3147 | -4 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | Win | W+¼ | 7.5 | 3151 | 24 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Ding Shixiong | Win | B+R | 7.5 | 3127 | 70 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Yichun | Huang Yunsong | Win | W+R | 7.5 | 3057 | 60 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Byun Sangil | Lose | W+R | 7.5 | 2997 | -75 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | Lose | B+R | 7.5 | 3072 | -43 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Ding Shixiong | Win | B+R | 7.5 | 3127 | 69 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Yichun | Huang Yunsong | Win | W+R | 7.5 | 3058 | 60 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Byun Sangil | Lose | W+R | 7.5 | 2998 | -75 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | Lose | B+R | 7.5 | 3073 | -42 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Shi Yue | Win | B+R | 7.5 | 3115 | 45 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3070 | -316 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Huang Yunsong | Lose | B+R | 7.5 | 3386 | 0 | 

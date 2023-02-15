@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Iyama Yuta | Li Qincheng | Lose | B+R | 7.5 | 3668 | -10 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Qincheng | Win | W+R | 7.5 | 3678 | -99 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3777 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Zerui | Li Qincheng | Win | W+R | 7.5 | 3765 | 103 | 
@@ -39,28 +40,28 @@
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3562 | -16 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Win | B+R | 7.5 | 3578 | 14 | 
 | 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | Win | W+R | 6.5 | 3564 | 2 | 
-| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Shin Jinseo | Li Qincheng | Lose | B+R | 7.5 | 3562 | -17 | 
-| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Seki Kotaro | Li Qincheng | Win | W+R | 7.5 | 3579 | -10 | 
-| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3589 | -14 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3603 | -17 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Jin Yucheng | Win | B+R | 7.5 | 3620 | 1 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Ding Hao | Li Qincheng | Lose | B+¾ | 7.5 | 3619 | -13 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Lose | W+R | 7.5 | 3632 | -14 | 
+| 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Shin Jinseo | Li Qincheng | Lose | B+R | 7.5 | 3562 | -18 | 
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Seki Kotaro | Li Qincheng | Win | W+R | 7.5 | 3580 | -10 | 
+| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3590 | -14 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3604 | -17 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Jin Yucheng | Win | B+R | 7.5 | 3621 | 1 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Ding Hao | Li Qincheng | Lose | B+¾ | 7.5 | 3620 | -13 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Lose | W+R | 7.5 | 3633 | -13 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | Lose | B+1¾ | 7.5 | 3646 | 8 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3638 | -14 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Peng Liyao | Li Qincheng | Win | W+R | 7.5 | 3652 | 11 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3641 | 59 | 
 | 2021-11-29 | 第23回農心辛ラーメン杯世界囲碁最強戦第8戦  | Li Qincheng | Iyama Yuta | Lose | W+R | 6.5 | 3582 | -5 | 
-| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | Lose | B+1¾ | 7.5 | 3587 | 1 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3586 | -19 | 
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | Lose | B+1¾ | 7.5 | 3587 | 0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3587 | -18 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tuo Jiaxi | Li Qincheng | Win | W+R | 6.5 | 3605 | 10 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Fan Yin | Li Qincheng | Lose | B+R | 7.5 | 3595 | -18 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Yang Dingxin | Li Qincheng | Win | W+R | 7.5 | 3613 | 12 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Lose | B+R | 7.5 | 3601 | -21 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3622 | 6 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Hexi | Li Qincheng | Win | W+R | 7.5 | 3616 | -1 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Yaoye | Win | B+R | 7.5 | 3617 | 11 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Lose | B+R | 7.5 | 3606 | 1 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Lose | B+R | 7.5 | 3601 | -22 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3623 | 6 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Hexi | Li Qincheng | Win | W+R | 7.5 | 3617 | -1 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Yaoye | Win | B+R | 7.5 | 3618 | 11 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Lose | B+R | 7.5 | 3607 | 2 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Win | W+R | 7.5 | 3605 | 30 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Fang Ruoxi | Li Qincheng | Win | W+R | 7.5 | 3575 | -4 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3579 | 5 | 
@@ -90,10 +91,10 @@
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Lose | B+¾ | 7.5 | 3288 | 36 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | Win | B+R | 7.5 | 3252 | 27 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ |  | Li Qincheng | Win | W+1¼ | 7.5 | 3225 | -6 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Lose | W+R | 7.5 | 3231 | -10 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Xie He | Li Qincheng | Win | W+R | 7.5 | 3241 | 28 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Lose | W+R | 7.5 | 3213 | -15 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3228 | -31 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Lose | W+R | 7.5 | 3231 | -11 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Xie He | Li Qincheng | Win | W+R | 7.5 | 3242 | 28 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Lose | W+R | 7.5 | 3214 | -15 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3229 | -30 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zijian | Win | B+¾ | 7.5 | 3259 | 5 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | Lose | W+R | 7.5 | 3254 | -186 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3440 | -5 | 

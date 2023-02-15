@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Cheng Jiaye | Lose | B+R | 7.5 | 3246 | -14 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Cheng Jiaye | Chen Yaoye | Lose | W+R | 7.5 | 3260 | 67 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Yang Dingxin | Lose | W+R | 7.5 | 3193 | -23 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Cheng Jiaye | Wang Chuxuan | Win | B+R | 7.5 | 3216 | 208 | 
@@ -27,9 +28,9 @@
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Sun Tengyu | Cheng Jiaye | Lose | B+R | 7.5 | 2952 | -43 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Gu Zihao | Cheng Jiaye | Lose | B+R | 7.5 | 2995 | -13 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Li Chengsen | Lose | W+R | 7.5 | 3008 | -41 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Win | W+R | 7.5 | 3049 | 25 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Kang Dongyun | Cheng Jiaye | Lose | B+R | 7.5 | 3024 | -21 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | B+R | 7.5 | 3045 | 48 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Win | W+R | 7.5 | 3049 | 24 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Kang Dongyun | Cheng Jiaye | Lose | B+R | 7.5 | 3025 | -21 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | B+R | 7.5 | 3046 | 49 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Cheng Jiaye | Xie Ke | Lose | W+R | 7.5 | 2997 | -15 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Cheng Jiaye | Ding Hao | Lose | W+R | 7.5 | 3012 | -19 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Lose | W+2¼ | 7.5 | 3031 | -11 | 

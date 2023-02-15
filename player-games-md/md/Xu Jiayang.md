@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3545 | -3 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Lose | B+R | 7.5 | 3548 | -3 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | Win | B+R | 7.5 | 3551 | 9 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Li Xuanhao | Lose | W+¼ | 7.5 | 3542 | -4 | 
@@ -39,19 +40,19 @@
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Huang Yunsong | Xu Jiayang | Win | W+¼ | 7.5 | 3532 | 12 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Xu Jiayang | Win | W+R | 7.5 | 3520 | 30 | 
 | 2022-04-10 | 2022年アジア競技大会中国予選 | Xu Jiayang | Lian Xiao | Lose | W+R | 7.5 | 3490 | -14 | 
-| 2022-03-31 | 第27回LG杯中国予選 | Xu Jiayang | Chen Xian | Win | B+R | 6.5 | 3504 | 0 | 
-| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xu Jiayang | Shi Yue | Lose | W+R | 7.5 | 3504 | -50 | 
+| 2022-03-31 | 第27回LG杯中国予選 | Xu Jiayang | Chen Xian | Win | B+R | 6.5 | 3504 | -1 | 
+| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xu Jiayang | Shi Yue | Lose | W+R | 7.5 | 3505 | -49 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3554 | -8 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Lose | W+R | 7.5 | 3562 | -32 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3594 | -32 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3626 | -8 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3634 | 0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3634 | 52 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3582 | -8 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3590 | 1 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3589 | -10 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Win | W+R | 7.5 | 3599 | 6 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Win | W+R | 7.5 | 3593 | 19 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3634 | 51 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3583 | -7 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3590 | 0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3590 | -10 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Win | W+R | 7.5 | 3600 | 6 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Win | W+R | 7.5 | 3594 | 20 | 
 | 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Lose | B+¾ | 7.5 | 3574 | -9 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+R | 6.5 | 3583 | 10 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3573 | 22 | 
@@ -84,10 +85,10 @@
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | Lose | W+R | 7.5 | 3340 | -13 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Cao Xiaoyang | Xu Jiayang | Win | W+¼ | 7.5 | 3353 | 24 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Fan Yin | Xu Jiayang | Win | W+R | 7.5 | 3329 | 11 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Jingyuan | Xu Jiayang | Win | W+R | 7.5 | 3318 | 10 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Tao Xinran | Lose | W+R | 7.5 | 3308 | 10 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3298 | -11 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Yaoye | Xu Jiayang | Win | W+R | 7.5 | 3309 | 23 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Jingyuan | Xu Jiayang | Win | W+R | 7.5 | 3318 | 9 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Tao Xinran | Lose | W+R | 7.5 | 3309 | 10 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3299 | -11 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Chen Yaoye | Xu Jiayang | Win | W+R | 7.5 | 3310 | 24 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | B+R | 7.5 | 3286 | -47 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xu Jiayang | Tan Xiao | Win | B+R | 7.5 | 3333 | -12 | 
 | 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Win | W+R | 7.5 | 3345 | -117 | 
@@ -100,8 +101,8 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Xie He | Xu Jiayang | Win | W+R | 7.5 | 3477 | -3 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xu Jiayang | Chen Zhengxun | Win | B+R | 7.5 | 3480 | -4 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Ma Yichao | Xu Jiayang | Win | W+R | 7.5 | 3484 | -63 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3547 | -6 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3553 | -8 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3547 | -7 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3554 | -7 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kim Jiseok | Xu Jiayang | Win | W+R | 7.5 | 3561 | -10 | 
 | 2020-04-14 | 第25回LG杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+1.5 | 6.5 | 3571 | missing |
 

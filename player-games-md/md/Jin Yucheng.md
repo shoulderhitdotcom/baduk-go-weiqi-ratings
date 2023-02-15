@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Lee Jihyun | Win | B+R | 7.5 | 3438 | 5 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Liu Zhaozhe | Lose | W+¼ | 7.5 | 3433 | -9 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Liu Yuhang | Win | B+R | 7.5 | 3442 | 10 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Kim Myounghoon | Jin Yucheng | Lose | B+¾ | 7.5 | 3432 | -9 | 
@@ -29,19 +30,19 @@
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | Win | W+¼ | 7.5 | 3411 | 0 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Lee Jihyun | Win | B+R | 7.5 | 3411 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Fu Jianheng | Jin Yucheng | Win | W+R | 7.5 | 3411 | 14 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Chen Xian | Lose | W+¼ | 7.5 | 3397 | -78 | 
-| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Zheng Zaixiang | Jin Yucheng | Lose | B+R | 7.5 | 3475 | -47 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Jin Yucheng | Lose | B+R | 7.5 | 3522 | -27 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | Lose | W+1¼ | 7.5 | 3549 | -13 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Win | W+¼ | 7.5 | 3562 | 19 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Chen Xian | Lose | W+¼ | 7.5 | 3397 | -79 | 
+| 2022-03-07 | 第26期馬橋杯中国囲碁新人王戦1回戦 | Zheng Zaixiang | Jin Yucheng | Lose | B+R | 7.5 | 3476 | -47 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Jin Yucheng | Lose | B+R | 7.5 | 3523 | -27 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | Lose | W+1¼ | 7.5 | 3550 | -13 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Win | W+¼ | 7.5 | 3563 | 20 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | Win | B+¾ | 7.5 | 3543 | 43 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Jin Yucheng | Lose | B+R | 7.5 | 3500 | -15 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Win | W+R | 7.5 | 3515 | 18 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Win | B+R | 7.5 | 3497 | 35 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Win | B+R | 7.5 | 3462 | 57 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Lose | B+R | 7.5 | 3405 | -32 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Li Chengsen | Lose | W+R | 7.5 | 3437 | -30 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jin Yucheng | Win | W+R | 7.5 | 3467 | 34 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Win | B+R | 7.5 | 3462 | 56 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Lose | B+R | 7.5 | 3406 | -32 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Li Chengsen | Lose | W+R | 7.5 | 3438 | -30 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jin Yucheng | Win | W+R | 7.5 | 3468 | 35 | 
 | 2021-09-13 | 第12期中国竜星戦Bブロック1回戦 | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3433 | -36 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Xinghao | Jin Yucheng | Win | W+R | 7.5 | 3469 | 47 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Jin Yucheng | Zheng Zaixiang | Win | B+R | 7.5 | 3422 | 13 | 

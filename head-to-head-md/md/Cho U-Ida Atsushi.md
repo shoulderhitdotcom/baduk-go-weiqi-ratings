@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho U vs Ida Atsushi** | **Cho U streak** | **Ida Atsushi streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Ida Atsushi** | **Cho U Streak** | **Ida Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-02 | 第45期天元戦2回戦 | Ida Atsushi | Cho U | W+6.5 | 6.5 | 4:1 | 2 | 0 | 
 | 2016-03-31 | 第71期本因坊戦リーグ | Ida Atsushi | Cho U | W+R | 6.5 | 3:1 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Yu Zhengqi** | **Cho U Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-16 | 第48期棋聖戦Aリーグ | Yu Zhengqi | Cho U | B+4.5 | 6.5 | 5:6 | 0 | 1 | 
 | 2019-08-01 | 第26期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho U | Yu Zhengqi | B+0.5 | 6.5 | 5:5 | 2 | 0 | 
 | 2019-04-25 | 第44期棋聖戦Aリーグ | Yu Zhengqi | Cho U | W+1.5 | 6.5 | 4:5 | 1 | 0 | 
 | 2018-11-22 | 第44期碁聖戦本戦1回戦 | Yu Zhengqi | Cho U | B+R | 6.5 | 3:5 | 0 | 1 | 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第2回SGW杯中庸戦予選 | Kato Atsushi | Kanno Masashi | B+3.5 | 2019-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9cN4V1okHHRly56LoJBug%3D%3D) | 
 | 第44期棋聖戦予選 | Kanno Masashi | Rin Kaiho | B+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdW%2BzTov4gLt1jZ%2BO1KsGQ%3D%3D) | 

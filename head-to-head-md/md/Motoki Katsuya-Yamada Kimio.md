@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Motoki Katsuya vs Yamada Kimio** | **Motoki Katsuya streak** | **Yamada Kimio streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Motoki Katsuya Vs Yamada Kimio** | **Motoki Katsuya Streak** | **Yamada Kimio Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-06-06 | 第44期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | W+R | 6.5 | 2:1 | 1 | 0 | 
 | 2018-05-31 | 第43期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | B+1.5 | 6.5 | 1:1 | 0 | 1 | 

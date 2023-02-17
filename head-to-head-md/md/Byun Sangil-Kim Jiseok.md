@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Kim Jiseok** | **Byun Sangil Streak** | **Kim Jiseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-16 | 2022-2023韓国囲碁リーグ | Byun Sangil | Kim Jiseok | B+T | 6.5 | 7:2 | 3 | 0 | 
 | 2022-07-13 | 第24回農心杯韓国予選 | Kim Jiseok | Byun Sangil | W+R | 6.5 | 6:2 | 2 | 0 | 
 | 2022-03-16 | 2022年アジア競技大会韓国予選 | Byun Sangil | Kim Jiseok | B+T | 7.5 | 5:2 | 1 | 0 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | B+R | 6.5 | 4:2 | 0 | 1 | 

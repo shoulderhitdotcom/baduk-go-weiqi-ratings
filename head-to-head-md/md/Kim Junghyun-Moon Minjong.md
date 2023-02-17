@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Junghyun vs Moon Minjong** | **Kim Junghyun streak** | **Moon Minjong streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Junghyun Vs Moon Minjong** | **Kim Junghyun Streak** | **Moon Minjong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | B+R | 6.5 | 0:1 | 0 | 1 |
 

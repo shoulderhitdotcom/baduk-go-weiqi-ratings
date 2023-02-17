@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Sungjoon vs Hong Seongji** | **An Sungjoon streak** | **Hong Seongji streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Hong Seongji** | **An Sungjoon Streak** | **Hong Seongji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2013-08-01 | 第4期Olleh杯オープン選手権3回戦 | Hong Seongji | An Sungjoon | B+R | 6.5 | 2:1 | 0 | 1 | 
 | 2009-10-08 | 第37期名人戦（韓国）リーグA | An Sungjoon | Hong Seongji | B+2.5 | 6.5 | 2:0 | 2 | 0 | 

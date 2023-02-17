@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Seol Hyunjun** | **Byun Sangil Streak** | **Seol Hyunjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-16 | 2022-2023韓国囲碁リーグ | Byun Sangil | Seol Hyunjun | B+R | 6.5 | 7:1 | 2 | 0 | 
 | 2022-01-18 | 第5回クラウン・ヘテ杯準決勝 | Seol Hyunjun | Byun Sangil | W+R | 6.5 | 6:1 | 1 | 0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Byun Sangil | Seol Hyunjun | W+R | 6.5 | 5:1 | 0 | 1 | 
 | 2021-03-10 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Byun Sangil | W+2.5 | 6.5 | 5:0 | 5 | 0 | 

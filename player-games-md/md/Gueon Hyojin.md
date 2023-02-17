@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-16 | 第20期天元戦（韓国）予選 |  | Gueon Hyojin | Win | W+R | 6.5 | 3015 | -27 | 
+| 2023-02-16 | 第20期天元戦（韓国）予選 |  | Gueon Hyojin | Win | W+R | 6.5 | 3015 | 0 | 
+| 2023-02-16 | 2022-2023韓国囲碁リーグ | Moon Minjong | Gueon Hyojin | Win | W+R | 6.5 | 3015 | -27 | 
 | 2023-02-07 | 2022-2023フューチャーズリーグ | Gueon Hyojin |  | Win | B+R | 6.5 | 3042 | 18 | 
 | 2023-01-19 | 2022-2023韓国囲碁リーグ | Han Sangcho | Gueon Hyojin | Lose | B+R | 6.5 | 3024 | 5 | 
 | 2023-01-06 | 2022-2023韓国囲碁リーグ | Hirose Yuichi | Gueon Hyojin | Lose | B+R | 6.5 | 3019 | 25 | 

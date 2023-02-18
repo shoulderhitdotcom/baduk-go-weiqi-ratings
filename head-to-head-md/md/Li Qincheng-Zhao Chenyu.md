@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Zhao Chenyu** | **Li Qincheng Streak** | **Zhao Chenyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Zhao Chenyu | W+R | 7.5 | 4:2 | 0 | 1 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | B+R | 7.5 | 4:1 | 2 | 0 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | W+R | 7.5 | 3:1 | 1 | 0 | 
 | 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhao Chenyu | Li Qincheng | B+R | 7.5 | 2:1 | 0 | 1 | 

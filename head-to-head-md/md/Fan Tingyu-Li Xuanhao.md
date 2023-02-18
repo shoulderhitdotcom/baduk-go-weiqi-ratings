@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Li Xuanhao** | **Fan Tingyu Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第24回中国囲碁甲級リーグ5位決定戦第1戦 | Fan Tingyu | Li Xuanhao | W+R | 7.5 | 4:10 | 0 | 1 | 
 | 2023-02-05 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Fan Tingyu | W+R | 7.5 | 4:9 | 1 | 0 | 
 | 2022-05-27 | 第3回王中王囲棋争覇戦決勝 | Li Xuanhao | Fan Tingyu | B+R | 7.5 | 3:9 | 0 | 5 | 
 | 2022-04-29 | 第9回衢州・爛柯杯中国囲碁冠軍戦決勝 | Li Xuanhao | Fan Tingyu | B+R | 7.5 | 3:8 | 0 | 4 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Xian Vs Xie Ke** | **Chen Xian Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Chen Xian | Xie Ke | W+3¼ | 7.5 | 0:3 | 0 | 3 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Xie Ke | Chen Xian | B+R | 7.5 | 0:2 | 0 | 2 | 
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Chen Xian | Xie Ke | W+R | 7.5 | 0:1 | 0 | 1 |
 

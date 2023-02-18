@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Yiquan Vs Wang Yuanjun** | **Lu Yiquan Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Wang Yuanjun | W+R | 6.5 | 1:6 | 0 | 1 | 
 | 2022-11-29 | 第18期国手戦（台湾）8強戦 | Lu Yiquan | Wang Yuanjun | B+0.5 | 6.5 | 1:5 | 1 | 0 | 
 | 2022-11-10 | 第3回早碁争覇戦準決勝  | Lu Yiquan | Wang Yuanjun | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | B+R | 6.5 | 0:4 | 0 | 4 | 

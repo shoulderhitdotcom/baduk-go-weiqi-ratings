@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Shin Jinseo | Huang Yunsong | Lose | W+R | 7.5 | 3838 | 0 | 
 | 2023-02-16 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第7局 | An Sungjoon | Shin Jinseo | Win | W+R | 6.5 | 3838 | 0 | 
 | 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Shin Jinseo | Win | W+R | 7.5 | 3838 | 0 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Win | B+R | 7.5 | 3838 | 0 | 

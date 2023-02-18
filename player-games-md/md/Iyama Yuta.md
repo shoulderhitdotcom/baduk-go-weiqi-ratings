@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-17 | 第24回中国囲碁甲級リーグ3位決定戦第1戦 | Iyama Yuta | Shi Yue | Lose | W+R | 7.5 | 3530 | 12 | 
 | 2023-02-16 | 第48期名人戦リーグ  | Shida Tatsuya | Iyama Yuta | Win | W+R | 6.5 | 3518 | -7 | 
 | 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Iyama Yuta | Li Qincheng | Win | B+R | 7.5 | 3525 | 95 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ  | Iyama Yuta | Chen Xian | Lose | W+R | 7.5 | 3430 | 13 | 

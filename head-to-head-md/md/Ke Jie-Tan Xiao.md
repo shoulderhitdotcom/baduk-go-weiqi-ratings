@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Tan Xiao** | **Ke Jie Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-18 | 第24回中国囲碁甲級リーグ3位決定戦第2戦 | Ke Jie | Tan Xiao | B+4¾ | 7.5 | 7:5 | 3 | 0 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Tan Xiao | Ke Jie | W+R | 7.5 | 6:5 | 2 | 0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tan Xiao | Ke Jie | W+R | 7.5 | 5:5 | 1 | 0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Ke Jie | Tan Xiao | W+R | 7.5 | 4:5 | 0 | 2 | 

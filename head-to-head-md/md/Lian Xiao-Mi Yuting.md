@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Mi Yuting** | **Lian Xiao Streak** | **Mi Yuting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Mi Yuting | W+R | 7.5 | 12:9 | 0 | 1 | 
+| 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Mi Yuting | Lian Xiao | W+R | 7.5 | 12:8 | 1 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | W+R | 7.5 | 11:8 | 0 | 4 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Mi Yuting | Lian Xiao | B+R | 7.5 | 11:7 | 0 | 3 | 
 | 2018-10-19 | 嫘祖杯第31回中国囲棋名人戦挑戦手合三番勝負第3局 | Lian Xiao | Mi Yuting | W+R | 7.5 | 11:6 | 0 | 2 | 

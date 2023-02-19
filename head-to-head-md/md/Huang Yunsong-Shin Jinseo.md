@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Huang Yunsong Vs Shin Jinseo** | **Huang Yunsong Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Huang Yunsong | Shin Jinseo | W+R | 7.5 | 3:3 | 0 | 1 | 
+| 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Shin Jinseo | Huang Yunsong | W+R | 7.5 | 3:2 | 2 | 0 | 
 | 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | W+R | 6.5 | 2:2 | 1 | 0 | 
 | 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Shin Jinseo | Huang Yunsong | B+3.5 | 7.5 | 1:2 | 0 | 1 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Shin Jinseo | Huang Yunsong | W+R | 6.5 | 1:1 | 1 | 0 | 

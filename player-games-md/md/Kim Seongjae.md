@@ -7,17 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-08 | 2022-2023韓国囲碁リーグ | Xu Haohong | Kim Seongjae | Lose | B+0.5 | 6.5 | 3363 | -73 | 
-| 2023-02-03 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Han Woojin | Lose | W+3.5 | 6.5 | 3436 | 10 | 
-| 2023-01-28 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Shin Minjun | Lose | W+R | 6.5 | 3426 | 84 | 
-| 2023-01-14 | 2022-2023韓国囲碁リーグ | Seol Hyunjun | Kim Seongjae | Lose | B+1.5 | 6.5 | 3342 | -65 | 
-| 2023-01-12 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Kim Seongjae | Lose | B+1.5 | 6.5 | 3407 | 3 | 
-| 2023-01-10 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Kim Seongjae | Yun Junsang | Win | B+3.5 | 6.5 | 3404 | 19 | 
-| 2022-12-30 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Ahn Kukhyun | Win | B+R | 6.5 | 3385 | 0 | 
-| 2022-07-08 | 第24回農心杯韓国予選 | Choi Jeong | Kim Seongjae | Win | W+R | 6.5 | 3385 | 45 | 
-| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Shin Jinseo | Lose | W+R | 6.5 | 3340 | -8 | 
-| 2022-03-31 | 2021-2022韓国囲碁リーグ | Lee Changseok | Kim Seongjae | Lose | B+R | 6.5 | 3348 | -20 | 
-| 2022-03-25 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Ahn Kukhyun | Win | B+R | 6.5 | 3368 | 10 | 
+| 2023-02-18 | 2022-2023韓国囲碁リーグ | Hong Seongji | Kim Seongjae | Lose | B+1.5 | 6.5 | 3328 | -32 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Haohong | Kim Seongjae | Lose | B+0.5 | 6.5 | 3360 | -73 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Han Woojin | Lose | W+3.5 | 6.5 | 3433 | 9 | 
+| 2023-01-28 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Shin Minjun | Lose | W+R | 6.5 | 3424 | 84 | 
+| 2023-01-14 | 2022-2023韓国囲碁リーグ | Seol Hyunjun | Kim Seongjae | Lose | B+1.5 | 6.5 | 3340 | -65 | 
+| 2023-01-12 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Kim Seongjae | Lose | B+1.5 | 6.5 | 3405 | 3 | 
+| 2023-01-10 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Kim Seongjae | Yun Junsang | Win | B+3.5 | 6.5 | 3402 | 18 | 
+| 2022-12-30 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Ahn Kukhyun | Win | B+R | 6.5 | 3384 | 0 | 
+| 2022-07-08 | 第24回農心杯韓国予選 | Choi Jeong | Kim Seongjae | Win | W+R | 6.5 | 3384 | 45 | 
+| 2022-04-17 | 2021-2022韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Shin Jinseo | Lose | W+R | 6.5 | 3339 | -8 | 
+| 2022-03-31 | 2021-2022韓国囲碁リーグ | Lee Changseok | Kim Seongjae | Lose | B+R | 6.5 | 3347 | -20 | 
+| 2022-03-25 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Ahn Kukhyun | Win | B+R | 6.5 | 3367 | 9 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Lee Yeongkyu | Win | B+R | 6.5 | 3358 | 33 | 
 | 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Kim Myounghoon | Win | B+R | 6.5 | 3325 | 46 | 
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Wi Taewoong | Win | B+R | 6.5 | 3279 | 53 | 

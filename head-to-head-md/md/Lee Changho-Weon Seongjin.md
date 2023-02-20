@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Weon Seongjin** | **Lee Changho Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-19 | 第2期韓国棋院選手権戦グループリーグ勝者戦 | Lee Changho | Weon Seongjin | W+R | 6.5 | 11:10 | 0 | 2 | 
 | 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | W+14.5 | 6.5 | 11:9 | 0 | 1 | 
 | 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | W+2.5 | 6.5 | 11:8 | 1 | 0 | 
 | 2017-07-15 | 2017年韓国囲碁リーグ | Lee Changho | Weon Seongjin | W+2.5 | 6.5 | 10:8 | 0 | 3 | 

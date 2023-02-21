@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第46期棋聖戦予選 | Katsura Atsushi | Ishida Yoshio | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dOiJ%2BsQ8qafK%2Fm2I0iiRsA%3D%3D) | 
 | 第59期十段戦予選 | Katsura Atsushi | Rin Kaiho | B+8.5 | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1FfXGk0unA982D8TJFw4tw%3D%3D) | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-21 | 第24回農心辛ラーメン杯世界囲碁最強戦第11戦 | Ke Jie | Park Junghwan | Win | W+0.5 | 6.5 | 3697 | 2 | 
 | 2023-02-20 | 第24回農心辛ラーメン杯世界囲碁最強戦第10戦  | Park Junghwan | Iyama Yuta | Win | B+2.5 | 6.5 | 3695 | 2 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ3位決定戦第2戦 | Zhang Tao | Park Junghwan | Win | W+R | 7.5 | 3693 | 5 | 
 | 2023-02-17 | 第24回中国囲碁甲級リーグ3位決定戦第1戦 | Park Junghwan | Tan Xiao | Win | B+¾ | 7.5 | 3688 | 1 | 

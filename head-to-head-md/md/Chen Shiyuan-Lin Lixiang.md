@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Shiyuan Vs Lin Lixiang** | **Chen Shiyuan Streak** | **Lin Lixiang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 | 第4期名人戦（台湾）2回戦 | Chen Shiyuan | Lin Lixiang | W+R | 6.5 | 10:12 | 0 | 3 | 
 | 2023-02-03 | 第22期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | W+R | 6.5 | 10:11 | 0 | 2 | 
 | 2022-10-02 | 第10期中環碁聖戦 | Chen Shiyuan | Lin Lixiang | W+R | 6.5 | 10:10 | 0 | 1 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | B+R | 6.5 | 10:9 | 1 | 0 | 

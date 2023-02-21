@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Xu Haohong** | **Lin Shixun Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 | 第4期名人戦（台湾）2回戦 | Lin Shixun | Xu Haohong | W+R | 6.5 | 5:7 | 0 | 7 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Lin Shixun | Xu Haohong | W+R | 6.5 | 5:6 | 0 | 6 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Shixun | Xu Haohong | W+R | 6.5 | 5:5 | 0 | 5 | 
 | 2020-03-31 | 第19期天元戦（台湾）リーグ | Xu Haohong | Lin Shixun | B+R | 6.5 | 5:4 | 0 | 4 | 

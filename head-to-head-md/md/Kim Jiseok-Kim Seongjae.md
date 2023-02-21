@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Kim Seongjae** | **Kim Jiseok Streak** | **Kim Seongjae Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Kim Jiseok | Kim Seongjae | B+R | 6.5 | 4:3 | 2 | 0 | 
 | 2013-09-27 | 第57期国手戦（韓国）1回戦 | Kim Jiseok | Kim Seongjae | B+R | 6.5 | 3:3 | 1 | 0 | 
 | 2012-07-28 | 2012年韓国囲碁リーグ | Kim Jiseok | Kim Seongjae | W+R | 6.5 | 2:3 | 0 | 1 | 
 | 2012-07-24 | 第14回農心杯韓国選抜戦 | Kim Seongjae | Kim Jiseok | W+R | 6.5 | 2:2 | 1 | 0 | 

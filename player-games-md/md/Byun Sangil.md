@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-23 | 第24回農心辛ラーメン杯世界囲碁最強戦第13戦 | Byun Sangil | Gu Zihao | Lose | W+R | 6.5 | 3684 | 1 | 
 | 2023-02-21 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Kang Yootaek | Win | B+6.5 | 6.5 | 3683 | -2 | 
 | 2023-02-18 | 2022-2023韓国囲碁リーグ | Baek Hyeonwoo | Byun Sangil | Win | W+R | 6.5 | 3685 | 6 | 
 | 2023-02-16 | 2022-2023韓国囲碁リーグ | Byun Sangil | Kim Jiseok | Win | B+T | 6.5 | 3679 | 0 | 

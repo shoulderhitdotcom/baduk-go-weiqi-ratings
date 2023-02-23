@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-23 | 第15回海峰杯プロ囲碁戦4回戦 | Lin Shixun | Wang Yuanjun | Win | W+R | 6.5 | 3291 | -2 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Xu Jingen | Wang Yuanjun | Lose | B+5.5 | 6.5 | 3293 | 4 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Wang Yuanjun | Win | W+R | 6.5 | 3289 | -4 | 
 | 2023-02-10 | 第22期天元戦（台湾）リーグ | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3293 | 101 | 

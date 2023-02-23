@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Shixun Vs Wang Yuanjun** | **Lin Shixun Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-23 | 第15回海峰杯プロ囲碁戦4回戦 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 1:12 | 0 | 1 | 
 | 2022-10-18 | 第1回衢州・爛柯杯世界囲碁公開戦台湾予選 | Lin Shixun | Wang Yuanjun | B+R | 7.5 | 1:11 | 1 | 0 | 
 | 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:11 | 0 | 11 | 
 | 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:10 | 0 | 10 | 

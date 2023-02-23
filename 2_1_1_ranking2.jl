@@ -43,11 +43,9 @@ end
 
 function meh2(tbl)
     # for easy testing
-    # from_date, to_date = mad-Day(364), mad
     mad = maximum(tbl.date)
 
-    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(mad-Day(364), mad; tbl);
-    # pings, games, abnormal_players = estimate_rating(mad-Day(364), mad; tbl);
+    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(mad-Day(365*2-1), mad; tbl);
 
     from_date, to_date = string.(extrema(games.date))
 

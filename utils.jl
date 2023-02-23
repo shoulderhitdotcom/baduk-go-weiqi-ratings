@@ -99,7 +99,7 @@ function prep_data(from_date, to_date, tbl)
     df, tbl_1yr, games_played, players, abnormal_players
 end
 
-function estimate_rating(from_date, to_date = from_date + Day(364); tbl)
+function estimate_rating(from_date, to_date = from_date + Day(365*2-1); tbl)
     df, tbl_1yr, games_played, players, abnormal_players = prep_data(from_date, to_date, tbl)
 
     CSV.write("tmp-df-pls-del.csv", df)

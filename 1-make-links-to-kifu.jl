@@ -83,7 +83,7 @@ end
 
 # Biggest movers
 ngames_last_year = @chain tbl begin
-    @subset max_date - Day(364) <= :date
+    @subset max_date - Day(365*2-1) <= :date
     select(:date, :black, :white)
     stack([:black, :white], :date)
     groupby(:value)
@@ -137,8 +137,6 @@ biggest_movers[end]
 JDF.save("biggest_movers.jdf", biggest_movers[end])
 
 pings_hist_adj
-
-
 
 # update the player ratings page
 for name in names_to_update

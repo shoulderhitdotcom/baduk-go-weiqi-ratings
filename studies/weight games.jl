@@ -336,9 +336,9 @@ decay_val = 0.90f32
 fit_strengths(tbl_model, decay_val, tbl_test)
 
 
-m, y, players = estimate_rating(mad-Day(364), mad; tbl);
+m, y, players = estimate_rating(mad-Day(365*2-1), mad; tbl);
 
-@time estimate_rating(mad-Day(364), mad; tbl);
+@time estimate_rating(mad-Day(365*2-1), mad; tbl);
 
 using CUDA
 CUDA.allowscalar(false)

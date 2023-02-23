@@ -25,7 +25,7 @@ pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
 
 pings_for_md = @chain pings_for_md begin
     #select([:Rank, :Name, :Rating, Symbol("Games Played"), :region, :sex, :age, Symbol("Hanzi (汉字) Name")])
-    select([:Rank, :Name, :Rating, Symbol("Games Played"), Symbol("Hanzi (汉字) Name")])
+    select([:Rank, :Name, :Rating, Symbol("Games Played (2yrs)"), :Rank_1yr, :Rating_1yr, Symbol("Games Played (1yr)"), Symbol("Hanzi (汉字) Name")])
 end
 
 df_to_md(pings_for_md)

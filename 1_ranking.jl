@@ -14,11 +14,16 @@ using JDF
 using CSV
 using Alert
 using TableScraper: scrape_tables
+using Dates
 
 includet("utils.jl")
 
 # the threshold below which will see the player excluded from the main list
 const NGAME_THRESHOLD = 13
+
+# the 99th percentile value in Normal(0, 1)
+# used to discount
+const P99 = 2.326348
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -49,17 +54,19 @@ end
 JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
-function estimate_ratings_and_save_records(tbl)
+function estimate_ratings_and_save_records(tbl, years_to_inc, write=false)
     # for easy testing
     to_date = maximum(tbl.date)
-    from_date = to_date - Day(364)
+    from_date = to_date - Day(365 * years_to_inc - 1)
 
     (pings, games, white75_advantage, black65_advantage, abnormal_players) =
         estimate_rating(from_date, to_date; tbl)
 
     from_date, to_date = string.(extrema(games.date))
 
-    CSV.write("records/$(to_date) pings.csv", pings)
+    if write
+        CSV.write("records/$(to_date) pings.csv", pings)
+    end
 
     pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date
 end
@@ -72,11 +79,12 @@ missing_dates = setdiff(
     sort(unique(tbl.date)),
     dates_in_files)
 
-# back fill the missing dates in the last 365 days
-for date_filter in filter(x -> x >= maximum(tbl.date) - Day(364), missing_dates)
+# back fill the missing dates in the last 365*2 days
+for date_filter in filter(x -> x >= maximum(tbl.date) - Day(365 * 2 - 1), missing_dates)
     println(date_filter)
     tbl_earlier = @subset(tbl, :date <= date_filter)
-    @time estimate_ratings_and_save_records(tbl_earlier)
+    @time estimate_ratings_and_save_records(tbl_earlier, 1, false)
+    @time estimate_ratings_and_save_records(tbl_earlier, 2)
 end
 
 # for creating previous records
@@ -84,108 +92,16 @@ if false
     for date_filter in filter(x -> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev=true))
         println(date_filter)
         tbl_earlier = @subset(tbl, :date <= date_filter)
-        @time estimate_ratings_and_save_records(tbl_earlier)
+        @time estimate_ratings_and_save_records(tbl_earlier, 1, false)
+        @time estimate_ratings_and_save_records(tbl_earlier, 2)
     end
 end
 
-@time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
-    estimate_ratings_and_save_records(tbl);
+@time pings_2yrs, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
+    estimate_ratings_and_save_records(tbl, 2);
 
-# compute rank tiers
-# can I switch the ranks of two players if I just
-
-# function meh(ok)
-#     m = zeros(Int, length(players_involved), length(players_involved))
-#     for row in eachrow(ok)
-#         m[row.bindex, row.windex] = 1
-#         m[row.windex, row.bindex] = 1
-#     end
-#     for i in 1:length(players_involved)
-#         m[i, i] = 1
-#     end
-
-#     last_m = deepcopy(m)
-#     while true
-#         # println("ok")
-#         # println(sum(last_m))
-#         next_m = min.(last_m * m, 1)
-#         # println(sum(next_m))
-#         if next_m == last_m
-#             return last_m
-#         end
-#         last_m = next_m
-#     end
-# end
-
-# const TO_DATE = maximum(tbl.date)
-# const FROM_DATE = TO_DATE - Day(364)
-
-
-# const ELIGIBLE_PINGS = @chain pings begin
-#     @subset :n > NGAME_THRESHOLD
-#     sort!(:estimate, rev = true)
-# end
-
-# # multipl unitl now differ
-# const TBL_1YR = @chain tbl begin
-#     @subset :date >= FROM_DATE
-# end
-
-# const PLAYERS_INVOLVED = @chain TBL_1YR begin
-#     # @subset :white in nwb || :black in nwb
-#     stack([:black, :white])
-#     _.value
-#     unique()
-#     sort()
-# end
-
-
-# function compute_rank_tiers(first_rank)
-#     eligible_pings = @chain ELIGIBLE_PINGS begin
-#         _[first_rank:first_rank+1, :]
-#         DataFrame(black = _.name[1], white = _.name[2], date = maximum(tbl.date), komi_fixed = 6.5, who_win = "W")
-#     end
-
-#     players_involved = @chain TBL_1YR begin
-
-#         stack([:black, :white])
-#         _.value
-#         unique()
-#         sort()
-#     end
-
-#     m = @chain TBL_1YR begin
-#         @transform :windex = @bycol indexin(:white, players_involved)
-#         @transform :bindex = @bycol indexin(:black, players_involved)
-#         @transform :dummy = 1
-#         meh()
-#     end
-
-#     players_involved1 = players_involved[m[1, :].==1]
-
-#     tbl_eligible = @chain TBL_1YR begin
-#         @subset :white in players_involved1 || :black in players_involved1
-#         vcat(eligible_pings)
-#     end
-
-#     pings_tier, _ = estimate_ratings_and_save_records(tbl_eligible)
-
-#     pings_tier
-# end
-
-# @time compute_rank_tiers(2)
-
-# abc = estimate_ratings_and_save_records(tbl)
-# using GLM
-# df
-# names(df)
-# f = Term(:y) ~ sum(Term(Symbol("x$i")) for i in 1:550)
-# glm(f, df, Binomial())
-
-# @target should allow the return of a path where things are stored
-# out_path = @target pings_for_md1 = @chain @watch(pings) begin
-
-# download the ratings from goratings and do a regression
+@time pings_1yr, _ =
+    estimate_ratings_and_save_records(tbl, 1);
 
 goratings_latest = scrape_tables("https://goratings.org/en")[2] |> DataFrame
 
@@ -194,11 +110,7 @@ goratings_latest = @chain goratings_latest begin
     select(:Name, :elo)
 end
 
-# the 99th percentile value in Normal(0, 1)
-# used to discount
-const P99 = 2.326348
-
-pings_for_alignment = @chain pings begin
+pings_for_alignment = @chain pings_2yrs begin
     @transform :eng_name = get(NAMESDB, :name, "")
     @subset :eng_name != ""
     innerjoin(goratings_latest, on=:eng_name => :Name)
@@ -213,14 +125,9 @@ function turn_records_into_md(pings)
         @transform :name = @bycol Vector{String}(:name) # avoid weird SentinelArray Bug
         @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
-        @transform :estimate_for_ranking = :estimate - P99 * :std_error
-        # @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
-        # @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
-        # @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         @transform :Rating = round(Int, :estimate_for_ranking * 400 / log(10) + pings_for_alignment.diff)
-        @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
+        @transform :Rating_1yr = round(Int, :estimate_1yr * 400 / log(10) + pings_for_alignment.diff)
         sort!(:Rating, rev=true)
-        # @transform :Rank = @bycol 1:length(:Rating)
     end
 end
 
@@ -240,6 +147,14 @@ if false# run only once to generate the historical ratings
     JDF.save("pings_hist.jdf", pings_hist)
 end
 
+pings_1yr_for_merging = @chain pings_1yr begin
+    select(:name, :n=>:n_1yr, :estimate_for_ranking=>:estimate_1yr)
+end
+
+pings = @chain pings_2yrs begin
+    innerjoin(pings_1yr_for_merging, on=:name => :name)
+end
+
 pings_for_md1 = turn_records_into_md(pings)
 # this can be skipped in target network
 JDF.save("pings.jdf", pings_for_md1)
@@ -255,10 +170,8 @@ pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:dat
 
 JDF.save("pings_hist.jdf", pings_hist)
 
-using Dates
-
 ngames = @chain tbl begin
-    @subset :date >= today() - Day(365)
+    @subset :date >= today() - Day(365 * 2)
     stack([:black, :white], :date)
     groupby(:value)
     combine(nrow)
@@ -303,9 +216,9 @@ end
 
 # find out the number of games played in last 365 days
 function ma365(col::AbstractVector)
-    s = sum(@view col[1:365])
-    a = accumulate(+, @view col[1:365])
-    vcat(a, s .- accumulate(+, col[1:end-365]) .+ accumulate(+, col[366:end]))
+    s = sum(@view col[1:365*2])
+    a = accumulate(+, @view col[1:365*2])
+    vcat(a, s .- accumulate(+, col[1:end-365*2]) .+ accumulate(+, col[365*2+1:end]))
 end
 
 games_played_hist = @chain tbl begin
@@ -316,7 +229,7 @@ games_played_hist = @chain tbl begin
     combine(nrow => :n)
     groupby(:value)
     combine(df -> begin
-        if nrow(df) >= 366
+        if nrow(df) >= 365 * 2 + 1
             return @chain df begin
                 sort(:date)
                 @transform :n = @bycol ma365(:n)
@@ -360,9 +273,9 @@ end
 
 # determine rank ranges
 rank_ranges = @chain pings_hist begin
-    @subset @bycol maximum(:date) - Day(364) .<= :date
+    @subset @bycol maximum(:date) - Day(365 * 2 - 1) .<= :date
     @aside counts = @chain tbl begin
-        @subset @bycol maximum(:date) - Day(364) .<= :date
+        @subset @bycol maximum(:date) - Day(365 * 2 - 1) .<= :date
         stack([:black, :white])
         groupby(:value)
         combine(nrow => :ngames)
@@ -379,9 +292,6 @@ rank_ranges = @chain pings_hist begin
     groupby(:name)
     @combine(:form_range = string(extrema(:ranking)), :median_rank = median(:ranking))
 end
-
-
-
 
 # figure out the adjustment needed for each day
 sjs_ratings = scrape_tables("https://www.goratings.org/en/players/1313.html")[2] |> DataFrame
@@ -462,7 +372,7 @@ top100_movements = @chain pings_hist_adj begin
     combine(df -> begin
         if nrow(df) == 1
             # error("what")
-            return DataFrame(rating_change = missing)
+            return DataFrame(rating_change=missing)
             # DataFrame(rating_change=diff(_.Rating))
         end
         @chain df begin
@@ -482,7 +392,7 @@ JDF.save("top100_movements.jdf", top100_movements)
 
 # compute the average rating
 mean_ratings = @chain pings_hist_adj begin
-    @subset today() - Day(364) <= :date
+    @subset today() - Day(365 * 2 - 1) <= :date
     groupby(:name)
     @combine(:mean_rating = mean(:Rating))
 end
@@ -537,7 +447,9 @@ pings_for_md_tmp = select(
     # :region,
     :eng_name => "Name",
     :Rating,
-    :n => "Games Played",
+    :Rating_1yr,
+    :n => "Games Played (2yrs)",
+    :n_1yr => "Games Played (1yr)",
     :n,
     :name => "Hanzi (汉字) Name")
 
@@ -550,6 +462,8 @@ end
 
 pings_for_md = @chain pings_for_md_tmp begin
     @subset :n >= NGAME_THRESHOLD
+    sort!(:Rating_1yr, rev=true)
+    @transform :Rank_1yr = @bycol 1:length(:Rating_1yr)
     sort!(:Rating, rev=true)
     @transform :Rank = @bycol 1:length(:Rating)
     select(Not(:n))
@@ -557,32 +471,3 @@ end
 
 JDF.save("pings_for_md.jdf", pings_for_md)
 JDF.save("below_threshold_pings_for_md.jdf", below_threshold_pings_for_md)
-
-# CSV.write("c:/data/tmp.csv", pings_for_md)
-
-
-## make a GLM solution
-## Doesn't work
-
-# players = vcat(games.black, games.white) |> unique |> sort!
-
-# m = zeros(nrow(games), length(players))
-
-# for (row, i) in enumerate(indexin(games.black, players))
-#     m[row, i] += 1
-# end
-
-# for (row, i) in enumerate(indexin(games.white, players))
-#     m[row, i] -= 1
-# end
-
-# df = DataFrame(m, :auto)
-# df.y = float.(games.who_win .== "B")
-
-# CSV.write("c:/data/ok.csv", df)
-
-# using GLM: Term, glm, Binomial, LogitLink
-
-# form = mapreduce(Term, + , [Symbol("x"*string(i)) for i in 1:length(players)])
-
-# @time glm(Term(:y)~form, df, Binomial(), LogitLink());

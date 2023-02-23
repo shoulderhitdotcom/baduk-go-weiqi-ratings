@@ -24,10 +24,8 @@ pings_hist = JDF.load("pings_hist.jdf") |> DataFrame |> unique
 
 max_date = maximum(pings_hist.date)
 
-max_date - Day(364)
-
 @chain pings_hist begin
-    @subset max_date - Day(364) <= :date <= max_date
+    @subset max_date - Day(365*2-1) <= :date <= max_date
     groupby(:eng_name_old)
     @combine begin
         :best_rank = minimum(:Rank)

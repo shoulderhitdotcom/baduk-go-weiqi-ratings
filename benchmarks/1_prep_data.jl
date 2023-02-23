@@ -103,7 +103,7 @@ using Chain, DataFramesMeta
 
 players = @chain tbl_1yr begin
     @where :date .<= mad
-    @where :date .>= mad - Day(364)
+    @where :date .>= mad - Day(365*2-1)
     vcat(_.black, _.white)
     unique
     sort!

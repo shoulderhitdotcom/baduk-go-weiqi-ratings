@@ -21,14 +21,6 @@ db = load_namesdb("NAMESDB"; force=false)
 
 do_for_all = false
 
-# @subset(stack(DataFrame(db), :), :value .== "Kim Jiseok")
-
-# tbl_from_somewhere = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
-#         JDF.load()
-#         DataFrame()
-#         @subset (:black .== "金志錫") .& (:white .== "金志錫")
-#         select!(:kifu_link)
-# end
 
 ## Need to selectively up date this
 # function update_head_to_head_games_jdf(df, names_to_update; do_for_all = false)
@@ -41,15 +33,22 @@ end
 head_to_head_sets = @chain df begin
     @subset !ismissing(:black)
     @subset !ismissing(:white)
-    @subset :black in names_to_update
-    @subset :white in names_to_update
-    Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
-    keys() # keys are the name pairs
-    collect.() # returns an array of arays of two values
-    filter(x->length(x) == 2, _) # weird case where kim jiseok played himself
-    sort.() # sort the name by alphabetical order
-    unique() #
+    @subset :black != ""
+    @subset :white != ""
+    @subset @bycol :date .== maximum(:date)
+    zip(_.black, _.white)
+    collect()
+    # sort.()
+    # @subset :black in names_to_update
+    # @subset :white in names_to_update
+    # Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
+    # keys() # keys are the name pairs
+    # collect.() # returns an array of arays of two values
+    # filter(x->length(x) == 2, _) # weird case where kim jiseok played himself
+    # sort.() # sort the name by alphabetical order
+    # unique() #
 end
+
 
 for (name1, name2) in head_to_head_sets
     # println(name1, name2)

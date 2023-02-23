@@ -21,6 +21,6 @@ end
 
 
 
-println("Rating Based on $(nrow(games)) from $(mad-Day(364)) to $mad")
+println("Rating Based on $(nrow(games)) from $(mad-Day(365*2-1)) to $mad")
 println("* Ping is a reference to ancient Chinese Weiqi gradings"); println()
 

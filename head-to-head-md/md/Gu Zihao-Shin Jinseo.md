@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Gu Zihao Vs Shin Jinseo** | **Gu Zihao Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第24回農心辛ラーメン杯世界囲碁最強戦第14戦 | Gu Zihao | Shin Jinseo | W+R | 6.5 | 4:6 | 0 | 3 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | W+R | 7.5 | 4:5 | 0 | 2 | 
 | 2020-09-11 | 第9回応氏杯世界選手権3回戦 | Gu Zihao | Shin Jinseo | W+R | 7.5 | 4:4 | 0 | 1 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Gu Zihao | Shin Jinseo | B+R | 7.5 | 4:3 | 1 | 0 | 

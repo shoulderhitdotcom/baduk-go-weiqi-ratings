@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Junyan Vs Wang Yuanjun** | **Lin Junyan Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | W+R | 6.5 | 21:25 | 0 | 1 | 
 | 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | B+3.5 | 6.5 | 21:24 | 1 | 0 | 
 | 2020-12-19 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Lin Junyan | Wang Yuanjun | W+0.5 | 6.5 | 20:24 | 0 | 2 | 
 | 2020-12-12 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Wang Yuanjun | Lin Junyan | B+0.5 | 6.5 | 20:23 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Lin Shuyang | Win | W+R | 6.5 | 3007 | 13 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lin Shuyang | Win | W+R | 6.5 | 2994 | 5 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lin Shuyang | Lin Lixiang | Win | B+R | 6.5 | 2989 | 8 | 
 | 2023-02-10 | 第22期天元戦（台湾）リーグ | Lin Junyan | Lin Shuyang | Lose | B+0.5 | 6.5 | 2981 | 59 | 

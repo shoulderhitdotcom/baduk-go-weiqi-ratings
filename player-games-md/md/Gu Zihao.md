@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第24回農心辛ラーメン杯世界囲碁最強戦第14戦 | Gu Zihao | Shin Jinseo | Lose | W+R | 6.5 | 3688 | -4 | 
 | 2023-02-23 | 第24回農心辛ラーメン杯世界囲碁最強戦第13戦 | Byun Sangil | Gu Zihao | Win | W+R | 6.5 | 3692 | 9 | 
 | 2023-02-22 | 第24回農心辛ラーメン杯世界囲碁最強戦第12戦 | Gu Zihao | Park Junghwan | Win | B+R | 6.5 | 3683 | 0 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ（再対局） | Gu Zihao | Park Junghwan | Win | B+R | 7.5 | 3683 | 0 | 
@@ -77,8 +78,8 @@
 | 2021-07-15 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3698 | -9 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Yang Dingxin | Gu Zihao | Win | W+R | 7.5 | 3707 | 2 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3705 | 8 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3697 | 9 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3688 | 22 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3697 | 8 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3689 | 23 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Lose | W+R | 7.5 | 3666 | -11 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Win | B+R | 7.5 | 3677 | -4 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | Win | W+R | 7.5 | 3681 | 12 | 

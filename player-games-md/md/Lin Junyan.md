@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | Lose | W+R | 6.5 | 3199 | -13 | 
+| 2023-02-22 | 2022-2023韓国囲碁リーグ  | Choi Jaeyoung | Lin Junyan | Lose | B+T | 6.5 | 3212 | 0 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lin Junyan | Lose | B+R | 6.5 | 3212 | 10 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lin Junyan | Chen Qirui | Win | B+0.5 | 6.5 | 3202 | 1 | 
 | 2023-02-10 | 第22期天元戦（台湾）リーグ | Lin Junyan | Lin Shuyang | Win | B+0.5 | 6.5 | 3201 | 3 | 
@@ -61,10 +63,10 @@
 | 2022-03-31 | 第3期名人冠軍戦決勝七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3328 | -3 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | B+R | 6.5 | 3331 | -5 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Win | B+R | 6.5 | 3336 | 14 | 
-| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3322 | 26 | 
-| 2022-03-11 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lin Junyan | Lose | B+R | 6.5 | 3296 | -6 | 
-| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 7.5 | 3302 | -11 | 
-| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3313 | -1 | 
+| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3322 | 25 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Lin Shixun | Lin Junyan | Lose | B+R | 6.5 | 3297 | -6 | 
+| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 7.5 | 3303 | -11 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Lin Junyan | Lai Junfu | Lose | W+R | 6.5 | 3314 | 0 | 
 | 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Shixun | Lin Junyan | Win | W+R | 7.5 | 3314 | -2 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Lin Yanchen | Lin Junyan | Win | W+R | 7.5 | 3316 | 1 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 |  | Lin Junyan | Win | W+R | 6.5 | 3315 | 5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3220 | -11 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lin Shuyang | Lose | W+R | 6.5 | 3231 | 0 | 
 | 2023-02-20 | 第4期名人戦（台湾）2回戦 | Xu Jingen | Chen Qirui | Win | W+R | 6.5 | 3231 | 14 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lin Junyan | Chen Qirui | Lose | B+0.5 | 6.5 | 3217 | -10 | 
@@ -83,9 +84,9 @@
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3280 | 17 | 
 | 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3263 | -4 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Shixun | Chen Qirui | Win | W+R | 6.5 | 3267 | 8 | 
-| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3259 | 2 | 
-| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3257 | -7 | 
-| 2022-03-08 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | B+0.5 | 6.5 | 3264 | -38 | 
+| 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3259 | 1 | 
+| 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3258 | -7 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | B+0.5 | 6.5 | 3265 | -37 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Chen Qirui | Lin Shixun | Lose | W+1 | 7.5 | 3302 | -14 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Chen Qirui | Lin Shixun | Lose | W+R | 7.5 | 3316 | -7 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Xinwei | Chen Qirui | Win | W+9.5 | 6.5 | 3323 | 9 | 

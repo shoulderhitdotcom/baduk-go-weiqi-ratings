@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | Win | W+R | 6.5 | 3294 | 3 | 
 | 2023-02-23 | 第15回海峰杯プロ囲碁戦4回戦 | Lin Shixun | Wang Yuanjun | Win | W+R | 6.5 | 3291 | -2 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Xu Jingen | Wang Yuanjun | Lose | B+5.5 | 6.5 | 3293 | 4 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Wang Yuanjun | Win | W+R | 6.5 | 3289 | -4 | 
@@ -84,8 +85,8 @@
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Win | W+R | 6.5 | 3236 | -15 | 
 | 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Lose | W+R | 6.5 | 3251 | -4 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3255 | 20 | 
-| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3235 | 0 | 
-| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3235 | 4 | 
+| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3235 | -1 | 
+| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3236 | 5 | 
 | 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3231 | 23 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3208 | -14 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Win | B+R | 6.5 | 3222 | -26 | 

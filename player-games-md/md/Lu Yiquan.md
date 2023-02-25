@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Lin Shuyang | Lose | W+R | 6.5 | 3032 | -7 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Lin Lixiang | Lu Yiquan | Win | W+R | 6.5 | 3039 | -3 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Lu Yiquan | Wang Yuanjun | Lose | W+R | 6.5 | 3042 | -8 | 
 | 2023-02-10 | 第22期天元戦（台湾）リーグ | Lai Junfu | Lu Yiquan | Lose | B+R | 6.5 | 3050 | -1 | 
@@ -79,8 +80,8 @@
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Li Wei | Lu Yiquan | Win | W+R | 6.5 | 3029 | 5 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Xu Jingen | Lu Yiquan | Win | W+R | 7.5 | 3024 | -9 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 |  | Lu Yiquan | Win | W+R | 7.5 | 3033 | -1 | 
-| 2021-09-26 | 第9期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 3034 | 4 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Yuxiang | Lu Yiquan | Win | W+R | 6.5 | 3030 | -4 | 
+| 2021-09-26 | 第9期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 3034 | 3 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Yuxiang | Lu Yiquan | Win | W+R | 6.5 | 3031 | -3 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Lose | W+R | 6.5 | 3034 | 17 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 3017 | -19 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lu Yiquan | Lin Lixiang | Lose | W+R | 6.5 | 3036 | 0 | 

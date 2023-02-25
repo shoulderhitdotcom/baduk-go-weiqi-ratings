@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Lose | B+R | 6.5 | 3158 | -8 | 
+| 2023-02-22 | 2022-2023韓国囲碁リーグ  | Ahn Kukhyun | Lin Lixiang | Lose | B+R | 6.5 | 3166 | 0 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Lin Lixiang | Lu Yiquan | Lose | W+R | 6.5 | 3166 | 0 | 
 | 2023-02-20 | 第4期名人戦（台湾）2回戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3166 | 19 | 
 | 2023-02-19 | 2022-2023韓国囲碁リーグ | Lee Wonyoung | Lin Lixiang | Win | W+1.5 | 6.5 | 3147 | -3 | 
@@ -35,9 +37,9 @@
 | 2022-11-18 | 2022中国囲碁乙級リーグ | Lin Lixiang |  | Lose | W+R | 7.5 | 3057 | -4 | 
 | 2022-11-17 | 2022中国囲碁乙級リーグ |  | Lin Lixiang | Lose | B+R | 7.5 | 3061 | 3 | 
 | 2022-11-16 | 2022中国囲碁乙級リーグ |  | Lin Lixiang | Win | W+R | 7.5 | 3058 | -7 | 
-| 2022-11-15 | 2022中国囲碁乙級リーグ | Lin Lixiang |  | Win | B+¾ | 7.5 | 3065 | 3 | 
-| 2022-11-13 | 第10期中環碁聖戦決勝三番勝負第2局 | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3062 | 0 | 
-| 2022-11-06 | 第10期中環碁聖戦決勝三番勝負第1局 | Lin Lixiang | Lai Junfu | Lose | W+R | 6.5 | 3062 | -30 | 
+| 2022-11-15 | 2022中国囲碁乙級リーグ | Lin Lixiang |  | Win | B+¾ | 7.5 | 3065 | 2 | 
+| 2022-11-13 | 第10期中環碁聖戦決勝三番勝負第2局 | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3063 | 0 | 
+| 2022-11-06 | 第10期中環碁聖戦決勝三番勝負第1局 | Lin Lixiang | Lai Junfu | Lose | W+R | 6.5 | 3063 | -29 | 
 | 2022-10-25 | 第18期国手戦（台湾） | Lin Lixiang |  | Win | B+R | 6.5 | 3092 | 26 | 
 | 2022-10-23 | 第10期中環碁聖戦8強戦 | Lu Yiquan | Lin Lixiang | Win | W+R | 6.5 | 3066 | 0 | 
 | 2022-10-17 | 第3回早碁争覇戦2回戦 | Lin Lixiang | Chen Shoulian | Lose | W+R | 6.5 | 3066 | 2 | 
@@ -68,8 +70,8 @@
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Lixiang | Bai Xinhui | Win | B+R | 6.5 | 3182 | -2 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Lose | W+R | 6.5 | 3184 | -1 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3185 | 0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Win | W+R | 6.5 | 3185 | 8 | 
-| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+1 | 7.5 | 3177 | -15 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Win | W+R | 6.5 | 3185 | 7 | 
+| 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+1 | 7.5 | 3178 | -14 | 
 | 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Lixiang | Xu Haohong | Lose | W+R | 7.5 | 3192 | 1 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | Win | W+¼ | 7.5 | 3191 | 15 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lin Yanchen | Win | B+R | 7.5 | 3176 | 0 | 

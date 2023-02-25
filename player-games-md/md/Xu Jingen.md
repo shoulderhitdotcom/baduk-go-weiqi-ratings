@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-24 | 第22期天元戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Win | B+R | 6.5 | 3203 | 9 | 
+| 2023-02-22 | 2022-2023韓国囲碁リーグ  | Xu Jingen | An Sungjoon | Lose | W+R | 6.5 | 3194 | 0 | 
 | 2023-02-21 | 第22期天元戦（台湾）リーグ | Xu Jingen | Wang Yuanjun | Win | B+5.5 | 6.5 | 3194 | 0 | 
 | 2023-02-20 | 第4期名人戦（台湾）2回戦 | Xu Jingen | Chen Qirui | Lose | W+R | 6.5 | 3194 | 14 | 
 | 2023-02-19 | 2022-2023韓国囲碁リーグ | Kim Jiseok | Xu Jingen | Win | W+1.5 | 6.5 | 3180 | -4 | 
@@ -73,9 +75,9 @@
 | 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Lose | W+0.5 | 6.5 | 2892 | 9 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Win | W+R | 6.5 | 2883 | -6 | 
 | 2022-03-28 | 第12期友士杯十段戦予選 | Chen Feng | Xu Jingen | Win | W+R | 6.5 | 2889 | 0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Lin Xiuping | Xu Jingen | Win | W+R | 6.5 | 2889 | -48 | 
-| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Xu Jingen | Wang Xinghao | Lose | W+R | 6.5 | 2937 | -11 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Han Woojin | Xu Jingen | Lose | B+R | 6.5 | 2948 | 3 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Lin Xiuping | Xu Jingen | Win | W+R | 6.5 | 2889 | -49 | 
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Xu Jingen | Wang Xinghao | Lose | W+R | 6.5 | 2938 | -11 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Han Woojin | Xu Jingen | Lose | B+R | 6.5 | 2949 | 4 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 7.5 | 2945 | 0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 7.5 | 2945 | -9 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 2954 | 0 | 

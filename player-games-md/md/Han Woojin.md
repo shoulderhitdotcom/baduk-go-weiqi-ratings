@@ -12,8 +12,8 @@
 | 2023-02-24 | 2023年ミレニアム天元戦1回戦 | Han Woojin |  | Win | B+R | 6.5 | 3274 | -5 | 
 | 2023-02-23 | 2022-2023韓国囲碁リーグ | Han Woojin | Shen Zaiyi | Lose | W+R | 6.5 | 3279 | 16 | 
 | 2023-02-16 | 第20期天元戦（韓国）予選 | Han Woojin |  | Win | B+R | 6.5 | 3263 | 4 | 
-| 2023-02-09 | 2022-2023韓国囲碁リーグ | Park Geunho | Han Woojin | Win | W+R | 6.5 | 3259 | 17 | 
-| 2023-02-03 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Han Woojin | Win | W+3.5 | 6.5 | 3242 | -1 | 
+| 2023-02-09 | 2022-2023韓国囲碁リーグ | Park Geunho | Han Woojin | Win | W+R | 6.5 | 3259 | 16 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Kim Seongjae | Han Woojin | Win | W+3.5 | 6.5 | 3243 | 0 | 
 | 2023-01-29 | 2022-2023韓国囲碁リーグ | Sakai Yuki | Han Woojin | Win | W+R | 6.5 | 3243 | -49 | 
 | 2023-01-23 | 2022-2023フューチャーズリーグ | Oh Byungwoo | Han Woojin | Win | W+R | 6.5 | 3292 | 6 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Han Woojin | Gueon Hyojin | Lose | W+R | 6.5 | 3286 | 0 | 
@@ -48,8 +48,8 @@
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第3戦 | Han Woojin | Tu Xiaoyu | Lose | W+R | 6.5 | 2981 | 0 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第2戦  | Fukuoka Kotaro | Han Woojin | Lose | B+0.5 | 6.5 | 2981 | 0 | 
 | 2022-06-04 | 第9回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Han Woojin | Win | W+R | 6.5 | 2981 | -16 | 
-| 2022-05-16 | 2022YK建機杯リーグ | Kim Eunji | Han Woojin | Win | W+3.5 | 6.5 | 2997 | -113 | 
-| 2022-05-02 | 2022YK建機杯リーグ | Han Woojin | Ryu Minhyung | Win | B+R | 6.5 | 3110 | -16 | 
+| 2022-05-16 | 2022YK建機杯リーグ | Kim Eunji | Han Woojin | Win | W+3.5 | 6.5 | 2997 | -114 | 
+| 2022-05-02 | 2022YK建機杯リーグ | Han Woojin | Ryu Minhyung | Win | B+R | 6.5 | 3111 | -15 | 
 | 2022-04-13 | 2022YK建機杯リーグ | Han Woojin | Kim Sedong | Lose | W+R | 6.5 | 3126 | -21 | 
 | 2022-04-02 | 2022YK建機杯リーグ | Han Woojin | Park Junghwan | Lose | W+R | 6.5 | 3147 | 0 | 
 | 2022-03-26 | 第7回未来の星新鋭最強戦決勝 |  | Han Woojin | Lose | B+R | 6.5 | 3147 | -1 | 
@@ -81,9 +81,9 @@
 | 2020-09-11 | 2020CHO-A BITONEルーキー囲碁リーグ第7節第3試合第2局 | Han Woojin | Lee Yeon | Win | B+R | 6.5 | 2868 | -19 | 
 | 2020-08-16 | 2020CHO-A BITONEルーキー囲碁リーグ第5節第3試合第3局 | Han Woojin |  | Win | B+R | 6.5 | 2887 | 15 | 
 | 2020-08-14 | 2020CHO-A BITONEルーキー囲碁リーグ第3節第2試合第1局 |  | Han Woojin | Win | W+R | 6.5 | 2872 | 74 | 
-| 2020-08-02 | 2020CHO-A BITONEルーキー囲碁リーグ第2節第1試合第1局 | Han Woojin | Zheng Yujin | Lose | W+R | 6.5 | 2798 | 147 | 
-| 2020-03-14 | 第8回河燦錫国手杯英才最強戦16強戦 | Kim Ilhwan | Han Woojin | Lose | B+R | 6.5 | 2651 | 0 | 
-| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 |  | Han Woojin | Win | W+R | 6.5 | 2651 | -246 | 
+| 2020-08-02 | 2020CHO-A BITONEルーキー囲碁リーグ第2節第1試合第1局 | Han Woojin | Zheng Yujin | Lose | W+R | 6.5 | 2798 | 146 | 
+| 2020-03-14 | 第8回河燦錫国手杯英才最強戦16強戦 | Kim Ilhwan | Han Woojin | Lose | B+R | 6.5 | 2652 | 0 | 
+| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 |  | Han Woojin | Win | W+R | 6.5 | 2652 | -245 | 
 | 2020-01-09 | 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | Lose | B+R | 6.5 | 2897 | missing |
 
 

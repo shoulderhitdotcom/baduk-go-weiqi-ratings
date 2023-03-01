@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changseok Vs Park Junghwan** | **Lee Changseok Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-01 | 第4期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Park Junghwan | W+R | 6.5 | 1:6 | 0 | 2 | 
 | 2022-05-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Park Junghwan | W+R | 6.5 | 1:5 | 0 | 1 | 
 | 2022-04-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | W+R | 6.5 | 1:4 | 1 | 0 | 
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | W+R | 6.5 | 0:4 | 0 | 4 | 

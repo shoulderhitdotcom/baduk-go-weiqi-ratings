@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Shin Jinseo** | **An Sungjoon Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-01 | 2023YK建機杯予選 | An Sungjoon | Shin Jinseo | W+R | 6.5 | 0:7 | 0 | 7 | 
 | 2023-02-16 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第7局 | An Sungjoon | Shin Jinseo | W+R | 6.5 | 0:6 | 0 | 6 | 
 | 2022-07-08 | 第27回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Shin Jinseo | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦D2 | An Sungjoon | Shin Jinseo | W+R | 6.5 | 0:4 | 0 | 4 | 

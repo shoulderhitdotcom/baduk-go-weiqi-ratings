@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-01 | 第4期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Park Junghwan | Win | W+R | 6.5 | 3694 | -3 | 
 | 2023-02-28 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Han Seungjoo | Park Junghwan | Lose | B+0.5 | 6.5 | 3697 | 0 | 
 | 2023-02-25 | 2022-2023韓国囲碁リーグ | Park Junghwan | Weon Seongjin | Win | B+3.5 | 6.5 | 3697 | 7 | 
 | 2023-02-22 | 第24回農心辛ラーメン杯世界囲碁最強戦第12戦 | Gu Zihao | Park Junghwan | Lose | B+R | 6.5 | 3690 | 0 | 

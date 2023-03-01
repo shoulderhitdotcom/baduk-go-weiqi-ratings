@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-01 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Ye Changxin | Jin Yucheng | Win | B+R | 7.5 | 3354 | 0 | 
+| 2023-03-01 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Hu Zihao | Ye Changxin | Lose | B+¾ | 7.5 | 3354 | 5 | 
 | 2023-02-28 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Ye Changxin | Wang Xinghao | Lose | W+R | 7.5 | 3349 | 0 | 
 | 2023-02-28 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Ye Changxin |  | Win | B+R | 7.5 | 3349 | 43 | 
 | 2023-02-27 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Chen Haoxin | Ye Changxin | Win | W+R | 7.5 | 3306 | 0 | 

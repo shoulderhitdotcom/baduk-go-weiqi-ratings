@@ -13,8 +13,8 @@
 | 2023-02-27 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Ye Changxin |  | Win | B+R | 7.5 | 3306 | 0 | 
 | 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Ye Changxin | Mao Ruilong | Win | B+R | 7.5 | 3306 | 19 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Shen Peiran | Ye Changxin | Win | W+R | 7.5 | 3287 | -22 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | He Yuhan | Ye Changxin | Lose | B+R | 7.5 | 3309 | -23 | 
-| 2023-02-03 | 第24回中国囲碁甲級リーグ | Ye Changxin | Kim Myounghoon | Lose | W+R | 7.5 | 3332 | 34 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | He Yuhan | Ye Changxin | Lose | B+R | 7.5 | 3309 | -22 | 
+| 2023-02-03 | 第24回中国囲碁甲級リーグ | Ye Changxin | Kim Myounghoon | Lose | W+R | 7.5 | 3331 | 33 | 
 | 2022-09-18 | 第24回中国囲碁甲級リーグ | Ye Changxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3298 | -3 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Ye Changxin | Huang Yunsong | Lose | W+R | 7.5 | 3301 | 17 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Ye Changxin | Li Qincheng | Win | B+R | 7.5 | 3284 | 55 | 
@@ -31,8 +31,8 @@
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Ye Changxin | Wu Guangya | Lose | W+R | 7.5 | 2970 | -107 | 
 | 2021-10-23 | 第2回元十九杯中国囲碁新初段争覇戦準決勝（2020年組） | Ye Changxin |  | Lose | W+¼ | 7.5 | 3077 | -34 | 
 | 2021-10-22 | 第2回元十九杯中国囲碁新初段争覇戦4回戦（2020年組） | Ye Changxin | Fu Jianheng | Win | B+2¾ | 7.5 | 3111 | 0 | 
-| 2021-10-22 | 第2回元十九杯中国囲碁新初段争覇戦3回戦（2020年組） | Ye Changxin |  | Win | B+R | 7.5 | 3111 | 70 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Ye Changxin | Meng Tailing | Lose | W+R | 7.5 | 3041 | -30 | 
+| 2021-10-22 | 第2回元十九杯中国囲碁新初段争覇戦3回戦（2020年組） | Ye Changxin |  | Win | B+R | 7.5 | 3111 | 71 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Ye Changxin | Meng Tailing | Lose | W+R | 7.5 | 3040 | -31 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Lose | B+1¾ | 7.5 | 3071 | -33 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Ye Changxin | Lyu Liyan | Lose | W+R | 7.5 | 3104 | -76 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Wang Zheyu | Ye Changxin | Win | W+4¼ | 7.5 | 3180 | 103 | 

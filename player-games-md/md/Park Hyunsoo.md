@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-28 | 2022-2023フューチャーズリーグ | Park Hyunsoo | Kim Hyeongwoo | Win | B+R | 6.5 | 3233 | 2 | 
 | 2023-02-26 | 2023年ミレニアム天元戦決勝三番勝負第1局 | Han Woojin | Park Hyunsoo | Lose | B+R | 6.5 | 3231 | -26 | 
 | 2023-02-25 | 2023年ミレニアム天元戦準決勝 |  | Park Hyunsoo | Win | W+R | 6.5 | 3257 | 5 | 
 | 2023-02-15 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Park Hyunsoo | Lose | B+R | 6.5 | 3252 | -11 | 

@@ -13,10 +13,10 @@
 | 2023-02-27 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ |  | Hu Zihao | Lose | B+R | 7.5 | 3332 | 0 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Byun Sangil | Hu Zihao | Lose | B+R | 7.5 | 3332 | -6 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Ding Hao | Hu Zihao | Lose | B+R | 7.5 | 3338 | 62 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3276 | 53 | 
-| 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Lose | B+R | 7.5 | 3223 | -16 | 
-| 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3239 | 59 | 
-| 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3180 | -112 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3276 | 54 | 
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Tao | Hu Zihao | Lose | B+R | 7.5 | 3222 | -16 | 
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Hu Zihao | Xu Haohong | Win | B+R | 7.5 | 3238 | 59 | 
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Hu Zihao | Lose | B+R | 7.5 | 3179 | -113 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 |  | Hu Zihao | Win | W+R | 7.5 | 3292 | 0 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Wang Chuxuan | Hu Zihao | Win | W+R | 7.5 | 3292 | 14 | 
 | 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Hu Zihao | Li Xinchen | Win | B+R | 7.5 | 3278 | 0 | 

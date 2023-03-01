@@ -7,29 +7,30 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-20 | 2022-2023フューチャーズリーグ | Kim Seongji | Cho Seungah | Win | B+R | 6.5 | 3091 | -61 | 
-| 2023-02-07 | 2022-2023フューチャーズリーグ | Yoo Ohseong | Kim Seongji | Lose | B+R | 6.5 | 3152 | 39 | 
-| 2023-02-06 | 2022-2023フューチャーズリーグ | Choi Kihoon | Kim Seongji | Win | W+4.5 | 6.5 | 3113 | 9 | 
-| 2023-01-17 | 2022-2023フューチャーズリーグ | Kim Seongji |  | Win | B+R | 6.5 | 3104 | 72 | 
-| 2022-07-05 | 第24回農心杯韓国予選 | Kim Seongji |  | Win | B+R | 6.5 | 3032 | 42 | 
-| 2022-04-02 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Seongji | Win | W+6.5 | 6.5 | 2990 | 38 | 
-| 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Jinsol | Kim Seongji | Lose | B+5.5 | 6.5 | 2952 | -5 | 
-| 2022-03-26 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kyeongho | Win | B+R | 6.5 | 2957 | 67 | 
-| 2022-03-23 | 2021-2022フューチャーズリーグ | Kim Seongji | Kim Seungjun | Win | B+R | 6.5 | 2890 | 16 | 
-| 2022-03-12 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seongji | Win | W+R | 6.5 | 2874 | 76 | 
-| 2022-02-26 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seongji | Lose | B+7.5 | 6.5 | 2798 | 11 | 
-| 2022-02-20 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kihoon | Lose | W+R | 6.5 | 2787 | -97 | 
-| 2022-02-12 | 2021-2022フューチャーズリーグ | Kim Seongji | Park Jinyoung | Lose | W+6.5 | 6.5 | 2884 | 9 | 
-| 2022-02-05 | 2021-2022フューチャーズリーグ | Kim Seongji | Kwak Wonkeun | Lose | W+R | 6.5 | 2875 | -17 | 
-| 2022-01-23 | 2021-2022フューチャーズリーグ | Kim Seongji | Gang Woohyeok | Lose | W+R | 6.5 | 2892 | -40 | 
-| 2022-01-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Kim Seongji | Win | W+R | 6.5 | 2932 | 102 | 
-| 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Kim Seongji | Lose | B+R | 6.5 | 2830 | -225 | 
-| 2022-01-05 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seongji | Lose | B+0.5 | 6.5 | 3055 | 161 | 
-| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seongji | Win | W+R | 6.5 | 2894 | 2 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Wi Taewoong | Kim Seongji | Win | W+1.5 | 6.5 | 2892 | 0 | 
-| 2021-11-28 | 2021-2022フューチャーズリーグ | Kim Seongji | Lee Hyunho | Lose | W+R | 6.5 | 2892 | 0 | 
-| 2021-11-21 | 2021-2022フューチャーズリーグ | Kwak Wonkeun | Kim Seongji | Lose | B+2.5 | 6.5 | 2892 | 0 | 
-| 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 | Han Woojin | Kim Seongji | Lose | B+R | 6.5 | 2892 | 88 | 
+| 2023-02-28 | 2022-2023フューチャーズリーグ | Kim Seongji | Heo Youngrak | Lose | W+5.5 | 6.5 | 3099 | 15 | 
+| 2023-02-20 | 2022-2023フューチャーズリーグ | Kim Seongji | Cho Seungah | Win | B+R | 6.5 | 3084 | -61 | 
+| 2023-02-07 | 2022-2023フューチャーズリーグ | Yoo Ohseong | Kim Seongji | Lose | B+R | 6.5 | 3145 | 39 | 
+| 2023-02-06 | 2022-2023フューチャーズリーグ | Choi Kihoon | Kim Seongji | Win | W+4.5 | 6.5 | 3106 | 8 | 
+| 2023-01-17 | 2022-2023フューチャーズリーグ | Kim Seongji |  | Win | B+R | 6.5 | 3098 | 69 | 
+| 2022-07-05 | 第24回農心杯韓国予選 | Kim Seongji |  | Win | B+R | 6.5 | 3029 | 42 | 
+| 2022-04-02 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Seongji | Win | W+6.5 | 6.5 | 2987 | 38 | 
+| 2022-04-01 | 2021-2022韓国囲碁リーグ | Park Jinsol | Kim Seongji | Lose | B+5.5 | 6.5 | 2949 | -6 | 
+| 2022-03-26 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kyeongho | Win | B+R | 6.5 | 2955 | 67 | 
+| 2022-03-23 | 2021-2022フューチャーズリーグ | Kim Seongji | Kim Seungjun | Win | B+R | 6.5 | 2888 | 16 | 
+| 2022-03-12 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seongji | Win | W+R | 6.5 | 2872 | 76 | 
+| 2022-02-26 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seongji | Lose | B+7.5 | 6.5 | 2796 | 11 | 
+| 2022-02-20 | 2021-2022フューチャーズリーグ | Kim Seongji | Choi Kihoon | Lose | W+R | 6.5 | 2785 | -97 | 
+| 2022-02-12 | 2021-2022フューチャーズリーグ | Kim Seongji | Park Jinyoung | Lose | W+6.5 | 6.5 | 2882 | 9 | 
+| 2022-02-05 | 2021-2022フューチャーズリーグ | Kim Seongji | Kwak Wonkeun | Lose | W+R | 6.5 | 2873 | -17 | 
+| 2022-01-23 | 2021-2022フューチャーズリーグ | Kim Seongji | Gang Woohyeok | Lose | W+R | 6.5 | 2890 | -40 | 
+| 2022-01-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Kim Seongji | Win | W+R | 6.5 | 2930 | 102 | 
+| 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Kim Seongji | Lose | B+R | 6.5 | 2828 | -225 | 
+| 2022-01-05 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Kim Seongji | Lose | B+0.5 | 6.5 | 3053 | 161 | 
+| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Seongji | Win | W+R | 6.5 | 2892 | 1 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Wi Taewoong | Kim Seongji | Win | W+1.5 | 6.5 | 2891 | 0 | 
+| 2021-11-28 | 2021-2022フューチャーズリーグ | Kim Seongji | Lee Hyunho | Lose | W+R | 6.5 | 2891 | 0 | 
+| 2021-11-21 | 2021-2022フューチャーズリーグ | Kwak Wonkeun | Kim Seongji | Lose | B+2.5 | 6.5 | 2891 | 0 | 
+| 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 | Han Woojin | Kim Seongji | Lose | B+R | 6.5 | 2891 | 87 | 
 | 2020-09-19 | 2020CHO-A BITONEルーキー囲碁リーグ第12節第1試合第1局 | Kim Seongji |  | Lose | W+5.5 | 6.5 | 2804 | -50 | 
 | 2020-09-18 | 2020CHO-A BITONEルーキー囲碁リーグ第10節第3試合第3局 | Kim Seongji | Hyun Yoobin | Lose | W+R | 6.5 | 2854 | -1 | 
 | 2020-09-12 | 2020CHO-A BITONEルーキー囲碁リーグ第9節第2試合第1局 |  | Kim Seongji | Win | W+R | 6.5 | 2855 | 0 | 

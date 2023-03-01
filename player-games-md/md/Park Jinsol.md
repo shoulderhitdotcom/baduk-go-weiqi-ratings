@@ -12,9 +12,9 @@
 | 2023-02-18 | 2022-2023韓国囲碁リーグ | Park Jinsol | Lee Yeon | Lose | W+R | 6.5 | 3388 | -32 | 
 | 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | Lose | W+R | 6.5 | 3420 | 0 | 
 | 2023-02-08 | 2022-2023韓国囲碁リーグ  | Jian Jingting | Park Jinsol | Lose | B+R | 6.5 | 3420 | 0 | 
-| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3420 | -20 | 
-| 2023-02-06 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Wonyoung | Lose | W+R | 6.5 | 3440 | -1 | 
-| 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3441 | 6 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3420 | -19 | 
+| 2023-02-06 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Wonyoung | Lose | W+R | 6.5 | 3439 | -1 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3440 | 5 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3435 | 7 | 
 | 2023-01-23 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Park Jinsol | Park Seunghwa | Win | B+R | 6.5 | 3428 | 23 | 
 | 2023-01-18 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Hong Seongji | Win | B+R | 6.5 | 3405 | 0 | 
@@ -22,8 +22,8 @@
 | 2023-01-12 | 2022-2023韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3409 | 3 | 
 | 2023-01-11 | 第4期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Jinsol | Win | W+R | 6.5 | 3406 | 6 | 
 | 2022-12-30 | 2022-2023韓国囲碁リーグ | Park Geunho | Park Jinsol | Lose | B+R | 6.5 | 3400 | 0 | 
-| 2022-12-26 | 第4期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Park Jinsol | Win | W+R | 6.5 | 3400 | -26 | 
-| 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Park Jinsol | Park Geunho | Lose | W+R | 7.5 | 3426 | 39 | 
+| 2022-12-26 | 第4期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Park Jinsol | Win | W+R | 6.5 | 3400 | -25 | 
+| 2022-10-14 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Park Jinsol | Park Geunho | Lose | W+R | 7.5 | 3425 | 38 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Gueon Hyojin | Park Jinsol | Lose | B+R | 6.5 | 3387 | -135 | 
 | 2022-07-21 | 第27回GSカルテックス杯プロ棋戦準決勝 | Park Jinsol | Shin Jinseo | Lose | W+R | 6.5 | 3522 | -16 | 
 | 2022-07-19 | 第4回大統領杯全国囲碁大会予選 | Yoo Ohseong | Park Jinsol | Win | W+R | 6.5 | 3538 | 26 | 
@@ -77,8 +77,8 @@
 | 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3264 | -8 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Jinsol | Lose | B+R | 6.5 | 3272 | -54 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Lose | W+R | 6.5 | 3326 | -7 | 
-| 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Jinsol | Win | W+R | 6.5 | 3333 | 8 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | B+0.5 | 6.5 | 3325 | -23 | 
+| 2021-01-18 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Jinsol | Win | W+R | 6.5 | 3333 | 9 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | B+0.5 | 6.5 | 3324 | -24 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Jinsol | Win | W+R | 6.5 | 3348 | 20 | 
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Park Jinsol | Kim Jiseok | Lose | W+R | 6.5 | 3328 | 39 | 
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Han Seungjoo | Park Jinsol | Win | W+R | 6.5 | 3289 | 25 | 
@@ -96,8 +96,8 @@
 | 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Kang Yootaek | Park Jinsol | Win | W+T | 6.5 | 3245 | -40 | 
 | 2020-08-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Park Minkyu | Win | B+R | 6.5 | 3285 | -86 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Han Sangcho | Park Jinsol | Lose | B+R | 6.5 | 3371 | 1 | 
-| 2020-03-09 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Na Hyun | Lose | W+R | 6.5 | 3370 | -8 | 
-| 2020-02-24 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Donghoon | Win | B+R | 6.5 | 3378 | -1 | 
+| 2020-03-09 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Na Hyun | Lose | W+R | 6.5 | 3370 | -7 | 
+| 2020-02-24 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Donghoon | Win | B+R | 6.5 | 3377 | -2 | 
 | 2020-02-03 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Park Jinsol | Yoo Changhyuk | Win | B+R | 6.5 | 3379 | -10 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第3局 | Park Junghwan | Park Jinsol | Win | W+R | 6.5 | 3389 | 31 | 
 | 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第3局 | Park Jinsol | Na Hyun | Win | B+R | 6.5 | 3358 | 54 | 

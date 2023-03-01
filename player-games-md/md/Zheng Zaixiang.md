@@ -11,8 +11,8 @@
 | 2023-02-28 | 第22回西南棋王戦予選 | Wang Yucheng | Zheng Zaixiang | Win | W+R | 7.5 | 3263 | -12 | 
 | 2022-11-18 | 2022中国囲碁乙級リーグ | Zhu Yuanhao | Zheng Zaixiang | Lose | B+R | 7.5 | 3275 | 27 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 | Li Haotong | Zheng Zaixiang | Lose | B+R | 7.5 | 3248 | 0 | 
-| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Zheng Zaixiang | Xu Jingen | Win | B+R | 7.5 | 3248 | -17 | 
-| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Zheng Zaixiang | Dang Yifei | Win | B+R | 7.5 | 3265 | 134 | 
+| 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Zheng Zaixiang | Xu Jingen | Win | B+R | 7.5 | 3248 | -16 | 
+| 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Zheng Zaixiang | Dang Yifei | Win | B+R | 7.5 | 3264 | 133 | 
 | 2022-07-27 | 2022博思軟件杯中国囲碁新秀争覇戦1回戦 |  | Zheng Zaixiang | Lose | B+¾ | 7.5 | 3131 | -118 | 
 | 2022-03-10 | 第26期馬橋杯中国囲碁新人王戦3回戦 |  | Zheng Zaixiang | Lose | B+R | 7.5 | 3249 | -6 | 
 | 2022-03-08 | 第26期馬橋杯中国囲碁新人王戦2回戦 | Zheng Zaixiang |  | Win | B+R | 7.5 | 3255 | 33 | 

@@ -7,14 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-06 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Win | W+T | 6.5 | 3125 | 2 | 
-| 2023-01-28 | 2022-2023韓国囲碁リーグ | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3123 | 17 | 
-| 2023-01-23 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Lose | B+R | 6.5 | 3106 | -71 | 
-| 2023-01-17 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Win | W+R | 6.5 | 3177 | 99 | 
-| 2023-01-09 | 2022-2023フューチャーズリーグ | Heo Youngrak | Han Wonggyu | Win | W+R | 6.5 | 3078 | -61 | 
-| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Win | B+11.5 | 6.5 | 3139 | 88 | 
-| 2022-06-25 | 第45期名人戦（韓国）予選 | Hong Mujin | Han Wonggyu | Lose | B+2.5 | 6.5 | 3051 | -282 | 
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3333 | -46 | 
+| 2023-02-28 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Win | W+R | 6.5 | 3233 | 126 | 
+| 2023-02-07 | 2022-2023フューチャーズリーグ | Yun Chanhee | Han Wonggyu | Lose | B+5.5 | 6.5 | 3107 | -13 | 
+| 2023-02-06 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Win | W+T | 6.5 | 3120 | 1 | 
+| 2023-01-28 | 2022-2023韓国囲碁リーグ | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3119 | 17 | 
+| 2023-01-23 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Lose | B+R | 6.5 | 3102 | -71 | 
+| 2023-01-17 | 2022-2023フューチャーズリーグ |  | Han Wonggyu | Win | W+R | 6.5 | 3173 | 99 | 
+| 2023-01-09 | 2022-2023フューチャーズリーグ | Heo Youngrak | Han Wonggyu | Win | W+R | 6.5 | 3074 | -63 | 
+| 2022-06-28 | 第8回国手山脈国際囲碁大会韓国予選 | Han Wonggyu | Kim Eunji | Win | B+11.5 | 6.5 | 3137 | 88 | 
+| 2022-06-25 | 第45期名人戦（韓国）予選 | Hong Mujin | Han Wonggyu | Lose | B+2.5 | 6.5 | 3049 | -283 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3332 | -47 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Lose | W+R | 6.5 | 3379 | -55 | 
 | 2021-08-18 | 第4期韓国竜星戦準決勝 | Han Wonggyu | Shin Jinseo | Lose | W+R | 6.5 | 3434 | 34 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Lose | B+R | 6.5 | 3400 | -41 | 

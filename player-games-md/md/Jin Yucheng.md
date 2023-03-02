@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-02 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Jin Yucheng |  | Win | B+R | 7.5 | 3406 | 3 | 
 | 2023-03-01 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3403 | 0 | 
 | 2023-03-01 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Ye Changxin | Jin Yucheng | Lose | B+R | 7.5 | 3403 | -15 | 
 | 2023-02-28 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Jin Yucheng |  | Lose | W+1¼ | 7.5 | 3418 | 0 | 
@@ -29,8 +30,8 @@
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Wang Zejin | Jin Yucheng | Lose | B+1¾ | 7.5 | 3387 | -20 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ2回戦 | Jin Yucheng | Wang Xinghao | Lose | W+R | 7.5 | 3407 | 0 | 
 | 2022-08-27 | 第4回聶衛平杯囲碁ユースマスターズ1回戦 | Jin Yucheng | Fukuoka Kotaro | Win | B+R | 7.5 | 3407 | 6 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Wang Chunhui | Lose | W+¼ | 7.5 | 3401 | -64 | 
-| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 |  | Jin Yucheng | Lose | B+R | 7.5 | 3465 | -21 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Wang Chunhui | Lose | W+¼ | 7.5 | 3401 | -65 | 
+| 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 |  | Jin Yucheng | Lose | B+R | 7.5 | 3466 | -20 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Rong Yi | Jin Yucheng | Win | W+R | 7.5 | 3486 | 80 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Yi Lingtao | Lose | W+R | 7.5 | 3406 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | Win | W+¼ | 7.5 | 3406 | 0 | 

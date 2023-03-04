@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Zhou Hongyu | Ueno Asami | Win | B+R | 6.5 | 3243 | 6 | 
 | 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Zhou Hongyu | Nyu Eiko | Win | B+R | 6.5 | 3237 | 53 | 
 | 2022-11-13 | 第26期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Zhou Hongyu | Wang Xinghao | Lose | W+R | 7.5 | 3184 | 0 | 
 | 2022-11-12 | 第26期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Wang Xinghao | Zhou Hongyu | Lose | B+R | 7.5 | 3184 | -27 | 

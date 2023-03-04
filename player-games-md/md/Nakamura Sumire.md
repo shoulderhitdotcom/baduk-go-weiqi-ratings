@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Choi Jeong | Nakamura Sumire | Lose | B+7.5 | 6.5 | 2950 | -3 | 
 | 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  |  | Nakamura Sumire | Win | W+R | 6.5 | 2953 | 10 | 
 | 2023-02-23 | 第48期棋聖戦予選 |  | Nakamura Sumire | Win | W+3.5 | 6.5 | 2943 | -2 | 
 | 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Lose | W+3.5 | 6.5 | 2945 | 4 | 

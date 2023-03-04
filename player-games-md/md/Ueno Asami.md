@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Zhou Hongyu | Ueno Asami | Lose | B+R | 6.5 | 3123 | -4 | 
 | 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3127 | 15 | 
 | 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Win | W+3.5 | 6.5 | 3112 | 0 | 
 | 2023-02-16 | 第48期新人王戦1回戦 | Ueno Asami | Hoshiai Shiho | Win | B+R | 6.5 | 3112 | 68 | 

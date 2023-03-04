@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Choi Jeong | Nakamura Sumire | Win | B+7.5 | 6.5 | 3364 | -1 | 
 | 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Choi Jeong | Win | W+R | 6.5 | 3365 | -3 | 
 | 2023-03-01 | 2022-2023韓国囲碁リーグ | Choi Jeong | Gueon Hyojin | Lose | W+R | 6.5 | 3368 | 16 | 
 | 2023-02-27 | 第4期ソパルコサノル最高棋士決定戦リーグ | Choi Jeong | Weon Seongjin | Lose | W+R | 6.5 | 3352 | 0 | 

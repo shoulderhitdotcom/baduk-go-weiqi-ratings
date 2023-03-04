@@ -7,18 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2953 | 10 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  |  | Nakamura Sumire | Win | W+R | 6.5 | 2953 | 10 | 
 | 2023-02-23 | 第48期棋聖戦予選 |  | Nakamura Sumire | Win | W+3.5 | 6.5 | 2943 | -2 | 
 | 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Lose | W+3.5 | 6.5 | 2945 | 4 | 
 | 2023-02-16 | 第49期名人戦予選 | Kanno Masashi | Nakamura Sumire | Win | W+R | 6.5 | 2941 | -9 | 
 | 2023-02-13 | 第48期新人王戦1回戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2950 | -4 | 
-| 2023-02-09 | 第10期会津中央病院・女流立葵杯予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+2.5 | 6.5 | 2954 | 12 | 
-| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Win | W+R | 6.5 | 2942 | 24 | 
+| 2023-02-09 | 第10期会津中央病院・女流立葵杯予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+2.5 | 6.5 | 2954 | 13 | 
+| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Win | W+R | 6.5 | 2941 | 23 | 
 | 2023-02-02 | 第34期女流名人戦リーグ | Nakamura Sumire | Kobayashi Izumi | Win | B+R | 6.5 | 2918 | 7 | 
 | 2023-01-26 | 第26期女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Nakamura Sumire | Win | W+0.5 | 6.5 | 2911 | -17 | 
 | 2023-01-19 | 第26期女流棋聖戦挑戦手合三番勝負第1局  | Nakamura Sumire | Ueno Asami | Lose | W+R | 6.5 | 2928 | -7 | 
-| 2023-01-12 | 第34期女流名人戦リーグ | Nakamura Sumire | Suzuki Ayumi | Win | B+R | 6.5 | 2935 | -15 | 
-| 2023-01-04 | 2023新年特集日韓天才少女三番勝負第2局 | Kim Eunji | Nakamura Sumire | Lose | B+R | 6.5 | 2950 | -3 | 
+| 2023-01-12 | 第34期女流名人戦リーグ | Nakamura Sumire | Suzuki Ayumi | Win | B+R | 6.5 | 2935 | -14 | 
+| 2023-01-04 | 2023新年特集日韓天才少女三番勝負第2局 | Kim Eunji | Nakamura Sumire | Lose | B+R | 6.5 | 2949 | -4 | 
 | 2023-01-03 | 2023新年特集日韓天才少女三番勝負第1局 | Nakamura Sumire | Kim Eunji | Lose | W+R | 6.5 | 2953 | 0 | 
 | 2022-12-22 | 第34期女流名人戦リーグ | Nyu Eiko | Nakamura Sumire | Win | W+R | 6.5 | 2953 | 10 | 
 | 2022-12-08 | 第26期女流棋聖戦挑戦者決定戦 | Nakamura Sumire | Fujisawa Rina | Win | B+R | 6.5 | 2943 | 2 | 

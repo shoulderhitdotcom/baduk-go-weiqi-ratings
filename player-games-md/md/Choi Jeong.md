@@ -7,21 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Fujisawa Rina | Choi Jeong | Win | W+R | 6.5 | 3365 | -3 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Choi Jeong | Win | W+R | 6.5 | 3365 | -3 | 
 | 2023-03-01 | 2022-2023韓国囲碁リーグ | Choi Jeong | Gueon Hyojin | Lose | W+R | 6.5 | 3368 | 16 | 
 | 2023-02-27 | 第4期ソパルコサノル最高棋士決定戦リーグ | Choi Jeong | Weon Seongjin | Lose | W+R | 6.5 | 3352 | 0 | 
 | 2023-02-15 | 2022-2023韓国囲碁リーグ | Park Yeonghun | Choi Jeong | Win | W+0.5 | 6.5 | 3352 | -5 | 
 | 2023-02-13 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Choi Jeong | Han Sanghoon | Lose | W+1.5 | 6.5 | 3357 | -5 | 
-| 2023-02-11 | 2022-2023韓国囲碁リーグ | Ahn Kukhyun | Choi Jeong | Lose | B+1.5 | 6.5 | 3362 | -10 | 
-| 2023-02-03 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第5局 | Choi Jeong | Song Jihoon | Lose | W+3.5 | 6.5 | 3372 | -18 | 
+| 2023-02-11 | 2022-2023韓国囲碁リーグ | Ahn Kukhyun | Choi Jeong | Lose | B+1.5 | 6.5 | 3362 | -9 | 
+| 2023-02-03 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第5局 | Choi Jeong | Song Jihoon | Lose | W+3.5 | 6.5 | 3371 | -19 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Choi Jeong | Kim Changhoon | Win | B+R | 6.5 | 3390 | 15 | 
 | 2023-01-25 | 2022-2023韓国囲碁リーグ | Choi Jeong | Lee Yeongkyu | Win | B+1.5 | 6.5 | 3375 | 24 | 
 | 2023-01-20 | 2022-2023韓国囲碁リーグ | Choi Jeong | Hirata Tomoya | Win | B+0.5 | 6.5 | 3351 | -3 | 
 | 2023-01-17 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Choi Jeong | Paek Hongseok | Win | B+R | 6.5 | 3354 | 2 | 
-| 2023-01-15 | 第2期韓国棋院選手権戦グループリーグ | Song Jihoon | Choi Jeong | Lose | B+R | 6.5 | 3352 | -25 | 
-| 2023-01-07 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第3局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3377 | -19 | 
-| 2023-01-06 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第2局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3396 | 10 | 
-| 2023-01-04 | 2022-2023韓国囲碁リーグ | Choi Jeong | Park Sangjin | Win | B+R | 6.5 | 3386 | 18 | 
+| 2023-01-15 | 第2期韓国棋院選手権戦グループリーグ | Song Jihoon | Choi Jeong | Lose | B+R | 6.5 | 3352 | -24 | 
+| 2023-01-07 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第3局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3376 | -19 | 
+| 2023-01-06 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第2局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3395 | 10 | 
+| 2023-01-04 | 2022-2023韓国囲碁リーグ | Choi Jeong | Park Sangjin | Win | B+R | 6.5 | 3385 | 17 | 
 | 2023-01-03 | 2022Dr.G女子最高棋士決定戦決勝五番勝負第1局 | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3368 | 0 | 
 | 2023-01-01 | 2022-2023韓国囲碁リーグ | Kang Seungmin | Choi Jeong | Lose | B+1.5 | 6.5 | 3368 | 0 | 
 | 2022-12-24 | 第1回ニュースピムGAM杯女子囲碁最強戦第2戦 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 3368 | 9 | 

@@ -17,11 +17,11 @@
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Weiqing | Win | B+¾ | 7.5 | 3557 | 0 | 
 | 2023-02-10 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Win | B+R | 6.5 | 3557 | 6 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3551 | -56 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3607 | -1 | 
-| 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Win | W+R | 7.5 | 3608 | 5 | 
-| 2023-02-05 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+¼ | 7.5 | 3603 | 1 | 
-| 2023-02-04 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Heo Youngrak | Win | B+R | 6.5 | 3602 | 14 | 
-| 2023-02-03 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Kang Dongyun | Win | W+R | 7.5 | 3588 | 5 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3607 | 0 | 
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Kang Dongyun | Win | W+R | 7.5 | 3607 | 5 | 
+| 2023-02-05 | 第24回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+¼ | 7.5 | 3602 | 1 | 
+| 2023-02-04 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Heo Youngrak | Win | B+R | 6.5 | 3601 | 14 | 
+| 2023-02-03 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Kang Dongyun | Win | W+R | 7.5 | 3587 | 4 | 
 | 2023-02-01 | 2022-2023韓国囲碁リーグ | Chen Qirui | Kang Dongyun | Win | W+R | 6.5 | 3583 | 14 | 
 | 2023-01-17 | 第24回マキシムコーヒー杯入神最強戦1回戦 | Han Sanghoon | Kang Dongyun | Lose | B+R | 6.5 | 3569 | -14 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Lose | B+R | 6.5 | 3583 | 0 | 

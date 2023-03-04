@@ -7,12 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Ueno Asami | Lu Yuhua | Lose | B+R | 6.5 | 2816 | 30 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Ueno Asami | Lu Yuhua | Lose | B+R | 6.5 | 2816 | 30 | 
 | 2023-02-02 | 第15回海峰杯プロ囲碁戦2回戦 | Lu Yuhua | Lin Shixun | Lose | W+R | 6.5 | 2786 | 9 | 
 | 2023-01-30 | 第4期名人戦（台湾）敗部決勝 | Zeng Pinjie | Lu Yuhua | Win | W+3.5 | 6.5 | 2777 | -11 | 
-| 2023-01-19 | 第15回海峰杯プロ囲碁戦1回戦 |  | Lu Yuhua | Win | W+R | 6.5 | 2788 | -3 | 
-| 2023-01-09 | 第4期名人戦（台湾）予選 | Lu Yuhua | Lin Lixiang | Lose | W+R | 6.5 | 2791 | -13 | 
-| 2023-01-06 | 第22期天元戦（台湾）予選 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2804 | 14 | 
+| 2023-01-19 | 第15回海峰杯プロ囲碁戦1回戦 |  | Lu Yuhua | Win | W+R | 6.5 | 2788 | -2 | 
+| 2023-01-09 | 第4期名人戦（台湾）予選 | Lu Yuhua | Lin Lixiang | Lose | W+R | 6.5 | 2790 | -13 | 
+| 2023-01-06 | 第22期天元戦（台湾）予選 | Li Wei | Lu Yuhua | Lose | B+R | 6.5 | 2803 | 13 | 
 | 2022-12-12 | 台湾棋院 VS 関西棋院若手棋士ネット対抗戦2022 | Nishiyama Shizuka | Lu Yuhua | Win | W+R | 6.5 | 2790 | -8 | 
 | 2022-11-22 | 2022中国囲碁乙級リーグ | Lu Yuhua |  | Win | B+R | 7.5 | 2798 | 41 | 
 | 2022-11-21 | 2022中国囲碁乙級リーグ | Lu Yuhua | Yang Zixuan | Lose | W+R | 7.5 | 2757 | -1 | 

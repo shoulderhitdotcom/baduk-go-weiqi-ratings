@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Zhou Hongyu | Nyu Eiko | Lose | B+R | 6.5 | 2854 | -8 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Zhou Hongyu | Nyu Eiko | Lose | B+R | 6.5 | 2854 | -8 | 
 | 2023-02-28 | 第19回アジア競技大会日本予選 | Nyu Eiko |  | Lose | W+8.5 | 6.5 | 2862 | -1 | 
 | 2023-02-23 | 第48期新人王戦1回戦 | Fukuoka Kotaro | Nyu Eiko | Lose | B+R | 6.5 | 2863 | 67 | 
 | 2023-01-30 | 第34期女流名人戦リーグ | Ueno Asami | Nyu Eiko | Lose | B+R | 6.5 | 2796 | -30 | 

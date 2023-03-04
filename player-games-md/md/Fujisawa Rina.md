@@ -7,10 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Fujisawa Rina | Choi Jeong | Lose | W+R | 6.5 | 3147 | 5 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Choi Jeong | Lose | W+R | 6.5 | 3147 | 5 | 
 | 2023-02-23 | 第48期碁聖戦2回戦 | Ichiriki Ryo | Fujisawa Rina | Lose | B+R | 6.5 | 3142 | 2 | 
-| 2023-02-16 | 第49期天元戦1回戦 | Fujisawa Rina | Yamada Kimio | Lose | W+R | 6.5 | 3140 | 24 | 
-| 2023-01-06 | 第49期天元戦予選 | Fujisawa Rina | Anzai Nobuaki | Win | B+R | 6.5 | 3116 | 16 | 
+| 2023-02-16 | 第49期天元戦1回戦 | Fujisawa Rina | Yamada Kimio | Lose | W+R | 6.5 | 3140 | 25 | 
+| 2023-01-06 | 第49期天元戦予選 | Fujisawa Rina | Anzai Nobuaki | Win | B+R | 6.5 | 3115 | 15 | 
 | 2022-12-22 | 第2回テイケイ杯俊英戦Bリーグ  | Fujisawa Rina | Ichiriki Ryo | Lose | W+R | 6.5 | 3100 | 9 | 
 | 2022-12-21 | 第2回テイケイ杯俊英戦Bリーグ | Fujisawa Rina |  | Win | B+R | 6.5 | 3091 | 9 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Bリーグ  |  | Fujisawa Rina | Lose | B+R | 6.5 | 3082 | -22 | 

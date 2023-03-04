@@ -7,10 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3127 | 15 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3127 | 15 | 
 | 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Win | W+3.5 | 6.5 | 3112 | 0 | 
-| 2023-02-16 | 第48期新人王戦1回戦 | Ueno Asami | Hoshiai Shiho | Win | B+R | 6.5 | 3112 | 67 | 
-| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Lose | W+R | 6.5 | 3045 | -4 | 
+| 2023-02-16 | 第48期新人王戦1回戦 | Ueno Asami | Hoshiai Shiho | Win | B+R | 6.5 | 3112 | 68 | 
+| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Lose | W+R | 6.5 | 3044 | -5 | 
 | 2023-01-30 | 第34期女流名人戦リーグ | Ueno Asami | Nyu Eiko | Win | B+R | 6.5 | 3049 | -14 | 
 | 2023-01-26 | 第26期女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Nakamura Sumire | Lose | W+0.5 | 6.5 | 3063 | -20 | 
 | 2023-01-19 | 第26期女流棋聖戦挑戦手合三番勝負第1局  | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 3083 | -9 | 

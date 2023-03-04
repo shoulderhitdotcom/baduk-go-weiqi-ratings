@@ -20,9 +20,9 @@
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Win | B+R | 7.5 | 3821 | 0 | 
 | 2023-02-09 | 2023YK建機杯予選 | Ryu Minhyung | Shin Jinseo | Win | W+R | 6.5 | 3821 | 0 | 
 | 2023-02-08 | 2022-2023韓国囲碁リーグ  | Shin Jinseo | Lin Lixiang | Win | B+R | 6.5 | 3821 | 0 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Win | W+R | 7.5 | 3821 | -1 | 
-| 2023-02-03 | 2022-2023韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Win | W+R | 6.5 | 3822 | 0 | 
-| 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Shin Jinseo | Lose | B+R | 6.5 | 3822 | 0 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Gu Zihao | Shin Jinseo | Win | W+R | 7.5 | 3821 | 0 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Win | W+R | 6.5 | 3821 | 0 | 
+| 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Shin Jinseo | Lose | B+R | 6.5 | 3821 | -1 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Hong Mujin | Win | B+0.5 | 6.5 | 3822 | 0 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3822 | 0 | 
 | 2023-01-14 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | Win | B+R | 6.5 | 3822 | 0 | 

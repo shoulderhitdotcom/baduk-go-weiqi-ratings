@@ -13,13 +13,13 @@
 | 2023-02-20 | 第78期本因坊戦リーグ | Otake Yu | Ichiriki Ryo | Win | W+R | 6.5 | 3432 | -2 | 
 | 2023-02-17 | 第47期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3434 | 8 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ  | Ichiriki Ryo | Mao Ruilong | Lose | W+R | 7.5 | 3426 | -16 | 
-| 2023-02-09 | 第48期名人戦リーグ  | Sada Atsushi | Ichiriki Ryo | Win | W+0.5 | 6.5 | 3442 | 65 | 
-| 2023-02-04 | 第47期棋聖戦挑戦手合七番勝負第3局  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3377 | 8 | 
+| 2023-02-09 | 第48期名人戦リーグ  | Sada Atsushi | Ichiriki Ryo | Win | W+0.5 | 6.5 | 3442 | 66 | 
+| 2023-02-04 | 第47期棋聖戦挑戦手合七番勝負第3局  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3376 | 7 | 
 | 2023-01-26 | 第78期本因坊戦リーグ | Ichiriki Ryo | Fujita Akihiko | Win | B+R | 6.5 | 3369 | 23 | 
 | 2023-01-21 | 第47期棋聖戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Shibano Toramaru | Lose | W+R | 6.5 | 3346 | 0 | 
 | 2023-01-16 | 第61期十段戦準決勝  | Ichiriki Ryo | Iyama Yuta | Lose | W+4.5 | 6.5 | 3346 | -48 | 
-| 2023-01-13 | 第47期棋聖戦挑戦手合七番勝負第1局  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3394 | -10 | 
-| 2023-01-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Fujita Akihiko | Win | B+R | 6.5 | 3404 | 10 | 
+| 2023-01-13 | 第47期棋聖戦挑戦手合七番勝負第1局  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3394 | -9 | 
+| 2023-01-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Fujita Akihiko | Win | B+R | 6.5 | 3403 | 9 | 
 | 2022-12-22 | 第2回テイケイ杯俊英戦Bリーグ  | Fujisawa Rina | Ichiriki Ryo | Win | W+R | 6.5 | 3394 | -3 | 
 | 2022-12-21 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo |  | Win | B+R | 6.5 | 3397 | 0 | 
 | 2022-12-19 | 第2回テイケイ杯俊英戦Bリーグ | Ichiriki Ryo |  | Win | B+R | 6.5 | 3397 | 1 | 

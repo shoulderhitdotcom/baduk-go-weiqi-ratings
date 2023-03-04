@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Choi Jeong** | **Fujisawa Rina Streak** | **Choi Jeong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦 | Fujisawa Rina | Choi Jeong | W+R | 6.5 | 4:9 | 0 | 1 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Choi Jeong | W+R | 6.5 | 4:9 | 0 | 1 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Fujisawa Rina | W+R | 6.5 | 4:8 | 1 | 0 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Choi Jeong | Fujisawa Rina | B+R | 7.5 | 3:8 | 0 | 5 | 
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Choi Jeong | Fujisawa Rina | B+R | 6.5 | 3:7 | 0 | 4 | 

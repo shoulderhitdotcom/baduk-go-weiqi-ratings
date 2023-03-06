@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Xu Jiayang** | **Tan Xiao Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-06 | 第13期中国竜星戦Bブロック4回戦 | Tan Xiao | Xu Jiayang | W+R | 7.5 | 2:6 | 0 | 5 | 
 | 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xu Jiayang | Tan Xiao | B+R | 7.5 | 2:5 | 0 | 4 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tan Xiao | Xu Jiayang | W+R | 7.5 | 2:4 | 0 | 3 | 
 | 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Xu Jiayang | Tan Xiao | B+R | 6.5 | 2:3 | 0 | 2 | 

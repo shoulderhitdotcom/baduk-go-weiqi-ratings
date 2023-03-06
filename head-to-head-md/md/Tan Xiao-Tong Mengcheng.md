@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Tong Mengcheng** | **Tan Xiao Streak** | **Tong Mengcheng Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-06 | 第13期中国竜星戦Bブロック3回戦 | Tan Xiao | Tong Mengcheng | B+R | 7.5 | 7:3 | 3 | 0 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Tan Xiao | W+R | 7.5 | 6:3 | 2 | 0 | 
 | 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tan Xiao | Tong Mengcheng | B+R | 7.5 | 5:3 | 1 | 0 | 
 | 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Tong Mengcheng | Tan Xiao | B+R | 7.5 | 4:3 | 0 | 1 | 

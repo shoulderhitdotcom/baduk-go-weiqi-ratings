@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Nakamura Sumire Vs Ueno Asami** | **Nakamura Sumire Streak** | **Ueno Asami Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-05 | 第5回SENKO CUPワールド碁女流最強戦3位決定戦  | Nakamura Sumire | Ueno Asami | W+R | 6.5 | 3:7 | 0 | 2 | 
 | 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | W+3.5 | 6.5 | 3:6 | 0 | 1 | 
 | 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | W+R | 6.5 | 3:5 | 2 | 0 | 
 | 2023-01-26 | 第26期女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Nakamura Sumire | W+0.5 | 6.5 | 2:5 | 1 | 0 | 

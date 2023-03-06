@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Fan Tingyu** | **Chen Yaoye Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-05 | 第22回西南棋王戦準決勝 | Chen Yaoye | Fan Tingyu | W+3¼ | 7.5 | 9:3 | 0 | 2 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | W+R | 7.5 | 9:2 | 0 | 1 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節山東-中信 | Chen Yaoye | Fan Tingyu | B+R | 7.5 | 9:1 | 3 | 0 | 
 | 2018-07-16 | 第20回中国囲碁甲級リーグ第10節中信-山東 | Fan Tingyu | Chen Yaoye | W+1¼ | 7.5 | 8:1 | 2 | 0 | 

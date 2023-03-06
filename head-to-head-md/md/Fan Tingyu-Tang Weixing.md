@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fan Tingyu Vs Tang Weixing** | **Fan Tingyu Streak** | **Tang Weixing Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-05 | 第22回西南棋王戦決勝 | Fan Tingyu | Tang Weixing | B+R | 7.5 | 9:9 | 1 | 0 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Fan Tingyu | Tang Weixing | W+R | 7.5 | 8:9 | 0 | 1 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tang Weixing | Fan Tingyu | W+R | 7.5 | 8:8 | 1 | 0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tang Weixing | Fan Tingyu | B+R | 7.5 | 7:8 | 0 | 2 | 

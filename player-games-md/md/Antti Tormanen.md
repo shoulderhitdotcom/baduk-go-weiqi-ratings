@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Lose | B+6.5 | 6.5 | missing | 0 | 
 | 2020-01-23 | 第46期碁聖戦予選 | Antti Tormanen |  | Lose | W+R | 6.5 | missing | 0 | 

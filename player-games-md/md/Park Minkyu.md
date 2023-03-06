@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-06 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Park Minkyu | Lose | B+R | 6.5 | 3343 | -3 | 
 | 2023-03-05 | 2022-2023韓国囲碁リーグ | Lee Changseok | Park Minkyu | Lose | B+0.5 | 6.5 | 3346 | -13 | 
 | 2023-03-02 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Park Minkyu | Lose | B+R | 6.5 | 3359 | -15 | 
 | 2023-02-25 | 2022-2023韓国囲碁リーグ | Park Yeonghun | Park Minkyu | Lose | B+R | 6.5 | 3374 | 12 | 

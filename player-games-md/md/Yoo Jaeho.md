@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-06 | 2022-2023フューチャーズリーグ | Han Sanghoon | Yoo Jaeho | Lose | B+2.5 | 6.5 | 2832 | 0 | 
 | 2023-02-28 | 2022-2023フューチャーズリーグ | Yoo Jaeho | Yoo Ohseong | Lose | W+R | 6.5 | 2832 | 0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Park Sangjin | Yoo Jaeho | Lose | B+R | 6.5 | 2832 | -23 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Jaeyoung | Yoo Jaeho | Win | W+R | 6.5 | 2855 | 72 | 

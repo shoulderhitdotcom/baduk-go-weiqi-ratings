@@ -7,20 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-28 | 2022-2023フューチャーズリーグ | Park Hyunsoo | Kim Hyeongwoo | Win | B+R | 6.5 | 3233 | 2 | 
-| 2023-02-26 | 2023年ミレニアム天元戦決勝三番勝負第1局 | Han Woojin | Park Hyunsoo | Lose | B+R | 6.5 | 3231 | -26 | 
-| 2023-02-25 | 2023年ミレニアム天元戦準決勝 |  | Park Hyunsoo | Win | W+R | 6.5 | 3257 | 5 | 
-| 2023-02-15 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Park Hyunsoo | Lose | B+R | 6.5 | 3252 | -11 | 
-| 2023-02-08 | 2023YK建機杯予選 | Park Hyunsoo | Byun Sangil | Lose | W+R | 6.5 | 3263 | 25 | 
-| 2023-01-25 | 2022-2023韓国囲碁リーグ | Lee Changseok | Park Hyunsoo | Lose | B+R | 6.5 | 3238 | 29 | 
-| 2023-01-20 | 2022-2023韓国囲碁リーグ | Park Hyunsoo | Hirose Yuichi | Win | B+R | 6.5 | 3209 | 3 | 
-| 2023-01-19 | 第6回クラウン・ヘテ杯3回戦 |  | Park Hyunsoo | Lose | B+R | 6.5 | 3206 | -2 | 
-| 2023-01-17 | 2022-2023フューチャーズリーグ | Choi Kihoon | Park Hyunsoo | Win | W+F | 6.5 | 3208 | 84 | 
-| 2023-01-09 | 第6回クラウン・ヘテ杯2回戦 | Heo Seohyun | Park Hyunsoo | Win | W+R | 6.5 | 3124 | 0 | 
-| 2023-01-09 | 2022-2023フューチャーズリーグ | Park Hyunsoo |  | Win | B+R | 6.5 | 3124 | 53 | 
-| 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Oh Yujin | Park Hyunsoo | Win | W+R | 6.5 | 3071 | 77 | 
-| 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Lose | W+R | 6.5 | 2994 | -82 | 
-| 2022-09-24 | 第10回河燦錫国手杯歴代英才王中王戦決勝 | Kim Beomseo | Park Hyunsoo | Lose | B+R | 6.5 | 3076 | 48 | 
+| 2023-03-06 | 2022-2023フューチャーズリーグ | Park Hyunsoo | Jen Youngkyu | Win | B+R | 6.5 | 3265 | 28 | 
+| 2023-02-28 | 2022-2023フューチャーズリーグ | Park Hyunsoo | Kim Hyeongwoo | Win | B+R | 6.5 | 3237 | 2 | 
+| 2023-02-26 | 2023年ミレニアム天元戦決勝三番勝負第1局 | Han Woojin | Park Hyunsoo | Lose | B+R | 6.5 | 3235 | -26 | 
+| 2023-02-25 | 2023年ミレニアム天元戦準決勝 |  | Park Hyunsoo | Win | W+R | 6.5 | 3261 | 5 | 
+| 2023-02-15 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Park Hyunsoo | Lose | B+R | 6.5 | 3256 | -11 | 
+| 2023-02-08 | 2023YK建機杯予選 | Park Hyunsoo | Byun Sangil | Lose | W+R | 6.5 | 3267 | 25 | 
+| 2023-01-25 | 2022-2023韓国囲碁リーグ | Lee Changseok | Park Hyunsoo | Lose | B+R | 6.5 | 3242 | 29 | 
+| 2023-01-20 | 2022-2023韓国囲碁リーグ | Park Hyunsoo | Hirose Yuichi | Win | B+R | 6.5 | 3213 | 3 | 
+| 2023-01-19 | 第6回クラウン・ヘテ杯3回戦 |  | Park Hyunsoo | Lose | B+R | 6.5 | 3210 | -2 | 
+| 2023-01-17 | 2022-2023フューチャーズリーグ | Choi Kihoon | Park Hyunsoo | Win | W+F | 6.5 | 3212 | 84 | 
+| 2023-01-09 | 第6回クラウン・ヘテ杯2回戦 | Heo Seohyun | Park Hyunsoo | Win | W+R | 6.5 | 3128 | 0 | 
+| 2023-01-09 | 2022-2023フューチャーズリーグ | Park Hyunsoo |  | Win | B+R | 6.5 | 3128 | 54 | 
+| 2022-12-27 | 第6回クラウン・ヘテ杯1回戦 | Oh Yujin | Park Hyunsoo | Win | W+R | 6.5 | 3074 | 77 | 
+| 2022-12-14 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Hyunsoo | Kim Eunji | Lose | W+R | 6.5 | 2997 | -81 | 
+| 2022-09-24 | 第10回河燦錫国手杯歴代英才王中王戦決勝 | Kim Beomseo | Park Hyunsoo | Lose | B+R | 6.5 | 3078 | 50 | 
 | 2022-08-12 | 第10回河燦錫国手杯歴代英才王中王戦準決勝 | Lee Yeon | Park Hyunsoo | Win | W+R | 6.5 | 3028 | 0 | 
 | 2022-08-04 | 第10回河燦錫国手杯歴代英才王中王戦1回戦 | Seol Hyunjun | Park Hyunsoo | Win | W+R | 6.5 | 3028 | 0 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Park Hyunsoo | Lee Donghoon | Lose | W+R | 6.5 | 3028 | 10 | 

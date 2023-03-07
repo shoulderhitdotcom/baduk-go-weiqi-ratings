@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-28 | 2022-2023フューチャーズリーグ | Lee Hoseong | Kim Sangcheon | Win | B+R | 6.5 | 2826 | 9 | 
-| 2023-02-20 | 2022-2023フューチャーズリーグ |  | Lee Hoseong | Win | W+R | 6.5 | 2817 | 43 | 
-| 2023-02-07 | 2022-2023フューチャーズリーグ | Lee Hoseong | Choi Kihoon | Lose | W+R | 6.5 | 2774 | 3 | 
-| 2023-01-23 | 2022-2023フューチャーズリーグ | Lee Hoseong |  | Lose | W+R | 6.5 | 2771 | -152 | 
-| 2023-01-17 | 2022-2023フューチャーズリーグ | Jin Siyoung | Lee Hoseong | Lose | B+R | 6.5 | 2923 | -310 | 
+| 2023-03-06 | 2022-2023フューチャーズリーグ | Lee Hoseong |  | Win | B+R | 6.5 | 2979 | 149 | 
+| 2023-02-28 | 2022-2023フューチャーズリーグ | Lee Hoseong | Kim Sangcheon | Win | B+R | 6.5 | 2830 | 9 | 
+| 2023-02-20 | 2022-2023フューチャーズリーグ |  | Lee Hoseong | Win | W+R | 6.5 | 2821 | 43 | 
+| 2023-02-07 | 2022-2023フューチャーズリーグ | Lee Hoseong | Choi Kihoon | Lose | W+R | 6.5 | 2778 | 3 | 
+| 2023-01-23 | 2022-2023フューチャーズリーグ | Lee Hoseong |  | Lose | W+R | 6.5 | 2775 | -152 | 
+| 2023-01-17 | 2022-2023フューチャーズリーグ | Jin Siyoung | Lee Hoseong | Lose | B+R | 6.5 | 2927 | -306 | 
 | 2023-01-09 | 2022-2023フューチャーズリーグ | Lee Hoseong | Kim Cheayoung | Win | B+R | 6.5 | 3233 | 0 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Park Hyunsoo | Lee Hoseong | Lose | B+0.5 | 6.5 | 3233 | -30 | 
 | 2020-04-16 | 第25回LG杯韓国予選 | Lee Hoseong | Seo Musang | Win | B+R | 6.5 | 3263 | 2 | 

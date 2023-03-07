@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lin Lixiang Vs Xiao Zhenghao** | **Lin Lixiang Streak** | **Xiao Zhenghao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-06 | 第4期名人戦（台湾）3回戦 | Lin Lixiang | Xiao Zhenghao | W+R | 6.5 | 9:14 | 0 | 2 | 
 | 2022-02-11 | 第21期天元戦（台湾）敗部4回戦 | Xiao Zhenghao | Lin Lixiang | B+R | 6.5 | 9:13 | 0 | 1 | 
 | 2021-03-05 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Lin Lixiang | W+R | 6.5 | 9:12 | 1 | 0 | 
 | 2018-06-07 | 第8回台湾友士杯十段戦敗部準決勝 | Lin Lixiang | Xiao Zhenghao | W+R | 6.5 | 8:12 | 0 | 1 | 

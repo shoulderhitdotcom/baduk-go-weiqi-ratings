@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Wang Yuanjun** | **Lai Junfu Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-07 | 第22期天元戦（台湾）リーグ | Lai Junfu | Wang Yuanjun | B+R | 6.5 | 8:12 | 2 | 0 | 
 | 2022-10-06 | 第15期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | B+R | 6.5 | 7:12 | 1 | 0 | 
 | 2022-04-20 | 第27回LG杯台湾予選 | Wang Yuanjun | Lai Junfu | B+R | 6.5 | 6:12 | 0 | 2 | 
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 6:11 | 0 | 1 | 

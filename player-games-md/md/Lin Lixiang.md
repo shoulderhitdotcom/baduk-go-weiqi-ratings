@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-07 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lin Lixiang | Lose | B+R | 6.5 | 3148 | -6 | 
 | 2023-03-06 | 第4期名人戦（台湾）3回戦 | Lin Lixiang | Xiao Zhenghao | Lose | W+R | 6.5 | 3154 | -13 | 
 | 2023-03-03 | 第22期天元戦（台湾）リーグ | Lin Junyan | Lin Lixiang | Lose | B+R | 6.5 | 3167 | 12 | 
 | 2023-02-24 | 第22期天元戦（台湾）リーグ | Xu Jingen | Lin Lixiang | Lose | B+R | 6.5 | 3155 | -8 | 

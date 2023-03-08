@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Peng Quan | Tuo Jiaxi | Win | B+¾ | 7.5 | 3380.0 | -288.0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Peng Quan | Zhou Ruiyang | Lose | W+0.5 | 7.5 | 3668.0 | 74.0 | 

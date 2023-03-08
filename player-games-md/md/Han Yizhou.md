@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-07 | 第37期中国囲碁天元戦予選 | Zhou Hongyu | Han Yizhou | Lose | B+¾ | 7.5 | 3433 | -14 | 
 | 2023-03-06 | 第13期中国竜星戦Aブロック1回戦 | Han Yizhou | Wang Xinghao | Lose | W+R | 7.5 | 3447 | -2 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Han Yizhou | Ke Jie | Lose | W+R | 7.5 | 3449 | -3 | 
 | 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Han Yizhou | Lose | B+¾ | 7.5 | 3452 | -7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-07 | 第37期中国囲碁天元戦予選 | Liu Yuhang | Wang Xinghao | Win | W+R | 7.5 | 3646 | 2 | 
 | 2023-03-06 | 第13期中国竜星戦Aブロック2回戦 | Wang Xinghao | Chen Xian | Lose | W+R | 7.5 | 3644 | 0 | 
 | 2023-03-06 | 第13期中国竜星戦Aブロック1回戦 | Han Yizhou | Wang Xinghao | Win | W+R | 7.5 | 3644 | -10 | 
 | 2023-03-02 | 2022博思軟件杯中国囲碁新秀争覇戦リーグ | Hu Zihao | Wang Xinghao | Win | W+R | 7.5 | 3654 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Li Xuanhao | Chen Xian | Win | W+R | 7.5 | 3492 | 7 | 
 | 2023-03-06 | 第13期中国竜星戦Aブロック2回戦 | Wang Xinghao | Chen Xian | Win | W+R | 7.5 | 3485 | 14 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Chen Xian | Lose | B+R | 7.5 | 3471 | -4 | 
 | 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Chen Xian | Xie Ke | Lose | W+3¼ | 7.5 | 3475 | -4 | 

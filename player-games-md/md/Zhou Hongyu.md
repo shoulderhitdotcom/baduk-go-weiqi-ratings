@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Zhou Hongyu | Xie Erhao | Lose | W+¼ | 7.5 | 3246 | -5 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Zhou Hongyu | Han Yizhou | Win | B+¾ | 7.5 | 3251 | 11 | 
 | 2023-03-05 | 第5回SENKO CUPワールド碁女流最強戦決勝  | Zhou Hongyu | Choi Jeong | Lose | W+R | 6.5 | 3240 | -7 | 
 | 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Zhou Hongyu | Ueno Asami | Win | B+R | 6.5 | 3247 | 6 | 

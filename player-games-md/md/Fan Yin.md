@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Fan Yin | Fan Tingyu | Lose | W+2¼ | 7.5 | 3523 | -6 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Peng Quan | Fan Yin | Win | W+R | 7.5 | 3529 | 2 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Xia Chenkun | Win | B+R | 7.5 | 3527 | 4 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Fan Yin | Byun Sangil | Win | B+R | 7.5 | 3523 | 44 | 

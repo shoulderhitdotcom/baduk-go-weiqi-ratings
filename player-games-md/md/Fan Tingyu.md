@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | Lose | B+1¾ | 7.5 | 3621 | -2 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Fan Yin | Fan Tingyu | Win | W+2¼ | 7.5 | 3623 | 0 | 
 | 2023-03-05 | 第22回西南棋王戦準決勝 | Chen Yaoye | Fan Tingyu | Win | W+3¼ | 7.5 | 3623 | 0 | 
 | 2023-03-05 | 第22回西南棋王戦決勝 | Fan Tingyu | Tang Weixing | Win | B+R | 7.5 | 3623 | 2 | 

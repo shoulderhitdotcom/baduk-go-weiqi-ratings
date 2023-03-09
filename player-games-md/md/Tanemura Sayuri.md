@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第59期十段戦予選 | Nakamura Sumire | Tanemura Sayuri | B+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLnLOR%2Bq%2BRTbP%2B7K1VsQ8g%3D%3D) | 
 | 第2回SGW杯中庸戦予選 | Tanemura Sayuri | Iwamaru Taira | W+11.5 | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2F90audOtIkiJLeuM4vTnA%3D%3D) | 

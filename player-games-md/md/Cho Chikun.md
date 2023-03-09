@@ -7,26 +7,27 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-02 | 第2回テイケイ杯レジェンド戦準決勝 | Yamashiro Hiroshi | Cho Chikun | Win | W+4.5 | 6.5 | 2901 | 549853 | 
-| 2023-02-02 | 第48期棋聖戦予選 | Seki Kotaro | Cho Chikun | Lose | B+3.5 | 6.5 | -546952 | -549333 | 
-| 2023-01-19 | 第71期王座戦予選 | Yamada Takuji | Cho Chikun | Win | W+R | 6.5 | 2381 | -6 | 
-| 2023-01-12 | 第2回テイケイ杯レジェンド戦1回戦 | Konishi Kazuko | Cho Chikun | Win | W+R | 6.5 | 2387 | -17 | 
-| 2022-12-22 | 第49期天元戦予選 | Ueno Asami | Cho Chikun | Lose | B+R | 6.5 | 2404 | -214 | 
-| 2022-12-15 | 第71期王座戦予選 | Cho Chikun | Nakamura Shinya | Win | B+0.5 | 6.5 | 2618 | -22 | 
-| 2022-12-08 | 第49期天元戦予選 | Cho Chikun | Shiraishi Yuichi | Win | B+R | 6.5 | 2640 | -184 | 
-| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 2824 | -54 | 
-| 2022-03-31 | 第47期棋聖戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2878 | 80 | 
-| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Lose | B+R | 6.5 | 2798 | -57 | 
-| 2022-01-20 | 第1回テイケイ杯レジェンド戦1回戦 | Takemiya Masaki | Cho Chikun | Win | W+13.5 | 6.5 | 2855 | 204 | 
-| 2022-01-13 | 第70期王座戦予選 | Cho Chikun | Tsuneishi Takashi | Win | B+R | 6.5 | 2651 | -104 | 
-| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2755 | 2 | 
-| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2753 | -54 | 
-| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2807 | 13 | 
-| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2794 | -142 | 
-| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 2936 | -106 | 
-| 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 | 3042 | 47 | 
-| 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 2995 | -16 | 
-| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3011 | 74 | 
+| 2023-03-09 | 第71期王座戦予選 | Cho Chikun | Takao Shinji | Win | B+R | 6.5 | 2949 | 44 | 
+| 2023-03-02 | 第2回テイケイ杯レジェンド戦準決勝 | Yamashiro Hiroshi | Cho Chikun | Win | W+4.5 | 6.5 | 2905 | 549854 | 
+| 2023-02-02 | 第48期棋聖戦予選 | Seki Kotaro | Cho Chikun | Lose | B+3.5 | 6.5 | -546949 | -549334 | 
+| 2023-01-19 | 第71期王座戦予選 | Yamada Takuji | Cho Chikun | Win | W+R | 6.5 | 2385 | -6 | 
+| 2023-01-12 | 第2回テイケイ杯レジェンド戦1回戦 | Konishi Kazuko | Cho Chikun | Win | W+R | 6.5 | 2391 | -16 | 
+| 2022-12-22 | 第49期天元戦予選 | Ueno Asami | Cho Chikun | Lose | B+R | 6.5 | 2407 | -214 | 
+| 2022-12-15 | 第71期王座戦予選 | Cho Chikun | Nakamura Shinya | Win | B+0.5 | 6.5 | 2621 | -22 | 
+| 2022-12-08 | 第49期天元戦予選 | Cho Chikun | Shiraishi Yuichi | Win | B+R | 6.5 | 2643 | -182 | 
+| 2022-04-14 | 第47期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 2825 | -54 | 
+| 2022-03-31 | 第47期棋聖戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2879 | 80 | 
+| 2022-02-03 | 第1回テイケイ杯レジェンド戦2回戦 | Sonoda Yuichi | Cho Chikun | Lose | B+R | 6.5 | 2799 | -57 | 
+| 2022-01-20 | 第1回テイケイ杯レジェンド戦1回戦 | Takemiya Masaki | Cho Chikun | Win | W+13.5 | 6.5 | 2856 | 204 | 
+| 2022-01-13 | 第70期王座戦予選 | Cho Chikun | Tsuneishi Takashi | Win | B+R | 6.5 | 2652 | -104 | 
+| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2756 | 2 | 
+| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2754 | -54 | 
+| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2808 | 13 | 
+| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2795 | -141 | 
+| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 2936 | -107 | 
+| 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 | 3043 | 48 | 
+| 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 2995 | -17 | 
+| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3012 | 75 | 
 | 2021-08-05 | 第47期名人戦予選  | Cho Chikun | Takanashi Seiken | Win | B+R | 6.5 | 2937 | 66 | 
 | 2021-03-29 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | Lose | B+R | 6.5 | 2871 | -12 | 
 | 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 2883 | -33 | 

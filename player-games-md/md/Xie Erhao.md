@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Zhao Chenyu | Xie Erhao | Lose | B+R | 7.5 | 3545 | -4 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Zhou Hongyu | Xie Erhao | Win | W+¼ | 7.5 | 3549 | -5 | 
 | 2023-03-04 | 第22回西南棋王戦1回戦 | Fu Jianheng | Xie Erhao | Lose | B+R | 7.5 | 3554 | -2 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Xie Erhao | Kang Dongyun | Win | B+R | 7.5 | 3556 | 5 | 

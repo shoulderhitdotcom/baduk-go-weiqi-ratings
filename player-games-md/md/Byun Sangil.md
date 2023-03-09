@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第4期ソパルコサノル最高棋士決定戦リーグ | Weon Seongjin | Byun Sangil | Lose | B+R | 6.5 | 3666 | -8 | 
 | 2023-03-07 | 第24回マキシムコーヒー杯入神最強戦3回戦 | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3674 | -12 | 
 | 2023-03-04 | 2022-2023韓国囲碁リーグ | Park Geunho | Byun Sangil | Lose | B+R | 6.5 | 3686 | -3 | 
 | 2023-03-01 | 2022-2023韓国囲碁リーグ | Shin Minjun | Byun Sangil | Lose | B+R | 6.5 | 3689 | 0 | 

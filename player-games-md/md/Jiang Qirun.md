@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Shi Yue | Jiang Qirun | Win | W+R | 7.5 | 3420 | 14 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Ke Jie | Jiang Qirun | Win | W+¼ | 7.5 | 3406 | 29 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | Lose | W+R | 7.5 | 3377 | -4 | 
 | 2023-02-04 | 第24回中国囲碁甲級リーグ | Park Junghwan | Jiang Qirun | Lose | B+R | 7.5 | 3381 | 43 | 

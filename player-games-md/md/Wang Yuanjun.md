@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第15回海峰杯プロ囲碁戦決勝三番勝負第1局  | Xu Jingen | Wang Yuanjun | Win | W+R | 6.5 | 3302 | 3 | 
+| 2023-03-08 | 第5回夢百合杯台湾予選 |  | Wang Yuanjun | Win | W+R | 7.5 | 3299 | -1 | 
 | 2023-03-07 | 第22期天元戦（台湾）リーグ | Lai Junfu | Wang Yuanjun | Lose | B+R | 6.5 | 3300 | -3 | 
 | 2023-03-03 | 第22期天元戦（台湾）リーグ | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3303 | 3 | 
 | 2023-03-02 | 第15回海峰杯プロ囲碁戦準決勝  | Wang Yuanjun | Lin Junyan | Win | B+R | 6.5 | 3300 | 9 | 

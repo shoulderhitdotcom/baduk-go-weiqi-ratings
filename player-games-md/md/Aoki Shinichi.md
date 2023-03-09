@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第47期名人戦予選 | Kobayashi Koichi | Aoki Shinichi | B+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gyFFDnlvE5sQg2mNJS52sw%3D%3D) | 
 | 第45期棋聖戦ファーストトーナメント予選 | Aoki Shinichi | Kataoka Satoshi | W+6.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sMfu0L7SjJsSpD8FgIjAg%3D%3D) | 

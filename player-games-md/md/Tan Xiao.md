@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Tan Xiao | Dang Yifei | Lose | W+R | 7.5 | 3528 | -4 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Tan Xiao | Rong Yi | Win | B+R | 7.5 | 3532 | 4 | 
 | 2023-03-06 | 第13期中国竜星戦Bブロック4回戦 | Tan Xiao | Xu Jiayang | Lose | W+R | 7.5 | 3528 | 0 | 
 | 2023-03-06 | 第13期中国竜星戦Bブロック3回戦 | Tan Xiao | Tong Mengcheng | Win | B+R | 7.5 | 3528 | -4 | 

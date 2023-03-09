@@ -7,26 +7,27 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-02 | 第48期名人戦リーグ  | Fujita Akihiko | Cho U | Lose | W+2.5 | 6.5 | 3033 | -17 | 
-| 2023-02-27 | 第19回アジア競技大会日本予選 | Ida Atsushi | Fujita Akihiko | Lose | B+R | 6.5 | 3050 | 0 | 
-| 2023-02-23 | 第48期名人戦リーグ  | Hsu Chiayuan | Fujita Akihiko | Lose | B+R | 6.5 | 3050 | 142 | 
-| 2023-02-02 | 第78期本因坊戦リーグ | Hsu Chiayuan | Fujita Akihiko | Win | W+R | 6.5 | 2908 | -17 | 
-| 2023-01-26 | 第78期本因坊戦リーグ | Ichiriki Ryo | Fujita Akihiko | Lose | B+R | 6.5 | 2925 | -20 | 
-| 2023-01-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Fujita Akihiko | Lose | B+R | 6.5 | 2945 | -61 | 
-| 2022-12-22 | 第78期本因坊戦リーグ | Fujita Akihiko | Motoki Katsuya | Lose | W+R | 6.5 | 3006 | -72 | 
-| 2022-12-15 | 第48期名人戦リーグ  | Shida Tatsuya | Fujita Akihiko | Lose | B+0.5 | 6.5 | 3078 | -71 | 
-| 2022-11-17 | 第48期名人戦予選  | Kono Rin | Fujita Akihiko | Win | W+0.5 | 6.5 | 3149 | 166 | 
-| 2022-11-10 | 第78期本因坊戦リーグ | Fujita Akihiko | Shibano Toramaru | Lose | W+R | 6.5 | 2983 | -134 | 
-| 2022-10-10 | 第48期名人戦予選 | Fujita Akihiko |  | Win | B+0.5 | 6.5 | 3117 | 16 | 
-| 2022-10-03 | 第78期本因坊戦リーグ | Fujita Akihiko | Yu Zhengqi | Lose | W+R | 6.5 | 3101 | -229 | 
-| 2022-09-22 | 第48期名人戦予選 | Fujita Akihiko | Takemiya Masaki | Win | B+R | 6.5 | 3330 | 0 | 
-| 2022-06-30 | 第47期棋聖戦Bリーグ | Fujita Akihiko | Hirose Yuichi | Win | B+4.5 | 6.5 | 3330 | 494 | 
-| 2022-02-14 | 第70期王座戦予選 | Fujita Akihiko | Kono Rin | Lose | W+3.5 | 6.5 | 2836 | 8 | 
-| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Lose | B+R | 6.5 | 2828 | 267 | 
-| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Win | B+R | 6.5 | 2561 | -222 | 
+| 2023-03-09 | 第78期本因坊戦リーグ | Otake Yu | Fujita Akihiko | Win | W+R | 6.5 | 3066 | 29 | 
+| 2023-03-02 | 第48期名人戦リーグ  | Fujita Akihiko | Cho U | Lose | W+2.5 | 6.5 | 3037 | -17 | 
+| 2023-02-27 | 第19回アジア競技大会日本予選 | Ida Atsushi | Fujita Akihiko | Lose | B+R | 6.5 | 3054 | 0 | 
+| 2023-02-23 | 第48期名人戦リーグ  | Hsu Chiayuan | Fujita Akihiko | Lose | B+R | 6.5 | 3054 | 143 | 
+| 2023-02-02 | 第78期本因坊戦リーグ | Hsu Chiayuan | Fujita Akihiko | Win | W+R | 6.5 | 2911 | -18 | 
+| 2023-01-26 | 第78期本因坊戦リーグ | Ichiriki Ryo | Fujita Akihiko | Lose | B+R | 6.5 | 2929 | -20 | 
+| 2023-01-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Fujita Akihiko | Lose | B+R | 6.5 | 2949 | -60 | 
+| 2022-12-22 | 第78期本因坊戦リーグ | Fujita Akihiko | Motoki Katsuya | Lose | W+R | 6.5 | 3009 | -72 | 
+| 2022-12-15 | 第48期名人戦リーグ  | Shida Tatsuya | Fujita Akihiko | Lose | B+0.5 | 6.5 | 3081 | -71 | 
+| 2022-11-17 | 第48期名人戦予選  | Kono Rin | Fujita Akihiko | Win | W+0.5 | 6.5 | 3152 | 166 | 
+| 2022-11-10 | 第78期本因坊戦リーグ | Fujita Akihiko | Shibano Toramaru | Lose | W+R | 6.5 | 2986 | -134 | 
+| 2022-10-10 | 第48期名人戦予選 | Fujita Akihiko |  | Win | B+0.5 | 6.5 | 3120 | 17 | 
+| 2022-10-03 | 第78期本因坊戦リーグ | Fujita Akihiko | Yu Zhengqi | Lose | W+R | 6.5 | 3103 | -229 | 
+| 2022-09-22 | 第48期名人戦予選 | Fujita Akihiko | Takemiya Masaki | Win | B+R | 6.5 | 3332 | 0 | 
+| 2022-06-30 | 第47期棋聖戦Bリーグ | Fujita Akihiko | Hirose Yuichi | Win | B+4.5 | 6.5 | 3332 | 495 | 
+| 2022-02-14 | 第70期王座戦予選 | Fujita Akihiko | Kono Rin | Lose | W+3.5 | 6.5 | 2837 | 8 | 
+| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Lose | B+R | 6.5 | 2829 | 267 | 
+| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Win | B+R | 6.5 | 2562 | -221 | 
 | 2021-08-12 | 第46期棋聖戦Bリーグ | Shida Tatsuya | Fujita Akihiko | Win | W+2.5 | 6.5 | 2783 | 333 | 
-| 2021-04-19 | 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | Lose | B+1.5 | 6.5 | 2450 | -74 | 
-| 2021-03-18 | 第69期王座戦予選 | Fujita Akihiko | O Rissei | Lose | W+1.5 | 6.5 | 2524 | -521 | 
+| 2021-04-19 | 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | Lose | B+1.5 | 6.5 | 2450 | -75 | 
+| 2021-03-18 | 第69期王座戦予選 | Fujita Akihiko | O Rissei | Lose | W+1.5 | 6.5 | 2525 | -520 | 
 | 2020-11-05 | 第47期天元戦予選 | Fujita Akihiko | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3045 | -20 | 
 | 2020-10-26 | 第59期十段戦2回戦 | Fujita Akihiko | Murakawa Daisuke | Lose | W+R | 6.5 | 3065 | -121 | 
 | 2020-09-17 | 第46期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Win | B+R | 6.5 | 3186 | -90 | 
@@ -34,8 +35,8 @@
 | 2020-07-23 | 第45期棋聖戦Bリーグ | Yamada Kimio | Fujita Akihiko | Win | W+R | 6.5 | 3353 | 18 | 
 | 2020-07-06 | 第68期王座戦1回戦 | Fujita Akihiko | Iyama Yuta | Lose | W+R | 6.5 | 3335 | 59 | 
 | 2020-03-19 | 第68期王座戦予選 | Yamada Takuji | Fujita Akihiko | Win | W+6.5 | 6.5 | 3276 | 13 | 
-| 2020-03-05 | 第45期棋聖戦Bリーグ | Ko Iso | Fujita Akihiko | Win | W+R | 6.5 | 3263 | 15 | 
-| 2020-02-27 | 第76期本因坊戦予選 | Hirata Tomoya | Fujita Akihiko | Lose | B+R | 6.5 | 3248 | -50 | 
+| 2020-03-05 | 第45期棋聖戦Bリーグ | Ko Iso | Fujita Akihiko | Win | W+R | 6.5 | 3263 | 16 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Hirata Tomoya | Fujita Akihiko | Lose | B+R | 6.5 | 3247 | -51 | 
 | 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Lose | W+R | 6.5 | 3298 | -49 | 
 | 2020-01-23 | 第68期王座戦予選 | Fujita Akihiko | Ichiriki Ryo | Win | B+R | 6.5 | 3347 | missing |
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Fan Tingyu** | **Ding Hao Streak** | **Fan Tingyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | B+1¾ | 7.5 | 4:7 | 2 | 0 | 
 | 2022-08-09 | 第24回中国囲碁甲級リーグ | Ding Hao | Fan Tingyu | B+R | 7.5 | 3:7 | 1 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Ding Hao | Fan Tingyu | W+¼ | 7.5 | 2:7 | 0 | 2 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | W+R | 7.5 | 2:6 | 0 | 1 | 

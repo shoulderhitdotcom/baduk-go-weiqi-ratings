@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Chikun Vs Takao Shinji** | **Cho Chikun Streak** | **Takao Shinji Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-09 | 第71期王座戦予選 | Cho Chikun | Takao Shinji | B+R | 6.5 | 4:14 | 1 | 0 | 
 | 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Takao Shinji | Cho Chikun | B+R | 6.5 | 3:14 | 0 | 3 | 
 | 2014-06-12 | 第40期天元戦本戦2回戦 | Cho Chikun | Takao Shinji | W+R | 6.5 | 3:13 | 0 | 2 | 
 | 2013-10-31 | 第52期十段戦2回戦 | Takao Shinji | Cho Chikun | B+R | 6.5 | 3:12 | 0 | 1 | 

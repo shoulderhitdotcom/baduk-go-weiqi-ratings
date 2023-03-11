@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Wei Vs Lin Junyan** | **Li Wei Streak** | **Lin Junyan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-10 | 第5回夢百合杯台湾予選 | Li Wei | Lin Junyan | W+R | 7.5 | 2:8 | 0 | 1 | 
 | 2022-10-28 | 第10期中環碁聖戦8強戦 | Lin Junyan | Li Wei | W+R | 6.5 | 2:7 | 2 | 0 | 
 | 2022-10-11 | 第18期国手戦（台湾） | Li Wei | Lin Junyan | B+R | 6.5 | 1:7 | 1 | 0 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Li Wei | Lin Junyan | W+R | 6.5 | 0:7 | 0 | 7 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Shibano Toramaru** | **Ichiriki Ryo Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-10 | 第47期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Shibano Toramaru | B+R | 6.5 | 12:10 | 1 | 0 | 
+| 2023-03-03 | 第47期棋聖戦挑戦手合七番勝負第5局  | Shibano Toramaru | Ichiriki Ryo | B+R | 6.5 | 11:10 | 0 | 1 | 
 | 2023-02-17 | 第47期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Shibano Toramaru | B+R | 6.5 | 11:9 | 2 | 0 | 
 | 2023-02-04 | 第47期棋聖戦挑戦手合七番勝負第3局  | Shibano Toramaru | Ichiriki Ryo | W+R | 6.5 | 10:9 | 1 | 0 | 
 | 2023-01-21 | 第47期棋聖戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Shibano Toramaru | W+R | 6.5 | 9:9 | 0 | 1 | 

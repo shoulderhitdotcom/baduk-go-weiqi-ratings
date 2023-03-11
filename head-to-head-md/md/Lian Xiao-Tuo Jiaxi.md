@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tuo Jiaxi** | **Lian Xiao Streak** | **Tuo Jiaxi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Lian Xiao | Tuo Jiaxi | B+R | 7.5 | 5:8 | 1 | 0 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | B+R | 7.5 | 4:8 | 0 | 1 | 
 | 2020-09-17 | 第22回農心杯中国選抜戦 | Lian Xiao | Tuo Jiaxi | B+R | 6.5 | 4:7 | 1 | 0 | 
 | 2019-09-18 | 第15期威孚房開杯棋王戦16強戦 | Lian Xiao | Tuo Jiaxi | W+R | 7.5 | 3:7 | 0 | 2 | 

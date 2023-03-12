@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Dang Yifei | Ding Hao | Lose | B+R | 7.5 | 3683 | -6 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Jiang Qirun | Ding Hao | Win | W+1¼ | 7.5 | 3689 | 0 | 
 | 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | Win | B+1¾ | 7.5 | 3689 | -3 | 
 | 2023-03-04 | 第22回西南棋王戦1回戦 | Liao Yuanhe | Ding Hao | Lose | B+R | 7.5 | 3692 | 4 | 

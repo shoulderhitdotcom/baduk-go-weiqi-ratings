@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Zhao Chenyu | Lian Xiao | Win | W+R | 7.5 | 3584 | 0 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Lian Xiao | Tuo Jiaxi | Win | B+R | 7.5 | 3584 | 9 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3575 | -5 | 
 | 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Mi Yuting | Lian Xiao | Win | W+R | 7.5 | 3580 | 5 | 

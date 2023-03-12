@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-12 | 第2期韓国棋院選手権戦グループリーグ勝者戦 | Shen Zaiyi | Shin Jinseo | Win | W+R | 6.5 | 3831 | 0 | 
 | 2023-03-10 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第9局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3831 | 0 | 
 | 2023-03-07 | 第24回マキシムコーヒー杯入神最強戦3回戦 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3831 | 0 | 
 | 2023-03-03 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第8局 | Shin Jinseo | Kang Dongyun | Win | B+R | 6.5 | 3831 | 0 | 

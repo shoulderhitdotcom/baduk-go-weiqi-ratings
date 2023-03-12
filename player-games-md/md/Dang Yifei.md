@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Dang Yifei | Ding Hao | Win | B+R | 7.5 | 3626 | 6 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Xie Ke | Dang Yifei | Win | W+R | 7.5 | 3620 | 3 | 
 | 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Tan Xiao | Dang Yifei | Win | W+R | 7.5 | 3617 | -1 | 
 | 2023-03-04 | 第22回西南棋王戦1回戦 | Liu Yuhang | Dang Yifei | Lose | B+R | 7.5 | 3618 | -7 | 

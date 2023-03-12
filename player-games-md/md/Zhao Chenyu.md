@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Zhao Chenyu | Lian Xiao | Lose | W+R | 7.5 | 3593 | 0 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Gu Zihao | Zhao Chenyu | Win | W+¼ | 7.5 | 3593 | 4 | 
 | 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Zhao Chenyu | Xie Erhao | Win | B+R | 7.5 | 3589 | 10 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Zhao Chenyu | Xie Ke | Win | B+R | 7.5 | 3579 | 3 | 

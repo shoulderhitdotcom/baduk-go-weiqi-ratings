@@ -12,8 +12,8 @@
 | 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Zhao Chenyu | Xie Erhao | Win | B+R | 7.5 | 3589 | 10 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Zhao Chenyu | Xie Ke | Win | B+R | 7.5 | 3579 | 3 | 
 | 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Zhao Chenyu | Win | W+R | 7.5 | 3576 | 8 | 
-| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Zhao Chenyu | Win | W+R | 7.5 | 3568 | 2 | 
-| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Zhao Chenyu | Win | W+¼ | 7.5 | 3566 | 40 | 
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Tao Xinran | Zhao Chenyu | Win | W+R | 7.5 | 3568 | 1 | 
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Park Junghwan | Zhao Chenyu | Win | W+¼ | 7.5 | 3567 | 41 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Zhang Tao | Win | B+R | 7.5 | 3526 | 17 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Zhang Qiang | Zhao Chenyu | Win | W+R | 7.5 | 3509 | -29 | 
 | 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Lose | B+R | 7.5 | 3538 | -16 | 
@@ -26,20 +26,20 @@
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Cheng Jiaye | Win | B+R | 7.5 | 3533 | -7 | 
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Park Junghwan | Zhao Chenyu | Win | W+R | 7.5 | 3540 | 21 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Chen Zijian | Win | B+¾ | 7.5 | 3519 | 28 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Zhao Chenyu | Lose | B+R | 7.5 | 3491 | -23 | 
-| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 |  | Zhao Chenyu | Win | W+R | 7.5 | 3514 | -34 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Tu Xiaoyu | Zhao Chenyu | Lose | B+R | 7.5 | 3491 | -24 | 
+| 2022-08-23 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 |  | Zhao Chenyu | Win | W+R | 7.5 | 3515 | -33 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Zhao Chenyu | Park Junghwan | Lose | W+R | 6.5 | 3548 | 0 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦 | Zhao Chenyu | Kim Myounghoon | Win | B+R | 6.5 | 3548 | -3 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Gu Lingyi | Lose | W+R | 7.5 | 3551 | 11 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Win | B+R | 7.5 | 3540 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Wang Xinghao | Lose | W+R | 7.5 | 3540 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Zhao Chenyu | Lose | B+1¾ | 7.5 | 3540 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Han Yizhou | Win | B+1¾ | 7.5 | 3540 | 4 | 
-| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Liu Yuhang | Win | B+R | 7.5 | 3536 | -3 | 
-| 2022-08-04 | 第24回中国囲碁甲級リーグ | Lian Xiao | Zhao Chenyu | Win | W+R | 7.5 | 3539 | 16 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Gu Lingyi | Lose | W+R | 7.5 | 3551 | 10 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | He Yuhan | Win | B+R | 7.5 | 3541 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Wang Xinghao | Lose | W+R | 7.5 | 3541 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Tuo Jiaxi | Zhao Chenyu | Lose | B+1¾ | 7.5 | 3541 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Han Yizhou | Win | B+1¾ | 7.5 | 3541 | 4 | 
+| 2022-08-05 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Liu Yuhang | Win | B+R | 7.5 | 3537 | -3 | 
+| 2022-08-04 | 第24回中国囲碁甲級リーグ | Lian Xiao | Zhao Chenyu | Win | W+R | 7.5 | 3540 | 17 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Zhao Chenyu | Byun Sangil | Lose | W+R | 7.5 | 3523 | -8 | 
-| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Mi Yuting | Lose | W+2.5 | 6.5 | 3531 | -5 | 
-| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Geunho | Win | B+R | 6.5 | 3536 | -6 | 
+| 2022-05-31 | 第27回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Mi Yuting | Lose | W+2.5 | 6.5 | 3531 | -6 | 
+| 2022-05-29 | 第27回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Geunho | Win | B+R | 6.5 | 3537 | -5 | 
 | 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhao Chenyu | Dang Yifei | Lose | W+¼ | 7.5 | 3542 | -7 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tu Xiaoyu | Zhao Chenyu | Lose | B+1¾ | 7.5 | 3549 | -30 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Tu Xiaoyu | Zhao Chenyu | Win | W+R | 7.5 | 3579 | 1 | 
@@ -47,9 +47,9 @@
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Xie Ke | Lose | W+R | 7.5 | 3594 | -12 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | Lose | B+R | 7.5 | 3606 | -2 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Byun Sangil | Win | B+R | 7.5 | 3608 | 19 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Byun Sangil | Zhao Chenyu | Lose | B+R | 7.5 | 3589 | -10 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Win | B+R | 7.5 | 3599 | 13 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3586 | 22 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Byun Sangil | Zhao Chenyu | Lose | B+R | 7.5 | 3589 | -11 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Win | B+R | 7.5 | 3600 | 13 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3587 | 23 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3564 | -1 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Win | W+R | 7.5 | 3565 | 91 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3474 | -2 | 
@@ -59,8 +59,8 @@
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Win | W+1¼ | 7.5 | 3459 | 13 | 
 | 2021-11-01 | 第7回国手山脈国際囲碁大会中国予選 | Zhao Chenyu | Huang Yunsong | Lose | W+R | 6.5 | 3446 | -10 | 
 | 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Lose | W+R | 6.5 | 3456 | -1 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Win | B+R | 6.5 | 3457 | 13 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Win | W+R | 6.5 | 3444 | 6 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Win | B+R | 6.5 | 3457 | 12 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Win | W+R | 6.5 | 3445 | 7 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Lee Changho | Win | B+R | 6.5 | 3438 | 12 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Lose | W+R | 7.5 | 3426 | -13 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Yidi | Zhao Chenyu | Win | W+R | 7.5 | 3439 | 2 | 
@@ -116,18 +116,18 @@
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Jiang Weijie | Zhao Chenyu | Lose | B+R | 7.5 | 3459 | -8 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Wang Xinghao | Zhao Chenyu | Win | W+R | 7.5 | 3467 | 19 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | Lose | W+R | 7.5 | 3448 | -19 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wu Guangya | Zhao Chenyu | Win | W+R | 7.5 | 3467 | 2 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Zhao Chenyu | Lose | B+¾ | 7.5 | 3465 | -51 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Xiangyu | Zhao Chenyu | Win | W+R | 7.5 | 3516 | -23 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wu Guangya | Zhao Chenyu | Win | W+R | 7.5 | 3467 | 1 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Zhao Chenyu | Lose | B+¾ | 7.5 | 3466 | -51 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Xiangyu | Zhao Chenyu | Win | W+R | 7.5 | 3517 | -22 | 
 | 2020-08-04 | 第11期中国竜星戦準決勝 | Zhao Chenyu | Ke Jie | Lose | W+R | 7.5 | 3539 | -32 | 
-| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Byun Sangil | Lose | W+R | 6.5 | 3571 | 1 | 
-| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Win | B+R | 6.5 | 3570 | 26 | 
+| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Byun Sangil | Lose | W+R | 6.5 | 3571 | 0 | 
+| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Win | B+R | 6.5 | 3571 | 27 | 
 | 2020-05-29 | 第11期中国竜星戦Bブロック8回戦 | Zhao Chenyu | Lian Xiao | Lose | W+R | 7.5 | 3544 | -14 | 
 | 2020-04-21 | 第25回LG杯中国予選決勝 | Zhao Chenyu | Peng Liyao | Win | B+R | 6.5 | 3558 | -23 | 
-| 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Win | B+5.5 | 6.5 | 3581 | -12 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Lose | W+R | 7.5 | 3593 | -5 | 
-| 2020-01-07 | 第11期中国竜星戦Bブロック7回戦 | Tuo Jiaxi | Zhao Chenyu | Win | W+R | 7.5 | 3598 | 0 | 
-| 2020-01-07 | 第11期中国竜星戦Bブロック6回戦 | Zhao Chenyu | Gu Li | Win | B+R | 7.5 | 3598 | missing |
+| 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Win | B+5.5 | 6.5 | 3581 | -13 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Lose | W+R | 7.5 | 3594 | -5 | 
+| 2020-01-07 | 第11期中国竜星戦Bブロック7回戦 | Tuo Jiaxi | Zhao Chenyu | Win | W+R | 7.5 | 3599 | 0 | 
+| 2020-01-07 | 第11期中国竜星戦Bブロック6回戦 | Zhao Chenyu | Gu Li | Win | B+R | 7.5 | 3599 | missing |
 
 
 

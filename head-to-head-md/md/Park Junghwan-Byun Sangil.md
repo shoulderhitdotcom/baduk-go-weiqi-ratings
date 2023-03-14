@@ -1,0 +1,29 @@
+## Park Junghwan vs Byun Sangil Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Junghwan Vs Byun Sangil** | **Park Junghwan Streak** | **Byun Sangil Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-13 | 2023YK建機杯リーグ | Park Junghwan | Byun Sangil | B+R | 6.5 | 10:6 | 2 | 0 | 
+| 2023-01-26 | 2022-2023韓国囲碁リーグ | Park Junghwan | Byun Sangil | B+R | 6.5 | 9:6 | 1 | 0 | 
+| 2023-01-26 | 2022-2023韓国囲碁リーグ | Byun Sangil | Park Junghwan | B+3.5 | 6.5 | 8:6 | 0 | 3 | 
+| 2022-07-22 | 第27回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Park Junghwan | B+R | 6.5 | 8:5 | 0 | 2 | 
+| 2022-05-06 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Byun Sangil | W+R | 6.5 | 8:4 | 0 | 1 | 
+| 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | W+R | 6.5 | 8:3 | 1 | 0 | 
+| 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | B+R | 6.5 | 7:3 | 0 | 1 | 
+| 2021-03-02 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Byun Sangil | B+R | 6.5 | 7:2 | 1 | 0 | 
+| 2021-01-22 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Junghwan | B+0.5 | 6.5 | 6:2 | 0 | 1 | 
+| 2020-03-09 | 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Park Junghwan | W+R | 6.5 | 6:1 | 1 | 0 | 
+| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第1局 | Park Junghwan | Byun Sangil | W+R | 6.5 | 5:1 | 0 | 1 | 
+| 2018-11-23 | 第37回KBS杯囲碁王戦8強戦 | Byun Sangil | Park Junghwan | W+R | 6.5 | 5:0 | 5 | 0 | 
+| 2018-01-13 | 第1回クラウン・ヘテ杯3回戦 | Byun Sangil | Park Junghwan | W+R | 6.5 | 4:0 | 4 | 0 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Byun Sangil | Park Junghwan | W+R | 6.5 | 3:0 | 3 | 0 | 
+| 2016-12-10 | 2016年韓国囲碁リーグ | Park Junghwan | Byun Sangil | B+R | 6.5 | 2:0 | 2 | 0 | 
+| 2012-06-25 | 第31回KBS杯囲碁王戦本戦2回戦 | Park Junghwan | Byun Sangil | B+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

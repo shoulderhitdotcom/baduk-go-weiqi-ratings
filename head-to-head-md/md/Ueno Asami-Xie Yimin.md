@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ueno Asami Vs Xie Yimin** | **Ueno Asami Streak** | **Xie Yimin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-13 | 第34期女流名人戦リーグ | Ueno Asami | Xie Yimin | B+R | 6.5 | 7:3 | 3 | 0 | 
 | 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | B+R | 6.5 | 6:3 | 2 | 0 | 
 | 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | B+R | 6.5 | 5:3 | 1 | 0 | 
 | 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | B+R | 6.5 | 4:3 | 0 | 1 | 

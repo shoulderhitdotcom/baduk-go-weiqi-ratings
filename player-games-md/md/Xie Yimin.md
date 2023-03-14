@@ -7,21 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-02-23 | 第34期女流名人戦リーグ | Ueno Risa | Xie Yimin | Win | W+R | 6.5 | 2877 | 196 | 
-| 2023-02-06 | 第34期女流名人戦リーグ | Xie Yimin | Suzuki Ayumi | Lose | W+R | 6.5 | 2681 | -99 | 
-| 2023-01-19 | 第71期王座戦予選 | Miyazawa Goro | Xie Yimin | Win | W+R | 6.5 | 2780 | -22 | 
-| 2023-01-09 | 第34期女流名人戦リーグ | Xie Yimin | Kobayashi Izumi | Win | B+R | 6.5 | 2802 | -15 | 
-| 2022-12-05 | 第34期女流名人戦リーグ | Nyu Eiko | Xie Yimin | Lose | B+R | 6.5 | 2817 | -43 | 
-| 2022-10-27 | 第34期女流名人戦リーグ | Xie Yimin | Nakamura Sumire | Lose | W+R | 6.5 | 2860 | 20 | 
-| 2022-10-17 | 第71期王座戦予選 | Xie Yimin | Nakamura Sumire | Win | B+2.5 | 6.5 | 2840 | -72 | 
-| 2022-06-09 | 第41期女流本因坊戦2回戦 | Okuda Aya | Xie Yimin | Lose | B+R | 6.5 | 2912 | 65 | 
-| 2022-05-26 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第5戦  | Wu Yiming | Xie Yimin | Lose | B+R | 6.5 | 2847 | -107 | 
-| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Lose | B+R | 6.5 | 2954 | -7 | 
-| 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Lu Yuhua | Xie Yimin | Lose | B+R | 6.5 | 2961 | -35 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Choi Jeong | Xie Yimin | Win | W+R | 6.5 | 2996 | 50 | 
-| 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2946 | -26 | 
-| 2022-03-24 | 第33期女流名人戦リーグ | Xie Yimin |  | Win | B+R | 6.5 | 2972 | 35 | 
-| 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | Win | W+R | 6.5 | 2937 | 22 | 
+| 2023-03-13 | 第34期女流名人戦リーグ | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2876 | -4 | 
+| 2023-02-23 | 第34期女流名人戦リーグ | Ueno Risa | Xie Yimin | Win | W+R | 6.5 | 2880 | 196 | 
+| 2023-02-06 | 第34期女流名人戦リーグ | Xie Yimin | Suzuki Ayumi | Lose | W+R | 6.5 | 2684 | -98 | 
+| 2023-01-19 | 第71期王座戦予選 | Miyazawa Goro | Xie Yimin | Win | W+R | 6.5 | 2782 | -22 | 
+| 2023-01-09 | 第34期女流名人戦リーグ | Xie Yimin | Kobayashi Izumi | Win | B+R | 6.5 | 2804 | -15 | 
+| 2022-12-05 | 第34期女流名人戦リーグ | Nyu Eiko | Xie Yimin | Lose | B+R | 6.5 | 2819 | -42 | 
+| 2022-10-27 | 第34期女流名人戦リーグ | Xie Yimin | Nakamura Sumire | Lose | W+R | 6.5 | 2861 | 19 | 
+| 2022-10-17 | 第71期王座戦予選 | Xie Yimin | Nakamura Sumire | Win | B+2.5 | 6.5 | 2842 | -71 | 
+| 2022-06-09 | 第41期女流本因坊戦2回戦 | Okuda Aya | Xie Yimin | Lose | B+R | 6.5 | 2913 | 65 | 
+| 2022-05-26 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第5戦  | Wu Yiming | Xie Yimin | Lose | B+R | 6.5 | 2848 | -107 | 
+| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦3位決定戦  | Fujisawa Rina | Xie Yimin | Lose | B+R | 6.5 | 2955 | -7 | 
+| 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Lu Yuhua | Xie Yimin | Lose | B+R | 6.5 | 2962 | -35 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Choi Jeong | Xie Yimin | Win | W+R | 6.5 | 2997 | 50 | 
+| 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2947 | -25 | 
+| 2022-03-24 | 第33期女流名人戦リーグ | Xie Yimin |  | Win | B+R | 6.5 | 2972 | 34 | 
+| 2022-03-07 | 第33期女流名人戦リーグ  | Nyu Eiko | Xie Yimin | Win | W+R | 6.5 | 2938 | 23 | 
 | 2022-02-24 | 第33期女流名人戦リーグ | Nakamura Sumire | Xie Yimin | Lose | B+2.5 | 6.5 | 2915 | -69 | 
 | 2022-02-14 | 第33期女流名人戦リーグ | Xie Yimin | Mukai Chiaki | Win | B+R | 6.5 | 2984 | 38 | 
 | 2022-01-31 | 第33期女流名人戦リーグ | Xie Yimin | Suzuki Ayumi | Win | B+2.5 | 6.5 | 2946 | 133 | 
@@ -29,8 +30,8 @@
 | 2021-11-11 | 第47期名人戦予選  | Ida Atsushi | Xie Yimin | Lose | B+2.5 | 6.5 | 2803 | 8 | 
 | 2021-11-08 | 第25期女流棋聖戦2回戦 | Xie Yimin | Mukai Chiaki | Lose | W+2.5 | 6.5 | 2795 | -10 | 
 | 2021-10-21 | 第47期名人戦予選  | Xie Yimin | Tsuneishi Takashi | Win | B+4.5 | 6.5 | 2805 | -24 | 
-| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Win | B+R | 6.5 | 2829 | 28 | 
-| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2801 | -20 | 
+| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Win | B+R | 6.5 | 2829 | 27 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2802 | -19 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Mizokami Tomochika | Xie Yimin | Lose | B+R | 6.5 | 2821 | -11 | 
 | 2021-08-19 | 第70期王座戦予選 | Kataoka Satoshi | Xie Yimin | Win | W+3.5 | 6.5 | 2832 | 22 | 
 | 2021-08-05 | 第6回扇興杯女流最強戦2回戦 | Xie Yimin | Kato Chie | Win | B+R | 6.5 | 2810 | 18 | 
@@ -45,8 +46,8 @@
 | 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Xie Yimin | Choi Jeong | Lose | W+2.5 | 6.5 | 2523 | 59 | 
 | 2021-03-18 | 第77期本因坊戦予選 | Xie Yimin | Kudo Norio | Lose | W+R | 6.5 | 2464 | -71 | 
 | 2021-03-04 | 第32期博多・カマチ杯女流名人戦リーグ  | Xie Yimin | Suzuki Ayumi | Win | B+1.5 | 6.5 | 2535 | 52 | 
-| 2021-03-01 | 第32期博多・カマチ杯女流名人戦リーグ | Xie Yimin | Mukai Chiaki | Win | B+0.5 | 6.5 | 2483 | -24 | 
-| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Xie Yimin | Kato Chie | Lose | W+3.5 | 6.5 | 2507 | -3 | 
+| 2021-03-01 | 第32期博多・カマチ杯女流名人戦リーグ | Xie Yimin | Mukai Chiaki | Win | B+0.5 | 6.5 | 2483 | -23 | 
+| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Xie Yimin | Kato Chie | Lose | W+3.5 | 6.5 | 2506 | -4 | 
 | 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | Win | W+R | 6.5 | 2510 | 28 | 
 | 2021-02-01 | 第32期博多・カマチ杯女流名人戦リーグ |  | Xie Yimin | Win | W+2.5 | 6.5 | 2482 | -40 | 
 | 2021-01-25 | 第32期博多・カマチ杯女流名人戦リーグ  | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2522 | -115 | 

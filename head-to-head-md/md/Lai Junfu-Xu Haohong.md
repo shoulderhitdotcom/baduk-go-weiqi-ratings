@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Xu Haohong** | **Lai Junfu Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-14 | 第22期天元戦（台湾）挑戦手合七番勝負第1局 | Lai Junfu | Xu Haohong | W+R | 6.5 | 2:16 | 0 | 7 | 
 | 2022-10-20 | 第15期棋王戦（台湾）挑戦者決定プレーオフ  | Xu Haohong | Lai Junfu | B+R | 6.5 | 2:15 | 0 | 6 | 
 | 2022-09-02 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Xu Haohong | W+R | 6.5 | 2:14 | 0 | 5 | 
 | 2022-04-01 | 第21期天元戦（台湾）リーグプレーオフ | Xu Haohong | Lai Junfu | B+0.5 | 6.5 | 2:13 | 0 | 4 | 

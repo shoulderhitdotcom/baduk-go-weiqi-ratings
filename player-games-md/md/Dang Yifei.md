@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-15 | 第13期中国竜星戦Aブロック6回戦 | Li Weiqing | Dang Yifei | Lose | B+R | 7.5 | 3634 | 0 | 
+| 2023-03-15 | 第13期中国竜星戦Aブロック5回戦 | Dang Yifei | Tuo Jiaxi | Win | B+¾ | 7.5 | 3634 | 0 | 
 | 2023-03-14 | 第13期中国竜星戦Aブロック4回戦 | Liao Yuanhe | Dang Yifei | Win | W+R | 7.5 | 3634 | 3 | 
 | 2023-03-13 | 第37期中国囲碁天元戦挑戦者決定戦 | Dang Yifei | Lian Xiao | Win | B+R | 7.5 | 3631 | 4 | 
 | 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Dang Yifei | Ding Hao | Win | B+R | 7.5 | 3627 | 6 | 

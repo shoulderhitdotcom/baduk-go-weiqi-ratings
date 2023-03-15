@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-15 | 第4期ソパルコサノル最高棋士決定戦リーグ | Weon Seongjin | Park Jinsol | Lose | W+R | 6.5 | 3486 | -4 | 
 | 2023-03-14 | 2023YK建機杯リーグ | Weon Seongjin |  | Win | B+R | 6.5 | 3490 | 0 | 
 | 2023-03-09 | 第4期ソパルコサノル最高棋士決定戦リーグ | Weon Seongjin | Byun Sangil | Win | B+R | 6.5 | 3490 | 3 | 
 | 2023-03-05 | 2022-2023韓国囲碁リーグ | Song Jihoon | Weon Seongjin | Win | W+6.5 | 6.5 | 3487 | -10 | 

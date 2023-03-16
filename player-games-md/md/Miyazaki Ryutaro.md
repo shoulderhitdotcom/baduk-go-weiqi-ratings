@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第46期棋聖戦予選 | Ishida Yoshio | Miyazaki Ryutaro | B+R | 2021-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fm7xaKPtq5ppLmNwUi3C%2BQ%3D%3D) | 
 | 第45期棋聖戦ファーストトーナメント予選 | Tajiri Yuto | Miyazaki Ryutaro | W+1.5 | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=thdQiUpFSvYFbAK72dNuSg%3D%3D) | 

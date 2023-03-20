@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-20 | 第18回倡棋杯中国プロ囲碁選手権戦 | Jiang Qirun | Tang Weixing | Lose | B+1¾ | 7.5 | 3504 | -5 | 
 | 2023-03-19 | 第18回倡棋杯中国プロ囲碁選手権戦 | Tang Weixing |  | Win | B+1¾ | 7.5 | 3509 | -9 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Tang Weixing | Peng Liyao | Lose | W+R | 7.5 | 3518 | -4 | 
 | 2023-03-05 | 第22回西南棋王戦準決勝 | Tang Weixing | Ke Jie | Win | B+R | 7.5 | 3522 | 0 | 
@@ -14,18 +15,18 @@
 | 2023-03-04 | 第22回西南棋王戦2回戦 | Liao Yuanhe | Tang Weixing | Win | W+R | 7.5 | 3521 | 0 | 
 | 2023-03-04 | 第22回西南棋王戦1回戦 | Li Xiangyu | Tang Weixing | Win | W+R | 7.5 | 3521 | 5 | 
 | 2023-02-25 | 第13期中国竜星戦予選 | Yi Lingtao | Tang Weixing | Lose | B+R | 7.5 | 3516 | 0 | 
-| 2023-02-25 | 第13期中国竜星戦予選 |  | Tang Weixing | Lose | B+R | 7.5 | 3516 | 2 | 
-| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Tang Weixing | Win | W+R | 7.5 | 3514 | 1 | 
-| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tang Weixing | Kang Dongyun | Win | B+R | 7.5 | 3513 | -25 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Tang Weixing | Lose | B+¾ | 7.5 | 3538 | -10 | 
-| 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Lose | W+R | 7.5 | 3548 | -16 | 
-| 2023-02-04 | 第24回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Lose | B+R | 7.5 | 3564 | 46 | 
-| 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Tang Weixing | Byun Sangil | Lose | W+R | 7.5 | 3518 | -1 | 
-| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Shin Minjun | Tang Weixing | Win | W+R | 7.5 | 3519 | 25 | 
+| 2023-02-25 | 第13期中国竜星戦予選 |  | Tang Weixing | Lose | B+R | 7.5 | 3516 | 1 | 
+| 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Zhang Qiang | Tang Weixing | Win | W+R | 7.5 | 3515 | 1 | 
+| 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Tang Weixing | Kang Dongyun | Win | B+R | 7.5 | 3514 | -25 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Tang Weixing | Lose | B+¾ | 7.5 | 3539 | -10 | 
+| 2023-02-06 | 第24回中国囲碁甲級リーグ | Tang Weixing | Kim Jiseok | Lose | W+R | 7.5 | 3549 | -16 | 
+| 2023-02-04 | 第24回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Lose | B+R | 7.5 | 3565 | 47 | 
+| 2022-12-21 | 第14回春蘭杯世界囲碁選手権準決勝 | Tang Weixing | Byun Sangil | Lose | W+R | 7.5 | 3518 | -2 | 
+| 2022-12-19 | 第14回春蘭杯世界囲碁選手権3回戦 | Shin Minjun | Tang Weixing | Win | W+R | 7.5 | 3520 | 26 | 
 | 2022-11-19 | 第2期湾区杯中国囲碁大棋士戦準決勝 | Tang Weixing | Mi Yuting | Lose | W+R | 7.5 | 3494 | -5 | 
-| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Win | B+R | 7.5 | 3499 | -43 | 
-| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Lose | W+0.5 | 6.5 | 3542 | 0 | 
-| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Tang Weixing | Yoo Ohseong | Win | B+R | 6.5 | 3542 | 22 | 
+| 2022-11-18 | 第2期湾区杯中国囲碁大棋士戦3回戦 | Tang Weixing | Zhao Chenyu | Win | B+R | 7.5 | 3499 | -44 | 
+| 2022-10-31 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kim Myounghoon | Lose | W+0.5 | 6.5 | 3543 | 0 | 
+| 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Tang Weixing | Yoo Ohseong | Win | B+R | 6.5 | 3543 | 23 | 
 | 2022-10-11 | 第23期阿含・桐山杯中国早碁戦1回戦 | Tang Weixing | Xie Erhao | Lose | W+R | 7.5 | 3520 | -7 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | Win | W+R | 7.5 | 3527 | 14 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Fan Tingyu | Tang Weixing | Win | W+R | 7.5 | 3513 | 76 | 
@@ -67,8 +68,8 @@
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tang Weixing | Tao Xinran | Win | B+2¾ | 7.5 | 3553 | 6 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Tang Weixing | Peng Liyao | Win | B+R | 7.5 | 3547 | 5 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Lose | B+R | 7.5 | 3542 | 7 | 
-| 2021-09-15 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Shin Jinseo | Tang Weixing | Lose | B+R | 7.5 | 3535 | -1 | 
-| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Lose | W+¼ | 7.5 | 3536 | -2 | 
+| 2021-09-15 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Shin Jinseo | Tang Weixing | Lose | B+R | 7.5 | 3535 | -2 | 
+| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Lose | W+¼ | 7.5 | 3537 | -1 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Lose | W+2¼ | 7.5 | 3538 | -15 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Tang Weixing | Tong Mengcheng | Win | B+1.5 | 6.5 | 3553 | 5 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Tang Weixing |  | Win | B+R | 7.5 | 3548 | 17 | 

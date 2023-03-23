@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujita Akihiko Vs Yu Zhengqi** | **Fujita Akihiko Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-23 | 第48期棋聖戦Aリーグ | Fujita Akihiko | Yu Zhengqi | W+R | 6.5 | 5:3 | 0 | 3 | 
 | 2022-10-03 | 第78期本因坊戦リーグ | Fujita Akihiko | Yu Zhengqi | W+R | 6.5 | 5:2 | 0 | 2 | 
 | 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | B+R | 6.5 | 5:1 | 0 | 1 | 
 | 2019-01-31 | 第67期王座戦予選 | Yu Zhengqi | Fujita Akihiko | W+R | 6.5 | 5:0 | 5 | 0 | 

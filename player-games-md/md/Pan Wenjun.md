@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第24期中国囲碁天元戦予選 | Pan Wenjun | Wang Zheming | W+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHjOyOO5Fifw5ESDWptumQ%3D%3D) | 
 | 第22期中国囲碁名人戦予選 | Pan Wenjun | missing | W+4.5 | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4nmRXrdiWDWPZNO%2FLwdZ3Q%3D%3D) | 

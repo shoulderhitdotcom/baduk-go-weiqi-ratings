@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-23 | 第5回夢百合杯中国予選 | Rui Naiwei | Zhan Ying | Win | B+R | 7.5 | 3057 | 0 | 
 | 2023-03-22 | 第5回夢百合杯中国予選 | Chu Keer | Rui Naiwei | Win | W+¼ | 7.5 | 3057 | 3 | 
 | 2023-03-18 | 第18回倡棋杯予選 | Rui Naiwei | Li Chengsen | Lose | W+R | 7.5 | 3054 | 212 | 
 | 2023-03-17 | 第18回倡棋杯予選 |  | Rui Naiwei | Win | W+R | 7.5 | 2842 | 0 | 

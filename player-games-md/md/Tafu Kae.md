@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第5回扇興杯女流最強戦予選 | Tafu Kae | Nakamura Sumire | W+R | 2019-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cgveQSyLdyMji0ezqqQzMw%3D%3D) | 
 | 第57期十段戦予選B | Tafu Kae | Watanabe Kouki | W+R | 2017-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1nqHBteXpyLKPlzLnE9Rg%3D%3D) | 

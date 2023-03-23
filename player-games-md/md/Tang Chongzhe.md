@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第19期中国阿含桐山杯本選1回戦 | Tang Chongzhe | missing | B+R | 2017-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCKmGbLzf%2F91yl7%2B3XL8LA%3D%3D) | 
 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Tang Chongzhe | Shen Peiran | W+R | 2016-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=loszjqMOXi8GDWwpb1r3WQ%3D%3D) | 

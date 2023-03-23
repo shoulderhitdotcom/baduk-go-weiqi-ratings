@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第15期倡棋杯中国プロ囲棋選手権戦予選1回戦 | Qiu Jinbo | Li Zerui | B+R | 2018-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9fY8YHiZ6B7Q%2BhjCR5chw%3D%3D) | 
 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Tu Xiaoyu | Qiu Jinbo | B+R | 2017-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vQO5aUuGRxFA1sRvhMwC2g%3D%3D) | 

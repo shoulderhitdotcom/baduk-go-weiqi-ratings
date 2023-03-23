@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kim Jiseok Vs Lee Changho** | **Kim Jiseok Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-23 | 第6期韓国竜星戦予選 | Kim Jiseok | Lee Changho | B+R | 6.5 | 10:5 | 5 | 0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | W+R | 6.5 | 9:5 | 4 | 0 | 
 | 2021-01-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Lee Changho | B+1.5 | 6.5 | 8:5 | 3 | 0 | 
 | 2020-11-27 | 2020-2021韓国囲碁リーグ | Lee Changho | Kim Jiseok | W+5.5 | 6.5 | 7:5 | 2 | 0 | 

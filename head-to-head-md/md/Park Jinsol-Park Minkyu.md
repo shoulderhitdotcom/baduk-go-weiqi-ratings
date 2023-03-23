@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Jinsol Vs Park Minkyu** | **Park Jinsol Streak** | **Park Minkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-23 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Jinsol | Park Minkyu | W+R | 6.5 | 3:4 | 0 | 3 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | B+R | 6.5 | 3:3 | 0 | 2 | 
 | 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | B+R | 6.5 | 3:2 | 0 | 1 | 
 | 2020-08-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Park Minkyu | B+R | 6.5 | 3:1 | 1 | 0 | 

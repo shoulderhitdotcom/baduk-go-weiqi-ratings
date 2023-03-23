@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative An Sungjoon Vs Lee Yeongkyu** | **An Sungjoon Streak** | **Lee Yeongkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-22 | 第6期韓国竜星戦予選 | An Sungjoon | Lee Yeongkyu | W+R | 6.5 | 4:3 | 0 | 1 | 
 | 2023-01-07 | 2022-2023韓国囲碁リーグ | Lee Yeongkyu | An Sungjoon | W+12.5 | 6.5 | 4:2 | 1 | 0 | 
 | 2023-01-02 | 第24期マキシムコーヒー杯入神最強戦1回戦 | An Sungjoon | Lee Yeongkyu | W+R | 6.5 | 3:2 | 0 | 1 | 
 | 2016-05-21 | 2016年韓国囲碁リーグ第1節 | Lee Yeongkyu | An Sungjoon | W+3.5 | 6.5 | 3:1 | 1 | 0 | 

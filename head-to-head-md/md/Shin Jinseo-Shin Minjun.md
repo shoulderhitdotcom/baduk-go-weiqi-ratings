@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Shin Minjun** | **Shin Jinseo Streak** | **Shin Minjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-22 | 2023YK建機杯リーグ | Shin Jinseo | Shin Minjun | B+R | 6.5 | 22:9 | 2 | 0 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Shin Minjun | Shin Jinseo | W+R | 6.5 | 21:9 | 1 | 0 | 
 | 2022-10-06 | 第45期名人戦（韓国）決勝三番勝負第2局 | Shin Jinseo | Shin Minjun | W+R | 6.5 | 20:9 | 0 | 2 | 
 | 2022-10-05 | 第45期名人戦（韓国）決勝三番勝負第1局 | Shin Minjun | Shin Jinseo | B+R | 6.5 | 20:8 | 0 | 1 | 

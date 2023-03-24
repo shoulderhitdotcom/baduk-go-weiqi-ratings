@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第8回大舟杯プロシニア最強者戦2回戦 | missing | Park Sohyun | B+R | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R4d8CVQ1i938YioqdFwsWQ%3D%3D) | 
 | 第2回韓国女子囲碁リーグ第13節 | Kim Hyeoimin | Park Sohyun | B+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2Mm9aoQb4RsaYaGjdWGNQ%3D%3D) | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-24 | 第5回夢百合杯中国予選 |  | Dang Yifei | Win | W+R | 7.5 | 3645 | 2 | 
 | 2023-03-23 | 第5回夢百合杯中国予選 | Lyu Liyan | Dang Yifei | Win | W+R | 7.5 | 3643 | 2 | 
 | 2023-03-15 | 第13期中国竜星戦Aブロック6回戦 | Li Weiqing | Dang Yifei | Lose | B+R | 7.5 | 3641 | 0 | 
 | 2023-03-15 | 第13期中国竜星戦Aブロック5回戦 | Dang Yifei | Tuo Jiaxi | Win | B+¾ | 7.5 | 3641 | 0 | 

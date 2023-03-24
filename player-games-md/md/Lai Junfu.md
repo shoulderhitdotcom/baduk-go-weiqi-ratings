@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-24 | 第22期天元戦（台湾）挑戦手合七番勝負第4局 | Xu Haohong | Lai Junfu | Lose | B+3.5 | 6.5 | 3304 | -4 | 
 | 2023-03-22 | 第5回夢百合杯台湾予選 | Lai Junfu | Xu Jingen | Win | B+R | 7.5 | 3308 | 3 | 
 | 2023-03-21 | 第22期天元戦（台湾）挑戦手合七番勝負第3局 | Lai Junfu | Xu Haohong | Lose | W+R | 6.5 | 3305 | 5 | 
 | 2023-03-17 | 第22期天元戦（台湾）挑戦手合七番勝負第2局 | Xu Haohong | Lai Junfu | Win | W+R | 6.5 | 3300 | 0 | 

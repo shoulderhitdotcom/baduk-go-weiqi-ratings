@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-24 | 第28回GSカルテックス杯プロ棋戦1回戦 | Hong Seongji | An Sungjoon | Win | W+6.5 | 6.5 | 3379 | 2 | 
 | 2023-03-22 | 第6期韓国竜星戦予選 | An Sungjoon | Lee Yeongkyu | Lose | W+R | 6.5 | 3377 | -2 | 
 | 2023-03-16 | 2022-2023韓国囲碁リーグ | Park Jinsol | An Sungjoon | Win | W+R | 6.5 | 3379 | -15 | 
 | 2023-03-04 | 2022-2023韓国囲碁リーグ | An Sungjoon | Kim Junghyun | Lose | W+R | 6.5 | 3394 | -3 | 

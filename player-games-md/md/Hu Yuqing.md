@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第2回夢百合杯世界オープン戦1回戦 | Hu Yuqing | An Jungki | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQyDz%2BYDHwY2e3rh3qu4Tg%3D%3D) | 
 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Hu Yuqing | Wang Zejin | W+2.5 | 2015-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKFY3pukLRfI0uqGtJabog%3D%3D) | 

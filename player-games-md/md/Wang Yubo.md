@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-25 | 第5回夢百合杯中国予選 | Wang Yubo | Yu Zhiying | Lose | W+¼ | 7.5 | 2975 | -3 | 
 | 2023-03-24 | 第5回夢百合杯中国予選 | Wang Yubo | Wu Yiming | Win | B+R | 7.5 | 2978 | 6 | 
 | 2023-03-18 | 第18回倡棋杯予選 |  | Wang Yubo | Lose | B+R | 7.5 | 2972 | 106 | 
 | 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Wang Yubo |  | Lose | W+R | 7.5 | 2866 | -30 | 

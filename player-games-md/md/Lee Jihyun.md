@@ -39,12 +39,12 @@
 | 2022-09-15 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Chuljung | Win | B+R | 6.5 | 3308 | -2 | 
 | 2022-09-13 | 第45期名人戦（韓国）敗者組4回戦 | Weon Seongjin | Lee Jihyun | Lose | B+R | 6.5 | 3310 | -2 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Han Yizhou | Lose | W+R | 7.5 | 3312 | -4 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Li Xuanhao | Lose | W+R | 7.5 | 3316 | 2 | 
-| 2022-09-07 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Dongmyeon | Lose | W+4.5 | 6.5 | 3314 | -23 | 
-| 2022-09-06 | 第45期名人戦（韓国）敗者組3回戦 | Lee Jihyun | An Joyeong | Win | B+R | 6.5 | 3337 | 13 | 
-| 2022-09-02 | 第45期名人戦（韓国）敗者組2回戦 | Shen Zaiyi | Lee Jihyun | Win | W+R | 6.5 | 3324 | 18 | 
-| 2022-08-30 | 第24回中国囲碁甲級リーグ | Lee Jihyun |  | Win | B+1¾ | 7.5 | 3306 | -5 | 
-| 2022-08-29 | 第27回三星火災杯韓国予選 | Lee Jihyun | Han Woojin | Lose | W+R | 6.5 | 3311 | -26 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Li Xuanhao | Lose | W+R | 7.5 | 3316 | 3 | 
+| 2022-09-07 | 2022韓国シニア囲碁リーグ | Lee Jihyun | Kim Dongmyeon | Lose | W+4.5 | 6.5 | 3313 | -23 | 
+| 2022-09-06 | 第45期名人戦（韓国）敗者組3回戦 | Lee Jihyun | An Joyeong | Win | B+R | 6.5 | 3336 | 13 | 
+| 2022-09-02 | 第45期名人戦（韓国）敗者組2回戦 | Shen Zaiyi | Lee Jihyun | Win | W+R | 6.5 | 3323 | 18 | 
+| 2022-08-30 | 第24回中国囲碁甲級リーグ | Lee Jihyun |  | Win | B+1¾ | 7.5 | 3305 | -5 | 
+| 2022-08-29 | 第27回三星火災杯韓国予選 | Lee Jihyun | Han Woojin | Lose | W+R | 6.5 | 3310 | -27 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Lee Jihyun | Chen Xian | Lose | W+R | 7.5 | 3337 | -17 | 
 | 2022-08-08 | 第24回中国囲碁甲級リーグ | Jin Yucheng | Lee Jihyun | Lose | B+R | 7.5 | 3354 | 0 | 
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Lee Jihyun | Lose | B+R | 7.5 | 3354 | 4 | 

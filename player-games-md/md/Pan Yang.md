@@ -8,8 +8,8 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-03-25 | 第5回夢百合杯中国予選 | Pan Yang |  | Win | B+R | 7.5 | 2954 | -2 | 
-| 2023-03-24 | 第5回夢百合杯中国予選 | Lu Minquan | Pan Yang | Win | W+R | 7.5 | 2956 | 217 | 
-| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Pan Yang | Chu Keer | Lose | W+R | 7.5 | 2739 | 39 | 
+| 2023-03-24 | 第5回夢百合杯中国予選 | Lu Minquan | Pan Yang | Win | W+R | 7.5 | 2956 | 218 | 
+| 2022-09-04 | 2022中国国家囲棋隊選抜戦 | Pan Yang | Chu Keer | Lose | W+R | 7.5 | 2738 | 38 | 
 | 2022-08-22 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Pan Yang | Xu Jiayang | Lose | W+R | 7.5 | 2700 | -1 | 
 | 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 |  | Pan Yang | Win | W+R | 7.5 | 2701 | -141 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Lose | W+R | 7.5 | 2842 | 6 | 

@@ -9,11 +9,11 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-03-25 | 第5回夢百合杯中国予選 | Li Xiaoxi | Fang Ruoxi | Lose | B+R | 7.5 | 3081 | 49 | 
 | 2023-03-17 | 第18回倡棋杯予選 | Li Zerui | Fang Ruoxi | Lose | B+R | 7.5 | 3032 | 0 | 
-| 2022-11-17 | 2022中国囲碁丙級リーグ | Fang Ruoxi | Wang Yuanjun | Lose | W+R | 7.5 | 3032 | 12 | 
-| 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Fang Ruoxi | Zhao Yifei | Lose | W+3¼ | 7.5 | 3020 | -22 | 
-| 2022-09-02 | 第27回三星火災杯中国予選 | Lu Minquan | Fang Ruoxi | Lose | B+R | 6.5 | 3042 | -15 | 
-| 2022-08-30 | 第27回三星火災杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | W+R | 6.5 | 3057 | 27 | 
-| 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Lose | W+6.5 | 6.5 | 3030 | 20 | 
+| 2022-11-17 | 2022中国囲碁丙級リーグ | Fang Ruoxi | Wang Yuanjun | Lose | W+R | 7.5 | 3032 | 13 | 
+| 2022-09-06 | 2022中国国家囲棋隊選抜戦 | Fang Ruoxi | Zhao Yifei | Lose | W+3¼ | 7.5 | 3019 | -22 | 
+| 2022-09-02 | 第27回三星火災杯中国予選 | Lu Minquan | Fang Ruoxi | Lose | B+R | 6.5 | 3041 | -15 | 
+| 2022-08-30 | 第27回三星火災杯中国予選 | Zhou Hongyu | Fang Ruoxi | Win | W+R | 6.5 | 3056 | 27 | 
+| 2022-08-29 | 第27回三星火災杯中国予選 | Fang Ruoxi | Li Xiaoxi | Lose | W+6.5 | 6.5 | 3029 | 19 | 
 | 2022-08-18 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Fang Ruoxi | Ding Shixiong | Lose | W+R | 7.5 | 3010 | -29 | 
 | 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Win | W+1.5 | 6.5 | 3039 | 9 | 
 | 2022-07-02 | 第2回天台山杯全国女子囲碁オープン戦 | Li He | Fang Ruoxi | Win | W+R | 7.5 | 3030 | 0 | 

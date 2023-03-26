@@ -12,12 +12,12 @@
 | 2023-03-18 | 第18回倡棋杯予選 | Yu Zhiying | Wang Shiyi | Lose | W+R | 7.5 | 3280 | 0 | 
 | 2023-03-18 | 第18回倡棋杯予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3280 | -6 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Yu Zhiying | Zhang Tao | Lose | W+R | 7.5 | 3286 | 90 | 
-| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Yu Zhiying | Lee Hyungjin | Lose | W+1.5 | 6.5 | 3196 | 2 | 
-| 2022-09-02 | 第27回三星火災杯中国予選 | Rui Naiwei | Yu Zhiying | Win | W+8.5 | 6.5 | 3194 | 2 | 
-| 2022-08-30 | 第27回三星火災杯中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 6.5 | 3192 | 23 | 
+| 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Yu Zhiying | Lee Hyungjin | Lose | W+1.5 | 6.5 | 3196 | 3 | 
+| 2022-09-02 | 第27回三星火災杯中国予選 | Rui Naiwei | Yu Zhiying | Win | W+8.5 | 6.5 | 3193 | 2 | 
+| 2022-08-30 | 第27回三星火災杯中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 6.5 | 3191 | 22 | 
 | 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Yu Zhiying | Tan Xiao | Lose | W+R | 7.5 | 3169 | -40 | 
-| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Lose | W+1.5 | 6.5 | 3209 | -24 | 
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Lose | W+1¼ | 7.5 | 3233 | -23 | 
+| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Lose | W+1.5 | 6.5 | 3209 | -23 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Lose | W+1¼ | 7.5 | 3232 | -24 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 3256 | 0 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 7.5 | 3256 | 12 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3244 | 5 | 

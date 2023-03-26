@@ -8,11 +8,11 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-03-25 | 第2期韓国棋院選手権戦グループリーグ勝者戦 | Lee Jihyun | Kang Dongyun | Lose | B+R | 6.5 | 3555 | -6 | 
-| 2023-03-21 | 2023YK建機杯リーグ | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3561 | -3 | 
-| 2023-03-17 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Han Sanghoon | Win | B+R | 6.5 | 3564 | 0 | 
-| 2023-03-17 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3564 | 0 | 
-| 2023-03-15 | 2023YK建機杯リーグ | Lee Changho | Kang Dongyun | Win | W+R | 6.5 | 3564 | 2 | 
-| 2023-03-11 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Kang Dongyun | Win | W+3.5 | 6.5 | 3562 | -7 | 
+| 2023-03-21 | 2023YK建機杯リーグ | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3561 | -2 | 
+| 2023-03-17 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Han Sanghoon | Win | B+R | 6.5 | 3563 | 0 | 
+| 2023-03-17 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3563 | 0 | 
+| 2023-03-15 | 2023YK建機杯リーグ | Lee Changho | Kang Dongyun | Win | W+R | 6.5 | 3563 | 2 | 
+| 2023-03-11 | 2022-2023韓国囲碁リーグ | Kim Jinhyu | Kang Dongyun | Win | W+3.5 | 6.5 | 3561 | -8 | 
 | 2023-03-03 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第8局 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3569 | -5 | 
 | 2023-02-26 | 2022-2023韓国囲碁リーグ | Fukuoka Kotaro | Kang Dongyun | Lose | B+R | 6.5 | 3574 | 12 | 
 | 2023-02-24 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Kang Dongyun | Win | W+T | 6.5 | 3562 | -3 | 
@@ -49,8 +49,8 @@
 | 2022-10-17 | 第1回衢州・爛柯杯世界囲碁公開戦韓国予選 | Seol Hyunjun | Kang Dongyun | Win | W+R | 7.5 | 3565 | 0 | 
 | 2022-10-14 | 第24回農心辛ラーメン杯世界囲碁最強戦第4戦 | Fan Tingyu | Kang Dongyun | Win | W+R | 6.5 | 3565 | 41 | 
 | 2022-09-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Li Qincheng | Win | B+R | 7.5 | 3524 | 7 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xia Chenkun | Lose | W+R | 7.5 | 3517 | 2 | 
-| 2022-08-25 | 第24回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Lose | B+R | 7.5 | 3515 | -22 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xia Chenkun | Lose | W+R | 7.5 | 3517 | 3 | 
+| 2022-08-25 | 第24回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Lose | B+R | 7.5 | 3514 | -23 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦2回戦 | Weon Seongjin | Kang Dongyun | Lose | B+R | 6.5 | 3537 | 0 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Wang Yuanjun | Kang Dongyun | Win | W+R | 6.5 | 3537 | -7 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Xie Erhao | Win | B+R | 7.5 | 3544 | 13 | 
@@ -60,9 +60,9 @@
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Kang Dongyun | Dang Yifei | Lose | W+1¼ | 7.5 | 3531 | 3 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Gu Lingyi | Kang Dongyun | Win | W+¼ | 7.5 | 3528 | -6 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | He Yuhan | Kang Dongyun | Win | W+¼ | 7.5 | 3534 | -3 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3537 | 1 | 
-| 2022-07-28 | 第5期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3536 | -4 | 
-| 2022-07-26 | 第5期韓国竜星戦決勝三番勝負第1局 | Kang Dongyun | Shin Jinseo | Lose | W+R | 6.5 | 3540 | -14 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Huang Mingyu | Kang Dongyun | Win | W+R | 7.5 | 3537 | 2 | 
+| 2022-07-28 | 第5期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3535 | -4 | 
+| 2022-07-26 | 第5期韓国竜星戦決勝三番勝負第1局 | Kang Dongyun | Shin Jinseo | Lose | W+R | 6.5 | 3539 | -15 | 
 | 2022-07-19 | 2022YK建機杯決勝三番勝負第2局 | Park Junghwan | Kang Dongyun | Win | W+R | 6.5 | 3554 | 9 | 
 | 2022-07-18 | 2022YK建機杯決勝三番勝負第1局 | Kang Dongyun | Park Junghwan | Win | B+R | 6.5 | 3545 | 20 | 
 | 2022-07-14 | 第24回農心杯韓国予選 | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3525 | 13 | 
@@ -221,8 +221,8 @@
 | 2020-02-24 | 第1期ソパルコサノル最高棋士決定戦リーグ | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3501 | -6 | 
 | 2020-02-17 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Kang Dongyun | Choi Kyubyeong | Win | B+R | 6.5 | 3507 | 0 | 
 | 2020-02-03 | 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3507 | -18 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第4局 | Park Sangjin | Kang Dongyun | Win | W+R | 6.5 | 3525 | 2 | 
-| 2020-01-27 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Junghwan | Win | B+1.5 | 6.5 | 3523 | 21 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第4局 | Park Sangjin | Kang Dongyun | Win | W+R | 6.5 | 3525 | 1 | 
+| 2020-01-27 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Park Junghwan | Win | B+1.5 | 6.5 | 3524 | 22 | 
 | 2020-01-23 | 2019-2020韓国囲碁リーグ第17節第1試合第1局 | Paek Hongseok | Kang Dongyun | Win | W+1.5 | 6.5 | 3502 | 6 | 
 | 2020-01-22 | 第9回応氏杯世界選手権韓国選抜戦 | Kang Dongyun | Lee Donghoon | Lose | W+1¼ | 7.5 | 3496 | 1 | 
 | 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | W+R | 7.5 | 3495 | 6 | 

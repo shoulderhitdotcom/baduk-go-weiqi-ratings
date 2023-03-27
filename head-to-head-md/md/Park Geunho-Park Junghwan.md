@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Geunho Vs Park Junghwan** | **Park Geunho Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-27 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Park Junghwan | W+R | 6.5 | 1:6 | 0 | 1 | 
 | 2022-03-11 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Geunho | W+R | 6.5 | 1:5 | 1 | 0 | 
 | 2022-01-01 | 2021-2022韓国囲碁リーグ | Park Geunho | Park Junghwan | W+R | 6.5 | 0:5 | 0 | 5 | 
 | 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | W+R | 6.5 | 0:4 | 0 | 4 | 

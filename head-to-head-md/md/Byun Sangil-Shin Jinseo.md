@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Shin Jinseo** | **Byun Sangil Streak** | **Shin Jinseo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-27 | 2023YK建機杯リーグ | Byun Sangil | Shin Jinseo | W+R | 6.5 | 7:25 | 0 | 8 | 
+| 2023-03-07 | 第24回マキシムコーヒー杯入神最強戦3回戦 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:24 | 0 | 7 | 
 | 2022-08-22 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:23 | 0 | 6 | 
 | 2022-08-19 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | W+R | 6.5 | 7:22 | 0 | 5 | 
 | 2022-08-18 | 第27回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 7:21 | 0 | 4 | 

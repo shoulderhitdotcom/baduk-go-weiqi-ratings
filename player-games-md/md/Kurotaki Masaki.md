@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第77期本因坊戦予選 | Takemiya Masaki | Kurotaki Masaki | B+1.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBMZJvovrOxMmDTrdiYuZQ%3D%3D) | 
 | 第2回SGW杯中庸戦予選 | Anzai Nobuaki | Kurotaki Masaki | B+R | 2019-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FGJwY3E48wRkj7st%2BZlNfA%3D%3D) | 

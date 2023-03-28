@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lai Junfu Vs Xu Haohong** | **Lai Junfu Streak** | **Xu Haohong Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-28 | 第22期天元戦（台湾）挑戦手合七番勝負第5局 | Lai Junfu | Xu Haohong | W+R | 6.5 | 3:19 | 0 | 3 | 
+| 2023-03-24 | 第22期天元戦（台湾）挑戦手合七番勝負第4局 | Xu Haohong | Lai Junfu | B+3.5 | 6.5 | 3:18 | 0 | 2 | 
 | 2023-03-21 | 第22期天元戦（台湾）挑戦手合七番勝負第3局 | Lai Junfu | Xu Haohong | W+R | 6.5 | 3:17 | 0 | 1 | 
 | 2023-03-17 | 第22期天元戦（台湾）挑戦手合七番勝負第2局 | Xu Haohong | Lai Junfu | W+R | 6.5 | 3:16 | 1 | 0 | 
 | 2023-03-14 | 第22期天元戦（台湾）挑戦手合七番勝負第1局 | Lai Junfu | Xu Haohong | W+R | 6.5 | 2:16 | 0 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Lian Xiao | Peng Liyao | Lose | B+R | 7.5 | 3546 | -4 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Peng Liyao | Li Xuanhao | Win | B+R | 7.5 | 3550 | -5 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Tang Weixing | Peng Liyao | Win | W+R | 7.5 | 3555 | 1 | 
 | 2023-02-25 | 第13期中国竜星戦予選 | Dang Yifei | Peng Liyao | Lose | B+R | 7.5 | 3554 | 2 | 

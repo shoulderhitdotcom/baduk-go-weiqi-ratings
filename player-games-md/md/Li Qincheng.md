@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3645 | -6 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Fan Tingyu | Li Qincheng | Win | W+1¼ | 7.5 | 3651 | -17 | 
 | 2023-03-16 | 第13期中国竜星戦Aブロック7回戦 | Li Qincheng | Li Weiqing | Lose | W+R | 7.5 | 3668 | -7 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Chen Xian | Win | B+R | 7.5 | 3675 | 1 | 

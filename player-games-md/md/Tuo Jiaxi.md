@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Tuo Jiaxi | Tang Weixing | Lose | W+R | 7.5 | 3590 | 1 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Gu Zihao | Tuo Jiaxi | Win | W+R | 7.5 | 3589 | -6 | 
 | 2023-03-15 | 第13期中国竜星戦Aブロック5回戦 | Dang Yifei | Tuo Jiaxi | Lose | B+¾ | 7.5 | 3595 | -6 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Lian Xiao | Tuo Jiaxi | Lose | B+R | 7.5 | 3601 | -7 | 

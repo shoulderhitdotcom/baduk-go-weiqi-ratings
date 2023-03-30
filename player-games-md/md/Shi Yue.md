@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Han Yizhou | Shi Yue | Win | W+R | 7.5 | 3608 | 2 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Shi Yue | Zhang Tao | Win | B+¾ | 7.5 | 3606 | -3 | 
 | 2023-03-16 | 第13期中国竜星戦Bブロック7回戦 | Xie Erhao | Shi Yue | Lose | B+R | 7.5 | 3609 | -5 | 
 | 2023-03-14 | 第13期中国竜星戦Bブロック6回戦 | Xu Jiayang | Shi Yue | Win | W+R | 7.5 | 3614 | 6 | 

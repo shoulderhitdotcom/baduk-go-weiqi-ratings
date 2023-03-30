@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Huang Yunsong | Xu Jiayang | Win | B+R | 7.5 | 3578 | 3 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Huang Yunsong | Yi Lingtao | Win | B+R | 7.5 | 3575 | -15 | 
 | 2023-02-25 | 第13期中国竜星戦予選 | Tan Xiao | Huang Yunsong | Lose | B+1¾ | 7.5 | 3590 | 6 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Huang Yunsong | Shin Jinseo | Lose | W+R | 7.5 | 3584 | -3 | 

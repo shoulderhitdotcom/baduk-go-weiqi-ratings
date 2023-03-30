@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Huang Yunsong | Xu Jiayang | Lose | B+R | 7.5 | 3555 | -5 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Xu Jiayang | Liao Yuanhe | Win | B+R | 7.5 | 3560 | 4 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Yi Lingtao | Xu Jiayang | Win | W+R | 7.5 | 3556 | 0 | 
 | 2023-03-14 | 第13期中国竜星戦Bブロック6回戦 | Xu Jiayang | Shi Yue | Lose | W+R | 7.5 | 3556 | 0 | 

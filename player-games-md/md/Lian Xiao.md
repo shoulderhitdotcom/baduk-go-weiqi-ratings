@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Lian Xiao | Peng Liyao | Win | B+R | 7.5 | 3580 | 3 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Lian Xiao | Tao Xinran | Win | B+R | 7.5 | 3577 | -2 | 
 | 2023-03-24 | 第5回夢百合杯中国予選 |  | Lian Xiao | Win | W+R | 7.5 | 3579 | -13 | 
 | 2023-03-13 | 第37期中国囲碁天元戦挑戦者決定戦 | Dang Yifei | Lian Xiao | Lose | B+R | 7.5 | 3592 | -4 | 

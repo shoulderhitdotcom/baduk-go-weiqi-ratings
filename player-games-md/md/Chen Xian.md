@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Chen Xian | Fan Yin | Win | B+R | 7.5 | 3507 | 7 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Chen Xian | Li Weiqing | Win | B+¾ | 7.5 | 3500 | -1 | 
 | 2023-03-14 | 第13期中国竜星戦Aブロック3回戦 | Liao Yuanhe | Chen Xian | Lose | B+1¾ | 7.5 | 3501 | -9 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Li Xuanhao | Chen Xian | Win | W+R | 7.5 | 3510 | 7 | 

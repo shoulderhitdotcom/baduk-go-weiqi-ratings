@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Dang Yifei | Jiang Weijie | Lose | B+R | 7.5 | 3546 | -5 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Tan Xiao | Jiang Weijie | Win | W+R | 7.5 | 3551 | 1 | 
 | 2023-03-23 | 第5回夢百合杯中国予選 |  | Jiang Weijie | Win | W+R | 7.5 | 3550 | 3 | 
 | 2023-03-14 | 第13期中国竜星戦Bブロック5回戦 | Jiang Weijie | Xu Jiayang | Lose | W+R | 7.5 | 3547 | -14 | 

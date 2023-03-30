@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Ding Hao | Ke Jie | Lose | W+R | 7.5 | 3688 | -3 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Xie Erhao | Ding Hao | Win | W+R | 7.5 | 3691 | -4 | 
 | 2023-03-12 | 第37期中国囲碁天元戦準決勝 | Dang Yifei | Ding Hao | Lose | B+R | 7.5 | 3695 | -6 | 
 | 2023-03-10 | 第37期中国囲碁天元戦3回戦 | Jiang Qirun | Ding Hao | Win | W+1¼ | 7.5 | 3701 | 0 | 

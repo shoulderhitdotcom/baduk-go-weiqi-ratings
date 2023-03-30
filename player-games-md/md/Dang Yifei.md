@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3650 | 2 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3648 | -1 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Dang Yifei | Wang Chuxuan | Win | B+¾ | 7.5 | 3649 | 0 | 
 | 2023-03-24 | 第5回夢百合杯中国予選 |  | Dang Yifei | Win | W+R | 7.5 | 3649 | 2 | 

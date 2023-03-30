@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Ding Hao | Ke Jie | Win | W+R | 7.5 | 3701 | 3 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Ke Jie | Wang Xinghao | Win | B+R | 7.5 | 3698 | 0 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Xia Chenkun | Ke Jie | Win | W+R | 7.5 | 3698 | 0 | 
 | 2023-03-23 | 第5回夢百合杯中国予選 | Ke Jie | Qiu Jinbo | Win | B+R | 7.5 | 3698 | -13 | 

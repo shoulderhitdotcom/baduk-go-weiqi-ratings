@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Minkyu | Shin Minjun | Lose | B+R | 6.5 | 3572 | -4 | 
 | 2023-03-28 | 2023YK建機杯リーグ | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3576 | -2 | 
 | 2023-03-26 | 2022-2023韓国囲碁リーグ | Yun Chanhee | Shin Minjun | Win | W+R | 6.5 | 3578 | 0 | 
 | 2023-03-24 | 2022-2023韓国囲碁リーグ | Fukuoka Kotaro | Shin Minjun | Win | W+R | 6.5 | 3578 | -1 | 
@@ -103,11 +104,11 @@
 | 2022-02-21 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Shin Minjun | Park Jinsol | Win | B+0.5 | 6.5 | 3501 | 4 | 
 | 2022-02-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Lee Changseok | Shin Minjun | Win | W+R | 6.5 | 3497 | 6 | 
 | 2022-02-17 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Shin Minjun | Lose | B+R | 6.5 | 3491 | -20 | 
-| 2022-02-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Cho Hanseung | Win | B+R | 6.5 | 3511 | 17 | 
-| 2022-02-03 | 2021-2022韓国囲碁リーグ | Choi Jeong | Shin Minjun | Lose | B+R | 6.5 | 3494 | -51 | 
-| 2022-01-25 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Shin Minjun | Win | W+R | 6.5 | 3545 | 11 | 
-| 2022-01-24 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Shin Minjun | Win | W+R | 6.5 | 3534 | 17 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Lose | W+R | 6.5 | 3517 | -22 | 
+| 2022-02-15 | 第3期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Cho Hanseung | Win | B+R | 6.5 | 3511 | 16 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Choi Jeong | Shin Minjun | Lose | B+R | 6.5 | 3495 | -51 | 
+| 2022-01-25 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Shin Minjun | Win | W+R | 6.5 | 3546 | 11 | 
+| 2022-01-24 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Shin Minjun | Win | W+R | 6.5 | 3535 | 17 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Lose | W+R | 6.5 | 3518 | -21 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Win | W+R | 6.5 | 3539 | 9 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Minjun | Lose | B+R | 7.5 | 3530 | -2 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Win | B+R | 7.5 | 3532 | 5 | 

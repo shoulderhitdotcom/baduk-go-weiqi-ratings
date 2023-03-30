@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Chen Xian | Fan Yin | Lose | B+R | 7.5 | 3534 | -8 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Fan Yin | Tong Mengcheng | Win | B+R | 7.5 | 3542 | 1 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Fan Yin | Fan Tingyu | Lose | W+2¼ | 7.5 | 3541 | -6 | 
 | 2023-03-07 | 第37期中国囲碁天元戦予選 | Peng Quan | Fan Yin | Win | W+R | 7.5 | 3547 | 3 | 

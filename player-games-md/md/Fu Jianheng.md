@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 2023博思軟件杯中国囲碁新秀争覇戦2回戦 | Tang Jiawen | Fu Jianheng | Win | W+1¼ | 7.5 | 3294 | 9 | 
 | 2023-03-29 | 2023博思軟件杯中国囲碁新秀争覇戦1回戦 | Fu Jianheng |  | Win | B+R | 7.5 | 3285 | -6 | 
 | 2023-03-22 | 第5回夢百合杯中国予選 | Qin Yuexin | Fu Jianheng | Lose | B+R | 7.5 | 3291 | -23 | 
 | 2023-03-17 | 第18回倡棋杯予選 | Huang Ziping | Fu Jianheng | Win | W+R | 7.5 | 3314 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Tuo Jiaxi | Tang Weixing | Win | W+R | 7.5 | 3519 | 5 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Zhao Chenyu | Tang Weixing | Win | W+R | 7.5 | 3514 | 2 | 
 | 2023-03-20 | 第18回倡棋杯中国プロ囲碁選手権戦 | Jiang Qirun | Tang Weixing | Lose | B+1¾ | 7.5 | 3512 | -5 | 
 | 2023-03-19 | 第18回倡棋杯中国プロ囲碁選手権戦 | Tang Weixing |  | Win | B+1¾ | 7.5 | 3517 | -9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3601 | 7 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3594 | 2 | 
 | 2023-03-20 | 第18回倡棋杯中国プロ囲碁選手権戦 | Yang Kaiwen | Wang Xinghao | Lose | W+R | 7.5 | 3592 | -21 | 
 | 2023-02-25 | 第13期中国竜星戦予選 | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3613 | 2 | 

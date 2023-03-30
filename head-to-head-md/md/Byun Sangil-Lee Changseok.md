@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Lee Changseok** | **Byun Sangil Streak** | **Lee Changseok Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-29 | 第4期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Lee Changseok | B+R | 6.5 | 4:3 | 2 | 0 | 
 | 2022-02-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Byun Sangil | W+R | 6.5 | 3:3 | 1 | 0 | 
 | 2021-11-21 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Byun Sangil | B+R | 6.5 | 2:3 | 0 | 1 | 
 | 2021-04-30 | 第44期名人戦（韓国）2回戦 | Lee Changseok | Byun Sangil | W+R | 6.5 | 2:2 | 2 | 0 | 

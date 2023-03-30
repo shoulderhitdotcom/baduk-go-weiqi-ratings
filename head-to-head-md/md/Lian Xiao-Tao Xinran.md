@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tao Xinran** | **Lian Xiao Streak** | **Tao Xinran Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Lian Xiao | Tao Xinran | B+R | 7.5 | 6:3 | 2 | 0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Tao Xinran | Lian Xiao | W+R | 7.5 | 5:3 | 1 | 0 | 
 | 2015-05-01 | 第17回中国囲碁甲級リーグ第2節 | Tao Xinran | Lian Xiao | B+R | 7.5 | 4:3 | 0 | 2 | 
 | 2014-12-21 | 2014年利民杯世界囲碁星鋭最強戦3回戦 | Tao Xinran | Lian Xiao | B+R | 7.5 | 4:2 | 0 | 1 | 

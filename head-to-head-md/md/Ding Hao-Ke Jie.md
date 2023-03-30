@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ding Hao Vs Ke Jie** | **Ding Hao Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Ding Hao | Ke Jie | W+R | 7.5 | 5:5 | 0 | 1 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Ding Hao | Ke Jie | B+R | 7.5 | 5:4 | 1 | 0 | 
 | 2022-07-12 | 第24回農心杯中国予選 | Ding Hao | Ke Jie | W+R | 6.5 | 4:4 | 0 | 1 | 
 | 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | W+R | 7.5 | 4:3 | 1 | 0 | 

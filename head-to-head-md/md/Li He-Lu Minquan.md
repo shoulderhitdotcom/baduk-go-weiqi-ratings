@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li He Vs Lu Minquan** | **Li He Streak** | **Lu Minquan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-01 | 第3期全国女子囲碁国手戦2回戦 | Li He | Lu Minquan | W+R | 7.5 | 4:6 | 0 | 3 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Li He | Lu Minquan | W+R | 7.5 | 4:5 | 0 | 2 | 
 | 2020-09-07 | 第3回呉清源杯中国予選 | Li He | Lu Minquan | W+R | 7.5 | 4:4 | 0 | 1 | 
 | 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節廈門-洛陽 | Lu Minquan | Li He | W+¼ | 7.5 | 4:3 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Jinseo Vs Park Junghwan** | **Shin Jinseo Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-01 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Park Junghwan | B+R | 6.5 | 32:21 | 5 | 0 | 
 | 2023-03-10 | 2022-2023ハナ銀行MZ囲碁スーパーマッチ第9局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 31:21 | 4 | 0 | 
 | 2022-11-02 | 第27回三星火災杯世界囲碁マスターズ3回戦 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 30:21 | 3 | 0 | 
 | 2022-09-15 | 第45期名人戦（韓国）勝者組決勝 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 29:21 | 2 | 0 | 

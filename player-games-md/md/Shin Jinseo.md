@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-01 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Kim Jinhyu | Win | B+8.5 | 6.5 | 3843 | 0 | 
+| 2023-04-01 | 2022-2023韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3843 | 0 | 
+| 2023-03-30 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Shin Jinseo | Win | W+R | 6.5 | 3843 | 0 | 
+| 2023-03-30 | 2022-2023韓国囲碁リーグ | Choi Cheolhan | Shin Jinseo | Win | W+T | 6.5 | 3843 | 0 | 
 | 2023-03-27 | 2023YK建機杯リーグ | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3843 | 0 | 
 | 2023-03-22 | 2023YK建機杯リーグ | Shin Jinseo | Shin Minjun | Win | B+R | 6.5 | 3843 | 0 | 
 | 2023-03-21 | 第24回マキシムコーヒー杯入神最強戦準決勝 | Shin Jinseo | Hong Seongji | Win | B+R | 6.5 | 3843 | 0 | 
@@ -123,9 +127,9 @@
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Win | W+R | 6.5 | 3840 | 0 | 
 | 2022-02-09 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Shin Jinseo | Yang Dingxin | Win | B+R | 6.5 | 3840 | 0 | 
 | 2022-02-07 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Shin Jinseo | Win | W+R | 6.5 | 3840 | 0 | 
-| 2022-02-05 | 2021-2022韓国囲碁リーグ | Park Sangjin | Shin Jinseo | Win | W+R | 6.5 | 3840 | 1 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Ding Hao | Shin Jinseo | Win | W+R | 7.5 | 3839 | 0 | 
-| 2022-01-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Joonhoon | Win | B+R | 6.5 | 3839 | 0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Park Sangjin | Shin Jinseo | Win | W+R | 6.5 | 3840 | 0 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Ding Hao | Shin Jinseo | Win | W+R | 7.5 | 3840 | 0 | 
+| 2022-01-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Joonhoon | Win | B+R | 6.5 | 3840 | 1 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | Win | W+1¼ | 7.5 | 3839 | 0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Jinseo | Win | W+R | 7.5 | 3839 | 0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | Win | B+R | 7.5 | 3839 | 0 | 
@@ -149,8 +153,8 @@
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3838 | 0 | 
 | 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3838 | 0 | 
 | 2021-10-28 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Shin Jinseo | Yang Dingxin | Win | B+R | 6.5 | 3838 | 0 | 
-| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3838 | 1 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Win | W+R | 6.5 | 3837 | 0 | 
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3838 | 0 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Win | W+R | 6.5 | 3838 | 1 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Win | W+R | 6.5 | 3837 | 0 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Win | W+0.5 | 6.5 | 3837 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Win | B+R | 7.5 | 3837 | 0 | 
@@ -174,8 +178,8 @@
 | 2021-08-02 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3834 | 0 | 
 | 2021-07-30 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Byun Sangil | Shin Jinseo | Lose | B+R | 6.5 | 3834 | 0 | 
 | 2021-07-29 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3834 | 0 | 
-| 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3834 | 1 | 
-| 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3833 | 0 | 
+| 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3834 | 0 | 
+| 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3834 | 1 | 
 | 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3833 | 0 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Win | W+R | 6.5 | 3833 | 0 | 
 | 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3833 | 0 | 
@@ -258,8 +262,8 @@
 | 2020-10-19 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第1局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3835 | 1 | 
 | 2020-09-11 | 第9回応氏杯世界選手権3回戦 | Gu Zihao | Shin Jinseo | Win | W+R | 7.5 | 3834 | 0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Shin Jinseo | Fan Tingyu | Win | B+5 | 7.5 | 3834 | 0 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Jinseo | Xie Erhao | Win | B+R | 7.5 | 3834 | 1 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Shin Jinseo | Chen Yichun | Win | B+R | 7.5 | 3833 | 0 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Jinseo | Xie Erhao | Win | B+R | 7.5 | 3834 | 0 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Shin Jinseo | Chen Yichun | Win | B+R | 7.5 | 3834 | 1 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Gu Zihao | Shin Jinseo | Lose | B+R | 7.5 | 3833 | 0 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Shi Yue | Shin Jinseo | Win | W+¼ | 7.5 | 3833 | 0 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Shin Jinseo | Mi Yuting | Win | B+R | 7.5 | 3833 | 0 | 

@@ -515,8 +515,8 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 107 | [Cao Dayuan](./player-games-md/md/Cao Dayuan.md) | 2640 | 2539 | 5 | 4 | 曹大元 | 
 | 108 | [](./player-games-md/md/.md) | 2630 | 2526 | 7 | 4 | 周雨萱 | 
 | 109 | [](./player-games-md/md/.md) | 2630 | 2413 | 8 | 7 | 李嘉馨 | 
-| 110 | [](./player-games-md/md/.md) | 2623 | 2632 | 2 | 2 | 向井千瑛佐田篤史 | 
-| 111 | [](./player-games-md/md/.md) | 2623 | 2632 | 2 | 2 | 星合志保伊田篤史 | 
+| 110 | [](./player-games-md/md/.md) | 2623 | 2632 | 2 | 2 | 星合志保伊田篤史 | 
+| 111 | [](./player-games-md/md/.md) | 2623 | 2632 | 2 | 2 | 向井千瑛佐田篤史 | 
 | 112 | [](./player-games-md/md/.md) | 2617 | 2442 | 4 | 4 | 康知範 | 
 | 113 | [Yoshida Mika](./player-games-md/md/Yoshida Mika.md) | 2617 | 2152 | 9 | 3 | 吉田美香 | 
 | 114 | [](./player-games-md/md/.md) | 2610 | 2488 | 3 | 3 | 河好貞 | 

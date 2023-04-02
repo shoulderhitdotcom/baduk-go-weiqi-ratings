@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lu Minquan Vs Zhou Hongyu** | **Lu Minquan Streak** | **Zhou Hongyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-02 | 第3期全国女子囲碁国手戦準決勝 | Lu Minquan | Zhou Hongyu | W+R | 7.5 | 4:6 | 0 | 4 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | W+R | 7.5 | 4:5 | 0 | 3 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | W+R | 7.5 | 4:4 | 0 | 2 | 
 | 2020-09-17 | 第25回三星火災杯中国女子枠予選 | Lu Minquan | Zhou Hongyu | W+3.5 | 6.5 | 4:3 | 0 | 1 | 

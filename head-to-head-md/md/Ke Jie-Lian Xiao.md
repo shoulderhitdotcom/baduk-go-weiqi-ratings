@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ke Jie Vs Lian Xiao** | **Ke Jie Streak** | **Lian Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-02 | 第33期中国囲碁名人戦準決勝 | Ke Jie | Lian Xiao | B+R | 7.5 | 13:4 | 5 | 0 | 
 | 2022-04-15 | 2022年アジア競技大会中国予選 | Lian Xiao | Ke Jie | W+R | 7.5 | 12:4 | 4 | 0 | 
 | 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | W+R | 7.5 | 11:4 | 3 | 0 | 
 | 2019-08-06 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第3局 | Lian Xiao | Ke Jie | W+R | 7.5 | 10:4 | 2 | 0 | 

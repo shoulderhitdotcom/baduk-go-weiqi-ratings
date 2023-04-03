@@ -5,7 +5,7 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-02 | 第48期天元戦予選 | Ito Kenryo | Yamada Kimio | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-03-02 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Ito Kenryo |  | Lose | W+R | 6.5 | missing | 0 | 

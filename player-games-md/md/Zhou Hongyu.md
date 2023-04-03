@@ -78,10 +78,10 @@
 | 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3200 | 51 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Lose | B+R | 7.5 | 3149 | 26 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Lose | B+R | 7.5 | 3123 | 4 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Win | W+R | 7.5 | 3119 | 7 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Lose | W+R | 6.5 | 3112 | -5 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Zhou Hongyu |  | Win | B+R | 6.5 | 3117 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  |  | Zhou Hongyu | Win | W+R | 6.5 | 3117 | 3 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Win | W+R | 7.5 | 3119 | 8 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Lose | W+R | 6.5 | 3111 | -5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Zhou Hongyu |  | Win | B+R | 6.5 | 3116 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  |  | Zhou Hongyu | Win | W+R | 6.5 | 3116 | 2 | 
 | 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Chuxuan | Zhou Hongyu | Lose | B+R | 7.5 | 3114 | -32 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Zhou Hongyu | Wang Shuo | Win | B+R | 7.5 | 3146 | 29 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3117 | -21 | 

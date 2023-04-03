@@ -28,8 +28,8 @@
 | 2022-07-31 | 第4回大統領杯全国囲碁大会準決勝 | Song Jihoon | Han Sangcho | Win | B+R | 6.5 | 3235 | 0 | 
 | 2022-07-31 | 第4回大統領杯全国囲碁大会決勝 | Choi Cheolhan | Song Jihoon | Lose | B+1.5 | 6.5 | 3235 | -12 | 
 | 2022-07-20 | 第4回大統領杯全国囲碁大会予選 | Kang Jihoon | Song Jihoon | Win | W+R | 6.5 | 3247 | 62 | 
-| 2022-04-28 | 第27回GSカルテックス杯プロ棋戦1回戦 | Cho Wankyu | Song Jihoon | Lose | B+R | 6.5 | 3185 | -61 | 
-| 2022-03-24 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3246 | -4 | 
+| 2022-04-28 | 第27回GSカルテックス杯プロ棋戦1回戦 | Cho Wankyu | Song Jihoon | Lose | B+R | 6.5 | 3185 | -60 | 
+| 2022-03-24 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3245 | -5 | 
 | 2022-03-20 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Song Jihoon | Lose | B+R | 6.5 | 3250 | 1 | 
 | 2022-03-10 | 2021-2022韓国囲碁リーグ | Song Jihoon | Cho Hanseung | Win | B+R | 6.5 | 3249 | 74 | 
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Park Geunho | Song Jihoon | Lose | B+R | 6.5 | 3175 | -15 | 

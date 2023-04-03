@@ -80,10 +80,10 @@
 | 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Zhao Yifei | Yu Zhiying | Win | W+R | 7.5 | 3105 | 7 | 
 | 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+R | 7.5 | 3098 | -4 | 
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Li He | Win | B+R | 7.5 | 3102 | 6 | 
-| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Li Xiaoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3096 | 16 | 
-| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦決勝  | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 3080 | 58 | 
-| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | Win | B+R | 6.5 | 3022 | 7 | 
-| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Win | W+2.5 | 6.5 | 3015 | 71 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Li Xiaoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3096 | 17 | 
+| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦決勝  | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 3079 | 58 | 
+| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | Win | B+R | 6.5 | 3021 | 7 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Win | W+2.5 | 6.5 | 3014 | 70 | 
 | 2020-12-04 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Zhou Hongyu | Lose | W+R | 7.5 | 2944 | -21 | 
 | 2020-12-03 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Yu Zhiying | Zhou Hongyu | Lose | W+3¼ | 7.5 | 2965 | -21 | 
 | 2020-12-02 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 2986 | 19 | 

@@ -46,8 +46,8 @@
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Lu Minquan | Win | W+R | 7.5 | 3227 | -16 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Lu Minquan | Win | W+R | 7.5 | 3243 | 44 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Choi Jeong | Lose | W+R | 7.5 | 3199 | -20 | 
-| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Minquan | Xie Yimin | Win | B+¾ | 7.5 | 3219 | 13 | 
-| 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Lose | W+R | 7.5 | 3206 | -13 | 
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Minquan | Xie Yimin | Win | B+¾ | 7.5 | 3219 | 14 | 
+| 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Lose | W+R | 7.5 | 3205 | -14 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Win | W+R | 7.5 | 3219 | 5 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Lu Minquan | Wang Yubo | Win | B+1¾ | 7.5 | 3214 | 10 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhang Zhihan | Win | B+R | 7.5 | 3204 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lee Changho Vs Park Junghwan** | **Lee Changho Streak** | **Park Junghwan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-03 | 2023YK建機杯リーグ | Lee Changho | Park Junghwan | W+R | 6.5 | 7:17 | 0 | 7 | 
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | B+R | 6.5 | 7:16 | 0 | 6 | 
 | 2020-01-15 | 第3期韓国竜星戦32強戦 | Lee Changho | Park Junghwan | W+R | 6.5 | 7:15 | 0 | 5 | 
 | 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第1局 | Park Junghwan | Lee Changho | B+R | 6.5 | 7:14 | 0 | 4 | 

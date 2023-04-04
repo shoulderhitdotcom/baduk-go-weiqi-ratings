@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Byun Sangil** | **Shin Minjun Streak** | **Byun Sangil Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-04 | 2023YK建機杯リーグ | Shin Minjun | Byun Sangil | B+R | 6.5 | 6:11 | 1 | 0 | 
 | 2023-03-16 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Byun Sangil | W+1.5 | 6.5 | 5:11 | 0 | 1 | 
 | 2023-03-01 | 2022-2023韓国囲碁リーグ | Shin Minjun | Byun Sangil | B+R | 6.5 | 5:10 | 2 | 0 | 
 | 2022-09-05 | 第45期名人戦（韓国）敗者組3回戦 | Shin Minjun | Byun Sangil | B+R | 6.5 | 4:10 | 1 | 0 | 

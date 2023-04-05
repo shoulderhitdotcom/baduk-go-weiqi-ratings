@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-05 | 第4期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Park Minkyu | Win | B+R | 6.5 | 3677 | 0 | 
 | 2023-04-04 | 2023YK建機杯リーグ | Shin Minjun | Byun Sangil | Lose | B+R | 6.5 | 3677 | -7 | 
 | 2023-03-29 | 第4期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Lee Changseok | Win | B+R | 6.5 | 3684 | 2 | 
 | 2023-03-27 | 2023YK建機杯リーグ | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3682 | -8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Shida Tatsuya** | **Ichiriki Ryo Streak** | **Shida Tatsuya Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-06 | 第48期名人戦リーグ  | Ichiriki Ryo | Shida Tatsuya | B+R | 6.5 | 9:5 | 5 | 0 | 
 | 2022-06-20 | 第47期名人戦リーグ  | Ichiriki Ryo | Shida Tatsuya | B+4.5 | 6.5 | 8:5 | 4 | 0 | 
 | 2020-01-09 | 第75期本因坊戦リーグ | Shida Tatsuya | Ichiriki Ryo | W+R | 6.5 | 7:5 | 3 | 0 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Shida Tatsuya | B+6.5 | 6.5 | 6:5 | 2 | 0 | 

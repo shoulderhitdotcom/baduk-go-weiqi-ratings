@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Huang Shiyuan** | **Chen Qirui Streak** | **Huang Shiyuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-07 | 第28回LG杯台湾予選 | Chen Qirui | Huang Shiyuan | B+R | 6.5 | 6:0 | 6 | 0 | 
 | 2022-09-07 | 第27回三星火災杯台湾予選 | Chen Qirui | Huang Shiyuan | B+R | 6.5 | 5:0 | 5 | 0 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | W+R | 6.5 | 4:0 | 4 | 0 | 
 | 2019-09-26 | 第12期棋王戦（台湾）予選勝部準決勝 | Huang Shiyuan | Chen Qirui | W+R | 6.5 | 3:0 | 3 | 0 | 

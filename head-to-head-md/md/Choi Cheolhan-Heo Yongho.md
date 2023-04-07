@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Choi Cheolhan Vs Heo Yongho** | **Choi Cheolhan Streak** | **Heo Yongho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-07 | 第28回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | W+R | 6.5 | 10:6 | 0 | 1 | 
 | 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | B+R | 6.5 | 10:5 | 1 | 0 | 
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | W+R | 6.5 | 9:5 | 0 | 1 | 
 | 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Choi Cheolhan | W+R | 6.5 | 9:4 | 2 | 0 | 

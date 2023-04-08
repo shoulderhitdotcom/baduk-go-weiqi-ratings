@@ -5,8 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Chikun vs Kobayashi Satoru** | **Cho Chikun streak** | **Kobayashi Satoru streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho Chikun Vs Kobayashi Satoru** | **Cho Chikun Streak** | **Kobayashi Satoru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-08 | 第2回テイケイ杯レジェンド戦決勝  | Cho Chikun | Kobayashi Satoru | B+R | 6.5 | 8:9 | 2 | 0 | 
 | 2018-08-23 | 第43期棋聖戦Aリーグ | Cho Chikun | Kobayashi Satoru | B+R | 7.5 | 7:9 | 1 | 0 | 
 | 2017-07-22 | 第7回フマキラー囲碁マスターズカップ　決勝 | Kobayashi Satoru | Cho Chikun | B+0.5 | 6.5 | 6:9 | 0 | 1 | 
 | 2015-06-27 | 第5回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | W+R | 6.5 | 6:8 | 2 | 0 | 

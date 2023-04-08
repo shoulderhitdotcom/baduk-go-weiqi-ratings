@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Xie Ke** | **Mi Yuting Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-08 | 第19回アジア競技大会中国予選 | Mi Yuting | Xie Ke | W+R | 7.5 | 5:4 | 0 | 1 | 
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Xie Ke | Mi Yuting | W+R | 7.5 | 5:3 | 1 | 0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Xie Ke | W+R | 7.5 | 4:3 | 0 | 1 | 
 | 2021-05-05 | 第4回Mlily夢百合杯世界囲碁オープン戦決勝五番勝負第5局 | Xie Ke | Mi Yuting | W+R | 7.5 | 4:2 | 1 | 0 | 

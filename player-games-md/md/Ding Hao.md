@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-08 | 第19回アジア競技大会中国予選 | Zhao Chenyu | Ding Hao | Lose | B+R | 7.5 | 3694 | -5 | 
 | 2023-04-07 | 第19回アジア競技大会中国予選 | Ding Hao | Dang Yifei | Win | B+R | 7.5 | 3699 | -1 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Ding Hao | Ke Jie | Lose | W+R | 7.5 | 3700 | -3 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Xie Erhao | Ding Hao | Win | W+R | 7.5 | 3703 | -4 | 

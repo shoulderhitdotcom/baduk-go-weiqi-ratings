@@ -9,13 +9,13 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-04-08 | 第19回アジア競技大会中国予選 | Liao Yuanhe | Li Qincheng | Win | W+R | 7.5 | 3657 | 0 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3657 | -6 | 
-| 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Fan Tingyu | Li Qincheng | Win | W+1¼ | 7.5 | 3663 | -17 | 
-| 2023-03-16 | 第13期中国竜星戦Aブロック7回戦 | Li Qincheng | Li Weiqing | Lose | W+R | 7.5 | 3680 | -6 | 
+| 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Fan Tingyu | Li Qincheng | Win | W+1¼ | 7.5 | 3663 | -16 | 
+| 2023-03-16 | 第13期中国竜星戦Aブロック7回戦 | Li Qincheng | Li Weiqing | Lose | W+R | 7.5 | 3679 | -7 | 
 | 2023-02-18 | 第24回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Chen Xian | Win | B+R | 7.5 | 3686 | 1 | 
 | 2023-02-17 | 第24回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Zhao Chenyu | Lose | W+R | 7.5 | 3685 | -5 | 
 | 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Iyama Yuta | Li Qincheng | Lose | B+R | 7.5 | 3690 | -10 | 
-| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Qincheng | Win | W+R | 7.5 | 3700 | -99 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3799 | 13 | 
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Tong Mengcheng | Li Qincheng | Win | W+R | 7.5 | 3700 | -98 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3798 | 12 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Li Zerui | Li Qincheng | Win | W+R | 7.5 | 3786 | 105 | 
 | 2022-12-17 | 第23期阿含・桐山杯日中決戦  | Hirata Tomoya | Li Qincheng | Win | W+R | 6.5 | 3681 | 4 | 
 | 2022-12-16 | 第23期阿含・桐山杯中国早碁戦決勝 | Li Qincheng | Xie Erhao | Win | B+R | 7.5 | 3677 | 24 | 
@@ -42,14 +42,14 @@
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Li Qincheng | Win | W+R | 7.5 | 3505 | 3 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Qincheng | Tuo Jiaxi | Win | B+¾ | 7.5 | 3502 | 6 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3496 | 19 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Win | B+1¾ | 7.5 | 3477 | -97 | 
-| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3574 | -16 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Win | B+R | 7.5 | 3590 | 15 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Li Qincheng | Kim Myounghoon | Win | B+1¾ | 7.5 | 3477 | -96 | 
+| 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3573 | -16 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Gu Zihao | Win | B+R | 7.5 | 3589 | 14 | 
 | 2022-03-31 | 第27回LG杯中国予選 | Tong Mengcheng | Li Qincheng | Win | W+R | 6.5 | 3575 | 2 | 
 | 2022-03-24 | 第14回春蘭杯世界囲碁選手権2回戦 | Shin Jinseo | Li Qincheng | Lose | B+R | 7.5 | 3573 | -17 | 
-| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Seki Kotaro | Li Qincheng | Win | W+R | 7.5 | 3590 | -10 | 
-| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3600 | -14 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3614 | -16 | 
+| 2022-03-22 | 第14回春蘭杯世界囲碁選手権1回戦 | Seki Kotaro | Li Qincheng | Win | W+R | 7.5 | 3590 | -9 | 
+| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3599 | -14 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3613 | -17 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Jin Yucheng | Win | B+R | 7.5 | 3630 | 1 | 
 | 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Ding Hao | Li Qincheng | Lose | B+¾ | 7.5 | 3629 | -13 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Lose | W+R | 7.5 | 3642 | -14 | 
@@ -112,8 +112,8 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | Win | W+R | 7.5 | 3461 | 4 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Li Qincheng |  | Win | B+R | 7.5 | 3457 | 7 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | Win | W+R | 7.5 | 3450 | 22 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Qincheng | Huang Mingyu | Win | B+R | 7.5 | 3428 | -47 | 
-| 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Lose | W+R | 6.5 | 3475 | -11 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Qincheng | Huang Mingyu | Win | B+R | 7.5 | 3428 | -46 | 
+| 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Lose | W+R | 6.5 | 3474 | -12 | 
 | 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3486 | -4 | 
 | 2020-01-05 | 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | Win | W+R | 7.5 | 3490 | missing |
 

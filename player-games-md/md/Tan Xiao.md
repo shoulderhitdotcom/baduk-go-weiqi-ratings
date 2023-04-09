@@ -23,8 +23,8 @@
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | He Yuhan | Tan Xiao | Win | W+R | 7.5 | 3549 | 1 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tan Xiao | Win | W+R | 7.5 | 3548 | 3 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Tan Xiao | Win | W+R | 7.5 | 3545 | 6 | 
-| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3539 | 6 | 
-| 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+¾ | 7.5 | 3533 | -19 | 
+| 2023-02-09 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3539 | 7 | 
+| 2023-02-07 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+¾ | 7.5 | 3532 | -20 | 
 | 2023-02-06 | 第24回中国囲碁甲級リーグ | Fan Yin | Tan Xiao | Win | W+R | 7.5 | 3552 | 27 | 
 | 2023-02-03 | 第24回中国囲碁甲級リーグ | Tan Xiao | Chen Yaoye | Win | B+R | 7.5 | 3525 | -30 | 
 | 2022-11-01 | 第27回三星火災杯世界囲碁マスターズ2回戦 | Tan Xiao | Park Junghwan | Lose | W+R | 6.5 | 3555 | 0 | 
@@ -45,11 +45,11 @@
 | 2022-08-06 | 第24回中国囲碁甲級リーグ | Tan Xiao | Liu Zhaozhe | Win | B+R | 7.5 | 3425 | 3 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Li Xuanhao | Tan Xiao | Lose | B+R | 7.5 | 3422 | -12 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Tan Xiao | Huang Mingyu | Win | B+R | 7.5 | 3434 | 25 | 
-| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3409 | -53 | 
-| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Lose | W+R | 7.5 | 3462 | 9 | 
-| 2022-02-21 | 第14回春蘭杯中国予選 | Tan Xiao | Li Xuanhao | Lose | W+R | 7.5 | 3453 | -17 | 
-| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Mi Yuting | Tan Xiao | Lose | B+R | 7.5 | 3470 | -17 | 
-| 2022-02-15 | 第36期中国囲碁天元戦予選 | Jiang Qirun | Tan Xiao | Win | W+R | 7.5 | 3487 | -13 | 
+| 2022-08-03 | 第24回中国囲碁甲級リーグ | Chen Yunong | Tan Xiao | Win | W+R | 7.5 | 3409 | -52 | 
+| 2022-04-23 | 第9回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Lose | W+R | 7.5 | 3461 | 8 | 
+| 2022-02-21 | 第14回春蘭杯中国予選 | Tan Xiao | Li Xuanhao | Lose | W+R | 7.5 | 3453 | -16 | 
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Mi Yuting | Tan Xiao | Lose | B+R | 7.5 | 3469 | -17 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Jiang Qirun | Tan Xiao | Win | W+R | 7.5 | 3486 | -14 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | Win | W+R | 7.5 | 3500 | 16 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tan Xiao | Xie Erhao | Lose | W+R | 7.5 | 3484 | -10 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Win | W+R | 7.5 | 3494 | 12 | 
@@ -77,8 +77,8 @@
 | 2021-08-26 | 第12期中国竜星戦予選 | Tan Xiao |  | Win | B+R | 7.5 | 3518 | 50 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tan Xiao | Yi Lingtao | Lose | W+R | 6.5 | 3468 | -7 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tao Xinran | Tan Xiao | Win | W+1.5 | 6.5 | 3475 | 15 | 
-| 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Lose | W+R | 6.5 | 3460 | -11 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3471 | -2 | 
+| 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Lose | W+R | 6.5 | 3460 | -10 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3470 | -3 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | Lose | W+R | 7.5 | 3473 | 0 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3473 | 33 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3440 | 22 | 
@@ -86,8 +86,8 @@
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Byun Sangil | Tan Xiao | Lose | B+¾ | 7.5 | 3397 | -9 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | Lose | W+1¼ | 7.5 | 3406 | -19 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Win | W+R | 7.5 | 3425 | 29 | 
-| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Lose | W+1.5 | 6.5 | 3396 | -5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 | 3401 | -3 | 
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Lose | W+1.5 | 6.5 | 3396 | -4 | 
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 | 3400 | -4 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Tan Xiao | Lose | B+1¾ | 7.5 | 3404 | 7 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Lose | B+R | 7.5 | 3397 | -8 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Tan Xiao | Ye Changxin | Win | B+R | 7.5 | 3405 | 17 | 
@@ -121,9 +121,9 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tan Xiao | Yao Xiaotong | Win | B+R | 7.5 | 3401 | -6 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tan Xiao | Tao Xinran | Lose | W+R | 7.5 | 3407 | -28 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Chen Xian | Tan Xiao | Lose | B+R | 7.5 | 3435 | -28 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Hao | Tan Xiao | Lose | B+¾ | 7.5 | 3463 | -102 | 
-| 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Lose | W+R | 6.5 | 3565 | 20 | 
-| 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Win | W+R | 6.5 | 3545 | -54 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Hao | Tan Xiao | Lose | B+¾ | 7.5 | 3463 | -101 | 
+| 2020-04-17 | 第25回LG杯中国予選決勝 | Tan Xiao | Gu Zihao | Lose | W+R | 6.5 | 3564 | 20 | 
+| 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Win | W+R | 6.5 | 3544 | -55 | 
 | 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Tan Xiao | Tang Weixing | Win | B+R | 7.5 | 3599 | missing |
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Kang Dongyun Vs Lee Yeongkyu** | **Kang Dongyun Streak** | **Lee Yeongkyu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-08 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Lee Yeongkyu | W+R | 6.5 | 6:8 | 0 | 1 | 
 | 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第3局 | Lee Yeongkyu | Kang Dongyun | W+R | 6.5 | 6:7 | 2 | 0 | 
 | 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Kang Dongyun | Lee Yeongkyu | B+R | 6.5 | 5:7 | 1 | 0 | 
 | 2017-07-14 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Kang Dongyun | B+R | 6.5 | 4:7 | 0 | 1 | 

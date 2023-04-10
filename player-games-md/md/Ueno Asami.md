@@ -7,157 +7,159 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-03-16 | 第49期天元戦1回戦  | Iyama Yuta | Ueno Asami | Lose | B+R | 6.5 | 3122 | -5 | 
-| 2023-03-13 | 第34期女流名人戦リーグ | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3127 | -9 | 
-| 2023-03-05 | 第5回SENKO CUPワールド碁女流最強戦3位決定戦  | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 3136 | 1 | 
-| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Zhou Hongyu | Ueno Asami | Lose | B+R | 6.5 | 3135 | -4 | 
-| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3139 | 16 | 
-| 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Win | W+3.5 | 6.5 | 3123 | 0 | 
-| 2023-02-16 | 第48期新人王戦1回戦 | Ueno Asami | Hoshiai Shiho | Win | B+R | 6.5 | 3123 | 68 | 
-| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Lose | W+R | 6.5 | 3055 | -4 | 
-| 2023-01-30 | 第34期女流名人戦リーグ | Ueno Asami | Nyu Eiko | Win | B+R | 6.5 | 3059 | -14 | 
-| 2023-01-26 | 第26期女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Nakamura Sumire | Lose | W+0.5 | 6.5 | 3073 | -20 | 
-| 2023-01-19 | 第26期女流棋聖戦挑戦手合三番勝負第1局  | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 3093 | -9 | 
-| 2023-01-12 | 第48期棋聖戦予選 |  | Ueno Asami | Win | W+6.5 | 6.5 | 3102 | -40 | 
-| 2022-12-22 | 第49期天元戦予選 | Ueno Asami | Cho Chikun | Win | B+R | 6.5 | 3142 | 5 | 
-| 2022-12-15 | 第34期女流名人戦リーグ | Kobayashi Izumi | Ueno Asami | Win | W+R | 6.5 | 3137 | 9 | 
-| 2022-12-01 | 第34期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3128 | -6 | 
-| 2022-11-27 | 第17回広島アルミ杯・若鯉戦決勝  | Koike Yoshihiro | Ueno Asami | Win | W+R | 6.5 | 3134 | 0 | 
-| 2022-11-07 | 第34期女流名人戦リーグ  | Ueno Asami | Ueno Risa | Win | B+R | 6.5 | 3134 | -36 | 
-| 2022-11-04 | 第41期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Lose | B+0.5 | 6.5 | 3170 | 0 | 
-| 2022-10-23 | 第41期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3170 | 0 | 
-| 2022-10-20 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第13戦  | Zhou Hongyu | Ueno Asami | Lose | B+R | 6.5 | 3170 | -1 | 
-| 2022-10-19 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第12戦  | Lu Minquan | Ueno Asami | Win | W+R | 6.5 | 3171 | 16 | 
-| 2022-10-18 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第11戦  | Choi Jeong | Ueno Asami | Win | W+R | 6.5 | 3155 | 23 | 
-| 2022-10-17 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第10戦  | Ueno Asami | Li He | Win | B+R | 6.5 | 3132 | 12 | 
-| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3120 | 2 | 
-| 2022-09-29 | 第48期碁聖戦予選 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3118 | 4 | 
-| 2022-09-01 | 第41期女流本因坊戦挑戦者決定戦  | Kato Chie | Ueno Asami | Win | W+R | 6.5 | 3114 | 9 | 
-| 2022-08-25 | 第61期十段戦予選  | Takao Shinji | Ueno Asami | Lose | B+R | 6.5 | 3105 | -6 | 
-| 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 3111 | -46 | 
-| 2022-08-08 | 第47期新人王戦準決勝 | Ueno Asami | Otake Yu | Lose | W+3.5 | 6.5 | 3157 | 0 | 
-| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Ueno Asami | Choi Jeong | Lose | W+R | 7.5 | 3157 | -14 | 
-| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Ueno Asami | Zhou Hongyu | Win | B+R | 7.5 | 3171 | 0 | 
-| 2022-07-25 | 第41期女流本因坊戦3回戦  | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3171 | 0 | 
-| 2022-07-21 | 第48期碁聖戦予選 | Ueno Asami |  | Win | B+R | 6.5 | 3171 | 8 | 
-| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | Lose | B+R | 6.5 | 3163 | -13 | 
-| 2022-07-07 | 第78期本因坊戦予選 | Hikosaka Naoto | Ueno Asami | Lose | B+R | 6.5 | 3176 | -19 | 
-| 2022-06-30 | 第7回扇興杯女流最強戦2回戦  | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 3195 | -17 | 
-| 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3212 | 21 | 
-| 2022-06-20 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3191 | 9 | 
-| 2022-06-18 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3182 | 15 | 
-| 2022-06-13 | 第41期女流本因坊戦2回戦  | Kobayashi Izumi | Ueno Asami | Win | W+R | 6.5 | 3167 | 0 | 
-| 2022-06-06 | 第47期新人王戦3回戦  | Ueno Asami |  | Win | B+5.5 | 6.5 | 3167 | 81 | 
-| 2022-06-02 | 第7回扇興杯女流最強戦1回戦 | Ueno Asami |  | Win | B+R | 6.5 | 3086 | -3 | 
-| 2022-05-30 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ueno Asami | Yuki Satoshi | Lose | W+R | 6.5 | 3089 | -22 | 
-| 2022-05-12 | 第47期新人王戦2回戦 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3111 | 10 | 
-| 2022-05-05 | 第47期棋聖戦予選 | Ueno Asami |  | Lose | W+R | 6.5 | 3101 | 6 | 
-| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Ueno Asami | Takao Mari | Win | B+R | 6.5 | 3095 | 10 | 
-| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦決勝  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3085 | 5 | 
-| 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3080 | 5 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Win | W+R | 6.5 | 3075 | 35 | 
-| 2022-04-04 | 第33期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3040 | -8 | 
-| 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3048 | -13 | 
-| 2022-03-10 | 第33期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Lose | B+R | 6.5 | 3061 | -44 | 
-| 2022-03-07 | 第47期新人王戦1回戦 | Ueno Asami |  | Win | B+R | 6.5 | 3105 | -4 | 
-| 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | Lose | B+R | 6.5 | 3109 | -12 | 
-| 2022-02-23 | 第33期女流名人戦リーグ | Ueno Asami | Mukai Chiaki | Win | B+7.5 | 6.5 | 3121 | -9 | 
-| 2022-01-31 | 第33期女流名人戦リーグ | Ueno Asami |  | Win | B+R | 6.5 | 3130 | -18 | 
-| 2022-01-27 | 第25期女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3148 | 12 | 
-| 2022-01-20 | 第25期女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Win | B+1.5 | 6.5 | 3136 | 29 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ  | Ueno Asami | Ichiriki Ryo | Lose | W+R | 6.5 | 3107 | 2 | 
-| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ |  | Ueno Asami | Win | W+2.5 | 6.5 | 3105 | 7 | 
-| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Lose | B+R | 6.5 | 3098 | -6 | 
-| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Ueno Asami | Lose | B+0.5 | 6.5 | 3104 | -4 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Win | B+0.5 | 6.5 | 3108 | -26 | 
-| 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Lose | B+R | 6.5 | 3134 | -5 | 
-| 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Win | B+4.5 | 6.5 | 3139 | 16 | 
-| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Ueno Asami | Mutsuura Yuta | Win | B+R | 6.5 | 3123 | 0 | 
-| 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Win | B+R | 6.5 | 3123 | 30 | 
-| 2021-11-20 | 第16回広島アルミ杯・若鯉戦1回戦  | Otani Naoki | Ueno Asami | Win | W+R | 6.5 | 3093 | 9 | 
-| 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Lose | W+R | 6.5 | 3084 | 4 | 
-| 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Win | B+R | 6.5 | 3080 | 23 | 
-| 2021-09-27 | 第47期碁聖戦予選 | Ueno Asami | Takao Shinji | Lose | W+R | 6.5 | 3057 | -22 | 
-| 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | Win | B+2.5 | 6.5 | 3079 | 24 | 
-| 2021-09-20 | 第46期新人王戦決勝三番勝負第1局  | Sotoyanagi Sebun | Ueno Asami | Lose | B+R | 6.5 | 3055 | -2 | 
-| 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3057 | 0 | 
-| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3057 | -10 | 
-| 2021-08-26 | 第70期王座戦予選 | Ueno Asami | Ohashi Hirofumi | Lose | W+R | 6.5 | 3067 | -8 | 
-| 2021-08-19 | 第60期十段戦予選  | Tsuneishi Takashi | Ueno Asami | Win | W+9.5 | 6.5 | 3075 | 11 | 
-| 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Win | W+4.5 | 6.5 | 3064 | 21 | 
-| 2021-07-29 | 第6回扇興杯女流最強戦2回戦 | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 3043 | 11 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Lose | W+R | 7.5 | 3032 | -12 | 
-| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Ueno Asami | Win | W+¼ | 7.5 | 3044 | 14 | 
-| 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Win | B+5.5 | 6.5 | 3030 | 15 | 
-| 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | Lose | B+R | 6.5 | 3015 | -20 | 
-| 2021-07-05 | 第6回扇興杯女流最強戦1回戦 | Ueno Asami | Taguchi Misei | Win | B+R | 6.5 | 3035 | 11 | 
-| 2021-06-28 | 第60期十段戦予選 | Lee Ishu | Ueno Asami | Win | W+R | 6.5 | 3024 | 8 | 
-| 2021-06-24 | 第47期名人戦予選 |  | Ueno Asami | Win | W+R | 6.5 | 3016 | 5 | 
-| 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3011 | 3 | 
-| 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3008 | -3 | 
-| 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3011 | 2 | 
-| 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Kato Chie | Ueno Asami | Win | W+R | 6.5 | 3009 | 28 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Lose | W+R | 6.5 | 2981 | 15 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦  | Ueno Asami | Gon Jiwoo | Win | B+R | 6.5 | 2966 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Ueno Asami | Win | W+3.5 | 6.5 | 2966 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Ueno Asami | Gon Jiwoo | Lose | W+R | 6.5 | 2966 | 54 | 
-| 2021-05-27 | 第40期女流本因坊戦2回戦  | Ueno Asami |  | Win | B+R | 6.5 | 2912 | -4 | 
-| 2021-05-20 | 第46期新人王戦3回戦 |  | Ueno Asami | Win | W+R | 6.5 | 2916 | 31 | 
-| 2021-05-03 | 第46期棋聖戦予選  | Fukuoka Kotaro | Ueno Asami | Lose | B+0.5 | 6.5 | 2885 | -14 | 
-| 2021-04-29 | 第8期会津中央病院・女流立葵杯1回戦 | Ueno Asami | Okuda Aya | Win | B+R | 6.5 | 2899 | 15 | 
-| 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 2884 | -5 | 
-| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+1.5 | 6.5 | 2889 | -5 | 
-| 2021-04-05 | 第46期新人王戦2回戦 | Kuwabara Shun | Ueno Asami | Win | W+R | 6.5 | 2894 | 46 | 
-| 2021-04-01 | 第46期棋聖戦予選 | Hoshiai Shiho | Ueno Asami | Win | W+R | 6.5 | 2848 | -3 | 
-| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦三位決定戦  | Ueno Asami | Mukai Chiaki | Win | B+R | 6.5 | 2851 | 10 | 
-| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Choi Jeong | Ueno Asami | Lose | B+1.5 | 6.5 | 2841 | 0 | 
-| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Inori Yoko | Ueno Asami | Win | W+R | 6.5 | 2841 | 14 | 
-| 2021-03-15 | 第32期博多・カマチ杯女流名人戦リーグ挑戦者決定プレーオフ  | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 2827 | 4 | 
-| 2021-03-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Kato Chie | Ueno Asami | Win | W+14.5 | 6.5 | 2823 | 1 | 
-| 2021-03-08 | 第46期新人王戦1回戦 | Otake Yu | Ueno Asami | Win | W+R | 6.5 | 2822 | -6 | 
-| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | Win | B+0.5 | 6.5 | 2828 | -9 | 
-| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi | Ueno Asami | Lose | B+R | 6.5 | 2837 | -17 | 
-| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ  | Ueno Asami |  | Win | B+6.5 | 6.5 | 2854 | 39 | 
-| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Mukai Chiaki | Ueno Asami | Win | W+R | 6.5 | 2815 | 97 | 
-| 2021-01-28 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 2718 | -8 | 
-| 2021-01-25 | 第32期博多・カマチ杯女流名人戦リーグ  | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 2726 | 8 | 
-| 2021-01-21 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Ueno Asami | Lose | B+R | 6.5 | 2718 | -84 | 
-| 2021-01-07 | 第32期博多・カマチ杯女流名人戦予選 | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 2802 | -1 | 
-| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Ueno Asami | Ida Atsushi | Lose | W+R | 6.5 | 2803 | 0 | 
-| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Ueno Asami | Shida Tatsuya | Win | B+R | 6.5 | 2803 | -3 | 
-| 2020-12-03 | 第24期ドコモ杯女流棋聖戦挑戦者決定戦 | Ueno Asami | Fujisawa Rina | Win | B+R | 6.5 | 2806 | 8 | 
-| 2020-11-25 | 第39期女流本因坊戦挑戦手合五番勝負第5局  | Fujisawa Rina | Ueno Asami | Lose | B+0.5 | 6.5 | 2798 | 7 | 
-| 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦 | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 2791 | 0 | 
-| 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦  | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 2791 | -53 | 
-| 2020-11-19 | 第24期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Ueno Asami | Win | W+3.5 | 6.5 | 2844 | -24 | 
-| 2020-11-12 | 第69期王座戦予選 | Onishi Kenya | Ueno Asami | Lose | B+R | 6.5 | 2868 | -35 | 
-| 2020-11-07 | 第39期女流本因坊戦挑戦手合五番勝負第4局  | Ueno Asami | Fujisawa Rina | Lose | W+5.5 | 6.5 | 2903 | -6 | 
-| 2020-11-05 | 第24期ドコモ杯女流棋聖戦2回戦 | Ueno Asami | Konishi Kazuko | Win | B+R | 6.5 | 2909 | 16 | 
-| 2020-10-31 | 第39期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 2893 | -21 | 
-| 2020-10-18 | 第39期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | B+R | 6.5 | 2914 | 21 | 
-| 2020-10-09 | 第1回博多・カマチ杯女流オープン戦決勝  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 2893 | -9 | 
-| 2020-10-08 | 第1回博多・カマチ杯女流オープン戦準決勝  | Mukai Chiaki | Ueno Asami | Win | W+R | 6.5 | 2902 | 31 | 
-| 2020-10-01 | 第39期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 2871 | -23 | 
-| 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Wang Chenxing | Ueno Asami | Lose | B+R | 7.5 | 2894 | -8 | 
-| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Choi Jeong | Ueno Asami | Win | W+¼ | 7.5 | 2902 | 35 | 
-| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Wang Shuang | Ueno Asami | Win | W+R | 7.5 | 2867 | 44 | 
-| 2020-09-13 | 第5回扇興杯女流最強戦決勝  | Xie Yimin | Ueno Asami | Win | W+5.5 | 6.5 | 2823 | 10 | 
-| 2020-09-11 | 第5回扇興杯女流最強戦準決勝  | Inori Yoko | Ueno Asami | Win | W+R | 6.5 | 2813 | -73 | 
-| 2020-08-06 | 第5回扇興杯女流最強戦2回戦 | Ueno Asami | Yoshida Mika | Win | B+R | 6.5 | 2886 | -26 | 
-| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | Lose | W+R | 6.5 | 2912 | -34 | 
-| 2020-07-13 | 第5回扇興杯女流最強戦1回戦 | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 2946 | 66 | 
-| 2020-06-04 | 第45期棋聖戦Cリーグ | Hong Seokui | Ueno Asami | Lose | B+R | 6.5 | 2880 | -84 | 
-| 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Ueno Asami |  | Lose | W+6.5 | 6.5 | 2964 | -10 | 
-| 2020-03-26 | 第59期十段戦予選 | Ueno Asami | O Meien | Lose | W+2.5 | 6.5 | 2974 | -25 | 
-| 2020-03-12 | 第76期本因坊戦予選 | Obuchi Kotaro | Ueno Asami | Lose | B+R | 6.5 | 2999 | 6 | 
-| 2020-02-27 | 第46期名人戦予選 | Ueno Asami | Kobayashi Izumi | Win | B+R | 6.5 | 2993 | 4 | 
-| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Ueno Asami | Ikeda Ayako | Win | B+R | 6.5 | 2989 | 3 | 
-| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 2986 | -5 | 
-| 2020-02-10 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Suzuki Ayumi | Ueno Asami | Lose | B+3.5 | 6.5 | 2991 | -13 | 
-| 2020-02-06 | 第46期名人戦予選 | Omori Yasushi | Ueno Asami | Win | W+2.5 | 6.5 | 3004 | -5 | 
-| 2020-02-03 | 第45期新人王戦1回戦 | Kuwabara Shun | Ueno Asami | Lose | B+R | 6.5 | 3009 | -37 | 
-| 2020-01-27 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3046 | 25 | 
-| 2020-01-16 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 3021 | missing |
+| 2023-04-10 | 第48期新人王戦1回戦 | Ueno Asami | Nakamura Sumire | Win | B+1.5 | 6.5 | 3116 | -6 | 
+| 2023-03-30 | 第48期棋聖戦予選 | Ueno Asami | Ohashi Hirofumi | Lose | W+2.5 | 6.5 | 3122 | -21 | 
+| 2023-03-16 | 第49期天元戦1回戦  | Iyama Yuta | Ueno Asami | Lose | B+R | 6.5 | 3143 | -5 | 
+| 2023-03-13 | 第34期女流名人戦リーグ | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3148 | -8 | 
+| 2023-03-05 | 第5回SENKO CUPワールド碁女流最強戦3位決定戦  | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 3156 | 1 | 
+| 2023-03-04 | 第5回SENKO CUPワールド碁女流最強戦準決勝  | Zhou Hongyu | Ueno Asami | Lose | B+R | 6.5 | 3155 | -4 | 
+| 2023-03-03 | 第5回SENKO CUPワールド碁女流最強戦1回戦  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3159 | 15 | 
+| 2023-02-20 | 第34期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Win | W+3.5 | 6.5 | 3144 | 0 | 
+| 2023-02-16 | 第48期新人王戦1回戦 | Ueno Asami | Hoshiai Shiho | Win | B+R | 6.5 | 3144 | 69 | 
+| 2023-02-06 | 第26期女流棋聖戦挑戦手合三番勝負第3局 | Ueno Asami | Nakamura Sumire | Lose | W+R | 6.5 | 3075 | -4 | 
+| 2023-01-30 | 第34期女流名人戦リーグ | Ueno Asami | Nyu Eiko | Win | B+R | 6.5 | 3079 | -13 | 
+| 2023-01-26 | 第26期女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Nakamura Sumire | Lose | W+0.5 | 6.5 | 3092 | -20 | 
+| 2023-01-19 | 第26期女流棋聖戦挑戦手合三番勝負第1局  | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 3112 | -9 | 
+| 2023-01-12 | 第48期棋聖戦予選 |  | Ueno Asami | Win | W+6.5 | 6.5 | 3121 | -39 | 
+| 2022-12-22 | 第49期天元戦予選 | Ueno Asami | Cho Chikun | Win | B+R | 6.5 | 3160 | 5 | 
+| 2022-12-15 | 第34期女流名人戦リーグ | Kobayashi Izumi | Ueno Asami | Win | W+R | 6.5 | 3155 | 10 | 
+| 2022-12-01 | 第34期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3145 | -6 | 
+| 2022-11-27 | 第17回広島アルミ杯・若鯉戦決勝  | Koike Yoshihiro | Ueno Asami | Win | W+R | 6.5 | 3151 | 1 | 
+| 2022-11-07 | 第34期女流名人戦リーグ  | Ueno Asami | Ueno Risa | Win | B+R | 6.5 | 3150 | -36 | 
+| 2022-11-04 | 第41期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Lose | B+0.5 | 6.5 | 3186 | 0 | 
+| 2022-10-23 | 第41期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3186 | 0 | 
+| 2022-10-20 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第13戦  | Zhou Hongyu | Ueno Asami | Lose | B+R | 6.5 | 3186 | -1 | 
+| 2022-10-19 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第12戦  | Lu Minquan | Ueno Asami | Win | W+R | 6.5 | 3187 | 16 | 
+| 2022-10-18 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第11戦  | Choi Jeong | Ueno Asami | Win | W+R | 6.5 | 3171 | 23 | 
+| 2022-10-17 | 第1回湖盤杯ソウル新聞世界女子囲碁覇王戦第10戦  | Ueno Asami | Li He | Win | B+R | 6.5 | 3148 | 13 | 
+| 2022-10-04 | 第41期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3135 | 2 | 
+| 2022-09-29 | 第48期碁聖戦予選 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3133 | 5 | 
+| 2022-09-01 | 第41期女流本因坊戦挑戦者決定戦  | Kato Chie | Ueno Asami | Win | W+R | 6.5 | 3128 | 9 | 
+| 2022-08-25 | 第61期十段戦予選  | Takao Shinji | Ueno Asami | Lose | B+R | 6.5 | 3119 | -6 | 
+| 2022-08-18 | 第41期女流本因坊戦準決勝  | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 3125 | -45 | 
+| 2022-08-08 | 第47期新人王戦準決勝 | Ueno Asami | Otake Yu | Lose | W+3.5 | 6.5 | 3170 | 0 | 
+| 2022-08-01 | 第5回呉清源杯世界女子囲碁選手権3回戦  | Ueno Asami | Choi Jeong | Lose | W+R | 7.5 | 3170 | -14 | 
+| 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦  | Ueno Asami | Zhou Hongyu | Win | B+R | 7.5 | 3184 | 0 | 
+| 2022-07-25 | 第41期女流本因坊戦3回戦  | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3184 | 0 | 
+| 2022-07-21 | 第48期碁聖戦予選 | Ueno Asami |  | Win | B+R | 6.5 | 3184 | 8 | 
+| 2022-07-15 | 第7回扇興杯女流最強戦準決勝  | Nyu Eiko | Ueno Asami | Lose | B+R | 6.5 | 3176 | -13 | 
+| 2022-07-07 | 第78期本因坊戦予選 | Hikosaka Naoto | Ueno Asami | Lose | B+R | 6.5 | 3189 | -19 | 
+| 2022-06-30 | 第7回扇興杯女流最強戦2回戦  | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 3208 | -16 | 
+| 2022-06-24 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3224 | 21 | 
+| 2022-06-20 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3203 | 9 | 
+| 2022-06-18 | 第9期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3194 | 16 | 
+| 2022-06-13 | 第41期女流本因坊戦2回戦  | Kobayashi Izumi | Ueno Asami | Win | W+R | 6.5 | 3178 | 0 | 
+| 2022-06-06 | 第47期新人王戦3回戦  | Ueno Asami |  | Win | B+5.5 | 6.5 | 3178 | 81 | 
+| 2022-06-02 | 第7回扇興杯女流最強戦1回戦 | Ueno Asami |  | Win | B+R | 6.5 | 3097 | -3 | 
+| 2022-05-30 | 第29期阿含・桐山杯全日本早碁オープン戦予選 | Ueno Asami | Yuki Satoshi | Lose | W+R | 6.5 | 3100 | -22 | 
+| 2022-05-12 | 第47期新人王戦2回戦 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3122 | 10 | 
+| 2022-05-05 | 第47期棋聖戦予選 | Ueno Asami |  | Lose | W+R | 6.5 | 3112 | 6 | 
+| 2022-04-28 | 第9期会津中央病院・女流立葵杯1回戦 | Ueno Asami | Takao Mari | Win | B+R | 6.5 | 3106 | 10 | 
+| 2022-04-10 | 第4回SENKO CUPワールド碁女流最強戦決勝  | Ueno Asami | Lu Yuhua | Win | B+R | 6.5 | 3096 | 5 | 
+| 2022-04-09 | 第4回SENKO CUPワールド碁女流最強戦準決勝  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 3091 | 5 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Win | W+R | 6.5 | 3086 | 35 | 
+| 2022-04-04 | 第33期女流名人戦リーグ | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3051 | -8 | 
+| 2022-03-31 | 第33期女流名人戦リーグ | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3059 | -12 | 
+| 2022-03-10 | 第33期女流名人戦リーグ | Nakamura Sumire | Ueno Asami | Lose | B+R | 6.5 | 3071 | -44 | 
+| 2022-03-07 | 第47期新人王戦1回戦 | Ueno Asami |  | Win | B+R | 6.5 | 3115 | -4 | 
+| 2022-02-28 | 第33期女流名人戦リーグ | Nyu Eiko | Ueno Asami | Lose | B+R | 6.5 | 3119 | -12 | 
+| 2022-02-23 | 第33期女流名人戦リーグ | Ueno Asami | Mukai Chiaki | Win | B+7.5 | 6.5 | 3131 | -8 | 
+| 2022-01-31 | 第33期女流名人戦リーグ | Ueno Asami |  | Win | B+R | 6.5 | 3139 | -18 | 
+| 2022-01-27 | 第25期女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3157 | 12 | 
+| 2022-01-20 | 第25期女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Win | B+1.5 | 6.5 | 3145 | 29 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ  | Ueno Asami | Ichiriki Ryo | Lose | W+R | 6.5 | 3116 | 2 | 
+| 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ |  | Ueno Asami | Win | W+2.5 | 6.5 | 3114 | 7 | 
+| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Lose | B+R | 6.5 | 3107 | -6 | 
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Ueno Asami | Lose | B+0.5 | 6.5 | 3113 | -4 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Win | B+0.5 | 6.5 | 3117 | -25 | 
+| 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Lose | B+R | 6.5 | 3142 | -5 | 
+| 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Win | B+4.5 | 6.5 | 3147 | 16 | 
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Ueno Asami | Mutsuura Yuta | Win | B+R | 6.5 | 3131 | 0 | 
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Win | B+R | 6.5 | 3131 | 30 | 
+| 2021-11-20 | 第16回広島アルミ杯・若鯉戦1回戦  | Otani Naoki | Ueno Asami | Win | W+R | 6.5 | 3101 | 9 | 
+| 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Lose | W+R | 6.5 | 3092 | 4 | 
+| 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Win | B+R | 6.5 | 3088 | 24 | 
+| 2021-09-27 | 第47期碁聖戦予選 | Ueno Asami | Takao Shinji | Lose | W+R | 6.5 | 3064 | -22 | 
+| 2021-09-23 | 第16回広島アルミ杯・若鯉戦予選 | Ueno Asami | Nyu Eiko | Win | B+2.5 | 6.5 | 3086 | 23 | 
+| 2021-09-20 | 第46期新人王戦決勝三番勝負第1局  | Sotoyanagi Sebun | Ueno Asami | Lose | B+R | 6.5 | 3063 | -1 | 
+| 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3064 | 0 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 3064 | -10 | 
+| 2021-08-26 | 第70期王座戦予選 | Ueno Asami | Ohashi Hirofumi | Lose | W+R | 6.5 | 3074 | -8 | 
+| 2021-08-19 | 第60期十段戦予選  | Tsuneishi Takashi | Ueno Asami | Win | W+9.5 | 6.5 | 3082 | 12 | 
+| 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Win | W+4.5 | 6.5 | 3070 | 20 | 
+| 2021-07-29 | 第6回扇興杯女流最強戦2回戦 | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 3050 | 12 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Lose | W+R | 7.5 | 3038 | -12 | 
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Yuhua | Ueno Asami | Win | W+¼ | 7.5 | 3050 | 14 | 
+| 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Win | B+5.5 | 6.5 | 3036 | 15 | 
+| 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | Lose | B+R | 6.5 | 3021 | -20 | 
+| 2021-07-05 | 第6回扇興杯女流最強戦1回戦 | Ueno Asami | Taguchi Misei | Win | B+R | 6.5 | 3041 | 10 | 
+| 2021-06-28 | 第60期十段戦予選 | Lee Ishu | Ueno Asami | Win | W+R | 6.5 | 3031 | 8 | 
+| 2021-06-24 | 第47期名人戦予選 |  | Ueno Asami | Win | W+R | 6.5 | 3023 | 6 | 
+| 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3017 | 3 | 
+| 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3014 | -3 | 
+| 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3017 | 2 | 
+| 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Kato Chie | Ueno Asami | Win | W+R | 6.5 | 3015 | 28 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Lose | W+R | 6.5 | 2987 | 15 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦  | Ueno Asami | Gon Jiwoo | Win | B+R | 6.5 | 2972 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 |  | Ueno Asami | Win | W+3.5 | 6.5 | 2972 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Ueno Asami | Gon Jiwoo | Lose | W+R | 6.5 | 2972 | 55 | 
+| 2021-05-27 | 第40期女流本因坊戦2回戦  | Ueno Asami |  | Win | B+R | 6.5 | 2917 | -5 | 
+| 2021-05-20 | 第46期新人王戦3回戦 |  | Ueno Asami | Win | W+R | 6.5 | 2922 | 31 | 
+| 2021-05-03 | 第46期棋聖戦予選  | Fukuoka Kotaro | Ueno Asami | Lose | B+0.5 | 6.5 | 2891 | -14 | 
+| 2021-04-29 | 第8期会津中央病院・女流立葵杯1回戦 | Ueno Asami | Okuda Aya | Win | B+R | 6.5 | 2905 | 15 | 
+| 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 2890 | -5 | 
+| 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+1.5 | 6.5 | 2895 | -5 | 
+| 2021-04-05 | 第46期新人王戦2回戦 | Kuwabara Shun | Ueno Asami | Win | W+R | 6.5 | 2900 | 46 | 
+| 2021-04-01 | 第46期棋聖戦予選 | Hoshiai Shiho | Ueno Asami | Win | W+R | 6.5 | 2854 | -2 | 
+| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦三位決定戦  | Ueno Asami | Mukai Chiaki | Win | B+R | 6.5 | 2856 | 10 | 
+| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Choi Jeong | Ueno Asami | Lose | B+1.5 | 6.5 | 2846 | 0 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Inori Yoko | Ueno Asami | Win | W+R | 6.5 | 2846 | 14 | 
+| 2021-03-15 | 第32期博多・カマチ杯女流名人戦リーグ挑戦者決定プレーオフ  | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 2832 | 4 | 
+| 2021-03-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Kato Chie | Ueno Asami | Win | W+14.5 | 6.5 | 2828 | 1 | 
+| 2021-03-08 | 第46期新人王戦1回戦 | Otake Yu | Ueno Asami | Win | W+R | 6.5 | 2827 | -6 | 
+| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | Win | B+0.5 | 6.5 | 2833 | -9 | 
+| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi | Ueno Asami | Lose | B+R | 6.5 | 2842 | -17 | 
+| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ  | Ueno Asami |  | Win | B+6.5 | 6.5 | 2859 | 39 | 
+| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ  | Mukai Chiaki | Ueno Asami | Win | W+R | 6.5 | 2820 | 97 | 
+| 2021-01-28 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Suzuki Ayumi | Win | B+R | 6.5 | 2723 | -8 | 
+| 2021-01-25 | 第32期博多・カマチ杯女流名人戦リーグ  | Ueno Asami | Xie Yimin | Win | B+R | 6.5 | 2731 | 8 | 
+| 2021-01-21 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Ueno Asami | Lose | B+R | 6.5 | 2723 | -84 | 
+| 2021-01-07 | 第32期博多・カマチ杯女流名人戦予選 | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 2807 | -1 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Ueno Asami | Ida Atsushi | Lose | W+R | 6.5 | 2808 | 0 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Ueno Asami | Shida Tatsuya | Win | B+R | 6.5 | 2808 | -3 | 
+| 2020-12-03 | 第24期ドコモ杯女流棋聖戦挑戦者決定戦 | Ueno Asami | Fujisawa Rina | Win | B+R | 6.5 | 2811 | 8 | 
+| 2020-11-25 | 第39期女流本因坊戦挑戦手合五番勝負第5局  | Fujisawa Rina | Ueno Asami | Lose | B+0.5 | 6.5 | 2803 | 8 | 
+| 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦 | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 2795 | 0 | 
+| 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦  | Ueno Asami | Nakamura Sumire | Win | B+R | 6.5 | 2795 | -53 | 
+| 2020-11-19 | 第24期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Ueno Asami | Win | W+3.5 | 6.5 | 2848 | -24 | 
+| 2020-11-12 | 第69期王座戦予選 | Onishi Kenya | Ueno Asami | Lose | B+R | 6.5 | 2872 | -35 | 
+| 2020-11-07 | 第39期女流本因坊戦挑戦手合五番勝負第4局  | Ueno Asami | Fujisawa Rina | Lose | W+5.5 | 6.5 | 2907 | -6 | 
+| 2020-11-05 | 第24期ドコモ杯女流棋聖戦2回戦 | Ueno Asami | Konishi Kazuko | Win | B+R | 6.5 | 2913 | 16 | 
+| 2020-10-31 | 第39期女流本因坊戦挑戦手合五番勝負第3局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 2897 | -21 | 
+| 2020-10-18 | 第39期女流本因坊戦挑戦手合五番勝負第2局  | Ueno Asami | Fujisawa Rina | Win | B+R | 6.5 | 2918 | 21 | 
+| 2020-10-09 | 第1回博多・カマチ杯女流オープン戦決勝  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 2897 | -9 | 
+| 2020-10-08 | 第1回博多・カマチ杯女流オープン戦準決勝  | Mukai Chiaki | Ueno Asami | Win | W+R | 6.5 | 2906 | 31 | 
+| 2020-10-01 | 第39期女流本因坊戦挑戦手合五番勝負第1局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 2875 | -23 | 
+| 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Wang Chenxing | Ueno Asami | Lose | B+R | 7.5 | 2898 | -8 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Choi Jeong | Ueno Asami | Win | W+¼ | 7.5 | 2906 | 35 | 
+| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Wang Shuang | Ueno Asami | Win | W+R | 7.5 | 2871 | 44 | 
+| 2020-09-13 | 第5回扇興杯女流最強戦決勝  | Xie Yimin | Ueno Asami | Win | W+5.5 | 6.5 | 2827 | 10 | 
+| 2020-09-11 | 第5回扇興杯女流最強戦準決勝  | Inori Yoko | Ueno Asami | Win | W+R | 6.5 | 2817 | -72 | 
+| 2020-08-06 | 第5回扇興杯女流最強戦2回戦 | Ueno Asami | Yoshida Mika | Win | B+R | 6.5 | 2889 | -26 | 
+| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | Lose | W+R | 6.5 | 2915 | -34 | 
+| 2020-07-13 | 第5回扇興杯女流最強戦1回戦 | Nakamura Sumire | Ueno Asami | Win | W+R | 6.5 | 2949 | 66 | 
+| 2020-06-04 | 第45期棋聖戦Cリーグ | Hong Seokui | Ueno Asami | Lose | B+R | 6.5 | 2883 | -84 | 
+| 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Ueno Asami |  | Lose | W+6.5 | 6.5 | 2967 | -10 | 
+| 2020-03-26 | 第59期十段戦予選 | Ueno Asami | O Meien | Lose | W+2.5 | 6.5 | 2977 | -25 | 
+| 2020-03-12 | 第76期本因坊戦予選 | Obuchi Kotaro | Ueno Asami | Lose | B+R | 6.5 | 3002 | 6 | 
+| 2020-02-27 | 第46期名人戦予選 | Ueno Asami | Kobayashi Izumi | Win | B+R | 6.5 | 2996 | 4 | 
+| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Ueno Asami | Ikeda Ayako | Win | B+R | 6.5 | 2992 | 3 | 
+| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 2989 | -5 | 
+| 2020-02-10 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Suzuki Ayumi | Ueno Asami | Lose | B+3.5 | 6.5 | 2994 | -13 | 
+| 2020-02-06 | 第46期名人戦予選 | Omori Yasushi | Ueno Asami | Win | W+2.5 | 6.5 | 3007 | -5 | 
+| 2020-02-03 | 第45期新人王戦1回戦 | Kuwabara Shun | Ueno Asami | Lose | B+R | 6.5 | 3012 | -36 | 
+| 2020-01-27 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Win | W+R | 6.5 | 3048 | 25 | 
+| 2020-01-16 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 3023 | missing |
 
 
 

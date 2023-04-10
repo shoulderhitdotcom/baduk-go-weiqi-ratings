@@ -1,0 +1,25 @@
+## Shin Minjun vs Kang Dongyun Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Kang Dongyun** | **Shin Minjun Streak** | **Kang Dongyun Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-10 | 2023YK建機杯リーグ | Shin Minjun | Kang Dongyun | B+0.5 | 6.5 | 8:4 | 2 | 0 | 
+| 2023-01-01 | 2022-2023韓国囲碁リーグ | Kang Dongyun | Shin Minjun | W+T | 6.5 | 7:4 | 1 | 0 | 
+| 2022-07-14 | 第24回農心杯韓国予選 | Kang Dongyun | Shin Minjun | B+R | 6.5 | 6:4 | 0 | 1 | 
+| 2022-05-04 | 第3期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | W+R | 6.5 | 6:3 | 2 | 0 | 
+| 2022-04-29 | 2022年アジア競技大会韓国予選 | Shin Minjun | Kang Dongyun | B+R | 7.5 | 5:3 | 1 | 0 | 
+| 2022-03-20 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Shin Minjun | B+R | 6.5 | 4:3 | 0 | 1 | 
+| 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | W+R | 6.5 | 4:2 | 2 | 0 | 
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | B+R | 6.5 | 3:2 | 1 | 0 | 
+| 2021-02-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Kang Dongyun | W+R | 6.5 | 2:2 | 0 | 1 | 
+| 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | W+R | 6.5 | 2:1 | 1 | 0 | 
+| 2014-07-11 | 第42期名人戦（韓国）予選 | Kang Dongyun | Shin Minjun | B+R | 6.5 | 1:1 | 0 | 1 | 
+| 2013-05-16 | 2013年韓国囲碁リーグ | Kang Dongyun | Shin Minjun | W+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

@@ -1,0 +1,18 @@
+## Yang Kaiwen vs Mi Yuting Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yang Kaiwen Vs Mi Yuting** | **Yang Kaiwen Streak** | **Mi Yuting Streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-10 | 第19回アジア競技大会中国予選 | Yang Kaiwen | Mi Yuting | W+R | 7.5 | 0:5 | 0 | 5 | 
+| 2022-11-20 | 第2期湾区杯中国囲碁大棋士戦挑戦者決定戦 | Mi Yuting | Yang Kaiwen | B+R | 7.5 | 0:4 | 0 | 4 | 
+| 2022-01-07 | 第16回威孚房開杯棋王戦決勝 | Yang Kaiwen | Mi Yuting | W+R | 7.5 | 0:3 | 0 | 3 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | B+R | 7.5 | 0:2 | 0 | 2 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Mi Yuting | Yang Kaiwen | B+R | 7.5 | 0:1 | 0 | 1 |
+
+
+
+

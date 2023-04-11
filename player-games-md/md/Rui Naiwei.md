@@ -20,9 +20,9 @@
 | 2022-08-29 | 第27回三星火災杯中国予選 | Zhou Hongyu | Rui Naiwei | Win | W+4.5 | 6.5 | 2822 | -12 | 
 | 2022-07-30 | 第5回呉清源杯世界女子囲碁選手権1回戦 | Rui Naiwei | Hei Jiajia | Lose | W+R | 7.5 | 2834 | -29 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Lu Minquan | Rui Naiwei | Lose | B+R | 7.5 | 2863 | -7 | 
-| 2022-04-09 | 2022年アジア競技大会中国予選 | Rui Naiwei | Wang Shuang | Win | B+¾ | 7.5 | 2870 | -54 | 
-| 2022-03-29 | 第5回呉清源杯中国予選 | Rui Naiwei | Li He | Lose | W+R | 7.5 | 2924 | 10 | 
-| 2022-03-28 | 第5回呉清源杯中国予選 | Rui Naiwei | Tang Jiawen | Win | B+R | 7.5 | 2914 | -28 | 
+| 2022-04-09 | 2022年アジア競技大会中国予選 | Rui Naiwei | Wang Shuang | Win | B+¾ | 7.5 | 2870 | -53 | 
+| 2022-03-29 | 第5回呉清源杯中国予選 | Rui Naiwei | Li He | Lose | W+R | 7.5 | 2923 | 10 | 
+| 2022-03-28 | 第5回呉清源杯中国予選 | Rui Naiwei | Tang Jiawen | Win | B+R | 7.5 | 2913 | -29 | 
 | 2022-03-25 | 第5回呉清源杯中国予選 | Li Xiaoxi | Rui Naiwei | Lose | B+1¾ | 7.5 | 2942 | -22 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Rui Naiwei | Lose | B+¾ | 7.5 | 2964 | -14 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Lu Minquan | Lose | W+R | 7.5 | 2978 | 1 | 
@@ -48,8 +48,8 @@
 | 2021-08-17 | 第26回三星火災杯中国予選 | Li Xiaoxi | Rui Naiwei | Win | W+3.5 | 6.5 | 3047 | -8 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Fang Ruoxi | Rui Naiwei | Lose | B+R | 7.5 | 3055 | -15 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Rui Naiwei | Li Xinyi | Win | B+R | 7.5 | 3070 | 10 | 
-| 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Lose | W+1¼ | 7.5 | 3060 | -18 | 
-| 2021-06-07 | 第4回呉清源杯中国予選 | Tang Jiawen | Rui Naiwei | Lose | B+R | 7.5 | 3078 | -7 | 
+| 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Lose | W+1¼ | 7.5 | 3060 | -19 | 
+| 2021-06-07 | 第4回呉清源杯中国予選 | Tang Jiawen | Rui Naiwei | Lose | B+R | 7.5 | 3079 | -6 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Win | W+R | 7.5 | 3085 | 19 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Rui Naiwei | Li He | Win | B+1¾ | 7.5 | 3066 | 10 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Chen Yiming | Rui Naiwei | Win | W+R | 7.5 | 3056 | 13 | 
@@ -77,10 +77,10 @@
 | 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Wang Shuang | Rui Naiwei | Lose | B+R | 7.5 | 2833 | -94 | 
 | 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Rui Naiwei | Li He | Win | B+4¾ | 7.5 | 2927 | 35 | 
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Rui Naiwei | Yang Zixuan | Win | B+R | 7.5 | 2892 | -28 | 
-| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Fang Ruoxi | Lose | W+R | 7.5 | 2920 | -10 | 
-| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Rui Naiwei | Zhao Yifei | Win | B+R | 7.5 | 2930 | 20 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Rui Naiwei | Li Xiaoxi | Win | B+R | 7.5 | 2910 | 4 | 
-| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 |  | Rui Naiwei | Win | W+R | 7.5 | 2906 | missing |
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Fang Ruoxi | Lose | W+R | 7.5 | 2920 | -11 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Rui Naiwei | Zhao Yifei | Win | B+R | 7.5 | 2931 | 20 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Rui Naiwei | Li Xiaoxi | Win | B+R | 7.5 | 2911 | 4 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 |  | Rui Naiwei | Win | W+R | 7.5 | 2907 | missing |
 
 
 

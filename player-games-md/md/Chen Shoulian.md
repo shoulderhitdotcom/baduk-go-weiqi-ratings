@@ -27,8 +27,8 @@
 | 2022-07-28 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Zhou Yinnan | Lose | W+R | 6.5 | 2736 | -43 | 
 | 2022-07-07 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lu Yiquan | Lose | W+2.5 | 6.5 | 2779 | -7 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Zeng Pinjie | Chen Shoulian | Win | W+R | 6.5 | 2786 | -4 | 
-| 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lin Shuyang | Lose | W+1.5 | 6.5 | 2790 | 23 | 
-| 2022-06-13 | 2022新人王戦（台湾）予選 | Chen Shoulian | Chen Weiting | Lose | W+R | 7.5 | 2767 | missing |
+| 2022-06-23 | 第15期棋王戦（台湾）予選 | Chen Shoulian | Lin Shuyang | Lose | W+1.5 | 6.5 | 2790 | 24 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 | Chen Shoulian | Chen Weiting | Lose | W+R | 7.5 | 2766 | missing |
 
 
 

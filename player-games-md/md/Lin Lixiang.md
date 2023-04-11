@@ -71,18 +71,18 @@
 | 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+R | 6.5 | 3146 | -14 | 
 | 2022-06-21 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3160 | 23 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Chen Shiyuan | Lin Lixiang | Lose | B+R | 6.5 | 3137 | -14 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Huang Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3151 | 10 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3141 | 0 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3141 | 33 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Huang Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3151 | 11 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3140 | 0 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3140 | 32 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Lin Lixiang | Yang Bowei | Lose | W+R | 6.5 | 3108 | 2 | 
 | 2022-05-26 | 第3期聯電杯プロ囲碁戦予選 | Lin Lixiang | Huang Shiyuan | Win | B+R | 6.5 | 3106 | 19 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3087 | -90 | 
 | 2022-04-19 | 第27回LG杯台湾予選 | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3177 | -21 | 
 | 2022-04-15 | 第27回LG杯台湾予選 | Lin Lixiang | Lin Xinwei | Win | B+R | 6.5 | 3198 | 3 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Lin Lixiang | Bai Xinhui | Win | B+R | 6.5 | 3195 | -2 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Lose | W+R | 6.5 | 3197 | -1 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3198 | 0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Win | W+R | 6.5 | 3198 | 8 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lin Lixiang | Xu Jingen | Lose | W+R | 6.5 | 3197 | 0 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3197 | 0 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Su Shengfang | Lin Lixiang | Win | W+R | 6.5 | 3197 | 7 | 
 | 2022-03-09 | 第18回倡棋杯台湾予選 | Lin Lixiang | Lai Junfu | Lose | W+1 | 7.5 | 3190 | -14 | 
 | 2022-02-27 | 第14回春蘭杯台湾予選 | Lin Lixiang | Xu Haohong | Lose | W+R | 7.5 | 3204 | 1 | 
 | 2022-02-25 | 第14回春蘭杯台湾予選 | Wang Yuanjun | Lin Lixiang | Win | W+¼ | 7.5 | 3203 | 16 | 

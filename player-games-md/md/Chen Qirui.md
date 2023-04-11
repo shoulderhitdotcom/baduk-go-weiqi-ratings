@@ -13,8 +13,8 @@
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Byun Sangil | Lose | W+R | 6.5 | 3232 | 0 | 
 | 2023-04-07 | 第28回LG杯台湾予選 | Chen Qirui | Huang Shiyuan | Win | B+R | 6.5 | 3232 | -10 | 
 | 2023-03-31 | 第5回夢百合杯台湾予選 | Chen Qirui | Lin Lixiang | Lose | W+R | 7.5 | 3242 | 6 | 
-| 2023-03-29 | 2022-2023韓国囲碁リーグ  | Kang Yootaek | Chen Qirui | Win | W+2.5 | 6.5 | 3236 | -4 | 
-| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Choi Cheolhan | Win | B+1.5 | 6.5 | 3240 | -4 | 
+| 2023-03-29 | 2022-2023韓国囲碁リーグ  | Kang Yootaek | Chen Qirui | Win | W+2.5 | 6.5 | 3236 | -3 | 
+| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Choi Cheolhan | Win | B+1.5 | 6.5 | 3239 | -5 | 
 | 2023-03-10 | 第5回夢百合杯台湾予選 | Chen Weiting | Chen Qirui | Win | W+R | 7.5 | 3244 | 2 | 
 | 2023-03-08 | 第5回夢百合杯台湾予選 | Chen Qirui | Cai Chengwei | Win | B+¾ | 7.5 | 3242 | 0 | 
 | 2023-03-07 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lin Lixiang | Win | B+R | 6.5 | 3242 | -7 | 
@@ -86,15 +86,15 @@
 | 2022-06-27 | 2022新人王戦（台湾）2回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3326 | 1 | 
 | 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3325 | 24 | 
 | 2022-06-20 | 2022新人王戦（台湾）1回戦 | Lin Yanchen | Chen Qirui | Win | W+R | 7.5 | 3301 | 7 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3294 | -13 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Win | B+R | 6.5 | 3307 | 40 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3294 | -12 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lu Yuhua | Win | B+R | 6.5 | 3306 | 39 | 
 | 2022-06-02 | 第12期友士杯十段戦挑戦手合五番勝負第4局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3267 | -8 | 
 | 2022-05-26 | 第12期友士杯十段戦挑戦手合五番勝負第3局  | Chen Qirui | Xu Haohong | Win | B+R | 6.5 | 3275 | 26 | 
 | 2022-05-19 | 第12期友士杯十段戦挑戦手合五番勝負第2局  | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3249 | -44 | 
 | 2022-04-18 | 第12期友士杯十段戦2回戦 | Xiao Zhenghao | Chen Qirui | Win | W+R | 6.5 | 3293 | 3 | 
 | 2022-04-12 | 第27回LG杯台湾予選 | Xu Jingen | Chen Qirui | Win | W+0.5 | 6.5 | 3290 | -3 | 
-| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3293 | 17 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3276 | -3 | 
+| 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3293 | 18 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3275 | -4 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Shixun | Chen Qirui | Win | W+R | 6.5 | 3279 | 7 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lin Junyan | Lose | W+R | 6.5 | 3272 | 2 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3270 | -7 | 
@@ -158,8 +158,8 @@
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lu Yiquan | Chen Qirui | Lose | B+R | 6.5 | 3151 | 46 | 
 | 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Lai Junfu | Chen Qirui | Win | W+R | 6.5 | 3105 | 54 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yang Zixuan | Chen Qirui | Win | W+R | 6.5 | 3051 | 2 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3049 | 28 | 
-| 2020-12-15 | 第16期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3021 | 3 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3049 | 27 | 
+| 2020-12-15 | 第16期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3022 | 4 | 
 | 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Hara Masakazu | Chen Qirui | Lose | B+R | 6.5 | 3018 | 17 | 
 | 2020-12-08 | 第16期国手戦（台湾）挑戦手合五番勝負第3局 | Xu Haohong | Chen Qirui | Lose | B+R | 6.5 | 3001 | -27 | 
 | 2020-12-01 | 第16期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Qirui | Xu Haohong | Lose | W+R | 6.5 | 3028 | -17 | 

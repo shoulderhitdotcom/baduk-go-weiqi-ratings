@@ -34,10 +34,10 @@
 | 2022-09-02 | 第8回健喬杯女子囲碁最強戦勝部決勝  | Lu Yuhua | Yang Zixuan | Win | W+R | 6.5 | 2689 | -34 | 
 | 2022-06-30 | 第15期棋王戦（台湾）予選 | Yang Zixuan | Li Wei | Lose | W+R | 6.5 | 2723 | 30 | 
 | 2022-06-20 | 2022新人王戦（台湾）1回戦 | Yu Binghuang | Yang Zixuan | Win | W+5¼ | 7.5 | 2693 | 8 | 
-| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Lose | B+R | 6.5 | 2685 | -4 | 
-| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 7.5 | 2689 | 4 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Chen Weiting | Yang Zixuan | Win | W+R | 6.5 | 2685 | 9 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Yang Zixuan |  | Lose | W+R | 6.5 | 2676 | 60 | 
+| 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Niu Shite | Yang Zixuan | Lose | B+R | 6.5 | 2685 | -3 | 
+| 2022-06-13 | 2022新人王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 7.5 | 2688 | 4 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦敗部1回戦 | Chen Weiting | Yang Zixuan | Win | W+R | 6.5 | 2684 | 9 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Yang Zixuan |  | Lose | W+R | 6.5 | 2675 | 59 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Jian Jingting | Yang Zixuan | Lose | B+R | 6.5 | 2616 | 1 | 
 | 2022-05-20 | 第3期聯電杯プロ囲碁戦予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2615 | 40 | 
 | 2022-05-13 | 第3期聯電杯プロ囲碁戦予選 | Hei Jiajia | Yang Zixuan | Win | W+R | 6.5 | 2575 | -16 | 

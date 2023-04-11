@@ -10,8 +10,8 @@
 | 2023-04-11 | 第28回LG杯台湾予選 |  | Wang Yuanjun | Lose | B+2.5 | 6.5 | 3318 | 4 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Lee Yeon | Wang Yuanjun | Win | W+R | 6.5 | 3314 | 0 | 
 | 2023-04-07 | 第28回LG杯台湾予選 |  | Wang Yuanjun | Win | W+R | 6.5 | 3314 | -9 | 
-| 2023-03-16 | 第15回海峰杯プロ囲碁戦決勝三番勝負第2局  | Wang Yuanjun | Xu Jingen | Win | B+0.5 | 6.5 | 3323 | 2 | 
-| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Lose | W+R | 6.5 | 3321 | -3 | 
+| 2023-03-16 | 第15回海峰杯プロ囲碁戦決勝三番勝負第2局  | Wang Yuanjun | Xu Jingen | Win | B+0.5 | 6.5 | 3323 | 3 | 
+| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Lose | W+R | 6.5 | 3320 | -4 | 
 | 2023-03-10 | 第5回夢百合杯台湾予選 | Wang Yuanjun | Lin Shixun | Lose | W+¼ | 7.5 | 3324 | -8 | 
 | 2023-03-09 | 第15回海峰杯プロ囲碁戦決勝三番勝負第1局  | Xu Jingen | Wang Yuanjun | Win | W+R | 6.5 | 3332 | 3 | 
 | 2023-03-08 | 第5回夢百合杯台湾予選 |  | Wang Yuanjun | Win | W+R | 7.5 | 3329 | -1 | 
@@ -28,8 +28,8 @@
 | 2023-01-16 | 第4期名人戦（台湾）勝部決勝 |  | Wang Yuanjun | Win | W+R | 6.5 | 3215 | -20 | 
 | 2023-01-11 | 2022-2023韓国囲碁リーグ  | Kang Yootaek | Wang Yuanjun | Lose | B+R | 6.5 | 3235 | -5 | 
 | 2023-01-09 | 第4期名人戦（台湾）予選 | Zhou Yinnan | Wang Yuanjun | Win | W+R | 6.5 | 3240 | 4 | 
-| 2023-01-08 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Park Yeonghun | Lose | W+R | 6.5 | 3236 | -18 | 
-| 2022-12-28 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Win | B+R | 6.5 | 3254 | 60 | 
+| 2023-01-08 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Park Yeonghun | Lose | W+R | 6.5 | 3236 | -17 | 
+| 2022-12-28 | 2022-2023韓国囲碁リーグ  | Wang Yuanjun | Kim Myounghoon | Win | B+R | 6.5 | 3253 | 59 | 
 | 2022-12-13 | 台湾棋院 VS 関西棋院若手棋士ネット対抗戦2022 |  | Wang Yuanjun | Win | W+R | 6.5 | 3194 | -12 | 
 | 2022-12-08 | 第3回早碁争覇戦決勝三番勝負第2局  | Xu Haohong | Wang Yuanjun | Lose | B+R | 6.5 | 3206 | 3 | 
 | 2022-12-05 | 第16期棋王戦（台湾）予選 | Chen Xi | Wang Yuanjun | Win | W+R | 6.5 | 3203 | 1 | 
@@ -63,8 +63,8 @@
 | 2022-09-14 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3277 | -60 | 
 | 2022-08-13 | 第8回国手山脈世界プロ最強戦1回戦  | Wang Yuanjun | Kang Dongyun | Lose | W+R | 6.5 | 3337 | -74 | 
 | 2022-06-29 | 第8回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3411 | 4 | 
-| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 |  | Wang Yuanjun | Win | W+R | 6.5 | 3407 | -5 | 
-| 2022-06-07 | 第21期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Xu Haohong | Lose | W+1.5 | 6.5 | 3412 | 38 | 
+| 2022-06-22 | 第8回国手山脈国際囲碁大会台湾予選 |  | Wang Yuanjun | Win | W+R | 6.5 | 3407 | -4 | 
+| 2022-06-07 | 第21期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Xu Haohong | Lose | W+1.5 | 6.5 | 3411 | 37 | 
 | 2022-06-01 | 第27回LG杯朝鮮日報棋王戦2回戦  | Wang Yuanjun | Shibano Toramaru | Lose | W+R | 6.5 | 3374 | -26 | 
 | 2022-05-30 | 第27回LG杯朝鮮日報棋王戦1回戦  | Weon Seongjin | Wang Yuanjun | Win | W+R | 6.5 | 3400 | 39 | 
 | 2022-05-24 | 第21期天元戦（台湾）挑戦手合七番勝負第4局 | Xu Haohong | Wang Yuanjun | Lose | B+1.5 | 6.5 | 3361 | -6 | 
@@ -128,10 +128,10 @@
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Wang Yuanjun | Chen Shoulian | Win | B+R | 6.5 | 3159 | 7 | 
 | 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Gao Yun | Wang Yuanjun | Win | W+R | 6.5 | 3152 | 20 | 
 | 2020-12-24 | 第13期棋王戦（台湾）挑戦手合七番勝負第5局  | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3132 | -33 | 
-| 2020-12-21 | 第13期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Wang Yuanjun | Lose | B+R | 6.5 | 3165 | 21 | 
-| 2020-12-19 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Lin Junyan | Wang Yuanjun | Win | W+0.5 | 6.5 | 3144 | 4 | 
-| 2020-12-17 | 第13期棋王戦（台湾）挑戦手合七番勝負第3局  | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3140 | 24 | 
-| 2020-12-14 | 第13期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Wang Yuanjun | Lose | B+1.5 | 6.5 | 3116 | -3 | 
+| 2020-12-21 | 第13期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Wang Yuanjun | Lose | B+R | 6.5 | 3165 | 20 | 
+| 2020-12-19 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Lin Junyan | Wang Yuanjun | Win | W+0.5 | 6.5 | 3145 | 4 | 
+| 2020-12-17 | 第13期棋王戦（台湾）挑戦手合七番勝負第3局  | Wang Yuanjun | Xu Haohong | Lose | W+R | 6.5 | 3141 | 24 | 
+| 2020-12-14 | 第13期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Wang Yuanjun | Lose | B+1.5 | 6.5 | 3117 | -2 | 
 | 2020-12-12 | 第1回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Wang Yuanjun | Lin Junyan | Win | B+0.5 | 6.5 | 3119 | 6 | 
 | 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+2.5 | 6.5 | 3113 | -9 | 
 | 2020-12-10 | 第13期棋王戦（台湾）挑戦手合七番勝負第1局  | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3122 | 48 | 

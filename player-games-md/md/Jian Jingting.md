@@ -10,9 +10,9 @@
 | 2023-04-11 | 第28回LG杯台湾予選 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3087 | -5 | 
 | 2023-04-07 | 第28回LG杯台湾予選 |  | Jian Jingting | Win | W+R | 6.5 | 3092 | 3 | 
 | 2023-04-06 | 第13期友士杯十段戦予選 |  | Jian Jingting | Win | W+R | 6.5 | 3089 | 0 | 
-| 2023-04-06 | 第13期友士杯十段戦予選 | Liu Yaowen | Jian Jingting | Win | W+R | 6.5 | 3089 | -10 | 
-| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Shen Zaiyi | Jian Jingting | Lose | B+R | 6.5 | 3099 | -4 | 
-| 2023-03-12 | 2022-2023韓国囲碁リーグ | Hong Mujin | Jian Jingting | Lose | B+R | 6.5 | 3103 | -21 | 
+| 2023-04-06 | 第13期友士杯十段戦予選 | Liu Yaowen | Jian Jingting | Win | W+R | 6.5 | 3089 | -9 | 
+| 2023-03-15 | 2022-2023韓国囲碁リーグ  | Shen Zaiyi | Jian Jingting | Lose | B+R | 6.5 | 3098 | -4 | 
+| 2023-03-12 | 2022-2023韓国囲碁リーグ | Hong Mujin | Jian Jingting | Lose | B+R | 6.5 | 3102 | -22 | 
 | 2023-03-08 | 第5回夢百合杯台湾予選 | Jian Jingting |  | Lose | W+R | 7.5 | 3124 | -3 | 
 | 2023-02-19 | 2022-2023韓国囲碁リーグ | Jian Jingting | Moon Minjong | Lose | W+R | 6.5 | 3127 | -3 | 
 | 2023-02-08 | 2022-2023韓国囲碁リーグ  | Jian Jingting | Park Jinsol | Win | B+R | 6.5 | 3130 | 116 | 
@@ -53,18 +53,18 @@
 | 2022-06-24 | 第3期聯電杯プロ囲碁戦敗部3回戦 | Niu Shite | Jian Jingting | Win | W+R | 6.5 | 3079 | 20 | 
 | 2022-06-20 | 2022新人王戦（台湾）1回戦 |  | Jian Jingting | Win | W+R | 7.5 | 3059 | 9 | 
 | 2022-06-17 | 第3期聯電杯プロ囲碁戦敗部2回戦 | Cai Chengwei | Jian Jingting | Win | W+R | 6.5 | 3050 | 9 | 
-| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Jian Jingting | Lose | B+R | 6.5 | 3041 | -9 | 
-| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Lin Shixun | Lose | W+1.5 | 6.5 | 3050 | -20 | 
-| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | Win | B+R | 6.5 | 3070 | 57 | 
+| 2022-06-15 | 第8回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Jian Jingting | Lose | B+R | 6.5 | 3041 | -8 | 
+| 2022-06-10 | 第3期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Lin Shixun | Lose | W+1.5 | 6.5 | 3049 | -20 | 
+| 2022-06-08 | 第8回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Niu Shite | Win | B+R | 6.5 | 3069 | 56 | 
 | 2022-05-27 | 第3期聯電杯プロ囲碁戦勝部1回戦 | Jian Jingting | Yang Zixuan | Win | B+R | 6.5 | 3013 | -89 | 
-| 2022-04-12 | 第27回LG杯台湾予選 | Jian Jingting | Lin Yanchen | Lose | W+R | 6.5 | 3102 | -7 | 
-| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3109 | 0 | 
-| 2022-03-28 | 第12期友士杯十段戦予選 | Yang Mengyun | Jian Jingting | Win | W+R | 6.5 | 3109 | -1 | 
+| 2022-04-12 | 第27回LG杯台湾予選 | Jian Jingting | Lin Yanchen | Lose | W+R | 6.5 | 3102 | -6 | 
+| 2022-03-29 | 第21期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3108 | 0 | 
+| 2022-03-28 | 第12期友士杯十段戦予選 | Yang Mengyun | Jian Jingting | Win | W+R | 6.5 | 3108 | -2 | 
 | 2022-03-25 | 第21期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3110 | 0 | 
 | 2022-03-15 | 第21期天元戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | B+R | 6.5 | 3110 | 0 | 
 | 2022-03-11 | 第21期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 3110 | -4 | 
-| 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3114 | -35 | 
-| 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3149 | 1 | 
+| 2022-03-08 | 第21期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3114 | -34 | 
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3148 | 0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Shuyang | Jian Jingting | Win | W+0.5 | 6.5 | 3148 | -14 | 
 | 2022-02-18 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Lose | B+1.5 | 6.5 | 3162 | -10 | 
 | 2022-02-16 | 第18回倡棋杯台湾予選 | Jian Jingting | Xu Yuqi | Lose | W+1 | 7.5 | 3172 | -28 | 

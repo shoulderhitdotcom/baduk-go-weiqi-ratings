@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shin Minjun Vs Weon Seongjin** | **Shin Minjun Streak** | **Weon Seongjin Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-11 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Weon Seongjin | B+0.5 | 6.5 | 9:3 | 4 | 0 | 
+| 2023-03-28 | 2023YK建機杯リーグ | Weon Seongjin | Shin Minjun | W+R | 6.5 | 8:3 | 3 | 0 | 
 | 2022-09-19 | 第45期名人戦（韓国）敗者組5回戦 | Shin Minjun | Weon Seongjin | B+3.5 | 6.5 | 7:3 | 2 | 0 | 
 | 2022-05-03 | 2022年アジア競技大会韓国予選 | Weon Seongjin | Shin Minjun | W+R | 7.5 | 6:3 | 1 | 0 | 
 | 2022-03-08 | 2022年アジア競技大会韓国予選 | Shin Minjun | Weon Seongjin | W+R | 6.5 | 5:3 | 0 | 1 | 

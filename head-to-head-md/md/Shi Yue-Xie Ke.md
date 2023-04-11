@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shi Yue Vs Xie Ke** | **Shi Yue Streak** | **Xie Ke Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-11 | 第19回アジア競技大会中国予選 | Shi Yue | Xie Ke | B+¾ | 7.5 | 3:6 | 1 | 0 | 
 | 2022-04-10 | 2022年アジア競技大会中国予選 | Shi Yue | Xie Ke | W+R | 7.5 | 2:6 | 0 | 2 | 
 | 2022-02-27 | 第36期中国囲碁天元戦3回戦 | Shi Yue | Xie Ke | W+R | 7.5 | 2:5 | 0 | 1 | 
 | 2022-02-21 | 第14回春蘭杯中国予選 | Xie Ke | Shi Yue | W+R | 7.5 | 2:4 | 1 | 0 | 

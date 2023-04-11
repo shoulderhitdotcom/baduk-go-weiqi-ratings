@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-11 | 第19回アジア競技大会中国予選 | Shi Yue | Xie Ke | Lose | B+¾ | 7.5 | 3564 | -4 | 
 | 2023-04-10 | 第19回アジア競技大会中国予選 | Li Qincheng | Xie Ke | Lose | B+R | 7.5 | 3568 | 1 | 
 | 2023-04-09 | 第19回アジア競技大会中国予選 | Xie Ke | Xu Jiayang | Win | B+¾ | 7.5 | 3567 | 0 | 
 | 2023-04-08 | 第19回アジア競技大会中国予選 | Mi Yuting | Xie Ke | Win | W+R | 7.5 | 3567 | 3 | 

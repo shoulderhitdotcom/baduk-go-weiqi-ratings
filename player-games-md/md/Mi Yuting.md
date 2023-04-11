@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | Lose | W+0.02 | 7.5 | 3680 | -4 | 
 | 2023-04-10 | 第19回アジア競技大会中国予選 | Mi Yuting | Li Qincheng | Lose | W+R | 7.5 | 3684 | 0 | 
 | 2023-04-10 | 第19回アジア競技大会中国予選 | Yang Kaiwen | Mi Yuting | Win | W+R | 7.5 | 3684 | -1 | 
 | 2023-04-08 | 第19回アジア競技大会中国予選 | Mi Yuting | Xie Ke | Lose | W+R | 7.5 | 3685 | -12 | 

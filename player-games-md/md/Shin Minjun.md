@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-11 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Weon Seongjin | Win | B+0.5 | 6.5 | 3595 | 2 | 
 | 2023-04-10 | 2023YK建機杯リーグ | Shin Minjun | Kang Dongyun | Win | B+0.5 | 6.5 | 3593 | 9 | 
 | 2023-04-05 | 2022-2023韓国囲碁リーグ | Shin Minjun | Lee Jihyun | Win | B+R | 6.5 | 3584 | 0 | 
 | 2023-04-05 | 2022-2023韓国囲碁リーグ | Lee Jihyun | Shin Minjun | Win | W+R | 6.5 | 3584 | -1 | 

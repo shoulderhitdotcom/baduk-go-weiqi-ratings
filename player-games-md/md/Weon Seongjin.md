@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-12 | 2023YK建機杯リーグ | Weon Seongjin | Lee Changho | Win | B+R | 6.5 | 3491 | 3 | 
 | 2023-04-11 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Weon Seongjin | Lose | B+0.5 | 6.5 | 3488 | -4 | 
 | 2023-04-06 | 第4期ソパルコサノル最高棋士決定戦リーグ | Weon Seongjin | Park Geunho | Win | B+R | 6.5 | 3492 | 3 | 
 | 2023-04-05 | 2023YK建機杯リーグ | Shin Jinseo | Weon Seongjin | Lose | B+R | 6.5 | 3489 | -2 | 

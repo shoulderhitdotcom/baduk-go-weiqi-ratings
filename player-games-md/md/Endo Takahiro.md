@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第67期王座戦予選B | Takashima Yugo | Endo Takahiro | B+4.5 | 2018-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Sqs3CZTIdw5xj6d5pbFwg%3D%3D) | 
 | 第56期十段戦　予選A | Honda Kunihisa | Endo Takahiro | B+R | 2017-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ix3ypRaE1jBC5%2FiB0%2FahUw%3D%3D) | 

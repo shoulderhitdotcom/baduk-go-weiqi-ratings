@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第6回呉清源杯韓国予選 | Cho Seungah | Jeong Yujin | Win | W+R | 7.5 | 2894 | 10 | 
 | 2023-04-12 | 第6回呉清源杯韓国予選 | Kim Hyeoimin | Jeong Yujin | Win | W+R | 6.5 | 2884 | 12 | 
 | 2023-04-03 | 第8回未来の星新鋭最強戦1回戦 | Gueon Hyojin | Jeong Yujin | Lose | B+R | 6.5 | 2872 | -71 | 
 | 2022-12-03 | 2022蘭雪軒杯全国女子囲碁大会1回戦 | Kim Yoonyoung | Jeong Yujin | Lose | B+R | 6.5 | 2943 | -17 | 

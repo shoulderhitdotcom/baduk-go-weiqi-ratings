@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Byun Sangil | Win | B+R | 6.5 | 3517 | 8 | 
 | 2023-04-12 | 第6期韓国竜星戦1回戦 | Park Geunho | Park Junghwan | Win | B+R | 6.5 | 3509 | 10 | 
 | 2023-04-06 | 第4期ソパルコサノル最高棋士決定戦リーグ | Weon Seongjin | Park Geunho | Lose | B+R | 6.5 | 3499 | -5 | 
 | 2023-04-02 | 2022-2023韓国囲碁リーグ | Park Geunho | Seki Kotaro | Win | B+R | 6.5 | 3504 | 0 | 

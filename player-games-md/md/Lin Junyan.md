@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第28回LG杯台湾予選 | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3225 | 5 | 
+| 2023-04-12 | 2022-2023韓国囲碁リーグ  | Cho Hanseung | Lin Junyan | Win | W+R | 6.5 | 3220 | 5 | 
 | 2023-04-11 | 第28回LG杯台湾予選 | Lin Junyan | Jian Jingting | Win | B+R | 6.5 | 3215 | -5 | 
 | 2023-04-07 | 第28回LG杯台湾予選 | Bai Xinhui | Lin Junyan | Win | W+R | 6.5 | 3220 | 0 | 
 | 2023-04-06 | 第13期友士杯十段戦予選 |  | Lin Junyan | Win | W+R | 6.5 | 3220 | 0 | 

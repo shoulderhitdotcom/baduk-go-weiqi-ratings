@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第19回アジア競技大会中国予選 | Fang Ruoxi | Wang Chenxing | Lose | B+R | 7.5 | 3072 | -10 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wang Chenxing | Win | W+¼ | 7.5 | 3082 | 9 | 
 | 2023-04-01 | 第3期全国女子囲碁国手戦2回戦 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 3073 | -13 | 
 | 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Wang Chenxing | Wang Xiangyun | Win | B+R | 7.5 | 3086 | 69 | 

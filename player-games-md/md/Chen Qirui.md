@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第28回LG杯台湾予選 | Chen Qirui |  | Win | B+R | 6.5 | 3233 | -1 | 
+| 2023-04-12 | 2022-2023韓国囲碁リーグ  | Kang Seungmin | Chen Qirui | Lose | B+R | 6.5 | 3234 | 2 | 
 | 2023-04-11 | 第28回LG杯台湾予選 | Chen Qirui | Chen Shoulian | Win | B+R | 6.5 | 3232 | -5 | 
 | 2023-04-10 | 第4期名人戦（台湾）決勝七番勝負第1局  | Lai Junfu | Chen Qirui | Lose | B+R | 6.5 | 3237 | 5 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Gueon Hyojin | Win | B+R | 6.5 | 3232 | 0 | 

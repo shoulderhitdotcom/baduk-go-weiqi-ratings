@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第19回アジア競技大会中国予選 | Fang Ruoxi | Wang Chenxing | Win | B+R | 7.5 | 3086 | 8 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Gao Xing | Fang Ruoxi | Win | W+R | 7.5 | 3078 | -22 | 
 | 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Fang Ruoxi | Zhou Hongyu | Lose | W+R | 7.5 | 3100 | 3 | 
 | 2023-03-25 | 第5回夢百合杯中国予選 | Li Xiaoxi | Fang Ruoxi | Lose | B+R | 7.5 | 3097 | 53 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Byun Sangil | Lose | B+R | 6.5 | 3679 | -3 | 
 | 2023-04-11 | 2023YK建機杯リーグ |  | Byun Sangil | Win | W+R | 6.5 | 3682 | 3 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Byun Sangil | Win | W+R | 6.5 | 3679 | 0 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Byun Sangil | Xu Haohong | Win | B+T | 6.5 | 3679 | 0 | 

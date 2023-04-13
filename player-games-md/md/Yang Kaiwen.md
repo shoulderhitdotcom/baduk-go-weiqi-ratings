@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第28回LG杯中国予選 | Yang Kaiwen | Tan Xiao | Lose | W+R | 6.5 | 3610 | -5 | 
 | 2023-04-10 | 第19回アジア競技大会中国予選 | Yang Kaiwen | Mi Yuting | Lose | W+R | 7.5 | 3615 | -6 | 
 | 2023-04-09 | 第19回アジア競技大会中国予選 | Zhao Chenyu | Yang Kaiwen | Win | W+¼ | 7.5 | 3621 | 0 | 
 | 2023-04-07 | 第19回アジア競技大会中国予選 | Yang Kaiwen | Lian Xiao | Win | B+R | 7.5 | 3621 | 4 | 
@@ -36,11 +37,11 @@
 | 2022-09-09 | 第24回中国囲碁甲級リーグ | Zhang Tao | Yang Kaiwen | Win | W+R | 7.5 | 3506 | 40 | 
 | 2022-08-30 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3466 | 4 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Mao Ruilong | Yang Kaiwen | Lose | B+R | 7.5 | 3462 | -61 | 
-| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Huang Mingyu | Win | B+R | 7.5 | 3523 | 73 | 
-| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zejin | Yang Kaiwen | Win | W+¼ | 7.5 | 3450 | 0 | 
-| 2022-08-09 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Kim Jiseok | Win | B+R | 7.5 | 3450 | 0 | 
-| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Chunhui | Yang Kaiwen | Win | W+R | 7.5 | 3450 | 0 | 
-| 2022-08-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Chen Xian | Lose | W+R | 7.5 | 3450 | 5 | 
+| 2022-08-11 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Huang Mingyu | Win | B+R | 7.5 | 3523 | 74 | 
+| 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zejin | Yang Kaiwen | Win | W+¼ | 7.5 | 3449 | 0 | 
+| 2022-08-09 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Kim Jiseok | Win | B+R | 7.5 | 3449 | 0 | 
+| 2022-08-08 | 第24回中国囲碁甲級リーグ | Wang Chunhui | Yang Kaiwen | Win | W+R | 7.5 | 3449 | 0 | 
+| 2022-08-06 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Chen Xian | Lose | W+R | 7.5 | 3449 | 4 | 
 | 2022-08-05 | 第24回中国囲碁甲級リーグ | Shi Yue | Yang Kaiwen | Win | W+R | 7.5 | 3445 | 3 | 
 | 2022-08-04 | 第24回中国囲碁甲級リーグ | Yang Kaiwen | Hu Zihao | Win | B+R | 7.5 | 3442 | 24 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Yi Lingtao | Yang Kaiwen | Lose | B+R | 7.5 | 3418 | -115 | 
@@ -69,8 +70,8 @@
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3524 | 45 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Lose | W+R | 7.5 | 3479 | 2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | Lose | B+R | 7.5 | 3477 | -19 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ye Changxin | Yang Kaiwen | Win | W+R | 7.5 | 3496 | -9 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3505 | 24 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ye Changxin | Yang Kaiwen | Win | W+R | 7.5 | 3496 | -10 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3506 | 25 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | Win | W+R | 7.5 | 3481 | 40 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Win | B+R | 7.5 | 3441 | 12 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Lose | B+R | 7.5 | 3429 | -8 | 
@@ -86,8 +87,8 @@
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Win | B+R | 7.5 | 3277 | 31 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3246 | -17 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3263 | -20 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3283 | 84 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3199 | 105 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3283 | 83 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3200 | 106 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Lose | B+¾ | 7.5 | 3094 | -49 | 
 | 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Lose | W+1¼ | 7.5 | 3143 | -219 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Huang Mingyu | Win | B+R | 7.5 | 3362 | 34 | 

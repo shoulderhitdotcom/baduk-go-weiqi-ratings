@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第28回LG杯台湾予選 | Xu Jingen | Lai Junfu | Lose | W+0.5 | 6.5 | 3232 | -4 | 
+| 2023-04-12 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Han Seungjoo | Lose | W+R | 6.5 | 3236 | 2 | 
 | 2023-04-11 | 第28回LG杯台湾予選 | Xu Jingen | Yang Zixuan | Win | B+R | 6.5 | 3234 | 0 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Hong Seongji | Lose | W+R | 6.5 | 3234 | 0 | 
 | 2023-04-07 | 第28回LG杯台湾予選 | Xu Jingen | Niu Shite | Win | B+R | 6.5 | 3234 | -2 | 

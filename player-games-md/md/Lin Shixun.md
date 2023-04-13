@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第28回LG杯台湾予選 |  | Lin Shixun | Win | W+R | 6.5 | 3142 | 5 | 
 | 2023-04-11 | 第28回LG杯台湾予選 | Lin Shixun | Li Wei | Win | B+R | 6.5 | 3137 | 7 | 
 | 2023-04-07 | 第28回LG杯台湾予選 |  | Lin Shixun | Win | W+R | 6.5 | 3130 | 0 | 
 | 2023-04-07 | 第28回LG杯台湾予選 | Lu Yiquan | Lin Shixun | Win | W+0.5 | 6.5 | 3130 | -1 | 

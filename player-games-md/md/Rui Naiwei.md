@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第19回アジア競技大会中国予選 | Wang Shuang | Rui Naiwei | Win | W+R | 7.5 | 3031 | 6 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 |  | Rui Naiwei | Win | W+¼ | 7.5 | 3025 | -13 | 
 | 2023-04-01 | 第3期全国女子囲碁国手戦2回戦 | Zhao Yifei | Rui Naiwei | Lose | B+1¾ | 7.5 | 3038 | -11 | 
 | 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Rui Naiwei | Cai Bihan | Win | B+3¾ | 7.5 | 3049 | -25 | 

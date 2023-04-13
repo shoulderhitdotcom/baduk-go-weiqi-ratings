@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Park Geunho Vs Byun Sangil** | **Park Geunho Streak** | **Byun Sangil Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-13 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Byun Sangil | B+R | 6.5 | 3:3 | 2 | 0 | 
+| 2023-03-04 | 2022-2023韓国囲碁リーグ | Park Geunho | Byun Sangil | B+R | 6.5 | 2:3 | 1 | 0 | 
 | 2023-02-25 | 2023YK建機杯予選 | Park Geunho | Byun Sangil | W+R | 6.5 | 1:3 | 0 | 2 | 
 | 2019-08-22 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Byun Sangil | W+R | 6.5 | 1:2 | 0 | 1 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Byun Sangil | Park Geunho | W+R | 6.5 | 1:1 | 1 | 0 | 

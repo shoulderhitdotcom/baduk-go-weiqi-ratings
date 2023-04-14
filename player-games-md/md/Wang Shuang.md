@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Shuang | Tang Jiawen | Lose | W+¼ | 7.5 | 2934 | 0 | 
 | 2023-04-13 | 第19回アジア競技大会中国予選 | Wang Shuang | Rui Naiwei | Lose | W+R | 7.5 | 2934 | 0 | 
 | 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Wang Shuang | Yu Zhiying | Lose | W+R | 7.5 | 2934 | 0 | 
 | 2022-09-07 | 2022中国国家囲棋隊選抜戦 | Wu Yiming | Wang Shuang | Lose | B+R | 7.5 | 2934 | 89 | 
@@ -26,16 +27,16 @@
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Lu Jia | Win | B+R | 7.5 | 3008 | 27 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Wang Shuang |  | Win | B+¾ | 7.5 | 2981 | 0 | 
 | 2021-10-09 | 第3回中国女子囲碁国手戦予選 | Wang Shuang | Tang Jiawen | Win | B+R | 6.5 | 2981 | -3 | 
-| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Shuang | Zhang Xuan | Win | B+R | 7.5 | 2984 | -5 | 
-| 2021-06-07 | 第4回呉清源杯中国予選 | Li He | Wang Shuang | Lose | B+R | 7.5 | 2989 | 0 | 
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Shuang | Zhang Xuan | Win | B+R | 7.5 | 2984 | -4 | 
+| 2021-06-07 | 第4回呉清源杯中国予選 | Li He | Wang Shuang | Lose | B+R | 7.5 | 2988 | -1 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Tang Jiawen | Wang Shuang | Lose | B+2¼ | 7.5 | 2989 | -13 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Lose | W+R | 7.5 | 3002 | -2 | 
-| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Li Xiaoxi | Lose | W+R | 7.5 | 3004 | -21 | 
-| 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Wang Shuang | Lose | B+R | 7.5 | 3025 | -49 | 
-| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Yin Qu | Win | B+R | 7.5 | 3074 | -6 | 
-| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Chu Keer | Lose | W+1¼ | 7.5 | 3080 | 9 | 
-| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Wang Shuang | Win | W+R | 7.5 | 3071 | 19 | 
-| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Tang Yi | Win | B+1¾ | 7.5 | 3052 | 99 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Li Xiaoxi | Lose | W+R | 7.5 | 3004 | -20 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Wang Shuang | Lose | B+R | 7.5 | 3024 | -49 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Yin Qu | Win | B+R | 7.5 | 3073 | -6 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Chu Keer | Lose | W+1¼ | 7.5 | 3079 | 9 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Wang Shuang | Win | W+R | 7.5 | 3070 | 19 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Tang Yi | Win | B+1¾ | 7.5 | 3051 | 98 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Li Xinyi | Wang Shuang | Win | W+R | 7.5 | 2953 | 0 | 
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Wang Shuang | Zhan Ying | Win | B+R | 7.5 | 2953 | 27 | 
 | 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Wang Shuang | Win | W+¼ | 7.5 | 2926 | 11 | 
@@ -57,10 +58,10 @@
 | 2020-09-07 | 第3回呉清源杯中国予選 | Fang Ruoxi | Wang Shuang | Win | W+R | 7.5 | 2811 | 6 | 
 | 2020-09-05 | 第3回呉清源杯中国予選 | Wang Shuang | Chen Yiming | Win | B+¾ | 7.5 | 2805 | 29 | 
 | 2020-09-04 | 第3回呉清源杯中国予選 | Pan Yang | Wang Shuang | Lose | B+1¾ | 7.5 | 2776 | -104 | 
-| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Lu Jia | Wang Shuang | Win | W+R | 7.5 | 2880 | 35 | 
-| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Wang Shuang | Gao Xing | Lose | W+R | 7.5 | 2845 | -28 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Wang Shuang | Zhao Yifei | Win | B+R | 7.5 | 2873 | 76 | 
-| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Wang Shuang |  | Win | B+R | 7.5 | 2797 | missing |
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Lu Jia | Wang Shuang | Win | W+R | 7.5 | 2880 | 36 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Wang Shuang | Gao Xing | Lose | W+R | 7.5 | 2844 | -28 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Wang Shuang | Zhao Yifei | Win | B+R | 7.5 | 2872 | 76 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Wang Shuang |  | Win | B+R | 7.5 | 2796 | missing |
 
 
 

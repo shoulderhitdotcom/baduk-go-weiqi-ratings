@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-14 | 第6回呉清源杯韓国予選 | Jeong Yujin | Kim Eunji | Lose | B+R | 7.5 | 3188 | -7 | 
 | 2023-04-13 | 第6回呉清源杯韓国予選 | Kim Eunji |  | Win | B+1¾ | 7.5 | 3195 | 3 | 
 | 2023-04-12 | 第10回グロービス杯韓国予選 |  | Kim Eunji | Win | W+R | 6.5 | 3192 | 12 | 
 | 2023-04-11 | 2022-2023フューチャーズリーグ | Kim Hyeongwoo | Kim Eunji | Win | W+R | 6.5 | 3180 | -2 | 
@@ -105,9 +106,9 @@
 | 2022-03-28 | 2022YK建機杯リーグ | Kim Sedong | Kim Eunji | Lose | B+R | 6.5 | 2970 | -21 | 
 | 2022-03-21 | 2022YK建機杯リーグ | Kim Eunji | Kim Myounghoon | Lose | W+R | 6.5 | 2991 | 31 | 
 | 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Nakamura Sumire | Kim Eunji | Win | W+R | 6.5 | 2960 | 68 | 
-| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Lin Yuting | Kim Eunji | Win | W+R | 6.5 | 2892 | 16 | 
-| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Lose | W+6.5 | 6.5 | 2876 | 15 | 
-| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Nokyeong | Kim Eunji | Win | W+1.5 | 6.5 | 2861 | 28 | 
+| 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Lin Yuting | Kim Eunji | Win | W+R | 6.5 | 2892 | 17 | 
+| 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Kim Eunji | Zhou Hongyu | Lose | W+6.5 | 6.5 | 2875 | 15 | 
+| 2022-02-25 | 第5期韓国竜星戦1回戦 | Kim Nokyeong | Kim Eunji | Win | W+1.5 | 6.5 | 2860 | 27 | 
 | 2022-02-19 | 第5期韓国竜星戦予選 | Kim Eunji | Kim Hyoyoung | Win | B+R | 6.5 | 2833 | 21 | 
 | 2022-02-11 | 2022YK建機杯予選 | Kim Eunji | Lee Wonyoung | Win | B+1.5 | 6.5 | 2812 | 0 | 
 | 2022-02-11 | 2022YK建機杯予選 | Seol Hyunjun | Kim Eunji | Lose | B+R | 6.5 | 2812 | 205 | 

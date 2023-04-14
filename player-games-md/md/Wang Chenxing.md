@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Chenxing | Wu Yiming | Lose | W+R | 7.5 | 3066 | -6 | 
 | 2023-04-13 | 第19回アジア競技大会中国予選 | Fang Ruoxi | Wang Chenxing | Lose | B+R | 7.5 | 3072 | -10 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wang Chenxing | Win | W+¼ | 7.5 | 3082 | 9 | 
 | 2023-04-01 | 第3期全国女子囲碁国手戦2回戦 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 3073 | -13 | 
@@ -43,23 +44,23 @@
 | 2021-10-02 | 第18回建橋杯女子囲碁オープン戦準決勝 | Zhou Hongyu | Wang Chenxing | Lose | B+R | 7.5 | 3020 | -10 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 | Wang Chenxing | Wang Yubo | Win | B+R | 7.5 | 3030 | -16 | 
 | 2021-09-28 | 第18回建橋杯女子囲碁オープン戦2回戦 |  | Wang Chenxing | Win | W+2¾ | 7.5 | 3046 | -26 | 
-| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 3072 | -3 | 
-| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Chenxing | Rui Naiwei | Lose | W+¼ | 7.5 | 3075 | -7 | 
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 3072 | -2 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Chenxing | Rui Naiwei | Lose | W+¼ | 7.5 | 3074 | -8 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第1戦 | Chen Yiming | Wang Chenxing | Win | W+R | 7.5 | 3082 | 17 | 
 | 2021-08-31 | 第26回三星火災杯中国予選 | Tang Jiawen | Wang Chenxing | Lose | B+R | 6.5 | 3065 | -29 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Wang Chenxing | Chu Keer | Lose | W+R | 7.5 | 3094 | -10 | 
 | 2021-08-26 | 第26回三星火災杯中国予選 | Wang Chenxing | Rui Naiwei | Lose | W+R | 6.5 | 3104 | -6 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Wang Chenxing | Wu Yiming | Lose | W+R | 6.5 | 3110 | 10 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | 3100 | 24 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Win | W+R | 7.5 | 3076 | 9 | 
-| 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Win | W+1¼ | 7.5 | 3067 | 1 | 
-| 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Win | B+R | 7.5 | 3066 | 22 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Win | W+R | 7.5 | 3076 | 10 | 
+| 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Win | W+1¼ | 7.5 | 3066 | 1 | 
+| 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Win | B+R | 7.5 | 3065 | 21 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Wang Chenxing | Lu Jia | Win | B+R | 7.5 | 3044 | 13 | 
-| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Win | B+¾ | 7.5 | 3031 | 5 | 
-| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Wang Chenxing | Lose | B+R | 7.5 | 3026 | -34 | 
-| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wang Yubo | Win | B+R | 7.5 | 3060 | 4 | 
-| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Li Xiaoxi | Lose | W+R | 7.5 | 3056 | -11 | 
-| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Wang Chenxing | Lose | B+R | 7.5 | 3067 | 92 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | Win | B+¾ | 7.5 | 3031 | 6 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Wang Chenxing | Lose | B+R | 7.5 | 3025 | -34 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wang Yubo | Win | B+R | 7.5 | 3059 | 4 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Li Xiaoxi | Lose | W+R | 7.5 | 3055 | -11 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Wang Chenxing | Lose | B+R | 7.5 | 3066 | 91 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Chen Yiming | Win | B+R | 7.5 | 2975 | 10 | 
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Tang Jiawen | Wang Chenxing | Lose | B+R | 7.5 | 2965 | -1 | 
 | 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Wang Yubo | Wang Chenxing | Win | W+R | 7.5 | 2966 | 19 | 
@@ -79,10 +80,10 @@
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Wang Chenxing | Oh Jeonga | Win | B+3¾ | 7.5 | 2995 | 29 | 
 | 2020-09-18 | 第25回三星火災杯中国女子枠予選 | Wang Chenxing | Zhou Hongyu | Lose | W+R | 6.5 | 2966 | -19 | 
 | 2020-09-17 | 第25回三星火災杯中国女子枠予選 | Yu Zhiying | Wang Chenxing | Win | W+R | 6.5 | 2985 | 26 | 
-| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 |  | Wang Chenxing | Lose | B+R | 7.5 | 2959 | -23 | 
-| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Wang Chenxing |  | Lose | W+¼ | 7.5 | 2982 | 0 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Wang Chenxing | Li Xiaoxi | Win | B+R | 7.5 | 2982 | 32 | 
-| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Wang Chenxing | Zhang Zhihan | Win | B+R | 7.5 | 2950 | missing |
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 |  | Wang Chenxing | Lose | B+R | 7.5 | 2959 | -22 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Wang Chenxing |  | Lose | W+¼ | 7.5 | 2981 | 0 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Wang Chenxing | Li Xiaoxi | Win | B+R | 7.5 | 2981 | 32 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Wang Chenxing | Zhang Zhihan | Win | B+R | 7.5 | 2949 | missing |
 
 
 

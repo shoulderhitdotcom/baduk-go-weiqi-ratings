@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Shuang | Tang Jiawen | Win | W+¼ | 7.5 | 3101 | 0 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wang Chenxing | Lose | W+¼ | 7.5 | 3101 | 0 | 
 | 2023-03-30 | 2023博思軟件杯中国囲碁新秀争覇戦2回戦 | Tang Jiawen | Fu Jianheng | Lose | W+1¼ | 7.5 | 3101 | 0 | 
 | 2023-03-22 | 第5回夢百合杯中国予選 | Tang Yi | Tang Jiawen | Lose | B+R | 7.5 | 3101 | 137 | 
@@ -44,18 +45,18 @@
 | 2021-08-31 | 第26回三星火災杯中国予選 | Tang Jiawen | Wang Chenxing | Win | B+R | 6.5 | 3094 | -13 | 
 | 2021-08-26 | 第26回三星火災杯中国予選 | Li He | Tang Jiawen | Lose | B+R | 6.5 | 3107 | -9 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 | Tang Jiawen | Zhou Hongyu | Win | B+4.5 | 6.5 | 3116 | 70 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Tang Jiawen | Lose | B+¾ | 7.5 | 3046 | -17 | 
-| 2021-06-07 | 第4回呉清源杯中国予選 | Tang Jiawen | Rui Naiwei | Win | B+R | 7.5 | 3063 | 26 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Cho Seungah | Tang Jiawen | Lose | B+¾ | 7.5 | 3046 | -16 | 
+| 2021-06-07 | 第4回呉清源杯中国予選 | Tang Jiawen | Rui Naiwei | Win | B+R | 7.5 | 3062 | 25 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Wu Yiming | Tang Jiawen | Win | W+¼ | 7.5 | 3037 | 3 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Tang Jiawen | Wang Shuang | Win | B+2¼ | 7.5 | 3034 | 9 | 
 | 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Tang Jiawen | Hu Zihao | Lose | W+R | 7.5 | 3025 | -33 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Li Zerui | Tang Jiawen | Win | W+R | 7.5 | 3058 | 32 | 
-| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Gao Xing | Lose | W+R | 7.5 | 3026 | -19 | 
-| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Tang Jiawen | Win | W+R | 7.5 | 3045 | -17 | 
-| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Li He | Win | B+¾ | 7.5 | 3062 | 5 | 
-| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Jiawen | Win | W+2¼ | 7.5 | 3057 | 28 | 
-| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Tang Jiawen | Win | W+R | 7.5 | 3029 | 24 | 
-| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Tang Jiawen | Win | W+R | 7.5 | 3005 | 88 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Gao Xing | Lose | W+R | 7.5 | 3026 | -18 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Tang Jiawen | Win | W+R | 7.5 | 3044 | -17 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Li He | Win | B+¾ | 7.5 | 3061 | 5 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Jiawen | Win | W+2¼ | 7.5 | 3056 | 28 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Tang Jiawen | Win | W+R | 7.5 | 3028 | 24 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Tang Jiawen | Win | W+R | 7.5 | 3004 | 87 | 
 | 2021-04-14 | 2021博思軟件杯中国囲碁新秀争覇戦2回戦 | Fang Ruoxi | Tang Jiawen | Lose | B+R | 7.5 | 2917 | 9 | 
 | 2021-04-05 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Tang Jiawen | Win | W+2¼ | 7.5 | 2908 | -1 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Jiawen | Lose | B+R | 7.5 | 2909 | -20 | 
@@ -79,10 +80,10 @@
 | 2020-09-07 | 第3回呉清源杯中国予選 | Tang Jiawen | Pan Yang | Lose | W+R | 7.5 | 2701 | -26 | 
 | 2020-09-05 | 第3回呉清源杯中国予選 | Lu Minquan | Tang Jiawen | Lose | B+R | 7.5 | 2727 | -26 | 
 | 2020-09-04 | 第3回呉清源杯中国予選 | Tang Jiawen | Gao Xing | Lose | W+R | 7.5 | 2753 | -129 | 
-| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Tang Jiawen | Wu Yiming | Lose | W+R | 7.5 | 2882 | -35 | 
-| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Hei Jiajia | Tang Jiawen | Win | W+R | 7.5 | 2917 | 53 | 
-| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 |  | Tang Jiawen | Win | W+R | 7.5 | 2864 | 19 | 
-| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Tang Jiawen | Cao Youyin | Lose | W+R | 7.5 | 2845 | -104 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Tang Jiawen | Wu Yiming | Lose | W+R | 7.5 | 2882 | -34 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Hei Jiajia | Tang Jiawen | Win | W+R | 7.5 | 2916 | 53 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 |  | Tang Jiawen | Win | W+R | 7.5 | 2863 | 19 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Tang Jiawen | Cao Youyin | Lose | W+R | 7.5 | 2844 | -105 | 
 | 2020-05-11 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Tang Jiawen | Fu Jianheng | Lose | W+R | 7.5 | 2949 | missing |
 
 

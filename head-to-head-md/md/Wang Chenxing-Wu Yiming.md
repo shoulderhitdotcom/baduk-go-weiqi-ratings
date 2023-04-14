@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Wang Chenxing Vs Wu Yiming** | **Wang Chenxing Streak** | **Wu Yiming Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Chenxing | Wu Yiming | W+R | 7.5 | 3:4 | 0 | 3 | 
 | 2022-04-14 | 2022年アジア競技大会中国予選 | Wu Yiming | Wang Chenxing | B+R | 7.5 | 3:3 | 0 | 2 | 
 | 2022-03-29 | 第5回呉清源杯中国予選 | Wang Chenxing | Wu Yiming | W+R | 7.5 | 3:2 | 0 | 1 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Wu Yiming | B+R | 7.5 | 3:1 | 1 | 0 | 

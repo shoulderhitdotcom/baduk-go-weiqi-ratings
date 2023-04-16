@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wu Yiming | Lose | W+R | 7.5 | 3101 | 0 | 
 | 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Shuang | Tang Jiawen | Win | W+¼ | 7.5 | 3101 | 0 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wang Chenxing | Lose | W+¼ | 7.5 | 3101 | 0 | 
 | 2023-03-30 | 2023博思軟件杯中国囲碁新秀争覇戦2回戦 | Tang Jiawen | Fu Jianheng | Lose | W+1¼ | 7.5 | 3101 | 0 | 

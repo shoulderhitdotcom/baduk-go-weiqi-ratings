@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第2期韓国棋院選手権戦グループリーグ復活戦 | Han Sangcho | Lee Wonyoung | Lose | W+R | 6.5 | 3179 | -8 | 
 | 2023-04-12 | 第6期韓国竜星戦1回戦 | Lee Yeongkyu | Han Sangcho | Win | W+R | 6.5 | 3187 | -10 | 
 | 2023-03-22 | 2022-2023韓国囲碁リーグ | Gueon Hyojin | Han Sangcho | Lose | B+0.5 | 6.5 | 3197 | 10 | 
 | 2023-03-17 | 第2期韓国棋院選手権戦グループリーグ敗者戦 | Han Sangcho | Gon Jiwoo | Win | B+R | 6.5 | 3187 | 0 | 
@@ -39,8 +40,8 @@
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong | Han Sangcho | Lose | B+R | 6.5 | 2962 | -4 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kang Seungmin | Han Sangcho | Win | W+R | 6.5 | 2966 | -198 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Hong Seongji | Han Sangcho | Lose | B+3.5 | 6.5 | 3164 | -68 | 
-| 2020-12-28 | 第2期ソパルコサノル最高棋士決定戦予選 | Han Sangcho | Kang Dongyun | Lose | W+R | 6.5 | 3232 | 18 | 
-| 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Sangcho | Lose | B+R | 6.5 | 3214 | -98 | 
+| 2020-12-28 | 第2期ソパルコサノル最高棋士決定戦予選 | Han Sangcho | Kang Dongyun | Lose | W+R | 6.5 | 3232 | 19 | 
+| 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Sangcho | Lose | B+R | 6.5 | 3213 | -99 | 
 | 2020-10-05 | 第2期ソパルコサノル最高棋士決定戦予選 | Han Sangcho | Kang Dongyun | Win | B+0.5 | 6.5 | 3312 | 177 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Sonjin | Han Sangcho | Win | W+R | 6.5 | 3135 | 64 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | An Jungki | Han Sangcho | Lose | B+R | 6.5 | 3071 | missing |

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第19回アジア競技大会中国予選 | Wang Chenxing | Wang Yubo | Lose | W+R | 7.5 | 3058 | -8 | 
 | 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Chenxing | Wu Yiming | Lose | W+R | 7.5 | 3066 | -6 | 
 | 2023-04-13 | 第19回アジア競技大会中国予選 | Fang Ruoxi | Wang Chenxing | Lose | B+R | 7.5 | 3072 | -10 | 
 | 2023-04-12 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wang Chenxing | Win | W+¼ | 7.5 | 3082 | 9 | 

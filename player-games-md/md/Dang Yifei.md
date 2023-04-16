@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第37期中国囲碁天元戦挑戦手合三番勝負第2局 | Mi Yuting | Dang Yifei | Lose | B+¾ | 7.5 | 3647 | -5 | 
 | 2023-04-14 | 第37期中国囲碁天元戦挑戦手合三番勝負第1局 | Dang Yifei | Mi Yuting | Lose | W+R | 7.5 | 3652 | -5 | 
 | 2023-04-07 | 第19回アジア競技大会中国予選 | Ding Hao | Dang Yifei | Lose | B+R | 7.5 | 3657 | -6 | 
 | 2023-04-02 | 第33期中国囲碁名人戦準決勝 | Dang Yifei | Yang Kaiwen | Lose | W+R | 7.5 | 3663 | 3 | 

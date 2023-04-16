@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第37期中国囲碁天元戦挑戦手合三番勝負第2局 | Mi Yuting | Dang Yifei | Win | B+¾ | 7.5 | 3681 | 2 | 
 | 2023-04-14 | 第37期中国囲碁天元戦挑戦手合三番勝負第1局 | Dang Yifei | Mi Yuting | Win | W+R | 7.5 | 3679 | -1 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | Lose | W+T | 7.5 | 3680 | 0 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | Lose | W+0.02 | 7.5 | 3680 | -4 | 

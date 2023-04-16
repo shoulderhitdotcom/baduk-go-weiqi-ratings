@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-16 | 第19回アジア競技大会中国予選 | Tang Jiawen | Wu Yiming | Win | W+R | 7.5 | 3034 | 8 | 
 | 2023-04-14 | 第19回アジア競技大会中国予選 | Wang Chenxing | Wu Yiming | Win | W+R | 7.5 | 3026 | 0 | 
 | 2023-04-14 | 第19回アジア競技大会中国予選 | Wu Yiming |  | Win | B+R | 7.5 | 3026 | 7 | 
 | 2023-03-28 | 2023博思軟件杯中国囲碁新秀争覇戦予選 |  | Wu Yiming | Win | W+R | 7.5 | 3019 | -10 | 

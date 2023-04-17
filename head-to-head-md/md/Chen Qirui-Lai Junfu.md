@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Qirui Vs Lai Junfu** | **Chen Qirui Streak** | **Lai Junfu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-17 | 第4期名人戦（台湾）決勝七番勝負第2局  | Chen Qirui | Lai Junfu | W+R | 6.5 | 14:13 | 0 | 5 | 
+| 2023-04-14 | 第28回LG杯台湾予選 | Chen Qirui | Lai Junfu | W+R | 6.5 | 14:12 | 0 | 4 | 
+| 2023-04-10 | 第4期名人戦（台湾）決勝七番勝負第1局  | Lai Junfu | Chen Qirui | B+R | 6.5 | 14:11 | 0 | 3 | 
 | 2023-02-24 | 第22期天元戦（台湾）リーグ | Chen Qirui | Lai Junfu | W+R | 6.5 | 14:10 | 0 | 2 | 
 | 2022-09-13 | 第3期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Qirui | B+R | 6.5 | 14:9 | 0 | 1 | 
 | 2022-04-11 | 第12期友士杯十段戦1回戦 | Lai Junfu | Chen Qirui | W+R | 6.5 | 14:8 | 1 | 0 | 

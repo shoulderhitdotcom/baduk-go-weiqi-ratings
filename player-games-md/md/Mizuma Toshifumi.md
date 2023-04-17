@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第2回SGW杯中庸戦予選 | Iwamaru Taira | Mizuma Toshifumi | B+1.5 | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GM9DdpsluhyEC9ZUH8yO2A%3D%3D) | 
 | 第45期名人戦予選 | Cho Sonjin | Mizuma Toshifumi | B+3.5 | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7x7OpM0Gt1tkv8m7Y8hW4g%3D%3D) | 

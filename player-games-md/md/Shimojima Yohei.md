@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第46期碁聖戦予選 | Ida Atsushi | Shimojima Yohei | B+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ake29JQ%2FfxYLaHZ6SwumEA%3D%3D) | 
 | 第45期棋聖戦ファーストトーナメント予選 | Shimojima Yohei | Hikosaka Naoto | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7UPGiTNFX7%2B3alZ5p3m35g%3D%3D) | 

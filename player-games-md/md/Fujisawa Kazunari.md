@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第45期棋聖戦ファーストトーナメント予選 | Takemiya Masaki | Fujisawa Kazunari | W+3.5 | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2FTvVQaipazXbQb%2FUkIE3g%3D%3D) | 
 | 第46期天元戦予選 | Fujisawa Kazunari | Ryu Shikun | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9%2Bi082HkpDbKU47QqLCnA%3D%3D) | 

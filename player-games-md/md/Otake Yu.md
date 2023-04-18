@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-18 | 第28回LG杯日本予選 | Ida Atsushi | Otake Yu | Lose | B+R | 6.5 | 3212 | -7 | 
 | 2023-04-17 | 第49期天元戦2回戦 | Yamashita Keigo | Otake Yu | Lose | B+R | 6.5 | 3219 | -13 | 
 | 2023-04-13 | 第78期本因坊戦リーグ | Motoki Katsuya | Otake Yu | Win | W+R | 6.5 | 3232 | 8 | 
 | 2023-04-06 | 第48期棋聖戦Bリーグ | Cho Riyu | Otake Yu | Win | W+2.5 | 6.5 | 3224 | 0 | 

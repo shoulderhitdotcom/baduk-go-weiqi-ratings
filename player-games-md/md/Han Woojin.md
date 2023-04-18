@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-18 | 第10回グロービス杯韓国予選 | Han Woojin | Kim Eunji | Win | B+R | 6.5 | 3334 | 4 | 
 | 2023-04-17 | 第10回グロービス杯韓国予選 | Han Woojin |  | Win | B+R | 6.5 | 3330 | 4 | 
 | 2023-04-16 | 2022-2023韓国囲碁リーグ | Choi Jeong | Han Woojin | Win | W+R | 6.5 | 3326 | 0 | 
 | 2023-04-16 | 2022-2023韓国囲碁リーグ | Choi Jeong | Han Woojin | Lose | B+R | 6.5 | 3326 | -3 | 

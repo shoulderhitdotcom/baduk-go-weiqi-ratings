@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-04-17 | 第10回グロービス杯韓国予選 | Kim Eunji | Gueon Hyojin | Win | B+0.5 | 6.5 | 3188 | -2 | 
+| 2023-04-18 | 第10回グロービス杯韓国予選 | Han Woojin | Kim Eunji | Lose | B+R | 6.5 | 3183 | -5 | 
+| 2023-04-17 | 第10回グロービス杯韓国予選 | Kim Eunji | Gueon Hyojin | Win | B+0.5 | 6.5 | 3188 | 0 | 
+| 2023-04-17 | 2022-2023フューチャーズリーグ | Han Wonggyu | Kim Eunji | Lose | B+R | 6.5 | 3188 | -2 | 
 | 2023-04-15 | 2022-2023韓国囲碁リーグ | Kim Eunji | Kim Changhoon | Lose | W+R | 6.5 | 3190 | 0 | 
 | 2023-04-14 | 第6回呉清源杯韓国予選 | Jeong Yujin | Kim Eunji | Lose | B+R | 7.5 | 3190 | -7 | 
 | 2023-04-13 | 第6回呉清源杯韓国予選 | Kim Eunji |  | Win | B+1¾ | 7.5 | 3197 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Yu Zhengqi Vs Ida Atsushi** | **Yu Zhengqi Streak** | **Ida Atsushi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-18 | 第28回LG杯日本予選 | Yu Zhengqi | Ida Atsushi | B+R | 6.5 | 6:4 | 1 | 0 | 
 | 2023-03-02 | 第49期天元戦1回戦 | Yu Zhengqi | Ida Atsushi | W+R | 6.5 | 5:4 | 0 | 2 | 
 | 2022-04-14 | 第47期名人戦リーグ | Yu Zhengqi | Ida Atsushi | W+R | 6.5 | 5:3 | 0 | 1 | 
 | 2020-12-03 | 第59期十段戦2回戦 | Ida Atsushi | Yu Zhengqi | W+R | 6.5 | 5:2 | 1 | 0 | 

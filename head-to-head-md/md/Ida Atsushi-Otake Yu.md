@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ida Atsushi Vs Otake Yu** | **Ida Atsushi Streak** | **Otake Yu Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-18 | 第28回LG杯日本予選 | Ida Atsushi | Otake Yu | B+R | 6.5 | 4:1 | 3 | 0 | 
 | 2021-11-30 | 第62期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | B+R | 6.5 | 3:1 | 2 | 0 | 
 | 2020-11-26 | 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | B+R | 6.5 | 2:1 | 1 | 0 | 
 | 2019-07-18 | 第44期棋聖戦Cリーグ | Ida Atsushi | Otake Yu | W+R | 6.5 | 1:1 | 0 | 1 | 

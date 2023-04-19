@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Xu Jiayang | Gu Zihao | Win | B+R | 7.5 | 3576 | 13 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Xu Jiayang | Li Weiqing | Lose | W+0.5 | 6.5 | 3563 | 0 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | Win | W+T | 7.5 | 3563 | 0 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | Win | W+0.02 | 7.5 | 3563 | 8 | 

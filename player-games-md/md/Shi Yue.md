@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Shi Yue | Lose | B+R | 7.5 | 3616 | 1 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Shi Yue | Wang Xinghao | Lose | W+R | 6.5 | 3615 | -6 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Shi Yue | Xie Ke | Win | B+¾ | 7.5 | 3621 | 0 | 
 | 2023-03-31 | 第33期中国囲碁名人戦3回戦 | Shi Yue | Dang Yifei | Lose | W+R | 7.5 | 3621 | -2 | 

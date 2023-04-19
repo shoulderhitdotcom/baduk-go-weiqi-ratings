@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Weiqing | Peng Liyao | Lose | B+R | 7.5 | 3543 | -5 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Gu Zihao | Peng Liyao | Lose | B+R | 6.5 | 3548 | -13 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Lian Xiao | Peng Liyao | Lose | B+R | 7.5 | 3561 | -4 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Peng Liyao | Li Xuanhao | Win | B+R | 7.5 | 3565 | -4 | 

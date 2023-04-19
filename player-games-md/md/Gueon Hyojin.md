@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第28回LG杯韓国予選 | Park Geunho | Gueon Hyojin | Lose | B+R | 6.5 | 3114 | 6 | 
+| 2023-04-17 | 第8回未来の星新鋭最強戦準決勝 | Gueon Hyojin |  | Win | B+2.5 | 6.5 | 3108 | 0 | 
 | 2023-04-17 | 第10回グロービス杯韓国予選 | Kim Eunji | Gueon Hyojin | Lose | B+0.5 | 6.5 | 3108 | -7 | 
 | 2023-04-14 | 第10回大舟杯プロシニア最強者戦2回戦 |  | Gueon Hyojin | Win | W+1.5 | 6.5 | 3115 | -2 | 
 | 2023-04-09 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Gueon Hyojin | Lose | B+R | 6.5 | 3117 | 0 | 

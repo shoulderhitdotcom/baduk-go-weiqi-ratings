@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Xu Jiayang | Gu Zihao | Lose | B+R | 7.5 | 3664 | -6 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Gu Zihao | Peng Liyao | Win | B+R | 6.5 | 3670 | -17 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Gu Zihao | Tuo Jiaxi | Lose | W+R | 7.5 | 3687 | -17 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Liu Yuhang | Gu Zihao | Lose | B+¾ | 7.5 | 3704 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Xinghao | Fan Tingyu | Win | B+R | 7.5 | 3675 | 6 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Shi Yue | Wang Xinghao | Win | W+R | 6.5 | 3669 | 1 | 
 | 2023-04-14 | 第28回LG杯中国予選 | Wang Xinghao | Chen Xian | Win | B+R | 6.5 | 3668 | -1 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Ke Jie | Wang Xinghao | Lose | B+R | 7.5 | 3669 | -15 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Xinghao | Fan Tingyu | Lose | B+R | 7.5 | 3638 | 1 | 
 | 2023-04-16 | 第28回LG杯中国予選 | Fan Tingyu | Li Weiqing | Lose | W+R | 6.5 | 3637 | -9 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Fan Tingyu | Li Qincheng | Lose | W+1¼ | 7.5 | 3646 | -7 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Jiang Qirun | Fan Tingyu | Win | W+R | 7.5 | 3653 | 0 | 

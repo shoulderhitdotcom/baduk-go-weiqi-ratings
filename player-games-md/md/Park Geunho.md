@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第28回LG杯韓国予選 | Park Geunho | Gueon Hyojin | Win | B+R | 6.5 | 3511 | 0 | 
 | 2023-04-17 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Jinsol | Park Geunho | Lose | B+R | 6.5 | 3511 | -8 | 
 | 2023-04-14 | 2022-2023韓国囲碁リーグ | Choi Cheolhan | Park Geunho | Win | W+1.5 | 6.5 | 3519 | 0 | 
 | 2023-04-13 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Geunho | Byun Sangil | Win | B+R | 6.5 | 3519 | 8 | 

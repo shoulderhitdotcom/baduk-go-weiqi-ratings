@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Tan Xiao Vs Dang Yifei** | **Tan Xiao Streak** | **Dang Yifei Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Tan Xiao | Dang Yifei | W+R | 7.5 | 2:5 | 0 | 4 | 
 | 2023-03-09 | 第37期中国囲碁天元戦2回戦 | Tan Xiao | Dang Yifei | W+R | 7.5 | 2:4 | 0 | 3 | 
 | 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選3回戦 | Tan Xiao | Dang Yifei | W+R | 7.5 | 2:3 | 0 | 2 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Dang Yifei | Tan Xiao | B+R | 7.5 | 2:2 | 0 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Li Qincheng Vs Yu Zhiying** | **Li Qincheng Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng | Yu Zhiying | W+R | 7.5 | 5:3 | 0 | 1 | 
 | 2020-01-05 | 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | W+R | 7.5 | 5:2 | 2 | 0 | 
 | 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Yu Zhiying | Li Qincheng | W+R | 7.5 | 4:2 | 1 | 0 | 
 | 2014-03-04 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Yu Zhiying | Li Qincheng | B+R | 7.5 | 3:2 | 0 | 1 | 

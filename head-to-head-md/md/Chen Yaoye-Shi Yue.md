@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Chen Yaoye Vs Shi Yue** | **Chen Yaoye Streak** | **Shi Yue Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Shi Yue | B+R | 7.5 | 7:11 | 1 | 0 | 
 | 2022-04-24 | 第9回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Shi Yue | Chen Yaoye | B+R | 7.5 | 6:11 | 0 | 3 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | B+R | 7.5 | 6:10 | 0 | 2 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Chen Yaoye | Shi Yue | W+¼ | 7.5 | 6:9 | 0 | 1 | 

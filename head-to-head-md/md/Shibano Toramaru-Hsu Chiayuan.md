@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Shibano Toramaru Vs Hsu Chiayuan** | **Shibano Toramaru Streak** | **Hsu Chiayuan Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第61期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Hsu Chiayuan | B+R | 6.5 | 15:14 | 2 | 0 | 
+| 2023-04-06 | 第61期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | W+R | 6.5 | 14:14 | 1 | 0 | 
 | 2023-03-23 | 第61期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Hsu Chiayuan | W+R | 6.5 | 13:14 | 0 | 1 | 
 | 2023-03-07 | 第61期十段戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Shibano Toramaru | W+R | 6.5 | 13:13 | 1 | 0 | 
 | 2023-01-06 | 第78期本因坊戦リーグ | Shibano Toramaru | Hsu Chiayuan | W+R | 6.5 | 12:13 | 0 | 1 | 

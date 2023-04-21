@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jiang Weijie Vs Li Xuanhao** | **Jiang Weijie Streak** | **Li Xuanhao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Jiang Weijie | Li Xuanhao | B+R | 7.5 | 5:3 | 2 | 0 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Jiang Weijie | W+¼ | 7.5 | 4:3 | 1 | 0 | 
 | 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Li Xuanhao | Jiang Weijie | B+2.5 | 6.5 | 3:3 | 0 | 1 | 
 | 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Jiang Weijie | Li Xuanhao | B+R | 7.5 | 3:2 | 1 | 0 | 

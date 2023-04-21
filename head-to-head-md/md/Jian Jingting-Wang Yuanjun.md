@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Jian Jingting Vs Wang Yuanjun** | **Jian Jingting Streak** | **Wang Yuanjun Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第13期友士杯十段戦1回戦 | Jian Jingting | Wang Yuanjun | W+R | 6.5 | 3:10 | 0 | 6 | 
 | 2022-09-14 | 第27回三星火災杯台湾予選 | Wang Yuanjun | Jian Jingting | B+R | 6.5 | 3:9 | 0 | 5 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | W+R | 6.5 | 3:8 | 0 | 4 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Jian Jingting | B+1.5 | 6.5 | 3:7 | 0 | 3 | 

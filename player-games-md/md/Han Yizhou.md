@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Han Yizhou | Tuo Jiaxi | Win | B+R | 7.5 | 3460 | 18 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Han Yizhou | Huang Yunsong | Win | B+¾ | 7.5 | 3442 | -10 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Han Yizhou | Shi Yue | Lose | W+R | 7.5 | 3452 | -4 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Tu Xiaoyu | Han Yizhou | Win | W+R | 7.5 | 3456 | 3 | 

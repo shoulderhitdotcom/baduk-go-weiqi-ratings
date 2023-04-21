@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第61期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Hsu Chiayuan | Lose | B+R | 6.5 | 3437 | 4 | 
 | 2023-04-17 | 第49期天元戦2回戦 | Hsu Chiayuan | Shida Tatsuya | Win | B+R | 6.5 | 3433 | 7 | 
 | 2023-04-13 | 第78期本因坊戦リーグ | Hsu Chiayuan | Yu Zhengqi | Win | B+R | 6.5 | 3426 | -1 | 
 | 2023-04-06 | 第61期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | Lose | W+R | 6.5 | 3427 | -15 | 

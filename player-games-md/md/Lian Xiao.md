@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Lian Xiao | Lose | B+R | 7.5 | 3592 | -3 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Tu Xiaoyu | Lian Xiao | Win | W+R | 7.5 | 3595 | 7 | 
 | 2023-04-07 | 第19回アジア競技大会中国予選 | Yang Kaiwen | Lian Xiao | Lose | B+R | 7.5 | 3588 | -5 | 
 | 2023-04-02 | 第33期中国囲碁名人戦準決勝 | Ke Jie | Lian Xiao | Lose | B+R | 7.5 | 3593 | -1 | 

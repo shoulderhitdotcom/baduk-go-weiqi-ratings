@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Lian Xiao | Win | B+R | 7.5 | 3645 | -1 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Tan Xiao | Dang Yifei | Win | W+R | 7.5 | 3646 | -3 | 
 | 2023-04-16 | 第37期中国囲碁天元戦挑戦手合三番勝負第2局 | Mi Yuting | Dang Yifei | Lose | B+¾ | 7.5 | 3649 | -5 | 
 | 2023-04-14 | 第37期中国囲碁天元戦挑戦手合三番勝負第1局 | Dang Yifei | Mi Yuting | Lose | W+R | 7.5 | 3654 | -5 | 

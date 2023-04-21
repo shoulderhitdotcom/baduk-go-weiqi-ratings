@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Mi Yuting | Xie Erhao | Lose | B+R | 7.5 | 3554 | 0 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Xie Erhao | Xie Ke | Win | B+R | 7.5 | 3554 | -6 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Xie Erhao | Ding Hao | Lose | W+R | 7.5 | 3560 | -6 | 
 | 2023-03-26 | 第5回夢百合杯中国予選 | Xie Erhao | Liao Xingwen | Win | B+R | 7.5 | 3566 | 0 | 

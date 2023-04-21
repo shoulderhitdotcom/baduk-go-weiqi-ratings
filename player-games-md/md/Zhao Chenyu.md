@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Zhao Chenyu | Ke Jie | Lose | W+R | 7.5 | 3610 | 6 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Zhao Chenyu |  | Win | B+R | 7.5 | 3604 | -4 | 
 | 2023-04-10 | 第19回アジア競技大会中国予選 | Zhao Chenyu | Xu Jiayang | Win | B+R | 7.5 | 3608 | -4 | 
 | 2023-04-09 | 第19回アジア競技大会中国予選 | Zhao Chenyu | Yang Kaiwen | Lose | W+¼ | 7.5 | 3612 | 0 | 

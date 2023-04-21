@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第28回LG杯韓国予選 | Kim Myounghoon | Kim Cheayoung | Win | B+R | 6.5 | 3561 | 0 | 
 | 2023-04-19 | 第28回LG杯韓国予選 | Kang Jihoon | Kim Myounghoon | Win | W+R | 6.5 | 3561 | 0 | 
 | 2023-04-14 | 2022-2023韓国囲碁リーグ | Choi Jaeyoung | Kim Myounghoon | Win | W+R | 6.5 | 3561 | -1 | 
 | 2023-04-13 | 第6期韓国竜星戦1回戦 | Lee Jihyun | Kim Myounghoon | Win | W+R | 6.5 | 3562 | -2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Han Yizhou | Tuo Jiaxi | Lose | B+R | 7.5 | 3593 | -1 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦  | Xu Haohong | Tuo Jiaxi | Win | W+R | 7.5 | 3594 | -11 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Tuo Jiaxi | Tang Weixing | Lose | W+R | 7.5 | 3605 | 1 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Gu Zihao | Tuo Jiaxi | Win | W+R | 7.5 | 3604 | -5 | 

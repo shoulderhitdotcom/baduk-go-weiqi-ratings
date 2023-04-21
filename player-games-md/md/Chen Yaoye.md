@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Ding Hao | Chen Yaoye | Win | W+R | 7.5 | 3521 | 13 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Shi Yue | Win | B+R | 7.5 | 3508 | -7 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Yang Kaiwen | Chen Yaoye | Lose | B+R | 7.5 | 3515 | -16 | 
 | 2023-03-05 | 第22回西南棋王戦準決勝 | Chen Yaoye | Fan Tingyu | Lose | W+3¼ | 7.5 | 3531 | -7 | 

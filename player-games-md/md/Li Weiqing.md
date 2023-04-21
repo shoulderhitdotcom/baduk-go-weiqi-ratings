@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Wang Xinghao | Li Weiqing | Lose | B+R | 7.5 | 3639 | 1 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Weiqing | Peng Liyao | Win | B+R | 7.5 | 3638 | 0 | 
 | 2023-04-17 | 第28回LG杯中国予選 | Xu Jiayang | Li Weiqing | Win | W+0.5 | 6.5 | 3638 | 2 | 
 | 2023-04-16 | 第28回LG杯中国予選 | Fan Tingyu | Li Weiqing | Win | W+R | 6.5 | 3636 | 0 | 

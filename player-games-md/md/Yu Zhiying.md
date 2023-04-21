@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Xu Jiayang | Lose | W+R | 7.5 | 3308 | -4 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng | Yu Zhiying | Win | W+R | 7.5 | 3312 | 14 | 
 | 2023-04-03 | 第3期全国女子囲碁国手戦決勝 | Zhou Hongyu | Yu Zhiying | Win | W+1¼ | 7.5 | 3298 | 19 | 
 | 2023-04-02 | 第3期全国女子囲碁国手戦準決勝 | Zhao Yifei | Yu Zhiying | Win | W+1¼ | 7.5 | 3279 | -3 | 

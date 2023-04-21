@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第48期棋聖戦Bリーグ | Chang Rueijie |  | Lose | W+R | 6.5 | 2994 | -44 | 
 | 2023-04-17 | 第48期新人王戦2回戦 | Chang Rueijie |  | Win | B+3.5 | 6.5 | 3038 | 56 | 
 | 2023-03-23 | 第62期十段戦予選 | Kobayashi Koichi | Chang Rueijie | Win | W+3.5 | 6.5 | 2982 | 48 | 
 | 2023-03-10 | 2022-2023韓国囲碁リーグ | Chang Rueijie | Kim Junghyun | Lose | W+1.5 | 6.5 | 2934 | -39 | 

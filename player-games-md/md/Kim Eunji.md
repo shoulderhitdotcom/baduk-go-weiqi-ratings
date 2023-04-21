@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第28回LG杯韓国予選 | Lee Hyunho | Kim Eunji | Win | W+R | 6.5 | 3192 | 5 | 
 | 2023-04-19 | 第28回LG杯韓国予選 | Gon Jiwoo | Kim Eunji | Win | W+R | 6.5 | 3187 | 4 | 
 | 2023-04-18 | 第10回グロービス杯韓国予選 | Han Woojin | Kim Eunji | Lose | B+R | 6.5 | 3183 | -5 | 
 | 2023-04-17 | 第10回グロービス杯韓国予選 | Kim Eunji | Gueon Hyojin | Win | B+0.5 | 6.5 | 3188 | 0 | 

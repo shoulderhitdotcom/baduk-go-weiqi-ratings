@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Jiang Weijie | Li Xuanhao | Win | B+R | 7.5 | 3574 | 8 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Qirun | Jiang Weijie | Win | W+R | 7.5 | 3566 | 5 | 
 | 2023-03-30 | 第33期中国囲碁名人戦2回戦 | Dang Yifei | Jiang Weijie | Lose | B+R | 7.5 | 3561 | -5 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Tan Xiao | Jiang Weijie | Win | W+R | 7.5 | 3566 | 1 | 

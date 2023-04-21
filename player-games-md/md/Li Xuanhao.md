@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Jiang Weijie | Li Xuanhao | Lose | B+R | 7.5 | 3676 | -11 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yuhan | Li Xuanhao | Win | W+R | 7.5 | 3687 | -6 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Peng Liyao | Li Xuanhao | Lose | B+R | 7.5 | 3693 | -15 | 
 | 2023-03-08 | 第37期中国囲碁天元戦1回戦 | Li Xuanhao | Chen Xian | Lose | W+R | 7.5 | 3708 | -11 | 

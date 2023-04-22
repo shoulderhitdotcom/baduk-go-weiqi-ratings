@@ -7,15 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-22 | 第18回倡棋杯中国プロ囲碁選手権戦3回戦 | Jiang Weijie | Chen Yaoye | Lose | B+R | 7.5 | 3516 | -5 | 
 | 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Ding Hao | Chen Yaoye | Win | W+R | 7.5 | 3521 | 13 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Shi Yue | Win | B+R | 7.5 | 3508 | -7 | 
 | 2023-03-29 | 第33期中国囲碁名人戦1回戦 | Yang Kaiwen | Chen Yaoye | Lose | B+R | 7.5 | 3515 | -16 | 
 | 2023-03-05 | 第22回西南棋王戦準決勝 | Chen Yaoye | Fan Tingyu | Lose | W+3¼ | 7.5 | 3531 | -7 | 
 | 2023-03-04 | 第22回西南棋王戦2回戦 | Chen Yaoye | Tu Xiaoyu | Win | B+R | 7.5 | 3538 | 0 | 
 | 2023-03-04 | 第22回西南棋王戦1回戦 | Zheng Zaixiang | Chen Yaoye | Win | W+R | 7.5 | 3538 | 13 | 
-| 2023-02-25 | 第13期中国竜星戦予選 | Chen Yaoye | Tong Mengcheng | Lose | W+R | 7.5 | 3525 | 3 | 
-| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Wang Chunhui | Chen Yaoye | Win | W+R | 7.5 | 3522 | 0 | 
-| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Cheng Jiaye | Chen Yaoye | Win | W+R | 7.5 | 3522 | 6 | 
+| 2023-02-25 | 第13期中国竜星戦予選 | Chen Yaoye | Tong Mengcheng | Lose | W+R | 7.5 | 3525 | 4 | 
+| 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Wang Chunhui | Chen Yaoye | Win | W+R | 7.5 | 3521 | 0 | 
+| 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Cheng Jiaye | Chen Yaoye | Win | W+R | 7.5 | 3521 | 5 | 
 | 2023-02-12 | 第24回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Wang Zejin | Win | B+R | 7.5 | 3516 | 7 | 
 | 2023-02-11 | 第24回中国囲碁甲級リーグプレーオフ | Wang Zejin | Chen Yaoye | Lose | B+R | 7.5 | 3509 | -9 | 
 | 2023-02-10 | 第24回中国囲碁甲級リーグプレーオフ | Wang Chuxuan | Chen Yaoye | Lose | B+R | 7.5 | 3518 | -12 | 
@@ -27,11 +28,11 @@
 | 2022-10-10 | 第2回湾区杯中国囲碁大棋士戦2回戦 | Chen Yaoye | Tang Weixing | Lose | W+R | 7.5 | 3517 | -15 | 
 | 2022-10-09 | 第2回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Chen Yaoye | Win | W+¼ | 7.5 | 3532 | 40 | 
 | 2022-09-28 | 第23期阿含・桐山杯中国早碁戦予選 | Liao Yuanhe | Chen Yaoye | Lose | B+¾ | 7.5 | 3492 | -38 | 
-| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Li Weiqing | Chen Yaoye | Win | W+R | 7.5 | 3530 | 7 | 
-| 2022-09-14 | 第27回三星火災杯中国予選 | Li Xuanhao | Chen Yaoye | Lose | B+2.5 | 6.5 | 3523 | -4 | 
-| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Chen Yaoye | Lose | B+R | 7.5 | 3527 | -7 | 
-| 2022-09-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Chen Yaoye | Win | W+R | 7.5 | 3534 | 24 | 
-| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Byun Sangil | Lose | W+R | 7.5 | 3510 | 7 | 
+| 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Li Weiqing | Chen Yaoye | Win | W+R | 7.5 | 3530 | 8 | 
+| 2022-09-14 | 第27回三星火災杯中国予選 | Li Xuanhao | Chen Yaoye | Lose | B+2.5 | 6.5 | 3522 | -4 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Chen Yaoye | Lose | B+R | 7.5 | 3526 | -7 | 
+| 2022-09-11 | 第24回中国囲碁甲級リーグ | Lian Xiao | Chen Yaoye | Win | W+R | 7.5 | 3533 | 24 | 
+| 2022-09-09 | 第24回中国囲碁甲級リーグ | Chen Yaoye | Byun Sangil | Lose | W+R | 7.5 | 3509 | 6 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Gu Zihao | Chen Yaoye | Lose | B+R | 7.5 | 3503 | -30 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Win | W+R | 7.5 | 3533 | 92 | 
 | 2022-08-10 | 第24回中国囲碁甲級リーグ | Wang Zheyu | Chen Yaoye | Win | W+R | 7.5 | 3441 | 0 | 
@@ -55,8 +56,8 @@
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Mi Yuting | Win | B+R | 7.5 | 3531 | 14 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Yaoye | Lose | B+R | 7.5 | 3517 | -6 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Win | W+¼ | 7.5 | 3523 | 61 | 
-| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Lose | W+R | 7.5 | 3462 | 17 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3445 | 12 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Lose | W+R | 7.5 | 3462 | 18 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3444 | 11 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Win | B+¾ | 7.5 | 3433 | 19 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Win | W+R | 7.5 | 3414 | 3 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | Lose | B+R | 7.5 | 3411 | -26 | 
@@ -97,8 +98,8 @@
 | 2020-06-14 | 第19回西南棋王戦1回戦 | Li Xuanhao | Chen Yaoye | Lose | B+R | 7.5 | 3549 | -24 | 
 | 2020-05-20 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Gu Zihao | Chen Yaoye | Win | W+¼ | 7.5 | 3573 | -35 | 
 | 2020-04-14 | 第25回LG杯中国予選 | Chen Yaoye | Xie Ke | Lose | W+6.5 | 6.5 | 3608 | -1 | 
-| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Tong Mengcheng | Chen Yaoye | Lose | B+R | 7.5 | 3609 | -8 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Chen Yaoye | Mi Yuting | Win | B+R | 7.5 | 3617 | missing |
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Tong Mengcheng | Chen Yaoye | Lose | B+R | 7.5 | 3609 | -7 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Chen Yaoye | Mi Yuting | Win | B+R | 7.5 | 3616 | missing |
 
 
 

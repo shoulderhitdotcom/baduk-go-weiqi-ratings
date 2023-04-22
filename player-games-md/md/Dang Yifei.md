@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-22 | 第18回倡棋杯中国プロ囲碁選手権戦3回戦 | Dang Yifei | Ke Jie | Lose | W+R | 7.5 | 3647 | 2 | 
 | 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Lian Xiao | Win | B+R | 7.5 | 3645 | -1 | 
 | 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Tan Xiao | Dang Yifei | Win | W+R | 7.5 | 3646 | -3 | 
 | 2023-04-16 | 第37期中国囲碁天元戦挑戦手合三番勝負第2局 | Mi Yuting | Dang Yifei | Lose | B+¾ | 7.5 | 3649 | -5 | 
@@ -43,8 +44,8 @@
 | 2022-09-27 | 第23期阿含・桐山杯中国早碁戦予選 | Yi Lingtao | Dang Yifei | Win | W+R | 7.5 | 3632 | -3 | 
 | 2022-09-22 | 第24回中国囲碁甲級リーグ | Wang Xinghao | Dang Yifei | Lose | B+R | 7.5 | 3635 | 0 | 
 | 2022-09-20 | 第24回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+R | 7.5 | 3635 | -4 | 
-| 2022-09-18 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Dang Yifei | Win | W+R | 7.5 | 3639 | -2 | 
-| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Dang Yifei | Lose | B+R | 7.5 | 3641 | 23 | 
+| 2022-09-18 | 第24回中国囲碁甲級リーグ | Cao Xiaoyang | Dang Yifei | Win | W+R | 7.5 | 3639 | -1 | 
+| 2022-09-13 | 2022CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Dang Yifei | Lose | B+R | 7.5 | 3640 | 22 | 
 | 2022-08-25 | 第24回中国囲碁甲級リーグ | Huang Yunsong | Dang Yifei | Win | W+R | 7.5 | 3618 | -12 | 
 | 2022-08-20 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Zheng Zaixiang | Dang Yifei | Lose | B+R | 7.5 | 3630 | -36 | 
 | 2022-08-11 | 第24回中国囲碁甲級リーグ | Kim Myounghoon | Dang Yifei | Win | W+R | 7.5 | 3666 | 69 | 
@@ -87,8 +88,8 @@
 | 2021-08-26 | 第12期中国竜星戦予選 | Zhang Qiang | Dang Yifei | Win | W+R | 7.5 | 3571 | 22 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Win | W+R | 6.5 | 3549 | 11 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Win | W+R | 6.5 | 3538 | 23 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3515 | 15 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3500 | 15 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3515 | 16 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3499 | 14 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | Lose | B+¾ | 7.5 | 3485 | -2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+¾ | 7.5 | 3487 | 9 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Win | W+R | 7.5 | 3478 | -11 | 

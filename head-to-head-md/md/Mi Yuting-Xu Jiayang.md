@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Mi Yuting Vs Xu Jiayang** | **Mi Yuting Streak** | **Xu Jiayang Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-22 | 第18回倡棋杯中国プロ囲碁選手権戦3回戦 | Mi Yuting | Xu Jiayang | B+R | 7.5 | 7:4 | 1 | 0 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | W+T | 7.5 | 6:4 | 0 | 3 | 
 | 2023-04-11 | 第19回アジア競技大会中国予選 | Mi Yuting | Xu Jiayang | W+0.02 | 7.5 | 6:3 | 0 | 2 | 
 | 2023-02-07 | 第24回中国囲碁甲級リーグ | Xu Jiayang | Mi Yuting | B+R | 7.5 | 6:2 | 0 | 1 | 

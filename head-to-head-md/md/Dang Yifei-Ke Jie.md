@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Dang Yifei Vs Ke Jie** | **Dang Yifei Streak** | **Ke Jie Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-24 | 第28回LG杯中国予選 | Dang Yifei | Ke Jie | W+R | 6.5 | 2:8 | 0 | 2 | 
 | 2023-04-22 | 第18回倡棋杯中国プロ囲碁選手権戦3回戦 | Dang Yifei | Ke Jie | W+R | 7.5 | 2:7 | 0 | 1 | 
 | 2022-08-03 | 第24回中国囲碁甲級リーグ | Dang Yifei | Ke Jie | B+R | 7.5 | 2:6 | 1 | 0 | 
 | 2021-12-05 | 2021CCTV杯中国囲棋電視快棋戦決勝 | Dang Yifei | Ke Jie | W+R | 7.5 | 1:6 | 0 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Fujisawa Rina Vs Suzuki Ayumi** | **Fujisawa Rina Streak** | **Suzuki Ayumi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-24 | 第10期会津中央病院・女流立葵杯1回戦 | Fujisawa Rina | Suzuki Ayumi | B+R | 6.5 | 10:1 | 4 | 0 | 
 | 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | B+R | 6.5 | 9:1 | 3 | 0 | 
 | 2020-07-29 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Suzuki Ayumi | B+8.5 | 6.5 | 8:1 | 2 | 0 | 
 | 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina | W+0.5 | 6.5 | 7:1 | 1 | 0 | 

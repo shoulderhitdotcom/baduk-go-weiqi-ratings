@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-25 | 第28回LG杯韓国予選 | Park Yeonghun | Park Sangjin | Win | W+R | 6.5 | 3390 | 11 | 
 | 2023-04-24 | 第28回LG杯韓国予選 | Park Sangjin | Kang Dongyun | Win | B+R | 6.5 | 3379 | 2 | 
 | 2023-04-22 | 2022-2023韓国囲碁リーグ | Park Sangjin | Jin Siyoung | Lose | W+R | 6.5 | 3377 | -6 | 
 | 2023-04-06 | 第28回GSカルテックス杯プロ棋戦1回戦 | Park Sangjin | Yang Wooseok | Win | B+3.5 | 6.5 | 3383 | -16 | 

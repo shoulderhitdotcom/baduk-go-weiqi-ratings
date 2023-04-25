@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-25 | 第28回LG杯韓国予選 |  | Kim Myounghoon | Win | W+R | 6.5 | 3583 | 2 | 
 | 2023-04-24 | 第28回LG杯韓国予選 | Kim Myounghoon | Song Jihoon | Win | B+0.5 | 6.5 | 3581 | 4 | 
 | 2023-04-23 | 2022-2023韓国囲碁リーグ | Kim Myounghoon | Hong Seongji | Win | B+8.5 | 6.5 | 3577 | 1 | 
 | 2023-04-20 | 第28回LG杯韓国予選 | Kim Myounghoon | Kim Cheayoung | Win | B+R | 6.5 | 3576 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-25 | 第28回LG杯中国予選 | Ke Jie | Tuo Jiaxi | Win | B+R | 6.5 | 3749 | 0 | 
 | 2023-04-24 | 第28回LG杯中国予選 | Dang Yifei | Ke Jie | Win | W+R | 6.5 | 3749 | 3 | 
 | 2023-04-22 | 第18回倡棋杯中国プロ囲碁選手権戦3回戦 | Dang Yifei | Ke Jie | Win | W+R | 7.5 | 3746 | 3 | 
 | 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 3743 | 8 | 

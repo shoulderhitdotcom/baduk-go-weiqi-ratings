@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hsu Chiayuan Vs Yu Zhengqi** | **Hsu Chiayuan Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-24 | 第48期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | W+R | 6.5 | 15:5 | 0 | 1 | 
 | 2023-04-13 | 第78期本因坊戦リーグ | Hsu Chiayuan | Yu Zhengqi | B+R | 6.5 | 15:4 | 5 | 0 | 
 | 2022-05-09 | 第47期棋聖戦Sリーグ | Yu Zhengqi | Hsu Chiayuan | W+R | 6.5 | 14:4 | 4 | 0 | 
 | 2022-04-07 | 第60期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Yu Zhengqi | B+R | 6.5 | 13:4 | 3 | 0 | 

@@ -49,8 +49,8 @@
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3238 | 11 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Zhan Ying | Win | B+R | 7.5 | 3227 | 3 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3224 | 9 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3215 | 12 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3203 | -4 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3215 | 11 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Fu Jianheng | Zhou Hongyu | Lose | B+R | 7.5 | 3204 | -3 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Zhou Hongyu |  | Win | B+1¾ | 7.5 | 3207 | -8 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 | Xu Yidi | Zhou Hongyu | Lose | B+1¾ | 7.5 | 3215 | -11 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Win | B+R | 7.5 | 3226 | 17 | 

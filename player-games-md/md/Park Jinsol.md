@@ -28,9 +28,9 @@
 | 2023-02-28 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Jinsol | Byun Sangil | Lose | W+R | 6.5 | 3457 | 17 | 
 | 2023-02-24 | 2022-2023韓国囲碁リーグ | Park Jinsol | Cho Hanseung | Lose | W+R | 6.5 | 3440 | 4 | 
 | 2023-02-18 | 2022-2023韓国囲碁リーグ | Park Jinsol | Lee Yeon | Lose | W+R | 6.5 | 3436 | -32 | 
-| 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | Lose | W+R | 6.5 | 3468 | 1 | 
-| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Jian Jingting | Park Jinsol | Lose | B+R | 6.5 | 3467 | 0 | 
-| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3467 | -19 | 
+| 2023-02-11 | 2023YK建機杯予選 | Park Jinsol | Weon Seongjin | Lose | W+R | 6.5 | 3468 | 0 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Jian Jingting | Park Jinsol | Lose | B+R | 6.5 | 3468 | 0 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Win | W+R | 6.5 | 3468 | -18 | 
 | 2023-02-06 | 第24回マキシムコーヒー杯入神最強戦2回戦 | Park Jinsol | Lee Wonyoung | Lose | W+R | 6.5 | 3486 | -1 | 
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Lose | B+R | 6.5 | 3487 | 6 | 
 | 2023-01-28 | 2022-2023韓国囲碁リーグ | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3481 | 8 | 

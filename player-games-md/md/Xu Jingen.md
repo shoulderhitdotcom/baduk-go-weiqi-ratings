@@ -31,8 +31,8 @@
 | 2023-02-20 | 第4期名人戦（台湾）2回戦 | Xu Jingen | Chen Qirui | Lose | W+R | 6.5 | 3235 | 14 | 
 | 2023-02-19 | 2022-2023韓国囲碁リーグ | Kim Jiseok | Xu Jingen | Win | W+1.5 | 6.5 | 3221 | -4 | 
 | 2023-02-17 | 第22期天元戦（台湾）リーグ | Xu Jingen | Lai Junfu | Lose | W+R | 6.5 | 3225 | -9 | 
-| 2023-02-10 | 第22期天元戦（台湾）リーグ | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3234 | 9 | 
-| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Lose | W+R | 6.5 | 3225 | -40 | 
+| 2023-02-10 | 第22期天元戦（台湾）リーグ | Chen Qirui | Xu Jingen | Win | W+R | 6.5 | 3234 | 8 | 
+| 2023-02-08 | 2022-2023韓国囲碁リーグ  | Xu Jingen | Park Jinsol | Lose | W+R | 6.5 | 3226 | -39 | 
 | 2023-02-07 | 第22期天元戦（台湾）リーグ | Lin Junyan | Xu Jingen | Win | W+R | 6.5 | 3265 | 4 | 
 | 2023-02-06 | 第4期名人戦（台湾）1回戦 |  | Xu Jingen | Win | W+R | 6.5 | 3261 | 8 | 
 | 2023-01-18 | 第22期天元戦（台湾）勝部3回戦 | Xu Jingen | Lin Shuyang | Win | B+0.5 | 6.5 | 3253 | 0 | 

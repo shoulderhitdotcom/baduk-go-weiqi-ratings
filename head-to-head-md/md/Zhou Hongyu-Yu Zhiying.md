@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Zhou Hongyu Vs Yu Zhiying** | **Zhou Hongyu Streak** | **Yu Zhiying Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-04-29 | 2023中国祁紅女子囲碁世界冠軍争覇戦第2局 | Zhou Hongyu | Yu Zhiying | B+R | 7.5 | 5:9 | 2 | 0 | 
+| 2023-04-28 | 2023中国祁紅女子囲碁世界冠軍争覇戦第1局 | Yu Zhiying | Zhou Hongyu | W+R | 7.5 | 4:9 | 1 | 0 | 
 | 2023-04-03 | 第3期全国女子囲碁国手戦決勝 | Zhou Hongyu | Yu Zhiying | W+1¼ | 7.5 | 3:9 | 0 | 6 | 
 | 2023-03-18 | 第18回倡棋杯予選 | Zhou Hongyu | Yu Zhiying | W+R | 7.5 | 3:8 | 0 | 5 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | W+R | 7.5 | 3:7 | 0 | 4 | 

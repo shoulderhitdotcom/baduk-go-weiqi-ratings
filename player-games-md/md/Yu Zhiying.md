@@ -7,42 +7,43 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-04-28 | 2023中国祁紅女子囲碁世界冠軍争覇戦第1局 | Yu Zhiying | Zhou Hongyu | Lose | W+R | 7.5 | 3317 | -6 | 
-| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Xu Jiayang | Lose | W+R | 7.5 | 3323 | -4 | 
-| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng | Yu Zhiying | Win | W+R | 7.5 | 3327 | 15 | 
+| 2023-04-29 | 2023中国祁紅女子囲碁世界冠軍争覇戦第2局 | Zhou Hongyu | Yu Zhiying | Lose | B+R | 7.5 | 3310 | -6 | 
+| 2023-04-28 | 2023中国祁紅女子囲碁世界冠軍争覇戦第1局 | Yu Zhiying | Zhou Hongyu | Lose | W+R | 7.5 | 3316 | -6 | 
+| 2023-04-20 | 第18回倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Xu Jiayang | Lose | W+R | 7.5 | 3322 | -4 | 
+| 2023-04-19 | 第18回倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng | Yu Zhiying | Win | W+R | 7.5 | 3326 | 14 | 
 | 2023-04-03 | 第3期全国女子囲碁国手戦決勝 | Zhou Hongyu | Yu Zhiying | Win | W+1¼ | 7.5 | 3312 | 19 | 
 | 2023-04-02 | 第3期全国女子囲碁国手戦準決勝 | Zhao Yifei | Yu Zhiying | Win | W+1¼ | 7.5 | 3293 | -3 | 
 | 2023-04-01 | 第3期全国女子囲碁国手戦2回戦 | Yu Zhiying | Wang Chenxing | Win | B+R | 7.5 | 3296 | 17 | 
-| 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 3279 | -12 | 
-| 2023-03-26 | 第5回夢百合杯中国予選 | Yu Zhiying | Li Xiaoxi | Win | B+R | 7.5 | 3291 | 0 | 
-| 2023-03-25 | 第5回夢百合杯中国予選 | Wang Yubo | Yu Zhiying | Win | W+¼ | 7.5 | 3291 | -10 | 
-| 2023-03-23 | 第5回夢百合杯中国予選 | Yu Zhiying | Wang Xiangyun | Win | B+R | 7.5 | 3301 | -10 | 
+| 2023-03-31 | 第3期全国女子囲碁国手戦1回戦 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 3279 | -11 | 
+| 2023-03-26 | 第5回夢百合杯中国予選 | Yu Zhiying | Li Xiaoxi | Win | B+R | 7.5 | 3290 | 0 | 
+| 2023-03-25 | 第5回夢百合杯中国予選 | Wang Yubo | Yu Zhiying | Win | W+¼ | 7.5 | 3290 | -10 | 
+| 2023-03-23 | 第5回夢百合杯中国予選 | Yu Zhiying | Wang Xiangyun | Win | B+R | 7.5 | 3300 | -11 | 
 | 2023-03-18 | 第18回倡棋杯予選 | Yu Zhiying | Wang Shiyi | Lose | W+R | 7.5 | 3311 | 0 | 
-| 2023-03-18 | 第18回倡棋杯予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3311 | -7 | 
-| 2023-03-07 | 第37期中国囲碁天元戦予選 | Yu Zhiying | Zhang Tao | Lose | W+R | 7.5 | 3318 | 98 | 
+| 2023-03-18 | 第18回倡棋杯予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3311 | -6 | 
+| 2023-03-07 | 第37期中国囲碁天元戦予選 | Yu Zhiying | Zhang Tao | Lose | W+R | 7.5 | 3317 | 97 | 
 | 2022-10-28 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Yu Zhiying | Lee Hyungjin | Lose | W+1.5 | 6.5 | 3220 | 5 | 
 | 2022-09-02 | 第27回三星火災杯中国予選 | Rui Naiwei | Yu Zhiying | Win | W+8.5 | 6.5 | 3215 | 2 | 
 | 2022-08-30 | 第27回三星火災杯中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 6.5 | 3213 | 23 | 
-| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Yu Zhiying | Tan Xiao | Lose | W+R | 7.5 | 3190 | -40 | 
-| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Lose | W+1.5 | 6.5 | 3230 | -23 | 
+| 2022-08-19 | 第1回衢州・爛柯杯世界囲碁公開戦中国予選 | Yu Zhiying | Tan Xiao | Lose | W+R | 7.5 | 3190 | -39 | 
+| 2022-08-12 | 第27回三星火災杯中国予選 | Yu Zhiying | Fang Ruoxi | Lose | W+1.5 | 6.5 | 3229 | -24 | 
 | 2022-07-31 | 第5回呉清源杯世界女子囲碁選手権2回戦 | Yu Zhiying | Hei Jiajia | Lose | W+1¼ | 7.5 | 3253 | -21 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 3274 | 0 | 
 | 2022-04-21 | 2022年アジア競技大会中国予選 | Wu Yiming | Yu Zhiying | Win | W+R | 7.5 | 3274 | 12 | 
 | 2022-04-19 | 2022年アジア競技大会中国予選 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3262 | 5 | 
 | 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 3257 | 0 | 
-| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3257 | -17 | 
-| 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3274 | 0 | 
-| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 3274 | 14 | 
-| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Lose | W+R | 6.5 | 3260 | -19 | 
-| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yu Zhiying | Fan Yin | Lose | W+R | 7.5 | 3279 | -42 | 
-| 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Cho Hunhyun | Yu Zhiying | Win | W+1.5 | 6.5 | 3321 | 12 | 
-| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 3309 | -13 | 
+| 2022-04-18 | 2022年アジア競技大会中国予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3257 | -16 | 
+| 2022-04-14 | 2022年アジア競技大会中国予選 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3273 | 0 | 
+| 2022-04-14 | 2022年アジア競技大会中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 3273 | 14 | 
+| 2022-04-08 | 第4回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Ueno Asami | Lose | W+R | 6.5 | 3259 | -19 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Yu Zhiying | Fan Yin | Lose | W+R | 7.5 | 3278 | -42 | 
+| 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Cho Hunhyun | Yu Zhiying | Win | W+1.5 | 6.5 | 3320 | 12 | 
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 3308 | -14 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Yu Zhiying | Lee Changho | Win | B+R | 6.5 | 3322 | 38 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3284 | 10 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Yu Zhiying | Win | W+1¼ | 7.5 | 3274 | 2 | 
-| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 3272 | 8 | 
-| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3264 | 10 | 
-| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 |  | Yu Zhiying | Lose | B+R | 7.5 | 3254 | -10 | 
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 3272 | 9 | 
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3263 | 10 | 
+| 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 |  | Yu Zhiying | Lose | B+R | 7.5 | 3253 | -11 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Xu Yidi | Yu Zhiying | Win | W+R | 7.5 | 3264 | 9 | 
 | 2021-12-04 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 3255 | 3 | 
 | 2021-12-03 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 3252 | 0 | 
@@ -61,8 +62,8 @@
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Chu Keer | Win | B+R | 7.5 | 3264 | 18 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Huang Ziping | Win | B+R | 7.5 | 3246 | 0 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Tang Jiawen | Yu Zhiying | Win | W+R | 7.5 | 3246 | -3 | 
-| 2021-09-28 | 第18回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Zhao Yifei | Lose | W+3.5 | 7.5 | 3249 | -40 | 
-| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3289 | 31 | 
+| 2021-09-28 | 第18回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Zhao Yifei | Lose | W+3.5 | 7.5 | 3249 | -39 | 
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3288 | 30 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Lose | W+R | 7.5 | 3258 | 0 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Chen Zijian | Win | B+¾ | 7.5 | 3258 | 0 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3258 | 21 | 

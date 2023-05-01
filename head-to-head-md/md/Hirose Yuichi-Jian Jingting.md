@@ -5,9 +5,9 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hirose Yuichi vs Jian Jingting** | **Hirose Yuichi streak** | **Jian Jingting streak** | 
+| **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Hirose Yuichi Vs Jian Jingting** | **Hirose Yuichi Streak** | **Jian Jingting Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第2戦 | Hirose Yuichi | Jian Jingting | B+5.5 | 6.5 | 1:0 | 1 | 0 |
+| 2023-04-30 | 2022-2023韓国囲碁リーグ | Hirose Yuichi | Jian Jingting | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Byun Sangil Vs Lee Changho** | **Byun Sangil Streak** | **Lee Changho Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-01 | 2023YK建機杯リーグ | Byun Sangil | Lee Changho | B+R | 6.5 | 8:1 | 8 | 0 | 
 | 2021-05-18 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Byun Sangil | W+2.5 | 6.5 | 7:1 | 7 | 0 | 
 | 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | B+R | 6.5 | 6:1 | 6 | 0 | 
 | 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | B+R | 6.5 | 5:1 | 5 | 0 | 

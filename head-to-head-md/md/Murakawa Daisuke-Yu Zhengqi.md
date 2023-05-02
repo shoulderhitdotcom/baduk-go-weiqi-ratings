@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Murakawa Daisuke Vs Yu Zhengqi** | **Murakawa Daisuke Streak** | **Yu Zhengqi Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-01 | 第48期碁聖戦準決勝 | Murakawa Daisuke | Yu Zhengqi | W+R | 6.5 | 2:14 | 0 | 11 | 
 | 2022-10-17 | 第66期関西棋院第一位決定戦挑戦手合三番勝負第2局  | Yu Zhengqi | Murakawa Daisuke | B+R | 6.5 | 2:13 | 0 | 10 | 
 | 2022-09-29 | 第66期関西棋院第一位決定戦挑戦手合三番勝負第1局  | Murakawa Daisuke | Yu Zhengqi | W+R | 6.5 | 2:12 | 0 | 9 | 
 | 2022-07-07 | 第47期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | W+R | 6.5 | 2:11 | 0 | 8 | 

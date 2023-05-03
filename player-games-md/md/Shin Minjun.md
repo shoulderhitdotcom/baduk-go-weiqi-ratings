@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-03 | 2023YK建機杯リーグ | Shin Minjun | Lee Changho | Win | B+R | 6.5 | 3609 | 0 | 
 | 2023-05-02 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3609 | 2 | 
 | 2023-04-27 | 第4期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3607 | 0 | 
 | 2023-04-26 | 2023YK建機杯リーグ | Shin Minjun | Park Junghwan | Win | B+R | 6.5 | 3607 | 0 | 

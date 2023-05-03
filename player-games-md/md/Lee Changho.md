@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-03 | 2023YK建機杯リーグ | Shin Minjun | Lee Changho | Lose | B+R | 6.5 | 3270 | -2 | 
 | 2023-05-01 | 2023YK建機杯リーグ | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3272 | 14 | 
 | 2023-04-23 | 第2期韓国棋院選手権戦グループリーグ復活戦 | Lee Changho | Kim Hyeongwoo | Win | B+R | 6.5 | 3258 | 11 | 
 | 2023-04-12 | 2023YK建機杯リーグ | Weon Seongjin | Lee Changho | Lose | B+R | 6.5 | 3247 | -21 | 
@@ -15,9 +16,9 @@
 | 2023-03-20 | 2023YK建機杯リーグ | Lee Changho |  | Lose | W+R | 6.5 | 3287 | -4 | 
 | 2023-03-15 | 2023YK建機杯リーグ | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 3291 | 1 | 
 | 2023-03-10 | 第10回大舟杯プロシニア最強者戦1回戦 | Gueon Hyojin | Lee Changho | Lose | B+R | 6.5 | 3290 | -7 | 
-| 2023-02-19 | 第2期韓国棋院選手権戦グループリーグ勝者戦 | Lee Changho | Weon Seongjin | Lose | W+R | 6.5 | 3297 | 68 | 
-| 2023-01-18 | 第10回大舟杯プロシニア最強者戦予選 | Lee Changho | Kim Chanwu | Win | B+R | 6.5 | 3229 | 0 | 
-| 2023-01-07 | 第2期韓国棋院選手権戦グループリーグ | Park Minkyu | Lee Changho | Win | W+R | 6.5 | 3229 | 4 | 
+| 2023-02-19 | 第2期韓国棋院選手権戦グループリーグ勝者戦 | Lee Changho | Weon Seongjin | Lose | W+R | 6.5 | 3297 | 67 | 
+| 2023-01-18 | 第10回大舟杯プロシニア最強者戦予選 | Lee Changho | Kim Chanwu | Win | B+R | 6.5 | 3230 | 0 | 
+| 2023-01-07 | 第2期韓国棋院選手権戦グループリーグ | Park Minkyu | Lee Changho | Win | W+R | 6.5 | 3230 | 5 | 
 | 2022-10-27 | 第27回三星火災杯世界囲碁マスターズ1回戦 | Lee Changho | Tan Xiao | Lose | W+R | 6.5 | 3225 | 34 | 
 | 2022-10-05 | 第2期韓国棋院選手権戦予選 | An Sungjoon | Lee Changho | Lose | B+R | 6.5 | 3191 | -61 | 
 | 2022-08-30 | 第27回三星火災杯韓国予選 | Kim Seungjun | Lee Changho | Win | W+R | 6.5 | 3252 | 4 | 
@@ -36,9 +37,9 @@
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3296 | 59 | 
 | 2022-02-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Changho | Win | W+0.5 | 6.5 | 3237 | -3 | 
 | 2022-02-15 | 第23回マキシムコーヒー杯入神最強戦2回戦 | An Sungjoon | Lee Changho | Win | W+R | 6.5 | 3240 | 22 | 
-| 2022-02-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Seunghwa | Win | B+R | 6.5 | 3218 | -10 | 
-| 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Lose | B+R | 6.5 | 3228 | -8 | 
-| 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+R | 6.5 | 3236 | -15 | 
+| 2022-02-13 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Seunghwa | Win | B+R | 6.5 | 3218 | -11 | 
+| 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Lose | B+R | 6.5 | 3229 | -8 | 
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+R | 6.5 | 3237 | -14 | 
 | 2022-01-18 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hyeyeon | Win | B+R | 6.5 | 3251 | 0 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Lose | W+R | 6.5 | 3251 | -3 | 
 | 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Liu Xiaoguang | Lee Changho | Win | W+5.5 | 6.5 | 3254 | 4 | 

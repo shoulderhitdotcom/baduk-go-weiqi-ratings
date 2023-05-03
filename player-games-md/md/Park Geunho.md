@@ -41,9 +41,9 @@
 | 2023-01-18 | 第6回クラウン・ヘテ杯3回戦 | Park Geunho |  | Win | B+R | 6.5 | 3541 | 0 | 
 | 2023-01-15 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Geunho |  | Win | B+R | 6.5 | 3541 | 46 | 
 | 2023-01-13 | 2022-2023韓国囲碁リーグ | Han Seungjoo | Park Geunho | Win | W+R | 6.5 | 3495 | 0 | 
-| 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Win | B+R | 6.5 | 3495 | 0 | 
-| 2023-01-11 | 第6回クラウン・ヘテ杯2回戦 | Kim Kyeongeun | Park Geunho | Win | W+R | 6.5 | 3495 | -11 | 
-| 2023-01-07 | 2022-2023韓国囲碁リーグ | Park Geunho | Lee Jihyun | Lose | W+T | 6.5 | 3506 | 17 | 
+| 2023-01-13 | 2022-2023韓国囲碁リーグ | Park Geunho | Kang Dongyun | Win | B+R | 6.5 | 3495 | -1 | 
+| 2023-01-11 | 第6回クラウン・ヘテ杯2回戦 | Kim Kyeongeun | Park Geunho | Win | W+R | 6.5 | 3496 | -11 | 
+| 2023-01-07 | 2022-2023韓国囲碁リーグ | Park Geunho | Lee Jihyun | Lose | W+T | 6.5 | 3507 | 18 | 
 | 2022-12-30 | 2022-2023韓国囲碁リーグ | Park Geunho | Park Jinsol | Win | B+R | 6.5 | 3489 | 0 | 
 | 2022-12-22 | 第6回クラウン・ヘテ杯1回戦 |  | Park Geunho | Win | W+R | 6.5 | 3489 | -1 | 
 | 2022-12-17 | 第2期韓国棋院選手権戦グループリーグ | Park Geunho | Gon Jiwoo | Win | B+R | 6.5 | 3490 | 3 | 
@@ -76,8 +76,8 @@
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Park Geunho | Song Jihoon | Win | B+R | 6.5 | 3404 | 13 | 
 | 2022-02-20 | 2021-2022韓国囲碁リーグ | Park Geunho | Weon Seongjin | Lose | W+R | 6.5 | 3391 | 1 | 
 | 2022-02-13 | 2021-2022韓国囲碁リーグ | An Sungjoon | Park Geunho | Win | W+0.5 | 6.5 | 3390 | 12 | 
-| 2022-02-07 | 2022YK建機杯予選 | Park Geunho | Cho Hanseung | Win | B+R | 6.5 | 3378 | -36 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Win | W+R | 6.5 | 3414 | -28 | 
+| 2022-02-07 | 2022YK建機杯予選 | Park Geunho | Cho Hanseung | Win | B+R | 6.5 | 3378 | -37 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Win | W+R | 6.5 | 3415 | -27 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Park Geunho | Lose | B+2.5 | 6.5 | 3442 | -16 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Lose | W+R | 6.5 | 3458 | -8 | 
 | 2022-01-01 | 2021-2022韓国囲碁リーグ | Park Geunho | Park Junghwan | Lose | W+R | 6.5 | 3466 | 1 | 

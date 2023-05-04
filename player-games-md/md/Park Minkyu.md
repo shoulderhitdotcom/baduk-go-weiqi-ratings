@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-04 | 第6期韓国竜星戦1回戦 | Park Minkyu | Oh Yujin | Lose | W+R | 6.5 | 3420 | -11 | 
 | 2023-05-03 | 第4期ソパルコサノル最高棋士決定戦リーグ | Choi Jeong | Park Minkyu | Win | W+R | 6.5 | 3431 | 50 | 
 | 2023-04-27 | 2022-2023韓国囲碁リーグ | Park Minkyu | Park Geunho | Win | B+R | 6.5 | 3381 | 0 | 
 | 2023-04-26 | 第4期ソパルコサノル最高棋士決定戦リーグ | Park Minkyu | Weon Seongjin | Win | B+6.5 | 6.5 | 3381 | 0 | 
@@ -28,9 +29,9 @@
 | 2023-02-03 | 2022-2023韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3307 | -48 | 
 | 2023-01-29 | 2022-2023韓国囲碁リーグ | Park Minkyu | Hirose Yuichi | Lose | W+R | 6.5 | 3355 | -23 | 
 | 2023-01-19 | 第4期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Park Minkyu | Win | W+R | 6.5 | 3378 | 17 | 
-| 2023-01-12 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Park Joonhoon | Win | B+R | 6.5 | 3361 | 24 | 
-| 2023-01-11 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Park Minkyu | Win | W+R | 6.5 | 3337 | 20 | 
-| 2023-01-07 | 第2期韓国棋院選手権戦グループリーグ | Park Minkyu | Lee Changho | Lose | W+R | 6.5 | 3317 | -61 | 
+| 2023-01-12 | 第4期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Park Joonhoon | Win | B+R | 6.5 | 3361 | 25 | 
+| 2023-01-11 | 2022-2023韓国囲碁リーグ  | Chen Qirui | Park Minkyu | Win | W+R | 6.5 | 3336 | 20 | 
+| 2023-01-07 | 第2期韓国棋院選手権戦グループリーグ | Park Minkyu | Lee Changho | Lose | W+R | 6.5 | 3316 | -62 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Hong Seongji | Park Minkyu | Lose | B+1.5 | 6.5 | 3378 | 0 | 
 | 2022-12-31 | 2022-2023韓国囲碁リーグ | Park Minkyu | Byun Sangil | Lose | W+R | 6.5 | 3378 | 0 | 
 | 2022-12-29 | 2022-2023韓国囲碁リーグ | Kang Seungmin | Park Minkyu | Win | W+R | 6.5 | 3378 | 19 | 
@@ -45,9 +46,9 @@
 | 2022-03-12 | 2021-2022韓国囲碁リーグ | Kim Changhoon | Park Minkyu | Win | W+R | 6.5 | 3403 | 21 | 
 | 2022-03-03 | 2021-2022韓国囲碁リーグ | Park Minkyu | Seol Hyunjun | Win | B+R | 6.5 | 3382 | 48 | 
 | 2022-02-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3334 | -22 | 
-| 2022-02-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3356 | -44 | 
-| 2022-02-03 | 2021-2022韓国囲碁リーグ | Park Minkyu | Cho Wankyu | Win | B+R | 6.5 | 3400 | -4 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Win | B+R | 6.5 | 3404 | 10 | 
+| 2022-02-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3356 | -43 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Park Minkyu | Cho Wankyu | Win | B+R | 6.5 | 3399 | -4 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Win | B+R | 6.5 | 3403 | 9 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Win | W+R | 6.5 | 3394 | 55 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Win | B+R | 6.5 | 3339 | 5 | 
 | 2021-12-31 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Minkyu | Lose | B+R | 6.5 | 3334 | -25 | 
@@ -66,8 +67,8 @@
 | 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Lose | B+R | 6.5 | 3296 | -23 | 
 | 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Lose | B+R | 6.5 | 3319 | 15 | 
 | 2021-04-07 | 第4期韓国竜星戦2回戦 | Lee Hyungjin | Park Minkyu | Win | W+R | 6.5 | 3304 | 51 | 
-| 2021-03-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Park Hamin | Win | B+R | 6.5 | 3253 | 92 | 
-| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Win | B+R | 6.5 | 3161 | 94 | 
+| 2021-03-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Park Hamin | Win | B+R | 6.5 | 3253 | 93 | 
+| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Win | B+R | 6.5 | 3160 | 93 | 
 | 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Minkyu | Lee Wondo | Win | B+0.5 | 6.5 | 3067 | 141 | 
 | 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 2926 | missing |
 

@@ -5,7 +5,7 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Comp** | **Black** | **White** | **Result** | **Date** | **Komi Fixed** | **Kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 第9回応氏杯世界選手権1回戦 | Xie Ke | Ali Jabarin | B+R | 2020-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wzOX%2FawIBuT32u8DgeeuSQ%3D%3D) | 
 | 第64期関西棋院第一位決定戦予選 | Ali Jabarin | Taniguchi Tooru | W+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mE69%2Flo11s76VLHtqK2zg%3D%3D) | 

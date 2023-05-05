@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game Result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-05 | 第4期聯電杯プロ囲碁戦予選 | Niu Shite | Bai Xinhui | Win | B+R | 6.5 | 3001 | 1 | 
 | 2023-05-04 | 2023新人王戦（台湾）予選 |  | Niu Shite | Win | W+R | 7.5 | 3000 | -15 | 
 | 2023-04-07 | 第28回LG杯台湾予選 | Xu Jingen | Niu Shite | Lose | B+R | 6.5 | 3015 | 0 | 
 | 2023-04-07 | 第28回LG杯台湾予選 |  | Niu Shite | Win | W+R | 6.5 | 3015 | 0 | 

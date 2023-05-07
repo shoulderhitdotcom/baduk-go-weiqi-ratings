@@ -501,8 +501,8 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 206 | [Furuya Yutaka](./player-games-md/md/Furuya Yutaka.md) | 2664 | -235195 | 10 | 4 | 古谷裕 | 
 | 207 | [](./player-games-md/md/.md) | 2663 | 2490 | 20 | 12 | 彭鐏徳 | 
 | 208 | [](./player-games-md/md/.md) | 2661 | 2295 | 18 | 5 | 李裕眞 | 
-| 209 | [](./player-games-md/md/.md) | 2646 | 2654 | 2 | 2 | 向井千瑛佐田篤史 | 
-| 210 | [](./player-games-md/md/.md) | 2646 | 2654 | 2 | 2 | 星合志保伊田篤史 | 
+| 209 | [](./player-games-md/md/.md) | 2646 | 2654 | 2 | 2 | 星合志保伊田篤史 | 
+| 210 | [](./player-games-md/md/.md) | 2646 | 2654 | 2 | 2 | 向井千瑛佐田篤史 | 
 | 211 | [Gao Yun](./player-games-md/md/Gao Yun.md) | 2642 | 2252 | 23 | 11 | 高昀 | 
 | 212 | [](./player-games-md/md/.md) | 2638 | 2406 | 16 | 14 | 李嘉馨 | 
 | 213 | [](./player-games-md/md/.md) | 2635 | 2532 | 7 | 4 | 周雨萱 | 

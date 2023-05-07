@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Ichiriki Ryo Vs Shibano Toramaru** | **Ichiriki Ryo Streak** | **Shibano Toramaru Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-06 | 第2回テイケイ杯俊英戦決勝三番勝負第2局  | Ichiriki Ryo | Shibano Toramaru | B+R | 6.5 | 15:10 | 4 | 0 | 
+| 2023-04-13 | 第78期本因坊戦リーグ  | Shibano Toramaru | Ichiriki Ryo | W+R | 6.5 | 14:10 | 3 | 0 | 
+| 2023-04-01 | 第2回テイケイ杯俊英戦決勝三番勝負第1局  | Shibano Toramaru | Ichiriki Ryo | W+R | 6.5 | 13:10 | 2 | 0 | 
 | 2023-03-10 | 第47期棋聖戦挑戦手合七番勝負第6局  | Ichiriki Ryo | Shibano Toramaru | B+R | 6.5 | 12:10 | 1 | 0 | 
 | 2023-03-03 | 第47期棋聖戦挑戦手合七番勝負第5局  | Shibano Toramaru | Ichiriki Ryo | B+R | 6.5 | 11:10 | 0 | 1 | 
 | 2023-02-17 | 第47期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Shibano Toramaru | B+R | 6.5 | 11:9 | 2 | 0 | 

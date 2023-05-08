@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Lian Xiao Vs Tan Xiao** | **Lian Xiao Streak** | **Tan Xiao Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-08 | 第1回衢州・爛柯杯世界囲碁公開戦3回戦 | Lian Xiao | Tan Xiao | W+R | 7.5 | 6:4 | 0 | 1 | 
 | 2023-02-15 | 第24回中国囲碁甲級リーグプレーオフ | Lian Xiao | Tan Xiao | B+¾ | 7.5 | 6:3 | 1 | 0 | 
 | 2023-02-14 | 第24回中国囲碁甲級リーグプレーオフ | Lian Xiao | Tan Xiao | W+R | 7.5 | 5:3 | 0 | 1 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | W+R | 7.5 | 5:2 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game Result** | **Komi** | **Cumulative Cho U Vs Ichiriki Ryo** | **Cho U Streak** | **Ichiriki Ryo Streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-05-08 | 第48期名人戦リーグ  | Cho U | Ichiriki Ryo | W+2.5 | 6.5 | 2:10 | 0 | 4 | 
 | 2020-06-29 | 第45期碁聖戦挑戦者決定戦 | Cho U | Ichiriki Ryo | W+4.5 | 6.5 | 2:9 | 0 | 3 | 
 | 2020-06-11 | 第45期棋聖戦Sリーグ | Cho U | Ichiriki Ryo | W+R | 6.5 | 2:8 | 0 | 2 | 
 | 2019-12-12 | 第45期名人戦リーグ | Ichiriki Ryo | Cho U | B+R | 6.5 | 2:7 | 0 | 1 | 
